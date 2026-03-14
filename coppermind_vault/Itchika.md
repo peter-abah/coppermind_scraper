@@ -1,0 +1,14 @@
+---
+species: "Kitsen"
+world: "Evershore"
+universe: "Cytoverse"
+introduced: "Defiant (book)|Defiant"
+---
+
+{{update|sky4}}
+**Itchika** is a [[kitsen]] general.{{book ref|sky4|4}}
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

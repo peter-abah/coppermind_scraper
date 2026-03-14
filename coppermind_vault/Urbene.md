@@ -1,0 +1,17 @@
+{{settlement
+|dominance=Eastern
+|nation=Final Empire
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+**Urbene** was a small village in the [[Eastern Dominance]] of the [[Final Empire]] on [[Scadrial]].{{book ref|mb2|15}} It lies about halfway between [[Erlac]] and the [[Conventical of Seran]].{{map ref|Final Empire 1021}}
+
+The village consisted of ten large wooden hovels built in a loose circle with a well in the center, and a [[noble]]man's manor a little farther up the valley. The [[skaa]] of Urbene were herdsmen. The village itself lay in a quiet hollow amid the rising landscape. It was described as picturesque.{{book ref|mb2|15}}
+
+[[Sazed]] visited Urbene on his way to [[Luthadel]]. He found the village full of corpses of skaa that had died from starvation and dehydration. They were too scared to leave their hovels as the [[mists]] were out during the day, and had already killed skaa like [[Jell]] who went outside. Only one of them survived because of cannibalism, and this crazed villager explained to Sazed what had happened there.{{book ref|mb2|15}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:00, 21 March 2023 (UTC)}}
+{{Mistborn|Era 1}}

@@ -1,0 +1,96 @@
+{{event
+|effects=[[Ascension of the Lord Ruler]]
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+**Classical Scadrial** or the **classical era of Scadrial** refers to the period of [[Scadrial]]'s history directly preceding the [[Ascension of the Lord Ruler]] and the beginning of the [[Final Empire]].
+
+## Geography and Ecology
+
+{{quote| The great mountains to the north -- with their bald snowcaps and forested mantles -- stand like watchful gods over this land of green fertility. My own lands to the south are mostly flat; I think that they might look less dreary if there were a few mountains to vary the terrain. |Alendi's logbook.||size=320px}}
+
+Classical Scadrial had a blue sky and a yellow sun. This ended with the Lord Ruler's ascension, which marked the end of the Classical age of Scadrial.
+
+During this time Scadrial also had many of the same animals and plants as Yolen, including horses, flowers and dogs. The [[Deepness]], which arrived at the end of the era, and the Lord Ruler's Ascension, destroyed many species.{{epigraph ref|mb3|6}}{{epigraph ref|mb1|5}}
+
+### Notable Landmarks
+* [[Khlennium]] - A large city located somewhere in the middle of the northern continent; the lands around it were mostly flat.{{epigraph ref|mb1|3}}
+* [[Terris]] hills - A large mountain range in the north which was home to the [[Terris]] people.{{epigraph ref|mb1|3}}
+* [[Darrelnai]] - A city or kingdom located on the northern continent. It survived the Deepness and was eventually conquered by the [[Lord Ruler]].{{book ref|mb2|37}}
+* The [[Southern Islands]] - A large collection of islands in the south of what would later become the [[Final Empire]]. These islands were home to many volcanoes.{{book ref|mb1|29}}
+
+## Culture and Societies
+### Forms of Government
+Many nations during this time were ruled by monarchs, both kings and queens. Examples of nations ruled by monarchs are [[Khlennium]] and "The fiery empire of the West."{{epigraph ref|mb1|16}} Not all nations were ruled by monarchs however: the Terris, for example, were not ruled by a monarch, although their form of government is unknown.
+
+### Prophecy of the Hero of Ages
+The various classical civilizations believed in a number of [[Terris Prophecies|prophecies]]. These prophecies were about a Hero, called The Hero of Ages, who would one day save the world.{{epigraph ref|mb2|17}} The civilizations all had a different name for this Hero, with the Khlenni calling him Rabzeen, but the prophecies were the same.{{epigraph ref|mb2|12}}
+
+### The Metallic Arts
+==== Allomancy ====
+During this time period, [[Allomancy]] was almost entirely unheard of. Towards the end of the era, when the Deepness arrived, it began to snap people into Mistings;{{epigraph ref|mb3|62}}{{wob ref|8087}} Mistborn did not appear until Rashek discovered and gave away the [[lerasium]] located at the [[Well of Ascension]].{{epigraph ref|mb3|22}}
+
+==== Feruchemy ====
+[[Feruchemy]] was the most widespread of the [[Metallic Arts]], and even that remained isolated with the [[Terris]] people.{{wob ref|5514}} The Terris used Feruchemy for many things in their daily lives, from storing and tapping heat to pass through mountain passes to storing memories in their [[Copper#Feruchemical_Use|copperminds]]. [[Worldbringer]]s in particular were known for using Feruchemy to record lore.
+
+==== Hemalurgy ====
+[[Hemalurgy]] was unknown to most, although piercings were seen as a means of communicating with a deity. For this reason the Hero of Ages wore Hemalurgically-charged piercings. This was a result of [[Ruin]] manipulating the [[Terris Prophecies]].{{wob ref|5767}}
+
+### Technology
+The general level of technology at the end of this era was more advanced than that of the [[Final Empire]]. Before [[Rashek]]'s Ascension, the people of Classical Scadrial had achieved steam technology, and were close to achieving locomotive technology.{{wob ref|5765}} 
+
+### Civilizations
+Known civilizations during this period include: 
+{{columns|
+* Ancient [[Terris]]
+* The [[Astalsi]]{{book ref|mb1|29}}
+* The [[Canzi]]{{epigraph ref|mb3|27}} 
+* [[Khlennium]]{{epigraph ref|mb3|26}}{{book ref|mb2|part=ars}}
+* [[Urtan]]{{epigraph ref|mb3|27}} 
+* The [[Hallant]]{{book ref|mb3|27}}
+* The [[Bennet]]{{book ref|mb1|29}}{{book ref|mb3|82}}
+* The [[Larstaism|Larsta]]{{book ref|mb2|48}}
+* [[Darrelnai]]{{book ref|mb2|37}}
+* The "fiery empire of the West"{{epigraph ref|mb1|16}}
+* The "isles in the south"{{epigraph ref|mb1|12}}
+}}
+
+## History
+{{For|Scadrial}}
+The classical age of [[Scadrial]] began with the planet's creation by the [[Shards]] [[Preservation]] and [[Ruin]].{{au ref|Scadrial}} These Shards settled in the [[Scadrian System]] and created Scadrial together. During this process they not only created the planet, but they also created life, including humans. During the Classical era of Scadrial, the magnetic and geographic poles were in the same location.{{wob ref|8042}}
+
+Over time, technology advanced and attained an early industrial level of technological and cultural advancement.{{wob ref|1222}}
+
+Thousands of years after the creation of the planet, a young man called [[Alendi]] was forced to flee his village due to unknown reasons. It is likely that this was exactly sixteen years before the Well of Ascension was refilled.{{wob ref|5510}} He ended up in [[Khlennium]], seeking a life of indistinction. Once there he met [[Kwaan]], a [[Terris]] worldbringer. Kwaan employed him as an assistant during his first months in the city.{{epigraph ref|mb2|11}} Years later Kwaan connected all of the signs of the Anticipation to Alendi, and announced his discovery to the other Worldbringers, they didn't believe him however.{{epigraph ref|mb2|12}}{{epigraph ref|mb2|13}} So Kwaan became determined to convince them, insisting on traveling with Alendi to witness his journeys.{{epigraph ref|mb2|15}} After a while even the other Worldbringers became convinced that Alendi must be the Hero of Ages,{{epigraph ref|mb2|30}} as Alendi fueled these rumors to persuade the world of his cause,{{epigraph ref|mb2|16}} and Ruin slightly altered the prophecies to fit Alendi.{{epigraph ref|mb2|46}}
+
+It was around this time that the Deepness arrived, providing a threat that drove men to desperation both in action and belief.{{epigraph ref|mb2|18}} The Deepness began ravaging the land, killing plants and animals alike. 
+
+At some point in time Alendi became king of Khlennium,{{epigraph ref|mb1|16}} possibly by marrying the previous king's daughter.{{epigraph ref|mb2|21}} Under the growing threat of the Deepness, Alendi united several nations (including Terris),{{epigraph ref|mb2|23}} some by diplomacy,{{epigraph ref|mb1|10}} and others by conquering them.{{epigraph ref|mb1|1}} Except for a few dissenters, Alendi was able to create a general unity on Scadrial under reign of Khlennium.{{epigraph ref|mb1|10}}
+
+During his encounters with the Deepness, he Snapped and his Allomantic powers were awakened.{{wob ref|8087}} He believed that he had sensed the Deepness's mind, and noted that it was not hateful, but would destroy the world as part of its nature. After Alendi spent a decade leading armies, the Terris Worldbringers decided that Alendi, the assumed Hero of Ages, should set forth to the Well of Ascension{{epigraph ref|mb2|9}} and give up its power in the name of the greater good.{{epigraph ref|mb2|50}} However, Kwaan realized that some being deceived them all by altering the prophecies, but he couldn't convince Alendi and the other Worldbringers{{epigraph ref|mb2|55}} that the power at the Well should not be released.{{epigraph ref|mb2|59}} Soon Alendi departed towards the Well of Ascension, giving no heed to Kwaan's warning since Alendi surrounded himself with other counselors who told him what he wanted to hear.{{epigraph ref|mb2|52}} 
+
+Upon arriving in Terris, Alendi replaced his normal attendants with Terris packmen who could carry his gear in the cold unforgiving mountains.{{epigraph ref|mb1|4}} They were a group of [[Feruchemy|Feruchemists]] led by [[Rashek]].{{epigraph ref|mb1|7}} Alendi started keeping a [[Alendi's logbook|logbook]],{{book ref|mb2|42}} in which he recorded his quest for the Well, describing hearing pulses coming from the Well{{epigraph ref|mb1|23}} due to his abilities as a [[Seeker]].{{epigraph ref|mb3|62}} In this journal he also expressed regrets about the death and fear he has caused {{epigraph ref|mb1|25}}{{epigraph ref|mb1|34}}, doubts about his own sanity{{epigraph ref|mb1|14}}, but also his fear of the Deepness {{epigraph ref|mb1|22}}, and his faith that it needed to be defeated {{epigraph ref|mb1|28}}. 
+
+Unbeknownst to Alendi, Kwaan had instructed Rashek to do everything in his power to keep Alendi away from the Well of Ascension,{{epigraph ref|mb2|55}} and if necessary even to kill Alendi to prevent him from giving up the Well's power.{{epigraph ref|mb2|55}} Since the pulses coming from the Well drew Alendi closer with each beat,{{epigraph ref|mb1|23}} Rashek could not lead him astray and was forced to kill him shortly before arriving at their destination. He then entered the room with the Well and Ascended. In the following moments, before the power left him, he reshaped the world, thus ending the era of Classical Scadrial.
+
+## Notable Individuals
+{{Columns|
+*[[Rashek]]
+*[[Alendi]]
+*[[Kwaan]]
+*[[Wednegon]]
+*[[Haddek]]
+*[[Braches]]
+*[[Helenntion]]
+}}
+
+## Notes
+{{history
+|title=History of Scadrial
+|prev=Creation of Scadrial by [[Ruin]] and [[Preservation]]
+|next=[[Ascension of the Lord Ruler|Ascension of Rashek]]
+}}
+<references />
+{{partial}}
+{{Mistborn|Era 1}}

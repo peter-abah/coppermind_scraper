@@ -1,0 +1,14 @@
+{{geography
+|type={{cat tag|Water body|Sea}}
+|map=Endless Ocean locator.png
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+The **Endless Ocean** is a massive ocean to the west of the continent of [[Roshar]].{{map ref|Roshar}}
+
+According to legend, [[Derethil]] and the *[[Wandersail]]* sailed the Endless Ocean during a [[highstorm]], where they found the islands of the [[Uvara]].{{book ref|sa1|57}}
+
+==Notes==
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 01:29, 23 December 2016 (MST)}}
+{{stormlight}}

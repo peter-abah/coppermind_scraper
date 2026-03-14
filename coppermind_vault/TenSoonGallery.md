@@ -1,0 +1,25 @@
+## Official artwork
+<gallery mode="packed" heights=300px caption="Official artwork">
+Hero of Ages by GisAlmeida.jpg | <center><small>by {{a|GisAlmeida}}</small></center> *Hero of Ages*, various scenes from the trilogy
+Bond by Randy Vargas.jpg | <small><center>by {{a|Randy Vargas}}</center></small> With Vin from *[[The Well of Ascension]]* leatherbound
+Tensoon_Card_Cropped.png| <small><center>by {{a|Jackson Robinson}}</center></small>Misborn Playing Cards
+MistbornEra1StickerPack.png | <center><small>by [[Hayley Lazo]]</small></center> *Mistborn Era 1* themed stickers
+</gallery>
+
+## Fanworks
+<gallery mode="packed" heights=250px caption="Fanworks">
+Trust by Nevena Marković.jpg | <center><small>by {{a|Nevena Marković}}</small></center>
+Tensoon portrait.png| <small><center>by {{a|Jamie Knierim}}</center></small>
+Vin and TenSoon.jpg| <small><center>by {{a|LittleGreyDragon}}</center></small>With [[Vin]]
+Tensoon portrait paint.png| <small><center>by {{a|Exmakina}}</center></small>
+TenSoon dog.jpg| <small><center>by {{a|BlazeMalefica}}</center></small>
+TenSoon Vin.png| <small><center>by {{a|artassus}}</center></small>With [[Vin]]
+TenSoon by Egilde Art.jpg| <small><center>by {{a|Egilde Art}}</center></small>
+Soonie pups.jpg| <small><center>by {{a|LittleGreyDragon}}</center></small>Soonie pups, toys sold in [[Elendel]] based on TenSoon
+Vin and TenSoon by Alba Palacio.jpeg| <small><center>by [https://twitter.com/albapalacio27 Alba Palacio]</center></small>Traveling the rooftops of [[Luthadel]] with [[Vin]]
+Vin and TenSoon by Connor Chamberlain.jpg| <small><center>by {{a|Connor Chamberlain}}</center></small>Traveling the rooftops of [[Luthadel]] with [[Vin]]
+TenSoon's Judgement by Marc Mestre.jpg| <small><center>by [https://www.instagram.com/marcmestreart/ Marc Mestre Giné]</center></small>Being judged by the other [[kandra]]
+TenSoon by Shayndlart.jpeg| <small><center>by {{a|Shayndlart}}</center></small>
+</gallery>
+
+[[Category:Gallery Subpages]]

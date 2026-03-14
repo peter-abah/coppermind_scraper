@@ -1,0 +1,35 @@
+{{literature
+|author=[[Kazan Smedry]]
+|world=Earth (Alcatraz)
+|books=[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]
+}}
+**The List** is a list of reasons why short people are better off than tall people according to [[Kazan Smedry]]. It is not clear if Kaz is serious about The List, but he takes every opportunity to recite from it. [[Australia Smedry]] finds The List ridiculous, as does [[Bastille]].{{book ref|a2|12}} Kazan says that the facts on The List are scientifically researched and time-tested.{{book ref|a2|6}}
+
+==Known items on The List==
+
+**1.** Don't argue with the short person. He's always right.{{book ref|a2|12}}
+
+**15.** Short people make smaller targets.{{book ref|a2|10}}
+
+**28.** Short people can find things easier and follow trails better because they are closer to the ground.{{book ref|a2|6}}
+
+**47.** Tall people's heads are in thinner atmosphere, causing oxygen deprivation, which causes their brains to not work as well as short people's.{{book ref|a2|6}}
+
+**56.5.** Short people know when to stay on the ground (and avoid scary extreme heights).{{book ref|a4|14}}
+
+**63.** If everyone were short, ceilings could be lower, thereby lowering building costs.{{book ref|a2|20}}
+
+**82.** When short people plummet to their doom, they don't fall as far.{{book ref|a4|5}}
+
+**127.** Short people have smaller bodies, but regular-sized hearts, so their heart-to-flesh ratio is larger, making them more compassionate.{{book ref|a2|8}}
+
+**236.** Short people are more humble.{{book ref|a2|12}}
+
+**257.** A tall person can shield you from dragon breath.{{book ref|a4|4}}
+
+**Unknown number.** Short people are better because it takes them longer to walk places, therefore they get more exercise.{{book ref|a2|12}}
+
+## Notes
+<references />
+{{complete}}
+{{Alcatraz}}

@@ -1,0 +1,14 @@
+{{settlement
+|'nation=[[Weswara]]
+|earth=Frugal Wizard
+|introduced=[[The Frugal Wizard's Handbook for Surviving Medieval England]]
+}}
+
+{{quote|Neahtun was raided and burned to the ground not three months back, and their stone was stronger than ours.|[[Ealstan]]{{book ref|fwh|13}}}}
+
+**Neahtun** is a settlement in [[Weswara]]. Around three months ago, it was raided by [[Hordaland|Hordamen]]. Despite Neahtun's strong [[runestone]], the Hordaman [[Skop|skalds]] negated its power, and the rest of the Hordamen burned the place to the ground. {{book ref|frugal|13}}
+
+## Notes
+<references />
+{{complete}}
+{{Frugal Wizard}}

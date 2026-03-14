@@ -1,0 +1,20 @@
+{{settlement
+|nation=Seevis
+|world=Taldain
+|universe=[[Cosmere]]
+|books=[[White Sand]]
+}}
+
+{{for|Reven|the current king of Seevis|pre="Revan" redirects here}}
+
+**Reveln** is a city in [[Seevis]] on the Dayside of [[Taldain]].{{map ref|Dayside}}
+
+It is located on the coast of Seevis, in a small bay.{{map ref|Dayside}} It may be the capital of the country.
+
+## Trivia
+* In the original, three-volume publication of *[[White Sand]]*, the city was named Revan; this was changed in the omnibus edition of the book.
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 01:43, 25 July 2019 (UTC)}}
+{{White Sand}}

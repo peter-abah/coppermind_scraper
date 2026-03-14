@@ -1,0 +1,14 @@
+{{CoverToC|sa}}
+
+This is a gallery for all known covers for *[[Edgedancer (novella)|Edgedancer]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. As *Edgedancer* was also included in the *[[Arcanum Unbounded]]* anthology, you can also check [[Arcanum Unbounded/Covers|its page]] for more covers.
+
+<gallery widths=3000px heights=400px mode="packed">
+Edgedancer Cover.jpg | <center>United States</center> (Tor)
+Edgedancer UK cover.jpg | <center>United Kingdom</center> (Gollancz)
+Edgedancer DE cover.jpg | <center>Germany</center> (Heyne)
+Edgedancer PL cover.jpg | <center>Poland</center> (MAG)
+FR Novella collection cover.jpg | <center>France</center> (Le Livre De Poche, *Sixth of the Dusk and Other Novellas* anthology)
+Edgedancer BG Cover.jpeg | <center>Bulgaria</center> (Артлайн-Студиос / Artline Studios)
+</gallery> 
+
+[[Category:Cover Galleries]]

@@ -1,0 +1,16 @@
+{{food
+|ingredients=Pork
+|type=Dish
+|origin=Hraggen
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[Elantris (book)|Elantris]]
+}}
+**Ketathum** is a roasted{{book ref|Elantris|11}} [[Hraggish]] dish made with pork.{{glossary ref|Elantris|K}}
+
+[[Kiin]] knows how to make ketathum.{{book ref|Elantris|11}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:49, 5 June 2017 (MST)}}
+{{Elantris}}

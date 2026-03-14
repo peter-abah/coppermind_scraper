@@ -1,0 +1,19 @@
+---
+region: "Elendel Basin"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 2"
+---
+
+{{quote
+|I won't be able to watch where we’re going. I need to know exactly how far from the previous stop Carlo’s Bend is.
+|[[Waxillium Ladrian|Wax's]] thoughts about stopping the [[Vanishers]]{{book ref|mb4|15}}
+}}
+**Carlo's Bend** is a location in the [[Elendel Basin]] on [[Scadrial]] where the train tracks between [[Doxonar]] and [[Elendel]] get particularly close to the canal.{{book ref|mb4|15}}
+
+After losing much of their crew in the fight at the [[Yomen-Ostlin wedding dinner]], the [[Vanishers]] needed to pull off one more aluminum heist to resupply while they layed low. [[Waxillium Ladrian]] correctly predicted that they would target the [[House Tekiel]] [[Breaknaught]] while it passed Carlo's Bend.{{book ref|mb4|15}}{{book ref|mb4|17}}
+
+## Notes
+<references />
+{{complete|--[[User:Stargazer|Stargazer]] ([[User talk:Stargazer|talk]]) 18:11, 29 April 2020 (UTC)}}
+{{Mistborn|Era 2}}

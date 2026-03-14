@@ -1,0 +1,19 @@
+{{culture
+|related={{cat tag|Railcraft}}
+|earth=Rithmatist
+|books=[[The Rithmatist]]
+}}
+**Springrail** is a form of spring-loaded clockwork-driven monorail used to travel around the [[United Isles of America]].{{book ref|Rithmatist|4}}
+
+Springrails are the primary form of transportation between islands. On many islands, the springrail station is an important location. On some islands, the station is located right next to that island’s Rithmatic school, if they have one.{{book ref|rithmatist|13}} Springrail ticket have gotten cheaper over time, with one silver penny now being enough to buy a one.{{book ref|rithmatist|13}}{{book ref|Rithmatist|14}} [[Trent Saxon|Joel's father]] allegedly died in a springrail accident.{{book ref|Rithmatist|14}} 
+
+Springrails hang beneath their tracks, which are about ten feet tall. The train cars are long and slender, designed like ornate carriages. Springwork engines are located towards the front of the train cars, usually at least two. Workers attach giant springwork batteries, which contain very tightly wound springs.{{book ref|rithmatist|15}} Many [[Rithmatics|Rithmatist]]s are employed by springrail companies, using [[chalklings]] with [[Chalklings#Glyph of Rending|Glyphs of Rending]] to wind large spools to prepare the springrail batteries. The springrail line is crenelated, allowing the springrail’s gears to grip it and pull itself along. The springrail starts out moving slow, but gets up to high speeds. When one battery is expended, the train stops as the next one is activated. Each battery likely lasts for about an hour of travel.{{book ref|rithmatist|15}}
+
+The water between the islands is often around a hundred feet deep, and the springrail line is supported by massive steel pillars. There are several springrail junctions, where the engineer pulls a lever. It raises a hooked contraption, which trips the correct latch and sets the springrail on the desired course.{{book ref|rithmatist|15}}
+
+The springrails provide access to every island in the United Isles, and they form a partial crisscrossing web of tracks across the United Isles, a network that is still being worked on. There has been discussion of building a springrail line across the Atlantic Ocean to Europe, but the depths of the ocean make the prospect immensely expensive.{{book ref|rithmatist|15}}
+
+## Notes
+<references /><!-- 4, 12-15, 17 -->
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 01:49, 20 March 2022 (UTC)}}
+{{Rithmatist}}

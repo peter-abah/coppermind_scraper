@@ -1,0 +1,104 @@
+---
+profession: "Vizier"
+'residence: "Azimir <small>(former)</small>, Urithiru"
+nation: "Azir"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Edgedancer (novella)|Edgedancer"
+---
+
+{{update|sa5}}
+{{objective|claim=Osome55|date=12/24}}
+{{quote
+|The thing that **separates** us from the monarchies of the east—and the chaos they suffer—is that our emperor is held in check.
+|Noura to [[Yanagawn]]{{book ref|sa3|116}}
+}}
+**Noura** is a high-ranking [[vizier]] in [[Prime Aqasix]] [[Yanagawn]] the First's court in [[Azir]] on [[Roshar]].{{book ref|sa3|65}}
+
+## Appearance and Personality
+She has a round face, dark eyes, and long graying hair that she wears in a tight side braid.{{book ref|sa3|65}} Although [[Lift]] calls her "Fat Lips", she does not actually have fat lips.{{book ref|sa2.5|14}} She wears a hat and long, layered robes, sometimes adding a coat with oversized sleeves.{{book ref|sa2|i|9}} All of her clothing is of brightly patterned textiles that are typical of Azir{{book ref|sa3|65}} and are used to signify rank and other attributes.{{book ref|sa3|116}}
+
+Noura is educated and logical, and she places a high value on laws and bureaucracy.{{book ref|sa2|i|9}}{{book ref|sa3|116}} She strives to act in the best interests of Azir and is extremely loyal both to Azir and to the Prime.{{book ref|sa3|65}} However, she is empathetic, and will occasionally bend the law to do what she believes is right.{{book ref|sa2|i|9}} She is frank and not easily intimidated, particularly when she believes the law is on her side, but people also tend to respond well to her calm composure.{{book ref|sa3|65}}{{book ref|sa2|i|9}}{{book ref|sa4|19}} She follows the [[Azir#Religion|religion]] of Azir, which leads her to revere the [[Herald]]s; it is difficult for her to come to terms with the fact that they are largely insane.{{book ref|sa4|101}}
+
+## Abilities and Attributes
+{{sidequote
+|This is a work of **art**.
+|Speaking of *[[Verdict]]*{{book ref|sa3|65}}
+|side=right|size=250px
+}}
+Noura is intelligent.{{book ref|sa3|116}} She is literate in Azish and is able to write poetry;{{book ref|sa3|65}}{{book ref|sa3|111}} even Lift has noted the elegance of her handwriting.{{book ref|sa2.5|14}} She is able to speak the Alethi language.{{book ref|sa3|96}} She is familiar with the writings of Jasnah Kholin and is extremely impressed by the writing style of her essay *[[Verdict]]*,{{book ref|sa3|65}} although it is not clear if she can read [[women's script]]. 
+
+She is versed in Rosharan history and politics.{{book ref|sa3|65}}{{book ref|sa3|116}} She is also well-informed regarding Azir's current economic climate{{book ref|sa3|65}} as well as military positioning and strategy.{{book ref|sa3|96}}{{book ref|sa3|113}}
+
+## History
+Noura passed the "master office" tests to become a vizier at only twelve years of age, giving her seniority among current viziers, even those much older than she was.{{book ref|sa3|116}} She has fulfilled her office in [[Azimir]], the capital of Azir and the seat of its throne, since rising to it.{{book ref|sa3|65}}
+
+### Ascendance of Gawx
+Noura was present{{ref|group=fn|text=The female lead vizier is not named in this scene, but information in *Oathbringer* is consistent with it being Noura.}} during a failed robbery of the [[Bronze Palace]] attempted by [[Huqin]]'s crew. "[[Nale|Darkness]]" appeared as he attempted to apprehend Lift; Noura did not recognize him, and was upset that he was intruding in the palace with his minions. She demanded to see his papers, and although she found that they were in order, she was shocked to see that the sentence for a child thief is death. She told Darkness to carry on, but then pushed a table into one of his minions, allowing Lift enough time to access [[Investiture]] and ultimately escape.{{book ref|sa2|i|9}}
+
+Noura and the other viziers followed Darkness and came across [[Gawx]], who was dying after having his throat slit by one of the minions. They witnessed his seeming resurrection when Lift healed him with [[Stormlight]]. Noura led a vote on the spot to confirm Gawx as the new Prime Aqasix, believing that he would be able to survive an attack by the [[Assassin in White]].{{book ref|sa2|i|9}}
+
+She retained her position as lead vizier after Yanagawn was crowned and was said to miss Lift while she spent time in [[Yeddaw]].{{book ref|sa2.5|14}}
+
+{{sidequote
+|I am the emperor's loyal servant, but I do **not** like the idea of your Radiants, Dalinar Kholin. These powers are dangerous, and the ancient Radiants turned traitor in the end.
+|Noura to [[Dalinar]]{{book ref|sa3|65}}
+|side=left|size=250px
+}}
+### Meeting Dalinar
+Noura met with [[Dalinar Kholin]] in [[Azimir]] after he showed Yanagawn some of [[Dalinar's visions|his visions]]. She openly displayed her distrust of Dalinar and the [[Alethi]], but admitted that Yanagawn had been swayed by Dalinar's arguments. Dalinar presented the viziers with essays written by [[Fen]], [[Navani]], and [[Jasnah]], each of which contained compelling arguments regarding Dalinar's alliance. Noura was surprised by his diplomatic approach. The essays bought Dalinar more time, and he had some strained conversations with Noura about the current state of affairs on Roshar while she led him through the city to a small waiting room. She informed him that Azir's [[parshmen]] did not immediately prepare for war like those in Alethkar, instead formally demanding reparations before being led away by [[Regal]]s or [[Fused]]. After some deliberation, Noura told Dalinar that Azir would accept his invitation to [[Urithiru]] despite her own objections, and that other nations in the Azish Empire were likely to follow.{{book ref|sa3|65}}
+
+### Dalinar's Coalition
+Noura directly advised Yanagawn at the first meeting of monarchs in Urithiru. She whispered various instructions to Yanagawn, notably raising the question of whether the [[Knights Radiant]]'s powers and the [[Oathgate]]s were safe to use.{{book ref|sa3|65}} After some discussion, Noura reached the conclusion that forming a coalition made sense, and Yanagawn offered to send troops to [[Jah Keved]].{{book ref|sa3|96}} 
+
+As the [[coalition of monarchs|coalition]] prepared for war, Noura traveled to [[Thaylen City]] with Yanagawn; she later wrote Queen Fen a poem thanking her for her hospitality. She also gave a report to the other monarchs regarding the movement of Azir's fleet. However, numerous pieces of information suddenly came to light (including revelations that Dalinar did not disclose all of the information about his visions, that Elhokar had sworn fealty to Dalinar as "highking", the arrival of an unexpected [[Everstorm]], and the translation of the [[Eila Stele]]) that threw the coalition into chaos. Noura pointedly asked Dalinar about [[Odium]] appearing in his visions, and he admitted that he had.{{book ref|sa3|111}}
+
+{{sidequote
+|That Oathgate is dangerous. These powers of yours are dangerous. Deny it.
+|Noura to Dalinar{{book ref|sa3|113}}
+|side=right|size=250px
+}}
+Noura realized that it was likely someone orchestrated the downfall of the coalition, but she did not care; she already lacked trust for [[Surgebinder]]s in general and Dalinar specifically, and it was clear that he had withheld relevant information. The Azish delegation abandoned the coalition and left Thaylen City, refusing to use the Oathgate.{{book ref|sa3|113}} Lift and Yanagawn later second-guessed this decision, and Yanagawn told Noura that he would be dead without Lift's Radiant powers.{{book ref|sa3|116}} Lift had already stolen away from the ship, and Yanagawn told Noura that they needed to turn around.{{book ref|sa3|113}} Noura reminded him that the emperor of Azir does not have absolute power, and that Yanagawn would jeopardize the throne if he attempted to rejoin the battle against the wishes of the vizierate. Before the argument concluded, they received reports that the Alethi had joined Odium's forces, seemingly proving Noura right.{{book ref|sa3|116}} Yanagawn was baffled by this turn of events,{{book ref|sa3|116}} as he was not aware that Odium was using [[Nergaoul]] to control the Alethi.{{book ref|sa3|115}} 
+
+Noura realized she was wrong about Dalinar after the [[Battle of Thaylen Field]], as she attended the wedding of [[Shallan]] and [[Adolin]], bringing gifts from Yanagawn and Lift.{{book ref|sa3|122}} She, Yanagawn, and the rest of the Azish court also resumed their participation in the meetings of monarchs.{{book ref|sa4|19}}
+
+{{sidequote
+|This betrayal will be felt—and prosecuted—by the Azish for generations.
+|Noura about [[Taravangian]]{{book ref|sa4|50}}
+|side=left|size=250px
+}}
+### Emuli Offensive
+During the following year, Noura began leading the meetings when the coalition gathered. She directed Dalinar to describe his proposed assault on [[Emul]] to the rest of the group, then asked to hear the opinions of the others.{{book ref|sa4|19}} They unanimously agreed to the assault, and some of the Azish court, including Yanagawn, opted to go with the army.{{book ref|sa4|19}}{{book ref|sa4|50}} After [[Taravangian]]'s betrayal, Noura agreed with the other officials that Dalinar had handled the situation well.{{book ref|sa4|50}}
+
+Later, Dalinar and [[Jasnah]] met with the Prime in his tent. Noura took a seat to be present at the table with them, though she sat lower than they did. She disapproved of Yanagawn relaxing enough to take off his headdress in their presence. Noura had previously discussed Jasnah with Yanagawn, who had a higher opinion of the queen than Noura did; when Jasnah displayed knowledge of their customs, Noura conceded that he had been right. However, the way that Jasnah delivered the facts about Urithiru's occupation and the seeming hopelessness of its recapture prompted Noura to speak up in favor of taking it back. She was doubtful at Dalinar's idea of recruiting the [[Herald]] [[Ishar]] to help, but suggested that instead of going to him, he send [[Knights Radiant]] to bring Ishar to the camp.{{book ref|sa4|101}}
+
+## Relationships
+### Yanagawn
+{{quote
+|Azir can, and will, withstand a change in dynasty. Your power is absolute, but you do not exercise it all. You must not.
+|Noura to [[Yanagawn]]{{book ref|sa3|116}}
+}}
+As the senior [[vizier]] in the [[Azish]] court, Noura is highly influential on [[Gawx]] after he ascends to the [[Prime|throne]] as Yanagawn the First. Yanagawn seems to like the viziers and notes that they do their best to educate him as quickly as possible.{{book ref|sa3|56}} Noura is generally at Yanagawn's side during important meetings,{{book ref|sa3|65}}{{book ref|sa3|111}} and he sometimes sends her as an envoy in his stead.{{book ref|sa3|122}} She believes that Yanagawn should not always follow Lift's advice, since Lift is very impulsive.{{book ref|sa3|116}} Though she disapproves of the influence the other monarchs of the [[coalition of monarchs|coalition]] have on him that relax his formality, by the time of the [[Emuli]] offensive she respects that Yanagawn has grown. He still looks to her for approval during meetings, but she fills the role of an advisor more than that of a teacher.{{book ref|sa4|101}}
+
+### Lift
+{{quote
+|Lift? You listen to her far too much, Your Imperial Majesty.
+|Noura to [[Yanagawn]]{{book ref|sa3|116}}
+}}
+Noura is quickly able to ascertain that [[Lift]] is not the dangerous criminal that [[Nale]] claims her to be.{{book ref|sa2|i|9}} Lift claims that the viziers do not like her.{{book ref|sa3|65}} She likes to playfully aggravate Noura,{{book ref|sa2.5|14}} but she also seems to trust her.{{book ref|sa2.5|13}} Although Lift's quirky actions often confound Noura,{{book ref|sa3|116}} she also appears to be fond of Lift.{{book ref|sa3|65}} Still, Noura seems to be unsettled by Lift's unpredictable nature; when departing [[Thaylen City]], she assigns [[Vono]] to watch Lift, but Lift escapes with ease.{{book ref|sa3|116}}
+
+### Dalinar
+{{quote
+|You are not what I expected, Blackthorn.
+|To [[Dalinar]]{{book ref|sa3|65}}
+}}
+Noura assumes that the [[Alethi]] always attempt to solve their problems through violence,{{book ref|sa3|65}} a stereotype that is particularly prevalent in Azir due to the genocide perpetrated there by [[Sadees]] the Sunmaker.{{book ref|sa3|42}} She is inherently wary of [[Dalinar Kholin]] because of his nationality, his powers, and his reputation. Before meeting him, she assumes he will be half-man, half-animal, but her fears are quelled by his unexpectedly calm demeanor and his ability to speak Azish.{{book ref|sa3|65}} She still maintains a level of distrust for Dalinar, and quickly turns on him after learning that he has not been forthcoming about all of his visions.{{book ref|sa3|111}}{{book ref|sa3|113}} She is not always enamored of his methods or ideas, but is willing to trust and work with Dalinar again after his victory at the [[Battle of Thaylen Field]].{{book ref|sa4|19}}{{book ref|sa4|101}}
+
+## Notes
+;Footnotes
+<references group=fn/>
+;References
+<references/>
+{{partial}}
+{{demoted|sa5}}
+{{Stormlight}}

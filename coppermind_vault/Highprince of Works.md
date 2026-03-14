@@ -1,0 +1,23 @@
+{{culture
+|related=[[Alethkar]], {{cat tag|Alethi culture}}, {{tag|Highprince|cat=Highprinces}}
+|type={{cat tag|titles|Title}}
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[Stormlight Archive]]
+}}
+
+{{quote
+| Hatham does an excellent job as Highprince of Works, but there isn’t proper infrastructure... Equally important, Brightness, we might be facing a severe labor shortage.
+| Issues faced by living in [[Urithiru]]{{book ref|sa3|104}}
+}}
+
+**The Highprince of Works** is a title bestowed by the [[Alethi]] king onto one of his [[highprince]]s on [[Roshar]]. It is unclear if the Highprince of Works role existed previously when kingdom duties were split between the different highprinces.{{book ref|sa2|29}} It is currently held by Highprince [[Hatham]].{{book ref|sa3|104}}
+
+The Highprince of Works appears to be responsible for kingdom's [[wikipedia:Public works|public works]], such as cleaning and maintaining the infrastructure.{{book ref|sa3|104}}{{book ref|sa3|28}} In [[Urithiru]], he's responsible for the upkeep of public lavatories, providing water to the inhabitants of the tower and packing goods to be distributed throughout the Alethi holdings. He has the ability to draft the soldiers, caravan workers, and low-[[nahn]] citizens to work, although his power in this regard is limited, as they are not slaves and require compensation for their work.{{book ref|sa3|104}}{{book ref|sa3|2}} In addition, his men are attempting to grow food on Urithiru's balcony-farms, though so far they haven't had much success.{{book ref|sa3|28}}
+
+In the time period between [[Gavilar]]'s unification of the country and the [[True Desolation]], [[Alethkar]] did not have a Highprince of Works. In the aftermath of the [[Everstorm]]'s arrival, [[Hatham]] was given the title and tasked with making Urithiru livable for its current population. Though he is doing as admirably, the semi-functional state of the tower city makes his task extremely difficult and living in the tower is unsustainable without outside trade.{{book ref|sa3|104}} He has also received push back from members of the lower class who do not wish to assist with tasks previously performed by [[singers|parshmen]], as they believe they are above menial tasks.{{book ref|sa1|104}}
+
+## Notes
+<references />
+{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 01:02, 6 August 2019 (UTC)}}
+{{Stormlight}}

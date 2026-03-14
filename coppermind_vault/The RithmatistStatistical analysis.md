@@ -1,0 +1,205 @@
+This page contains a statistical analysis of ***[[The Rithmatist]]***.
+
+### Chapter by Chapter Breakdown
+{| class="wikitable sortable"
+!Chapter
+!Character
+!Word Count
+!Percentage
+|-
+| [[The Rithmatist/Summary#Prologue|Prologue]]
+| [[Lilly Whiting]]
+| align="right" | 507
+| align="right" | 0.58%
+|-
+| colspan="4" align="center" | **Part One**
+|-
+| [[The Rithmatist/Summary#Chapter 1|Chapter 1]]
+| [[Joel Saxon]]
+| align="right" | 4,548
+| align="right" | 5.19%
+|-
+| [[The Rithmatist/Summary#Chapter 2|Chapter 2]]
+| [[Joel Saxon]]
+| align="right" | 1,632
+| align="right" | 1.86%
+|-
+| [[The Rithmatist/Summary#Chapter 3|Chapter 3]]
+| [[Joel Saxon]]
+| align="right" | 2,477
+| align="right" | 2.82%
+|-
+| [[The Rithmatist/Summary#Chapter 4|Chapter 4]]
+| [[Joel Saxon]]
+| align="right" | 2,899
+| align="right" | 3.31%
+|-
+| [[The Rithmatist/Summary#Chapter 5|Chapter 5]]
+| [[Joel Saxon]]
+| align="right" | 2,133
+| align="right" | 2.43%
+|-
+| [[The Rithmatist/Summary#Chapter 6|Chapter 6]]
+| [[Joel Saxon]]
+| align="right" | 3,604
+| align="right" | 4.11%
+|-
+| colspan="2" align="left" | **Part One Total**
+| align="right" | **17,293**
+| align="right" | **19.72%**
+|-
+| colspan="4" align="center" | **Part Two**
+|-
+| [[The Rithmatist/Summary#Chapter 7|Chapter 7]]
+| [[Joel Saxon]]
+| align="right" | 2,995
+| align="right" | 3.42%
+|-
+| [[The Rithmatist/Summary#Chapter 8|Chapter 8]]
+| [[Joel Saxon]]
+| align="right" | 1,312
+| align="right" | 1.50%
+|-
+| [[The Rithmatist/Summary#Chapter 9|Chapter 9]]
+| [[Joel Saxon]]
+| align="right" | 4,086
+| align="right" | 4.66%
+|-
+| [[The Rithmatist/Summary#Chapter 10|Chapter 10]]
+| [[Joel Saxon]]
+| align="right" | 4,657
+| align="right" | 5.31%
+|-
+| [[The Rithmatist/Summary#Chapter 11|Chapter 11]]
+| [[Joel Saxon]]
+| align="right" | 5,523
+| align="right" | 6.30%
+|-
+| [[The Rithmatist/Summary#Chapter 12|Chapter 12]]
+| [[Joel Saxon]]
+| align="right" | 4,291
+| align="right" | 4.89%
+|-
+| [[The Rithmatist/Summary#Chapter 13|Chapter 13]]
+| [[Joel Saxon]]
+| align="right" | 3,654
+| align="right" | 4.17%
+|-
+| [[The Rithmatist/Summary#Chapter 14|Chapter 14]]
+| [[Joel Saxon]]
+| align="right" | 3,196
+| align="right" | 3.64%
+|-
+| colspan="2" align="left" | **Part Two Total**
+| align="right" | **29,714**
+| align="right" | **33.89%**
+|-
+| colspan="4" align="center" | **Part Three**
+|-
+| [[The Rithmatist/Summary#Chapter 15|Chapter 15]]
+| [[Joel Saxon]]
+| align="right" | 4,700
+| align="right" | 5.36%
+|-
+| [[The Rithmatist/Summary#Chapter 16|Chapter 16]]
+| [[Joel Saxon]]
+| align="right" | 3,811
+| align="right" | 4.35%
+|-
+| [[The Rithmatist/Summary#Chapter 17|Chapter 17]]
+| [[Joel Saxon]]
+| align="right" | 3,890
+| align="right" | 4.44%
+|-
+| [[The Rithmatist/Summary#Chapter 18|Chapter 18]]
+| [[Joel Saxon]]
+| align="right" | 3,184
+| align="right" | 3.63%
+|-
+| [[The Rithmatist/Summary#Chapter 19|Chapter 19]]
+| [[Joel Saxon]]
+| align="right" | 2,133
+| align="right" | 2.43%
+|-
+| [[The Rithmatist/Summary#Chapter 20|Chapter 20]]
+| [[Joel Saxon]]
+| align="right" | 3,965
+| align="right" | 4.52%
+|-
+| [[The Rithmatist/Summary#Chapter 21|Chapter 21]]
+| [[Joel Saxon]]
+| align="right" | 4,092
+| align="right" | 4.67%
+|-
+| [[The Rithmatist/Summary#Chapter 22|Chapter 22]]
+| [[Joel Saxon]]
+| align="right" | 2,981
+| align="right" | 3.40%
+|-
+| [[The Rithmatist/Summary#Chapter 23|Chapter 23]]
+| [[Joel Saxon]]
+| align="right" | 4,090
+| align="right" | 4.66%
+|-
+| [[The Rithmatist/Summary#Chapter 24|Chapter 24]]
+| [[Joel Saxon]]
+| align="right" | 2,003
+| align="right" | 2.28%
+|-
+| rowspan="5" | [[The Rithmatist/Summary#Chapter 25|Chapter 25]]
+| [[Joel Saxon]]
+| align="right" | 3,295
+| align="right" | 3.76%
+|-
+| [[Fitch]]
+| align="right" | 703
+| align="right" | 0.80%
+|-
+| [[Joel Saxon]]
+| align="right" | 784
+| align="right" | 0.89%
+|-
+| [[Fitch]]
+| align="right" | 318
+| align="right" | 0.36%
+|-
+| [[Joel Saxon]]
+| align="right" | 220
+| align="right" | 0.25%
+|-
+| colspan="2" align="left" | **Part Three Total**
+| align="right" | **40,169**
+| align="right" | **45.81%**
+|}
+
+### Unique POV Breakdown
+{| class="wikitable sortable"
+!Character (3)
+!# of POVs (30)
+!% of Total POVs
+!Word Count (87,683)
+!% of Word Count
+|-
+| [[Joel Saxon]]
+| align="right" | 27
+| align="right" | 90.00%
+| align="right" | 86,155
+| align="right" | 98.26%
+|-
+| [[Fitch]]
+| align="right" | 2
+| align="right" | 6.67%
+| align="right" | 1,021
+| align="right" | 1.16%
+|-
+| [[Lilly Whiting]]
+| align="right" | 1
+| align="right" | 3.33%
+| align="right" | 507
+| align="right" | 0.58%
+|}
+
+{{meta/done}}
+{{Rithmatist}}
+[[Category: The Rithmatist|*1x]]
+[[category: statistics]]

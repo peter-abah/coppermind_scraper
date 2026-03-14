@@ -1,0 +1,12 @@
+{{settlement
+|region=Roughs
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+**West's Haven** is a settlement on [[Scadrial]], presumably located in the [[Roughs]]. [[Waxillium Ladrian]] and [[Wayne]] visit the settlement in {{date|339|PC}}, and Wayne burns down a school.{{book ref|mb7|46}} Wax and Wayne both consider the school there to have been a "evil damn school".{{book ref|mb7|46}}
+
+## Notes
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 06:05, 15 October 2024 (UTC)}}
+{{Mistborn|Era 2}}

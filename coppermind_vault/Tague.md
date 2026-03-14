@@ -1,0 +1,23 @@
+---
+profession: "Engineer"
+groups: "Malwish Empire"
+universe: "Cosmere"
+---
+
+{{spoilers|iote}}
+
+**Tague** is the lead engineer responsible for the [[Intensifier]]. He leads a small team of engineers to use the novel weapon.{{book ref|iote|40}}{{book ref|iote|56}}
+
+==History==
+As the Intensifier's lead engineer, Tague was likely involved in its use in the [[Malwish]] attempted theft of the [[Dawnshard]] in the dragons' ancient cavern.{{book ref|iote|40}}
+
+Tague and the engineers working under him were called by Colonel [[Dajer]] to bring the Intensifier to the [[Dakwara's island]] and arrived there after a day or two of travel in a large cargo ship.{{book ref|iote|40}}{{book ref|iote|48}} 
+
+When the [[Dakwara]] started attacking Dajer's forces due to one of [[Chrysalis]]' [[Sleepless#Hordelings|hordelings]] attempting to cross to the center island, Tague attempted to use the Intensifier to ward off the Dakwara but was unable to get it operational in time.{{book ref|iote|54}} After fully preparing the weapon, he later used the Intensifier on the Dakwara but was unable to destroy it using either positive or [[Investiture#Anti-Investiture|negative]] [[Investiture#Unkeyed Investiture|unkeyed Investiture]]. In fact, as Tague had earlier warned Dajer, the entity was able to feed off of the weapon regardless of the amount of power they used. Though Dajer wanted to continue to increase the power, Tague argued that doing so would crash the system and that the test was both a good data point for the weapon's capabilities and a reasonably good outcome given the potential for the Dakwara to have decided to eat the machine.{{book ref|iote|56}}
+
+Tague later used the weapon on [[Illistandrista|Starling]]'s manacles but was unable to break them despite pushing the Intensifier to its limit. This caused a short power outage which allowed the crew of the *[[Dynamic]]* to escape.{{book ref|iote|58}}
+
+## Notes
+<references />
+{{complete}}
+{{Emberdark}}

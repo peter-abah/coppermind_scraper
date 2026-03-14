@@ -1,0 +1,21 @@
+{{magic
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{quote
+|Fighting, even this fighting against the Ten Deaths, changes a person.
+|A [[Starfalls Stoneward|Stoneward]] in the [[Dalinar's_visions#Starfalls|Starfalls vision]], the only known reference to the Ten Deaths{{book ref|sa1|19}}
+}}
+The **Ten Deaths** is the name given to an unknown force or forces on [[Roshar]] that existed at some point prior to the [[Day of Recreance]]. They were enemies of the [[Knights Radiant]] and included the [[Midnight Essence]].{{book ref|sa1|19}}
+
+## Characteristics
+The nature of the Ten Deaths (except the Midnight Essence) is unknown. They likely have magical qualities, since the Radiants believed that fighting the Deaths could change someone and eventually destroy them.{{book ref|sa1|19}} However, it is possible this was just a Radiant philosophy about fighting in general. The number ten is highly significant in Rosharan culture (e.g. the ten [[Herald]]s, the [[Ten Essences]], and the [[ten fools]]), but how this relates to the Ten Deaths is unknown. The term does not directly correspond to the [[Unmade]], as there are only nine of them.{{wob ref|9580}}
+
+## History
+Unlike the forces known as the [[Voidbringer]]s, it was possible for the Ten Deaths to attack between [[Desolation]]s. The Knights Radiant that were based in [[Alethela]] saw the Ten Deaths as a primary threat during these periods, and trained to fight against them. It is not clear if the Deaths were actively controlled or influenced by an outside force, although a Radiant mentioned that someone had to "release" the Midnight Essence.{{book ref|sa1|19}} 
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:40, 1 September 2020 (UTC)}}
+{{Stormlight}}

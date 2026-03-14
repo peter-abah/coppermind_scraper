@@ -1,0 +1,19 @@
+---
+profession: "Plantation owner"
+ethnicity: "Noble"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 1"
+---
+
+Lord **Devinshae** is a [[noble]]man on [[Scadrial]] during the [[Final Empire]].{{book ref|mb1|22}} He has a plantation somewhere outside of [[Luthadel]], and [[Dockson]] and [[Kareien]] were among the [[skaa]] that worked there.{{book ref|mb1|22}} 
+
+==History==
+[[Dockson]] described Devinshae as a lenient lord, but later elaborated that he "rarely" beat his skaa to death, and only killed the elderly when the population was out of control. He also exercised the noble right to rape skaa women as long as he had them killed afterwards. Dockson's girlfriend, Kareien, was killed for this reason, crushing morale in the plantation and causing Dockson to run away. Like the rest of the aristocracy, Devinshae simply did not consider skaa to be people. He was therefore only "kind" in relation to other, more savage nobles.{{book ref|mb1|22}}
+
+[[Vin]], who had softened her stance on nobles after interacting with them as Valette Renoux, was horrified by this revelation. She called Devinshae a monster and could not believe that all nobles acted as he did. However, Dockson told her that Devinshae was simply a typical noble, and that none of Devinshae's peers would fault him for his actions towards skaa. In fact, Devinshae had an impeccable reputation among the nobility, and visited Luthadel over the winter between planting seasons.{{book ref|mb1|22}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:27, 11 September 2018 (MST)}}
+{{Mistborn|Era 1}}

@@ -1,0 +1,5 @@
+#redirect[[Sel#Astronomy]]
+[[category: subsection redirects]]
+[[Category: Cosmere moons]]
+[[Category: Cosmere celestial bodies]]
+[[Category: Celestial bodies]]

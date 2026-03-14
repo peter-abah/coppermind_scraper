@@ -1,0 +1,13 @@
+{{geography
+|type={{cat tag|Mountains}}
+|region=Elendel Basin
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+The **Faleast Range** is a mountain range in the [[Elendel Basin]].{{map ref|Elendel Basin}} It is northeast of [[Elendel]] and is one of the mountain ranges that separates the basin from the [[Roughs]]. Its location is about where the [[Ashmount]] Faleast was during the [[Final Empire]] period of Scadrial.{{map ref|Final Empire}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 15:03, 3 September 2016 (MST)}}
+{{Mistborn|Era 2}}

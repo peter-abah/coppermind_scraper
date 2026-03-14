@@ -1,0 +1,16 @@
+{{culture
+|type={{cat tag|language|Accent}}
+|related=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+
+**Koron** is an [[Alethi]] accent. It is from near the [[Sunmaker Mountains]] in Central [[Alethkar]], though the etymology of the name Koron is not clear, as there are not towns or regions in the area with a name similar to Koron.{{book ref|sa3|16}}
+
+Koron accents are slow drawls, with "to" sounding like "ta." [[Rial]] has a Koron accent.{{book ref|sa3|16}}
+
+==Notes==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 00:46, 31 March 2019 (MST)}}
+{{stormlight}}

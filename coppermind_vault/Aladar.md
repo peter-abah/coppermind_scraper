@@ -1,0 +1,109 @@
+---
+image: "Aladar by Marie Seeberger.jpg"
+children: "May Aladar|May"
+ancestors: "Sadees{{book ref|sa3|19"
+---
+
+|abilities={{tag+|Shardbearer}}
+|titles={{tag+|Highprince|Alethkar|princedom=Aladar}}, [[Highprince of Information]]
+|residence=Urithiru
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+{{update|sa5}}
+<div class="navaid">This page contains information for Highprince Aladar. For information regarding the princedom in Alethkar, see [[Aladar princedom]].</div>
+
+**Aladar** is a [[highprince]] of [[Alethkar]] on [[Roshar]]. His [[Aladar princedom|princedom]] is one of the northernmost in Alethkar, the symbol of which takes the shape of a chull.{{map ref|Alethkar}}{{book ref|sa3|40}} His colors are black and maroon, and he commands one of the largest armies on the [[Shattered Plains]].{{book ref|sa2|76}} His personal guard are called the [[Blackcaps]].{{book ref|sa3|46}}
+
+## Appearance and Personality
+{{quote
+|I suspect [the other highprinces] are better at lying to themselves than I am.
+|Aladar to [[Dalinar]]{{book ref|sa2|76}}
+}}
+Aladar is short, slender, and dark skinned with a long neck; he is also bald, though he grows a thin mustache and a tuft of hair below the lip.{{book ref|sa2|8}}{{book ref|sa2|67}} His choice of fashion and facial hair is unconventional, but as a highprince he often set trends.{{book ref|sa2|8}} He is a skilled duelist.{{book ref|sa2|38}} He owns a full set of [[Shardplate]] and [[Shardblade]], but they are normally lent to Highlord [[Mintez]] for battles and duels.{{book ref|sa2|81}} He prefers not to fight at the head of his army, instead leading tactically from a command tent.{{book ref|sa2|8}} He likes games of chance, and [[Jasnah]] considers him a good politician.{{book ref|sa2|24}} He is an honest man at his core and will eventually act on what he knows to be right.{{book ref|sa2|76}}
+
+He likes to train [[axehound]]s.{{book ref|sa4|25}}
+
+## History
+{{image|Glyph-Aladar.svg|side=right|width=200px|Aladar [[glyphpair]]}}
+
+Aladar came into the position of highprince when Highprince [[Yenev]] was defeated in a duel by [[Torol Sadeas]]. After Yenev's death, Aladar was given control of his princedom due to his alliance with [[Gavilar]].{{book ref|sa2|55}} Later, he and Sadeas began engaging in territory disputes.{{book ref|sa2|38}}
+
+### War of Reckoning
+Aladar was, like the other highprinces of Alethkar, present on the [[Shattered Plains]] to uphold the [[Vengeance Pact]] by fighting in the [[War of Reckoning]] against the [[Parshendi]], living in a warcamp that lay between those of Torol Sadeas and [[Dalinar Kholin]]. Around the time that [[Kaladin]] arrived on the Shattered Plains, Aladar began talking of taking a short vacation back to Alethkar.{{book ref|sa1|18}} As Dalinar started approaching the other highprinces, seeking an alliance in the interest of taking a stronger force against the Parshendi, Aladar refused him.{{book ref|sa1|26}}
+
+{{sidequote
+|Damnation. I **hate** that you’re so good at this.
+|Aladar after Dalinar's tactics worked{{book ref|sa2|8}}
+|side=left|size=200px
+}}
+Like most of the highprinces, Aladar used armored troops to carry bridges on the Plains; however, as Sadeas had more and more success with using [[bridgemen]] as easy targets, Aladar and the others began copying his methods. After the new rules concerning plateau assaults and gemheart distribution took effect, Aladar went on plateau runs as commanded and reluctantly followed some tactical advice given to him by Dalinar. Despite this, Aladar again refused Dalinar's offer of alliance in the interest of keeping the favor of the other highprinces{{book ref|sa2|8}} and instead allied with Sadeas, albeit resignedly.{{book ref|sa2|29}}
+
+He was present during the meeting of the highprinces after [[Szeth]]'s first assassination attempt on Dalinar when [[Shallan]] finally made it to the Shattered Plains. His partnership with Sadeas at the meeting highlighted the stark division among the highprinces: Sadeas, Aladar, and [[Ruthar]] against Dalinar and [[Elhokar]]. Aladar voiced a worry that the Assassin in White would be back at the beginning of the conference. As the meeting continued, he complained about Elhokar seizing all the [[gemheart]]s until Dalinar cut him off by quoting a passage from [[The Way of Kings (in-world)|The Way of Kings]].{{book ref|sa2|38}} Dalinar finished the meeting with a pronouncement that he would shortly be winning Shards from all of the other highprinces, a threat that was first realized for Aladar when [[Adolin]] defeated [[Relis]], [[Elit]], [[Jakamav]], and [[Abrobadar]] in the same duel; Abrobadar was a Shardbearer in Aladar's army.{{book ref|sa2|56}}
+
+Sadeas, spiteful that Dalinar was making headway with his plans to rein in the highprinces, released annotated copies of [[Dalinar's visions]] at a later date during one of Elhokar's [[Feasting basin|feasts]]. Though Aladar had previously been one of Dalinar's most forcefully outspoken opponents,{{book ref|sa2|76}} he appeared hesitant during one confrontation with Dalinar, almost as if he were going to say something before deciding not to.{{book ref|sa2|67}}
+
+### Battle of Narak
+{{quote
+|I came for myself, not Sadeas. I won’t betray you. Even if Alethkar can’t ever be what you want, we **can** at least crush the Parshendi and avenge old Gavilar. It’s just the right thing to do.
+|Aladar assuring Dalinar of his sincerity{{book ref|sa2|76}}
+}}
+Dalinar finalized his plans to take the war to the Parshendi, marching on [[Stormseat]] with the intention of ending the war and discovering [[Urithiru]]. He called for the other highprinces to join him and was astonished to see Aladar arrive as well as [[Sebarial]] and [[Roion]]. Aladar confessed to Dalinar that although he didn't share Dalinar's idealistic vision of a unified Alethkar, he realized that he at least wished the vision to be a possibility. He had finally seen through Sadeas' front to the scheming man he really was and was troubled to recognize that Sadeas wanted to control all of his supposed allies. Dalinar, relieved, agreed to place a measure of trust in him and outlined his plan for the expedition.{{book ref|sa2|76}}
+
+On the way towards Narak, Aladar conferred with Roion, [[Renarin]], and [[General Khal]] to finalize tactics for the assault while Dalinar interrogated [[Rlain]].{{book ref|sa2|79}} They continued their plans over the next days, deciding to push all the way to the center of the Shattered Plains to threaten the very homes of the Parshendi.{{book ref|sa2|80}}
+
+When the final confrontation came, Aladar was horrified at the sight of the Parshendi army with glowing red eyes. Dalinar told him bluntly that this was their chance to do what they could to stop another [[Desolation]] by defeating the [[voidbringers]] and finished off by telling him to "be a champion." His rousing message had the desired effect, stirring Aladar's resolve as he left to lead his army. As they engaged the [[Singers]], Dalinar sent for reinforcements for Aladar's eastern flank and sent him a message to get through to the ones singing at all costs.{{book ref|sa2|81}} Aladar managed to kill the singing Parshendi on his plateau, but as a whole the army was too late to prevent them from summoning an [[Everstorm]].{{book ref|sa2|85}} He oversaw his army's evacuation onto the [[Oathgate]] plateau, rejoicing over the fulfillment of the Vengeance Pact. Dalinar, however, couldn't feel anything but more worry, which dampened Aladar's mood. He and his army, together with the other survivors, were transported to Urithiru just in time to avoid the meeting of the Everstorm and the [[highstorm]].{{book ref|sa2|86}}
+
+### Urithiru
+{{sidequote
+|What I saw on that battlefield ... those red eyes ... Sir, I’m with you. I will follow you to the ends of the storms themselves.
+|Aladar to Dalinar{{book ref|sa3|2}}
+|side=left|size=300px
+}}
+After the Battle of Narak, the three surviving highprinces sent word back to the warcamps to summon everyone to Urithiru.{{book ref|sa2|87}} As they moved into the tower, Dalinar, Aladar, and Sebarial turned their attention to establishing Urithiru as a bastion of order in the world. Aladar was appointed [[Highprince of Information]] and tasked with policing the city.{{book ref|sa3|2}} His greatest challenge was keeping order in the [[Breakaway]] market, where tens of thousands of people bought and sold in a chaotic environment,{{book ref|sa3|18}} but he set up a policing station at a central dais and had at least a moderate measure of success imposing order.{{book ref|sa3|29}}
+
+Aladar attended Dalinar and [[Navani]]'s wedding at their invitation.{{book ref|sa3|4}} Later, when [[Vedekar Perel]]'s corpse was found imitating Sadeas' manner of death, Dalinar gave [[Adolin]] charge over the investigation and sent him to Aladar to act as his liaison working alongside one of Aladar's policing teams.{{book ref|sa3|9}} Even after Sadeas' death and [[Amaram]]'s elevation to highprince of the Sadeas princedom, there remained great tension between Aladar's soldiers and those of Sadeas.{{book ref|sa3|64}} In keeping with his staunch support of Dalinar, however, he sent word to Navani quietly requesting her seal to set [[Teft]] free when the lieutenant was brought before his magistrates on a charge of "public intoxication on [[firemoss]]."{{book ref|sa3|104}}
+{{image|Aladar by Dragontrill.jpg|side=left|width=250px|Looking out over the chasms}}
+
+As Dalinar began reaching out to the other rulers in Roshar in order to unify the world against the voidbringers, he relied on having a team with him and included Aladar in his sessions talking to the other monarchs via [[spanreed]]. Aladar pointed out to Dalinar during his conversation with Queen [[Fen]] that Dalinar's knowledge of the [[Knights Radiant]] was valuable as a bargaining tool to compel people to work *with* him, advice that Dalinar took despite his desire to be totally transparent in his dealings with the monarchs.{{book ref|sa3|12}} At another of Dalinar's meetings, Aladar spoke up in defense of his assessment of the enemy's motives, and Highprince [[Ruthar]] cut him down rudely.{{book ref|sa3|27}}
+
+Aladar, Dalinar, and Roion combined their forces in a plan to retake [[Kholinar]], but even as their armies clustered on the Oathgate platform waiting to be transported from Urithiru to Kholinar, they received word via spanreed that the city had fallen and the group they had sent to the city had failed to unlock the Oathgate.{{book ref|sa3|86}}
+
+After this failure, the leaders of Urithiru hosted the first meeting of monarchs in the tower. The various monarchs were at first unwilling to cede enough control to each other to work together; Aladar got riled up conversing with the [[Tashikk|Tashikki]] ambassador until Navani began doling out responsibilities predicated on each nation's strengths. After that, Aladar spoke up to offer [[Emul]] help in its defense against [[Tukar]], something that he made good on in the coming weeks.{{book ref|sa3|96}}{{book ref|sa3|111}}
+
+{{sidequote
+|They didn’t care that the Blackthorn was a heretic—or even whether he usurped the throne of Alethkar. They cared that he had a plan for dealing with the enemy, long-term.
+|Navani appreciating Aladar, Sebarial, Hatham, and Bethab{{book ref|sa3|104}}
+|side=right|size=300px
+}}
+Because Dalinar's restored memories of his actions at [[Rathalas]] were so painful he retreated from the public for a while, four of the highprinces--including Aladar, Sebarial, [[Hatham]], and [[Bethab]], who sent his [[Mishinah|wife]] in his stead--approached Navani with their concerns. They discussed such problems as the infrastructure of the tower, the lack of supplies and labor, and the business of Dalinar becoming highking, all while making it clear that the heart of the problem was a doubt as to Dalinar's motives and capability. During the meeting, Navani was able to allay their concerns and restored Aladar's faith, especially, in Dalinar.{{book ref|sa3|104}}
+
+### Battle of Thaylen Field
+Aladar led the meeting of monarchs in Dalinar's absence on the day Dalinar was recovered enough to attend. They discussed plans preparing for battle at [[Jah Keved]] until Dalinar realized that [[Odium]]'s forces were instead going to attack [[Thaylen City]].{{book ref|sa3|107}} The next meeting took place in Thaylen City itself, and Aladar was present to hear the various information leaks, including the translation of the [[Eila Stele]], that sought to tear apart the coalition.{{book ref|sa3|111}}
+
+When the [[Battle of Thaylen Field]] commenced, Aladar was still at Urithiru. He was able to counter the invading force of singers along with Sebarial and Teft, the new [[Windrunner]].{{book ref|sa3|120}} At the conclusion of the battle, he attended the conference that discussed tactics regarding the future.{{book ref|sa3|122}}
+
+Following the Battle of Thaylen Field, Aladar continues to reinforce Dalinar's trust in him.{{book ref|sa4|50}}
+
+### The Emuli campaign
+During Dalinar's campaign in [[Emul]], Aladar was assigned to oversee the withdrawal in Alethkar.{{book ref|sa4|50}}
+
+### Azimir
+Adolin requested scribes from Highprince Aladar to fill in for Shallan during the [[Battle of Azimir]], so Aladar sent his best, including his daughter, May. Aladar himself shows up for a brief time with his daughter, and before leaving, he has a conversation with Adolin. Aladar expresses gratitude at what the Kholin family has established, stating he was nothing but selfish during the time at the Shattered Plains.{{book ref|sa5|37}}
+
+## Relationships
+### May Aladar
+Aladar used to find it embarrassing his daughter participated in archery as it made her seem unladylike, however he has opened up to allowing it, although he is still concerned about her practicing with her House's Plate and Blade.{{book ref|sa5|37}}
+
+## Trivia
+* In *[[Words of Radiance]]*, Aladar's colors are described once as being "white and dark green";{{book ref|sa2|76}} this is likely a mistake, as those colors are otherwise associated with [[Torol Sadeas]]' army, and Aladar's are otherwise consistently described as black and maroon.
+
+## Notes
+<references /><!-- sa1: 26, 58, sa2 5, 8, 24, 29, 36, 38, 53, 55, 56, 67, 76, 79-89
+sa2: 5, 8, 24, 29, 36, 38, 53, 55, 56, 67, 76, 79-87, 89
+sa3: 2, 4, 9, 12, 18, 27, 29, 40, 46, 64, 68, 86, 96, 104, 107, 111, 120, 122 -->
+{{partial}}
+{{Stormlight}}
+[[category: family names]]

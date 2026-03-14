@@ -1,0 +1,2 @@
+#redirect[[Vin]]
+[[Category: Aliases]]

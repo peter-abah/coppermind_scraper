@@ -1,0 +1,22 @@
+---
+family: "House Smedry"
+descendants: "Alcatraz Smedry|Alcatraz"
+abilities: "{{tag+|Smedry|Smedry Talent"
+---
+
+|earth=Alcatraz
+|books=[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]
+}}
+{{quote
+|She single-handedly ended the drought in Kalbeeze during the fourth-third century - and did so while keeping all their dishes sparking clean!
+|[[Sing Sing Smedry]] commenting on Libby's Talent{{book ref|a1|11}}
+}}
+**Libby Smedry** is a [[House Smedry|Smedry]] with the [[Smedry Talent|Talent]] of spilling lots of water when she washes dishes.{{book ref|a1|11}}
+
+## Trivia
+Her name is likely a reference to [[wikipedia:Libby_Prison|Libby Prison]] in Virginia.
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:40, 15 June 2018 (MST)}}
+{{Alcatraz}}

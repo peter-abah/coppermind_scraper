@@ -1,0 +1,15 @@
+---
+world: "Detritus"
+universe: "Cytoverse"
+books: "Skyward (series)"
+---
+
+{{update|sky2|sf1|sf2|sky3|sf3|sky4}}
+**Platform Prime** is the orbital headquarters of the [[DDF]] and is located within the protective shell around [[Detritus]].{{book ref|sky2|3}} It is "enormous" and has an artificial gravity field.{{book ref|sky2|10}} It is one of thousands of [[platform]]s surrounding the planet.{{book ref|sky2|3}}{{book ref|sky2|9}} It is the largest platform that has been recaptured by the DDF and is in near-perfect working order despite being abandoned for decades.{{book ref|sky2|3}}
+
+At the time of [[Spensa]]'s jump to Starsight, the DDF had begun to unearth the contents of its databanks, the first one being a disturbing record of humankind's disastrous attempts to summon a [[delver]].
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

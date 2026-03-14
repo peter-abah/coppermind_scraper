@@ -1,0 +1,18 @@
+---
+name: "Torrent"
+profession: "{{cat tag|scholars|Librarian"
+---
+
+|residence=Armedius Academy
+|earth=Rithmatist
+|introduced=[[The Rithmatist]]
+}}
+**Ms. Torrent** is the librarian at [[Armedius Academy]].{{book ref|Rithmatist|10}}
+
+She stops [[Joel]] from entering the [[Rithmatics]] section of the library as it is forbidden for non-Rithmatists to enter without an escort. When Joel returns with [[Melody]], Ms. Torrent lets them into the section reluctantly and then lets them check out one of the books [[Nalizar]] had requested be sent to his office.{{book ref|Rithmatist|11}} She acts similarly when they return the book.{{book ref|Rithmatist|20}}
+
+## Notes
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 20:34, 28 September 2024 (UTC)}}
+{{Rithmatist}}
+[[category: titled characters]]

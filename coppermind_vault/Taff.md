@@ -1,0 +1,18 @@
+---
+died: "{{book ref|wb|26"
+---
+
+|occupation=Servant
+|nation=Hallandren
+|world=Nalthis
+|universe=[[Cosmere]]
+|books=[[Warbreaker]]
+}}
+**Taff** is a servant in [[Mercystar]]'s palace in [[Hallandren]] on [[Nalthis]].{{book ref|wb|26}}
+
+Taff is in a hallway with three other servants when they are attacked by [[Vasher]] as he infiltrates the palace.{{book ref|wb|26}} Taff is immediately tied up with an [[Awakening|Awakened]] rope.{{book ref|wb|26}} [[Rariv]] and another servant run for help; [[Lolan]] becomes distracted by [[Nightblood]] and is knocked unconscious by Vasher.{{book ref|wb|26}} When help arrives, the rope binding Taff is no longer Awakened, but he has been stabbed and killed.{{book ref|wb|26}} After interviewing the witnesses, [[Lightsong]] deduces that the initial assailant (Vasher) was not the murderer.{{book ref|wb|26}} The killer was [[Denth]], who was tailing Vasher.{{wob ref|6955}} Taff was presumably killed because he was the only person who would have been able to identify Denth.{{book ref|wb|26}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 10:19, 10 June 2019 (MST)}}
+{{Warbreaker}}

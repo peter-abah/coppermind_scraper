@@ -1,0 +1,31 @@
+{{culture
+|universe=[[Wode]] [[State]]s
+|books=[[Perfect State]]
+}}
+The **Wode** are a group of humans who administrate the [[State]]s. They use [[XinWey's Doctrine]] to govern the [[Liveborn]], and control the programming of the States and all the [[Machineborn]] in them.
+
+## Isolationism
+{{quote|The Wode had only interfered with my life twice. First at age fifty, to inform me that my reality was a layered simulation. And now to demand that I procreate.|Kairominas about the Wode{{book ref|ps|1}}}}
+
+The Wode follow a policy of isolationism towards the Liveborn. After placing the Liveborn within their [[State#Personal States|Personal State]], the Wode only interfere with the State and the Liveborn when necessary, or when XinWey's Doctrine demands.{{book ref|ps|1}}
+
+### Age of Awareness
+The Wode never contact a Liveborn until they turn the age of fifty. It is at this age that the Liveborn are presented with the [[Wode Scroll]], the only means of communicating with the Wode. Prior to that, the Liveborn are left to live in their State, ignorant of the true nature of their world.{{book ref|ps|1}}
+
+### Procreation
+At some point during a Liveborn's life, the Wode calls upon them to procreate with another Liveborn. This entails the Liveborn pick a partner from a list and meet them in a [[State#Communal States|Communal State]].{{book ref|ps|1}} All Liveborn are required to participate at some point in their life unless the Wode decides they can abstain.{{book ref|ps|8}}
+
+### Programming
+The Wode sets the programming for all the States and Machineborn. If necessary they can adjust the programming to pressure, and essentially force, Liveborn into doing what they need. It is implied this does not happen often, however, and in fact the Wode even allow Liveborn to hack the programming of their Personal State and the Machineborn that reside within it.{{book ref|ps|1}}
+
+## Administrators
+As administrators of the States, the Wode perform many jobs for the Liveborn with the intent to enhance their lives. Some of these jobs include acting referees for the game of paintball that occurs on [[Maltese]], pairing Liveborn to their Personal State, and acting as disciplinarians when a Liveborn breaks a precept of XinWey's Doctrine.{{book ref|ps|2}} They also provide new challenges for Liveborn once they've conquered the inherent challenges of their Personal State, and maintain the technology that keeps Liveborn alive for so long.{{book ref|ps|3}}
+
+## Connection with Legion
+In [[Legion: Lies of the Beholder]], a company named Walters and Ostman Detention Enterprises shows up, which would be initialized as WODE.{{book ref|legion3|8}} The company appears to have been founded fairly recently, and engages in activities similar to the WODE in [[Perfect State]], albeit with lower tech. It is implied Perfect State and Legion are, therefore, in the same universe.{{wob ref|11003}}
+
+## Notes
+<references />
+{{partial}}
+{{Perfect State}}
+[[Category:Groups]]

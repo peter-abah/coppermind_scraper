@@ -1,0 +1,17 @@
+{{geography
+|type={{cat tag|Islands|Island}}
+|region=Sapphire Sea
+|world=Lumar
+|universe=[[Cosmere]]
+|books=[[Tress of the Emerald Sea]]
+}}
+
+The **Zephyr Islands** is a group of islands presumably in the [[Sapphire Sea]] on [[Lumar]]. They are known for producing pottery.{{book ref|tress|28}} 
+
+The scholar [[Delph]] is from the Zephyr Islands.{{book ref|tress|31}} 
+
+## Notes
+<references />
+{{complete|[[User:Jofwu|Jofwu]] ([[User talk:Jofwu|talk]]) 14:55, 16 January 2023 (UTC)}}
+{{tress}}
+[[es:Islas Céfiro]]

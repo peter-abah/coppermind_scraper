@@ -1,0 +1,13 @@
+---
+died: "*Unknown*"
+earth: "Reckoners"
+residence: "Newcago"
+books: "Steelheart"
+---
+
+**Eddie Macano** is a gang leader in [[Newcago]]. [[David Charleston]] tried to bluff [[Curveball]] into thinking he was part of Macano's team. His bluff fails when Curveball remembers that Macano had died two days earlier in a skirmish with the [[underblood]]s.{{book ref|r1|2}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 02:28, 21 March 2020 (UTC)}}
+{{Reckoners}}

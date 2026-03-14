@@ -1,0 +1,15 @@
+---
+#profession: "Scholar"
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+**Galid** was a classical scholar on [[Roshar]].{{book ref|sa3|44}}
+
+She was an inventor, and her designs are still used in modern astronomy. Among her inventions were clocks that allowed sailors to determine their longitude at sea, which had previously been impossible.{{book ref|sa3|44}} [[Shallan Davar]] cites Galid, [[Dandos Heraldin]], and [[Jasnah]] as scholars who had expertise in multiple fields; they inspire her to become known for more than just her drawing ability.{{book ref|sa3|44}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:21, 24 September 2018 (MST)}}
+{{Stormlight}}

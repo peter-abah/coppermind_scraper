@@ -1,0 +1,12 @@
+{{geography
+|region=Kingdoms of Light
+|world=Mirandus
+|books=[[Dark One (franchise)|Dark One]]
+}}
+
+**Brighthome** is a region with the city, [[Vitus Kirkas]] in the north, and bordered partly by [[Highguard (Dark One)|Highguard]] and other mountains to the south and west. The [[Silverwood]] forest runs alongside the east, separating Brighthome from [[Mod Isilva]] in the [[Kingdoms of Light]]'s south.{{map ref|Mirandus}}
+
+## Notes
+<references />
+{{complete}}
+{{Dark One}}

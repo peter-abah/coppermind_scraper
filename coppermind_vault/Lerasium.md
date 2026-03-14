@@ -1,0 +1,38 @@
+{{metal
+|hemalurgy=Steal all abilities
+|type=[[God Metal]] ([[Preservation]])
+|properties=Alter [[spiritweb|Spiritual DNA]]
+}}
+**Lerasium** is a [[God Metal]].{{book ref|mb5|epilogue}} A normal person burning lerasium becomes a [[Allomancy|Mistborn]] of undiluted power. A Misting or Mistborn burning lerasium drastically increases their powers.{{wob ref|10116}} [[Feruchemist]]s can use lerasium to store an unknown quality, and when used as a [[Hemalurgic]] spike, lerasium steals all abilities.{{file ref|Hemalurgy table.jpg|Hemalurgy Table}}
+
+Lerasium is notable as it is the condensed power of the [[Shard]] [[Preservation]].  The only known source were beads found at the Well of Ascension. Presumably, the name "lerasium" is inherited from [[Leras]], the name of the original holder of the Shard Preservation, just as the name [[atium]] is inherited from [[Ati]], the original holder of the Shard [[Ruin]]. Lerasium cannot be combined with atium to make [[harmonium]], nor can harmonium be broken down into lerasium and atium by normal, mechanical means.{{book ref|mb7|13}}{{book ref|mb7|15}}{{wob ref|12145}} However, lerasium and atium can be divided from harmonium through supernatural methods, such as a reaction with trellium.{{book ref|mb7|71}}
+
+## Allomantic Use
+For normal people, burning lerasium forges a permanent [[Connection]]{{wob ref|6072}} between them and Preservation, turning them into Mistborn by rewriting their [[spiritweb|spiritual DNA]].{{wob ref|10116}} For people who are already Mistborn, the same effect increases their power.{{wob ref|1304}} However, turning people into Mistborn is only a side effect of burning lerasium; if someone who knew how to use it correctly were to burn it, it would have a different, as of yet unknown, effect.{{wob ref|7708}} Someone knowledgeable enough could use the rewrite of their spiritual DNA to achieve a different result than becoming a Mistborn.{{wob ref|5499}}{{wob ref|11939}} Burning [[duralumin]] in conjunction with lerasium does not have any effect on the strength of the Mistborn created,{{wob ref|3618}} but the size of the bead does affect the strength of the Mistborn created.{{wob ref|341}}
+
+Alloys of lerasium have the side effect of turning those who burn them into [[Misting]]s of the alloy used.{{wob ref|7624}} Alloys of lerasium and other God Metals can make those who burn them gain the [[Investiture]] associated with the God Metal.{{wob ref|10624}} The primary effects of lerasium alloys are also unknown.
+
+### Savantism
+If someone were able to burn the amount of lerasium needed to become an Allomantic [[savant]] with the metal, they would Ascend and become the holder of Preservation, similar to what happened when [[Vin]] consumed the [[mists]].{{wob ref|1248}} This is due to the nature of the metal as the condensed power of Preservation.
+
+## Feruchemical Use
+Lerasium, when used by a Feruchemist, has unknown properties.{{book ref|mb7|part=ars}}
+
+## Hemalurgic Use
+When used as a Hemalurgic spike, lerasium steals all abilities, such as strength, senses, or mental acuity.{{file ref|Hemalurgy table.jpg|Hemalurgy Table}}{{book ref|mb7|part=ars}}{{wob ref|14896}} This wastes most of its potential.{{wob ref|5912}}
+
+## History
+Lerasium was created by Leras.{{wob ref|6046}} [[Rashek]] collected the beads,{{wob ref|140}} after taking the power of Preservation at the [[Well of Ascension]], and used them to entice foreign kings to become his allies.{{wob ref|8001}} He left two beads near the Well, for reasons unknown.{{msh ref|2|1}}
+
+However, neither of these beads were used prior to the fall of the Final Empire. One bead was fed to [[Elend]] to save his life after being attacked by Leras, whose hand was directed by [[Kelsier]], in an attempt to prevent Vin from releasing Ruin from the Well.{{book ref|mb2|58}}{{book ref|mb2|59}}{{msh ref|2|4}} The other was stolen and consumed by [[Hoid]], after he used the Well to transition from the Cognitive Realm to the Physical.{{wob ref|12210}}{{msh ref|2|1}}
+
+[[Waxillium_Ladrian|Wax]] was later able to split ettmetal using [[trellium]] to create more lerasium, which was later used by Wax and [[Wayne]], creating the first known Mistborn since the [[Spook|Lord Mistborn]] right after the [[Catacendre]].{{book ref|mb7|71}} [[Kelsier]] wishes to use it to create an army of Mistborn to fight against the armies of [[Autonomy]], though Harmony rejects these plans.{{book ref|mb7|epilogue|4}}
+
+## Trivia
+* If [[Harmony]] wanted to, he could produce more lerasium.{{wob ref|9713}}
+
+## Notes
+<references />
+{{partial}}
+{{Mistborn|metals}}
+[[es:Lerasium]]

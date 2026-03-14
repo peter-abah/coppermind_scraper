@@ -1,0 +1,2 @@
+#REDIRECT [[Feruchemy]]
+[[category: terminology]]

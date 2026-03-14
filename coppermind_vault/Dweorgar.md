@@ -1,0 +1,18 @@
+{{lifeform
+|abilities=Makes weapons
+|earth=Frugal Wizard
+}}
+
+{{quote|I apologize, aelv. I should not contemplate stealing a dweorgar weapon.|Ealstan to John{{book ref|fwh|12}}}}
+
+**Dweorgar** are a race of beings that produce weapons, notably for [[aelv]]s.{{book ref|frugal|12}}
+
+When enquiring after [[Ulric Stromfin]]'s [[Torrington 11940|gun]], [[Ealstan]] sheepishly apologised to [[John West]] for thinking about stealing the weapon. Ealstan assumed the gun was created by the dweorgar, as he believed both Ulric and John to be aelvs.{{book ref|fwh|12}}
+
+## Trivia
+* Dweorgar are likely meant to be dwarves, as "dwarf" is derived from the Old-English "dweorg".{{wp ref|Dwarf_(folklore)|Dwarf_(folklore)|date=Jan 14, 2024}}
+
+## Notes
+<references />
+{{complete}}
+{{Frugal Wizard}}

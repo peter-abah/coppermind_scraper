@@ -1,0 +1,83 @@
+{{event
+|image=Attack on Roshar by Connor Chamberlain.jpg
+|partof=[[True Desolation]]
+|participants= [[Adolin]], [[Kaladin]], [[Shallan Davar]], [[Elhokar]], [[Azure]], [[Drehy]], [[Skar]], The [[Fused]], [[Moash]], [[Sah]], [[Khen]]
+|effects= Kholinar lost to the [[Voidbringers]]; death of Elhokar; Adolin, Shallan, Kaladin, and Azure transported to [[Shadesmar]]
+|date=~{{Rosharan date|to|1|10}}<!-- R320: 1174.1.10.4 +3W-2W  --> {{Rosharan date|1174|2|3|2}}{{cite}}<!-- R330 R331 R333 -->
+|city=Kholinar
+|world=Roshar
+|universe=[[Cosmere]]
+}}{{update|book=sa3}}
+{{cite note}}
+The **Siege of Kholinar**, and the ensuing battle inside [[Kholinar Palace]], is a major event that occurs during the [[True Desolation]] in the [[Alethi]] city of [[Kholinar]] on [[Roshar]]. The battle resulted in a [[Voidbringer]] victory and occupation of the city, the death of King [[Elhokar]], and several of the modern [[Knights Radiant]] being transported to the [[Cognitive Realm]].{{book ref|sa3|122}}{{book ref|sa3|84}}
+
+## Background
+Facing very little opposition from the Alethi military which was occupied in the [[Shattered Plains]], a large [[singer]] army gathered outside of Kholinar, taking control of nearby villages and forcing the local populace into slavery while waiting for the rest of their people to arrive.{{book ref|sa3|51}}
+
+In the lead-up to the assault, [[Dalinar Kholin]] proposed reclaiming the city by moving his soldiers through the [[Oathgate]] in [[Kholinar]].{{book ref|sa3|12}} He sent a small task force led by [[Elhokar]] which included [[Kaladin]], [[Skar]], [[Drehy]], [[Adolin]], [[Shallan]], and Shallan's espionage group (which included [[Ishnah]], [[Vathah]], and [[Red (Roshar)|Red]]) to activate the Oathgate.{{book ref|sa3|60}}
+
+{{image|Kaladin vs a Voidbringer.jpg|side=left|width=250px|[[Kaladin]] killing one of the [[Fused]] attacking the city.}}
+### Siege
+
+In the siege leading up to the main assault, the Voidbringers used various siege tactics to weaken and test the city's defenses. Upon the arrival of [[Moash]]'s group, refugees were released by the Voidbringers in order to further encumber the besieged city, which was already running low on food.{{book ref|sa3|51}} In order to prevent communication with other allied cities, the Voidbringers deployed a variety of Voidspren referred to as Screamers to detect the use of fabrials within the city, particularly spanreeds. These spren detected the use of fabrials and Investiture within the city and upon detection emitted their namesake scream to alert nearby scouting Fused, who would then neutralize the source.{{book ref|sa3|62}} The Fused were also shown to engage in raids on the city walls in order to gauge the city's defenses, which were primarily maintained by [[Vivenna|Highmarshal Azure]] and her [[Kholinar Wall Guard]].{{book ref|sa3|61}}{{book ref|sa3|73}}
+
+When Dalinar's task force arrived in Kholinar, they hid at the house of Adolin's tailor.{{book ref|sa3|61}} Shallan and Kaladin went to send a message to the queen but when Shallan tried to enter the castle she was stabbed by a soldier and feigned death to escape.{{book ref|sa3|63}} The members of the task force split up. Elhokar arranged to meet up with the other remaining lighteyed nobles to attempt to win them over to their cause, and Adolin became his bodyguard. Shallan and most of her espionage group stole food and gave it to the poor (she was later labeled the "Swiftspren"){{book ref|ob|74}} in order to infiltrate the [[Cult of Moments]], a group of fanatics influenced by [[Unmade|Ashertmarn]] who had taken control of the Oathgate platform. Unfortunately, Shallan later learned that the food she was giving out was being collected by a gang of criminals, who then killed one of the people she gave food. Shallan suffered a mental breakdown after realizing that the people she was trying to help had been hurt by her actions, but she recovered after [[Hoid|Wit]] told her the story of [[The Girl Who Looked Up]].  Kaladin joined the [[Kholinar Wall Guard]] so that he could find out more information about the group (particularly its leader, Highmarshal Azure) and how they were providing food for the city. He was surprised to discover that Highmarshal Azure was female, he then spent several days with the Wall Guard. Later during a raid on the wall, Kaladin killed a Fused. Azure then showed him how she was procuring food -- in an underground chamber with aluminum walls used to prevent the screamers from sensing the Soulcasters who were making food. Kaladin then convinced the Wall Guard to help storm the palace with the rest of Dalinar's team. When the team began the attack the voidbringers began their full assault on the city to prevent the team from bringing reinforcements from the Oathgate. Several important events occurred while they were storming the palace.{{expand}}
+
+## Aftermath
+With the King slain and the Voidbringers overwhelming the palace, the remaining forces under Azure retreated to the Oathgate. Knowing that the Oathgate was the only way to escape, Shallan attempted to activate it against the warnings of the supposedly turncoat Unmade, [[Sja-anat]], who reveals to her that she was compelled to alter the spren of the Oathgate, so that it will not work properly. Sja-anat promises to try and not kill Shallan and her companions, and they activate the Oathgate. The sabotaged Oathgate transports them to Shadesmar.
+
+After the Radiants' narrow escape, the Voidbringers gain complete control over the city and cement their hold over the majority of Alethkar. However, during the battle, Bridge Four members Skar and Drehy managed to extricate Elhokar's son Gavinor from the chaos and flee the city undetected. They are later brought back to Urithiru with Kaladin's help.
+
+Aesudan's fate after the battle is unknown, but Yelig-nar is later shown taking Meridas Amaram as its new host, with Odium mentioning that "the power consumed her".
+
+## Characters Present
+
+### Combatants
+{{columns|
+* [[Kaladin]]
+* [[Azure]]
+* [[Shallan]]
+* [[Adolin]]
+* [[Elhokar]]
+* [[Aesudan]]
+* [[Beard]]
+* [[Noro]]
+* [[Ved (Stormlight)|Ved]]
+* [[Vaceslv]]
+* [[Alaward]]
+* [[Moash]]
+* [[Khen]]
+* [[Sah]]
+* [[Jali]]
+* [[Sja-anat]]
+* [[Ashertmarn]]
+* [[Yelig-nar]]{{book ref|sa3|84}}
+* [[Syl]]
+* [[Pattern]]
+* [[Skar]]
+* [[Drehy]]
+* [[Vathah]]
+* [[Red (Roshar)|Red]]
+* [[Ishnah]]
+}}
+
+### Non-combatants
+* [[Gavinor]]
+
+## Casualties
+* [[Elhokar]]{{book ref|sa3|84}}
+* [[Beard]]
+* [[Noro]]
+* [[Sah]]
+* [[Jali]]
+
+## Notes
+{{history
+|title=History of [[Roshar]]
+|prev=[[Battle of Narak]]
+|next=[[Battle of Thaylen Field]]
+}}
+<references />
+{{partial}}
+{{Stormlight}}
+[[category: list articles]]

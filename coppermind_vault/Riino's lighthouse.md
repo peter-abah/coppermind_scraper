@@ -1,0 +1,52 @@
+{{architecture
+|image=Shadesmar Travel by LittleGreyDragon.jpeg
+|owner=[[Riino]]
+|usage=Lighthouse
+|region=Sea of Lost Lights
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{uncanonical}}
+{{quote
+|You have come to witness the extraordinary, and I shall provide it. The price is a mere two marks of Stormlight. You shall be greatly rewarded in kind—both in dreams and luster!
+|Riino pitching his fortunetelling business{{book ref|sa3|97}}
+}}
+
+**Riino's lighthouse** can be found at the end of a peninsula within the [[Sea of Lost Lights]] in [[Shadesmar]].{{book ref|sa3|97}}{{map ref|Sea of Lost Lights}} 
+
+The lighthouse functions as a waypoint in which passing ships can restock their supplies, as well as signalling that there is land nearby.{{book ref|sa3|95}} The dwelling is also used by [[Riino]] to conduct readings of the future for passing travellers.{{book ref|sa3|97}}
+
+## Structure and Function
+The building is a large stone tower that is topped by an enormous bonfire. The bonfire does not give off any heat and, unlike the Shadesmar sun, casts shadows away from itself instead of towards itself. Because of this, it may be a manifestation that has been pulled through from the Physical Realm.{{book ref|sa3|97}}{{ref|group=fn|text=This would be in the same vein that [[Kelsier]] manifests a campfire in the [[Cognitive_Realm#Scadrial|Scadrial subastral]].{{msh ref|4|2}}}}
+
+The lighthouse is not overly furnished and contains only a few bits of furniture. Riino has, however, decorated some of the wall space with paintings.{{book ref|sa3|97}} The lighthouse contains a ship manifest that details when supplies are due to arrive as well as a supply of food and other goods that can be traded for infused [[spheres]].{{book ref|sa3|97}}
+
+A second room, built against the base of the lighthouse and accessible from inside the main building, is where Riino performs his readings. It has large windows and in the middle there is a table on which sits a large crystalline globe that is filled with a bright unknown substance. This room is also decorated with paintings, including one of the city of [[Elantris (city)|Elantris]]. A second painting depicts people kneeling before a bright white mirror, that may represent a perpendicularity.{{book ref|sa3|97}}{{ref|group=fn|text=The white mirror described in this painting bares a similarity to the murals found within Elantris of [[Devotion's Perpendicularity]].{{book ref|elantris|25}}}}
+
+### Rii's Oracle
+{{quote 
+|Charlatans like him aren’t uncommon, where I come from. People who claim to be able to see the future, living off people’s hopes. Your society was right to forbid them. 
+|Azure remarking to Kaladin about Riino's business{{book ref|sa3|97}}
+}}
+
+Riino will often burn incense and keeps stores of strong smelling spices. He is used to visitors appearing unannounced, particularly before the [[highstorm]], who wish to have their future read. A reading costs two marks worth of [[Stormlight]]. During a highstorm, the globe that Riino uses will shift to mimic the light and effect of the highstorm. It is possible for Invested individuals to use the globe even if they do not understand how to do so.{{book ref|sa3|97}}
+
+## History 
+In {{Rosharan date|1174}} [[Kaladin]], [[Shallan]], [[Adolin]], [[Azure]], and the Radiant's spren, stumbled upon Riino's lighthouse after escaping the [[Battle of Kholinar]] into [[Shadesmar]]. Kaladin, sent scouting ahead to assess the structure, was caught by Riino who welcomed him in, assuming Kaladin was a customer looking for a reading of their future. As the highstorm passed, Kaladin accidentally gained brief access to the [[Spiritual Realm]]{{wob ref|8649}} through Riino's globe. After retrieving his companions, the group bartered with Riino for food and supplies, while they waited for the next supply ship to arrive at the peninsula.{{book ref|sa3|97}}
+
+## Development
+The scene between Riino and Kaladin was one of the hardest scenes for [[Brandon Sanderson|Brandon]] to write in [[Oathbringer]].{{wob ref|9400}} Initially, they met at the [[Celebrant]] marketplace, with the lighthouse being run by [[Cryptic]]s.{{wob ref|8649}} Ultimately, Brandon switched out the keepers of the lighthouse and moved the scene with Kaladin forward to strengthen his motivations{{wob ref|8649}} and to make the later story more enjoyable.{{wob ref|9414}}
+
+## Trivia
+* Riino's globe is not the Cognitive equivalent of a [[fabrial]].{{wob ref|13126}}
+* Although it is run by a member of the [[Ire]], the presence of Riino in the lighthouse is not directly related to the [[Sel|Selish]] group.{{wob ref|13060}}
+
+## Notes 
+;Footnotes
+<references group=fn />
+;References
+<references/>
+{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 07:54, 20 June 2020 (UTC)}}
+{{stormlight}}
+[[category: possessive articles]]

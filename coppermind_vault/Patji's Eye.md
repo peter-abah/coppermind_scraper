@@ -1,0 +1,30 @@
+{{geography
+|image=Patji's Eye by Grace Oris.jpg
+|type={{cat tag|water body|Lake}}, {{tag|cat=Perpendicularities|Perpendicularity}}
+|world=First of the Sun
+|universe=[[Cosmere]]
+}}
+{{spoilers|iote}}
+**Patji's Eye** is an emerald lake on the eastern side of the island of [[Patji (island)|Patji]].{{book ref|iote|16}} It is also a [[perpendicularity]] of [[Autonomy]].{{book ref|iote|15}}{{wob ref|9385}}
+
+## Nature and Appearance
+### Physical side
+The perpendicularity manifests as a still, emerald colored lake hidden in a large canyon.{{book ref|iote|18}} This gulch{{book ref|iote|61}} is surrounded by sheer cliffs on all sides, although there is an opening to the south, which leads directly into Patji’s jungle. There is a small river, originating in the lake, running through this opening. For some unknown reason, defying laws of nature, the water of this stream is bitter cold. The stream is often called the **Father's tears**.{{book ref|iote|16}}{{book ref|iote|18}} The canyon in which the lake lies is sometimes called **Patji's throat**. After the [[First Company]] settled on Patji, a waystation was constructed at the head of the canyon, and a small train track, running back to the docks, was created.{{book ref|iote|15}} It is not known how the perpendicularity looks after being expanded for trade.{{book ref|iote|61}}
+
+Patji’s eye is the home of [[Investiture|invested]] worms, which give the [[Aviar]] their talents. All birds from the Pantheon fly to Patji to eat the fruit of [[Cakoban's finger]]s, which are infested by these worms. The Aviar then gain a talent.{{book ref|iote|18}} Some property of the perpendicularity ensures that all minds are hidden, regardless of the presence of the appropriate Aviar species.{{book ref|iote|18}} The perpendicularity is a much smaller manifestation of Investiture then most others found in the cosmere, and was only two or three feet deep.{{wob ref|3365}}{{book ref|iote|18}}
+
+### Cognitive side
+The perpendicularity's location in the [[Cognitive Realm]] is a lot less impressive. It is still the same lake as in the [[Physical Realm]], but this time surrounded by only a small strip of land, which lies in an abyss known as the [[unsea]].{{book ref|iote|15}} The [[Eelakin]] have constructed several small buildings on this island, including a watchtower. Additionally, the small island has got some stones, textured like coral, with old pictures and runes, of boats and men and a giant serpent, on them.{{book ref|iote|17}} After [[Sixth of the Dusk]] defeated the [[Dakwara]], he commanded it to protect the perpendicularity, and it took to residing near the island, along with its [[skullsnake]] entourage. As the perpendicularity was made public, it was also expanded to fit large vessels.{{book ref|iote|61}}
+
+## History
+The perpendicularity came into existence after [[Autonomy]] created an [[Avatar]], [[Patji (being)|Patji]]. At some point after this event, [[Cakoban]] led his people through the perpendicularity. They wrote a number of things on the rocks near the perpendicularity.{{book ref|iote|52}}{{book ref|iote|15}} Shortly after, Cakoban and several others left First of the Sun to go on another journey through the unsea. It was on this journey that Cakoban died, although his shipmates successfully made it back to the portal.{{book ref|iote|52}} Scholars from [[Silverlight]] also found the perpendicularity, although no expeditions sent through the portal returned. This led to them essentially abandoning it, with knowledge of the perpendicularity fading.{{au ref|drominad}} The Eelakin also forgot its nature, with only trappers remembering its existence, and the fact that it grants the Aviar talents. Each trapper is taken to Patji's Eye after his training is complete, and after that they aren’t supposed to visit often.{{book ref|iote|16}}
+
+After the [[First Company]]’s first expedition to Patji, a director, [[Vathi]] discovers Patji’s Eye, and immediately realizes that this is the reason Aviar gain talents, as well as the fact that other birds could gain talents.{{book ref|iote|18}} Meanwhile, the [[Malwish Empire|Malwish]] are searching the Cognitive Realm for the perpendicularity, but they have trouble finding it.{{book ref|iote|36}} They mention the presence of the perpendicularity to the Eelakin, asking them if they know of a pool that makes people vanish. This makes some Eelakin realize that the lake on Patji must be able to make them vanish. They try this out, thinking about vanishing while standing in the lake, and are taken to the [[Cognitive Realm]]. The Eelakin construct an outpost on the other side of the portal, installing [[Second of the Fist]] as head guard.{{book ref|iote|15}} They also begin experimenting with the unsea and this new dimension. They accidentally discover that the worms that give the aviar their talents float on the unsea. This led them to create a paste from these worms, and launch an expedition into the unknown [[Cognitive_Realm#Emberdark|emberdark]].{{book ref|iote|11}}
+
+Meanwhile, the Malwish find Cakoban's tomb and, due to the presence of the [[Dakwara]], assume the perpendicularity to be there.{{book ref|iote|36}} After some time, the first Eelakin expedition is destroyed, likely sunk due to their lack of worm paste.{{book ref|iote|11}} Later, Dusk decided to go on a second expedition himself, hoping to find proof that this new dimension is the key to solving their problems.{{book ref|iote|17}} Nearly two months later, he and the cargo vessel [[Dynamic]] return to the perpendicularity.{{book ref|iote|61}} During the six months after his return, the First Company trains its new [[First Company Expeditionary Navigators|Navigators]], sticking close to the perpendicularity. The portal was made public shortly after these months, boosting trade in this quadrant of the Cosmere. The [[Dragon_(cosmere)|Dragon]] [[Xisisrefliel]] is given the right of first negotiation for reduced tariffs.{{book ref|iote|epilogue}}
+
+## Notes
+<references />
+{{complete}}
+{{Emberdark}}
+[[es:Ojo de Patji]]

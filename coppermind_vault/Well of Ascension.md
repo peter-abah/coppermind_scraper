@@ -1,0 +1,51 @@
+{{Perpendicularity
+|image=Vin ascending by Elsa Velasco.jpg
+|shard=[[Preservation]]
+|use=Giving power, imprisoning [[Ruin]], Realmatic Transition
+|era=[[Final Empire]]
+|city=[[Luthadel]]
+|world=Scadrial
+|books=[[Mistborn trilogy]]
+}}{{for|The Well of Ascension|the [[Mistborn (series)|Mistborn]] novel|pre=This article is about the place}}
+The **Well of Ascension** is a [[perpendicularity]], the manifestation of [[Preservation]]'s power.
+
+## Location and Appearance
+The entrance to the Well lies in the [[Lord Ruler]]'s [[Kredik Shaw|study]], and was designed to be opened by an [[Iron]]pull of tremendous strength, such that the Lord Ruler is one of the few individuals capable of opening it.{{book ref|mb2|57}} One section of the wall, presumably weighing several tons, can be pulled on to reveal a passageway, which leads to the stone chamber that houses the Well of Ascension. The Well appears as a shimmering, glowing white pool full of liquid metal.{{book ref|mb2|58}} The pool lies in a shallow depression in the rock and is only a few feet in diameter.
+
+## Purpose
+{{image|False Hero by Hinumay.png|side=right|width=250px|[[Alendi]] betrayed by [[Rashek]] at the Well of Ascension}}
+### Refilling Power
+As [[Allomancy]] is of [[Preservation]], particularly strong [[Seeker]]s can sense the pulsing of the Well of Ascension as it refills with power.{{book ref|mb2|57}}{{epigraph ref|mb1|6}} This pulsing is a [[Rhythm#The_Pure_Tones|pure tone]] of [[Scadrial]].{{wob ref|14586}} The closer to being filled, the more powerful the pulses feel.{{book ref|mb2|57}} [[Vin]] claimed that within a month of it being filled, that she no longer needed [[bronze]] to sense the pulses.{{book ref|mb2|49}}
+
+Every 1024 years, the Well refills with power.{{wob ref|5511}} When using the power, it lasts for only a short amount of time before it needs to refill again.{{epigraph ref|mb3|6}}{{book ref|mb2|58}} In the post-[[Catacendre]] era, the Well stopped refilling and is inactive.{{wob ref|9401}}{{wob ref|5600}}
+
+### Holding the Power
+Holding the power of the Well for a short time, either by using the power or giving it up, makes the user a [[Sliver]].{{wob ref|4499}}{{wob ref|13150}} If a user neither uses the power or releases it, they do not become a Sliver.{{wob ref|3840}} If the user has [[Hemalurgy|Hemalurgic spike]]s, they will feel a burning sensation where the spikes are, and will not be able to use the power until they remove them.{{book ref|mb2|58}}{{epigraph ref|mb3|49}}
+
+If the user takes the power to use, they are granted the abilities and limitations that Preservation has.{{wob ref|5764}} This includes moving Scadrial's orbit,{{epigraph ref|mb3|4}} altering the physiology of plants and humans on Scadrial,{{epigraph ref|mb3|5}}{{epigraph ref|mb3|15}} and altering the landscape of the planet.{{epigraph ref|mb3|12}} While slight alterations to humans can be done,{{epigraph ref|mb3|25}} bigger changes, such as making someone a [[Allomancy|Mistborn]] or a [[Mistwraith]], are also possible.{{wob ref|685}}{{wob ref|9889}}{{book ref|mb3|62}}
+
+Holding the power also grants the user increased knowledge, such as how to make Hemalurgic Constructs.{{book ref|mb2|58}}{{wob ref|7767}}{{epigraph ref|mb3|44}} This knowledge does not substitute for experience, and those using its power for bigger changes are likely to make mistakes.{{wob ref|7767}}{{wob ref|14418}}{{epigraph ref|mb3|2}} Users are able to leave Scadrial during their Ascension.{{wob ref|955}}
+
+### Other Uses
+{{quote
+|Alendi must not reach the Well of Ascension, for he must not be allowed to release the thing that is imprisoned there.
+|[[Kwaan]]{{epigraph ref|mb2|58}}{{epigraph ref|mb2|59}}
+}}
+The Well of Ascension serves as a prison for [[Ruin]]'s mind, keeping the [[Shard]] from performing large actions on the planet.{{epigraph ref|mb3|46}}{{epigraph ref|mb3|47}}{{epigraph ref|mb3|55}} The Well would release Ruin's mind if the power was released.{{book ref|mb2|58}}{{msh ref|2|3}}
+
+A person can become a [[Cognitive Shadow]] by merging their soul with its power.{{msh ref|1|1}} This also traps them in the Well until the power is released.{{msh ref|1|2}}{{msh ref|1|4}}
+
+## History and Mythology
+{{image|Drifter.png|side=right|width=300px|[[Kelsier]] meeting [[Hoid]] at the Well}}
+In [[Terris]] prophecy, it was said to be hidden deep within the Terris Mountains. However, when the Lord Ruler consumed the power from the Well of Ascension and changed the world, he also changed the location of the Well.{{book ref|mb2|57}} The Well was moved to Kredik Shaw, and lay in a chamber underneath the Lord Ruler's palace.{{wob ref|5450}}
+
+Before Vin released the power within the Well, it served as a prison for the [[Shard]] Ruin for several millennia.{{msh ref|2|3}} Preservation created the prison by sacrificing his mind to create something capable of containing Ruin's mind. With his mind gone, Preservation's body and power were left in the world, creating the [[mist]]s and the Well of Ascension. Vin released Ruin from this prison when she gave up the power in the Well.{{book ref|mb2|58}}
+
+It is unknown whether the Well still exists after the Catacendre.{{wob ref|9401}}{{wob ref|5600}}
+
+## Notes
+<references />
+{{partial}}
+{{Mistborn|Era 1}}
+[[category: magic]]
+[[es:Pozo de la Ascensión (in-world)]]

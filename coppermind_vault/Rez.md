@@ -1,0 +1,17 @@
+---
+profession: "Guard"
+residence: "Yeddaw"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Edgedancer (novella)|Edgedancer"
+---
+
+**Rez** is a guard in [[Yeddaw]] in [[Tashikk]] on [[Roshar]].
+
+==History==
+On the day that [[Lift]] entered [[Yeddaw]], Rez was stationed at a guard post above the city. He reported to Captain [[Hauka]] as part of immigration enforcement. He was eating in the guard chamber when Lift ran in looking for pancakes. Rez attempted to grab Lift, but she slipped between his legs. He then helped Hauka and another guard unsuccessfully pursue Lift. After Lift finished causing mayhem, Hauka asked Rez to take over immigration for an hour so that she could take a break.{{book ref|Edgedancer|3}}
+
+## Notes
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 18:24, 4 March 2020 (UTC)}}
+{{Stormlight}}

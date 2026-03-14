@@ -1,0 +1,13 @@
+{{nation
+|world=Nalthis
+|universe=[[Cosmere]]
+|books=[[Warbreaker]]
+}}
+**Xaka** is a nation on [[Nalthis]].
+
+[[Siri]] compares [[Bevalis]] to the grand cities of Xaka, [[Hudres]], and [[Hallandren]].{{book ref|wb|1}} She imagined she would not like such places, as even Bevalis was too busy for her.
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:08, 3 September 2016 (MST)}}
+{{Warbreaker}}

@@ -1,0 +1,13 @@
+{{culture
+|related=[[Alethkar]], [[Vorinism]] [[category: Alethi culture]]
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+
+The **sign of the nine** is an unknown concept on Roshar. It likely refers to something astronomical, an event of sorts, and someone can be born under this sign of the nine. [[Adolin Kholin]] was born under the sign of the nine.{{book ref|sa3|13}}
+
+## Notes 
+<references />
+{{complete}}
+{{stormlight}}

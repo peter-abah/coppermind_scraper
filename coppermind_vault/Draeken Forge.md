@@ -1,0 +1,12 @@
+---
+region: "Blackened Lands"
+world: "Mirandus"
+books: "Dark One (franchise)|Dark One"
+---
+
+The **Draeken Forge** is located in the [[Blackened Lands]]. It is unknown what exactly the Draeken Forge is, but [[Rastik]] refers to it as a 'who' that would eat [[Paul Tanasin]] after tearing him to pieces, if they continued on their journey to the forge.{{book ref|do1|3}}
+
+## Notes
+<references />
+{{complete}}
+{{Dark One}}

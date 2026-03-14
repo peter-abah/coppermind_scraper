@@ -1,0 +1,20 @@
+---
+name: "Sophie"
+merge-family: "y"
+parents: "Abigail Casey"
+died: "Killed by an Epic{{book ref|lux|16"
+---
+
+|'residence=[[wikipedia: Dallas|Dallas]]
+|earth=Reckoners
+}}
+
+**Sophie** is [[Abigail Casey|Abigail]]'s young daughter who is killed by an [[Epic]] several years prior to the fall of [[Lux (city)|Lux]].{{book ref|lux|16}}
+
+## History
+Sophie loved making treasure hunts for her mom to do. She would take her mom's old jewelry boxes and put rocks in them as the treasure, then make maps with clues to get her mom to try and find the treasure. Abigail, however, had a busy job in finance and often chose to work instead of playing with Sophie. When the first wave of Epics came into [[wikipedia: Dallas|Dallas]], Sophie was killed on the way home from school.{{book ref|lux|16}}
+
+## Notes
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 09:00, 29 May 2022 (UTC)}}
+{{Reckoners}}

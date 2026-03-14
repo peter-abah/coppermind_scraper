@@ -1,0 +1,2 @@
+#redirect[[Jaks]]
+[[Category: Aliases]]

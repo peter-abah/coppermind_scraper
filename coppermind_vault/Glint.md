@@ -1,0 +1,15 @@
+---
+owner: "Jak"
+type: "Wikipedia: Revolver| Revolver"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 2"
+---
+
+**Glint** is the nickname of a revolver on [[Scadrial]]. It is Gentleman [[Jak]]'s favorite gun, and he carries it on all of his adventures.{{file ref|Elendel_Daily_broadsheet.png|*The Elendel Daily* Broadsheet}}{{file ref|House_Record_broadsheet.jpg|*The House Record* Broadsheet}}{{book ref|eltania}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:22, 19 July 2021 (UTC)}}
+{{Mistborn|Era 2}}
+[[Category: Weapons]]

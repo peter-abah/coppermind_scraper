@@ -1,0 +1,17 @@
+---
+spouse: "Kheni"
+residence: "Kholinar"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Oathbringer"
+---
+
+{{for|Cob (Mistborn)|[[Wax]]'s coachman|post={{wob ref|9492}}}}
+**Cob** is a man in [[Kholinar]] on [[Roshar]] known to [[Hoid]] after the coming of the [[True Desolation]].{{book ref|sa3|epilogue}}
+
+He was married to [[Kheni]]; they had a small child who was killed under unknown circumstances during the fighting in and around Kholinar. Kheni went into a catatonic state as a result; Cob stayed with her to take care of her, always hovering nearby. A disguised Hoid met them and some other refugees on several occasions. When Hoid brought Cob and Kheni an orphaned girl to take care of, Cob asked if he could stay a little longer, which Hoid did not believe he had ever been asked before.{{book ref|sa3|epilogue}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:21, 20 August 2020 (UTC)}}
+{{Stormlight}}

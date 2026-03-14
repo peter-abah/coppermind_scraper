@@ -1,0 +1,20 @@
+{{CoverToC|mbe2}}
+
+This is a gallery for all known covers for *[[Shadows of Self]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
+
+<gallery widths=3000px heights=400px mode="packed">
+Shadows of Self US Hardcover.jpg | <center>United States</center> (Tor, 2015)
+SOS US 2023 Cover.jpg | <center>United States</center> (Tor, 2023)
+Shadowsof Self GA.jpg | <center>United States</center> (Graphic Audio)
+Shadows of Self UK Hardcover.jpg | <center>United Kingdom</center> (Gollancz)
+SOS BR cover.jpg | <center>Brazil</center> (Leya)
+Shadows of Self PL Hardcover.jpg | <center>Poland</center> (MAG)
+SOS BG cover.jpg | <center>Bulgaria</center> (Артлайн-Студиос / Artline Studios)
+SOS CN cover.jpg | <center>Mainland China</center> (重庆出版社 / Chongqing Publishing House)
+SOS RO cover.jpg | <center>Romania</center> (Trei)
+SOS TW cover.jpg | <center>Taiwan</center> (奇幻基地 / Fantasy Foundation)
+SOS DE cover.jpg | <center>Germany</center> (Piper)
+
+</gallery> 
+
+[[Category:Cover Galleries]]

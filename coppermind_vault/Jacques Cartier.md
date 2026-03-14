@@ -1,0 +1,13 @@
+---
+earth: "Rithmatist"
+books: "The Rithmatist"
+---
+
+**Jacques Cartier** is an explorer.{{book ref|Rithmatist|17}}
+
+He is probably based on the [[wikipedia: Jacques Cartier|explorer]] who invaded Canada for France.
+
+## Notes
+<references />
+{{stub}}
+{{Rithmatist}}

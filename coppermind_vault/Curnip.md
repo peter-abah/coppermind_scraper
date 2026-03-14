@@ -1,0 +1,20 @@
+{{lifeform
+|type=[[Rockbud]]
+|use={{cat tag|Food}}
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+<!-- note that this term is missing from some e-book versions, but it is included in the leatherbound -->
+**Curnips** are a type of [[rockbud]] native to [[Roshar]]. They are cultivated as a vegetable.{{book ref|sa1|19}} It is unclear if they are related to [[lurnip]]s, another edible plant on Roshar.
+
+While experiencing a [[Visions|vision]] of the [[Heraldic Epochs]], [[Dalinar]] identifies some plants as curnips; this implies that they are still cultivated on Roshar during the [[Era of Solitude]], possibly in Dalinar's home nation of [[Alethkar]].{{book ref|sa1|19}}
+
+## Trivia
+*Some versions of *The Way of Kings* refer to this plant as a turnip, but this was later corrected; "curnip" is used in the leatherbound edition.
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:16, 3 September 2016 (MST)}}
+{{Stormlight}}
+[[Category: Rosharan food]]

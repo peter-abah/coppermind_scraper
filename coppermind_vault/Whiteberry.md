@@ -1,0 +1,11 @@
+{{food
+|world=ReDawn
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+The **whiteberry** is a type of fruit from [[ReDawn (planet)|ReDawn]] that is sometimes made into jam. [[Alanik]] compares the lack of resistance while traveling through the [[nowhere]] to sliding a knife through whipped whiteberry jam.{{book ref|sf2|8}}
+
+## Notes
+<references />
+{{complete|--[[User:Stargazer|Stargazer]] ([[User talk:Stargazer|talk]]) 03:57, 27 October 2021 (UTC)}}
+{{Skyward}}

@@ -1,0 +1,15 @@
+{{lifeform
+|type=Tree
+|native=[[Unclaimed Hills]]
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Cobwood** is a type of tree that is native to the [[Unclaimed Hills]] and other areas of [[Roshar]].{{book ref|sa1|45}}
+
+Cobwood trees are fairly dense, so they serve as good protection during a [[highstorm]].{{book ref|sa1|45}} Cobwood is often used in furniture, such as desks{{book ref|sa1|33}} or tables.{{book ref|sa1|37}}
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 01:23, 21 December 2016 (MST)}}
+{{Stormlight}}

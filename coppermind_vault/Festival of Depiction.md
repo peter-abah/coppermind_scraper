@@ -1,0 +1,17 @@
+{{culture
+|type=Festival
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[Words of Radiance]]
+}}
+
+{{quote
+| But if art is eternal and meaningful and independent, why does it depend so damn much upon the audience? You've heard the story about the farmer visiting court during the Festival of Depiction, right?
+| [[Hoid|Wit]], to a songling.{{book ref|sa2|epilogue}}
+}}
+The **Festival of Depiction** appears to be a festival celebrated on [[Roshar]], though it is unclear whether it is celebrated during the [[Era of Solitude]] or before. There is a story about a farmer visiting court during the Festival of Depiction.{{book ref|sa2|epilogue}}
+
+## Notes
+<references/>
+{{complete|[[User:Argent|Argent]] ([[User talk:Argent|talk]]) 22:15, 16 June 2019 (MST)}}
+{{Stormlight}}

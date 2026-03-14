@@ -1,0 +1,18 @@
+{{disambig}}
+
+**Kholin** may refer to [[House Kholin]] or any of the following:
+
+## People
+* [[Adolin Kholin]]
+* [[Renarin Kholin]]
+* [[Dalinar Kholin]]
+* [[Aesudan Kholin]]
+* [[Elhokar Kholin]]
+* [[Gavilar Kholin]]
+* [[Navani Kholin]]
+* [[Jasnah Kholin]]
+* [[Gavinor Kholin]]
+
+## Places
+* [[Kholin princedom]]
+* [[Shattered Plains|Kholin warcamp]]

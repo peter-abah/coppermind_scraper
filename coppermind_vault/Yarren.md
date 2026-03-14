@@ -1,0 +1,14 @@
+---
+profession: "Arms merchant"
+residence: "Alethi warcamps"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Stormlight Stonewalkers"
+---
+
+**Yarren** is an excitable arms merchant based in the [[House Kholin|Kholin]] [[Shattered Plains#warcamps|warcamp]] on [[Roshar]]. He is a retired sergeant with an eye for good steel. During the [[War of Reckoning]], he was chief among the brokers at the [[Spear Exchange]]. Yarren’s shop oﬀers all heavy and light weapons, along with armor worth up to 120 marks. Yarren is friends with [[Bordin]] and [[Nen]].{{rpg ref|slsw|36}}
+
+## Notes
+<references />
+{{complete}}
+{{Stormlight}}

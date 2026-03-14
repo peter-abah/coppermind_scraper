@@ -1,0 +1,9 @@
+{{aspect}}
+**Adoline** is one of [[Stephen Leeds]]' [[aspect]]s. 
+
+Stephen mentions that Adoline has OCD.{{book ref|legion|5}}
+
+## Notes
+<references />
+{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 13:16, 2 July 2018 (MST)}}
+{{Legion}}

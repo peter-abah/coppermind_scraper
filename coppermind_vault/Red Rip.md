@@ -1,0 +1,2 @@
+#redirect[[Scar]]
+[[Category: Aliases]]

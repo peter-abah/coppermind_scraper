@@ -1,0 +1,20 @@
+{{culture
+|related=[[Kerzta]]
+|world=Taldain
+|universe=[[Cosmere]]
+|books=[[White Sand]]
+}}{{update|ws}}
+**Ker'reen** is the predominant religion of [[Kerzta]].
+
+The philosophy calls for worship of the sun, teaching that it is the manifestation of the [[Sand Lord]] and the source of autonomy and independence. The Ker'reen philosophy denounces the use of [[sand mastery]] as heresy, which has led to war between Kerzta and [[Lossand]] in the past.
+
+The priest [[DaiKeen]] oversees the religion among Kerztians. They are led by the **A'kar**, or high priest. Members of the priest DaiKeen are traditionally marked by square-shaped scars on their foreheads, though some have recently been found to wear X-shaped scars similar to the tattoos of the warrior DaiKeen. Members of the clergy speak [[Karshad]].{{book ref|ws|3|review=yes}}
+
+The **KerKor** is the primary religious text of the Ker'reen religion.{{book ref|ws|14|review=yes}}
+
+## Notes
+<references />
+{{partial}}
+{{White Sand}}
+[[category: religion]]
+[[es:Religión ker'reen]]

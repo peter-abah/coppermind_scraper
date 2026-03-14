@@ -1,0 +1,24 @@
+---
+profession: "Scion & {{cat tag|Scholars|Scholar"
+---
+
+|groups={{tag|Veristitalians|link=Veristitalian}}{{book ref|sa3|53}}
+|nation=Azir
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Oathbringer]]
+}}
+**Ethid** is a scion in [[Azir]] on [[Roshar]] during the [[Era of Solitude]].{{book ref|sa2|i|9}}
+
+Scion Ethid likely spent much time wandering from village to village in Azir, blessing each of them.{{book ref|sa2|i|9}} In {{Rosharan date|1173}}, Scion Ethid attended the holy conclave in the [[Bronze Palace]] of [[Azimir]] to choose a new [[Prime Aqasix]]. Ethid was asked by a [[vizier]] to write a prayer of guidance to [[Yaezir]] asking for help choosing the correct Prime, as the previous two had been assassinated by the [[Szeth|One All White]].
+
+Ethid is a scholar that studies men of conquest, especially great kings like [[Gavilar]]. Upon the arrival of the [[Knights Radiant]] she starts to study them. She intends to create detailed drawings of each Radiant Order's [[Spren]] and tries to study [[Lift]]. She also has been tracking the Herald [[Nale]]. 
+
+She is a scholar of the [[Veristitalian]] group, and a friend of [[Jasnah Kholin]] and [[Jochi]].{{book ref|sa3|53}}{{expand}}
+
+Some colleagues of Jasnah, likely including Ethid, convinced the [[Stump]] to visit Azimir and let them make sketches of her spren.{{book ref|sa3|104}}
+
+## Notes
+<references />
+{{partial}}
+{{Stormlight}}

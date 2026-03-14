@@ -1,0 +1,2 @@
+#REDIRECT [[Honor]]
+[[Category: Aliases]]

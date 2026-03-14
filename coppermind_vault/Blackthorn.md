@@ -1,0 +1,5 @@
+{{disambig}}
+
+The epithet **Blackthorn** may refer two different entities:
+* [[Dalinar Kholin]], the original person to earn the title
+* [[Blackthorn (spren)]], a spren that personifies the stories people tell about Dalinar's time as a warrior and general

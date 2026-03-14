@@ -1,0 +1,14 @@
+---
+occupation: "Groundcrew"
+'residence: "Alta Base"
+world: "Detritus"
+universe: "Cytoverse"
+introduced: "Skyward"
+---
+
+**Tony** is a member of the [[Alta Base]] ground crew and works with [[Dorgo]]. He helps retrieve [[Arturo]]'s damaged [[Poco]] for [[Spensa]] during the [[Second Battle of Alta]].{{book ref|sky1|49}}
+
+## Notes
+<references />
+{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 23:27, 28 June 2019 (MST)}}
+{{Skyward}}

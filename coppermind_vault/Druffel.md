@@ -1,0 +1,29 @@
+---
+merge-family: "y"
+siblings: "Fatren"
+ethnicity: "Skaa"
+world: "Scadrial"
+universe: "Cosmere"
+introduced: "The Hero of Ages"
+---
+
+**Druffel**, sometimes referred to as **Druff**, is a [[skaa]] from [[Vetitan]] on [[Scadrial]].{{book ref|mb3|1}}
+
+==Appearance and Personality==
+Druffel was once an optimistic person who laughed a lot. After the [[Collapse]], he was initially willing to help defend Vetitan, but after several years of hardship and worry about [[koloss]] attacks, he became apathetic and fatalistic. He distrusts [[noble]]s.{{book ref|mb3|1}}
+
+==History==
+Druffel was born towards the end of the [[Final Empire]]. As a skaa, he and his brother [[Fatren]] lived simple lives in the small farming and mining town of Vetitan. Druffel maintained a good attitude despite suffering poor working conditions in one of the Lord Ruler's mills.{{book ref|mb3|1}}
+
+After the Collapse, Vetitan was abandoned by the nobility and members of the [[Steel Ministry]]. Fatren took a leadership role among the skaa to try and hold the town together, and Druffel served as an advisor. Fatren discussed the challenges faced by the city with Druffel, including their struggle to grow crops in the [[Scadrial#The World of Ash|ash]] and [[mists]] and the looming threat of nearby koloss armies. Druffel suggested that the townspeople should build a bulwark around the city to provide some protection.{{book ref|mb3|1}}
+
+As the situation in the city became increasingly dire and it was obvious that they would not be able to defend themselves against the koloss, Druffel became detached and pessimistic, assuming that he could die any time. When [[Elend Venture]] arrived to the town, Druffel was wary, even drawing his sword on the emperor. Elend simply took it with [[Allomancy]] and praised its quality before handing it back. Druffel was unimpressed by Elend's abilities and confident nature, and was highly skeptical of his plan to fight the koloss.{{book ref|mb3|1}}
+
+Elend knew that he was undermining Fatren's leadership position, and allowed him to save face by pretending that Fatren had summoned him to the city. Fatren went along with the ruse, but the idea of his brother asking a noble for help shocked and disappointed Druffel, and he stalked away.{{book ref|mb3|1}}
+
+Druffel was present during the evacuation of Vetitan after Elend and [[Vin]] helped the townspeople successfully defeat the koloss. He was seen riding a horse into [[Demoux]]'s camp.{{book ref|mb3|8}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 22:45, 31 August 2021 (UTC)}}
+{{Mistborn|Era 1}}

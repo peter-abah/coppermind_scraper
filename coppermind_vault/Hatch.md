@@ -1,0 +1,18 @@
+---
+powers: "{{tag+|Rithmatist"
+---
+
+|profession={{cat tag|Armedius Academy Faculty|Professor}}
+|residence=Armedius Academy 
+|earth=Rithmatist
+|introduced=[[The Rithmatist]]
+}}
+**Hatch** is a professor at [[Armedius Academy]].{{book ref|Rithmatist|25}}
+
+## Trivia
+* Prof Hatch is possibly a cameo of Matt Hatch of [http://theoryland.com Theoryland]
+
+## Notes
+<references />
+{{stub}}
+{{Rithmatist}}

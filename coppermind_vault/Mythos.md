@@ -1,0 +1,21 @@
+{{shardworld
+|universe=[[Cosmere]]
+|books=Unknown
+}}
+{{quote
+|There are potential allies out there. Moonlight's world, perhaps. Or the land of the aethers. Hell, maybe even Mythos.
+|[[Kelsier]] to [[Harmony]]{{book ref|mb7|epilogue|4}}
+}}
+**Mythos** is an off-world nickname used for a [[Cosmere#Planets|planet]] in the [[cosmere]].{{book ref|mb7|epilogue|4}}{{wob ref|16040}}{{wob ref|15977}}
+
+After [[Autonomy]]'s attack on [[Scadrial]] was repelled in {{date|348|PC}}, [[Kelsier]] mentioned Mythos to [[Harmony]] as a possible source of allies, though he apparently considered it a less likely option than [[Sel]] and [[Dhatri]].{{book ref|mb7|epilogue|4}}
+
+## Trivia
+In the 2022 [[State of the Sanderson]], a possible series set on Mythos was mentioned as a minor project.{{wob ref|16040}}{{wob ref|15977}}
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 00:04, 11 December 2022 (UTC)}}
+{{cosmere}}
+[[Category:Mythos| ]]
+[[es:Mythos]]

@@ -1,0 +1,22 @@
+---
+siblings: "Aledin"
+relatives: "Slowswift"
+'ethnicity: "{{cat tag|Skaa"
+---
+
+, {{cat tag|Nobles|Noble}}
+|groups={{tag|Originators}}
+|residence=Fadrex City
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Hero of Ages]]
+}}
+**Troalin** is a young [[noble]] from [[Fadrex City]] on [[Scadrial]]. He was the cousin of [[Slowswift]] and had a brother named [[Aledin]]. His widowed mother was executed for having a dalliance with a skaa servant.{{wob ref|7769}}
+
+==History==
+Slowswift quickly makes his cousins Troalin and Aledin available to [[Vin]] when she asks him for two men that he trusts.{{book ref|mb3|43}} They help Vin escape observation at a ball, concealing two of [[Aradan Yomen]]'s spies that Vin knocked unconscious.{{book ref|mb3|43}} The two brothers were implicated in assisting Vin and briefly imprisoned, but were later released when Yomen and [[Elend Venture]] formed an alliance. They survived the [[Final Ascension]] and became distinguished leaders under [[Spook]].{{wob ref|7769}}
+
+## Notes
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 14:04, 7 June 2019 (MST)}}
+{{Mistborn|era 1}}

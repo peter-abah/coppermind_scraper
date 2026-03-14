@@ -1,0 +1,41 @@
+---
+parents: "Iadon, Eshen|siblings=Raoden"
+titles: "Prince of Arelon, King of Arelon (self-proclaimed)"
+died: "Killed by Eondel"
+ethnicity: "Aonic"
+nation: "Arelon"
+world: "Sel"
+universe: "Cosmere"
+books: "Elantris (book)|Elantris"
+---
+
+{{deleted}}
+**Eton**, frequently referred to as the **Mad Prince**, is the son of King [[Iadon]] in [[Arelon]] on [[Sel]].{{bws ref|elantris-deleted-scenes-the-mad-prince|The Mad Prince|post=&nbsp; - *[[Elantris (book)|Elantris]]* deleted scene|date=September 2, 2013|name=madprince}}
+
+He was a secondary antagonist in the early drafts of *[[Elantris (book)|Elantris]]* before his character was cut entirely. His role in the story was largely filled in the published book by Duke [[Telrii]].{{wob ref|1960}}<ref name=madprince/>
+
+## Appearance and Personality
+Eton strongly resembles his brother [[Raoden]], but he has a rounder face and more muscular physique. He wears ornate black armor emblazoned with a red [[Aon#Eto|Aon Eto]], his namesake.<ref name=madprince/>
+
+He is aware of his noble upbringing, and is self-centered and imperious. He is delusional, paranoid, and unstable; although he can initially seem coherent, he often makes paradoxical or tangential statements. He tends to lash out when frustrated.<ref name=madprince/> He is also very afraid of spirits and ghosts.{{wob ref|2167}}
+
+## History
+In his youth, Eton enjoyed holding mock battles with peasants, and often tormented his younger brother Raoden. Raoden eventually adapted and learned to best his cruel, delusional brother, laying the groundwork for his political maneuvering with his father as a young man. Eton eventually became a potential embarrassment to the court, and King [[Iadon]] sent him off to a distant [[Arelon#Plantations|plantation]] some time before Raoden was taken by the [[Shaod]].<ref name=madprince/>
+
+As the conflict between [[Arelon]] and [[Fjorden]] intensified, Raoden and [[Galladon]] spotted a mystery army in the distance. Eton soon surprisingly arrived in Kae with the backing of this army; he had secretly been working with [[Hrathen]].{{wob ref|2129}} [[Sarene]] first saw him after she emerged from [[Elantris (city)|Elantris]], when he rode up to the palace with a dozen soldiers, announced his claim on the throne, and set the palace on fire. He later met with Hrathen, agreeing to convert to [[Shu-Dereth]] and pledging to serve as [[odiv]] to Hrathen. Hrathen was left unsettled by the calm manner in which Eton contradicted both logic and himself. Hrathen and Eton met again, and Hrathen attempted to make some progress on his goals as Eton forced him to play Stones, a game Eton claimed was wildly popular but Hrathen was confident existed only in Eton's mind. Hrathen left the meeting increasingly frustrated.<ref name=madprince/>
+
+When Raoden first reappeared after his time in Elantris, Eton thought he was a ghost and ran away.{{wob ref|2167}} He was ultimately killed in the night by [[Eondel]].{{ref|group=fn|text=The details of Eton's death are not clear, but he was likely killed in similar circumstances to Telrii in the published book.}} Eton's soldiers decapitated Eondel, and later showed up at [[Kiin]]'s house seeking to try Raoden for causing Eton's death. Sarene accompanied Raoden to the trial, held next to Eton's pyre. Although he had not directed Eondel to kill Eton, Raoden accepted responsibility for his brother's death and made an impassioned speech about the fate of Arelon. Eton's general [[Gatrii]] raised his sword to execute Raoden, closed his eyes, and swung, missing Raoden's neck by less than an inch. He explained that Eton always made his soldiers perform executions with closed eyes: a hit meant guilt, and a miss meant the accused had been innocent all along. The general declared Raoden innocent, and Raoden prepared for his coronation. Hrathen believed that Gatrii had intentionally missed Raoden after hearing his speech.<ref name=madprince/>
+
+## Development
+In early drafts of *Elantris*, Eton was mentioned periodically in the first three quarters of the book. His cruelty to Raoden was used to help explain Raoden's strength and independence later in life. After Hrathen arrived in Kae, there were also some hints that he was working with a mysterious third party that turned out to be Eton. However, Eton's reappearance late in the book as a new villain threw off the pacing. Despite it being a setback to the project, [[Brandon]] decided to cut the character entirely, largely at the urging of [[Joshua Bilmes]].{{wob ref|2139}} Brandon replaced the roles of Eton and his army with an expanded role for Telrii and the Elantris City Guard. Early readers did not miss Eton after he was removed, but Brandon still held some fondness for the character, especially due to his interactions with the incredibly logical Hrathen.{{wob ref|2139}}<ref name=madprince/> He also liked the twist of the mystery army belonging to Raoden's brother; removing that plot point forced him to delete a favorite scene in which Sarene displayed her genuine love for "Spirit".{{wob ref|2136}}{{wob ref|2143}}
+
+## Trivia
+*The game of [[Tarachin]] on [[Nalthis]] has some superficial similarities to the game called Stones that Eton seemingly invented.{{wob ref|6803}}
+
+## Notes
+;Footnotes
+<references group=fn/>
+;References
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 16:43, 29 January 2026 (UTC)}}
+{{Elantris}}

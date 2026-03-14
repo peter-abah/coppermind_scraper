@@ -1,0 +1,26 @@
+---
+profession: "Scribe"
+residence: "Urithiru"
+ethnicity: "Alethi"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Oathbringer"
+---
+
+**Ristina** is an [[Alethi]] scribe in [[Urithiru]].{{book ref|sa4|12}}
+
+==Appearance and Personality==
+She is very short.{{book ref|sa4|12}} She has a sense of humor, unlike many scribes.{{book ref|sa3|46}}
+
+==History==
+She was on duty at the [[Narak]] [[Oathgate]] on the day that [[Skar]] and [[Lyn]] became [[Knights_Radiant#Squires|Radiant squires]]. She used a ledger to note who traveled through the Oathgate, and chided a tardy [[Kaladin]] on behalf of the waiting merchants. When he said to tell them that the [[Knights Radiant]] are not "their doormen," she smirked and wrote something down, as if to tell the merchants exactly that.{{book ref|sa3|46}}
+
+Skar liked her sense of humor, and the two later started dating.{{book ref|sa3|46}}{{book ref|sa4|12}} Because Kaladin liked intelligent women and did not care about height, [[Adolin]] thought Ristina could have been a good match for him had she not been with Skar.{{book ref|sa4|12}}
+
+==Trivia==
+* Skar is a cameo for Brandon's friend [[Ethan Skarstedt]], and Ristina may be a cameo for his wife Kristina.{{url ref|url=http://ethanskar.com/wordpress/2010/03/kyrgyzstan-warm-babies/|text=Kyrgyzstan Warm Babies|site=Ethan Skarstedt's website|date=2010-03-03}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 19:31, 22 January 2021 (UTC)}}
+{{Stormlight}}

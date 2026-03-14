@@ -1,0 +1,35 @@
+{{magic
+|related=[[Allomancy]]
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn (series)]]
+}}
+{{merge|[[Allomancy]]}}
+{{update|book=mb5}}
+**Snapping** is the process by which someone gains the powers of [[Allomancy]] on [[Scadrial]].
+
+Snapping commonly occurs when a Misting or Mistborn undergoes heavy stress and pain, often in a near-death situation, causing them to trigger latent Allomantic abilities. According to [[Realmatic Theory]], this creates a crack on the soul which the power can fit into. There are some similarities to this in other magic systems, such as the [[Knights Radiant]] all being "broken" as indicated by [[Syl]].{{wob ref|5469}}{{book ref|sa2|68}}
+
+In the [[Final Empire]], children of confirmed noble bloodlines often undergo a planned beating as a test to see if they Snap. Later, however, the mists cause sickness in people, triggering their own Snapping; this process is started by [[Preservation]], but is manipulated by [[Ruin]] into killing people, thus raising superstitions about the mists being dangerous.
+
+The length of time a person has "mist sickness" relates to their Allomantic powers and abilities. The most powerful [[atium]] mistings are sick for the longest time.
+
+During the time the mists are Snapping people in [[The Hero of Ages]], they also raise the Allomantic potential of the people they Snap so that exactly 16% are Snapped.{{book ref|mb3|21}} The number is a hint left by Preservation for humans to understand.
+
+At some point after the [[Final Ascension]], [[Harmony]] is disturbed by the process of Snapping and alters the way it operates, but it is not clear how Snapping works now.{{wob ref|4242}}{{wob ref|6888}}
+
+## Known Snappings
+* [[Alendi]] is Snapped by the [[mist]]s.{{wob ref|8087}}
+* [[Clubs]] Snaps during his time fighting rebels in the southeast.{{wob ref|7707}}{{wob ref|7544}}
+* [[Marsh]] Snaps after his mother is taken away by [[obligator]]s.{{book ref|mb1|20}}
+* [[Vin]] Snaps while she is being born, during her mother's "unusually difficult labor".{{epigraph ref|mb3|epilogue}}
+* [[Spook]] Snaps when he is five years old and can barely remember the event as an adult.{{book ref|mb1|32}}
+* [[Kelsier]] Snaps after [[Mare]] dies, while he is imprisoned in the [[Pits of Hathsin]].{{book ref|mb1|17}}
+* Many soldiers in [[Elend]]'s army, including [[Demoux]], were Snapped by the [[mist]]s.{{book ref|mb3|81}}
+
+## Notes
+<references />
+{{partial}}
+{{Mistborn|metals}}
+[[category: Metallic Arts]]
+[[Category: Allomancy]]

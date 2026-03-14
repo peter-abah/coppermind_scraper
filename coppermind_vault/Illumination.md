@@ -1,0 +1,6 @@
+#REDIRECT [[Surgebinding#Illumination]]
+[[category: Subsection redirects]]
+[[Category: Stormlight Archive]]
+[[Category: Cosmere]]
+[[category: Magic]]
+[[category: Surgebinding]]

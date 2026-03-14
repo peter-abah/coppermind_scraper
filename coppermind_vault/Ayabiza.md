@@ -1,0 +1,13 @@
+{{settlement
+|nation=Shinovar
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+{{update|sa5}}
+
+**Ayabiza** is a city in [[Shinovar]] on [[Roshar]].{{book ref|sa5|92}}
+
+## Notes
+<references />
+{{stub}}
+{{Stormlight}}

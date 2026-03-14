@@ -1,0 +1,13 @@
+---
+nation: "Natan"
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+The **Drummer brothers** live in a small port on the eastern edge of [[Roshar]] in an area that used to be part of the kingdom of [[Natanatan]]. After the [[Everstorm]]'s advent, they scavenged a tattered sail from the sea and [[Puuli]] helped them stretch it out on the rocks.{{book ref|sa3|i|1}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 05:58, 22 February 2020 (UTC)}}
+{{Stormlight}}

@@ -1,0 +1,23 @@
+---
+image: "Gill by TalnFan.png"
+species: "Taynix"
+abilities: "{{tag+|cytonics"
+---
+
+, mimicry
+|world=Detritus
+|universe=[[Cytoverse]]
+|introduced=[[Sunreach]]
+}}
+{{update|sf1|sf2|sf3}}
+
+**Gill** is a hyperslug [[taynix]]{{wob ref|15071}} that [[Jorgen]] discovers in a cavern on [[Detritus]] along with several other taynix. Gill is of the yellow and blue variety of taynix, meaning he can use his [[Cytonics|Cytonic]] abilities to teleport. Gill is the first taynix besides [[Doomslug]] that [[Freyja Marten|FM]] ever sees, and at first she mistakes Gill for Doomslug.{{book ref|sf1|3}}
+
+Gill has blue markings down the side of his face that almost look like gills, which leads to FM naming him Gill. Gill has a quieter voice than Doomslug, at least some of the time.{{book ref|sf1|3}}
+
+Gill teleports out of his crate many times, at one point teleporting right in the middle of [[Cobb|Admiral Cobb]]’s holoprojection.{{book ref|sf1|8}} Gill goes with [[Skyward Flight]] on their rescue mission to [[Sunreach (station)|Sunreach]]. With Jorgen’s direction, Gill uses his cytonic abilities to teleport into [[Sadie]]’s starfighter and bring her into the station, saving her.{{book ref|sf1|16}}
+
+## Notes
+<references />
+{{partial}}
+{{Skyward}}

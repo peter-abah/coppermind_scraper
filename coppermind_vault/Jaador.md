@@ -1,0 +1,28 @@
+{{nation
+|ethnicity=[[JinDo]]
+|region=Opelon
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[Elantris (book)|Elantris]]
+}}
+**Jaador** is a nation on the continent of [[Opelon]] (Sycla) on [[Sel]]. It is a land-locked nation that borders [[JinDo]] to the west, [[Fjorden]] to the north, [[Hraggen]] and [[Hrovell]] to the east, and a large desert to the south.{{map ref|Sycla}} A notable city named [[Kjaard]] lies on a river near the border with Fjorden.{{map ref|Sycla}} Although Jaador's residents are ethnically [[JinDo]],{{glossary ref|Elantris|J}} the nation has been annexed by the [[Fjordell Empire]] and the official religion is therefore [[Shu-Dereth]].{{book ref|Elantris|15}}
+
+## Culture
+Since Jaador's residents are ethnically JinDo, they presumably share the dark brown skin and fine features of JinDo residents.{{glossary ref|Elantris|J}} Jaadorians are known for their food, and Jaadorian chefs are considered some of the best in the world.{{book ref|elantris|11}} Jaador also exports candy{{book ref|Elantris|53}} and wine of a blue color.{{book ref|Elantris|32}}
+
+Jaador is the birthplace of a graceful light sword called a [[jedaver]], known as a syre or kmeer in other nations.{{book ref|Elantris|17}} The jedaver proved impractical for combat,{{book ref|Elantris|53}} and was often used by the nobility for dueling.{{book ref|Elantris|17}} It was later modified in [[Duladel]] for use as a fencing weapon,{{book ref|elantris|17}} and Jaadorians are considered to be second only to Dulas in fencing skill.{{book ref|Elantris|50}}
+
+## History
+JinDo is noted as being subsumed by the Fjordell Empire around one hundred years before the events of *[[Elantris (book)|Elantris]]*,{{glossary ref|Elantris|J}} but it is not known when Jaador fell. Fjorden appears to have heavy fortifications along its border with Jaador.{{map ref|Sycla}} The Fjorden [[gyorn]] [[Hrathen]] claims that Jaadorian citizens would be among those that would form a massive Fjordell army at [[Wyrn (title)|Wyrn]] [[Wulfden the Fourth]]'s command, although he knows that this is unlikely due to the power of the Derethi [[Shu-Dereth#Monasteries|monasteries]].{{book ref|elantris|15}}
+
+## Investiture
+{{theory}}
+[[Sel]] has a "multitude" of magic systems that are powered by [[Investiture]] from the [[Dor]].{{au ref|Sel}} These magic systems (such as [[AonDor]] and [[Forgery]]) are dependent on physical location,{{au ref|Sel}} along with heritage and birth location.{{book ref|elantris|1}}{{wob ref|8516}} Although Jaador's origins are unknown, the fact that its residents are ethnically JinDo and the proximity of the two nations may hint that some Jaadorians would be able to use the power of [[ChayShan]].
+
+## Trivia
+* Early editions of *Elantris* included maps that showed Jaador in a slightly different orientation on the continent;<ref>[[:File:Arelon.jpg|Map of Arelon (original)]]</ref>{{map ref|Opelon}} these maps were superseded by revised versions in the tenth anniversary edition.
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 15:18, 5 March 2019 (MST)}}
+{{Elantris}}

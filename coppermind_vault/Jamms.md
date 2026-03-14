@@ -1,0 +1,15 @@
+---
+profession: "{{cat tag|Law enforcement|Constable-general"
+---
+
+|residence=Elendel
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Lost Metal]]
+}}
+**Jamms** is a constable-general in [[Elendel]] on [[Scadrial]] during {{date|348|PC}}. He was the lone holdout among the constables-general in agreeing to the articles regarding [[Marasi Colms]]' reform suggestions about how the constabulary policed slums and trained new constables. However, [[Reddi]] believed that Jamms would agree with them after Colms managed to capture an [[Elendel Basin#Outer Cities|Outer Cities]] and [[Set]] hideout and smuggling operation.{{book ref|mb7|10}}
+
+## Notes
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 17:20, 29 November 2024 (UTC)}}
+{{Mistborn|Era 2}}

@@ -1,0 +1,13 @@
+---
+world: "Roshar"
+universe: "Cosmere"
+---
+
+{{update|sa5}}
+**Tepra** is a figure from legends on [[Roshar]].{{book ref|sa5|131}}
+
+## Notes
+<references />
+{{stub}}
+{{Stormlight}}
+[[Category: Myths and Legends]]

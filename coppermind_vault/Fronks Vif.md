@@ -1,0 +1,17 @@
+---
+merge-family: "y"
+siblings: "Selvest Vif"
+profession: "{{cat tag|Medical professionals|Doctor"
+---
+
+|world=Scadrial
+|universe=[[Cosmere]]
+}}
+Doctor **Fronks Vif** is <!-- allegedly --> a doctor on [[Scadrial]].{{file ref|House_Record_broadsheet.jpg|*The House Record* broadsheet}}
+
+He is one of the makers of [[Vif Sparkle Tonic]], along with his brother [[Selvest Vif|Selvest]].{{file ref|House_Record_broadsheet.jpg|*The House Record* broadsheet}}
+
+## Notes
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 15:37, 6 April 2021 (UTC)}}
+{{Mistborn|Era 2}}

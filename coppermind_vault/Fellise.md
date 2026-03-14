@@ -1,0 +1,17 @@
+{{settlement
+|dominance=Central
+|nation=Final Empire
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+**Fellise** was a small, suburban town in the [[Central Dominance]], relatively close to [[Luthadel]].{{book ref|mb1|6}} It was a prosperous city with a reputation for being less crowded, cleaner, and less strict in enforcing the imperial laws than the capital. The nobility kept lavish villas and manors rather than the fortified keeps of Luthadel, and built them in a well-maintained and tidy part of the city. Some of the cobblestone streets are lined with aspen trees as the bark tends to resist ash stains. Vin notes though that the slums are much the same as they are in other cities.{{book ref|mb1|8}}. Many parts of the city are made of white-washed granite, a stark contrast to the black coloring of Luthadel.{{book ref|mb1|10}} During the late night, its streets are often empty and silent.{{book ref|mb1|9}}
+
+By carriage, Fellise is an hour away from Luthadel, but there is an allomantic roadway that allows very rapid travel between the two cities. It consists of a series of bronze bars embedded into the earth, made in a straight line for Coinshots and Mistborn to use to travel quickly. It is unknown who made the roadway, although it was not made by Kelsier.{{book ref|Mb1|19}} 
+
+[[Vin]] and [[Reen]] had worked there for a while before moving into Luthadel.{{book ref|Mb1|6}} Vin stayed in the town posing as a young member of [[House Renoux]], a minor house supposedly interested in making alliances in the city nearby.{{book ref|mb1|8}} Previously, she had worked in the city while travelling with her brother [[Reen]] before moving to [[Luthadel]]. {{book ref|mb1|6}} She also trained as a [[Allomancy|Mistborn]] here under [[Kelsier]].{{book ref|mb1|9}}
+
+## Notes
+<references />
+{{partial}}
+{{Mistborn|Era 1}}

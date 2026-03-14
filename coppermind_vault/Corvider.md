@@ -1,0 +1,13 @@
+{{culture
+|type=Profession
+|world=Komashi
+|universe=[[Cosmere]]
+|books=[[Yumi and the Nightmare Painter]]
+}}
+
+**Corviders** are people who train and handle the giant crows native to [[Torio]] for the purposes of farming.{{book ref|yumi|6}} The crows can reach the size of human children and are used both to keep plants contained and to protect them from threats.{{book ref|yumi|4}}{{book ref|yumi|8}} Corviders use words and treats to control the birds.{{book ref|yumi|6}}
+
+## Notes
+<references />
+{{complete}}
+{{yumi}}

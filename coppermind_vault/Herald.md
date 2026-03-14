@@ -1,0 +1,310 @@
+{{lifeform
+|image=Heralds.jpg
+|type={{tag+|Cognitive Shadow}}
+|abilities={{tag|Surgebinding}}, [[Honorblade]]
+|sapient=Yes
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{update|sa4|sa5}}
+{{objective|claim=VioletNebula}}
+{{quote 
+|The Heralds, they were honorable. Perhaps not as divine, but I may even like them more, to know they were once just normal men and women.
+|[[Navani]]{{book ref|sa3|38}}
+}}
+
+The **Heralds** are servants of [[the Almighty]] worshipped across the whole of [[Roshar]]. There are ten of them -- though one has been replaced -- with each associated with one of the [[Ten Essences]] and one of the ten orders of the [[Knights Radiant]]. They are known by different names in different cultures -- in [[Azir]], they are known as the **Kadasixes**,{{book ref|sa2|I|9}} and in [[Vorin]] countries, the suffix "'Elin" is often appended to their names, presumably as an honorific.{{book ref|sa1|6}}{{book ref|sa1|18}}{{book ref|sa1|55}}{{book ref|sa1|epilogue}}{{book ref|sa2|prologue}}
+
+## Abilities
+{{image|Jezrien Endpage.jpg|[[Jezrien]]|side=right|width=250px}}
+
+{{quote
+|The Heralds glow like the sun, wield the [[Honorblade]]s, and speak with the voices of a thousand trumpets. They could cast down buildings with a command, force the storms to obey, and heal with a touch.
+|[[Shallan]]'s recollection on what she was taught about the Heralds.{{book ref|sa2|63}}
+}}
+
+### Resurrection
+The Heralds are [[Cognitive Shadow]]s capable of repeatedly returning back to life and have become so heavily Invested they are no longer human.{{wob ref|4024}}{{wob ref|8468}} While alive, they do not age, allowing them to live for millennia.{{book ref|sa3|117}} Upon death, they are transported to [[Braize]], where they are tortured until one of them breaks. When that happens, they are returned back to life on [[Roshar]].{{book ref|sa3|38}} This process isn't well-understood, though one thing that is certain about it is that unlike the [[Fused]], the Heralds do not hijack human bodies to resurrect, as [[Honor]] found this process abhorrent.{{book ref|sa5|145}}{{wob ref|12029}} Heralds' new bodies were formed out of power, pure Investiture, according to their [[Identity|perception]] of themselves,{{book ref|sa5|145}} a fact which explained the calluses Talenel'Elin sustained even though he had not engaged in any strenuous physical activity.{{book ref|sa5|84}} Their highly Invested bodies are not truly immortal, as only their souls are immortal. They appear to still need food to sustain their bodies, and hunger if they do not eat.{{book ref|sa5|86}} While leaving the mortal body for the first time, a Herald suffers intense agony.{{book ref|sa5|145}} 
+
+This ability to resurrect makes the Heralds essentially immortal. It was not until seven thousand years after the Oathpact that singers figured out they can be trapped in gemstones, much like spren can.{{epigraph ref|sa4|80}} The method involves stabbing them with a specially constructed [[raysium]] dagger.{{book ref|sa3|121}} The dagger would trap the Herald's soul into the gemstone at its hilt.{{book ref|sa4|82}} Heralds are similar to spren, in that they are essentially Investiture that is self-aware; this is due to their nature as resurrected Cognitive Shadows - despite the fact that Heralds were, at one point, normal humans. As the properties of raysium conduct Investiture, the pure Investiture that is a Cognitive Shadow is easily drawn into the raysium dagger. The trapped Herald's bond to the Oathpact would be severed, causing the soul to disintegrate back to a normal soul, then go on to the [[Beyond]], permanently killing the Herald.{{epigraph ref|sa4|92}}
+
+### Immortality
+The Heralds are ageless, with the bodies and souls kept young over their millennia of life. This is done through using Regrowth to manipulate their Connection to Honor.{{book ref|sa5|64}}{{book ref|sa5|62}} Through this, they tap into the constantly rejuvenating Investiture of the Spiritual Realm, locking their souls, and bodies, at the age in which they became Heralds.{{book ref|sa5|64}} It is unknown if they can can use this Investiture to power Invested Arts. Prior to becoming Heralds, those from Ashyn aged far slower than normal due to their access to ancient Surgebinding.{{book ref|sa5|55}}{{book ref|sa5|58}}
+
+Unlike similar resurrected entities, like the [[Nalthis|Nalthian]] [[Returned]], the Heralds don't have to consume [[Investiture]] in order to remain alive.{{wob ref|10581}} The process that made them immortal is related to, but not dependent upon, the Oathpact.{{book ref|sa5|108}}
+
+### Surgebinding
+Each Herald wields an [[Honorblade]], a sword similar in function to a [[Shardblade]], albeit far more powerful.{{book ref|sa1|part=prelude}} Honorblades can be bonded like regular Shardblades, and are similarly sharp, but unlike Shardblades, they allow their wielders to utilize two [[Surge]]s each. As such, while wielding their Blades, each of the Heralds is a [[Surgebinder]].{{book ref|sa3|16}} While they each have an Honorblade assigned to them, in the past, they would occasionally swap their Honorblades between each other, allowing them to use the Surges of others.{{wob ref|3564}} Heralds are able to locate their Honorblade, even if someone else has bonded it.{{rpg ref|slsw|54}}
+
+[[Spren]] would later copy the Heralds' [[Surgebinding]], thus creating the [[Knights Radiant]], with each order matching the powers of one of the Heralds.{{book ref|sa2|87}} The Radiants have some powers that the Heralds lack -- for example, the Heralds did not have [[squire]]s.{{wob ref|3958}} However, unlike the Knights, the Heralds were powered directly by [[Honor]], and had access to raw levels of Investiture that no Radiant could possibly match.{{wob ref|1572}}{{wob ref|10331}} Additionally, they didn't need to draw Stormlight from gems, which implies they could get it directly from their bond with Honor.{{wob ref|2549}} This ability appears to be inherent to the Heralds and not tied to their Honorblades as it is not replicable by other users.{{book ref|sa1|part=prelude}} How this manifests after Honor's death and Splintering is unknown.
+
+Heralds can also gain Surgebinding by forming a [[Nahel bond]].{{book ref|sa3|106}}{{wob ref|12600}} Their spren would follow them to Braize.{{book ref|sa5|95}}{{book ref|sa5||part=postlude}}{{wob ref|15649}}
+
+Following the destruction of Natanatan four-thousand-five-hundred-fifty years before the Night of Sorrows, Honor granted the Heralds even greater access to his power and the Surges. This greatly increased the power of the Heralds, whilst keeping them bound by oaths.{{book ref|sa5|120}}{{book ref|sa5|122}} Heralds have greater control over stormlight compared to other Surgebinders, and are able to have the Light stream only to them and ignore other Surgebinders.{{book ref|sa5|110}}
+
+### Powers of Roshar
+{{quote
+|I HAD THE HERALDS. AND THEY, MORE AND MORE, WERE ABLE TO DRAW ON THE POWERS OF ROSHAR ITSELF INSTEAD OF JUST MY SURGES. I DID NOT UNDERSTAND WHY OR HOW, BUT I DID NOT WISH TO SEEM WEAK BY ADMITTING THAT FACT.
+|[[Honor]]{{book ref|sa5|120}}
+}}
+As time passed, they began to become more and more capable of drawing upon the powers of Roshar itself, instead of just Honor's Surges.{{book ref|sa5|120}} The full extent of what this means, however, is not currently known. However, they are known to be able to draw upon the natural Investiture of Roshar, separate from the three Shards which inhabited it.{{wob ref|16173}}
+
+### Binding to the Rosharan System
+Heralds, much like [[spren]] and Knights Radiant, are incapable of leaving the Rosharan system. This is due to how they are heavily Invested and Connected to the planet, and due to the system of oaths that Honor, Odium, and Cultivation swore to each other. These oaths bound their Investiture, and thus Invested beings, to the Rosharan system.{{book ref|sa4|13}}{{book ref|sa4|93}}{{book ref|sa5|120}}{{book ref|sa5|147}}{{wob ref|1537}} The further a Herald moves from the Rosharan system, the more that they would be pulled back, making them feel progressively heavier in proportion to their distance from the system.{{book ref|sa4|13}}
+
+### Spiritual Realm
+The Heralds have a higher affinity with the Spiritual Realm than normal. They are easily able to enter visions if they have a Connection to a person inside of it.{{book ref|sa5|93}} They are considered to be beings of all three Realms.{{book ref|sa5|93}}
+
+### Other
+{{quote
+|If I am asked, I will be honest. You fought well. It is rare that I must use the true skills of a Herald against a mortal. We … do not deploy them frivolously.
+|[[Nale]]{{book ref|sa5|109}}
+}}
+Apart from the Surges, Heralds get a number of other advantages, although what precisely they are is uncertain.{{wob ref|3623}}{{wob ref|6898}} It's appears some of those advantages include superhuman speed, strength, stamina, resilience, and reflexes as multiple Heralds are shown great physical prowess, seemingly without Stormlight.{{book ref|sa2|88}}{{book ref|sa5|89}}{{book ref|sa5|128}} Such examples are when Taln moved so quickly it caused nearby windows to crack, and was strong enough to kill multiple Fused barehanded.{{book ref|sa5|84}}{{book ref|sa5|85}} Nale battled [[Kaladin]] without Stormlight, moving so fast he looked like a blur; and was strong enough to smash Kaladin out of his [[Shardplate]] by slamming him against a stone wall.{{book ref|sa5|109}} Nale describes this as the Herald's true skill.{{book ref|sa5|109}} However, they are also said to have no innate powers, suggesting that whatever they can do is the result of either their connection to Honor or their own experience.{{wob ref|1050}} The abilities a Herald has access to can fluctuate depending on how attuned they are to the promises they made when becoming Heralds.{{wob ref|16173}}{{book ref|sa5|128}} Although not all the Heralds were originally soldiers, they have mastered their fighting skills throughout the ages, and are now capable of fighting multiple Shardbearers with ease.{{book ref|sa4|111}} Moreover, each Herald had their own field of expertise, such as leadership, medicine or smithing, and the knowledge of how to teach those skills to others.{{book ref|sa3|47}} 
+
+Heralds are able to procreate, though not necessarily in the traditional way.{{wob ref|14507}} The child of a Herald will inherit a terrible burden, including predispositions inherited from their Herald parent.{{book ref|sa5|93}} What the burden and predispositions are is uncertain, but it could be a higher affinity for the Spiritual Realm.{{book ref|sa5|118}} Their descendants will also have a higher affinity with Investiture in general.{{wob ref|16998}}
+
+Heralds are able to share pain with each other through their bond, but it is unknown if they can do this outside of Braize.{{book ref|sa3|38}} Ishar specifically is able to take the pain and sorrow from the rest while on Roshar.{{book ref|sa5|132}}{{book ref|sa5|77}} They are able to sense when another Herald has permanently died, which can cause them enough shock to render them temporally unconscious.{{book ref|sa3|121}}{{epigraph ref|sa4|79}} They are also able to tell when another Herald has broken and allowed the Voidbringers to return to Roshar, even if they are not currently on Braize.{{book ref|sa4|77}}
+
+Some Heralds are more [[cosmere]]-aware than others.{{wob ref|11756}} A few of them are aware of [[AonDor]], but only on a conceptual level.{{wob ref|12021}} Some Heralds are able to see hidden spren.{{book ref|sa4|77}} Heralds have limited access to [[Fortune]], and can sometimes feel where they are needed.{{book ref|sa5|88}}
+
+==Heralds of the Almighty==
+===Original Heralds===
+The Heralds are listed here in order by their associated numbers, which is also the order in which they joined the [[Oathpact]].{{book ref|sa5|64}}{{book ref|sa5|65}}
+
+====Jezrien====
+{{image|Jezrien.jpg|side=right|width=100px}}
+{{for|Jezrien}}
+Known as the Herald of Kings in the East, Kadasix of Kings in [[Azir]] and the Prime Kadasix in [[Emul]].{{book ref|sa2|i|9}}{{book ref|sa1|i|7}} At some point prior to becoming a Herald, he ruled as a king.{{book ref|sa1|part=prelude}} He is associated with the number Jes (1), the essence Zephyr, and the attributes Protecting and Leading. He is patron of the [[Order of Windrunners]].
+:*Surges*: [[Adhesion]], [[Gravitation]]
+:*Other names*: Jezerezeh'Elin ([[Vorinism]]), Yaysi ([[Iri]] and [[Rira (country)|Rira]]),{{book ref|sa3|26}} Yaezir ([[Azir]]){{book ref|sa2|i|9}} Ahu (Name used during his time as a beggar in [[Kholinar]].){{book ref|sa5|46}}
+:*Status*: deceased; captured by [[Vyre]] on Odium's command, before the remnants of his soul were destroyed by [[El]] using anti-Stormlight.{{book ref|sa5|i|3}}
+
+====Nale====
+{{image|Nale.jpg|side=right|width=100px}}
+{{for|Nale}}
+The Herald of Justice.{{book ref|sa2|88}} He is associated with the number Nan (2), the essence Vapor, and the attributes Just and Confident. He is patron of the [[Order of Skybreakers]]. Unlike the other Heralds who abandoned the Oathpact, he eventually recovered his [[Honorblade]].{{book ref|sa3|106}} While he was the last to accept his own Order, he was also the only Herald to join it.{{epigraph ref|sa2|43}}{{wob ref|8426}} Prior to the events of the [[True Desolation]], Nale hunted and killed early Radiants or those who attracted Radiant spren, believing it would prevent another disaster. 
+:*Surges*: [[Gravitation]], [[Division]]
+:*Other names*: Nalan'Elin (Vorinism), Nin-son-God ([[Shinovar]]), Nakku the Judge ([[Makabak]]){{book ref|sa2.5|19}} Darkness (Alias during his hunt for Radiants) {{book ref|edgedancer|prologue}}
+:*Status*: cognitive shadow; on [[Braize]].
+
+====Chanarach====
+{{image|Chanarach.jpg|side=right|width=100px}}
+{{for|Chanarach}}
+Associated with the number Chach (3), the essence Spark, and the attributes Brave and Obedient. She is patron of the [[Order of Dustbringers]]. She is also the mother of [[Shallan Davar]] and her brothers.
+:*Surges*: [[Division]], [[Abrasion]]
+:*Other names*: Chanaranach'Elin (Vorinism), Chana (nickname)
+:*Status*: cognitive shadow; on [[Braize]].
+
+====Vedel====
+{{image|Vedel.jpg|side=right|width=100px}}
+{{for|Vedel}}
+Associated with the number Vev (4), the essence Lucentia (Light), and the attributes Loving and Healing. She is patron of the [[Order of Edgedancers]].
+:*Surges*: [[Abrasion]], [[Progression]]
+:*Other names*: Vedeledev'Elin (Vorinism)
+:*Status*: cognitive shadow; on [[Braize]].
+
+====Pralla====
+{{image|Pailiah.jpg|side=right|width=100px}}
+{{for|Pralla}}
+Associated with the number Palah (5), the essence pulp, and the attributes Learned and Giving. She is patron of the [[Order of Truthwatchers]].
+:*Surges*: [[Progression]], [[Illumination]]
+:*Other names*: Pailiah'Elin (Vorinism), Pali (nickname)
+:*Status*: cognitive shadow; on [[Braize]].
+
+====Shalash====
+{{image|Shalash.jpg|side=right|width=100px}}
+{{for|Shalash}}
+Known as the Herald of Beauty or Lady of Dreams.{{book ref|sa2|30}}{{book ref|sa1|i|7}} Daughter of Jezrien. She is associated with the number Shash (6), the essence Blood, and the attributes Creativity and Honesty. She is patron of the [[Order of Lightweavers]]. For the past several centuries, she has been tracking down and destroying any depictions of herself she could find.{{book ref|sa3|117}} During the events of the [[True Desolation]], she managed to find her fellow herald Talenelat. The two spent the rest of the [[True Desolation]] together, Shalash speaking for him. At the Battle of Azir, both her and Talenelat were attacked in a hospital by a large amount of Fused, leading to her death and return to [[Braize]]. 
+:*Surges*: [[Illumination]], [[Transformation]]
+:*Other names*: Shalash'Elin (Vorinism), Shush-daughter-God ([[Shinovar]]), Epan ([[Emul]]), Ash (nickname), Pom (alias)
+:*Status*: cognitive shadow; on [[Braize]].
+
+====Battar====
+{{image|Battar.jpg|side=right|width=100px}}
+{{for|Battar}}
+Associated with the number Betab (7), the essence Tallow, and the attributes Wisdom and Care. She is patron of the [[Order of Elsecallers]]. Battar served [[Kharbranth]] and the [[Diagram (group)|Diagram]] as an [[ardent]] using the alias Dova, showing a notable amount of knowledge on [[Death Rattle]]s.
+:*Surges*: [[Transformation]], [[Transportation]]
+:*Other names*: Battah'Elin (Vorinism), Dova (Alias)
+:*Status*: cognitive shadow; on [[Braize]].
+
+====Kalak====
+{{image|Kalak.jpg|side=right|width=100px}}
+{{for|Kalak}}
+Associated with the number Kak (8), the essence Foil, and the attributes Resolute and Builder. He is patron of the [[Order of Willshapers]].
+:*Surges*: [[Transportation]], [[Cohesion]]
+:*Other names*: Kelek'Elin (Vorinism), Kellai (Iri and Rira),{{book ref|sa3|36}} Restares (alias){{book ref|sa4|78}}
+:*Status*: cognitive shadow; on [[Braize]].
+
+====Talenel====
+{{image|Talenel.jpg|side=right|width=100px}}
+{{for|Talenel}}
+Often called the Herald of War,{{book ref|sa2|i|7}} and sometimes also known as the Herald of Soldiers and the Bearer of Agonies.{{book ref|sa3|59}}{{book ref|sa3|38}} Associated with the number Tanat (9), the essence Talus, and the attributes Dependable and Resourceful. He is patron of the [[Order of Stonewards]]. Unlike the others, he wasn't a king, general or famous scholar prior to becoming a Herald. He's also the only Herald not to abandon the Oathpact at the Aharietiam, as he was dead at the time; as a result, he'd spent the past four and a half thousand years being tortured in Braize.{{book ref|sa3|38}} Upon his return to [[Roshar]] at the beginning of the [[True Desolation]], he was dismissed as a madman, mumbling the same mantra repeatedly apart from rare moments of lucidity. After the herald Shalash finds him, he simply follows her around, only showing brief moments of sanity such as his intervention on behalf of the wounded at the Battle of Azir, which ultimately led to his demise and return to Braize.
+:*Surges*: [[Cohesion]], [[Tension]]
+:*Other names*: Talenelat'Elin (Vorinism), Talmut-son-God (Shinovar), Tuk ([[Tukar]]), Taln (nickname)
+:*Status*: cognitive shadow; on [[Braize]].
+
+====Ishar====
+{{image|Ishar.jpg|side=right|width=100px}}
+{{for|Ishar}}
+Known as the Herald of Luck, and, earlier, the Binder of Gods.{{book ref|sa3|64}} Associated with the number Ishi (10), the essence Sinew, and the attributes Pious and Guiding. He is patron of the [[Order of Bondsmiths]]. He led the nation of [[Tukar]] as a figure known as the God-Priest Tezim before departing his country to confront [[Kaladin]] and [[Szeth]] during their journey in [[Shinovar]].
+:*Surges*: [[Tension]], [[Adhesion]]
+:*Other names*: Ishi'Elin (Vorinism), Ishu-son-God (Shinovar), Tashi, Tezim ([[Tukar]])
+:*Status*: cognitive shadow; on [[Braize]].
+
+===The New Herald=== 
+====Kaladin====
+{{image|Herald Kaladin.jpg|side=right|width=100px}}
+{{for|Kaladin}}
+Known as the Herald of Kings, Herald of the Wind, and Herald of Second Chances, he replaced Jezrien after his death to restore the Oathpact.{{book ref|sa5|144}}
+:*Surges*: [[Adhesion]], [[Gravitation]]
+:*Other names*: Stormblessed
+:*Status*: cognitive shadow; on [[Braize]].
+
+## History
+### Time on Ashyn
+Most of the Heralds were born on [[Ashyn]],  notable exceptions being [[Kaladin]], who was born long after [[Aharietiam]] and did not replace Jezrien until the [[True Desolation]], and [[Talenel]], who was born on Roshar seven-thousand years before the [[True Desolation]] and was made a Herald because of the need for ten Heralds to complete the Oathpact, and Nale saw him as a connection to the common people. 
+
+After humanity destroyed that planet's ecosystem through uninhibited surgebinding, they traveled along with the rest of the refugees to [[Roshar]] via Ishar's elsegate, although they weren't Heralds yet at that point.{{wob ref|11945}}{{book ref|sa3|111}}{{book ref|sa5|107}} [[Jezrien]] had become King of [[Odium's empire]] on Ashyn before the exodus to Roshar, due to the death of the previous King [[Zoral]] during the destruction of Ashyn.{{book ref|sa5|107}} Odium's empire had been granted access to unbound Surges by [[Odium]] for reasons unclear. Meanwhile, [[Nale]]'s faction, belonging to a coalition of other states and supported by Honor, had opposed the hegemonic expansion of Odium's empire.{{book ref|sa5|104}}{{book ref|sa5|107}}
+
+### Becoming Heralds
+{{quote
+|1=<span style='font-variant: small-caps'>Humans could never win when the creatures they killed were reborn each time they were slain. And so, the Oathpact.</span>
+|2=The Stormfather on the creation of the Heralds{{book ref|sa3|38}}
+}}
+
+Prior to the first [[Desolation]], most of them held various positions of importance -- scholars, generals, priests, and kings, with a notable exception being Talenel who was a soldier and bodyguard before being stripped of his weapons after attempting to kill [[Cultivation]]. 
+{{sidequote|I swear this oath to you, Honor, I will hold back the darkness. I will protect this land.
+|Jezrien swearing the Heraldic Oath to become a Herald{{book ref|sa5|64}}
+|side=right|size=200px
+}} 
+Around forty-three years into the [[First Desolation]], Honor formed the [[Oathpact]], granting the newly-made Heralds a connection to him and, through it, their supernatural abilities.{{book ref|sa3|38}} This was done as they possessed a Connection to [[Odium]], who had initiated a process when he granted most of them Surges, but which had been completed by [[Honor]] to make them *his*, to exert some measure of control over [[Odium]]. Before becoming immortal, a process adjacent to, but not included in becoming a Herald, the ten people who became Heralds were granted extreme longevity from the Surges granted to them by Odium or Honor.{{book ref|sa5|64}} Only volunteers could be accepted as Heralds. The Heralds were chosen due to their strong Connection to Odium, which was required for the Oathpact to operate properly.{{book ref|sa5|77}}{{book ref|sa5|64}} Apparently, only persons who had felt the touch of [[Shard]]s could become Heralds, a condition which qualified [[Talenel]] for candidature, as he had attempted to assassinate [[Cultivation]]. Each Herald swore (slightly modified) Heraldic Oaths to Honor to protect the people of the land and "hold back the darkness."
+
+After accepting the Oathpact, the Heralds were made immortal by [[Vedel]], who used their Connection to Honor in order to grant them a constant flow of Investiture from the Spiritual Realm, locking their body and soul at its current age.{{book ref|sa5|64}}
+
+When Kaladin became a Herald, he passed through manifestations of the distinct phases of his life he viewed as parts of himself and finally through that of a "terrifying, glorious being" - the perception he had of himself as a Herald. The Words he uttered were "I accept this journey", Words which Nale affirmed the other Heralds had not spoken for their Heraldic Oaths, as it was not along the lines of "holding back the darkness".{{book ref|sa5|144}}{{book ref|sa5|64}} The Reforging of the Oathpact used Vedel's method, which relied on powers Ishar had not used in a long time - powers of Surges outside Radiance, Stormlight or Honorblades.{{book ref|sa5|144}}
+
+### The Desolations
+{{image|Ending the Oathpact by Katie Payne.jpg|The Heralds abandon the [[Oathpact]] after the [[Last Desolation]]|side=right|height=250px}}
+{{quote
+|Almighty above. You’re broken too, aren’t you? They all were.
+|[[Kalak]] after centuries of Desolations{{book ref|sa1|part=prelude}}
+}}
+From there on, the (original) Heralds were stuck in the cycle of Desolations. At the end of each one, they would travel to [[Braize]], their presence there preventing the [[voidspren]] and the Fused from returning to Roshar. They would attempt to hide, but eventually, Odium's forces would track them down and begin torturing them until one of the Heralds broke. At this point, the Heralds would be returned to Roshar and resurrected to push Odium's forces back.{{book ref|sa3|38}}
+
+At some point, the [[spren]] began mimicking their abilities, creating the first [[Surgebinder]]s.{{book ref|sa2|87}} The Heralds found that surprising, but had no compunctions against using the Surgebinders in battle.{{book ref|sa3|47}} [[Ishar]] imposed structure upon them, creating the [[Knights Radiant]], and each Herald took patronage over the Order that matched their Surges.{{epigraph ref|sa2|42}} The last to do so was [[Nale]], who initially rejected the [[Skybreakers]] even when they called him their master.{{epigraph ref|sa2|43}}
+
+The Heralds also gifted humanity knowledge called the "wisdom of the Heralds". This consists of some germ theory{{book ref|sa4|1}}{{book ref|sa5|29}} and antiseptic practices such as hand-washing before surgery.{{book ref|sa1|10}} The wisdom of the Heralds is still known and applied as far in the future as the True Desolation.{{book ref|sa4|1}} Entities with strong life sense can detect these germs and verify the truth of the wisdom of the Heralds.{{book ref|sa5|29}}
+
+Over time, they grew more capable of drawing on the powers of Roshar itself, not merely the Surges of Honor.{{book ref|sa5|120}} Around four-thousand-five-hundred-fifty years before the Night of Sorrows, after the destruction of the capital of Natanatan, Honor granted them greater access to the power of the Surges and to the powers of Roshar. However, he kept them bound by their Oaths, leaving them incapable of destroying the land like had happened on Ashyn.{{book ref|sa5|120}}
+
+### The Last Desolation
+{{quote|It would be a cracking of the Oathpact. You would need to acknowledge that and decide. To give of your Honor, in small measure. There must yet be ten to hold the core, but one … one could stand at the forefront. Like a soldier in the lead of a formation.|Honor{{book ref|sa5|77}}}}
+
+Eventually, the pattern of continuous resurrections and torture led to the Heralds growing increasingly stressed and psychologically damaged, making the period between the Desolations shorter as they broke faster and faster.{{book ref|sa3|38}} Things came to a head in [[Aharietiam]], a Desolation where only one Herald, Talenel, died in battle. Those who survived were supposed to return voluntarily; however, Ishar theorized that one Herald remaining in Braize was sufficient to keep the Oathpact going.{{book ref|sa1|part=prelude}} This was confirmed by Honor, who accepted their choice to leave the Oathpact behind. However, he said that he would no longer aid the Heralds if they made the decision.{{book ref|sa5|77}}
+
+Various Heralds displayed great conflict in their choice, not wanting to abandon Talenel, but being unable to continue the cycle of torture and war. But in the end, all nine decided to leave him behind. The Heralds felt the pain of leaving their burden upon Talenel, and Ishar chose to take their suffering unto himself.{{book ref|sa5|77}}
+
+To hide their betrayal of Talenel and humanity, the Heralds told the ordinary people that the Desolations were over, and that they would take the fight to the [[Tranquiline Halls]]. This event marked the end of the [[Heraldic Epochs|Heraldic Epoch]].{{book ref|sa3|42}}
+
+While the Oathpact was not broken by this betrayal, it was left cracked and damaged.{{book ref|sa5|77}}
+
+{{image|Baxil's Mistress by Shuravf.jpg|[[Shalash]] the vandal|side=left|width=150px}}
+
+### Era of Solitude
+{{quote
+|What a gift you gave them! Time to recover, for once, between Desolations. Time to progress. They never had a chance before. But this time … yes, maybe they do.
+|Taln to Shalash{{book ref|sa3|119}}
+}}
+For the next four and a half thousand years, Taln remained on Braize, being tortured by the voidspren to make him break and allow them to return.{{book ref|sa3|119}} At the same time, the nine living Heralds went on to live among the people of Roshar, hiding their true nature. The only one to recover his [[Honorblade]] was [[Nale]], who also remained in touch with the [[Order of Skybreakers]], eventually joining them and becoming their leader.{{book ref|sa3|106}}
+
+Over time, the mental state of the Heralds deteriorated, due to a combination of their ages, trauma, and possibly other factors.{{wob ref|16301}} Nale grew compassionless;{{book ref|sa3|115}} [[Kalak]] became paranoid;{{book ref|sa1|prologue}} [[Jezrien]] started to drink heavily;{{book ref|sa3|88}} [[Shalash]] began to track down and destroy her own artwork.{{book ref|sa3|117}} While Shalash and Nale both believed that Ishar remained unaffected, he, too, went mad.{{book ref|sa3|121}} 
+
+==== The False Desolation ====
+Kalak and Nale, and perhaps other Heralds, were, to same extent, involved in the False Desolation.{{book ref|sa4|24}}{{epigraph ref|sa4|94}} They were present during the imprisonment of [[Ba-Ado-Mishram]].{{book ref|sa5|87}}
+
+==== Ishar and Shinovar ====
+Around one thousand years before the Night of Sorrows, Ishar absorbed part of the [[Well of Control]], and Connected himself to the land of Shinovar.{{book ref|sa5|129}}{{book ref|sa5|119}} He later took over the country of [[Tukar]], becoming its god-priest, and started to swing wildly between megalomania and the desire to end his own existence.{{book ref|sa3|24}}{{book ref|sa3|64}} 
+
+==== The Coming of the True Desolation ====
+When Nale came to Ishar with questions about the possibility of a new Desolation arriving, Ishar told him that the return of [[Knights Radiant]] could prompt it, causing Nale to travel the world killing any potential Surgebinders.{{book ref|sa2.5|9}} At some point, perhaps in pursuit of this goal, he and Kalak found themselves in the [[Kholinar palace]] on the night of king [[Gavilar]]'s assassination.{{wob ref|13634}} On the same night, Chana was killed in self-defense by her daughter, [[Shallan Davar]].{{book ref|sa5|prologue}}{{book ref|sa5|99}}
+
+### Lead-up to the True Desolation
+{{image|Taln Neirr.png|[[Taln]] announcing the [[True Desolation]]|side=right|width=150px}}
+{{quote
+|The burdens of nine become mine. Why must I carry the madness of them all? Oh, Almighty, release me.
+|A [[death rattle]] collected by the [[Diagram (group)|Diagram]].{{epigraph ref|sa1|54}} It likely refers to Ishar.{{book ref|sa5|138}}
+}}
+Sometime around the year 1173, Talenel was finally returned to Roshar to proclaim a new Desolation, although it was Chanarach, not him, who had broken.{{book ref|sa1|epilogue}}{{wob ref|14869}}{{book ref|sa5|99}} He was initially disbelieved by Rosharans, who assumed him to be some random madman, which was further confirmed, in their eyes, by his deranged, near-catatonic behavior.{{book ref|sa2|i|7}} Some of the Heralds, such as Nale, initially refused to believe a new Desolation had arrived, though he was convinced upon seeing the awakening of the [[Parshmen]] and the arrival of the [[Everstorm]] on Yeddaw.{{book ref|sa2.5|19}}
+
+When [[Dalinar Kholin]] sought to bring Tukar into his alliance, Ishar refused him, claiming that instead, it was Dalinar's forces who should bow down to him, and give [[Urithiru]] over to him, which was met with no answer.{{book ref|sa3|24}} At the same time, Shalash was searching for Taln, aware that, if the Desolation has returned, so had he. She was eventually pointed on the right track by [[Mraize]].{{book ref|sa3|i|8}}
+
+Ash and Taln met again during the [[Battle of Thaylen Field]].{{book ref|sa3|117}} After surviving the fighting, Shalash attempted to bring Taln with her to Ishar, but the two were intercepted by [[Jasnah Kholin]] before they could make it to the Oathgates. At the same time, Jezrien, hiding as a drunkard in the captured [[Kholinar]], was killed by [[Moash]] in a way that made him permanently incapable of returning, which was to use a [[Raysium]] dagger that transferred his soul to the gemstone on the hilt. The shock of it sent Taln and Shalash unconscious.{{book ref|sa3|121}}
+
+### Reforging of the Oathpact
+{{quote
+| I have the answer, a way to fix the problems that beset us. Come to me in Shinovar. I can reset the Oathpact, though I must be sane to do it. I must... have help... to...
+| Ishar, in a brief moment of lucidity, asking Dalinar to help reforge the Oathpact.{{book ref|sa4|111}}
+}}
+
+At the beginning of the First Day before the Contest of Champions, the Wind made contact with Kaladin, pushing him to follow Dalinar's words and join Szeth on his expedition to Shinovar. {{book ref|wat|2}} Dalinar also asked him to potentially help the delusional Ishar. {{book ref|wat|6}}
+
+As they enter Shinovar, Ishar met with Kaladin. Kaladin attempted to offer help, but Ishar declined it, still deluded into thinking that he is the [[Almighty]]. He also affirmed that the creation of the [[Oathpact]] allowed him to take some of the pain of each Herald, save for Taln, who was left in Braize. {{book ref|wat|33}}
+
+During the Cleansing of Shinovar, Nale joined Kaladin and Szeth as they reach the Elsecaller Monastery, brought by 12124. {{book ref|wat|66}} The Herald was sent by Ishar to supervise Szeth's journey throughout the various Monasteries. At the Lightweaver Monastery, Nale described that a challenge will be set before Szeth when his pilgrimage is done, a nod to the true purpose of this journey. {{book ref|wat|72}}
+
+After confronting Kaladin at the Skybreaker Monastery, Nale accepted that he is as broken as the rest of the Heralds, realizing that his spirit was as broken as the rest of the Heralds'.{{book ref|sa5|110}} It is soon after revealed by [[Elid-daughter-Zeenid]] that the Pilgrimage Szeth was undertaking was to see if he could take Jezrien's place in the Oathpact, becoming a Herald. {{book ref|wat|90}}
+
+During the confrontation at the Bondsmith Monastery, Ishar-- still corrupted by Odium's power-- stated his plan to dissolve the Oathpact after realizing that Szeth would not be suitable for replacing Jezrien.{{book ref|wat|138}} However, Kaladin, upon swearing the Fifth Ideal of the Windrunners, cleansed Ishar of the corruption of Odium, bringing clarity back to the old Herald. The darkness that he bore, as Creator of the Oathpact, was in fact Odium's power slowly infecting each of the Heralds, most likely influencing their madness.{{book ref|wat|140}}
+
+After the Ascension of Taravangian to the power of Honor and the birth of Retribution, the Wind hinted that an Oathpact, a ring of ten, could once again bind the Shard to the Rosharan system, as the original Oathpact had done millenia ago. It also proposed that they could send their minds elsewhere, into the Spiritual Realm, rather than be sent whole into Braize with each death. This would serve as the foundation of the new Oathpact.{{book ref|wat|144}}
+
+Kaladin, having been told by the Wind that it, and all of the spren, would die at the hand of Retribution if the Oathpact was not reforged, accepted the duty. He swore to the task with a Heraldic Oath, to the Words "I accept this journey.", which was stated by Nale to be different than what the rest of the Heralds swore 7000 years ago.{{book ref|wat|144}} Then, all of the Heralds vanished together to Braize once more, finalizing the lock set upon Retribution. {{book ref|wat|145}}
+
+Following the Reforging of the Oathpact, the Heralds travelled to Braize to begin a new Isolation. However, they transported their minds into a vision of Ashyn from before its destruction, so that they wouldn't have to experience Fused torture.{{book ref|sa5|part=postlude}}
+
+## Official depictions
+Unlike most other characters, the Heralds have official depictions of them in the [[Stormlight Archive]]. Those are said to be in-universe artwork, and as such, they're not entirely accurate.{{wob ref|10772}} Four of them can be found at the beginning and end of *[[Oathbringer]]*, four more are present in *[[Rhythm of War]]*, and the final original ones are present in *[[Wind and Truth]]*.  While there is not official art of Kaladin as a Herald, various depictions of him as a Radiant can be found in the tabletop game [[Call to Adventure: The Stormlight Archive]].
+
+<gallery caption="Illustrations" mode=packed heights=300px>
+Jezrien Endpage.jpg | <center><small>by [[Howard Lyon]]</small></center> [[Jezrien]]
+Nale Endsheet.png | <center><small>by {{a|Karla Ortiz}}</small></center> [[Nale]]
+Chanarach Endsheet.png | <center><small>by {{a|Karla Ortiz}}</small></center> [[Chanarach]]
+Vedel_Endpage.jpg | <center><small>by [[Howard Lyon]]</small></center> [[Vedel]]
+Pailiah Endsheet.png | <center><small>by {{a|Magali Villeneuve}}</small></center> [[Pralla]]
+Shalash Endsheet.jpg | <center><small>by [[Dan dos Santos]]</small></center> [[Shalash]]
+Battar Endsheet.jpeg | <center><small>by {{a|Miranda Meeks}}</small></center> [[Battar]]
+Kalak Endsheet.png | <center><small>by {{a|Magali Villeneuve}}</small></center> [[Kalak]]
+Taln Endsheet.jpg | <center><small>by [[Donato Giancola]]</small></center> [[Talenel]]
+Ishar Endsheet.jpg | <center><small>by [[Dan dos Santos]]</small></center> [[Ishar]]
+The Next Ideal.png | <center><small>by {{a|Antti Hakosaari}}</small></center> [[Kaladin]]
+</gallery>
+
+## Trivia
+* In *[[The Way of Kings Prime]]*, the Heralds reincarnated by taking the body of a Rosharan, similar to the [[Fused]], but this is no longer how they return.{{wob ref|12029}}
+* Also in *[[The Way of Kings Prime]]*, the Heralds were capable of sensing the location of the Honorblades, although that ability appears to have been dropped when the story changed into its current form.{{wob ref|11609}}
+* The portraits of the Heralds used in chapter arches each have their own title in [[Dragonsteel Entertainment]]'s files:{{wob ref|14097}}
+{{columns|
+:* [[Jezrien]], the King 
+:* [[Nale]], the Judge 
+:* [[Chanarach]], the Guard 
+:* [[Vedel]], the Healer 
+:* [[Pralla]], the Scholar 
+:* [[Shalash]], the Artist 
+:* [[Battar]], the Counselor 
+:* [[Kalak]], the Maker 
+:* [[Talenel]], the Soldier 
+:* [[Ishar]], the Priest 
+:* The final chapter arch is known as the Jester and is associated not with a Herald, but with [[Wit]].
+}}
+* The Heralds are some of the oldest beings in the cosmere, apart from [[Hoid]], the original [[Shard of Adonalsium|Vessels]], and some of the [[dragon (cosmere)|dragon]]s.{{wob ref|16301}}
+
+## Notes
+<references />
+{{partial}}
+{{Stormlight}}
+[[Category: Heralds| ]]
+[[category: list articles]]
+[[category:Groups]]
+[[es: Heraldo]]

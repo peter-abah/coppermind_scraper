@@ -1,0 +1,23 @@
+---
+profession: "Artist"
+world: "Nalthis"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+**Nenefra** is an artist from [[Nalthis]] whose paintings are presented to the [[Returned]] in the [[Court of Gods]]. Once offered, they are burned.{{book ref|wb|3}} One of his paintings somehow found its way to [[Celebrant]] in [[Shadesmar]].{{book ref|sa3|102}}
+
+==Attributes and Abilities==
+The work of artists like Nenefra can have an effect on the person viewing a piece. Connecting to the [[Hallandren#Government_and_Religion|Tones]] via [[Breath]] while making a painting has the result of a part of the artist's soul ending up in the drawing.{{wob ref|4483}} This allows some people with a [[Splinter|splinter of the divine]] to see things that are not actually there. At the Court of Gods, Returned can see images of what the artist was trying to convey in an abstract painting, while normal people see the actual strokes of paint.{{wob ref|6954}}{{book ref|wb|26}}{{book ref|sa3|102}} A magically enhanced viewer can also interpret these paintings to foresee the future, with this not necessarily being restricted to Nalthians or people with Breath, as [[Kaladin]] has a vision when seeing one of Nenefra's paintings.{{wob ref|4483}}{{book ref|sa3|102}} Each viewer will see something different in the painting.{{wob ref|13431}}
+
+## Works
+One of Nenefra's pieces is named after [[Manywar#The_Battle_of_Twilight_Falls|the Battle of Twilight Falls]].{{wob ref|13431}}{{book ref|wb|26}} When shown to [[Lightsong]], he was able to correctly interpret the painting to see highlights of the battle: the use of [[Lifeless]] soldiers, and [[Shashara]] wielding [[Nightblood]] in combat.{{wob ref|6954}} The Returned also noticed an attractive force to the drawing, as if being pulled into it. In contrast, [[Llarimar]] could only see wild strokes of paint.{{book ref|wb|26}}
+
+Kaladin saw one of Nenefra's works in Celebrant. Kaladin did not usually care for art, but his eye was drawn to a market stall displaying various works. Nenefra's painting was small, but Kaladin immediately noticed it, and was almost unable to look away from it. He thought he could make out nine shadows with a figure at the center. The [[Reacher]] selling the painting told Kaladin that each of Nenefra's masterworks appeared differently to different viewers. The [[spren]] said that the painting is a very rare find, although she did not reveal how this particular painting escaped burning and reached Shadesmar. She also considered three hundred [[Roshar#Currency|broams]] of [[Stormlight]] a "minuscule" price for one of Nenefra's masterpieces, although the humans generally found the pricing in Celebrant "bizarre".{{book ref|sa3|102}}
+
+Kaladin initially thought the painting looked sloppy, like someone had used a paint-covered knife to make wedges that formed general shapes. However, as he looked at it, the shapes appeared "beautiful". He wondered if the shadows were the [[Unmade]], as visions from his mind began to overlap the shapes in the painting. He seemed to go into a trance-like state, and suddenly felt a strong desire to quickly reach [[Thaylen City]]. He finally looked away when [[Syl]] caused a disturbance behind him and [[Adolin]] came to find him.{{book ref|sa3|102}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 18:42, 15 October 2019 (UTC)}}
+{{Stormlight}}

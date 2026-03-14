@@ -1,0 +1,7 @@
+{{disambig}}
+
+**Ur** refers to three different things on [[Roshar]]:
+* [[Ur (character)]], a guard at the bar [[All's Alley]] in [[Urithiru]].
+* The [[mountains of Ur]], a range of mountains in central Roshar.
+** Ur also appears to be the name of the specific mountain in this range that was shaped into [[Urithiru]], and is used as a name for the tower itself.
+* In the [[Dawnchant]], "ur" means "original".

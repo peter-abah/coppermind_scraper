@@ -1,0 +1,22 @@
+---
+profession: "{{cat tag|DDF pilots"
+---
+
+|world=Detritus
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+
+{{quote
+|I’m not sure I’d wish this command on them, not even the ones I hated.
+|[[Ironsides]] when asked by [[Cobb]] if she wished someone else had survived{{book ref|sky1|i|1}}
+}}
+
+Admiral **Heimline** is a pilot in the [[DDF]]. It is unclear whether Heimline was a junior or senior Admiral. Heimline fought against the [[varvax|Krell]] in the [[Battle of Alta]]. Heimline did not survive the battle, however, if they did, they would have been considered a [[First Citizen]].{{book ref|Skyward|i|1}}
+
+[[Ironsides]] may have greatly disliked Heimline, however, it is unclear.{{book ref|Skyward|i|1}}
+
+## Notes
+<references />
+{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 00:11, 31 March 2019 (MST)}}
+{{Skyward}}

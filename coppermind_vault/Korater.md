@@ -1,0 +1,19 @@
+---
+#profession: "soldier"
+groups: "{{tag+|army|Amaram's"
+---
+
+, {{tag|Kaladin's squad}}
+|died={{Rosharan date|1172|10}}{{book ref|sa1|47}}
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+**Korater** is a soldier in [[Amaram]]'s army on [[Roshar]].{{book ref|sa1|1}}
+
+During a border skirmish in {{Rosharan date|1172}}, [[Kaladin]] told Korater and [[Cyn]] to escort the wounded [[Cenn]] to a medic,{{book ref|sa1|1}} but [[Helaran Davar]]{{book ref|sa2|74}} attacked the group with his [[Shardblade]]. Korater then joined [[Kaladin's squad|the squad]] in an ill-advised assault on Helaran;{{book ref|sa1|47}} he was not one of the few survivors.{{book ref|sa1|51}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:27, 11 September 2018 (MST)}}
+{{Stormlight}}

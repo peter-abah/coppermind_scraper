@@ -1,0 +1,23 @@
+---
+profession: "Soldier"
+ethnicity: "Malwish"
+world: "Scadrial"
+universe: "Cosmere"
+introduced: "Isles of the Emberdark"
+---
+
+{{spoilers|iote}}
+**Saja** is a member of the [[Malwish Empire#military|military]] police in the [[Malwish Empire]]. She was sent to the [[Dakwara's island]] to investigate colonel [[Dajer]].{{book ref|iote|50}}
+
+## Appearence and Personality
+Saja has long black hair, auburn skin, and a round face. Like most Southern Scadrians, she wears a mask. However, her mask is somewhat unique among Malwish soldiers, as it isn’t full sized, but does cover the chin and the sides of her head, leaving her face bare. In addition to this, her uniform bears a few rare insignias.{{book ref|iote|49}} She also wears stark white gloves, another thing that is rarely seen in the Malwish military. She also appears to be fairly knowledgeable of Malwish law.{{book ref|iote|50}}
+
+## History
+At some point in time, after the Malwish had made contact with the [[Eelakin]], Saja was assigned to watch colonel [[Dajer]]. She gathered quite the case against him, and travelled to the Dakwara's island, where she acted as a common soldier.{{book ref|iote|49}} It is not entirely clear if Dajer knew her position and task, but he didn’t like her, going so far as to hope that she had died to the [[Dakwara]].{{book ref|iote|54}} However, he also does some questionable things which he might not have done with the knowledge that the military police were present.
+
+She was present when a local named [[Sixth of the Dusk (character)|Sixth of the Dusk]] arrived, and found it incredibly suspicious that a primitive had just rowed through the [[Cognitive Realm#Emberdark|Emberdark]] to reach their island. Later, she took Dusk aside and confronted him, telling him that the ‘stupid savage’ act wasn’t fooling her. She considered his arrival to be far too convenient, and concluded that Dajer had payed him to act like a man from [[First of the Sun]] and tell stories about the perpendicularity. She offered Dusk a deal, telling him that he could rat out Dajer in exchange for his freedom, and continue looking for the perpendicularity under her leadership. Dusk was initially confused, and, wanting to stall, asked her for time to think, promising to talk to her later. Later events prevented them from speaking again however.{{book ref|iote|50}}
+
+## Notes
+<references />
+{{complete}}
+{{Emberdark}}

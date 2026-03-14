@@ -1,0 +1,13 @@
+{{lifeform
+|type={{cat tag|Plants|Plant}}
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[Elantris (book)|Elantris]]
+}}
+**Aberteen** is a species of flower on [[Sel]].{{book ref|Elantris|2}}{{book ref|Elantris|38}} They have a yellow color.{{book ref|Elantris|2}} It was favored in [[Fjorden]] and northern [[Arelon]].{{glossary ref|Elantris|A}} 
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:57, 3 September 2016 (MST)}}
+{{Elantris}}
+[[es:Siempreninas]]

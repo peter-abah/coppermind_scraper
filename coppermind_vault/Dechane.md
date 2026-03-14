@@ -1,0 +1,16 @@
+---
+residence: "Elendel"
+profession: "Author"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 2"
+---
+
+**Dechane** is a novelist on [[Scadrial]] who wrote ***The Horribles***.{{file ref|House_Record_broadsheet.jpg|*The House Record* Broadsheet}}
+
+[[Calour Publications]] advertised in *[[The House Record]]* looking to buy novels which were similar to Dechane's and [[Ausdenec]]'s works.{{file ref|House_Record_broadsheet.jpg|*The House Record* Broadsheet}}
+
+## Notes
+<references/>
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 04:05, 7 March 2022 (UTC)}}
+{{Mistborn|Era 2}}

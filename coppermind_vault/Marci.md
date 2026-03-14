@@ -1,0 +1,9 @@
+{{aspect}}
+**Marci** is one of [[Stephen Leeds]]' [[aspects]].{{book ref|legion3|9}} 
+
+[[J.C.]] suggests bringing her along to infiltrate [[Wode|Walters and Ostman Detention Enterprises]].{{book ref|legion3|9}} 
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 18:58, 27 July 2020 (UTC)}}
+{{legion}}

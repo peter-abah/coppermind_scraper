@@ -1,0 +1,16 @@
+{{settlement
+|dominance=Eastern
+|nation=Final Empire
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[The Well of Ascension]]
+}}
+**Statlin City** is a city in the [[Final Empire]] on [[Scadrial]]. It is the location of the second of the [[Lord Ruler]]'s [[storage cavern]]s, marked on the map in [[Luthadel]]'s cache beneath [[Kredik Shaw]].{{book ref|mb2|57}} The small city lies in the Eastern [[Dominance]], close to the Central Dominance, and is built near a lot of mines.{{book ref|mb3|63}}
+
+## Trivia
+* In the original *The Hero of Ages*, Statlin City was referred to as **Satren**. This was corrected in the tenth anniversary leatherbound edition.
+
+## Notes
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 05:03, 11 March 2022 (UTC)}}
+{{Mistborn|Era 1}}

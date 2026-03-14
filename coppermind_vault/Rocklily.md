@@ -1,0 +1,11 @@
+{{lifeform
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+The **rocklily** is a plant on [[Roshar]]. If [[chull]] larvae are fed a consistent diet of rocklily leaves, they may pupate faster.{{file ref|Chull_Life_Cycle.jpeg|Chull Life Cycle}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:42, 15 March 2023 (UTC)}}
+{{Stormlight}}

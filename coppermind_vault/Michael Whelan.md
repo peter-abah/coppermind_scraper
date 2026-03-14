@@ -1,0 +1,1 @@
+#REDIRECT [[Coppermind:Artists/Michael Whelan]]

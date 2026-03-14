@@ -1,0 +1,14 @@
+{{book|title=*Final Empire* Prime
+|released=Not Applicable
+}}
+***Final Empire* Prime** is the twelfth novel written by [[Brandon Sanderson]]. Elements were later incorporated into *[[Mistborn: The Final Empire]]*.{{wob ref|7818}}
+
+A character named "Vin" appeared but was male.{{wob ref|2266}} He shared the canonical Vin's fear of abandonment.{{wob ref|2426}}
+
+It also featured an early version of [[Feruchemy]].{{wob ref|2377}}
+
+## Notes
+<references/>
+{{meta/done|?}}
+{{books}}
+[[es:El Imperio Final Prime]]

@@ -1,0 +1,17 @@
+{{nation
+|ruler=King [[Reven]]{{book ref|ws|9|review=yes}}
+|region=Dayside
+|world=Taldain
+|universe=[[Cosmere]]
+|books=[[White Sand]]
+}}
+**Seevis** is a nation on the Dayside of [[Taldain]].{{map ref|Dayside}} It is one of the Rim Kingdoms.{{book ref|ws|9|review=yes}}
+
+It is on the eastern coast of Dayside, bordered to the north by [[Denka]] and the south by [[Tallon]]. The western border is mountainous and there is passage to the northern [[Deep sand]] in the north-west. Notable cities include [[Reveln]], which may be its capital.{{map ref|Dayside}}
+
+Upon the death of most of the members of the [[Diem]], there were reports of a mastrell dealing with the Rim Kingdoms to sell out the Diem. [[Raagent]] suspected King [[Reven]] of Seevis to be one person offering to hire the sand masters.{{book ref|ws|9|review=yes}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 02:00, 25 July 2019 (UTC)}}
+{{White Sand}}

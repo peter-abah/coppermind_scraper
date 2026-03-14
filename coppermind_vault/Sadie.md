@@ -1,0 +1,70 @@
+---
+profession: "{{cat tag|DDF pilots"
+---
+
+|world=Detritus
+|universe=[[Cytoverse]]
+|introduced=[[Starsight]]
+}}
+{{update|sf1|sf2|sf3|sky4}}
+{{for|Bronze#Feruchemical Use|for the Ferrings known as Sentries|pre="Sentry" redirects here}}
+{{quote
+|Maybe soon I’ll be able to be like you, Spin!
+|Sadie admiring [[Spensa]]{{book ref|sky2|3}}
+}}
+
+**Sadie** (callsign: **Sentry**){{book ref|sf1|1}} is a member of the [[DDF]] and in [[Skyward Flight]].{{book ref|sky2|2}} She is not one of the flight's original members and instead joined the group after its pilots had graduated.
+
+## Appearance and Personality
+{{quote
+|Down with you, vile…space dwelling…ships of…vileness! May you all die painful, fiery deaths!
+|Sadie trying to act like Spensa{{book ref|sf1|1}}
+}}
+Sadie is likely of [[Yeongian]] ethnicity, and a descendant of the Chinese and Korean crew that made up the *Yeong-Gwang*. She has blue hair and features reminiscent of [[Bim]].{{book ref|sky2|3}}
+
+She looks younger than her age and is clumsy.{{book ref|sky2|3}}
+
+## Attributes and Abilities
+Sadie is new to flying and not entirely familiar with the controls of starfighters.{{book ref|sky2|2}} Despite this, she is skilled enough to be placed in a specialized team of full pilots. She has experience flying in both the atmosphere and a vacuum{{book ref|sky2|2}} and flies either a largo, sniper, or interceptor.{{book ref|sky2|14}}
+
+## History
+### Joining Skyward Flight
+Sadie joined [[flight school]] the cycle after Skyward Flight. She was placed into Skyward Flight soon after the [[Battle of Alta Second]].{{book ref|sky2|2}}
+
+Sadie was assigned as [[Spensa]]'s wingmate during an encounter with the [[KRELL|Krell]], six months after the Battle of Alta Second. During the battle, Sadie was deliberately left behind by Spensa when the Krell attacked her.{{book ref|sky2|2}} After returning to base, Sadie spoke briefly with [[Kimmalyn]] and Spensa, complimenting and admiring Spensa's flying. When [[Jorgen]] arrived, she left for the mess hall.{{book ref|sky2|3}}
+
+After Spensa left to infiltrate [[Starsight (station)|Starsight]], Sadie became [[Freyja Marten|FM]]'s flightmate.{{book ref|sf1|1}} Sadie flew with Skyward Flight to defend Detritus against a massive Krell attack, and tried to save [[Leiko|Lizard]] when she was swarmed by Krell. Though Sadie put herself in danger by rushing forward to distract the Krell, Lizard was still killed. When the [[delver]] arrived, Sadie and the others were ordered to go radio silent until Spensa eventually drew the delver away.{{book ref|sf1|2}} A few days later, Sadie accompanied FM during a test of the taynix's hyperjumping capabilities. The Superiority found out what they were doing and prepared to bombard the planet, so Sadie and the others flew up to try and stop the Superiority battleships.{{book ref|sf1|9}} Jorgen was unable to disable the battleship's orbital weapons in time, but the Engineering Corps managed to get Detritus' planetary defenses up in time to protect the planet.{{book ref|sf1|11}} Sadie and the others joined Jorgen near the shield, and he used a hyperslug to teleport them through the barrier and back to Platform Prime.{{book ref|sf1|12}} 
+
+### Mission to Sunreach
+Soon after, Sadie and the rest of Skyward Flight went on a mission to [[Sunreach (station)|Sunreach]] to rescue [[Cuna]] from Superiority fighters. Sentry and FM worked to distract the Krell fighters while others went towards the base to rescue Cuna.{{book ref|sf1|15}} After Jorgen and FM hyperjumped inside the base and joined Cuna, the rest of the flight began to be overwhelmed by the Krell forces. At FM's suggestion, Jorgen sent [[Gill]] to retrieve Sadie, who brought her into the station to safety. Jorgen used the hyperslugs to retrieve the other flightmates, and they all hyperjumped back to Detritus along with Cuna and their staff.{{book ref|sf1|16}} 
+
+### Mission to ReDawn
+Following the events at Sunreach, Alanik returned to Detritus to ask for their help in stopping a military coup by the Unity faction on her home planet, [[ReDawn (planet)|ReDawn]], who were working with the Superiority. The National Assembly denied her request, but Cobb unofficially told Skyward Flight to go to ReDawn to help Alanik.{{book ref|sf2|6}} Sadie and the rest of Skyward Flight went to ReDawn with Alanik, and were immediately attacked by Unity fighters.{{book ref|sf2|8}} During the dogfight, Sadie was briefly overwhelmed by three Unity ships who were about to capture her with a light net, but Jorgen used her assigned hyperslug, [[Cheeky]], to teleport her to safety.{{book ref|sf2|10}} The flight rescued several of Alanik's allies from the Independence faction, and retreated to [[Wandering Leaf]].{{book ref|sf2|11}} After things had settled down, Sadie introduced herself and some of her flightmates to Alanik. Sadie and the others inspected the wreckage of the Unity transport ship they'd captured, and found an inhibitor slug inside, which Sadie thought was adorable.{{book ref|sf2|12}}  While FM and Alanik hyperjumped to Detritus to retrieve Rig so he could help figure out how to operate Wandering Leaf, FM and several others found several more taynix and some old food supplies.{{book ref|sf2|15}} 
+
+After planning how to rescue Alanik's advisor, [[Rinakin]], the flight hyperjumped Wandering Leaf to a point near Tower, the city where Rinakin was being held captive. Skyward Flight and several Independence pilots defended against oncoming Unity pilots while Alanik and Arturo rescued Rinakin. Sadie and FM took point while the others provided backup.{{book ref|sf2|18}} One of the Unity cytonics, Quilan, contacted the Superiority, telling them that he had the humans captive and that they should come retrieve them.{{book ref|sf2|21}} When the Superiority battleship arrived, Rig teleported Wandering Leaf close to it to destroy it with its defenses.{{book ref|sf2|21}} Skyward Flight finished off the remaining Unity cytonics, and the Unity forces retreated.{{book ref|sf2|22}} Sadie and the others hyperjumped Wandering Leaf to Detritus, where Alanik and Jorgen attempted to rescue Gran-Gran, Cobb, and Jorgen's parents from a Superiority trap. Sadie and the others remained on Wandering Leaf during the operation, which resulted in the Superiority ship exploding and killing Jorgen's parents.{{book ref|sf2|23}}
+
+### Mission to Evershore
+Soon after the events on ReDawn, Sadie and the rest of the flight went to the [[kitsen]] planet [[Evershore (planet)|Evershore]] to retrieve Gran-Gran and Cobb, who were in a coma after hyperjumping there from the Superiority trap.{{book ref|sf3|4}} The flight hyperjumped to Evershore, and Sadie remarked on the prettiness of the planet.{{book ref|sf3|5}} The flight was greeted by several kitsen upon their arrival, and they traveled up to the city of [[Dreamspring]], where the kitsen began preparing a feast.{{book ref|sf3|6}} Sadie and the others volunteered to help with preparing the food, and Sadie helped by seasoning fish with tiny shakers.{{book ref|sf3|7}} After a meeting with the kitsen senate, a Superiority carrier ship arrived and Krell ships began to attack. Skyward Flight ran for their ships, but Sadie and Kimalyn were pinned down by Superiority fighters on the beach and had to take cover inside an oven. Jorgen sent Cheeky and Happy to hyperjump them to their ships, and they proceeded to join the fight.{{book ref|sf3|12}} During the fight, the Krell sent a lifebuster bomber to try and destroy Dreamspring. At Jorgen's order, Sadie and FM flew down to the city to try and rescue as many civilians as possible in case the bomb hit.{{book ref|sf3|18}} The Krell switched tactics, sending fighters to strafe the city and inflict as much damage as possible. However, Rig and Jorgen hyperjumped the entire planet of Detritus to Evershore, and Detritus' platforms made quick work of the Krell fighters. The Superiority force retreated soon after.{{book ref|sf3|20}}  
+
+## Relationships
+### Spensa
+{{quote
+|I wish I could have followed you today, Spin. It looked dangerous for you to be alone.
+|Sadie talking to [[Spensa]] after a [[KRELL|Krell]] encounter{{book ref|sky2|3}}
+}}
+
+Sadie looks up to Spensa and admires her flying skills. She sees Spensa as a role model and someone to aspire to. Spensa finds it difficult to imagine she that and Sadie are around the same age, and finds the other girl to appear younger. Sadie's features remind Spensa of Bim, whose death still causes her pain.{{book ref|sky2|3}} 
+ 
+### Kimmalyn
+{{quote
+|You did wonderfully, dear. But never try to be who you aren’t; you don’t have nearly enough practice to pull it off.
+|[[Kimmalyn]] giving Sadie a backhanded compliment, disguised as a quote by the Saint{{book ref|sky2|3}}
+}}
+
+Sadie admires Kimmalyn and has a habit of recording her fake Saint quotes, not knowing that they aren't real. Kimmalyn enjoys the attention and likely is highly pleased by someone recording her sayings.{{book ref|sky2|3}}
+
+## Notes
+<references />
+{{partial}}
+{{demoted|sf1}}
+{{Skyward}}

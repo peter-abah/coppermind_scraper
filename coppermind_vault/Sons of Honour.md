@@ -1,0 +1,5 @@
+#redirect[[Sons of Honor]]
+[[Category: Subsection redirects]]
+[[category: Stormlight Archive]]
+[[Category: Cosmere]]
+[[category: Groups]]

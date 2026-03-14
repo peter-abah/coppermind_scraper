@@ -1,0 +1,11 @@
+{{architecture
+|usage={{cat tag|Academic institutions|Academy}} of {{tag|Rithmatics}}
+|earth=Rithmatist|nation=United Isles of America|state=Canadia
+|books=[[The Rithmatist]]
+}}
+**Académie de Montréal** is one of the eight schools that teach [[Rithmatics]]. It is located in the state of [[Canadia]].{{map ref|united isles|the United Isles}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:54, 3 September 2016 (MST)}}
+{{Rithmatist}}

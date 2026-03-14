@@ -1,0 +1,44 @@
+{{InteriorArtToC|sa}}
+
+This is a gallery of interior art for *[[Words of Radiance]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
+
+<gallery widths=3000px heights=300px mode="packed" caption="Front Endpaper">
+Whelan Stormlight Shallan.jpg | <center><small>by {{a|Michael Whelan}}</small></center> [[Shallan]] on the [[Shattered Plains]]
+</gallery>
+
+<gallery widths=3000px heights=300px mode="packed" caption="Back Endpaper">
+Words of Radiance endpaper.jpg | <center><small>by [[Isaac Stewart]]</small></center> Map of [[Roshar]]
+</gallery>
+
+<gallery widths=3000px heights=300px mode="packed" caption="Maps">
+Frostlands map.jpeg | <center><small>by [[Isaac Stewart]]</small></center> [[Frostlands]]
+Shattered Plains WoR map.jpeg | <center><small>by [[Isaac Stewart]]</small></center> [[Shattered Plains]], with [[Nazrilof]]'s notes
+Battle of Narak.jpeg | <center><small>by [[Isaac Stewart]]</small></center> The [[Battle of Narak]]
+</gallery>
+
+<gallery widths=3000px heights=300px mode="packed" caption="Navani's notebook">
+Navani's Notebook p. 406.png | <center><small>by [[Isaac Stewart]]</small></center> Using [[fabrial]]s to float
+</gallery> 
+
+<gallery widths=3000px heights=300px mode="packed" caption="Shallan's sketchbook">
+Whitespine.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> [[Whitespine]]
+Pattern.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> [[Pattern]]
+Santhid.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> [[Santhid]] 
+Chasmfiend.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> [[Chasmfiend]]
+Chasmlife.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> Interior of [[Shattered Plains]] chasms
+Lait.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> [[Lait]] study
+Shardplate.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> [[Shardplate]] and [[Shardblade]]s
+Veil.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> Walking and Veil sketches
+</gallery> 
+
+<gallery widths=3000px heights=300px mode="packed" caption="Other artwork">
+Chull Life Cycle.jpeg | <center><small>by [[Isaac Stewart]]</small></center> [[Chull]] life cycle
+Contemporary Male Fashion.jpg | <center><small>by {{a|Dan dos Santos}}</small></center> [[Jah Keved]] male fashion
+Azish Public Servant Designs.jpeg | <center><small>by {{a|Dan dos Santos}}</small></center> [[Azish]] male fashion
+Scroll of Stances.jpeg | <center><small>by [[Isaac Stewart]]</small></center> Scroll of [[Stance]]s
+Bridge Four tattoos page.jpeg | <center><small>by [[Isaac Stewart]]</small></center> [[Nazh]]'s sketches of [[Bridge Four]] [[glyph]]s
+WoR Endnote.jpg | <center><small>by [[Isaac Stewart]]</small></center> [[Navani]]'s [[ketek]]
+Stormseat Mosaic.jpeg | <center><small>by [[Isaac Stewart]]</small></center> [[Stormseat]] mosaic
+</gallery> 
+
+[[Category:Interior art]]

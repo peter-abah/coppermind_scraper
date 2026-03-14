@@ -1,0 +1,1 @@
+#REDIRECT [[Steel Ministry#Canton of Resource]]

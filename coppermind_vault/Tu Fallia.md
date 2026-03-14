@@ -1,0 +1,30 @@
+{{nation
+|map=Tu Fallia.png
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Tu Fallia** is a small nation in southern [[Roshar]].{{map ref|Roshar}} 
+
+==Geography and Ecology==
+It borders [[Greater Hexi]], [[Triax]], [[Emul]], and [[Tu Bayla]]. It is on the edge of the [[Tarat Sea]].{{map ref|Roshar}} 
+
+The [[Stormfather]] shows [[Dalinar Kholin]] the area around Tu Fallia and [[Triax]] in a vision. Dalinar has little experience with Tu Fallia, and describes lush valleys with flora with large green leaves and tightly knoted vines; and fauna with leathery skin and long tentacles for arms, who were able to squeeze into tight pockets under the underbrush to protect themselves from highstorms.{{book ref|sa4|71}}
+
+It has an area of around 127,000km<sup>2</sup>,{{url ref|url=https://www.17thshard.com/forum/blogs/entry/634-roshar-physical-characteristics-and-areas/|text=Roshar Physical Characteristics And Areas|site=17th Shard}} making it the smallest known nation on Roshar.
+
+==History==
+During the [[Silver Kingdoms]] era, Tu Fallia was a part of [[Makabakam]].{{map ref|Silver Kingdoms}}
+
+[[Urithiru]] has an underground system of caverns, and there is a stream that leads to an exit in the mountain foothills of Tu Fallia after several days' march. [[Re-Shephir]] was suspected to have fled through this exit after her confrontation with [[Shallan Davar]].{{book ref|sa3|53}} 
+
+==Politics==
+[[Szeth]] considers Tu Fallia a nomadic backwater similar to [[Hexi]]. It is only nominally a "nation" and it lacks any form of organized government, even compared to the loose tribal coalition of [[Marat]].{{book ref|sa3|106}}
+
+## Trivia
+* In comparison to real-world nations, it is somewhat larger than Eritrea.
+
+## Notes
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:44, 14 January 2021 (UTC)}}
+{{Stormlight}}

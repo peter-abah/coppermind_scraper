@@ -1,0 +1,14 @@
+---
+species: "Dione"
+world: "Monrome"
+universe: "Cytoverse"
+introduced: "Defiant (book)|Defiant"
+---
+
+{{update|sky4}}
+**Lekilid** is a [[dione]] official.{{book ref|sky4|epilogue}}
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

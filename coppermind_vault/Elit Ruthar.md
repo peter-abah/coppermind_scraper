@@ -1,0 +1,36 @@
+---
+relatives: "Ruthar <small>(uncle)</small>, Jayla Ruthar|Jayla <small>(aunt)</small>, Relis Ruthar|Relis <small>(cousin)</small>"
+abilities: "{{tag+|Shardbearer"
+---
+
+<small>(formerly)</small>
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+{{quote
+|My cousin is planning to kill you for challenging me, right after he kills me for agreeing to the challenge. But when I stomp you into the sands and claim all of your family's Shards, I’ll be the rich one and he’ll be forgotten. Am I ready for our duel? I long for it, Adolin Kholin.
+|Elit{{book ref|sa2|50}}
+}}
+**Elit Ruthar** is an [[Alethi]] [[lighteyes]] on the [[Shattered Plains]] of [[Roshar]]. He is the cousin of [[Relis Ruthar]].{{book ref|sa2|53}} 
+
+## Appearance and Personality
+Elit is balding, and he is shorter than most Alethi men. He has thin lips that turn white when he smiles. He's ambitious and eager to gain a [[Shardblade]], to the point where he's willing to be reckless about it. He seems to have a close relationship with his cousin, [[Relis]], as the latter has gifted him with a set of [[Shardplate]].{{book ref|sa2|37}} However, this is only surface-level. Elit deeply resents Relis for overshadowing him in the dueling arena. He's very confident in his own skills, and is eager to prove them.{{book ref|sa2|50}} When humiliated, he can be extremely spiteful and vengeful.{{book ref|sa2|56}} [[Adolin]] considers him to be more than a little creepy.{{book ref|sa2|50}}
+
+## Attributes and Abilities
+Elit is a [[Shardbearer]], though he only has [[Shardplate|Plate]]. Though he is a passable duelist, he is overshadowed by Relis.{{book ref|sa2|37}} He fights with either a borrowed [[Shardblade]] or a [[Shardhammer]].{{book ref|sa2|53}}{{book ref|sa2|56}} His family, led by Highprince [[Ruthar]], is wealthy; after losing his own Plate, he is able to afford the large fee to borrow a set of the King's Plate.{{book ref|sa2|56}}
+
+## History
+As with many other lighteyes, Elit came to the [[Shattered Plains]] to participate in the [[War of Reckoning]]. Throughout his time there, he engaged in dueling, though he never rose high in the ranks and he was always overshadowed by his cousin, [[Relis]]. At some point, Relis gave him a set of [[Shardplate]].{{book ref|sa2|37}}
+
+He was present when [[Adolin]] attempted to goad Relis into a duel, and was highly interested in Adolin's offer to wager multiple Shards against one. Adolin noticed this, and after Relis declined, he made the same offer to Elit. Despite Relis's attempts to break off the arrangement, Elit agreed, giving himself a week to train.{{book ref|sa2|37}} He revealed his own ambitious motives and also informed Adolin that Relis planned to kill him.{{book ref|sa2|50}}
+
+During the duel, Elit used a borrowed Shardblade and his own Plate. He assumed that Adolin would use the same reckless tactics that he had used in his duel against [[Eranniv]], and was forced to go on the defensive when Adolin instead used precise form and movements. Elit used [[Smokestance]] and tried to injure Adolin, but Adolin was able to use Windstance to easily parry his attacks and score some of his own. Elit demanded that Adolin duel with the usual aggression seen in the arena, but Adolin declined despite the crowd's boos, and simply continued to put cracks into Elit's Shardplate. The Plate eventually ran out of [[Stormlight]] and Adolin was able to simply push Elit to the ground to win the duel.{{book ref|sa2|53}}
+
+A few days later, Elit participated in the disadvantaged duel against Adolin along with Relis, [[Jakamav]], and [[Abrobadar]].{{book ref|sa2|56}} He used a [[Shardhammer]] and a gray set of the King's Plate. Elit took a few hits from Adolin at the start of the duel, but scored one of his own as the four men attacked as a group. He continued beating on Adolin even as he tried to yield.{{book ref|sa2|56}} When [[Renarin]] and [[Kaladin]] joined the fight, they distracted the combatants and Adolin scored a direct hit on Elit's breastplate, exposing his chest and slowing him significantly. Kaladin then struck Elit in the chest with his spear, forcing him to yield and exit the duel. As Elit was leaving the arena, Kaladin took his helm, which he then used as a shield against Shardblade strikes.{{book ref|sa2|57}} Relis and Elit's loss brought shame to House Ruthar.{{book ref|sa2|67}}
+
+## Notes
+<references /><!-- sa2: 37, 50, 51, 53, 56, 57 -->
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:43, 17 September 2020 (UTC)}}
+{{Stormlight}}

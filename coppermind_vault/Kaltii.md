@@ -1,0 +1,14 @@
+{{settlement
+|nation=Arelon
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[Elantris (book)|Elantris]]
+}}
+**Kaltii** is a city in southern [[Arelon]].{{map ref|Arelon}} It lies along the [[Chasm]].
+
+It is very close to the spot where the cross is indicated on Aon [[Aon#Mea|Mea]]. The cross is meant to represent a place with a high density of life, as it has a strong cognitive presence.{{wob ref|5946}} It is unknown whether Kaltii has any particular relation to thoughtfulness or caringness, the meaning or Aon Mea. It is also unknown whether or not the Chasm appeared near Kaltii by coincidence or whether there was a specific reason.
+
+## Notes
+<references />
+{{complete}}
+{{Elantris}}

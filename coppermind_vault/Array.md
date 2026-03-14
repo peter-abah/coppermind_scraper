@@ -1,0 +1,16 @@
+---
+abilities: "Nahel bond, Order of Lightweavers|Lightweaver magic, {{tag+|Splinter"
+---
+
+|bonded=[[Red (Roshar)|Red]]
+|species=Cryptic
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Wind and Truth]]
+}}
+**Array** is a [[Cryptic]] bonded to [[Red (Roshar)|Red]] on [[Roshar]]. He hums when he hears alliteration, not lies, unlike other Cryptics. He goes on the raid on the [[Ghostblood]] hideout on Narak Four with Red and other members of the [[Unseen Court]] on day two of the last ten days.{{book ref|sa5|21}}
+
+## Notes
+<references />
+{{complete}}
+{{stormlight}}

@@ -1,0 +1,15 @@
+---
+ethnicity: "Noble"
+world: "Scadrial"
+universe: "Cosmere"
+introduced: "Mistborn: The Final Empire"
+---
+
+**Kevoux** is a friend of [[Elend Venture]], and a member of his philosophers club.{{book ref|mb1|23}}
+
+He is either the head or the heir of a house which is not very influential, compared to the other members of the club.
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:56, 26 December 2016 (MST)}}
+{{Mistborn|Era 1}}

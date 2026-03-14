@@ -1,0 +1,27 @@
+==Official artwork==
+<gallery mode="packed" heights=300px>
+TFE CN 2nd cover.jpg|<small><center>by {{a|Jian Guo}}</center></small>On the cover for the second Mainland China release of *[[Mistborn: The Final Empire]]*
+Rashek movie concept.jpg|<small><center>by {{a|Ben McSweeney}}</center></small>Concept art
+Lordruler.jpg|<small><center>by {{a|Ben McSweeney}}</center></small>Character art, [[Mistborn Adventure Game]]
+Lord Ruler Card.png|<small><center>by {{a|Jackson Robinson}}</center></small>King of Spades, Mistborn Themed Luxury Playing Cards
+MB-Deckbuilder Card - Confrontation by Gal Or.jpg|<center><small>by {{a|Gal Or}}</small></center>*Confrontation*, *[[Mistborn: The Deckbuilding Game]]*
+</gallery>
+
+## Portraits
+<gallery mode="packed" heights=300px>
+The Lord Ruler by Rafael Sousa.jpg | <center><small>by {{a|Rafael Sousa}}</small></center>
+The Lord Ruler 2 by Rafael Sousa.png | <center><small>by {{a|Rafael Sousa}}</small></center>
+The Deepness by creativityinajar.jpg | <small><center>by {{a|creativityinajar}}</center></small> [[Vin]] flying in front of a stained-glass window depicting the Lord Ruler and the [[Deepness]]
+The Lord Ruler by Ari Ibarra.jpg| <small><center>by {{a|Ari Ibarra}}</center></small>
+The Lord Ruler by Luna Guardiola.jpg | <small><center>by {{a|Luna Guardiola}}</center></small>
+The Lord Ruler by Diego López.jpg| <small><center>by {{a|Diego López}}</center></small>
+The Lord Ruler by Nevena Jevtic.jpg| <small><center>by [https://nevenajevtic.artstation.com/ Nevena Jevtic]</center></small>
+</gallery>
+
+## Scenes
+<gallery mode="packed" heights=300px>
+Vin vs the Lord Ruler.jpg | <center><small>by {{a|Rafael Sousa}}</small></center> Fighting [[Vin]]
+Help from the Mists by Carlos C Diaz.jpg| <small><center>by [https://twitter.com/CCDiazPaints Carlos C Diaz]</center></small>Fighting [[Vin]]
+Vin vs the Lord Ruler by Luna Guardiola.jpg | <small><center>by {{a|Luna Guardiola}}</center></small> Fighting [[Vin]]
+</gallery>
+[[Category:Gallery Subpages]]

@@ -1,0 +1,128 @@
+---
+image: "Sebarial by Marie Seeberger.jpg"
+spouse: "Palona"
+ancestors: "Sadees{{book ref|sa3|19"
+---
+
+|titles={{tag+|Highprince|Alethkar}}, [[Highprince of Commerce]]
+|groups={{tag+|army|Sebarial}}
+|residence=Urithiru
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+{{update|sa5}}
+{{quote
+|I hate [the other highprinces]. But I try to hate everyone. That way, I don't risk leaving out anyone particularly deserving.
+|Sebarial to [[Shallan Davar]]{{book ref|sa2|40}}
+}}
+**Highprince Turinad{{book ref|sa3|104}} Sebarial** is a [[highprince]] of [[Alethkar]] on [[Roshar]]. His banner, colored black on gold,{{rpg ref|slwg|35}} consists of the *[[Glyphs/Index#Sebes|sebes]]* and *[[Glyphs/Index#Laial|laial]]* [[glyphs]] stylized as a [[skyeel]].{{book ref|sa2|40}}
+
+Sebarial's princedom lies in southern Alethkar.{{map ref|Alethkar}} A large force of civilians and only a minimum of soldiers comprise his commerce-centric warcamp at the [[Shattered Plains]];{{book ref|sa2|40}} his is the southernmost warcamp, approximately an hour from [[Dalinar]]'s via carriage.{{book ref|sa2|55}}
+
+## Appearance and Personality
+Sebarial is plump and bearded. He is outwardly a very obnoxious, rude, lazy, and vulgar man and comes across as a fool, though he is actually quite intelligent and very sly. He avoids publicly showing his interest in Alethi politics, but privately he does pay attention.{{book ref|sa2|38}} He typically wears an outfit featuring a [[takama]] until some time after the move to [[Urithiru]] and his involvement in administration there, after which he begins wearing clothing of a style similar to that of a [[Thaylen]] merchant; this could be a result of [[Palona]]'s influence.{{book ref|sa4|27}}
+
+Though Sebarial himself is not very religious, his [[ardent]]s are quite devout.{{book ref|sa2|63}} Likewise, though he himself is useless in battle, he sees to it that his soldiers are well trained. Sebarial's genius is that he knows how to hire the right people for a job.{{book ref|sa2|81}} Over time, he proves himself reliable in getting things accomplished. Underneath his flippant exterior, he wants to be useful.{{book ref|sa4|27}}
+
+<gallery caption="Images of Sebarial">
+Sebarial sketches.jpg | <center><small>by [[User: Sheep]]</small></center>
+Sebarial takama.jpg | <center><small>by [[User: Sheep]]</small></center>
+Sebarial by Marie Seeberger.jpg | <center><small>by {{a|Marie Seeberger}}</small></center>
+Dance by Elisgardor.jpg | <center><small>by {{a|Elisgardor}}</small></center> With [[Palona]]
+Calm Among the Chaos by Marie Seeberger.jpg | <center><small>by {{a|Marie Seeberger}}</small></center> During the [[Battle of Narak]]
+</gallery>
+
+## Attributes and Abilities
+Sebarial is a shrewd, skilled businessman. He successfully maneuvers his way into providing all of the manufacturing and farming needs of the warcamps, earning a hefty profit for himself.{{book ref|sa2|40}} {{expand}}
+
+## History
+Sebarial gained his role as highprince sometime before [[Gavilar]] managed to unite and take the kingship of Alethkar, and he was noncommittal in his support. The day of Gavilar and Dalinar's battle against [[Kalanor]], Sebarial cited supply issues as the reason he hadn't shown up, but Dalinar knew him well enough to know he was just avoiding choosing a side in the war.{{book ref|sa3|26}} Years later, Sebarial attended Gavilar's funeral service and seemed to expect Dalinar, who was known for his drunkenness at the time, to make some kind of disruption.{{book ref|sa3|105}}
+
+### Vengeance Pact
+{{quote
+|You sly eel. While the others fight a war, you’ve been building an economy.
+|[[Shallan]] to Sebarial{{book ref|sa2|40}}
+}}
+Sebarial accompanied the other Alethi highprinces to the Shattered Plains in pursuit of the [[Vengeance Pact]]. However, because he recognized that the battles for the [[gemheart]]s meant Alethkar would never completely abandon the warcamps, he preferred to focus on building mills, farms, and other manufactories in lieu of participating in plateau runs; his burgeoning economy supported markets, fully constructed tenements, and even [[lavis]] fields to the southwest of the camp. His warcamp, reflecting his prediction of Alethkar's semi-permanent presence there, was built much more like a city than any of the others, with straight streets and buildings designed with rounded roofs, corners, and sides to better repel winds from [[highstorm|highstorms]].{{book ref|sa2|40}}{{book ref|sa2|55}}
+
+After the [[Assassin in White]]'s first attempt on, ostensibly, King [[Elhokar]]'s life, the king and the highprinces convened to discuss matters. Sebarial, whose contributions to the meeting were confined to snacking and making pithy remarks, was faced with an unexpected opportunity when [[Shallan Davar]] arrived in the middle of the meeting; seeking a way to avoid living under [[Dalinar]]'s watchful eye, she alleged that Sebarial had been the first to offer her a place to stay on the Shattered Plains. Having observed the way the others had been trying to snatch her up, he claimed a distant relation to Shallan and confirmed her story.{{book ref|sa2|38}} After sharing a carriage ride back to his warcamp, Sebarial gave Shallan rooms in his manor and a position as one of his clerks tasked with organizing his personal finances.{{book ref|sa2|40}}{{book ref|sa2|60}}
+
+{{sidequote
+|I've got a feeling about you, Dalinar old man. I think it's wise to stay close to you. Something's going to happen out there on the Plains, and opportunity rises like the dawn.
+|Sebarial to [[Dalinar]]{{book ref|sa2|76}}
+|side=left|size=350px
+}}
+Sebarial spent a fair amount of his time in idleness, avoiding putting his ledgers in order or seeing to other details of organizing his household.{{book ref|sa2|47}} He did attend important functions, including [[Adolin]]'s duel against four other [[Shardbearer]]s,{{book ref|sa2|57}} but was otherwise noted for shirking his responsibilities.{{book ref|sa2|75}} Because of this, Dalinar was shocked when Sebarial brought his army to join him on his expedition to [[Stormseat]] to end the war with the [[Parshendi]] and discover [[Urithiru]].{{book ref|sa2|76}}
+
+{{image|Calm Among the Chaos by Marie Seeberger.jpg|side=right|width=300px|Relaxing during the battle}}
+### Battle of Narak
+Though Sebarial did not partake in fighting personally, he participated in tactical planning sessions as they moved towards the city of Narak.{{book ref|sa2|80}} When the [[Battle of Narak|battle]] arrived, Dalinar ordered him to stay in the command tent and gave [[Teleb]] command of his army with [[Rust Elthal|Rust]] and [[Serugiadis]], two other Shardbearers, to help him. Sebarial seemed ironically comforted to see through Dalinar's confident front that he had shown the other highprinces.{{book ref|sa2|81}}
+
+When it became clear that the Parshendi had successfully summoned an [[Everstorm]] and the Alethi knew they needed to get onto the [[Oathgate]] plateau, Sebarial managed to organize his and [[Roion]]'s armies into an orderly march onto the plateau before sitting down with [[Palona]] to eat fruit and drink some wine from Dalinar's stores.{{book ref|sa2|86}} He and the other survivors moved into Urithiru and shortly sent word to the warcamps summoning the inhabitants to the tower; his warcamp emptied as everyone obeyed.{{book ref|sa2|87}}
+
+### Urithiru
+{{sidequote
+|I will note that this Desolation of yours is going to undermine years of my business planning.
+|Sebarial to Shallan{{book ref|sa3|21}}
+|side=left|size=300px
+}}
+After the Battle of Narak, Sebarial was one of the few survivors Dalinar felt he could fully trust. Because of this, Dalinar called him and [[Aladar]] to the site when Sadeas' body was discovered by members of [[Bridge Four]]. In the ensuing discussion, Dalinar named Sebarial [[Highprince of Commerce]], recognizing his savvy for managing economic matters.{{book ref|sa3|2}} Since the battle had decimated the Alethi troops, Sebarial gave most of his army to Dalinar to be integrated into the Kholin army and kept only a single division for himself.{{book ref|sa3|107}} He also attended Dalinar and [[Navani]]'s wedding.{{book ref|sa3|4}} Bridge Four later discovered the body of [[Vedekar Perel]], and because he was from Sebarial's army, Dalinar and Navani informed him of the murder and the investigation [[Adolin]] was to head.{{book ref|sa3|9}}
+
+Sebarial offered Shallan a room with a balcony in his section of Urithiru, which she gratefully accepted, although she often skipped dining with him and Palona and she only had the most rudimentary furnishings.{{book ref|sa3|13}} He himself decorated his quarters extravagantly and hired the services of such people as musicians and masseuses.{{book ref|sa3|21}}{{book ref|sa3|32}} Sebarial operated his section much the same as his warcamp, keeping commerce flowing at all hours; in fact, in his position as Highprince of Commerce, he shrewdly understood the merchants' motivation behind their complaints at Navani's plans for an orderly market and tacitly approved the formation of the [[Breakaway]].{{book ref|sa3|18}} He also subsidized liquor sales with low taxes and supplied Dalinar with reports on the tower's commerce. Sebarial intended to return some of his labor force to the warcamps in anticipation of trade opportunities there, and he ended up taking control of the surrounding forest,{{book ref|sa3|21}}{{book ref|sa3|50}} although without [[parshmen]] he lacked the proper labor force to produce the needed amount of lumber.{{book ref|sa3|104}}
+
+Navani organized a meeting of the monarchs at Urithiru, to which Sebarial and Palona were invited. They arrived at the last minute without chairs and immediately found the food table, where Sebarial stood for most of the meeting and inserted several sarcastic remarks into the conversation. Although he had already devised a plan for taxing the use of the [[Oathgate]]s,{{book ref|sa3|21}} Navani gave that responsibility over to Queen [[Fen]] instead of to him.{{book ref|sa3|96}}
+
+Because Dalinar's restored memories of his actions at [[Rathalas]] were so painful he retreated from the public for a while, four of the highprinces--including Sebarial, Aladar, [[Hatham]], and [[Bethab]], who sent his [[Mishinah|wife]] in his stead--approached Navani with their concerns. They discussed such problems as the infrastructure of the tower, the lack of supplies and labor, and the business of Dalinar becoming highking, all while making it clear that the heart of the problem was a doubt as to Dalinar's motives and capability. During the meeting, Navani was able to allay their concerns, especially after Sebarial voiced his real question: whether Dalinar's plans were all "secretly a way for him to dominate the world."{{book ref|sa3|104}}
+
+### Battle of Thaylen Field and Aftermath
+{{sidequote
+|Oh my. Now **this** should be interesting.
+|Sebarial on Queen [[Jasnah]]{{book ref|sa3|122}}
+|side=right|size=300px
+}}
+Navani and the highprinces successfully kept the tower running until Dalinar was well enough to fill his role again. Dalinar took a small group to [[Thaylen City]] to attend the ill-fated meeting of the [[coalition of monarchs]] when [[Taravangian]] leaked information to each group aimed at undermining their trust in him;{{book ref|sa3|111}} during that time, Sebarial remained at Urithiru. He was at the tower when an invasion of Parshendi arrived with the intent of keeping the Alethi from sending reinforcements to the [[Battle of Thaylen Field]] through the Oathgate to Thaylen City, and he followed Aladar's lead in pulling troops up higher into Urithiru.{{book ref|sa3|120}}
+
+After the battle was won, the coalition met again in Urithiru. While the Kholins discussed who would take over the rule of Alethkar, Sebarial pretended to sleep while Palona delighted herself in recent gossip. Sebarial was pleased that the Kholins chose Jasnah, taking pleasure in the others' looks of worry.{{book ref|sa3|122}}
+
+A year later, Sebarial stayed behind at Urithiru to aid with the tower's administration while Dalinar and the rest of the coalition's army went to [[Emul]] to take back strategic land. He and Navani watched the army transfer to [[Azir]] together, discussing Taravangian and then Palona. As they entered the tower once more, Navani asked him to oversee the old warcamps and bring them completely under the coalition's control. Before leaving, Sebarial brought up the fact that Palona wouldn't marry him, and Navani advised him to let her see his sincerity.{{book ref|sa4|27}} After the [[Fused]] started destroying the bridges and raiding caravans on the way from the warcamps to Urithiru, Sebarial put together a team to establish a safer route.{{rpg ref|slwg|160}} Sebarial also came to suspect that [[Fused#Brands|Masked Ones]] had seized control of the underworld in the remnant warcamps, compromising supply lines to Urithiru. He ordered his men to infiltrate the worst gambling dens and criminal hideouts.{{rpg ref|slwg|166}}
+
+## Relationships
+### Palona
+{{quote
+|If a man takes nothing in his life seriously, it makes a woman wonder. What is **she**? Another joke? Another whim?
+|[[Navani]] to Sebarial{{book ref|sa4|27}}
+}}
+[[Palona]] is Sebarial's [[Herdaz|Herdazian]] mistress. She calls him "Turi." And also sometimes "the idiot." She has a much more active hand in running the day-to-day workings of the manor than Sebarial does. They enjoy witty banter and seem genuinely fond of each other despite their outward griping.{{book ref|sa2|40}} Palona perfectly complements Sebarial's dichotomy of outward indolence masking inward cleverness with her own lack of arrogance as she takes full advantage of her wealth.{{book ref|sa2|47}} Until the [[Contest of champions]], she consistently refuses any offer of marriage, however much Sebarial privately but sincerely wishes her to accept.{{book ref|sa4|27}} When Dalinar returns from the Spiritual Realm, Sebarial and Palona are wearing a Herdazian wedding ribbon around their wrists, presumably having just married. {{book ref|sa5|129}}
+
+### Shallan
+{{quote
+|It could be worse... I could be boring as well as expensive.
+|Shallan to Sebarial{{book ref|sa2|38}}
+}}
+[[Shallan Davar]] maneuvers Sebarial into hosting her when she arrives on the Shattered Plains, gambling that he would agree to take her in if he sees it as an opportunity to get one up on [[Dalinar]]. He claims a distant relation to her, and she begins calling him "Uncle Sebarial." She also specifies a large weekly stipend of three [[broam]]s, which Palona ensures that they pay.{{book ref|sa2|38}} Shallan cleans up Sebarial's ledgers for him and lures him with information on [[Urithiru]] in the event she needs to rely on him to get out onto the [[Shattered Plains]] herself.{{book ref|sa2|60}} She continues to ally herself with Sebarial while in Urithiru, although she gets involved in her own projects and doesn't do much more scribe work for him.{{book ref|sa3|21}}
+
+## Quotes
+{{quote
+|Onward, then! To glory and some such nonsense. If we find riches, remember that I get my part! I got here before Aladar. That has to count for something.
+|Sebarial to [[Dalinar Kholin|Dalinar]], [[Roion]], and [[Meridas Amaram|Amaram]]{{book ref|sa2|76}}
+}}
+
+{{quote
+|Trust a coward to know the smartest way to stay out of fighting.
+|Sebarial about [[Roion]].{{book ref|sa2|80}}
+}}
+
+## Trivia
+* Sebarial and [[Ashweather Cett]] together would "make a good comedy show."{{wob ref|1496}}
+
+## Notes
+<references><!-- chapters
+sa2: 24, 38, 40, 42, 43, 44, 47, 49 52, 53, 54, 55, 56, 57, 60, 63, 67 75, 76, 77, 80, 81, 86, 87
+sa3: 2, 4, 9, 13, 18, 21, 25-27, 32, 40, 44, 50, 96, 104, 105, 107, 120, 122
+Turinad: sa3 104
+-->
+</references>
+{{partial}}
+{{Stormlight}}

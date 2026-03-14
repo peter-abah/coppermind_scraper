@@ -1,0 +1,2 @@
+#REDIRECT[[Prickletac]]
+[[Category: aliases]]

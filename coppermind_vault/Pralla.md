@@ -1,0 +1,73 @@
+---
+image: "Pailiah Endsheet.png"
+abilities: "{{tag+|Cognitive Shadow"
+---
+
+, {{tag+|Shardbearer}}
+|titles={{tag+|herald}}, Patron of the [[Order of Truthwatchers|Truthwatchers]]
+|aliases=Pailiah, Pali, Pala
+|world=Ashyn
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+{{update|sa5}}
+
+**Pralla**, known as **Pailiah** in [[Vorinism]], **Pala** in [[Iriali]], and nicknamed **Pali**,{{book ref|sa5|62}}{{book ref|sa2|i|14}}{{rpg ref|slsw|18}} is one of the ten [[Herald]]s of the [[Almighty]] on [[Roshar]]. She is the patron of the [[Order of Truthwatchers]].{{wob ref|12509}}
+
+## Personality and Appearance
+
+### Appearance
+Pralla has tan skin, and is stated to look similar to a Veden woman.{{book ref|sa5|62}} She sometimes wears green cloth garments.{{book ref|sa5|62}}
+
+### Personality
+She is stated to be a good person, but to be flawed in her love of secrets.{{book ref|sa5|103}} Pralla is also obsessed with archiving the people, places and things she has known inside of a chamber under [[Rall Elorim]].{{rpg ref|slwg|155}} In line with this obsession, she is known to steal from the people she meets, taking those objects as mementos of their fleeting lives.{{rpg ref|slwg|93}}
+
+## Attributes and Abilities
+{{image|Pailiah by Esther Schrader.jpg|side=left|width=200px}}
+{{for|/Gallery|more images}}
+{{for|Herald#Abilities|more information about Heraldic powers}}
+
+Before becoming a Herald, Pralla was a scholar.{{book ref|sa5|55}} 
+
+### Surgebinding
+==== Odium Surges ====
+Before becoming a Herald, she possessed prolonged life and decelerated aging due to the effects of the Surges granted to her by [[Odium]].{{book ref|sa5|55}} 
+
+==== Honor Surges ====
+As a wielder of an [[Honorblade]], a fragment of Honor, she has access to two Surges. Her powers manifest as the Surges of Progression and Illumination.
+
+However, she has abandoned her Blade at the Aharietiam, losing her access to Stormlight and Surgebinding.{{book ref|sa1|part=prelude}} Whether she has Surgebinding abilities in the Era of Solitude is uncertain.
+
+### Herald of the Almighty
+As a Herald, she's an immortal [[Cognitive Shadow]], and every time she dies, she travels to [[Braize]]. There, she's tortured until she or one of the other Heralds breaks, returning them to Roshar.{{book ref|sa3|38}} 
+
+Her slowed aging was turned into stasis and immortality upon becoming a Herald, as [[Vedel]] used her [[Connection]] to Honor to create a constant influx of Investiture into her soul, keeping her at the same age forever.{{book ref|sa5|64}} Jezrien states that she is able to see the truth, as it might be.{{book ref|sa5|62}} 
+
+Like the other Heralds, over time, she developed the ability to draw upon the power of Roshar itself, not simply the Surges of Honor.{{book ref|sa5|120}} Around four thousand five hundred fifty years before the Night of Sorrows, Honor granted her, and the other Heralds, greater access to the power of the Surges and to the powers of Roshar.{{book ref|sa5|120}} Following this, they were referred to as being Unchained.{{book ref|sa5|122}} However, what powers she gained from Roshar are currently unknown.
+
+## History
+{{image|Pailiah by Shuravf.jpg|side=right|width=250px}}
+
+Like the other Heralds, except for [[Talenel]], Pralla was born on [[Alaswha]] and was likely involved in the territorial wars that ravaged the planet between eight thousand and seven thousand one hundred years before the [[Night of Sorrows]].{{book ref|sa5|104}}{{book ref|sa5|107}} She served as a scholar.{{book ref|sa5|55}} She was granted Surges, be it by Honor or Odium, which tremendously slowed her aging.{{book ref|sa5|55}} It is unknown if she was on the side of [[Odium's empire]] or part of the resistance faction led by [[Makibak]]. Following the scouring of Alaswha, renamed Ashyn, by the Surges, she made the trip to [[Roshar]] along with a large group of survivors.{{book ref|sa5|107}}  
+
+When the [[Desolation]]s began, she was one of the ten people made Heralds by [[Honor]] and given a [[Honorblade]].{{book ref|sa3|38}} Sometime during the Desolations, Pralla, along with her Truthwatchers, worked to preserve human knowledge between the Desolations.{{rpg ref|slwg|93}} Along with all of the Heralds but [[Taln]], Pralla abandoned the [[Oathpact]] at the end of [[Aharietiam]].{{book ref|sa1|part=prelude}}
+
+After Aharietiam, Pralla created a large chamber under Rall Elorim, where she alone began archiving the people and places she had known during her immortal life. Slowly however, her passion fell into obsession.{{rpg ref|slwg|155}} To help her with her goals, she created a secret society, the [[Eyes of Pala]], which contains at least one Truthwatcher among its ranks.{{rpg ref|slsw|5}}
+
+## Culture
+{{image|Pailiah.jpg|side=left|width=150px}}
+
+In the [[Vorin]] culture, Pralla is associated with number 5 (Palah), the essence Pulp, and the attributes of Learned and Giving.{{book ref|sa3|part=ars}} The grand library in Kharbranth, [[Palanaeum]], is named after her.{{wob ref|10562}}
+
+Pailiah features in several Rosharan idioms, such as "Pali's mind" and "Pailiah knew...", referencing her nature as Learned.{{book ref|sa2|i|14}}{{book ref|sa2|14}} There are temples to her in major cities on Roshar, like [[Kholinar]] and [[Thaylen City|Thaylen]].{{map ref|Kholinar}}{{book ref|sa3|117}}
+
+## Trivia
+* In 2017, someone reported that Brandon had personalized one of their books with confirmation that the old ardent Shallan sees in the Palanaeum is Pralla.{{wob ref|4419}}{{book ref|sa1|33}} However, no photo of the personalization was ever provided and when others asked Brandon for confirmation, he was only willing to say that there is a female Herald in close proximity to Taravangian,{{wob ref|11521}}{{wob ref|11589}} though not in his inner circle of associate commonly seen on-screen{{wob ref|11521}} and that she is the only Herald currently influencing him, though there had been others in the past.{{wob ref|11589}} It seems likely that the Heralds Pralla and [[Battar]] got mixed up in the original question.{{book ref|sa5|i|6}}
+* Pralla appears to be named after Prallah, one of the [[Silver Kingdoms]] in [[The Way of Kings Prime]].{{wob ref|7116}}
+* Pralla's portrait used in the chapter arches is called the Scholar by the [[Dragonsteel Entertainment]] staff.{{wob ref|14097}}
+
+## Notes
+<references/>
+{{partial}}
+{{stormlight}}
+[[es:Pailiah]]

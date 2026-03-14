@@ -1,0 +1,24 @@
+---
+family: "House Lekal"
+relatives: "Jastes Lekal"
+died: "{{date|1025|FE"
+---
+
+{{book ref|mb3|61}}
+|titles=King of [[House Lekal]]'s kingdom
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+**Audil Lekal** was the second king of the post-[[Collapse]] kingdom of [[House Lekal]] in the [[Southern Dominance]] of [[Scadrial]]. He was the uncle of [[Jastes Lekal]].{{book ref|mb3|4}}
+
+After Jastes was executed for raising an uncontrollable [[koloss]] army,{{book ref|mb2|51}} Audil became the ruler of the lands that House Lekal had claimed in the [[Southern Dominance]]. He ruled from [[Lekal City]], a former country estate that quickly became a shantytown in the turmoil following the [[Lord Ruler]]'s death.{{book ref|mb3|4}}
+
+House Lekal was presumably weakened by the events surrounding the [[Battle of Luthadel]]; Audil lost most of his kingdom to bandits and koloss.{{book ref|mb3|part=ars}} However, he still controlled lands within the defensive perimeter of the [[New Empire]].{{book ref|mb3|4}} In the months before the [[siege of Fadrex City]], [[Elend]] sent [[Breeze]] and [[Sazed]] to King Lekal to have him officially swear his fealty to the empire. Audil did this reservedly, and Sazed noted that his signature on the treaty was incredibly cramped, as he knew he had been beaten and had no choice but to join [[Elend]]'s empire or die, regardless of his own problems with the agreement.{{book ref|mb3|4}}
+
+As Scadrial destabilized, Audil was killed when his kingdom was destroyed by lava from an [[ashmount]].{{book ref|mb3|61}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:08, 29 May 2022 (UTC)}}
+{{Mistborn|Era 1}}

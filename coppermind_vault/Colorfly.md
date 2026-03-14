@@ -1,0 +1,12 @@
+{{vehicle
+|type={{cat tag|Aircraft}}
+|earth=Alcatraz
+|books=[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]
+}}
+The **Colorfly** was a flying vessel shaped like a butterfly.{{book ref|a4|4}} It is made from glass and runs on [[Silimatic]] technology. Alcatraz and his group flew it away from Nalhalla to convince the Knights of Crystallia to follow them to war-ridden Mokia. [[Aydee Ecks Smedry|Aydee]] was the pilot. The flight started in chapter 4 1/2 and lasted until chapter 42, however, Alcatraz forgot to include the between chapters in the book, so we only know of the flight what they say about it afterward. They supposedly went into space, fought a squid-wombat, and many other things. In the end, it crash-landed in a jungle near [[Tuki Tuki]].{{book ref|a4|5}} 
+
+## Notes
+<references />
+{{partial}}
+{{Alcatraz}}
+[[category: Silimatics]]

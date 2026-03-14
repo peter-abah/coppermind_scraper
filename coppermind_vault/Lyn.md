@@ -1,0 +1,81 @@
+---
+image: "Lyn Shuravf.jpg"
+abilities: "{{tag+|windrunner"
+---
+
+{{book ref|sa3.5|3}}
+|groups={{tag|Knights Radiant}} <small>([[Order of Windrunners|Windrunner]])</small><br />{{tag|Bridge Four}}, {{tag+|army|Kholin}}
+|nation=Alethi
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+{{update|sa5}}
+{{quote
+|I want to help! I want to do something other than stand around, waiting for the enemy to come to us!
+|Lyn on why she wants to become a [[Windrunner]]{{book ref|sa3|46}}
+}}
+**Lyn** is an [[Alethi]] scout and, later, a [[Windrunner]] on [[Roshar]].{{book ref|sa3|46}}
+
+## Appearance and Personality
+{{image|Lyn by Shuravf.jpg|side=left|width=200px}}
+
+Lyn is a short, "solid-looking" [[darkeyes|darkeyed]] [[Alethi]] woman with long black hair, which she wears in a ponytail or a braid.{{book ref|sa2|81}}{{book ref|sa3|29}}{{book ref|sa4|3}}  She's usually dressed in the blue [[House Kholin|Kholin]] uniform.{{book ref|sa3|35}}
+
+She's interested in pursuing the masculine arts, and dislikes being treated as incapable of fighting just because she's a woman. She's disappointed when [[Shallan]] informs her that a [[Knights Radiant|Radiant]] can be feminine, and when Kaladin suggests that Lyn can serve as a secretary, she's furious with him.{{book ref|sa3|8}}{{book ref|sa3|35}} She's impatient and eager, and wants to take the fight to the enemy rather than wait for it to come to her.{{book ref|sa3|35}}{{book ref|sa3|46}} She's also good at making friends, sliding into the [[Bridge Four]] group without any problems, and appreciates good art.{{book ref|sa3|111}}{{book ref|sa3|8}} She can keep a cool head in stressful situations, and take charge when necessary.{{book ref|sa3|29}}{{book ref|sa3|i|14}}
+
+## Attributes and Abilities
+{{quote
+|I could [stab Amaram a little]. I've only started training with a spear. We could claim it was an accident.
+|Lyn on her own combat ability{{book ref|sa3|111}}
+}}
+Lyn is a [[Windrunner]], allowing her to heal herself with [[stormlight]], as well as use the [[Surge]]s of [[Gravitation]] and [[Adhesion]].{{book ref|sa3.5|3}} While she's not shown using the latter, she is capable of flying by the time of the [[Battle of Thaylen Field]].{{book ref|sa3|120}} As a scout, she was armed with a knife, and presumably knew how to use it.{{book ref|sa3|70}} After joining Bridge Four, she begins to use a spear, although she is, by her own admission, only a beginner.{{book ref|sa3|111}} She's also capable of drawing what she'd scouted from memory, although her artwork prioritizes speed over quality.{{book ref|sa2|81}}
+
+## History
+{{image|Lyn by Lizarazo.png|side=right|width=150px}}
+ 
+### Scout and Messenger
+Lyn was one of the scouts who accompanied [[Dalinar Kholin]]'s expedition into the center of the [[Shattered Plains]]. She, along with [[Shim]] and [[Felt]], aided [[Shallan]] with mapping out the central plateaus during the [[Battle of Narak]], providing illustrations.{{book ref|sa2|81}}
+
+Following the [[Alethi]] moving to [[Urithiru]], Lyn started working as a messenger. She was the one to report the murder of [[Vedekar Perel]] to Dalinar, as well as the one to fetch him when [[Bridge Four]] found [[Oathbringer (Shardblade)|Oathbringer]].{{book ref|sa3|8}}{{book ref|sa3|28}} At the same time, she began to hang out around Bridge Four, even going with them to investigate what turned out to be [[Re-Shephir]]. There, Lyn was the first to notice [[Midnight Essence]]. During the ensuing battle, she provided first aid to the wounded.{{book ref|sa3|29}}
+
+{{image|Joining the Windrunners by Marie Seeberger.jpg|side=left|width=250px|Asking [[Kaladin]] if she can join the Windrunners}}
+### Windrunner Squire
+When [[Kaladin]] returned and Bridge Four began to recruit [[squire]]s, Lyn attempted to join. Kaladin initially thought she wanted to be a scribe, but after the situation was cleared up, he allowed her and four other scout women to join.{{book ref|sa3|35}} Lyn initially had problems breathing in [[Stormlight]], but with [[Skar]]'s help, managed to do so, becoming a proper squire.{{book ref|sa3|46}} Eventually, the rest of her squad joined her.{{book ref|sa3|55}}
+
+From then on, Lyn easily slid into Bridge Four's structure, becoming fast friends with other members. Shortly before the [[Battle of Thaylen Field]], she was on good enough terms to know their history with [[Amaram]], even suggesting that she could "stab him a little" for them.{{book ref|sa3|111}} When [[Jezrien]]'s [[Honorblade]] was stolen, she was present, and ordered another scout to fetch [[Renarin]] to help with [[Rock]]'s wounds.{{book ref|sa3|i|14}}
+
+After [[Teft]] managed to swear his Third Ideal, Lyn came to [[Thaylen City]] along with the rest of Bridge Four, carrying Rock until he was close enough to Kaladin to start healing himself with Stormlight. Afterwards, she participated in the fighting.{{book ref|sa3|120}} She survived the battle, and was last seen listening to [[Lopen]]'s story of how he lost his arm.{{book ref|sa3|121}}
+
+### Windrunner 
+Lyn was on one of the missions initially sent to [[Akinah]] to scout prior to [[Rysn]]'s [[Expedition to Akinah|expedition]]. Although this expedition was a failure, she and [[Sigzil]] rescued [[Leyten]] after his Stormlight was sucked away by a [[Sleepless]].{{book ref|sa3.5|3}}
+She swore her third ideal and is now a full Windrunner. {{book ref|sa4|10}}
+
+She was part of the team that went back to Hearthstone and rescue its people including Kaladin’s family.{{book ref|sa4|5}} 
+
+Lyn left with Dalinar to fight the [[Emul]] campaign. There she led scouting to [[Urithiru]]. She talked to the soldier that was sent by the Fused pretending to be from the queen, who used the correct passwords and had the correct language. Urithiru’s soldiers had to hike for hours to meet them and the scouts were only able to see through spyglasses and saw what they thought were Windrunners flying over the tower trying to ask for patience.{{book ref|sa4|50}}
+
+She did try to approach the tower herself, but due to Urithiru’s barrier she fell unconscious. The tower’s soldier dragged her back to the others.{{book ref|sa4|50}}
+
+Lyn is one of the most trusted Windrunners, this is proven by the fact that she was given the responsibility of lashing Dalinar to meet the Herald [[Ishar]].{{book ref|sa4|107}} Later, she was part of the five windunners that fought the Herald who easily disabled them by only defending himself.{{book ref|sa4|111}} 
+
+Lyn also participated on the scouting team that came back after [[Ishar]] and his army left to the cognitive realm. There she found a killed cultivationspren, along with the other killed spren found by the other members of team.{{book ref|sa4|111}}
+
+## Relationships
+### Kaladin
+Kaladin was able to understand that Lyn had been running messages to Bridge Four because she wanted to be part of the team, however he assumed she would be a scribe and offered her that role. She spoke her mind and was then invited by him to join the tryouts.{{book ref|sa3|35}}
+
+{{quote
+|Their relationship hadn’t been right. He knew that as well as she did, and the pain he felt wasn’t for the end of that. Not specifically. 
+|Kaladin to himself on breaking up with Lyn.{{book ref |sa4|5}}
+}}
+
+Adolin and Syl conspired on getting Kaladin to date Lyn. Though the relationship hadn’t worked out, they’d both grown because of it. They went together to Skar’s wedding shortly before they broke up.{{book ref|sa4|38}} She still cared about him and showed she had genuine concern.{{book ref|sa4|5}}
+
+## Trivia
+* Lyn was named after [http://www.lyndseyluther.com Lyndsey Luther], who made a post in a Reddit thread asking what fictional world people would want to live in, replying with *[[The Way of Kings]]*.  Brandon asked her to send him her information so he could insert her as a character in the next book, *[[Words of Radiance]]*. She was also chosen to be a beta reader.{{reddit ref|date=2014-05-07|Fantasy|24yegw|text=Reddit announcement}}{{book ref|sa3|part=ack}}
+
+## Notes
+<references />
+{{complete}}
+{{Stormlight}}

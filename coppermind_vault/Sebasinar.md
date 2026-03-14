@@ -1,0 +1,16 @@
+---
+#profession: "Scholar"
+residence: "Urithiru"
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+**Sebasinar** is a scholar on [[Roshar]]. They are a member of [[Navani Kholin]]'s team in [[Urithiru]] and a colleague of [[Rushu]]'s.{{book ref|sa4|19}}
+
+During the [[singer]] occupation of the tower, Sebasinar was one of the abstract thinkers tasked with devising a way to identify hidden [[Fused]].{{book ref|sa4|19}}
+
+## Notes
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:38, 2 March 2021 (UTC)}}
+{{stormlight}}

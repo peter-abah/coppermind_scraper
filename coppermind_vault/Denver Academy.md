@@ -1,0 +1,11 @@
+{{architecture
+|usage={{cat tag|Academic institutions|Academy}} of {{tag|Rithmatics}}
+|earth=Rithmatist|nation=United Isles of America|state=Denver
+|books=[[The Rithmatist]]
+}}
+**Denver Academy** is one of the eight schools that teach [[Rithmatics]]. It is located on [[Denver]].{{map ref|united isles|the United Isles}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:22, 3 September 2016 (MST)}}
+{{Rithmatist}}

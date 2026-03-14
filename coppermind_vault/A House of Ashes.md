@@ -1,0 +1,13 @@
+{{book
+|series=[[Mistborn Adventure Game]]
+|prequel=The Hero of Ages
+|setting=[[Scadrial]], [[Cosmere]]
+|publisher=Crafty Games
+}}
+***A House of Ashes*** is a collection of 16 short stories published alongside the *[[Mistborn Adventure Game]]*.{{url ref|url=https://web.archive.org/web/20120908101529/http://www.crafty-games.com/content/house-ashes-free-companion-novella-mistborn-adventure-game-now-available|text=Announcement|site=Crafty Games}} The stories tell of the effects of the [[collapse]] of the [[Final Empire]]. They are considered semi-canonical except where contradicted by official books or statements.{{wob ref|14986}}
+
+## Notes
+<references />
+{{meta/stub}}
+{{Mistborn|rpg}}
+[[Category: Mistborn| ~mag-ahoa]]

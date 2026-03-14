@@ -1,0 +1,15 @@
+---
+universe: "Wode States"
+books: "Perfect State"
+---
+
+{{quote
+| It was her Concept, obviously. The hardy yet pragmatic chief. She had seen the truth of these invasions. Undoubtedly, if I won her loyalty, she would prove a lasting and powerful ally.
+| [[Kairominas]], about Letmere{{book ref|ps|4}}
+}}
+**Letmere** or Let-mere is a [[Machineborn]] chief of tribe living in one of the [[State#Border_States|Border State]]s of [[Alornia]]. She is a woman with strong violet cast to her skin, due to consumption of body-enhanced spice, and her face is painted white and red when she meet [[Kairominas]]. Her fate after her State was pillaged by [[Melhi]] is unknown.
+
+## Notes
+<references />
+{{partial}}
+{{Perfect State}}

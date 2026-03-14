@@ -1,0 +1,82 @@
+**The Wheel of Time** is a long-running epic fantasy series by [[wikipedia:Robert Jordan|Robert Jordan]].{{bws ref|brandon-to-finish-wheel-of-time|text=Brandon announcing his involvement|date=Dec. 10, 2007}} Upon Jordan's death, [[Brandon Sanderson]] was chosen to complete the series. He was selected by Robert Jordan's widow and editor, Harriet McDougal. After she read Brandon's [[bws: euology-goodbye-mr-jordan|eulogy]] for Jordan, she decided to read one of his books.{{url ref|url=http://www.pastemagazine.com/articles/2014/04/brandon-sanderson-heralding-a-new-era-of-fantasy.html|text=Brandon Sanderson: Heralding a New Era of Fantasy|site=Paste Magazine|date=April 22, 2014}}
+
+In 2009, Tor announced that Brandon would be writing three books to finish the series, after finding that it was impossible to write as a single novel.{{tor ref|tor-announces-the-gathering-storm-book-twelve-of-robert-jordans-legendary-wheel-of-timer-fantasy-series|text=Tor press release for The Gathering Storm|date=March 30, 2009}}{{bws ref|splitting-a-memory-of-light|Brandon announcing the split|date=March 30, 2009}}
+
+There is a [[Wikipedia: The Wheel of Time (TV series)|TV show adaptation]] based of the series. The eight-episode first season premiered on Prime Video in November 2021. Brandon acted as a consulting producer, offering feedback on the scripts directly to the show runner, [[wikipedia: Rafe Judkins|Rafe Judkins]].{{wp ref|The Wheel of Time (TV series)|The Wheel of Time (TV series)|date=Jul 22, 2022}} In May 2021, before the first season premiered, the series was renewed for a second season, which premiered in September 2023. The series was renewed for a third season in July 2022, over a year ahead of the debut of the second season. The third season premiered in March 2025. Cancellation of the series was announced in May 2025.
+
+The series consists of the following books:
+* [[Wikipedia: New Spring|New Spring]]: the prequel to the series.
+# [[Wikipedia: The Eye of the World|The Eye of the World]]
+# [[Wikipedia: The Great Hunt|The Great Hunt]]
+# [[Wikipedia: The Dragon Reborn|The Dragon Reborn]]
+# [[Wikipedia: The Shadow Rising|The Shadow Rising]]
+# [[Wikipedia: The Fires of Heaven|The Fires of Heaven]]
+# [[Wikipedia: Lord of Chaos|Lord of Chaos]]
+# [[Wikipedia: A Crown of Swords|A Crown of Swords]]
+# [[Wikipedia: The Path of Daggers|The Path of Daggers]]
+# [[Wikipedia: Winter's Heart|Winter's Heart]]
+# [[Wikipedia: Crossroads of Twilight|Crossroads of Twilight]]
+# [[Wikipedia: Knife of Dreams|Knife of Dreams]]
+# [[The Gathering Storm]]
+# [[Towers of Midnight]]
+# [[A Memory of Light]]
+
+{| class='infobox bib' width=100%
+|+ The Wheel of Time novels written by [[Brandon Sanderson]]
+|- class=title
+! width=5% | Year
+! width=20% | Book
+! width=20% | Order
+! width=7.5% | Length
+! width=40% | Notes
+
+|- class='wot other'
+! 2009
+| *[[The Gathering Storm]]*
+| #12
+| Novel
+| Co-written with [[Robert Jordan]]
+
+|- class='wot other'
+! 2010
+| *[[Towers of Midnight]]*
+| #13
+| Novel
+| Co-written with [[Robert Jordan]]
+
+|- class='wot other'
+! 2013
+| *[[A Memory of Light]]*
+| #14
+| Novel
+| Co-written with [[Robert Jordan]]
+
+|- class='wot other'
+! 2013
+| *[[River of Souls]]*
+| #14.5
+| Excerpt
+| Released in the *[[Wikipedia: Unfettered (anthology)|Unfettered]]* anthology, a sequence of deleted scenes from *A Memory of Light*, co-written with [[Robert Jordan]] {{ref|name=unfettered}}
+
+|- class='wot other'
+! 2019
+| *[[A Fire Within the Ways]]*
+| #14.5
+| Excerpt
+| Released in the *Unfettered III* anthology, a sequence of deleted scenes from *A Memory of Light*, considered non-canon. {{ref|name=unfettered3}}
+
+|}
+
+## See also
+* [[Wikipedia:The Wheel of Time|Wikipedia: The Wheel of Time]]
+
+## Notes
+<references>
+{{bws ref|name=unfettered|unfettered-with-a-memory-of-light-deleted-sequence-now-out-updates|*Unfettered* release announcement|date=Jun 25, 2013}}
+{{tor ref|name=unfettered3|unfettered-iii-wheel-of-time-a-fire-within-the-ways|*Unfettered III*|date=Jan 28, 2019}}
+</references>
+{{meta/partial}}
+{{books}}
+[[Category: Series]]
+[[Category: The Wheel of Time]]
+[[category: list articles]]

@@ -1,0 +1,16 @@
+---
+family: "House Venture"
+residence: "Elendel"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 2"
+---
+
+**Douglas Venture** is a member of [[House Venture]] in the [[Elendel]] nobility on [[Scadrial]].{{book ref|mb5|2}}
+
+Venture is a man that cannot handle his liquor.{{book ref|mb5|2}} He was also a sort-of friend of High Lord [[Waxillium Ladrian]]. Wax's fiancée, Lady [[Steris Harms]], was concerned about the possibility of a disturbance at their wedding, and attempted to plan a small controlled problem that they could handle. Wax suggested that they invite Douglas Venture so that he could cause a drunken disturbance at the after-party. Steris agreed and Venture was invited.
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 15:09, 26 December 2015 (MST)}}
+{{Mistborn|Era 2}}

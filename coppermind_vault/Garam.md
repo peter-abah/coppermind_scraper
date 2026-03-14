@@ -1,0 +1,16 @@
+{{food
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Way of Kings]]
+}}
+**Garams** are a food on [[Roshar]].{{book ref|sa1|23}}
+
+When [[Rock]] was made a cook for Highprince [[Torol Sadeas]] after the unjust death of his [[nuatoma]] [[Kef'ha]], he served Sadeas buttered garams with a chutney made of [[chull]] dung.{{book ref|sa1|23}} When his actions were discovered, Rock was sent to the [[bridge crew]]s for his punishment.
+
+==Trivia==
+*The name of the food may have been inspired by the real-life spice blend known as [[Wikipedia:Garam masala|garam masala]]. Both garam masala and [[Wikipedia:chutney|chutney]] originate from the Indian subcontinent.
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 02:59, 23 December 2016 (MST)}}
+{{Stormlight}}

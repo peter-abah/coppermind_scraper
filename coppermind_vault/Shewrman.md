@@ -1,0 +1,17 @@
+---
+residence: "Elendel"
+world: "Scadrial"
+universe: "Cosmere"
+introduced: "The Alloy of Law"
+---
+
+Lord **Shewrman** is an infamously bad party guest in [[Elendel]].{{book ref|mb4|4}}
+
+Shewrman is a stocky man with long hair.{{book ref|mb4|4}} He is a bore when sober, but he is usually a drunken buffoon. He is the least-likable person in the upper-society of Elendel, according to Lady [[Steris Harms]].
+
+He attends the [[Yomen-Ostlin wedding dinner]]; his invitation was intended to be seen as an insult to those who did not receive one.{{book ref|mb4|4}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:17, 11 September 2018 (MST)}}
+{{Mistborn|Era 2}}

@@ -1,0 +1,21 @@
+---
+died: "Siege of Kholinar{{book ref|sa3|79"
+---
+
+|titles=Captain
+|nation=Alethkar
+|groups={{tag|Kholinar Wall Guard}}
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Oathbringer]]
+}}
+Captain **Deedanor** is an [[Alethi]] man who is the platoon leader of the Seventh Platoon of the [[Kholinar Wall Guard]] on [[Roshar]] during the [[Era of Solitude]].{{book ref|sa3|79}}
+
+Deedanor's second in command was Lieutenant [[Noromin]], who commanded the platoon in the event of Deedanor's absence.{{book ref|sa3|73}}
+
+Deedanor was sitting at the dinner table when [[Kaladin]] began questioning Highmarshal [[Vivenna|Azure]] on her identity and past.{{book ref|sa3|78}} He stared at Kaladin slack-jawed at the boldness of his questions. When an attack on the wall by the [[Fused]] interrupted them, Deedanor went up to the wall with the rest of the platoon.{{book ref|sa3|79}} One of the Fused pinned Deedanor to the wall's battlements with her lance and then lifted him and tossed him off the wall. Deedanor screamed as he fell and died upon hitting the ground. Kaladin considered using his [[Surgebinding]] to save him, but he decided that it was not worth the risk and instead began organizing the platoon's defense.
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 22:55, 24 November 2017 (MST)}}
+{{Stormlight}}

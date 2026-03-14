@@ -1,0 +1,50 @@
+---
+parents: "Brightlord Morakotha"
+merge-family: "y"
+image: "Danlan.jpg"
+titles: "Brightness"
+profession: "Clerk & Scribe"
+groups: "{{tag|Diagram|link=Diagram (group)"
+---
+
+|nation=Alethi
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+Brightness **Danlan Morakotha** is an [[Alethi]] woman who courted [[Adolin Kholin]] on the [[Shattered Plains]] of [[Roshar]] during the [[War of Reckoning]].{{book ref|sa1|28}} She is a member of the [[Diagram (group)|Diagram]].{{book ref|sa2|46}}
+
+## Appearance and Personality
+Danlan is extremely pretty. She has a graceful figure with a long neck, and her hair has more foreign auburn stripes than black Alethi stripes.{{book ref|sa1|58}} She wears a sleek dress that covers her [[safehand]] and an ornate braided hairstyle with steel hair spikes.{{book ref|sa1|52}} Her voice is soft, with a breathy and husky tone.{{book ref|sa1|28}}{{book ref|sa1|58}}
+
+Danlan is an extremely intelligent woman,{{book ref|sa1|52}} but she often acts less clever than she really is in an attempt at humility, and is annoyed when Adolin points it out.{{book ref|sa1|58}} She is polite and seems well-versed in the traditions of Alethi nobility.{{book ref|sa1|52}}  Danlan is also quite fond of [[avramelon]]s{{book ref|sa1|52}} and enjoys drinking wine, often coordinating her [[Roshar#Wines|wine color]] with her outfit. She is seen drinking violet wine, the strongest available.{{book ref|sa1|58}}{{file ref|Rosharan_Wines.jpg|Rosharan wines}}
+
+==Attributes and Abilities==
+Danlan is presumably of noble birth; she worked with [[Elhokar]]'s scribes in [[Kholinar]]{{book ref|sa2|46}} and Adolin had no misgivings about courting her.{{book ref|sa1|28}} She is familiar with the use of a [[spanreed]] and is able to read and write in [[women's script]].{{book ref|sa1|52}}
+
+She is well informed on the politics among the [[highprince]]s and was able to avidly discuss [[Torol Sadeas]]'s motivations in his interactions with [[Dalinar Kholin]] and whether or not Dalinar should step down as highprince due to [[Dalinar's visions|his visions]]. She felt that Dalinar's enforcement of the [[Alethi Codes of War]] was too restrictive on the men in the warcamps.{{book ref|sa1|58}}
+
+Danlan joined the secret organization known as the [[Diagram (group)|Diagram]] under unknown circumstances. She was considered a middling member of the group before it was disbanded.{{book ref|sa4|i|3}}
+
+## History
+Before traveling to the Shattered Plains, Danlan spent three years in Kholinar helping the scribes sort through the mess [[Elhokar]] had made of the royal codes.{{book ref|sa2|46}}
+
+===Courting Adolin===
+Danlan traveled to the Shattered Plains to spend a few months with her father, [[Brightlord Morakotha]]. The day after her arrival, she was already calling on Adolin. He arranged for her to become one of his father's clerks, participating in his spanreed calls and serving as a scribe. She was therefore immediately privy to some of Dalinar's confidential conversations; she was controlling the spanreed when Jasnah called to ask Dalinar about the time he met the [[Parshendi]] and show him a drawing of a "[[Voidbringer]]".{{book ref|sa1|28}}
+
+Danlan met with Navani, who liked her and was impressed her with her intelligence; she encouraged Adolin to pursue her.{{book ref|sa1|52}} Adolin took her to an Outer Market wineshop before one of his duels. Danlan participated in the conversation with [[Jakamav]], [[Inkima]], [[Toral]] and [[Eshava]], and she tended to stay on the topic of politics.{{book ref|sa1|58}} 
+
+Although Adolin did not know Danlan well, he was attracted to her and was committed to making their courtship last longer than his typical brief relationships.{{book ref|sa1|58}} However, some months later Adolin was surprisingly the one to break off their courtship, due to some inappropriate things Danlan had told her friends, likely related to some flirting by Adolin.{{book ref|sa2|14}}{{book ref|sa2|26}} The breakup was not amicable, and involved Danlan cursing at Adolin. She remained as one of Dalinar's scribes, and whenever she ran into Adolin she glared at him.{{book ref|sa2|14}}
+
+===Graves's Conspiracy===
+As a member of the Diagram, she was part of [[Graves]]'s plot to kill [[Elhokar]] and replace him with [[Dalinar]]; she was present when [[Moash]] brought [[Kaladin]] to meet with Graves and several co-conspirators. Her personal experience with Elhokar's lax approach to lawmaking led her to believe that he was incompetent. She fervently believed that Dalinar would be a better king, and wanted to force the issue before Elhokar did further damage to the kingdom.{{book ref|sa2|46}}
+
+Danlan was not with Graves or Moash during the final assassination attempt{{book ref|sa2|82}}{{book ref|sa2|83}}{{book ref|sa2|84}} nor when they fled the Shattered Plains.{{book ref|sa2|87}}{{book ref|sa3|43}}
+
+===Disbanding of the Diagram===
+When [[Taravangian]] disbanded the Diagram prior to the betrayal of the [[coalition of monarchs]] in [[Emul]], he recommended that middling members who "knew too much" should not be released back into the general population and should instead be sent on long "secret quests" to distant locations. He specifically recommended that Danlan be assigned such a task.{{book ref|sa4|i|3}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 16:53, 6 September 2021 (UTC)}}
+{{Stormlight}}

@@ -1,0 +1,5 @@
+#redirect[[Terris]]
+[[Category: Structural redirects]]
+[[Category: Terris| ]]
+[[Category: Mistborn]]
+[[Category: Ethnicities and Nationalities]]

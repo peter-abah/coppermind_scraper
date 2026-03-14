@@ -1,0 +1,14 @@
+---
+profession: "{{cat tag|Medical professionals|Midwife"
+---
+
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+{{update|sa5}}
+**Monosha** is a midwife on [[Roshar]].{{book ref|sa5|126}}
+
+## Notes
+<references />
+{{stub}}
+{{Stormlight}}

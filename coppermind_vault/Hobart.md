@@ -1,0 +1,20 @@
+---
+world: "Scadrial"
+universe: "Cosmere"
+introduced: "The Well of Ascension"
+---
+
+**Hobart** is the leader of a crew of bandits in the [[Final Empire]] on [[Scadrial]].{{book ref|mb2|50}}
+
+==Appearance and Personality==
+He is missing most of his teeth and some of his fingers.{{book ref|mb2|50}} Hobart and his band are brutes that all carry weapons, wear ragged, ash-stained clothing, and have a noticeable stench.{{book ref|mb2|50}} They are simple minded and only interested in base desires such as money, food, and sex, making them susceptible to emotional [[Allomancy]].{{book ref|mb2|50}}
+
+==History==
+[[Allrianne Cett]] encountered Hobart's gang after she left [[Luthadel]] alone and traveled west in search of [[Ashweather Cett|her father]]'s army.{{book ref|mb2|49}}{{book ref|mb2|50}} Somewhere along her route, Hobart and his gang charged down a hillside intending to rob and rape her, but she took control of their emotions using her [[Rioter|Rioting]] abilities.{{book ref|mb2|50}} Allrianne was actually happy to see bandits that she could easily Riot because she knew they would provide her with shelter and an escort.{{book ref|mb2|50}} Allrianne used her abilities to appeal to Hobart's desire for money, making him believe that her father would reward the bandits handsomely if they helped her find his army, and Hobart suddenly took on a "gentlemanly" demeanor.{{book ref|mb2|50}} 
+
+Hobart's gang helped Allrianne locate the army, as she had originally headed in the wrong direction.{{book ref|mb2|50}} Upon their arrival, she again used Allomancy to smooth over an awkward encounter with Cett's guards, telling them to provide the bandits with food and lodging.{{book ref|mb2|50}} Ashweather noted that this was not the first time Allrianne had used bandits as a personal retinue.{{book ref|mb2|50}} Allrianne told him that some gold and prostitutes were all it would take to hire Hobart's crew as mercenaries who could help defend the army's supply lines.{{book ref|mb2|50}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 09:59, 28 June 2019 (MST)}}
+{{Mistborn|Era 1}}

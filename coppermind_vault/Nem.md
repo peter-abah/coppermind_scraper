@@ -1,0 +1,23 @@
+---
+died: "{{Rosharan date|1175|4"
+---
+
+{{book ref|sa4|38}}
+|profession={{tag+|artifabrian|}}
+|residence=Urithiru
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Rhythm of War]]
+}}
+**Nem** is an [[artifabrian]] on [[Roshar]].{{book ref|sa4|16}}
+
+## Attributes and Abilities
+Nem is a lensmaker, astronomer and gemstone expert.{{book ref|sa4|38}} She is one of Queen [[Navani Kholin]]'s trusted scholars and handles expensive and delicate equipment. She has extensive knowledge about [[gemheart]]s and gemstones and is able to estimate a gem's level of perfection.{{book ref|sa4|16}}
+
+## History
+Nem was a member of [[Navani]]'s team of scholars. She examined the black sphere that King [[Gavilar]] gave to [[Szeth]]. She concluded that the sphere was practically perfect and could hold [[Stormlight]] for a very long time. Navani asked her and [[Talnah]] to study the black sphere, including trying to use it to power different fabrials.{{book ref|sa4|16}} Both of them died in an explosion caused by the sphere while they were experimenting with it in their shared laboratory.{{book ref|sa4|38}}
+
+## Notes
+<references/><!--sa4: 16, 38-->
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 08:15, 29 May 2022 (UTC)}}
+{{stormlight}}

@@ -1,0 +1,14 @@
+---
+groups: "DDF"
+world: "Detritus"
+universe: "Cytoverse"
+books: "Skyward (series)"
+---
+
+{{update|sky4}}
+**Veska** is a firing range sergeant in the [[DDF]].{{book ref|sky4|26}}
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

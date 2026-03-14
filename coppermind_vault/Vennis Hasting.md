@@ -1,0 +1,21 @@
+---
+family: "House Hasting"
+profession: "Senator"
+residence: "Elendel"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 2"
+---
+
+**Vennis Hasting** is a powerful senator for [[House Hasting]] in the [[Elendel]] Senate on [[Scadrial]].{{book ref|mb7|33}}
+
+House Hasting and [[House Erikell]] were typically opposed to [[Waxillium Ladrian]]'s political positions.{{book ref|mb7|2}} In {{date|348|PC}}, Wax and [[Steris]] uncovered a scandal in which Vennis was bribing other senators for their votes. They used multiple handwriting analysts to confirm that incriminating letters were written in Vennis's own handwriting, which had distinctive loops.{{book ref|mb7|46}} Despite the scandal, Vennis retained his powerful position.
+
+Shortly thereafter, [[Maraga]] showed Wax a letter from Vennis dated almost a year earlier that described a powerful bomb and implicated several other senators in a plot to dominate the [[Elendel Basin]]. Although this information seemed to confirm some of Wax's suspicions about the [[Set]], the letter puzzled him since the Set could simply take power politically if they had so many senators on their side.{{book ref|mb7|46}} Wax later found some letters from Vennis to [[Gave Entrone]] when he and [[Wayne]] broke into the [[Silver House]], but they had nothing incriminating in them.{{book ref|mb7|41}}
+
+After additional investigation, Wax&mdash;partly relying on his previous experience with Vennis's handwriting&mdash;realized that [[Telsin]] and the Set had forged the letter about the bomb. Gave had retained the innocuous letters from Vennis to help with the forgery. Telsin's plan was to blow up Elendel and then falsely claim that the Elendel senators had developed the bomb themselves before accidentally detonating it. This would have left a power vacuum and deflected the blame from the Set, allowing them to take over the Basin.{{book ref|mb7|46}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 15:55, 17 May 2023 (UTC)}}
+{{Mistborn|Era 2}}

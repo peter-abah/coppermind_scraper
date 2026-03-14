@@ -1,0 +1,28 @@
+{{book|title=*Elantris* sequel
+|series=[[Elantris trilogy]]|prev=Elantris (book)|prequel=Elantris|sequel=Elantris finale
+|setting=[[Cosmere]]
+|released=*Unknown*
+}}{{uncanonical}}
+The **Elantris** sequel is a forthcoming book set on [[Sel]] by [[Brandon Sanderson]].
+
+## Plot Summary
+Set 10 years after the events of *Elantris*. This book will follow several of the minor characters from the first novel.
+
+{{quote
+|Speaking of sequels, here’s what I'm planning. A book that takes place ten years after the events of *Elantris*. It would occur in the capitol city of [[Fjorden]], and would star [[Kiin]]'s children as viewpoint characters along with a [[seon]] viewpoint character. The plot of the book: [[Wulfden the Fourth|Wyrn]] has declared that [[Jaddeth]], the [[Derethi]] God, is going to finally return. (A new interpretation of the scriptures says that he'll return when everyone east of the mountains converts, so they don’t have to worry about [[Teod]] and [[Arelon]]) Kiin's family, ambassadors to the Fjordell state, has to deal with the chaos of this announcement, and investigate the truth behind the [[Dakhor]] magic.
+|[[Brandon]] on the sequel{{wob ref|13514}}}}
+
+## Behind the Scenes
+This sequel will probably have Hrathen's (now [[Adien]]'s) [[seon]] as a viewpoint character.{{wob ref|1950}}
+
+Brandon stated in 2014 that this book, as well as the [[Elantris finale|finale]], needs to be written before the [[Mistborn (series)#Third Mistborn Trilogy|third Mistborn trilogy]].  At the latest they would be written following the fifth installment of [[The Stormlight Archive]].{{sots ref|2014}} He updated this schedule in 2022, indicating that the 'loose plan' is for the two Elantris sequels to be written in between the writing of the Mistborn Era 3 books, and potentially released before them. He plans to write all of Mistborn Era 3 before the release of any in the series.{{wob ref|15991}}
+
+This book is titled ***Dakhor*** in Brandon's notes.{{wob ref|15991}}
+
+## Notes
+<references />
+{{meta/done}}
+{{Elantris}}
+{{books}}
+[[category: Elantris| 2]]
+[[uk: Сиквел Елантріса]]

@@ -1,0 +1,40 @@
+{{group
+|type=
+|era=[[Catacendre]]
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn (series)|Mistborn]]
+}}
+The **Originators** is the colloquial name given to the survivors of the [[Catacendre]] on [[Scadrial]]. They either hid in [[Lord Ruler]]'s storage caches or other underground caverns to survive the end of the old world.
+
+Almost a fifth of the Originators were [[Terris]].{{book ref|mb4|4}}
+
+During [[Sazed]]'s ascension, he undid a lot of the changes that the [[Lord Ruler]] made to the genetics of the various peoples of the [[Final Empire]]. The survivors presumably had their bodies rewritten to return them to their pre-Ascension biology.{{book ref|mb3|68}} 
+
+## Culture and Influence
+The Originators are regarded by many as  coming from a time of myth and legends.{{book ref|mb6|19}} Though the world was destroyed and remade, the Originators were able to save a few relics from the World of Ash to share with the new world as they emerged as the re-builders of society.{{book ref|mb3|10}} After the rebirth of the world, the Originators worked to create many books alongside the [[Words of Founding]], including other religious texts; such as the [[Docksithium]]. Many of these religious texts were considered holy canon by various groups.{{book ref|mb5|19}} Much of the Originators' work was to rebuild the world and society itself. As such, they worked hard to bring about the new world, establishing Elendel and many other settlements outside the Basin. However, each of them had their own ideas about how the world should be, and so they "squabbled like children" and were "big-city people" according to [[MeLaan]], an adolescent [[kandra]] when the world ended. With the Originators focusing on their own ideals, many of the settlements outside of Elendel were neglected, leading to a large portion of the issues that Scadrians face now.{{book ref|mb6|19}}
+
+[[Spook|The Lord Mistborn]] thought it greatly important to bring as much equality to the people of Elendel as possible. He specifically did not want Slums in his city, and worked hard to prevent this, building nice, long-lasting buildings for them to live in. Lady Allrianne Ladrian worked to teach the women of Elendel that they could do nearly anything the men could do, but that they also were expected to be the model of ladylike behavior, which has been viewed as a heavy double standard.{{book ref|mb5|19}} Though the settlements have grown into towns, the teachings and affects of the Originators can still be felt in Scadrial today, though their namesake is used by some as fuel for catchy "proverbs" like "No Two Seasons Are Alike!{{book ref|mb7|2}}
+
+==List of Known Originators==
+*[[Aledin]]{{wob ref|7769}}
+*[[Allrianne]]
+*[[Aradan Yomen]]
+*[[Aslydin]]
+*[[Ashweather Cett]]
+*[[Beldre]]
+*[[Breeze]]
+*[[Demoux]]
+*[[Gneorndin Cett]]
+*[[Hammond]]
+*[[Felt]]
+*[[Mardra]]
+*[[Spook]]
+*[[Troalin]]{{wob ref|7769}}
+*Lady Truth
+*[[Wellen]]{{wob ref|16110}}
+
+## Notes
+<references />
+{{partial}}
+{{Mistborn|Era 2}}

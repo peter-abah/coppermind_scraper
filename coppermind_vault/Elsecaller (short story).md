@@ -1,0 +1,92 @@
+{{book|title=*Elsecaller*|display-title=*Elsecaller* (short story)
+|cover=Elsecaller cover.jpg
+|series=[[The Stormlight Archive]]
+|collaborators=[[Dan Wells]]
+|prequel=The Way of Kings
+|sequel=Oathbringer
+|released=December 4, 2025 (print), December 5, 2024 (Story Deck)
+|'publisher=[[Dragonsteel Entertainment]]
+|setting=[[Roshar]], [[Cosmere]]
+|page-count=48
+}}
+
+***Elsecaller*** is a short story featuring [[Jasnah]], co-written by [[Brandon Sanderson]] and [[Dan Wells]].{{url ref|url=https://www.dragonsteelbooks.com/collections/all/products/storydeck-box|text=StoryDeck Box|site=dragonsteelbooks.com|name=StoryDeck Box}} Part of [[The Stormlight Archive]] series, it is set during *[[Words of Radiance]]*. The story was released on December 5th, 2024 at Dragonsteel Nexus as part of the Stormlight Lost Tales StoryDeck.{{url ref|url=https://www.dragonsteelbooks.com/pages/storydeck|text=Stormlight Lost Tales|site=dragonsteelbooks.com|name=Stormlight Lost Tales}} The cards featuring the story were later sold as card packs.{{ref|name=StoryDeck Box}} It was released in print on December 4th, 2025 at Dragonsteel Nexus 2025 as part of a double feature alongside [[King Lopen the First of Alethkar]].
+
+== Synopsis==
+
+[[Jasnah]] and [[Ivory]] escape the assassination attempt depicted early in [[Words of Radiance]] on the *[[Wind's Pleasure]]* by fleeing to [[Shadesmar]], giving Jasnah a chance to heal. Unfortunately, she miscalculates and lacks the [[Stormlight]] to return, prompting a quest to find a [[perpendicularity]] to transition back to the [[Physical Realm]]. They are rescued from violent [[angerspren]] by a historian named Hwynn Tyvneri and a young girl named Lorieta who can see possible futures, neither native to Roshar. With a boat, they try to travel to the Sea of Oracles to use [[Cultivation]]'s perpendicularity, but are rebuffed by the [[Everstorm]] and voidish forces, and constantly set upon by angerspren. They make the decision to stand and fight the latest group of angerspren, who retreat when Jasnah realizes she's been angry at herself this whole time and forgives herself. She sends Tyvneri and Lorieta off, having previously planned to take them captive to use their knowledge to aid her cause. As they sail away, [[Honor]]'s perpendicularity opens next to her and she steps through to discover [[Wit]] waiting for her in the Physical Realm. He admits to her that he also has knowledge of alien worlds, and they begin to share information.
+
+## Summary
+
+Jasnah Kholin was supposed to die on a boat.
+
+The plan had been efficient. It relied on darkness, confined space, and the comforting assumption that scholars did not expect knives. Jasnah would have respected it more if she had not been its target. Instead, she found herself standing in the narrow cabin of the Wind’s Pleasure, aware of the world bending in a way that suggested the axioms she relied upon were becoming negotiable.
+
+She noticed the distortion before the attackers moved. That was the advantage of a life spent questioning fundamentals. With Ivory, an inkspren who treated philosophy as a practical discipline, she acted. The transition into Shadesmar was abrupt, painful, and successful. It saved her life. It also left her stranded.
+
+She arrived injured and depleted, her Stormlight reserves exhausted. This was not the universe’s fault. She had misjudged her margins. Scholars dislike that word, but it applied. Without Stormlight, returning to the Physical Realm was impossible. She required a perpendicularity, a place where realms intersected. There were few such locations, and none of them were convenient.
+
+Shadesmar was not hostile by intent, but it was reactive. Thought had weight there. Emotion traveled. As Jasnah moved through the glassy sea of beads, angerspren began to gather. At first they were distant, then numerous, drawn to something unresolved that followed her as persistently as her shadow.
+
+She and Ivory were eventually intercepted by a boat. Its captain was Hwynn Tyvneri, a green-skinned, centuries-old historian and Worldhopper from Rellam, a planet altered by corrupted Investiture. The corruption had not destroyed him. It had given him perspective and a great deal of patience. Traveling with him was Lorieta, a young girl marked by small hornlike nubs and burdened with fragmented visions of possible futures. She saw what might be and paid for it with constant unease.
+
+Hwynn understood Jasnah’s situation quickly. He always did. They set a course for Cultivation’s perpendicularity near the Sea of Oracles. The plan was reasonable. It failed.
+
+The Everstorm rose against them, its presence distorting Shadesmar as surely as it did the Physical Realm. Voidish forces pressed close. The angerspren returned in force, clustering thick enough that escape was no longer an option. Jasnah prepared herself for battle and instead found herself forced to examine a quieter problem.
+
+The anger was hers.
+
+Not toward her enemies, who had behaved predictably, but toward herself. She had survived when others had died. She had erred despite her preparation. She had been brilliant and still wrong. The realization was unpleasant and undeniable. When she acknowledged it and forgave herself, the angerspren lost cohesion and withdrew. Ideas, she noted, required participation.
+
+With the danger passed, Jasnah made another decision. She released Hwynn and Lorieta, abandoning her earlier intention to detain them for their knowledge. It was not charity. It was recognition. They had their own paths, and she had learned the cost of forcing outcomes.
+
+As their boat sailed away, a perpendicularity opened beside her. Not Cultivation’s. Honor’s. Jasnah stepped through without hesitation.
+
+She emerged into the Physical Realm to find Wit waiting, precisely where he claimed he would be. He admitted, with irritating cheer, that he also possessed knowledge of other worlds. They exchanged information, which for both of them counted as trust.
+
+Jasnah Kholin did not die on the Wind’s Pleasure. She returned altered, carrying fewer illusions, sharper questions, and a corrected understanding of herself. This, she concluded, was the real consequence of survival.
+
+## Main Characters
+
+; [[Jasnah Kholin]]: A princess of [[Alethkar]], and the eponymous [[Elsecaller]].
+
+; [[Ivory]]: An [[inkspren]], bonded to Jasnah.
+
+; [[Hwynn Tyvneri]]: A centuries-old, green-skinned historian and [[Worldhopper]] from the planet [[Rellam]], a world notable for being affected by corrupted Investiture. He has dark green hair streaked with gray and long, pointed ears. Calm, intellectual, and compassionate, he is deeply knowledgeable about the cosmere and driven by a personal quest to understand the corrupted Investiture on his homeworld.
+
+; [[Lorieta]]: A young girl with black hair, copper-toned skin, and small horn-like nubs on her forehead. Found and protected by Hwynn Tyvneri, she has the rare ability to see possible futures, though her visions are often fragmented and unsettling. Her origins are unknown, even to herself, and her accent and descriptions of home suggest she may come from another world within the cosmere.
+
+## Publication History
+
+The story was originally published not in a traditional book, but as part of the Stormlight Lost Tales Story Deck which is a unique collectible trading‑card set released at Dragonsteel Nexus 2024. The story in this deck comprises 54 cards, with the narrative text printed on the back of each card and the cards divided into six segments by nine‑cards that each together form a complete front‑side artwork mural. At Dragonsteel Nexus 2025, the story was published in a double feature hardcover book along with *King Lopen the First of Alethkar*.
+
+## Interior Art
+
+## Statistical Analysis
+
+*Elsecaller* consists of four sections, all from the PoV of Jasnah Kholin.
+
+{|class="wikitable"
+|-
+! Word Count 
+| style="text-align:center" | 8,411
+|-
+! Page Count 
+| style="text-align:center" | 48
+|-
+! PoV Characters
+| style="text-align:center" | 1
+|-
+! PoV Count
+| style="text-align:center" | 1
+|}
+
+==Trivia==
+*Brandon has previously released an uncanonical version of the scene directly following Jasnah transferring to Shadesmar after she is stabbed aboard the *Winds Pleasure*, which can be read on <span class="plainlinks">[https://tor.com/2014/08/06/stormlight-archive-scene-after-words-of-radiance/ on Tor's website]</span>.
+
+## Notes
+<references />
+{{meta/partial}}
+{{Stormlight}}
+{{books}}
+[[category: Stormlight Archive| 2.7]]

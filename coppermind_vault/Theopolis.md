@@ -1,0 +1,20 @@
+---
+residence: "Forests of Hell"
+world: "Threnody"
+universe: "Cosmere"
+introduced: "Shadows for Silence in the Forests of Hell"
+---
+
+**Theopolis** is a fort tax collector and a loan shark.{{book ref|sfs}}
+
+==Appearance==
+He possesses a smooth voice and a clean-shaven face. His gangly frame is adorned commonly in clean simple clothing, with no markings of his station. He has a patronizing smile.{{book ref|sfs}}
+
+==Personality==
+He is a dangerous, unscrupulous man who covets after [[Silence Montane]]'s [[waystop]]. Silence does not want anybody to know that she is the bounty hunter White Fox, so she gives the criminal's body to Theopolis and he uses his connections in [[Lastport]] to get the bounty quietly. He keeps half the bounty money and gives the rest back to Silence. He is skilled at this due to his vast knowledge of places to hide things. He finally meets his demise at the hands of the [[shade]] of [[Silence's grandmother]].{{book ref|sfs}}
+
+## Notes
+<references />
+{{partial}}
+{{Shadows for Silence}}
+[[es:Theopolis]]

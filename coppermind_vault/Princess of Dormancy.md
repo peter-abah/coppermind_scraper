@@ -1,0 +1,26 @@
+---
+unnamed: "y"
+merge-family: "y"
+spouse: "Dirk"
+residence: "Diggen's Point"
+titles: "Princess"
+world: "Lumar"
+universe: "Cosmere"
+introduced: "Tress of the Emerald Sea"
+---
+
+{{quote
+|She was so perfect, the finest painter in the seas couldn’t have made improvements in her portrait.
+|Hoid.{{book ref|tress|5}}
+}}
+
+The **princess of Dormancy** is an unnamed princess from an unknown kingdom on [[Lumar]]. She marries [[Dirk]], heir of [[Diggen's Point]], following the disappearance of [[Charlie]], becoming the daughter-in-law of the [[duke]] of Diggen's Point.{{book ref|tress|5}}{{book ref|tress|4}} It is unclear where Dormancy is located, and whether it refers to an island, kingdom, or something else.
+
+The princess is regarded as very beautiful, with rosy cheeks, shimmering hair, and delicate features.{{book ref|tress|5}}
+
+## Notes
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 17:36, 6 February 2023 (UTC)}}
+{{tress}}
+[[Category: Titled characters]]
+[[es:Princesa de Letargo]]

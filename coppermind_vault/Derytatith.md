@@ -1,0 +1,23 @@
+{{geography
+|type={{cat tag|mountains|Mountain}}
+|region=Terris
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+{{
+quote
+|That must be the Well returning to power, it is fortunate that I know where to find it. My research has revealed the location, Lady Vin.
+|[[Sazed]] to [[Vin]] and [[Elend]]{{book ref|mb2|48}}
+}}
+
+**Derytatith** was a mountain in [[Terris]] during the [[Final Empire]]. It was one of the lower peaks in the Terris mountain ranges.{{book ref|mb2|48}}
+
+Travel to Derytatith is impeded during parts of the year.{{book ref|mb2|48}}
+
+In an attempt to save their lives, [[Sazed]] lied to [[Vin]] and [[Elend]] and convinced them that the [[Well of Ascension]] was located at Derytatith. He encouraged them to leave [[Luthadel]] and seek out the Well, arguing that their absence from the city would allow for a peaceful transition of power when [[Straff]] invaded. The pair agreed, setting off towards the Terris mountains the next morning, not realizing that Sazed believed that the city would fall and had fed them lies in order to spare them.{{book ref|mb2|48}}
+
+## Notes
+<references />
+{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 18:16, 17 March 2019 (MST)}}
+{{Mistborn|Era 1}}

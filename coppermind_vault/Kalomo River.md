@@ -1,0 +1,15 @@
+{{geography
+|type={{cat tag|Water body|River}}
+|region=Arelon
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[Elantris (book)|Elantris]]
+}}
+The **Kalomo River** is a river in southern [[Arelon]].{{map ref|Arelon}} It provides the natural border between Arelon and [[Duladel]].{{book ref|Elantris|49}} The river lies adjacent to the [[Chasm]].{{map ref|Arelon}} 
+
+Many [[Aon]]s often had a line at the bottom to represent the Kalomo River.{{book ref|Elantris|49}}
+
+==Notes==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 16:18, 5 June 2017 (MST)}}
+{{Elantris}}

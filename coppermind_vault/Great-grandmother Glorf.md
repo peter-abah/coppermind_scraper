@@ -1,0 +1,16 @@
+---
+merge-family: "y"
+descendants: "Aunt Glorf, Tress"
+residence: "Diggen's Point"
+world: "Lumar"
+universe: "Cosmere"
+books: "Tress of the Emerald Sea"
+---
+
+**Great-grandmother Glorf** is [[Tress]]'s great-grandmother on [[Lumar]]. She shares a name with both Tress and Tress's [[aunt Glorf]]. It is reported that she once waved from on top of [[Diggen's Point]] at a king who was sailing past miles away.{{book ref|tress|2}}
+
+## Notes
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 17:08, 15 June 2023 (UTC)}}
+{{tress}}
+[[es:Bisabuela Glorf]]

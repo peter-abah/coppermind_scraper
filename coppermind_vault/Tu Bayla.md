@@ -1,0 +1,48 @@
+{{nation
+|map=Tu Bayla locator.png
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+{{update|sa5}}
+**Tu Bayla** is a nation on [[Roshar]].{{map ref|Roshar}} It was heavily destabilized by the emergence of the Everstorm on {{Rosharan date|1173|10|10|3}}, leading to famine and political instability.{{book ref|sa5|i|2}} It is looked down upon by the people of most other nations and viewed as a backwater.{{book ref|sa5|i|2}} 
+
+## Geography
+[[Ru Parat]] and [[Fu Namir]] are cities in the region. It borders [[Jah Keved]] to the east, the [[Reshi Sea]] to the north, a mountain range to the south, and shares land borders with [[Yulay]] and [[Marabethia]] to the west, as well as forming the eastern coast of the [[Purelake]]. It seems to have at least one river that runs into the Purelake and another that runs into the Reshi Sea, and may also claim some of the Reshi isles close to its coast.{{map ref|Roshar}} [[Urithiru]] lays in the mountain ranges to the south of Tu Bayla.{{book ref|sa2|87}}
+
+## History
+### Silver Kingdoms Epoch
+Tu Bayla was formed from parts of the [[Silver Kingdoms]] of [[Sela Tales]] and [[Valhav]],{{map ref|Silver Kingdoms}} at an unclear point after these kingdoms collapsed Tu Bayla became a nation or came to be considered a nation by other peoples.
+
+### Era of Solitude
+Over the millennia, peoples outside of it thought little of Tu Bayla. It was primarily used as a place for military conflicts between Azir and Jah Keved; or between Azir and Alethkar, when Jah Keved's territory was held by Alethkar. These conflicts happened many times across history.{{book ref|sa5|i|2}} 
+
+### Leadup to the True Desolation
+After the emergence of the [[Everstorm]], Tu Bayla was struck by a crippling famine due to the storm destroying crops. This destabilized the region, furthered by the ending of trade between [[Azir]] and [[Jah Keved]]. This ultimately led to the collapse of Tu Baylan government, and warlords began to claim supplies for themselves and used them as leverage to rule.{{book ref|sa5|i|2}} Many people died from the famine and sociopolitical chaos, including many children.{{book ref|sa5|i|2}}
+
+Once [[Iri]] surrendered to [[Odium]]’s forces, the nation moved to conquer much of the Purelake and its environs. The [[Fused]] have stationed a few of their Regals in the area, though they are more concerned with their advancing troops than with the territory itself.{{rpg ref|slwg|63}}
+
+Shortly after the [[Battle of Thaylen Field]], the [[coalition of monarchs]] contemplates invading Tu Bayla to counter possible invasions into Jah Keved, which threatened to split the coalition's territory in two.{{book ref|sa3|122}}
+
+Following the start of the [[Night of Sorrows]], the Purelake flooded and inundated parts of Tu Bayla.{{book ref|sa5|146}} Due to the Night of Sorrows and the birth of [[Retribution]], they were robbed of any Stormlight they had access to, and the Everstorm became unceasing. This kept them in an unending night-like state, along with the rest of Roshar (sans Azir and Urithiru, as per the arrangements made between Dalinar and Odium).{{cite}}
+
+## Culture
+The people of Tu Bayla are ethnically similar to the Selay, with bronze skin and dark hair. They also speak a mix of Selay and local tribal languages.{{rpg ref|slwg|62}} They are also described as being nomadic.{{book ref|sa3|42}} 
+
+They do not practice the division of food into masculine and feminine categories, instead allowing people to consume food seen by Vorins as being of either category, without judgement or social stigma.{{book ref|sa2|24}} They generally subsist on fish from the Purelake and the Reshi Sea, along with wild vegetation. Each tribe employs interpreters who speak multiple tribal languages, Selay, and either Veden or a Bav dialect. Some tribes have superstitions about preserving fish from the Purelake, believing that fish must be eaten fresh; preserving excess for later is considered stealing.{{rpg ref|slwg|63}}
+
+The Tu Baylan populace is organized into tribes, and as such it’s unknown if there is a true government. Due to this other people have a tendency to look down on them and deem them uncivilized.{{book ref|sa3|42}}
+
+It is likely that they have individual names for the stars, as they often name their children after them.{{book ref|sa5|i|2}} 
+
+People in Tu Bayla keep a strain of domesticated minks as pets and hunting companions. This was a widespread practice around the time of the [[Night of Sorrows]].{{book ref|sa5|i|2}} 
+
+### Musical Culture
+The Tu Baylans possess a large variety of musical instruments and a complex musical culture. They had the greatest variety of musical instruments across all of Roshar. Furthermore, many Tu Baylans enjoyed singing.{{book ref|sa5|i|2}} Taravangian describes the music they produce as beautiful.{{book ref|sa5|i|2}}
+
+### Naming Conventions
+They typically named girls after stars and boys after flowers.{{book ref|sa5|i|2}}
+
+## Notes
+<references/><!-- sa2: 24, 87, sa3: 42, 122 -->
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 06:43, 22 February 2020 (UTC)}}
+{{Stormlight}}

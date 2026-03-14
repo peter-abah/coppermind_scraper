@@ -1,0 +1,33 @@
+## Covers and interior art
+Alcatraz is featured on most covers of his books.
+{{CoverToC|alcatraz}}
+
+<gallery mode="packed" heights=200px caption="Cover art">
+Alcatraz Versus the Evil Librarians Full.jpg | <center><small>by {{a|Scott Brundage}}</small></center> *[[Alcatraz Versus the Evil Librarians]]* (US)
+The Scrivener's Bones Full.jpg | <center><small>by {{a|Scott Brundage}}</small></center> *[[The Scrivener's Bones]]* (US)
+Knights of Crystallia Full.jpg | <center><small>by {{a|Scott Brundage}}</small></center> *[[The Knights of Crystallia]]* (US)
+Shattered Lens full.jpg | <center><small>by {{a|Scott Brundage}}</small></center> *[[The Shattered Lens]]* (US)
+Dark Talent Full.jpg | <center><small>by {{a|Scott Brundage}}</small></center> *[[The Dark Talent]]* (US)
+Alcatraz1 SP cover art.png | <center><small>by {{a|Marina Vidal}}</small></center> *[[Alcatraz Versus the Evil Librarians]]* (Spain)
+Alcatraz2 SP cover art.png | <center><small>by {{a|Marina Vidal}}</small></center> *[[The Scrivener's Bones]]* (Spain)
+Alcatraz3 SP cover art.png | <center><small>by {{a|Marina Vidal}}</small></center> *[[The Knights of Crystallia]]* (Spain)
+Alcatraz4 SP cover art.png | <center><small>by {{a|Marina Vidal}}</small></center> *[[The Shattered Lens]]* (Spain)
+Alcatraz5 SP cover art.png | <center><small>by {{a|Marina Vidal}}</small></center> *[[The Dark Talent]]* (Spain)
+</gallery>
+
+<gallery mode="packed" heights=200px caption="Interior art">
+Bastille smacking Alcatraz.jpeg | <center><small>by {{a|Hayley Lazo}}</small></center> [[Bastille]] smacking Alcatraz (*[[Alcatraz Versus the Evil Librarians]]*)
+Alcatraz1 Interior Art 2.jpg | <center><small>by {{a|Hayley Lazo}}</small></center> In the library with [[Bastille]] (*[[Alcatraz Versus the Evil Librarians]]*)
+So there I was . . ..jpeg | <center><small>by {{a|Hayley Lazo}}</small></center> About to be sacrificed (*[[Alcatraz Versus the Evil Librarians]]*)
+Curator of Alexandria.jpg | <center><small>by {{a|Hayley Lazo}}</small></center> Speaking with one of the [[Curators of Alexandria]] (*[[The Scrivener's Bones]]*)
+Penguin jet pack.jpg | <center><small>by {{a|Hayley Lazo}}</small></center> With a penguin jetpack (*[[The Knights of Crystallia]]*)
+
+</gallery>
+
+## Fanworks
+<gallery mode="packed" heights=200px caption="Fanworks">
+Alcatraz tuxedo.png | <center><small>by {{a|akolnoix}}</small></center>
+Alcatraz akonoix.png | <center><small>by {{a|akolnoix}}</small></center>
+</gallery>
+
+[[Category:Gallery Subpages]]

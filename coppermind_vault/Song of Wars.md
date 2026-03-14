@@ -1,0 +1,26 @@
+{{Copyright}}
+{{culture
+|related=[[Listener]]
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+The **Song of Wars** is one of the songs detailing the oral history of the [[listener]]s.{{epigraph ref|sa2|26}} It was likely one of the songs written by the [[Last Legion]] in order to keep their memories alive.{{book ref|sa2|i|4}}
+
+It has at least fifty-five stanzas, and it presumably details the history of various listener wars.{{book ref|sa4|48}} Notably, the song states that the [[Shattered Plains]] were not created by the listener gods, the [[Fused]]. It also indicates that written records with more information about the Shattering once existed, but they have since been lost.{{epigraph ref|sa2|26}}
+
+## Excerpts
+{{quote|They blame our people<br><!--
+-->For the loss of that land<br><!--
+-->The city that once covered it<br><!--
+-->Did range the eastern strand.<br><!--
+-->The power made known in the tomes of our clan<br><!--
+-->Our gods were not who shattered these plains.
+|55th stanza{{epigraph ref|sa2|26}}}}
+
+## Notes
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:24, 2 May 2022 (UTC)}}
+{{Stormlight}}
+[[Category: Listener songs]]
+[[es:Canción de las guerras]]

@@ -1,0 +1,16 @@
+---
+profession: "Sailor"
+world: "Lumar"
+universe: "Cosmere"
+introduced: "Tress of the Emerald Sea"
+---
+
+**Smocke** is a sailor that sailed the [[Emerald Sea]] on [[Lumar]]. He sailed on a merchant ship which was raided by the *[[Crow's Song]]*.{{book ref|tress|27}}
+
+When Smocke's ship was attacked by the *Crow's Song*, another sailor he cared for was shot and killed by [[Captain Crow]]. While the ship's captain spoke with [[Salay]] to discuss their bounty, Smocke aimed a pistol at Crow, who pointed one back at him in return. After Crow shot herself in the head, demonstrating her ability to control her [[Spore eater|verdant aether infestation]] to prevent harm, he was tackled to the ground by his crewmates, inadvertently firing a shot into the air.{{book ref|tress|27}}
+
+## Notes
+<references />
+{{complete|[[User:Jofwu|Jofwu]] ([[User talk:Jofwu|talk]]) 15:29, 16 January 2023 (UTC)}}
+{{tress}}
+[[es:Smocke]]

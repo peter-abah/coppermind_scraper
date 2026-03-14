@@ -1,0 +1,1 @@
+#REDIRECT [[Mistborn (series)#Era 3: Second Mistborn Trilogy]]

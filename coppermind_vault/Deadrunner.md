@@ -1,0 +1,44 @@
+{{culture
+|world=Lumar
+|universe=[[Cosmere]]
+|books=[[Tress of the Emerald Sea]]
+}}
+
+Deadrunners are one of the two types of pirates on the planet of [[Lumar]]. They are most notably notorious for being the type of pirates that will kill a person, or as Tress put it; "...an entire ship's worth of people."{{book ref|tress|17}}
+
+## Culture
+Piracy is a common and accepted part of sea travel on Lumar, and in the [[Emerald Sea]] the **King's Marshals** keep records of all known pirates. However, unlike regular pirates, if one is known as a **Deadrunner** and is caught or captured by the kings’ sailors, he will likely be hanged, rather than simply imprisoned as a regular pirate would be. It is possible for deadrunners to remain unknown and avoid discovery if they leave no survivors from their attacks to spread news of their existence.{{book ref|tress|17}}
+
+Pirate crews will often trade, sell, or bargain for crew members from other ships in order to augment their crews, as in the case of [[Captain Crow]] bargaining to get [[Hoid]] on her ship,{{book ref|tress|23}} however; it is common knowledge that no one will accept a crew from a deadrunner ship.{{book ref|tress|17}} [[Ann]] notes that there is no mercy shown to deadrunner crews, and in fact, even other pirates will hate them.{{book ref|Tress|17}}
+
+There is little hope of pardon if one is a deadrunner. Only the [[Verdant King]] can grant a pardon, and only extreme cases, such as a [[King's Mask]] vouching for the crew, would be considered enough to make the king grant a pardon.{{book ref|tress|62}} It is highly likely that the crew of the *[[Two Cups]]* (formerly *Crow's Song*) is the only deadrunner crew to ever be pardoned.{{book ref|tress|epilogue}}
+
+{{quote
+|Then you become a deadrunner, no mercy for you if caught. Even other pirates will hate you.
+|Ann{{book ref|tress|17}}
+}}
+
+Captain [[Crow]] notes that deadrunners generally live lives of opulence, but only in frenzied outbursts. And as most deadrunner lives are bound to be short, that opulence should be enjoyed quickly. She also believes that being a deadrunner is synonymous with being one step away from death.{{book ref|Tress|35}}
+
+## Crew of *Crow's Song*
+The crew of the *[[Crow's Song]]* made the decision to leave behind the life of a successful merchant vessel and crew, and instead follow [[Captain Crow]] into a life of piracy, they had no intention of becoming deadrunners.{{book ref|tress|17}} This title was forced upon them when Captain Crow and [[Laggart]] tricked all of them during the attack on the *[[Oot's Dream]]*. Instead of using standard cannonballs that explode on impact, they instead used cannonballs that exploded after they pierced the side of the ship, releasing their water inside the ship, rather than on the side. This caused the Verdent spores to explode inside the ship and on the crew of the *Oot's Dream*, effectively sinking the ship and killing the crew.{{book ref|tress|9}}{{book ref|tress|10}}{{book ref|tress|11}}
+
+## Notable Deadrunners
+* [[Tress]] (former)
+* [[Fort]] (former)
+* [[Ann]] (former)
+* [[Salay]] (former)
+* [[Laggart]] (former)
+* [[Hoid]] (former)
+* [[Ulaam]] (former)
+* [[Crow]]
+
+## Trivia
+* Tress notes that the consequences for non-deadrunner piracy is a very civilized process.{{book ref|Tress|17}}
+* Pirate flags are "Red on black" on Lumar.{{book ref|tress|17}}
+
+## Notes
+<references />
+{{complete|[[User:MrMrDUCK|MrMrDUCK]] ([[User talk:MrMrDUCK|talk]]) 08:47, 16 March 2024 (UTC)}}
+{{tress}}
+[[es: Corremuertos]]

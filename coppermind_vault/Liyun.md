@@ -1,0 +1,61 @@
+---
+image: "Liyun_by_Botanicaxu.jpg"
+died: "{{book ref|yumi|41"
+---
+
+|abilities={{tag+|Nightmare}}
+|titles=Warden-nimi
+|profession= [[Kihomaban]]
+|nation=Torio
+|world=Komashi
+|universe=[[Cosmere]]
+|introduced=[[Yumi and the Nightmare Painter]]
+}}
+
+**Liyun** is the [[kihomaban]], or warden, of the [[yoki-hijo]] [[Yumi]]. She was killed by the [[father machine]], but her soul persists as a [[nightmare]].{{book ref|yumi|39}}
+
+## Appearance and Personality
+Liyun is a tall woman who often wears a severe black tobok with a white bow,{{book ref|yumi|2}} usually keeping her hair tied up.{{book ref|yumi|12}} She often wears fashionable shoes and is very serious about her job as a warden of [[Yumi]]. She is very strict and believes strongly in her purpose, which is to make sure that Yumi does her duty well.{{book ref|yumi|2}} From Nikaro's view Liyun treats Yumi very unfairly and is very demanding, as well as often using backhanded compliments,{{book ref|yumi|6}} yet deep down she wants to help.{{book ref|yumi|39}}
+As a [[Nightmare]], she has a dark wolf-like form with white eyes and legs that bend the wrong way.{{book ref|yumi|7}} When she becomes fully stable, her nightmare form grows to eleven feet tall and has teeth.
+
+## Attributes and Abilities
+As a [[nightmare]] Liyun can be almost entirely incorporeal, and can pass through solid substances such as walls.{{book ref|yumi|3}} Liyun though was able to become nearly stable, almost able to take on the color of flesh. Being a nightmare she is capable of detecting thoughts, most notably fear, which is also capable of giving her more form and substance, as she feeds on them.{{book ref|yumi|3}} As a nightmare she can also feed upon [[Investiture]].{{book ref|yumi|25}}
+
+## History
+Liyun was born in [[Torio]], on the planet [[Komashi]]. When Yumi was young, Liyun began acting as her warden, raising her under the strict rules of traditional yoki-hijo, and hiding from her the existence of the reform movement.
+
+When the father machine activated, it consumed Liyun's soul, but then released her from the shroud to join Yumi in reliving the same day for seventeen hundred years. During each night, while Yumi slept, Liyun became an insane nightmare drawn to the imaginations of the people of Kilahito. Liyun sometimes acted under her own control and sometimes acted under the control of the Machine, such as when she and other nightmares destroyed [[Futinoro]]. When [[Hoid]] came to Kilahito, he began seeing events from Liyun's perspective. After Yumi managed to free a hijo from the Father Machine, the hijo followed Liyun into Kilahito, where they encountered [[Nikaro]], who stopped Liyun from killing a boy. Liyun escaped before Nikaro finished painting her.{{book ref|yumi|39}}
+
+The hijo then Connected Yumi to Nikaro, which stopped Yumi's memories from resetting each day. As a result, Yumi and Liyun continued from that point in a recreation of [[Gongsha Town]], instead of repeating the usual day in [[Ihosen]]. As Yumi and Nikaro traded places, Liyun interacted with Nikaro as if he was Yumi. Over the next several weeks, Liyun continued to serve and advise during Yumi's supposed malady. As a nightmare, Liyun became stable and attacked Yumi, but she was driven off by Nikaro's painting again.{{book ref|yumi|29}}
+
+Liyun went with Nikaro and Yumi to confront the scholars about the machine. During the confrontation, the scholars activated a device that made Liyun revert to her nightmare form.{{book ref|yumi|34}}
+
+When the scholars ended the Connection between Yumi and Nikaro, and Yumi's memory reset, Liyun was less strict and more scatterbrained than usual. She left Yumi for a time and visited Nikaro as a nightmare. She retained some awareness during the interaction and spoke to Nikaro, explaining how they had existed over the centuries and warning him of an upcoming nightmare invasion. Nikaro gave Liyun a painting Yumi painted, and Liyun delivered it back to Yumi.{{book ref|yumi|36}}
+
+During the [[Battle of Kilahito]], Nikaro painted Liyun back into a human form,{{book ref|yumi|40}} and she stayed in the form until she evaporated with the destruction of the father machine.{{book ref|yumi|41}}
+
+## Notes
+<references />
+{{complete}}
+{{yumi}}
+
+<!--
+2 see treatment of Yumi here.
+2 tall.
+2 demanding.
+2 fashionable shoes.
+2 hair short in the rear long in the front, evoking a blade.
+2 carries small calendar book in her pouch.
+6 see treatment of Yumi here. "You did your duty" only. Plus catching her between "have you always been capable of this but were lazy" vs "did you overwork so you don't have enough in you for next town."
+6 backhanded compliments.
+6 tells Yumi she is a resource "like water, plants, sunlight, spirits."
+6 feels like "this will happen again" with Yumi unless she does something. Thinks she is failing Yumi.
+7 tall enough that she has to bend over inside room. Sinuous, boneless neck. Lupine features, legs bent wrong way and face with snout. Virtually no smoke rising from her. Has eyes�bone white, deep as sockets in a skull. Barely drips darkness from face. ALMOST fully stable. Not formless, not aimless, not harmless. Around ten feedings to coalesce to this level. Only a few more to be fully solid. Things like this could slaughter hundreds.
+12? hair pinned up.
+17 bowing, ashamed, when Yumi apologies for failure.
+21? pretty sure she ALWAYS wears black dress with white bow. (hair up?)
+22? "never said what she wanted."
+23? ah, no here she is wearing white and dark blue.
+39? stern and unyielding. Deep down wants to help. Frown lines. Hair in a bun. Always bell-shaped dress.
+-->
+[[es:Liyun]]

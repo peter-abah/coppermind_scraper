@@ -1,0 +1,57 @@
+{{lifeform
+|image=Shallan's Sketchbook - Inkspren.jpg
+|abilities=[[Nahel bond]], [[Elsecaller]] magic, {{tag+|Splinter}}s
+|type={{cat tag|Spren}} 
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+{{update|sa4|sa5}}
+{{quote
+| You think by facts. You change not on simple whims. You are as you **are**.
+| [[Ivory]]{{book ref|sa3|47}}
+}}
+**Inkspren** are a race of sapient [[spren]] that dwell primarily in the [[Cognitive Realm]] of Roshar.{{book ref|sa3|37}} 
+
+They tend to be attracted to those who are logical and willing to think through their decisions, as opposed to acting on instinct.{{wob ref|1603}} They can form [[Nahel bond]]s, giving people the powers of the [[Order of Elsecallers]].{{wob ref|2575}}
+
+## Appearance
+{{image|Inkspren by ms-marz.jpg|side=right|width=300px}}
+### Physical Realm
+In the [[Physical Realm]], inkspren look exactly like their cognitive form, but are able to change their size.{{file ref|Shallan's Sketchbook - Inkspren.jpg|text=Shallan's Sketchbook - Inkspren}}{{book ref|sa5|71}}
+
+### Cognitive Realm
+In the [[Cognitive Realm]], Inkspren are humanoid, and their form does not change. They have angular features, more reminiscent of an unfinished statue than a real person.{{book ref|sa3|47}} They are entirely black, as if made of shadows, and have marble-like skin with a prismatic quality as though it has been coated in a thin layer of oil.{{book ref|sa2|prologue}} Their skin shimmers and gleams in a variety of colors depending on how the light hits it.{{book ref|sa3|102}}{{file ref|Shallan's Sketchbook - Inkspren.jpg|text=Shallan's Sketchbook - Inkspren}}
+
+They wear stiff, fashionable clothing that matches their shade and texture; the clothing is part of their essence.{{book ref|sa2|3}}{{book ref|sa3|102}} They sometimes carry weapons like swords, which may or may not be sheathed, and sometimes hang in the air besides them.{{book ref|sa2|prologue}}{{file ref|Shallan's Sketchbook - Inkspren.jpg|text=Shallan's Sketchbook - Inkspren}} They have armor as part of their form, similar to carapace.
+
+## Abilities
+Unlike other sapient spren, inkspren cannot shape-shift or make themselves invisible to humans while in the Physical Realm; they are, however, capable of drastically changing their size. They can become as large as a person and as small as a speck of dust, letting them move about unseen if they so wish.{{file ref|Shallan's Sketchbook - Inkspren.jpg|text=Shallan's Sketchbook - Inkspren}}{{book ref|sa3|47}}{{book ref|sa3|53}} They are also capable of blending into shadows.{{book ref|sa2|prologue}}{{book ref|sa2|3}}
+
+### Nahel bond
+Inkspren are one of the spren types capable of forming [[Nahel bond]]s with humans. The bond makes a person a [[Surgebinder]], and grants the powers of [[Transformation]] and [[Transportation]].{{file ref| TWoK Front Endsheet.jpg | Surgebinding Table}}
+
+### Enlightened Nahel bond
+In a bond altered by [[Sja-anat]], the Transportation surge is retained, but it is unknown how their surge of Transformation is affected.{{book ref|sa5|28}}{{book ref|sa5|31}} Enlightened inkspren are able to hide inside of their Radiant's bodies.{{book ref|sa5|134}}{{book ref|sa5|138}}
+
+## Culture
+{{image|Ivory by Jove.jpg|side=right|width=200px|[[Ivory]]}}
+{{quote
+| You think all humans are unstable.
+| [[Jasnah]] to [[Ivory]]{{book ref|sa3|47}}
+}}
+
+Inkspren have a particular way of speaking, using "be" instead of phrases like "be here" or "exist" -- for example, "a spren is" rather than "there's a spren here", or "a traitor is" instead of "a traitor exists".{{book ref|sa3|116}}{{book ref|sa3|115}} They prefer simple, limited body language.{{book ref|sa3|47}} Many of their names evoke colors or liquids.{{rpg ref|slhb|150}}
+
+They dislike humans for their irrational and changing nature, and admire those among them who are willing to be cautious, logical and unemotional. Their society as a whole is hostile to the idea of reforming the [[Knights Radiant]], believing that death is the only option for a bonded spren. It's implied they'd be willing to kill a bonded human to "rescue" their kinsmen from such a fate, even if the inkspren entered the bond willingly. There are very few of them interested in attempting the Nahel bond again, with [[Ivory]] seemingly the only one to dare to do so.{{book ref|sa3|47}} It seems he is not entirely alone in his views, however, as several other inkspren accompany him to watch the beginnings of his bond with [[Jasnah]].{{book ref|sa2|prologue}}
+
+It's uncertain if inkspren have their own nation in Shadesmar, although they are very common in cities like [[Celebrant]].{{book ref|sa3|102}}
+
+## Notable Inkspren
+* [[Ivory]] (bonded to [[Jasnah]])
+* [[Blended]]
+
+## Notes
+<references/>
+{{partial}}
+{{stormlight}}
+[[es:tintaspren]]

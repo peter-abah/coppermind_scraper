@@ -1,0 +1,2 @@
+#REDIRECT [[Kaladin]]
+[[Category: Aliases]]

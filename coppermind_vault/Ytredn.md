@@ -1,0 +1,14 @@
+---
+profession: "Patent official"
+nation: "Thaylen"
+world: "Roshar"
+universe: "Cosmere"
+---
+
+{{update|sa5}}
+**Ytredn** is a [[Thaylen]] patent official on [[Roshar]].{{book ref|sa5|i|15}}
+
+## Notes
+<references />
+{{stub}}
+{{Stormlight}}

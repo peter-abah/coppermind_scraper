@@ -1,0 +1,31 @@
+## Official artwork
+<gallery mode="packed" heights=250px caption="Official artwork">
+Driven by Guilt by Ari Ibarra.jpg | <center><small>by {{a|Ari Ibarra}}</small></center> In [[Kaladin]]'s arms, from [[Call to Adventure: The Stormlight Archive]]
+</gallery>
+
+## Fanart
+<gallery mode="packed" heights=200px caption="Portraits">
+Tien by Keith Magnaye.jpg | <center><small>by {{a|Keith Magnaye}}</small></center>
+Alive Tien.png | <center><small>by {{a|Silver Stars}}</small></center>
+Kal sketches.jpg | <center><small>by {{a|Sheep}}</small></center> With [[Kaladin]]
+Tien by Elisgardor.jpg | <center><small>by {{a|Elisgardor}}</small></center> Collecting rocks
+Stormblessed Family by Elisgardor.jpg | <center><small>by {{a|Elisgardor}}</small></center> With the rest of his family
+Tien by Marie Seeberger.jpg | <center><small>by {{a|Marie Seeberger}}</small></center>
+Kaladin and Tien hugging by Clarinking.jpg | <center><small>by {{a|clarinking}}</small></center>With [[Kaladin]]
+Kaladin and Tien by Shayndlart.jpg| <small><center>by {{a|Shayndlart}}</small></center>
+</gallery>
+
+<gallery mode="packed" heights=200px caption="Scenes">
+Tien rocks by zoethather art.jpg| <small><center>by {{a|zoethatcher art}}</center></small>Finding rocks with [[Kaladin]]
+Kaladin and Tien.jpg | <center><small>by {{a|Botanicaxu}}</small></center> Young [[Kaladin]] and Tien
+Dead Tien.png | <center><small>by {{a|Silver Stars}}</small></center> [[Kaladin]] holding Tien's body
+Tien's death.jpg | <center><small>by {{a|Exmakina}}</small></center> Tien's death
+Kaladin's Pain by Petar Penev.jpg | <center><small>by {{a|Petar Penev}}</small></center> [[Kaladin]]'s pain
+Tien by Ari Ibarra.jpeg | <center><small>by {{a|Ari Ibarra}}</small></center> Offering [[Kaladin]] a cool rock during the [[Weeping]]
+Tien by clarinking.jpg | <center><small>by {{a|clarinking}}</small></center> In battle
+Tien's Death by Katie Payne.jpg| <small><center>by {{a|Katie Payne}}</center></small> [[Kaladin]] holding Tien's body
+Weeping by Marie Seeberger.jpg | <center><small>by {{a|Marie Seeberger}}</small></center> In the [[Weeping]]
+Thank You by Marie Seeberger.jpg | <center><small>by {{a|Marie Seeberger}}</small></center> With [[Kaladin]]
+</gallery>
+
+[[Category:Gallery Subpages]]

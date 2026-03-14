@@ -1,0 +1,22 @@
+This is a gallery of covers for *[[The Emperor's Soul]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
+
+<gallery widths=3000px heights=400px mode="packed">
+The Emperors Soul.jpg | <center>United States</center> (Tachyon Publications)
+Emperor's Soul GA cover.jpg | <center>United States</center> (Graphic Audio)
+Emperor's Soul Audiobook Cover.jpg | <center>United States</center> (Recorded Books)
+TES Dragonsteel Starter pack cover.jpg ‎| <center>United States</center> (Dragonsteel, Sanderson Starter Pack edition)
+Emperor's Soul Solo UK Hardcover.jpg | <center>United Kingdom</center> (Gollancz, hardcover)
+Emperor's Soul UK ebook cover.jpg | <center>United Kingdom</center> (Gollancz, ebook)
+Emperor's Soul Legion Twofer Cover.jpg | <center>United Kingdom</center> (Gollancz, 2-in-1 with *[[Legion (book)|Legion]]*)
+Three Fantasies cover.webp| <center>United Kingdom</center> (Gollancz, 3-in-1 with *[[Elantris (book)|Elantris]]* and *[[Warbreaker]]*)
+Emperor's Soul CN cover.jpg | <center>Mainland China</center> (重庆出版社 / Chongqing Publishing House)
+Emperor's Soul PL Hardcover.jpg | <center>Poland</center> (MAG)
+Emperor's Soul CA Cover.png | <center>Spain (Catalonia)</center> (Duna Llibres, normal edition)
+The Emperor's Soul CA Cover (Limited).jpg | <center>Spain (Catalonia)</center> (Duna Llibres, limited edition)
+Emperor's Soul TW cover.jpg | <center>Taiwan</center> (奇幻基地 / Fantasy Foundation)
+Emperor's Soul DE cover.jpg | <center>Germany</center> (Heyne)
+Emperor's Soul KR cover.jpg | <center>South Korea</center> (새파란상상)
+Emperor's Soul BG cover.jpg | <center>Bulgaria</center> (Артлайн-Студиос / Artline Studios)
+</gallery> 
+
+[[Category:Cover Galleries]]

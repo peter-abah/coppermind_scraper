@@ -1,0 +1,2 @@
+#redirect[[Bloodsealing]]
+[[Category: Magic]]

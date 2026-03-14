@@ -1,0 +1,12 @@
+---
+universe: "Cytoverse"
+introduced: "Defiant (book)|Defiant"
+---
+
+{{update|sky4}}
+**Kapling** is a [[Superiority]] soldier.{{book ref|sky4|23}}
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

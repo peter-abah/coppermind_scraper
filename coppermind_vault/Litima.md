@@ -1,0 +1,24 @@
+---
+profession: "Scribe"
+residence: "Alethi warcamps"
+nation: "Alethkar"
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+Brightness **Litima** is a [[lighteyes|lighteyed]] [[Alethi]] woman and a scribe in [[Dalinar Kholin]]'s warcamp on the [[Shattered Plains]] of [[Roshar]].{{book ref|sa1|26}}
+
+==Appearance and Personality==
+She is tall and plump, and wears a violet [[havah]] with yellow trim.{{book ref|sa1|26}}
+
+==Attributes and Abilities==
+She is a senior scribe and is able to read and write in [[women's script]].{{book ref|sa1|28}}{{book ref|sa1|26}}  She is also skilled in the use of [[spanreed]]s.{{book ref|sa1|28}} She has a young ward.{{book ref|sa1|26}}
+
+==History==
+Dalinar had Litima read him passages from *[[The Way of Kings (in-world)|The Way of Kings]]* in his living quarters on the [[Shattered Plains]].{{book ref|sa1|26}} She was present when Dalinar received a [[spanreed]] from [[Jasnah]] regarding her research in [[Kharbranth]], but she deferred to the recently arrived [[Danlan Morakotha]] to read and reply to it.{{book ref|sa1|28}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 15:51, 3 September 2020 (UTC)}}
+{{Stormlight}}

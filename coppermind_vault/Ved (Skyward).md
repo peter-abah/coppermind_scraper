@@ -1,0 +1,17 @@
+---
+name: "Ved"
+occupation: "High Minister"
+'nation: "Superiority"
+universe: "Cytoverse"
+books: "Skyward (series)"
+---
+
+{{update|sky2|sky4}}
+{{for|Ved (Stormlight)|the member of the [[Kholinar Wall Guard]]}}
+
+**Ved** is the High Minister of the [[Superiority]]. They were admonished by [[Sssizme]] on Superiority television for not dealing with the humans on [[Detritus]] harshly enough.{{book ref|sky2|29}}
+
+## Notes
+<references />
+{{partial}}
+{{Skyward}}

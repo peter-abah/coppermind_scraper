@@ -1,0 +1,16 @@
+---
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+{{quote|Fiksin was a boot-licker, not a scholar.|[[Ellista]] on Fiksin.{{book ref|sa3|i|2}}}}
+
+**Fiksin** is a scholar of [[Dawnchant]] on [[Roshar]].{{book ref|sa3|i|2}} 
+
+[[Urv]] said Fiksin concluded that all Dawnchant books came from a central location, so [[Ellista]]'s effort in recording where each text was found was not worthwhile. However, Ellista discarded that notion and insulted Fiksin, claiming Fiksin was not a true scholar. Then, she provided evidence that the Dawnchant writing system was used all across Roshar.{{book ref|sa3|i|2}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 21:32, 30 March 2019 (MST)}}
+{{Stormlight}}

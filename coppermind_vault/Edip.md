@@ -1,0 +1,15 @@
+---
+residence: "Elendel"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 2"
+---
+
+**Edip** is someone who has lived in the [[Elendel]] slums on [[Scadrial]]. 
+
+When [[Wayne]] is pursuing the [[Marksman]] in {{date|342|PC}}, a resident of the slums claims to recognize him as Edip's son; Wayne uses this to his advantage to try and fit in.{{book ref|mb5|3}} A different person later identifies Wayne as Edip's son while Wayne is near the slums looking for [[Ranette]].{{book ref|mb6|4}} 
+
+## Notes
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 16:11, 11 August 2022 (UTC)}}
+{{Mistborn|era 2}}

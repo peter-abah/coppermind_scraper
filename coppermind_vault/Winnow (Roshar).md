@@ -1,0 +1,23 @@
+---
+name: "Winnow"
+abilities: "Nahel bond, Skybreaker magic, {{tag+|Splinter"
+---
+
+|bonded=[[Ki]]
+|species=Highspren
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+
+**Winnow** is a [[highspren]] bonded to the [[Skybreaker]] [[Ki]].{{book ref|sa3|92}}
+
+It is uncertain when Winnow and Ki began their bond, but she has sworn four [[Immortal Words|Ideals]] and achieved the rank of master.{{book ref|sa3|90}}
+
+In early 1174, on the evening of the day before the Skybreaker squires hunted the [[Marabethian]] convicts, Winnow proclaimed to Ki during her prayers that the highspren were watching [[Szeth]].{{book ref|sa3|92}}
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 13:32, 13 September 2018 (MST)}}
+{{Stormlight}}
+[[category: Shardblades]]

@@ -1,0 +1,13 @@
+---
+earth: "Frugal Wizard"
+introduced: "The Frugal Wizard's Handbook for Surviving Medieval England"
+---
+
+{{update|frugal}}
+
+**Ahura Mazda** is believed to be the one true god by followers of [[Zoroaster]].{{book ref|fwh|15}}
+
+==Notes==
+<references />
+{{stub}}
+{{Frugal Wizard}}

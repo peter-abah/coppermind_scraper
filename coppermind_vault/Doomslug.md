@@ -1,0 +1,85 @@
+---
+image: "Doomslug.png"
+name: "Doomslug"
+species: "Taynix"
+abilities: "{{tag+|cytonics"
+---
+
+, mimicry
+|world=Detritus
+|universe=[[Cytoverse]]
+|introduced=[[Skyward]]
+}}
+{{update|sky2|sky3|sf3|sky4}}
+{{quote
+|Stupid junky piece of worthless imitation life. Scud! Scud! Scud! Scudding scud and stupid scud.
+|Doomslug mimicking [[Rig]] complaining about M-bot{{book ref|Skyward|42}}
+}}
+**Doomslug the Destroyer**, or more commonly just **Doomslug**, is a [[taynix]] that [[Spensa Nightshade]] found on [[Detritus]] in the cave with [[M-Bot]].{{book ref|Starsight|27}}{{book ref|Skyward|15}} Spensa nicknamed her Doomslug the Destroyer and adopted her as a mascot.{{book ref|Skyward|18}} She frequently accompanies Spensa on flights and is known to replicate nearly any sound she hears.{{book ref|Skyward|15}}
+
+## Appearance and Personality
+{{for|taynix}}
+Doomslug is a yellow slug with blue spikes along her backside. She does not appear to have eyes, a mouth, or any of the components of a face, but her behavior reminds Spensa of a chipmunk.{{book ref|Skyward|15}} When pleased, Doomslug emits a flutelike trill from her spikes. Doomslug is comfortable around humans but is something of a introvert with other taynix.{{book ref|Defiant|1}}
+
+## Attributes and Abilities
+{{for|taynix}}
+### Cytonics
+As a taynix, Doomslug has the ability to travel at faster-than-light speeds by accessing the [[nowhere]] and can distract the [[delver]]s from the [[Cytonics|cytonic]] hyperjump so that they won't be drawn into the universe.{{book ref|sky2|34}} She also has some limited cytonic communication.{{book ref|Defiant|1}} It is unclear whether or not Doomslug has or could learn any other cytonic powers. She also has the ability to shapeshift and disguise herself as other objects while in the nowhere, as seen when she transforms into Spensa's father's flight pin.
+
+### Mimicry
+Doomslug can replicate any sound she hears with impeccable precision, though there is always a "distinctly fluty" sound to it.{{book ref|Skyward|15}} She is also capable of slightly modifying the sounds she mimics, as shown when she accidentally corrects Spensa's grammar by saying "By whom!" in response to the question "By who?"
+
+### Protection
+Doomslug is covered in blue spikes, which would make handling her difficult, and provides protection from predators. Her bright colors also lead Spensa to believe the possibility that she might be poisonous.{{book ref|Skyward|12}} The Superiority database says that the taynix are dangerously venomous.{{book ref|Starsight|28}} She is also capable of resisting minor increases in gravitational forces.
+
+## History
+{{image|DOOMSLUGandSpensa.PNG|side=right|width=200px}}
+### Early Life 
+Almost nothing is known about Doomslug's life prior to meeting Spensa.
+
+### Meeting Spensa
+Doomslug took up residence near M-Bot after he was hidden by Commander Spears, who had flown his ship to Detritus in search of taynix slugs.{{book ref|sky2|34}} After Spensa arrived, the slug observed her, but engaged in minimal interaction. As their relationship progressed, Doomslug became more open, often enthusiastically repeating words and eventually complex phrases spoken by Spensa and Rig, as well as trilling in enjoyment when rubbed on the head.{{book ref|Skyward|12}}{{book ref|Skyward|36}} 
+
+When Spensa began her first flight with M-Bot, Doomslug took residence in the seat behind Spensa.{{book ref|Skyward|30}}
+
+### Adventures to Starsight
+While undercover at Starsight, Spensa finds out that Doomslug is a taynix and has the capability to hyperjump ships.
+
+### In the Nowhere
+When Spensa was escaping from Starsight, she took Doomslug with her through the Nowhere portal. Doomslug was nervous, and sent Spensa the location of Detritus so she could jump there. Spensa chose to search for answers in the nowhere however, and sent instructions to Doomslug to return home.{{book ref|cytonic|prologue}} To Doomslug however, Spensa equaled home, so she stayed with Spensa as she entered the Belt. Doomslug transformed into a reality icon, taking the form of [[Zeen Nightshade|Spensa’s father’s]] pilot’s pin. Spensa didn’t equate the two, thinking that Doomslug had returned to Detritus.{{book ref|cytonic|38}} When Spensa buried Doomslug to hide the pin from [[Chet]]{{book ref|cytonic|15}}, Doomslug was annoyed and hyperjumped away to [[Surehold]], where she hid with [[Peg]]’s taynix, who was also hiding as a reality icon.{{book ref|cytonic|38}}
+
+Doomslug communicated in a vague manner to Spensa as she traveled, but Spensa thought Doomslug might somehow be the soul or spirit of her father, speaking to her. When Spensa and [[Cutlass Flight]], along with other pirates, attacked Surehold, Doomslug and the other taynix hid. Spensa eventually followed Doomslug’s communication to her hiding place, and found her. When Doomslug fluted happily, Spensa realized that Doomslug was the pin. She was able to speak to Spensa cytonically, but using more intelligent words rather than mimicry. Doomslug was able to answer some of Spensa’s questions, and told Spensa that there are “tons” of types of taynix, not just the yellow and blue ones.{{book ref|cytonic|38}}
+
+Doomslug stayed with Spensa and her friends as they flew towards the lightburst and the delvers, in an attempt to return home. Doomslug used her abilities to disguise M-Bot and the others from the delvers, but after a few hours she grew too tired to continue doing so. Doomslug liked M-Bot, considering him a nice nest. After a fierce and impossible fight, Spensa had to land near the lightburst, and Doomslug again concealed the ship and it’s occupants. When M-Bot sacrificed himself, Doomslug was sorrowful, but it made shielding Spensa and [[Hesho]] easier. As they entered the lightburst, Doomslug protected Hesho from the potentially deadly force of the pure nowhere, keeping him alive.{{book ref|cytonic|42}} After expending so much effort, Doomslug was exhausted, and fell unconscious as Spensa hyperjumped back to Detritus.{{book ref|cytonic|43}} Afterward, safely on [[Platform Prime]], Doomslug awoke and was fine.{{book ref|Cytonic|epilogue}}
+
+## Quotes
+{{quote
+|Work? Work! Gone!
+|Doomslug to Spensa{{book ref|Skyward|15}}
+}}
+
+{{quote
+|She won't
+|Doomslug affirming Spensa's belief about Judy "[[Ironsides]]" Ivans{{book ref|Skyward|30}}
+}}
+
+{{quote
+|Let's go!
+|Doomslug to Spensa{{book ref|Starsight|7}}
+}}
+
+{{quote
+|Scud!
+|Doomslug mimicking Spensa{{book ref|Starsight|45}}
+}}
+
+## Trivia
+* Doomslug is the Skyward-inspired cosplay Brandon is most excited to see in the future. {{wob ref|11269}}
+* Her diet consists of "mushrooms, among other things" and is rather plot-relevant.{{wob ref|11970}}
+* Brandon jokingly offered to give Doomslug a bow.{{wob ref|12094}}
+* [[M-Bot]] does not find Doomslug to be an engaging conversationalist.{{wob ref|12094}}
+
+## Notes
+<references />
+{{partial}}
+{{Skyward}}

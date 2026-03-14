@@ -1,0 +1,17 @@
+{{settlement
+|region=Purelake
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+
+**Fu Namir** is a city on the border of [[Yulay]] and [[Tu Bayla]] on [[Roshar]] during the [[Era of Solitude]].{{map ref|Roshar}}
+
+It is located on the southern coast of the [[Purelake]].{{map ref|Roshar}}
+
+In {{Rosharan date|1173}}, several members of the [[Seventeenth Shard]] hired [[Ishikk]] to search for [[Hoid]] in Fu Namir.{{book ref|sa1|i|1}}
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 02:41, 23 December 2016 (MST)}}
+{{Stormlight}}

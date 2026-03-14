@@ -1,0 +1,2 @@
+#REDIRECT[[Kasaakam]]
+[[Category: aliases]]

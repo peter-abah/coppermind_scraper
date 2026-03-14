@@ -1,0 +1,73 @@
+{{book
+|cover=Dark_Talent_US_Hardcover.jpg
+|released=September 6, 2016
+|series=[[Alcatraz Versus the Evil Librarians (series)]]
+|prequel=The Shattered Lens|sequel={{b|a6}}
+|publisher=Tor books
+|ISBN=978-0-7653-8140-8
+|page-count=281
+|word-count=[[/Statistical_analysis|47,958]]
+}}
+**Alcatraz Versus the Evil Librarians: The Dark Talent** is the final book of the five-part series of books ([[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]) that were written by [[Alcatraz]].{{sots ref|2013}}{{bws ref|calamity-is-done|Calamity is Done Update|date= May 29th, 2015}} It was released on September 6, 2016. Another book in the same series, but written by [[Bastille]] called *[[Bastille Versus the Evil Librarians]]* is a sequel to *The Dark Talent* and was released on September 20, 2022.{{wob ref|15363}}
+
+## Synopsis
+{{quote
+| Alcatraz Smedry has successfully defeated the army of Evil Librarians and saved the kingdom of Mokia. Too bad he managed to break the Smedry Talents in the process. Even worse, his father is trying to enact a scheme that could ruin the world, and his friend, Bastille, is in a coma. To revive her, Alcatraz must infiltrate the Highbrary–known as The Library of Congress to Hushlanders–the seat of Evil Librarian power. Without his Talent to draw upon, can Alcatraz figure out a way to save Bastille and defeat the Evil Librarians once and for all?
+|{{tor ref|revealing-the-fifth-book-in-brandon-sandersons-alcatraz-series/|Revealing the FIFTH Book in Brandon Sanderson's Alcatraz Series!|date=Sep 25th, 2015}}
+}}
+
+## Summary
+{{for|The Dark Talent/Summary|a chapter by chapter summary}}
+
+Alcatraz fights against getting outfitted in a traditional manor befitting of a former monarch of [[Mokia]]. Interrupting a meeting between [[Leavenworth Smedry]] and other monarchs, Alcatraz ends up letting the world know his plan to fight against the [[Librarian]]s. Forming a plan to infiltrate [[Highbrary]], Alcatraz with his Grandpa, and Kaz, steal a ship, bringing his mother [[Shasta Smedry]] with them for assistance.
+
+The group decides to pick up [[Dif]], another [[House Smedry|Smedry]] to help with the infiltration. Alcatraz immediately dislikes Dif after they get him from the [[Worldspire]], however they continue on to Highbrary.
+
+Finding a purple dome protecting the city on arrival, the ship is attacked by Librarian forces. Struggling to break through the defensive arrangement, the Unified Free Kingdoms Air Guard comes to assist. Destroying the dome by use of Shamefiller's Lenses, the group splits up with Alcatraz leading after Dif pushes him out of the ship.
+
+Attacked by Librarians, they are rescued by the arrival of [[Himalaya Smedry]] and [[Folsom Smedry]], who are leading a group of Librarian Liberation Libationists. The LLL, helps infiltrate Highbrary, and Alcatraz splits off with Dif and Shasta, searching for [[Attica Smedry]].
+
+Running into a group of Librarians, Alcatraz in disguise gets sent to fight off a dangerous monster, which ends up being a group of Dinosaurs from [[Nalhalla]], who once again have been captured on a research trip. During the process, Alcatraz and Dif's identities accidentally get revealed, scaring away the group of Librarians. Alcatraz realizes how Attica must have snuck in by disguising himself as a Curator of Alexandria, to appear as a ghost like figure.
+
+Confronting Attica, he knocks out Shasta who was threatening him with a gun, before he tries to convince Alcatraz of the good of his goal. Grandpa Smedry and Draulin arrive, before Dif shoots Grandpa, revealing himself as a Librarian in disguise as a Smedry he killed. It turns out Dif is not just a Librarian, he is the Librarian, [[Biblioden]].
+
+Dif takes Alcatraz and his father hostage, and plans to use one of them in a ritual sacrifice to create a bloodforged lens. Alcatraz manages to knock a vial of antidote of the Librarians weapons into the ventilation system, to wake up [[Bastille]] who they had brought with them in the hope of awakening again. Bastille awakes and starts to fight her way forward to rescue Alcatraz, however Dif sacrifices Attica, and runs off to the Worldspire to use the lens.
+
+Alcatraz is left in a stupor, unable to process properly what has just happened. The self-destruct has not been turned off in Highbrary though, and the whole place is almost about to blow. Highbrary gets destroyed and the Librarians have to cover-up all that transpired.
+
+Bastille reveals in a note that Grandpa Smedry survived, and that more is yet to happen, though Alcatraz does not wish to tell the end of the story. She vows to write the last book.
+
+## Series
+Brandon had always claimed that the Alcatraz series was to consist of five books, and that the original publisher, Scholastic, had only bought the first four. Since Scholastic would not contract the fifth book, Brandon bought back the rights in early 2013.{{sots ref|2013}} He later re-sold the series, including book 5, to Tor.{{wob ref|3115}}
+
+In reality, there was always a sixth book planned. Tor was one of the publishers willing to promote the five-book series with the grand reveal at the end: that there would actually be a sixth book, written from another character's perspective. The idea was that Alcatraz would end his narrative with his failure, but the sixth book would confirm to the readers that he was indeed a hero.{{bws ref|alcatraz-the-big-reveal|Alcatraz: The Big Reveal|date=Oct 5th, 2016}}
+
+## Cover Gallery
+{{for|/Covers|a cover gallery of The Dark Talent}}
+
+## Statistical Analysis
+{{for|/Statistical analysis|a full statistical analysis}}
+*Alcatraz Versus the Dark Talent* consists of one foreword, twenty-one chapters, one afterword and one secret note, reaching a total 47,958 word count.
+
+{|class="wikitable"
+|-
+! Word Count 
+| style="text-align:center" | 47,958 
+|
+|-
+! Page Count 
+| style="text-align:center" | 281
+| Tor hardback
+|-
+! Chapter Count 
+| style="text-align:center" | 21
+| Including foreword, afterword, and one secret note.
+|-
+|}
+
+## Notes
+<references />
+{{meta/partial}}
+{{Alcatraz}}
+{{books}}
+[[Category: Alcatraz| 5]]

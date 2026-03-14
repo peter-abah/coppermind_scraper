@@ -1,0 +1,1 @@
+#redirect [[Peacegiver's Treasure]]

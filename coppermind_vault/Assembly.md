@@ -1,0 +1,4 @@
+**Assembly** may refer to:
+* The [[Luthadel Assembly]] established by [[Elend Venture]] after the [[Collapse]] on [[Scadrial]]
+* The [[Hallandren#Court Assembly|Court Assembly]] of the [[Court of Gods]] in [[Hallandren]] on [[Nalthis]]
+{{disambig}}

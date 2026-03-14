@@ -1,0 +1,62 @@
+---
+image: "Codenames by barlydoodles.png"
+family: "Teo Royal Family"
+parents: "Kiin, Daora"
+siblings: "Lukel, Adien, Daorn"
+relatives: "Sarene, Teorn, Eventeo"
+born: "Year of Reod{{book ref|Elantris|5"
+---
+
+|aliases=Codenames Are Stupid
+|groups={{tag|Ghostbloods}}{{book ref|mb7|39}}
+|abilities={{tag+|worldhopping}}
+|bonded=[[Dao]]{{book ref|mb7|39}}
+|nation=Arelon
+|world=Sel
+|universe=[[Cosmere]]
+|introduced=[[Elantris (book)|Elantris]]
+}}
+**Kaise** is an [[Arelene]] woman, [[Worldhopper]], and a member of the [[Ghostbloods]].{{book ref|mb7|39}}
+
+## Appearance and Personality
+She is always hungry, which makes sense as [[Kiin]] is her father and he makes excellent food. She spends lots of time in the kitchen with him, bugging him for food. She is very intelligent, even more so than [[Daorn]], her brother. She reprimands [[Sarene]] for her bad table manners, saying that she has dropped over half her food on the floor and that a princess should know how to use [[MaiPon]] sticks. She and Daorn argue a lot and claim to look nothing alike, even though they look almost identical. Kaise often curses in foreign languages when she loses an argument.{{book ref|Elantris|8}} She also has [[wikipedia:Attention deficit hyperactivity disorder|ADHD]].{{wob ref|9578}}
+
+As an adult, she wears her blonde hair in a bob and is somewhat plump.{{book ref|mb7|39}}
+
+## Attributes and Abilities
+As a member of the [[Ghostbloods]], she has access to their considerable resources and information.{{book ref|mb7|39}} She is bonded to [[Dao]] and has the [[seon]] with her on [[Scadrial]].{{book ref|mb7|40}}
+
+She enjoys learning languages naturally (without the use of [[Connection]], which she considers to be cheating) and can speak a variety of languages, including [[Arelene]], [[JinDo]], [[Fjordell]], [[Duladen]], [[Svordish]], and the language of northern [[Scadrial]] (albeit with a slight accent), and she can at least read [[Thaylen]].{{book ref|Elantris|8}}{{book ref|mb7|39}}
+
+She has worked or studied as a philologist in some capacity, and, appropriately, she seems to manage records and communication for her Ghostblood cell in [[Bilming]].{{book ref|mb7|39}}{{book ref|mb7|40}}
+
+## History
+### Meeting Sarene
+{{image|Kiin family.jpg|side=right|width=250px|Kaise (left) with [[Lukel]], [[Daorn]], and [[Adien]]}}
+Kaise was born around the time of the [[Reod]].{{book ref|Elantris|5}}
+
+When [[Sarene]] arrived in [[Kae]], her uncle [[Kiin]] introduced her to his children, her cousins Kaise and [[Daorn]]. Afterwards, they all sit down to eat [[JinDo]] food.{{book ref|Elantris|5}} As they eat, Kaise complains that Sarene doesn’t look like a princess because she is so tall. Sarene explained that she is [[Teod|Teo]], to which Daorn adds that their father is Teo, too. After explaining the [[Reod]] to Sarene, Kiin and [[Daora]] explained that they couldn’t bring themselves to hire servants and they didn’t really need to considering how much they could get done on their own. Kiin smiled and said it was especially true when you had kids to do the dirty jobs.
+
+### The Visit to Elantris
+Daorn and Kaise led Sarene to the walls of [[Elantris (city)|Elantris]]. They walked up the enormous set of stairs and as Sarene looked down at the ground below, Daorn pulled against the back of her dress, cautioning her not to get too close. She recovered and noticed a large gathering on the wall’s top a short distance away.{{book ref|Elantris|8}}
+
+She asked what it was and Daorn shrugged, not knowing. Kaise admitted the place was usually empty. Sarene said they should have a look. As they approached the group, they realized it was the [[gyorn]] [[Hrathen]]. Kaise darted into the crowd, excited to see him. After Sarene challenged Hrathen, Kaise rejoined the pair, telling Sarene what she did was wonderful. Daorn went on to say that Kiin was afraid that Hrathen would be successful because the hard times make people more willing to accept a man who preaches change. Sarene told Daorn that his father was a wise man.
+
+They eventually returned to their original reason for the visit and looked out over the city of Elantris. Kaise pointed out the people and said they were so sad, that no one took care of them. Sarene pointed out that someone must feed them, but Daorn countered that no one feeds them and there is nothing for them to eat.
+
+### Fencing
+When Sarene taught the women fencing, [[Lukel]] showed up not wanting to miss the experience. Daorn and Kaise tagged along.{{book ref|Elantris|17}} After the lesson, Sarene confessed that she was worried that she didn't do a good job teaching the women fencing. Kaise piped in that she could have done better. She explained that Sarene didn't teach them about riposting, Proper Form, or tournament rules. Sarene was surprised and Kaise admitted she read a book about it. She then reached over to slap away Daorn’s hand who was poking her with a stick he had taken from Sarene's pile.{{book ref|Elantris|17}}
+
+Sarene confessed that Kaise must be the most intelligent little girl she’d ever met. Lukel admitted that while she is smart, Sarene shouldn't let Kaise impress her too much. After all, she was still a child. Sarene said she was still astounding and Lukel agreed. However, he also admitted that he felt sorry for Daorn sometimes because he tries his best, but that he probably feels inadequate because Kaise can be so domineering.{{book ref|Elantris|17}}
+
+### The Dakhor Attack
+When the monks of the [[Dakhor Monastery]], led by [[Dilaf]], attacked the city of [[Kae]], Daorn, Kaise and [[Adien]] huddled in Kiin’s mansion with [[Jalla]], Lukel’s wife.{{book ref|Elantris|58}} However, once Dilaf captured Sarene, he ordered the family to be taken with the rest of the accursed in [[Arelon]] to Elantris to be burned. As they were led through the city, Daorn and Kaise clung to Lukel, terrified.{{book ref|Elantris|60}}
+
+### Resistance against Trell
+At some point, Kaise became a member of the [[Ghostbloods]] and worked on [[Scadrial]] in order to resist the oncoming threat of [[Trell (Trellism)|Trell]], under the codename of Codenames Are Stupid. She worked out of a safehouse in [[Bilming]], alongside [[Moonlight]], [[TwinSoul]], [[Dao]], and her dog [[Lily]]. She was present when Moonlight brought [[Marasi Colms]] to the safehouse, but stayed behind while the others left on a mission; her task was to meet [[Maraga]] and send messages to [[Steris Harms]] and the Ghostblood agents in the [[Elendel Basin]], telling them to prepare for an evacuation of [[Elendel]].{{book ref|mb7|39}}{{book ref|mb7|40}}
+
+## Notes
+<references />
+{{partial}}
+{{Elantris}}
+[[es:Kaise]]

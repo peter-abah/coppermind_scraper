@@ -1,0 +1,6 @@
+{{disambig}}<br/>
+
+**Tanat** can refer to multiple things:
+* One of the names used for the [[Herald]] [[Talenel]]
+* A gas giant in the [[Rosharan System]]
+* "Nine" in the [[Vorin]] number system

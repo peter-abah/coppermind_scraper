@@ -1,0 +1,24 @@
+---
+residence: "Elendel"
+profession: "{{cat tag|law enforcement|Lieutenant"
+---
+
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Lost Metal]]
+}}
+{{quote
+|Retreat? But the enemy!
+|Kellen to [[Marasi]]{{book ref|mb7|23}}
+}}
+**Kellen** is a member of the [[Elendel]] constabulary on [[Scadrial]].{{book ref|mb7|23}}
+
+In {{date|348|PC}}, Kellen was part of a team which accompanied [[Marasi]] to [[Bilming]] in order to conduct a sting operation on the [[Set]]. Finding themselves drawn into a firefight, Marasi ordered Kellen to help organize a retreat. Kellen and Captain [[Blantach]] waited for Marasi's signal to act, but [[Dumad]] upset the plan by [[steel|Pushing]] the trucks they were using as cover away. In the ensuing chaos, it is unknown how Kellen fared.{{book ref|mb7|23}}
+
+## Trivia
+* She is likely a cameo for Kellyn Neumann, a member of the [[Dragonsteel Entertainment]] team.
+
+## Notes
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 23:13, 30 November 2022 (UTC)}}
+{{Mistborn|Era 2}}

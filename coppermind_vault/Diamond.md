@@ -1,0 +1,24 @@
+---
+profession: "Arms dealer"
+earth: "Reckoners"
+introduced: "Steelheart"
+---
+
+{{for|Polestone#Diamond|details of the gemstone used on [[Roshar]]}}
+**Diamond** is a weapons dealer active in the [[Fractured States]].  He has business with [[Epic]]s, like [[Steelheart (Epic)|Steelheart]], and anti-Epic groups, like the [[Reckoners]], alike.{{book ref|Steelheart|15}}  He does however have a strict policy of not discussing his clients.{{book ref|Steelheart|17}}
+
+He is described as having long, white hair that is beginning to recede and a beard.{{book ref|Steelheart|16}}
+
+He sells a variety of weapons, ranging from different firearms to high-end [[Epic-based technologies]]. He accepts Epic's gene sample as high currency.{{book ref|Steelheart|16}} 
+
+Diamond is fond of using and selling explosives.{{book ref|Steelheart|16}}
+
+## History
+Diamond set up shop in the catacombs beneath [[Newcago]] not long after the death of the Epic [[Fortuity]], where the Reckoners purchased an Epic-based [[gauss gun]].{{book ref|Steelheart|15}}{{book ref|Steelheart|16}} He agreed not to mention the existence of the gun, which was vital to the Reckoners' plan to ensure that Steelheart would be lured out to face a new "[[Limelight|Epic]]".{{book ref|Steelheart|16}}
+
+He was placed in "protective custody" by the Reckoners following an encounter between them and the Epic [[Nightwielder]] that occurred in his shop.{{book ref|Steelheart|33}}
+
+## Notes
+<references />
+{{partial}}
+{{Reckoners}}

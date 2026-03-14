@@ -1,0 +1,17 @@
+---
+profession: "{{cat tag|Soldiers|Sergeant"
+---
+
+|ethnicity=Shin
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Wind and Truth]]
+}}
+{{update|sa5}}
+
+**Szrand** is a sergeant at the soldier camp near the [[Shin]] [[Stoneward monastery]] on [[Roshar]].{{book ref|sa5|57}}
+
+## Notes
+<references />
+{{stub}}
+{{Stormlight}}

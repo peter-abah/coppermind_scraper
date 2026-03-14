@@ -1,0 +1,11 @@
+{{architecture
+|usage={{cat tag|Academic institutions|Academy}} of {{tag|Rithmatics}}
+|earth=Rithmatist|nation=United Isles of America|state=Albert
+|books=[[The Rithmatist]]
+}}
+**Calgarius Academy** is one of the eight schools that teach [[Rithmatics]]. It is located on [[Albert]].{{map ref|United Isles of America|the United Isles}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:10, 3 September 2016 (MST)}}
+{{Rithmatist}}

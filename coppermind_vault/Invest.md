@@ -1,0 +1,2 @@
+#REDIRECT [[Investiture]]
+[[category: terminology]]

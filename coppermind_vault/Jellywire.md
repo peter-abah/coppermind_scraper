@@ -1,0 +1,16 @@
+{{lifeform
+|type={{cat tag|Plants|Plant}}
+|native=[[Pantheon]]
+|world=First of the Sun
+|universe=[[Cosmere]]
+}}
+{{spoilers|IotE}}
+**Jellywire** is a vine on [[Patji (island)|Patji]] in the [[Pantheon]] of [[First of the Sun]].{{book ref|iote|6}}
+
+The vines deliver an effective paralytic on contact, rendering a person unable to move. The vines do not appear to cause pain, but the numbness takes some fifteen minutes to fade away. Experienced [[trapper]]s are able to weave the vines into nets to create traps. [[Vathi]] gets trapped in a jellywire net that [[Sixth of the Dusk]] set up outside one of his [[safecamp]]s.{{book ref|iote|6}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:36, 11 September 2019 (UTC)}}
+{{Sixth of the Dusk}}
+[[es:Enredadera gelatinosa]]

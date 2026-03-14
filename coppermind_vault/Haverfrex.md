@@ -1,0 +1,15 @@
+{{settlement
+|dominance=Central
+|nation=Final Empire
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[The Well of Ascension]]
+}}
+**Haverfrex** was a city and location of one of the [[Lord Ruler]]'s main canneries.{{book ref|mb2|13}} It likely supplied one of the Lord Ruler's storage caches.{{book ref|mb3|5}}
+
+It was held by [[Ashweather Cett]] during the [[siege of Luthadel]], giving him the advantage of easy supply along [[Luth-Davn Canal]] which ran between the cities.{{book ref|mb2|16}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 17:25, 21 December 2016 (MST)}}
+{{Mistborn|Era 1}}

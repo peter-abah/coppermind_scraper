@@ -1,0 +1,12 @@
+{{settlement
+|nation=Babatharnam
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Sween** is a town in southeastern [[Babatharnam]] on [[Roshar]], just north of the mountains that separate [[Azir]] and [[Sela Tales|Selay]] lands. Sween is located near the river that forms the border of Babatharnam and [[Yulay]], which flows into the [[Purelake]].{{map ref|Eastern Makabak}} 
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 02:54, 21 November 2020 (UTC)}}
+{{Stormlight}}

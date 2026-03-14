@@ -1,0 +1,1 @@
+#REDIRECT[[Mistborn (series)#Second Mistborn Trilogy]]

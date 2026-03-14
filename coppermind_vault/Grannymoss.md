@@ -1,0 +1,13 @@
+{{lifeform
+|type={{cat tag|Plants|Plant}}
+|world=First of the Sun
+|universe=[[Cosmere]]
+|books=[[Isles of the Emberdark]]
+}}
+{{spoilers|iote}}
+**Grannymoss** is a type of moss on the islands of the [[Pantheon]] on [[First of the Sun]]. It is red, and while it isn’t lethal, touching grannymoss will leave you itching for hours.{{book ref|iote|47}}
+
+## Notes
+<references />
+{{complete}}
+{{Emberdark}}

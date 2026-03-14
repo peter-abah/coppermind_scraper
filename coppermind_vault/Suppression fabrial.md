@@ -1,0 +1,90 @@
+{{fabrial
+|image=Navani's Notebook - The Crystal Pillar Room.jpg
+|type=Diminisher
+}}
+
+A **suppression fabrial** is a specialized device on [[Roshar]] that can suppress [[Surgebinding]].{{book ref|sa4|14}}
+
+## The Sibling's Fabrial
+{{for|Sibling#Suppression Fabrial|3=Sibling}}
+
+===Design and Effects===
+The most notable example of a suppression fabrial is a powerful device that is part of the [[Sibling]] and is used to protect [[Urithiru]].{{book ref|sa4|39}}{{book ref|sa4|40}} The physical form of the fabrial is a distinctive construction of [[polestone#garnet|garnets]] set into the crystal pillar at the heart of Urithiru, a place formerly called [[Mountains_of_Ur|Ur]].{{book ref|sa4|19}}{{book ref|sa4|83}} It is placed prominently on the pillar, near eye level.{{file ref|Navani's Notebook - The Crystal Pillar Room.jpg|Navani's Notebook - The Crystal Pillar Room}} Destroying the gems removes the fabrial's effects.{{book ref|sa4|41}} Unlike fabrials created by humans, the gems do not contain trapped [[spren]].{{book ref|sa4|9}}
+{{sidequote|side=left|size=350px
+|My form is disrupted. [...] The tower’s spiritual protections are at least partially in effect&mdash;and as we determined months ago, the mavset-im cannot bear our many images while near Urithiru.
+|A [[Fused#Mavset-im|Masked One]], during the invasion of Urithiru{{book ref|sa4|37}}
+}}
+When the fabrial is active, [[rhythm]]s and the use of [[Voidlight]] are disrupted by a suppression field.{{book ref|sa4|39}}{{book ref|sa4|49}} This typically incapacitates [[Fused]], [[Regal]]s, and [[Unmade]] that are inside its range.{{book ref|sa4|14}}{{book ref|sa4|111}} Some of the Unmade are able to resist the effects, as well as other highly Invested individuals.{{book ref|sa4|40}}{{book ref|sa4|14}} This fabrial can have varying power levels, from merely stopping some of the Fused from [[Surgebinding]] to knocking them unconscious.{{book ref|sa4|37}} Regals will also lose their forms.{{book ref|sa5|20}} When in effect, rhythms are disrupted, and the rhythm of the Sibling can drive singers mad.{{book ref|sa4|39}}{{book ref|sa5|20}} Odium is unable to locate people while they are inside the tower.{{book ref|sa4|epilogue}}
+
+The suppression field has a finite area of effect originating at the fabrial, with an abrupt "invisible wall" at its limit.{{book ref|sa4|50}} The exact mechanism that the Sibling uses to fuel their core systems (including the fabrial) is unclear, but it involves [[Towerlight]].{{book ref|sa4|69}} Based on its effects, the fabrial would presumably fall into the category of a [[Fabrial#Diminishers|diminisher fabrial]].{{book ref|sa4|part=ars}} The fabrial seems to have a variable power level; with sufficient power the field can encompass the entirety of the massive tower plus an area extending outwards at least hundreds of yards.{{book ref|sa4|50}}{{book ref|sa4|71}} Surgebinders that do not use Voidlight are not known to be affected.{{book ref|sa4|85}}
+
+The fabrial is not completely foolproof. Some of the Unmade are able to resist the effects, as can other highly [[Investiture|Invested]] individuals.{{book ref|sa4|40}}{{book ref|sa4|14}} Additionally, the suppression field created by the fabrial affects all [[Surge]]s, but it does not do so equally. For example, when the Sibling was weakened during the [[True Desolation]], the *[[mavset-im]]* that use [[Illumination]] had their illusions disrupted near the tower, while the *[[makay-im]]* that use Cohesion were still able to use their powers effectively.{{book ref|sa4|37}} This is likely related to the relationship of each Surge to [[Honor]] and [[Cultivation]].{{book ref|sa4|40}}{{book ref|sa4|31}}
+
+===Inversion===
+{{quote
+|When that Fused touched me, she corrupted part of me to the tone of Odium. This wouldn’t have been possible, once&mdash;but it is now. She fills my system with his Light, ruining me. Corrupting me.
+|The [[Sibling]]{{book ref|sa4|49}}
+}}
+{{image|Raboniel by Petar Penev.jpg|side=right|width=300px|Raboniel and other Fused entering Urithiru through the weakened suppression field}}
+It is possible to corrupt the Sibling and invert the fabrial, causing it to incapacitate users of [[Stormlight]] rather than Voidlight, including [[Knights Radiant]].{{book ref|sa4|14}}{{book ref|sa4|38}}{{book ref|sa4|49}} This is accomplished by pushing Voidlight into the Sibling's system, shifting parts of it to the tone of [[Odium]]. This was once impossible, but the Sibling lost their ability to create Towerlight during the [[False Desolation]], weakening them, and [[Raboniel]] realized that she could overtake their system.{{book ref|sa4|49}}{{book ref|sa4|69}} The effects of the fabrial feel like an oppressive pressure of darkness on both spren and Surgebinders.{{book ref|sa4|i|5}}{{book ref|sa4|39}}{{book ref|sa4|70}} Radiants inside of the suppression field are unable to Surgebind or summon a Shardweapon, and are usually knocked unconscious.{{book ref|sa4|49}}{{book ref|sa4|50}} 
+
+The inversion of the fabrial reveals a few additional properties of its effects. Other fabrials, which are typically fueled with Stormlight, stop working within the suppression field.{{book ref|sa4|40}} Fabrials made from [[Sja-anat|Enlightened]] spren can still be used, but only if they are fueled with Voidlight.{{book ref|sa4|53}}{{book ref|sa4|61}} People who have bonded a dead Shardblade are unable to summon it, though an unbonded one will remain unaffected.{{book ref|sa4|71}}{{book ref|sa4|101}} Radiants are unable to summon their Shardblade or [[Shardplate]].{{rpg ref|slhb|264}} The [[Oathgate]]s are not disabled by the fabrial, and they can be operated with an [[Honorblade]].{{book ref|sa4|39}}{{book ref|sa4|41}}
+
+Affected Radiants that remain conscious are able to breathe in Stormlight and hold it in their bodies. It will continue to heal them,{{book ref|sa4|43}} although the internal healing effects diminish if the Sibling's corruption increases.{{book ref|sa4|61}}{{book ref|sa4|70}}{{book ref|sa4|109}} Spren that have a [[Nahel bond]] with a Radiant are pushed into the [[Cognitive Realm]] and enter a deep sleep-like state.{{book ref|sa4|39}} Radiants that are far enough in their [[Immortal Words|oaths]] are able to resist the effects, and their spren may be able to remain in the [[Physical Realm]] with some effort.{{book ref|sa4|14}}{{book ref|sa4|39}}{{book ref|sa4|40}} 
+
+If a [[singer]] is both a Radiant and a Regal, they feel a "wall" that prevents the use of Stormlight,{{book ref|sa4|67}} but they are otherwise unaffected by the suppressor, even at the First Ideal.{{book ref|sa4|109}} Those using an Honorblade will still be able to Surgebind and summon their Blade.{{book ref|sa4|102}}{{book ref|sa4|105}} [[Lift]], a unique Surgebinder who uses [[Lifelight]] instead of Stormlight, is unable to use [[Abrasion]]{{book ref|sa4|i|5}} and can only use [[Progression]] with great difficulty.{{book ref|sa4|85}} The reason that the fabrial seems to affect Lift when it is attuned to Stormlight is unclear.
+
+## Suppressor Prototypes
+Inside Urithiru, smaller suppressor prototypes are built within the walls.{{rpg ref|ss|20}}{{rpg ref|ss|18}}
+
+### Design
+The Voidlight suppressors in Urithiru are the size of a dinner plate and made of garnets and metal.{{rpg ref|ss|20}} They are labeled with the glyphs for void and suppression.
+
+### Effects
+Suppressor prototypes are able to disrupt the use of Voidlight.{{rpg ref|ss|20}}
+
+## Fused Replicas
+{{quote
+|You have nearly perfected the suppression fabrials. Do not forget, it is technology I discovered from the tower itself thousands of years ago. I have a plan to use it in a more dramatic way. As the Sibling is essentially a deadeye, I should be able to turn the tower's defenses against its owner.
+|Raboniel{{book ref|sa4|14}}
+}}
+
+Raboniel discovered suppression technology thousands of years before the [[True Desolation]] by studying the defenses of Urithiru.{{book ref|sa4|14}} Although Raboniel was put to "sleep" before perfecting a replica fabrial (because she was thought to have gone mad), other Fused were able to use her research to create a few small-scale prototypes.{{book ref|sa5|118}}{{book ref|sa4|29}}{{book ref|sa4|39}} They require a rare spren to operate.{{book ref|sa5|118}}
+
+### Design
+The suppression fabrials used by the Fused are portable and relatively delicate.{{book ref|sa4|9}} They include four cut garnets arranged in a layout similar to that of the Sibling's fabrial.{{book ref|sa4|9}}{{book ref|sa4|19}}{{file ref|Navani's Notebook - The Crystal Pillar Room.jpg|Navani's Notebook - The Crystal Pillar Room}} The garnets are set into a cylindrical shaft; two angular pieces extend from the top of the shaft, making the entire device superficially resemble a tuning fork.{{file ref|Navani's Notebook - The Crystal Pillar Room.jpg|Navani's Notebook - The Crystal Pillar Room}} The fabrial is activated by twisting a gem at its base and glows violet-black with Voidlight when in use.{{book ref|sa4|7}} The devices are made of an unknown metal or alloy;{{book ref|sa4|7}} if they are assumed to be diminisher fabrials, they likely include [[tin]].{{book ref|sa4|10}}{{book ref|sa4|part=ars}} They can be given tripod legs.{{book ref|sa4|7}} The Fused use [[Sja-anat|Enlightened]] [[spren]] to power the devices.{{book ref|sa4|19}}
+
+### Effects
+Like the inverted Urithiru fabrial, the replicas affect Radiants who Surgebind with Stormlight.{{book ref|sa4|40}} They also affect Lift.{{book ref|sa4|7}} They can be repurposed to stop Fused from Surgebinding.{{book ref|sa4|14}}{{book ref|sa4|19}}{{rpg ref|slhb|264}} Those using an Honorblade will still be able to Surgebind and summon their Blade.{{book ref|sa5|118}}
+
+The replicated effects are generally similar to those of the Sibling's fabrial. Radiants feel a smothering sensation and abruptly lose the ability to Surgebind. Their bonded spren lose their sapience and cannot be summoned as a Shardblade, and Radiants cannot summon Shardplate.{{book ref|sa5|81}}{{rpg ref|slhb|264}} Radiants and spren that are farther along in their Oaths have some resistance to these effects.{{book ref|sa4|7}}{{book ref|sa5|81}} Stormlight inside of a Radiant's body remains there, and can still provide a few benefits such as substituting for oxygen. The primary limitation of the replicas is that their range is much smaller than the Sibling's original design, roughly the size of a room. Some of the effects may be less pronounced than those of the Sibling's fabrial; [[Kaladin]] and [[Syl]] seem to have more difficulty resisting the effects of the original fabrial as compared to one of the replicas.{{book ref|sa4|7}}{{book ref|sa4|39}}
+
+==History==
+### Early History
+{{quote
+|It is an aspect of Ur, the Tower. A defense set up to prevent the Fused&mdash;and the Unmade, depending on circumstances&mdash;from entering it.
+|The Sibling{{book ref|sa4|49}}
+}}
+The Sibling's original fabrial was considered part of their being. It was one of a number of fabrials that were integral to the defenses of Urithiru, and took many years to perfect.{{book ref|sa4|111}} It was created to prevent Fused and potentially the Unmade from entering the tower.{{book ref|sa4|49}} The fabrial seems to have functioned well throughout the [[Desolation]]s, as the Fused were well aware of its effects.{{book ref|sa4|37}} During the [[False Desolation]], the imprisonment of [[Ba-Ado-Mishram]] ripped out both [[Connection]] and [[Identity]] from the [[singer]]s;{{book ref|sa3|17}} this had unintended consequences, including injuring the Sibling such that they could no longer create the Towerlight that fueled Urithiru's systems, including the fabrial.{{book ref|sa4|49}}
+
+At some point (presumably during the [[Heraldic Epochs]]), the Fused scholar Raboniel was able to somehow study the Sibling's defenses, and she discovered the underlying technology of the suppression fabrial.{{book ref|sa4|14}} The Sibling was aware of Raboniel's level of knowledge, and was afraid of her.{{book ref|sa4|40}} Around the time of the [[Last Desolation]], Raboniel was thought to have gone mad, and was compelled to stay asleep indefinitely. However, after the other Fused returned to Roshar during the True Desolation, they were able to build an unknown number of prototype suppression fabrials based on her research, and nearly perfected them.{{book ref|sa4|14}}
+
+### True Desolation
+After the [[coalition of monarchs]] moved into Urithiru, they were able to identify the garnet structure in the crystal pillar as a distinct fabrial. Navani deduced that it was related to defense from the Fused, but she did not know exactly what it did or how to activate it.{{book ref|sa4|19}}
+{{sidequote|side=right|size=350px
+|It feels like that fabrial I found in Hearthstone. But it’s obviously on a much grander scale, and more powerful, if it’s knocking out Radiants. The one I faced must have been some kind of prototype.
+|Kaladin{{book ref|sa4|39}}
+}}
+{{image|Navani by greatunknown.png|side=left|width=200px|Navani bonding the Sibling allowed the restoration of the fabrial}}
+In {{Rosharan date|1175}}, one of the prototype fabrials was tested in [[Hearthstone]] during an attempted ambush of [[Kaladin]] by [[Lezian]] and other singers. The fabrial worked as intended, but Kaladin was still able to defeat Lezian without his powers. Coincidentally, the only Radiants present at the time were [[Godeke]] (who was unconscious) and [[Lift]];{{book ref|sa4|7}} this likely obscured the full effects of the replica, as Kaladin and Lift were the only Radiants who were later able to resist the Sibling's corrupted fabrial.{{book ref|sa4|49}} Kaladin's team was able to deactivate the fabrial and deliver it to [[Navani]] for study.{{book ref|sa4|7}} The Nine were unhappy that the device had been lost, especially since [[Leshwi]] pointed out that it could lead the humans to new discoveries. Lezian, in an attempt to save face, incorrectly claimed that the device had not worked.{{book ref|sa4|14}}
+
+Despite Navani's knowledge of fabrials, the design of the Fused fabrial baffled her at first, although she noted its similarities to the garnets in the Sibling's crystal pillar.{{book ref|sa4|9}} She had [[Rushu]] and other top scholars study the fabrial; they were able to identify the Enlightened spren in the fabrial, although it refused to interact with them. By this time, Navani assumed that the fabrial in the pillar was also a suppression device, but she could still not figure out how to activate it.{{book ref|sa4|19}}
+
+Around the same time, Raboniel unexpectedly reappeared and immediately proposed a plan to the [[Nine]] to invert the Sibling's fabrial and invade Urithiru. Although the council was somewhat skeptical at first, they allowed Raboniel to proceed.{{book ref|sa4|14}} After testing the edges of the tower's defenses, Raboniel and her strike team were able to infiltrate the tower and reach the crystal pillar room.{{book ref|sa4|37}}{{book ref|sa4|38}} The Sibling was aware of the incursion, but could not strengthen the fabrial enough to keep the Fused out.{{book ref|sa4|49}} With a great deal of effort, Raboniel was able to break through the Sibling's resistance and infuse the pillar with Voidlight, targeting the suppression fabrial first.{{book ref|sa4|38}} Her inversion of the fabrial suppressed the use of Stormlight, leaving the tower's Radiants unconscious. Navani suggested a last-ditch effort to recapture the pillar room and fix the fabrial,{{book ref|sa4|40}} but the plan failed despite a noble effort by [[Teofil]] and his squad.{{book ref|sa4|42}} [[Dalinar]] and other Radiants who were away from the tower could not approach it without losing their powers.{{book ref|sa4|50}}{{book ref|sa4|71}}
+
+Navani was captured, but she was able to speak to the Sibling, who explained what Raboniel had done.{{book ref|sa4|49}} After working with Raboniel to make several research breakthroughs regarding the nature of [[Lights]], Navani was able to convince the Sibling to form a [[Nahel bond]] with her, making Navani a [[Bondsmith]] and restoring the pair's ability to create Towerlight. She was able to force the Voidlight out of the Sibling's system using the [[Lights#The_Tones|tone]] of [[Anti-Voidlight]], and her practical knowledge of fabrials allowed her to immediately return the suppression fabrial to its original purpose, surprising the Fused and restoring control of the tower to the coalition.{{book ref|sa4|110}}{{book ref|sa4|111}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 22:26, 25 July 2023 (UTC)}}
+{{Stormlight}}

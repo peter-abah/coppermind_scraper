@@ -1,0 +1,16 @@
+---
+residence: "Armedius Academy"
+earth: "Rithmatist"
+introduced: "The Rithmatist"
+---
+
+**Richardson Mathews** is a student of [[Armedius Academy]].{{book ref|Rithmatist|13}}
+
+He is in the year above [[Joel]] and has always been nice to Joel.
+
+He visited the ice-cream bar at the same time as Joel and [[Melody Muns]], noticing their appearance together.
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:54, 17 September 2018 (MST)}}
+{{Rithmatist}}

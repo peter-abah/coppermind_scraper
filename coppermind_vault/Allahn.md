@@ -1,0 +1,17 @@
+---
+profession: "Poet"
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+**Allahn** was a poet on [[Roshar]].{{epigraph ref|sa1|49}}
+
+{{quote|Radiant / of birthplace / the announcer comes / to come announce / the birthplace of Radiants|A [[ketek]] by Allahn referring to [[Urithiru]]{{epigraph ref|sa1|49}}|}}
+
+[[Jasnah Kholin]] believed Allahn, along with others, mistook the home of the [[Knights Radiant]]--Urithiru--as their birthplace.{{epigraph ref|sa1|49}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:25, 3 September 2016 (MST)}}
+{{Stormlight}}

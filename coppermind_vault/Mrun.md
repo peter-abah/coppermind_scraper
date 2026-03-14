@@ -1,0 +1,20 @@
+---
+died: "Possessed by Fused, {{Rosharan date|1174|missing-date=?"
+---
+
+{{book ref|sa3|i|6}}
+|abilities=[[Regal|Forms of Power]]
+|species=singer
+|nation=listener
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Oathbringer]]
+}}
+**Mrun** is a [[listener]] who becomes one of the [[Fused]].{{book ref|sa3|i|6}} Presumably, he was one of [[Eshonai]]'s stormforms in the [[Battle of Narak]].
+
+[[Ulim]] selects [[Venli]], [[Demid]], [[Melu]], Mrun, [[Altoki]] and five others to open themselves to the Fused. The Fused that chooses Mrun coursed with [[Voidlight]], then groaned, muttering gibberish.{{book ref|sa3|i|6}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:37, 1 April 2019 (MST)}}
+{{Stormlight}}

@@ -1,0 +1,14 @@
+{{noble house|name=Urbain
+|era=[[Final Empire]]
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+**House Urbain** is one of the ten Great Houses of [[Luthadel]] on [[Scadrial]] in 1022 in the [[Final Empire]].{{book ref|mb1|9}} It is the second least powerful of the ten Great Houses, only above [[House Buvidas]].
+
+Both House Urbain and [[House Teniert|Teniert]] had been hit by thieving crews before [[Kelsier]]'s return to [[Luthadel]], but not for their [[atium]].{{book ref|mb1|5}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:25, 25 March 2019 (MST)}}
+{{Mistborn|Era 1}}

@@ -1,0 +1,19 @@
+---
+died: "Shot down by KRELL|Krell{{book ref|sf1|2"
+---
+
+|profession={{cat tag|DDF pilots}}
+|world=Detritus
+|universe=[[Cytoverse]]
+|introduced=[[Sunreach]]
+}}
+{{update|sf1}}
+**Leiko** (Callsign: **Lizard**) is a member of [[Nightmare Flight]] in the [[DDF]]. Lizard has bright blue eyes and waist-length black hair.{{book ref|sf1|1}} Lizard participates in a large battle against the Krell when Spensa returns. Lizard is swarmed by several Krell, and though her squadmates try to help her she is killed.{{book ref|sf1|2}}
+
+## Trivia
+* Lizard has challenged [[Nedd Strong]] to a tower-building contest with algae strips at some point.{{book ref|sf1|2}}
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

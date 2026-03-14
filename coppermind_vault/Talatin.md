@@ -1,0 +1,21 @@
+---
+abilities: "{{tag+|stoneward"
+---
+
+|groups={{tag|Knights Radiant}} <small>([[Order of Stonewards|Stoneward]])</small>
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{quote
+|They changed, even as we fought them. Like shadows they were, that can transform as the flame dances. Never underestimate them because of what you first see.
+|A quote from Talatin that was included in *[[The Poem of the Seventh Morning]]* and quoted in [[Guvlow]]'s *Incarnate*{{epigraph ref|sa1|33}}
+}}
+**Talatin** was a [[Knight Radiant]] and member of the [[Order of Stonewards]] on [[Roshar]].{{epigraph ref|sa1|33}}{{book ref|sa1|42}} It is not known when exactly they lived, but it was prior to the [[Day of Recreance]] and the dissolution of most of the Radiant Orders.
+
+[[Jasnah Kholin]] finds a quote that is attributed to Talatin during her research of ancient Rosharan texts and adds it to [[Jasnah's notebook|her notebook]].{{book ref|sa1|42}} The quote mentions fighting Voidbringers and warns against their ability to transform.{{epigraph ref|sa1|33}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 14:41, 11 March 2019 (MST)}}
+{{Stormlight}}

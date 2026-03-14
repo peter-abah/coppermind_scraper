@@ -1,0 +1,2 @@
+#redirect[[Mayalaran]]
+[[category: aliases]]

@@ -1,0 +1,15 @@
+---
+image: "Yumi and Nikaro by botanicaxu.jpg"
+type: "Stuffed animal"
+owners: "Yumi (former)"
+world: "Komashi"
+universe: "Cosmere"
+books: "Yumi and the Nightmare Painter"
+---
+
+**Liyun Noodleface** is the affectionate name given by [[Nikaro]] to the plush [[dragon (cosmere)|dragon]] that [[Yumi]] wins from a carnival game requiring her to throw balls to knock over stacks of blocks. The stuffed toy is a pink dragon eating a bowl of noodles, and is larger than Yumi herself. Yumi thinks the name, referring to [[Liyun]], is irreverent, but subsequently uses the name herself as well. Yumi gives Liyun Noodleface away to a little girl who was eyeing it, after deciding she doesn't care to own it.{{book ref|yumi|28}}
+
+## Notes
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 06:20, 15 October 2024 (UTC)}}
+{{yumi}}

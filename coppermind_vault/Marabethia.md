@@ -1,0 +1,95 @@
+{{nation
+|map=Marabethia locator.png
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{quote
+| The Marabethians have a saying for someone who refuses to see the truth of a situation. 'You have eyes of red and blue', they say. Red for blood dripping. Blue for the water. It is said that these two things are all the [criminals] see. Usually they are attacked within one day. And yet, most still wish to take that chance. They prefer the false hope
+| [[Sigzil]] on Marabethian criminal policy{{book ref|sa1|40}}
+}}
+**Marabethia** is a nation on [[Roshar]] occupying the [[wikipedia: isthmus|isthmus]] separating the [[Purelake]] from the [[Reshi Sea]]. It is bordered by [[Tu Bayla]] to the east, and [[Babatharnam]] to the west.{{map ref|Roshar}}
+
+## Geography and Ecology
+During the time of the Silver Kingdoms, Marabethia was controlled by [[Sela Tales]]{{book ref|sa3|i|1}} and is still considered to be in Selay lands.{{book ref|sa1|40}} The far eastern border was part of [[Valhav]].{{map ref|Silver Kingdoms}}
+
+Off the coast of Marabethia, a greatshell known as [[yu-nerig]] can be found. They are known for their succulent flavor and gemhearts.{{book ref|sa1|40}} At least a part of Marabethia’s northern coast is made up of large cliffs.{{rpg ref|ss|24}}
+
+### South Marabethia
+The [[Order_of_Skybreakers|Skybreakers]] have a stronghold on the southern edge of [[Marabethia]] along the [[Purelake]] that is used to train acolytes. They will often use their surroundings for this training, including by placing items in the Purelake, to be used by the squires.{{book ref|sa3|90}}{{book ref|sa3|98}}
+
+Reshi-idealists can be found living on the southern border of the country. The Purelaker religion is also present in the area, likely due to the proximity between the Purelakers and those on the Marabethian southern border.{{book ref|sa3|92}}
+
+## Flora and Fauna
+[[Sarpenthyn]] are common in Marabethia.{{book ref|sa2|55}}
+
+The waters off their northern coast are inhabited by yu-nerig.{{book ref|sa1|40}}
+
+The southern coast is to the Purelake, and has a large abundance of lifeforms such as fish, [[cremling]]s, and [[riverspren]].{{book ref|sa1|i|1}} The fish in the Purelake have magical properties{{book ref|sa3|90}} and form symbiotic bonds with [[spren]].{{wob ref|2109}}
+
+## Culture
+The people of Marabethia are ethnically similar to the Selay, with bronze skin and dark hair. They also speak a mix of Selay and local tribal languages.{{rpg ref|slwg|62}} The Marabethian people are known to have a great fondness for debate; the city has many pedestals at intersections where men can stand and proclaim their arguments. It is said that the residents are known to carry around overripe fruit for discouraging those they disagree with.{{book ref|sa1|40}} Marabethia is also home to a number of [[Reshi]]. Some of these Reshi migrated to Marabethia because they found living on the [[Tai-na]] to be bothersome and annoying.{{rpg ref|slwg|65}}
+
+### Cuisine
+They are known to eat yu-nerig.{{book ref|sa1|40}}
+
+### Clothing
+While the general clothing practices of the Marabethian people are currently unknown, high judges are known to dress patterned shoulder cloak and a colorful skirtlike wrap.{{book ref|sa3|90}}{{book ref|sa3|92}} Women appear to not wear shirts, but simply a cloth tied around the chest.{{book ref|sa3|90}}
+
+Men are known to wear an article of clothing known as a "Marabethian wrap."{{book ref|sa3|92}}
+
+### Religion
+The Purelaker religion is followed by a portion of their population, particularly in southern Marabethia.{{book ref|sa3|92}}
+
+### Superstitions
+They have a superstition that Sarpenthyn are vengeful spirits of murdered children.{{book ref|sa2|55}}
+
+## Law and Order
+{{quote
+|The local monarchs have accepted us as a unifying martial force, and have given us legal authority. The city's high minister wrote to us via spanreed, pleading for help.
+|{{book ref|sa3|92}}
+}}
+High judges in Marabethia dress in a patterned shoulder cloak and colorful skirtlike wrap. High judges are considered a form of important lawkeeper in the area.{{book ref|sa3|90}}{{book ref|sa3|92}}
+
+To punish serious crimes, perpetrators are dangled over a seaside cliff, during high tide with a cut in each cheek, as bait for the yu-nerig.{{book ref|sa2|49}} If the criminal survives for a week, they are set free.{{book ref|sa1|40}} The criminals that hang there are usually attacked within a day. A criminal can demand execution instead but almost every prisoner chooses to be hung over the sea, because they prefer false hope to certain death.{{book ref|sa1|40}}
+
+The Marabethian government is aware that the [[Order of Skybreakers|Skybreakers]] have a keep in the region and will call on them if they require assistance with enforcement. They have granted them legal authority as a unifying martial force in the area.{{book ref|sa3|92}}
+
+Individual cities seem to be led by a figure known as a high minister.{{book ref|sa3|92}}
+
+## Politics
+Marabethia is ruled by a number of local Monarchs, this makes it likely that Marabethia isn’t one nation, but rather a group of ‘kingdoms’ with similar culture.{{book ref|sa3|92}}
+
+## History
+
+### Pre-Human Arrival
+Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Marabethia was inhabited by [[Singers]].{{book ref|sa3|113}} After an uncertain period of time after human arrival and settlement in present-day Shinovar, they headed an invasion, slaughtering them and expelling them from their land; claiming it as their own.{{book ref|sa3|113}} This history was lost to time until the discovery of the [[Eila Stele]].{{book ref|sa3|113}}
+
+### Heraldic Epochs
+{{image|Silver Kingdoms.jpg|side=right|width=450px|Map of the Silver Kingdoms}}
+{{for|Sela Tales}}
+During the Heraldic Epochs, Marabethia was part of the Silver Kingdom of [[Sela Tales]] and [[Valhav]].{{book ref|sa3|i|1}}{{map ref|Silver Kingdoms}} It was conquered by Ashynite migrants who were granted the land that would become [[Shinovar]] by the Singers, but grew dissatisfied with their hegemony and chose to violently expand it, heralding the First Desolation.{{book ref|sa3|111}} 
+
+==== The Desolations ====
+Due to the Desolations, they were constantly returned back to primitive technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak]] and his [[Willshapers]].{{book ref|sa2|i|7}}{{book ref|sa1|part=prelude}}{{wob ref|13779}}
+
+One of the many Desolations that struck the nation, along with the rest of Roshar, arrived in the year {{rosharan date|337}} of the Eighth Epoch. This Desolation was heralded by the release of [[Midnight Essence]] in a small settlement in [[Natanatan]].{{book ref|sa1|19}} The length of this Desolation is unknown.
+
+==== Aharietiam and the Last Desolation ====
+The Last Desolation was a large scale Desolation which occured around 4500 years before the arrival of the [[True Desolation]]. This Desolation was particularly devasting due to the fact that it happened only a year after the previous Desolation, and thus society was weakened and still recovering. Tired of the Desolations and their torture on Braize, the nine Heralds still on Roshar refused to return to Braize, leaving Taln as the sole Herald on the planet for millennia.{{book ref|sa1|prelude}}{{book ref|sa1|prologue}}
+
+After the Last Desolation, Desolations ceased to ravage the nations. Due to this, society was able to advance much further than ever before, giving them the strength to potentially resist any potential Desolation without complete societal collapse.{{book ref|sa3|119}} The era heralded by the Last Desolation came to be known as the Era of Solitude.{{book ref|sa1|45}}
+
+At some point following Aharietiam, Sela Tales broke into a large amount of smaller states, some of which eventually became what is present-day Marabethia.{{map ref|Roshar}} Though they were not a true nation, but a collection of states that shared a similar culture.{{book ref|sa3|92}}
+
+### Age of Solitude and True Desolation
+[[Nale]] pursued [[Lift]] while she was in Marabethia before following her to [[Azir]].{{book ref|sa2|i|9}}
+
+During the [[True Desolation]], the [[coalition of monarchs]] reached out to Marabethia for aid and alliance, however, Marabethia did not respond to the request.{{book ref|sa3|24}} Once [[Iri]] surrendered to [[Odium]]’s forces, the nation moved to conquer much of the Purelake and its environs. The [[Fused]] have stationed a few of their Regals in the area, though they are more concerned with their advancing troops than with the territory itself.{{rpg ref|slwg|63}} After the [[Voidbringer]] conquest of Marabethia, a Fused stationed here, known as [[Talenai]], betrayed [[Odium]]. After they were sentenced to death, there was an attempt to rescue Talenai.{{rpg ref|ss|24}}
+
+A town on the southern border of the country is known to hold prisoners from across the region and is populated by Reshi-idealists. In 1174, Szeth and other Skybreaker acolytes were taken there to hunt down prisoners who had escaped from the local jail. The jail keep was ultimately captured and found guilty of diverting funds meant for the prison's upkeep into his own pockets instead.{{book ref|sa3|92}}
+
+## Notes
+<references />
+{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 04:54, 4 April 2022 (UTC)}}
+{{Stormlight}}

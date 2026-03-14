@@ -1,0 +1,13 @@
+{{settlement
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Icewater** is a port city on the north side of an island in the [[Southern Depths]] along the southern edge of [[Roshar]] during the [[Era of Solitude]].{{map ref|Roshar}}
+
+[[Rysn]] once travelled with [[Vstim]] to Icewater and bargained with pirates.{{book ref|sa3|i|13}}
+
+## Notes
+<references/>
+{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 13:43, 28 December 2017 (MST)}}
+{{Stormlight}}

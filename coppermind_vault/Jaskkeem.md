@@ -1,0 +1,14 @@
+---
+#profession: "Soldier"
+nation: "Azir"
+world: "Roshar"
+universe: "Cosmere"
+---
+
+{{update|sa5}}
+**Jaskkeem** is an [[Azish]] solider on [[Roshar]].{{book ref|sa5|128}}
+
+## Notes
+<references />
+{{stub}}
+{{Stormlight}}

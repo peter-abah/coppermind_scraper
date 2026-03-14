@@ -1,0 +1,15 @@
+{{culture
+|type={{cat tag|Games|Game}}
+|origin={{tag|Svorden}}
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[Elantris (book)|Elantris]]
+}}
+**Leky stick** is a sport invented in the nation of [[Svorden]] in [[Sel]]. Although Svorden is annexed by the [[Fjordell Empire]],{{book ref|Elantris|5}} the sport is still played in multiple nations on Sel in the [[Late Era]].{{glossary ref|Elantris|L}}
+
+Leky stick's popularity is such that it expanded from [[Sycla]] to the [[Sel#The_Northern_Continent|Northern Continent]]; it is King [[Eventeo]] of [[Teod]]'s favorite sport.{{book ref|Elantris|2}} He nicknamed his daughter [[Sarene]] "leky stick" as a child because she was so tall and thin, just like the pole that marked the goal line.{{book ref|Elantris|2}} Eventeo later explains the nickname to [[Raoden]], who finds it hilarious and uses it constantly to tease Sarene.{{book ref|Elantris|epilogue}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:36, 17 September 2018 (MST)}}
+{{Elantris}}

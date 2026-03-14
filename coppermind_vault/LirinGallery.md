@@ -1,0 +1,21 @@
+
+## Official artwork
+<gallery mode="packed" heights=300px caption="Official artwork">
+Darkeyes by Gal Or.jpg| <small><center>by Gal Or</center></small>With his family, from *[[Call to Adventure: The Stormlight Archive]]*
+</gallery>
+
+## Fanworks
+<gallery mode="packed" heights=300px caption="Gallery">
+Lirin portrait.png| <small><center>by {{a|Jamie Knierim}}</center></small>
+Lirin and hesina.jpg| <small><center>by {{a|Sheep}}</center></small>With [[Hesina]]
+Stormblessed Family by Elisgardor.jpg| <small><center>by {{a|Elisgardor}}</center></small>With his wife and sons
+Lirin and Hesina by Marie Seeberger.jpg| <small><center>by {{a|Marie Seeberger}}</center></small>With [[Hesina]]
+Reunited by Marie Seeberger.jpg| <small><center>by {{a|Marie Seeberger}}</center></small>Reunited with [[Kaladin]]
+Reborn by Pam Hage.jpg| <small><center>by {{a|Pam Hage}}</center></small>Being saved by [[Kaladin]]
+Kaladin Saving Lirin by Caio Santos.jpeg | <small><center>by {{a|Caio Santos}}</center></small> Being saved by [[Kaladin]]
+Lirin by Shuravf.jpg| <small><center>by {{a|Shuravf}}</center></small>
+Lirin and Hesina by EccoS.jpg| <small><center>by {{a|EccoS}}</center></small>With [[Hesina]]
+
+</gallery>
+
+[[Category:Gallery Subpages]]

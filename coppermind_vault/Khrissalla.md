@@ -1,0 +1,101 @@
+---
+image: "Khriss.jpg"
+titles: "Duchess of Elis"
+profession: "{{tag+|Arcanist"
+---
+
+|abilities={{tag+|worldhopping}}, [[Starmarks]]
+|ethnicity=Darksider
+|nationality=Elisian
+|world=Taldain
+|universe=[[Cosmere]]
+|introduced=[[The Bands of Mourning]]
+}}
+{{spoilers|IotE}}
+{{update|mb7}}
+Duchess **Khrissalla**, better known as **Khriss**,  is a [[worldhopper]] originally from the country of [[Elis]] on the [[Darkside]] of [[Taldain]].
+
+## Appearance and Personality
+{{image|Khriss Shuravf.jpg|side=left|width=200px|Studying [[fabrial]]s}}
+{{for|/Gallery|more images}}
+### Appearance
+Being from the Darkside of Taldain, Khriss has brown skin, allowing her to also pass as [[Makabaki]] on [[Roshar]],{{book ref|twok|i|1}}{{ref|group=fn|text=Baon, who has the same skin tone as Khriss, was seen by [[Ishikk]] as Makabaki. Therefore it follows that he would think the same of Khriss.}} or as a Terriswoman on Scadrial.{{msh ref|3|2}}{{book ref|mb6|12}} She has brown eyes and wears her hair in braids. While on Dayside, Khriss wears a pair of dark, heavy sunglasses as she is not used to the sunlight of Dayside. She also wears a wide-brimmed hat to keep the sun's rays from her face.{{book ref|ws|3|review=yes}}
+
+### Personality
+Khriss is a university-educated scholar and is extremely inquisitive. She seeks to understand and find scientific explanations for all that she can. She believes in freedom of information, and is willing to assist any who come to her for help if she perceives their intentions to be good.{{wob ref|180}}
+
+## Attributes and Abilities
+Khriss is one of the most accomplished scholars of [[investiture]] in the cosmere. She knows more about the cosmere and its magic systems than [[Nazh]], her assistant, and even [[Hoid]], who has been alive since before the [[Shattering]].{{wob ref|5623}} She collects her knowledge in the [[Ars Arcanum|Ars Arcana]].{{wob ref|6873}} The most important question she wants answered is what happens in the [[Beyond]], followed by how to get [[Stormlight]] off [[Roshar]].{{wob ref|15029}} She is sometimes credited as a 'Professor of Arcanist Studies'.{{rpg ref|slwg|1}}
+
+Khriss has [[starmark]]s.{{book ref|ws|11|review=yes}}
+
+## History
+{{image|Khriss by Veronica O'Neill.jpg|side=right|width=350px}}
+### Taldain
+Khriss was engaged for a time to [[Gevalden]]--or Gevin, as he preferred in informal settings{{book ref|ws|5}}--a Prince of Elis. Before their wedding, Gevalden traveled to Dayside in search of the mythical Sand Mages, where he was shot by [[Dynasty]] assassins. His linguist and assistant, [[Wilheln]], wrote to Khriss to report on his death.{{book ref|ws|prologue}} 
+
+Khriss, determined to seek out what her fiancé was trying to discover, traveled to Dayside with [[Baon]], [[Allstren Cynder]], and [[Jon Acron]] and some Elisian soldiers.{{book ref|ws|prologue}} They arrived in the [[Kerztian]] port of [[Dosha-Har'Ken]], on the northwest coast of Dayside, and purchased supplies from a merchant that spoke Dynastic, who also offered the services of his nephew [[Daazk]] as a guide to [[Lossand]].{{book ref|ws|prologue}} 
+
+==== Crisis in the Diem ====
+She met [[Kenton]] shortly after the Kerztian attack on the [[Sand_mastery|sand master]]s,{{book ref|ws|3}} and he agreed to be her guide to Lossand's capital, [[Kezare]], where they parted ways.{{book ref|ws|4}} In the Darksider district of [[Lonzare]] Khriss met with [[Loaten]] and attempted to get answers about Gevin's attempt to contact the sand mages, but their meeting was interrupted by [[Nilto]].{{book ref|ws|5}} She then sought the [[Taisha]], assuming Gevin would have met with them, but failed to get meetings with any of the Taishin before finally discovering Kenton was the [[Taishin#The Lord Mastrell|Lord Mastrell]].{{book ref|ws|6}}
+
+After recovering from her initial anger at his deception, Khriss decided to help Kenton in his mission to preserve the [[Diem]]. She reasoned that the Diem's sand masters could not support Elis if they were disbanded, and used her diplomatic skill to help Kenton negotiate with the [[Lord Artisan]].{{book ref|ws|7}} Using a letter of introduction from the Diem, Khriss was also able to meet with [[Lady Judge]] [[Heelis]] who suggested she speak to the Lord Beggar Nilto to help sway public opinion for the Diem.{{book ref|ws|8}} 
+
+During their meeting, Nilto gives her Prince Gevalden's signet ring and pistol, but refuses to explain how he acquired the items.{{book ref|ws|8}} Because Kenton withheld many details of sand mastery, Khriss attempted to [[Khrissalla's_Journal#Sand_Experimentation|research]] white sand and the mechanics of Sand Mastery based on observation.{{book ref|ws|11}}{{book ref|ws|part=ars}} Khriss eventually discovered that it was Baon that killed Captain [[Deral]] and his lieutenant, and that he was sent to Elis by the Dynasty.{{book ref|ws|12}} Following Baon's departure, Khriss decided to move to the Diem so that she could try to learn sand mastery; but was ultimately unable to display any potential in the [[Khrissalla's_Journal#Sand_Mastery_Test|sand mastery test]].{{book ref|ws|13}}{{book ref|ws|part=ars}} 
+
+Trying to find Baon before he left the city, she asked [[N'Teese]] to arrange a meeting with Nilto for her, to ask if he knew Baon's whereabouts.{{book ref|ws|13}} During this meeting Nilto called her "Khriss", causing her to realize his identity as Gevin. She confronted him at the Kezare docks as he was attempting to leave the city when Professor Acron revealed himself as an assassin sent by the Dynasty to kill Gevalden. Acron shot Baon when he interfered to allow Gevin and Khriss to escape. While running from Acron, Khriss used a crane to knock him into the harbor. She asked Gevin to return with her to Darkside, but he refused in favor of continuing to help people on Dayside.{{book ref|ws|14}} Baon returned to her service as bodyguard since there was no conflict with his mission for the Dynasty.
+
+When the [[Lord Merchant]] [[Vey]] disappeared, she pressured Gevin into using his contacts as Nilto to discover where he had gone if he wanted her to keep silent about his survival. She then traveled with Kenton to [[Lraezare]] to find the Lord Merchant, and they returned to Kezare once Kenton made his deal with him.{{book ref|ws|15}} Searching for the [[Lord General]], Khriss was present when they discovered his body in [[Tower_(Taldain)|The Tower]]'s wine cellar.{{book ref|ws|16}}
+
+Khriss was present at the Diem when Kenton dueled [[Drile]], and Baon prevented her from interfering.{{book ref|ws|17}} After the Diem was restored, Khriss returned to Darkside with multiple barrels of white sand and a few sand masters to aid her experiments in making sand mastery work on Darkside.{{book ref|ws|epilogue}}
+
+### Silverlight
+At an unknown point after the crisis in the Diem, Khriss discovered how to leave Taldain and began to travel the cosmere. Eventually, she came to find [[Silverlight]], where she was involved in the founding of a university.{{wob ref|8342}} She eventually became a well known and regarded [[arcanist]], possibly also founding her own order. Amongst other projects, Khriss was obsessed with researching [[Shard|Shardless]] [[perpendicularity|perpendicularities]].{{book ref|iote|30}}
+
+### The Death of Preservation
+
+{{sidequote
+|You've stumbled into something far, far bigger than you, your politics, or your little planet.
+|Khriss to Kelsier{{msh ref|3|2}}
+|side=right|size=250px
+}}
+
+Khriss and [[Nazh]] were discovered by [[Kelsier]] in the [[Cognitive Realm]] of [[Scadrial]] in {{date|1023|fe}}. The pair enlightened Kelsier on how the events on Scadrial were affecting the cosmere. They remained quite vague as to why they were there - although Khriss mentioned wanting to see what the death of a Shard looks like - or about other events elsewhere in the cosmere that were unrelated to the current conflict. Khriss refused his requests for help and they left abruptly after Kelsier told them of his meeting with [[Hoid|Drifter]].{{msh ref|3|2}} Since then, she has worked with Kelsier on research at least once.{{wob ref|14891}}
+
+### The True Desolation
+On Roshar, over three centuries after the [[Catacendre]], around and during the [[True Desolation]], she took an interest in various figures and concepts, including fledgling Radiants, such as [[Kaladin]] and [[Shallan Davar]];{{file ref|Frostlands map.jpeg|Frostlands Map}}{{file ref|Bridge_Four_tattoos_page.jpeg|Bridge Four Tattoos}} in the nature of Vorin [[glyphs]],{{file ref|Alethi Glyphs Page 1.jpg|Alethi Glyphs: Page One}}{{file ref|Alethi Glyphs Page 2.jpg|Alethi Glyphs: Page Two}}{{file ref|Bridge_Four_tattoos_page.jpeg|Bridge Four Tattoos}}{{file ref|Scroll_of_Stances.jpeg|Scroll of Stances}} in the pattern of the [[Shattered Plains]],{{file ref|Shattered Plains WoR map.jpeg| Shattered Plains Map}} and of the Rosharan subastral.{{file ref|Sea_of_Lost_Lights.jpg|Sea of Lost Lights Map}}{{file ref|Sea of Souls.jpg|Sea of Souls Map}}
+
+It is unclear if she travelled to Roshar herself, or if she sent Nazh to the planet alone.
+
+### New Seran
+
+After the True Desolation, she appeared at a party in [[New Seran]] in post-[[Catacendre]] Scadrial, {{date|342|FA}}.{{book ref|mb6|12}} There she stole a dance with [[Waxillium Ladrian]] and asked him questions about his powers and how they related to physics. She was also mentioned in a broadsheet ad, telling people who hear talking tools to contact Khriss and Nazh.{{article ref|The New Ascendancy}}
+
+### Space Age
+At some point before the overthrowing of the [[Cinder King]] on [[Canticle]], within a century of the discovery and proliferation of faster-than-light travel,{{book ref|tsm|20}} her theories regarding Investiture and how it operates became popular, with her Laws becoming widely recognized.{{book ref|tsm|21}}
+
+Around the time of the Scadrian pressure campaign on [[First of the Sun]], Khriss linked historical records of [[aviar]] to the planet and, citing reports of people encountering a traversable well of power in [[Cognitive Realm|Shadesmar]], theorized that the birds originated there and were brought through a Shardless perpendicularity. The theory drew ridicule from some arcanists for the seeming impossibility of a perpendicularity forming on a world with no known Shard and she was never able to prove it herself as she was not able to provide coordinates. By the time knowledge of the perpendicularity on First of the Sun became widespread, she was otherwise occupied on Taldain.{{book ref|iote|30}}
+
+## Relationships
+{{image|Khriss and Nazh by Elisgardor.jpg|side=left|width=300px|with [[Nazh]]}}
+
+### Gevalden
+Before she left Darkside for the first time, she was engaged to Prince [[Gevalden]] of [[Elis]]. They appear to have been quite close, enough so that Khriss organized an expedition to fulfill his mission of finding the Sand Mages after his reported death on Dayside.{{book ref|ws|prologue}} After discovering his identity as Nilto, she asks him to return to Darkside with her. He refuses, saying he will not return after being injured, and that he and Khriss have both changed too much to have a relationship.{{book ref|ws|14}}
+
+### Nazh
+The mapmaker Nazh is in her employ.{{wob ref|5341}}{{book ref|iote|30}} She commonly sends him out to procure maps, documents and other illustrations for her, particularly in high-risk environments. Although the two argue fairly often, they are good friends and Nazh is fiercely loyal to her.{{wob ref|13017}} By the time of the Scadrian pressure campaign on First of the Sun, Nazh is no longer in Khriss' employ, though they retain some amount of contact.{{book ref|iote|30}}
+
+### Hoid
+She has some history with Hoid, but the exact nature of her relationship with him is unknown.{{wob ref|16583}} But it is such that she cursed upon learning he stole a bead of [[lerasium]].{{msh ref|3|2}}
+
+## Notes
+;Footnotes
+<references group=fn />
+;References
+<references />
+{{partial}}
+{{White Sand}}
+{{cosmere}}
+[[Category:Viewpoint characters]]
+[[Category:Taldaini]]
+[[es:Khrissalla]]

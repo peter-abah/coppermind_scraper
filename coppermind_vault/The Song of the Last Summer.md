@@ -1,0 +1,20 @@
+{{culture
+|related=[[Recreance]]
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+
+{{quote
+|They lived high atop a place no man could reach, but all could visit. The tower city itself, crafted by the hands of no man.
+|An excerpt from the *Song of the Last Summer*, referencing [[Urithiru]]{{epigraph ref|sa1|32}}
+}}
+
+***The Song of the Last Summer*** is a fanciful tale of romance from the third century after the [[Recreance]].{{epigraph ref|sa1|32}} Jasnah Kholin believes its references to [[Urithiru]] to be an accurate depiction of the tower.{{epigraph ref|sa1|32}}
+
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 16:56, 4 June 2017 (MST)}}
+{{Stormlight}}
+[[Category: Literature]]

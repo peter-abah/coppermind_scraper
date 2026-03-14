@@ -1,0 +1,12 @@
+---
+nation: "Nalhalla"
+earth: "Alcatraz"
+introduced: "The Knights of Crystallia"
+---
+
+**Rodrayo** is a minor nobleman of [[Nalhalla]].{{book ref|a3|7}} *Rodrayo* wanted to be friends with [[Alcatraz]] when he Alcatraz first arrived in Nalhalla. [[Leavenworth Smedry]] informed Alcatraz that Rodrayo and his friends used to be [[Attica Smedry]]'s sycophants and didn't care about Alcatraz.{{book ref|a3|9}}
+
+## Notes
+<references />
+{{partial}}
+{{Alcatraz}}

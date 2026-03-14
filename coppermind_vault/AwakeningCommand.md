@@ -1,0 +1,40 @@
+The following is a list of known Commands for [[Awakening]]. For information on how Commands are used, see [[Awakening#Awakening Commands]].
+
+## Known Commands
+{{columns|
+* Fetch keys.{{book ref|wb|prologue}}
+* Protect me.{{book ref|wb|prologue}}
+* Your breath to mine.{{book ref|wb|prologue}}
+* My life to yours. My Breath become yours.{{book ref|wb|prologue}}
+* Strangle things.{{book ref|wb|prologue}}
+* Lower me.{{book ref|wb|5}}
+* Strengthen me.{{book ref|wb|21}}
+* Upon call, become my fingers and grip.{{book ref|wb|21}}
+* Hold things.{{book ref|wb|21}}
+* Awaken to my Breath, serve my needs, live at my Command and my word. (Security phrase).{{book ref|wb|21}}
+* Untie.{{book ref|wb|35}}
+* Hold that branch.{{book ref|wb|46}}
+* Hold when thrown.{{book ref|wb|46}}
+* Grab (something).{{book ref|wb|46}}
+* Hold (something).{{book ref|wb|46}}
+* Move up.{{book ref|wb|46}}
+* Move down.{{book ref|wb|46}}
+* Twist around.{{book ref|wb|46}}
+* Upon call become my fingers and grip that which I must.{{book ref|wb|49}}
+* Become as my legs and give them strength.{{book ref|wb|49}}
+* Find tunnels.{{book ref|wb|49}}
+* Twist things.{{book ref|wb|49}}
+* Climb things, then grab things, then pull me up.{{book ref|wb|51}}
+* Grab things other than me.{{book ref|wb|51}}
+* Destroy evil.{{book ref|wb|51}}
+* Lift me.{{book ref|wb|55}}
+* Attack and grab (person).{{book ref|wb|56}}
+* Grab things.{{book ref|wb|56}}
+* Fight for me as if you were me.{{book ref|wb|56}}
+* Forget what I told you before. Instead, take care of *her*.{{book ref|sa3|epilogue}}
+}}
+
+## Notes
+<references />
+[[Category:Subpages]]
+[[category: Awakening]]

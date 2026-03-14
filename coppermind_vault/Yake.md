@@ -1,0 +1,40 @@
+---
+abilities: "{{tag+|windrunner"
+---
+
+{{book ref|sa4|12}}
+|groups={{tag|Knights Radiant}} <small>([[Order of Windrunners|Windrunner]])</small>, {{tag|Bridge Four}}, {{tag+|army|Sadeas}} <small>(formerly)</small>, {{tag+|army|Kholin}}
+|residence=Urithiru
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+**Yake** is a member of [[Bridge Four]] on [[Roshar]].
+
+==Appearance and Personality==
+Yake is described as stout with thick arms,{{book ref|sa2|44}}{{book ref|sa1|57}} and is presumably [[darkeyes|darkeyed]].{{book ref|sa2|44}}
+
+Yake is reliable, and is quick to follow orders.{{book ref|sa2|44}} He does not seem superstitious, as he dismisses [[Maps]]'s [[Death Rattle]] as "just dying delirium".{{book ref|sa1|57}} He initially seems introverted,{{book ref|sa1|27}} but later opens up and often teases his fellow bridgemen.{{book ref|sa2|44}}
+
+==Powers and Abilities==
+Yake is trained in the use of the spear,{{book ref|sa1|63}} and received some special training regarding [[Shardblade]]s.{{book ref|sa2|44}}
+
+He became a [[Knights Radiant|Radiant]] [[Windrunner]] [[squire]] to Kaladin, gaining the ability to breathe in [[Stormlight]] and heal wounds, along with limited [[Surgebinding]] abilities when Kaladin was nearby.{{book ref|sa3|55}} Yake presumably swears at least the [[Immortal Words|Second Ideal]] of the Windrunners at some point; by {{Rosharan date|1175}} all of the original Bridge Four members have reached that level or higher, except [[Rlain]] and [[Dabbid]].{{book ref|sa4|12}}
+
+==History==
+Yake was already in the [[Torol_Sadeas|Sadeas]] [[bridge crew]]s when [[Kaladin]] arrived to the [[Shattered Plains]] in {{Rosharan date|1173}}. The reason he was a bridgeman is unknown. He participated in the first bridge run actively led by Kaladin, and was among the last to arrive for duty, along with [[Dunny]] and [[Malop]].{{book ref|sa1|17}} After [[Gaz]] put Bridge Four on chasm duty, Yake took notice of the growing camaraderie among the group but was reluctant to join their conversations.{{book ref|sa1|27}} Weeks later, he was hit in the arm by an enemy arrow during a bridge run, leaving Bridge Four with only twenty-eight capable members.{{book ref|sa1|46}} 
+
+When [[Kaladin]] was training Bridge Four how to fight with the spear, Yake and [[Hobber]] struggled with their thrusts; Kaladin asked [[Moash]] to work with them.{{book ref|sa1|63}}
+
+Yake, Moash, and [[Teft]] were selected by Kaladin to train with [[Zahel]] and [[Ivis]], learning how to deal with [[Shardblade]]s and use [[stances]]. Zahel chided Yake for picking up one of his colored stones. Yake briefly wielded a Blade, and was awestruck by it. He also practiced dodging blows from a Blade. He found Ivis attractive even though she was [[lighteyes|lighteyed]], unlike Kaladin.{{book ref|sa2|44}}
+
+After becoming one of Kaladin's [[squire]]s, he greeted [[Rlain]] during a training session and suggested that he should educate the new recruits in how to hold a spear. He and [[Eth]] asked Rlain about the [[Fused]] attacking caravans, making the common error of lumping the [[listeners]] in with other [[singers]].{{book ref|sa3|55}}
+
+==Trivia==
+*Yake is a cameo for an unknown friend or family member of Brandon's.{{wob ref|3693}}
+
+## Notes
+<references /><!-- sa1: 17, 27, 46, 57, 63, sa2: 44, sa3: 55 -->
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 03:28, 26 September 2022 (UTC)}}
+{{Stormlight}}
+[[Category: Bridgemen]]

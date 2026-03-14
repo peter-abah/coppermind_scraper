@@ -1,0 +1,18 @@
+---
+occupation: "Footman"
+residence: "Elendel"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 2"
+---
+
+**Herve** is a footman for [[Waxillium Ladrian]] on [[Scadrial]].
+
+As an employee of [[House Ladrian]], he presumably lived in [[Elendel]]. He was part of the small group that traveled on the train to [[New Seran]]. Wax saw him struggling to load boxes prior to boarding at [[Steris]]'s request, which he later learned were filled with his house financial ledgers.{{book ref|mb6|5}} Herve was meant to share a room on the train with [[Wayne]], who rejected this as he knew that Herve snored. Wayne instead climbed out the window onto the roof of the train, alarming Herve.{{book ref|mb6|4}} 
+
+During the attack on the train by the [[Nightstreet Gang]], Herve was confused by Wax's instructions to hold on to something as their decoupled train car slowed, not realizing that it would soon be accelerating again through Wax's use of the [[Metallic Arts]].{{book ref|mb6|7}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:25, 15 April 2020 (UTC)}}
+{{Mistborn|Era 2}}

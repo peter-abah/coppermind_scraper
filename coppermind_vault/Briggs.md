@@ -1,0 +1,18 @@
+---
+profession: "Mayor"
+residence: "Newcago"
+earth: "Reckoners"
+introduced: "Firefight"
+---
+
+**Briggs** is the Mayor of [[Newcago]] in the wake of [[Steelheart]]'s defeat.
+
+## History
+She was in the upper class during Steelheart's reign, and managed to maneuver herself into leadership instead of exile.{{book ref|Firefight|5}}
+
+During [[Mitosis]]' attack, [[Tia]] arranges for [[Abraham]] to protect the mayor and put the new government on lockdown.{{book ref|Mitosis|2}}{{book ref|Mitosis|3}}
+
+## Notes
+<references />
+{{stub}}
+{{Reckoners}}

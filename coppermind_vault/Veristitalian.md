@@ -1,0 +1,37 @@
+{{group
+|type={{cat tag|Scholars}}
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+{{update|sa5}}
+{{quote
+|We search for answers in the past, reconstructing what truly happened.
+|[[Jasnah]] on being a Veristitalian{{book ref|sa1|45}}
+}}
+The **Veristitalians** are an order of scholars on [[Roshar]].
+
+==Mission==
+Veristitalians believe that most historians do not seek truth, instead attempting to present the most adulating picture of themselves and their own motives.{{book ref|sa1|45}} Conversely, Veristitalians seek to create unbiased, factual accounts of the past in order to understand the present and be prepared for the future.{{book ref|sa1|33}} The members choose research projects that they feel are misrepresented or misunderstood to study, and try to "reconstruct" the historical events to find the truth.{{book ref|sa1|45}} Their research methods would be considered unconventional by traditional historians, as Veristitalians believe that folk tales and superstitions can preserve bits and pieces of history.{{book ref|sa1|33}}
+
+==History==
+[[Jasnah Kholin]], a prominent Veristitalian, was performing research at the [[Palanaeum]] when she first met [[Shallan Davar]] in [[Kharbranth]].{{book ref|sa1|33}} The order itself was not a secret, and she talked about it freely with [[Dalinar]], [[Renarin]], and others.{{book ref|sa1|28}}{{book ref|sa1|52}}
+
+Jasnah stayed in contact with other Veristitalians via [[spanreed]]. They kept each other apprised of current events around Roshar, including the fallout from the [[Everstorm]]. They took particular interest in tracking the activities of notable individuals such as [[Herald]]s, [[Knights Radiant|Radiant]]s, and [[Siah Aimian]]s.{{book ref|sa3|53}} Sharing information helped them formulate theories about supernatural events past and present.{{book ref|sa4|99}}
+
+==Members==
+Jasnah, [[Ethid]], and [[Jochi]] are Veristitalians, and all three of them studied under an unnamed master. Jasnah believes that her colleagues are among the finest minds on Roshar.{{book ref|sa3|53}} She refers to the members of the group as her "sisters",{{book ref|sa1|45}} although at least one member (Jochi) is actually a man who uses a female pen name.{{book ref|sa3|53}} The total number of members is unknown.
+
+==Trivia==
+*Rosharans would not use the term "Veristitalian", instead using a term that comes from an ancient in-world language. It is translated into an invented English word to maintain the right feel for the reader, in this case drawing on the Latin root meaning "truth".{{wob ref|12348}}{{wob ref|11829}}
+*The notion of using history to affect present and future events comes from [[Brandon]]'s own personality.{{wob ref|12348}}
+
+## Notes
+<references><!-- chapters
+sa1: 28, 33, 45, 52
+sa3: 53
+sa4: 99
+-->
+</references>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 16:14, 15 July 2022 (UTC)}}
+{{Stormlight}}
+[[Category: Veristitalians| ]]

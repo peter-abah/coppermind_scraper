@@ -1,0 +1,13 @@
+{{disease
+|world=Nalthis
+|universe=[[Cosmere]]
+|books=[[Warbreaker]]
+}}
+**Deathfever** is a terminal illness on [[Nalthis]]. It manifests in a cough and causes--at least babies--to lose a great deal of weight.
+
+[[Halan]] has deathfever and is taken to [[Lightsong]] to petition for his [[divine Breath]].{{book ref|wb|12}} 
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:21, 3 September 2016 (MST)}}
+{{Warbreaker}}

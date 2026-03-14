@@ -1,0 +1,12 @@
+---
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+**Isan** is a member of the household staff of [[House Davar]].{{book ref|sa2|39}} [[Lin Davar]] beat Isan and Isan still walked with a limp afterwords.
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 20:06, 25 December 2016 (MST)}}
+{{Stormlight}}

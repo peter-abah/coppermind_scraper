@@ -1,0 +1,45 @@
+{{lifeform
+|image=Shallan's Sketchbook - Highspren.jpg
+|abilities=[[Nahel bond]], [[Skybreaker]] magic, {{tag+|Splinter}}s
+|type={{cat tag|Spren}} 
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]], [[The Sunlit Man]]
+}}
+{{update|sa4|sa5}}
+{{quote
+| Though we will evaluate you, remember that the final measure of your success or failure belongs to the highspren.
+| [[Ki]]{{book ref|sa3|90}}
+}}
+**Highspren** are a type of sapient [[spren]] capable of forming a [[Nahel bond]].{{book ref|sa2|59}} Bonding with one makes someone a Knight Radiant  of the [[Order of Skybreakers]].{{book ref|sa3|40}} Unlike the other kinds of sapient spren, highspren did not stop bonding with Skybreakers after the [[Recreance]].{{wob ref|9240}}
+
+## Appearance
+### Physical Realm
+In the [[Physical Realm]], they take the form of black slits in the air, which can pull open to reveal stars shining within.{{book ref|sa4|i|7}} When they move, reality seems to bend around them.{{book ref|sa3|98}} They are capable of appearing as they do in the Cognitive Realm; human-shaped voids through which stars can be seen.{{book ref|sa5|86}}
+
+### Cognitive Realm
+In the [[Cognitive Realm]], highspren appear as human-shaped voids through which stars can be seen.{{file ref|Shallan's Sketchbook - Highspren.jpg|text=Shallan's Sketchbook - Highspren}}{{book ref|sa5|147}} Their bodies in Shadesmar are still solid and can be touched as normal. While humans can only recognize them by silhouette, they appear capable of recognizing each other without difficulty. When they move, the starfields seen through their bodies do not appear to move with them.{{book ref|sa5|86}}
+
+## Abilities
+In the Physical Realm, they are capable of choosing who can hear and see them, and can even hide from their bonded Surgebinder.{{book ref|sa3|98}}{{book ref|sa3|121}}{{book ref|sa4|i|7}}
+
+### Nahel bond
+Highspren are one of the types of spren capable of forming a [[Nahel bond]], making a person a [[Surgebinder]] with the powers of [[Gravitation]] and [[Division]].{{file ref|TWoK Front Endsheet.jpg|Surgebinding Table}} However, unlike other Radiant spren, highspren do not form a Bond until the prospective Skybreaker swears at least the [[Immortal Words|Second Ideal]].{{book ref|sa3|90}} Highspren swear Oaths of their own.{{book ref|tsm|45}}{{book ref|sa5|86}} They do not "die" if their Radiant renounces their oaths, as they do not typically allow their bond to become strong enough to hurt them, leaving them safe from becoming a deadeye even at the Fifth Ideal.{{book ref|sa5|95}}{{book ref|sa5|135}}
+
+Highspren seem to have some kind of empathic connection to their Surgebinders that other spren lack, as they can let the Radiant know their feelings without speaking, even when not in [[Shardblade]] form.{{book ref|sa3|121}} With a powerful enough bond, highspren and their Surgebinder are able to sense each others emotions, as well as communicate with their minds.{{book ref|tsm|30}}{{book ref|sa5|40}}
+
+## Culture
+Highspren espouse order and law, focusing on obedience and following legal codes.{{book ref|sa2|59}} They are infamous among the other spren for being strict and inflexible, with [[honorspren]] in particular disliking them.{{book ref|sa3|108}} They seem to be fairly isolationist, with none to be seen in [[Celebrant]].{{book ref|sa3|102}} It's possible highspren have their own settlements, as [[Jasnah]] appears to have visited them to gain information about past [[Desolation]]s.{{book ref|sa2|epilogue}} Many of their names are numbers, which have no correlation to how many highspren there have been.{{book ref|sa5|86}} They are reluctant to share their names with non-highspren.{{rpg ref|slhb|167}}
+
+They seem to highly respect [[Nale]], the Skybreaker [[Herald]], and will only bond the people he presents them with.{{book ref|sa3|47}} Several of them accompany the Skybreaker training excursions to observe and assess the hopefuls, with each highspren waiting for one who would impress them, though it's possible that the ultimate decision of whether or not to bond a person is formed by the entire group.{{book ref|sa3|90}}{{book ref|sa3|92}} Once the bond is formed, they seem to have a largely commanding role in it, as it is up to them whether or not a Skybreaker is considered to have successfully accomplished the [[Order_of_Skybreakers#The_Fourth_Ideal|Ideal of Crusade]].{{book ref|sa3|90}} Highspren are much more distant towards their bonded Knights compared to most Nahel spren.{{wob ref|16373}} Like the Skybreakers, the highspren came to side with the Fused during the True Desolation, believing [[singer]]s to be the rightful heirs of Roshar.{{rpg ref|slwg|172}}
+
+## Notable Highspren
+* [[Winnow (Roshar)|Winnow]] (bonded to [[Ki]])
+* [[Auxillary|Auxiliary]] (bonded to [[Szeth]] and later [[Sigzil]])
+* [[121]] (bonded to [[Nale]])
+
+## Notes
+<references />
+{{partial}}
+{{Stormlight}}
+[[es: Altospren]]

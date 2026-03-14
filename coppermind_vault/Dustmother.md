@@ -1,0 +1,2 @@
+#redirect[[Chemoarish]]
+[[category: aliases]]

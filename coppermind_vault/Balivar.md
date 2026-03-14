@@ -1,0 +1,16 @@
+---
+titles: "Battalionlord"
+#profession: "soldier"
+nation: "Alethkar"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Wind and Truth"
+---
+
+{{update|sa5}}
+**Balivar** is an [[Alethi]] battalionlord on [[Roshar]].{{book ref|sa5|47}}
+
+## Notes
+<references />
+{{stub}}
+{{stormlight}}

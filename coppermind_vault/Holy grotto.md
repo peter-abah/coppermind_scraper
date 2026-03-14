@@ -1,0 +1,15 @@
+---
+region: "Purelake"
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+**Holy grottos** are places in the [[Purelake]] on [[Roshar]] during the [[Era of Solitude]].{{book ref|sa1|i|1}}
+
+Holy grottos were significant places in the Purelaker religion that worshiped [[Nu Ralik]].{{book ref|sa1|i|1}} They were the only places where Purelakers dared to speak of their true faith to Nu Ralik rather than their pretended faith to [[Vun Makak]], Nu Ralik's jealous younger brother. It is unknown where these holy grottos are located and what makes them believed to be safe from Vun Makak's observation.
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 17:43, 24 December 2016 (MST)}}
+{{Stormlight}}

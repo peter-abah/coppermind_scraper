@@ -1,0 +1,36 @@
+---
+image: "Toh by Dragontrill.png"
+siblings: "Evi Kholin"
+relatives: "Adolin, Renarin"
+nation: "Rira"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Oathbringer"
+---
+
+{{quote
+| The Heralds themselves favor you.
+| Toh to Gavilar{{book ref|sa3|19}}
+}}
+**Toh** is a [[Rira (country)|Riran]] man on [[Roshar]] and [[Evi Kholin]]'s brother. He is [[Dalinar]]'s brother-in-law and [[Adolin]] and [[Renarin]]'s uncle.{{book ref|sa3|19}}
+
+## Appearance and Personality
+Toh is a tall [[lighteyes|lighteyed]] man with golden hair. Like most [[Rira (country)|Rirans]], his skin is lighter than a typical [[Alethi]]'s.{{book ref|sa3|19}}{{book ref|sa3|49}} He speaks Alethi with a thick accent, lengthening his "ah" and "oh" sounds,{{book ref|sa3|19}} although his accent is not as thick as [[Evi]]'s.{{book ref|sa3|26}}  He is described as slender or even spindly, and walks with a delicate gait.{{book ref|sa3|19}}{{book ref|sa3|49}} He would never be mistaken for a soldier, even in military-style clothing.{{book ref|sa3|49}}
+
+Toh is careful and overly cautious, with a certain sense of delicacy about him. He tends to act in a rather innocent and naive way, such as mistaking the aftermath of a brawl for a party, and he speaks a lot when nervous.{{book ref|sa3|19}}{{book ref|sa3|49}} [[Dalinar Kholin]] thinks he is a sycophant when they first meet, although [[Gavilar Kholin]] and [[Ialai Sadeas]] believe him to be genuine, but desperate.{{book ref|sa3|19}} 
+
+{{image|Toh and Evi by Dragontrill.jpg|side=left|width=250px|Toh with his sister [[Evi]]}}
+
+He has some knowledge of military strategy in western [[Roshar]], but is less informed regarding war in and around Alethkar. He displays curiosity about the ways in which they wage war, being particularly impressed with the use of [[Soulcaster]]s. He seems to adore Alethi history, most of all the achievements of the [[Sunmaker]].{{book ref|sa3|19}} He does not display the same aversion to war as his sister, although it's uncertain how much of his behavior is genuine, and how much is his wariness of Dalinar and the need to get into Gavilar's good graces.
+
+## History
+Toh grew up in [[Rira (country)|Rira]] with his sister, [[Evi]]. They presumably had a high level of status in their country, as Evi was gifted a set of [[Shardplate]] at some point in her youth.{{book ref|sa3|19}} When the two were in their late teens, they fled their home with Evi's Shardplate for unknown reasons, to the ire of their relatives.{{book ref|sa3|19}} Evi noted that they were "exiles" from Rira, even years later.{{book ref|sa3|66}} They sought out the [[Alethi]] and tried to use the Plate as a bargaining chip to gain political asylum, with Toh negotiating with [[Gavilar Kholin]] for the two of them. Toh initially seemed to have some reservations about the ability of the Alethi to offer protection, but his doubts were removed after he met [[Dalinar Kholin]] during his "Blackthorn" years.{{book ref|sa3|19}} [[Ialai Sadeas]] suggested that marrying Dalinar and Evi would be the best way to solidify the agreement.{{book ref|sa3|19}}
+
+Assisted by Riran customs, Toh dragged out the betrothal, using the extra time to try and add more favorable clauses into the marriage contract.{{book ref|sa3|26}} Toh wanted to become part of House Kholin's royal line, in addition to receiving protection from retribution by Rira.{{book ref|sa3|19}} After Dalinar won [[Kalanor]]'s [[Shardblade|Blade]] and Plate, Gavilar believed that [[House Kholin]]'s increased strength would not allow Toh to delay the marriage any longer.{{book ref|sa3|19}} Dalinar finally married Evi in exchange for the Plate, and both she and Toh gained significant status.{{book ref|sa3|26}} The Plate was later given to Evi's son, [[Adolin Kholin]].{{book ref|sa3|16}} [[Iri]], which was involved in a dispute over the possession of Rira, later made a claim to the Plate, although they would never have attempted war with Alethkar. Iri's royal line did not have any blood relation to Toh and Evi, further weakening their claim.{{book ref|sa3|16}}
+
+For some time, Toh lived in [[Kholinar]] along with his sister. He seemed to integrate into Alethi society; he wore local fashion and was known to some of Dalinar's generals such as [[Havar]]. He displayed some disdain for Dalinar's habitual visits to [[firemoss]] dens.{{book ref|sa3|49}} Toh was present when Evi gave birth to Adolin, and brought the good news to Dalinar.{{book ref|sa3|49}} Several years later, he moved to the coast of [[Herdaz]], where he lived for at least another decade under the protection of Alethi bodyguards.{{book ref|sa3|66}} He is nowhere to be seen during the [[War of Reckoning]], making his current fate uncertain. 
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:12, 10 December 2019 (UTC)}}
+{{Stormlight}}

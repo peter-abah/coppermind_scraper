@@ -1,0 +1,12 @@
+{{settlement
+|region=Elendel Basin
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+**Vindiel-Cameux** is a city in the [[Elendel Basin]].{{map ref|Elendel Basin}} It is southeast of [[Elendel]], and appears to possibly be named after [[Vin]]. However, it is not clear what Cameux is referring to.
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:05, 17 September 2018 (MST)}}
+{{Mistborn|Era 2}}

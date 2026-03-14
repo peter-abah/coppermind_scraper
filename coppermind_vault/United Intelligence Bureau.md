@@ -1,0 +1,12 @@
+{{group
+|universe=[[Cytoverse]]
+|books=[[Defending Elysium]]
+}}
+The **United Intelligence Bureau** or **UIB** is a pan-solar spy organisation.{{book ref|Elysium}}
+
+One of their Operatives, [[Coln Abrams]], investigates the [[Phone Company]].
+
+## Notes
+<references />
+{{stub}}
+{{skyward|de}}

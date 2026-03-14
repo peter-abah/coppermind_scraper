@@ -1,0 +1,2 @@
+#REDIRECT [[Battar]]
+[[category: aliases]]

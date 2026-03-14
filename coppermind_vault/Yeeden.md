@@ -1,0 +1,22 @@
+---
+titles: "Lestrell"
+groups: "{{tag|Diem"
+---
+
+|abilities={{tag+|sandmaster}}
+|'residence=[[Kezare]]
+|ethnicity=Daysider
+|nation=Lossand
+|world=Taldain
+|universe=[[Cosmere]]
+|introduced=[[White Sand]]
+}}
+[[Diem#Organization|Lestrell]] **Yeeden** is a [[Sand mastery|sand master]] on [[Taldain]]. She is able to control nine ribbons. She was picking on [[Kenton]] until reprimanded by [[Drile]].{{book ref|ws|prologue|review=yes}} She likely died in the [[Kerzta|Kertzian]] attack on the Diem.{{book ref|ws|3|review=yes}}
+
+## Notes
+<references />
+{{complete}}
+{{White Sand}}
+{{cosmere}}
+[[Category: Taldaini]]
+[[Category: Residents of Kezare]]

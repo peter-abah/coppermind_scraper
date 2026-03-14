@@ -1,0 +1,248 @@
+---
+image: "Kalak Endsheet.png"
+abilities: "{{tag+|Cognitive Shadow"
+---
+
+, {{tag+|Shardbearer}}
+|titles={{tag+|herald}}, Patron of the [[Willshapers]]{{nosnippet|, the High Judge,{{book ref|sa4|78}} the Holy One{{book ref|sa4|94}}}}
+|residence=Lasting Integrity
+|aliases=Kelek, Kellai, {{nosnippet|[[Restares]],{{book ref|sa4|78}}}} Kelek'Elin{{book ref|sa4|78}}
+|groups={{nosnippet|{{tag|Sons of Honor}}}}
+|world=Ashyn
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+{{objective|claim=kingofredpandalions|date=2024-12}}
+{{for|Glyphs/Index#Kalak|the glyph named after Kalak}}
+{{quote
+|I am a blur. A smear on the page. A gaunt stretch of ink, made all the more insubstantial with each passing day.
+|Kalak{{epigraph ref|sa4|83}}
+}}
+
+**Kalak**, also known as **Kelek'Elin** in [[Vorinism]], is one of the ten [[Herald]]s of the [[Almighty]] on [[Roshar]], and the patron of the [[Order of Willshapers]]. Like all Heralds but [[Taln]], he abandoned the [[Oathpact]] at [[Aharietiam]].{{book ref|sa1|part=prelude}} {{nosnippet|In the past, he lived in the [[honorspren]] city of [[Lasting Integrity]], acting as their High Judge.{{book ref|sa4|78}} He also led the [[Sons of Honor]] under the name **Restares**.{{book ref|sa4|82}} }}
+
+## Appearance and Personality
+{{image|Kalak by Esther Schrader.jpg|side=right|width=300px}}
+{{for|/Gallery|more images}}
+{{quote
+|It's so hard to decide. To do anything really…
+|Kelek{{book ref|sa4|93}}
+}}
+
+### Appearance
+Though not from [[Alethkar]], Kalak appears Alethi. He's a short man, with thinning, wispy hair, a round face, and a small nose.{{book ref|sa4|78}}{{book ref|sa4|prologue}} When he wishes to appear serious, he puts on a set of violet robes; ordinarily, however, he dresses more casually.{{book ref|sa4|90}} [[Vorin]] artwork tends to present him as a young man, though in person, he looks more like an Alethi city administrator.{{book ref|sa4|82}}{{file ref|Kalak.jpg|Kalak's chapter capstone}}
+
+### Personality
+
+Back in the early [[Desolation]]s, he was known for being decisive and authoritative, and he would often be approached whenever problems appeared for counsel.{{epigraph ref|sa4|75}} However, as Desolations wore him down, he became terrified of dying and returning to [[Braize]] to be tortured. By [[Aharietiam]], he has vivid, painful memories of the torture that sometimes cause him to briefly lose his grip on reality. When given the choice to abandon the [[Oathpact]], he's aware of and terrified of the consequences. However, by this point his fear of torture far outweighs his sense of duty.{{book ref|sa1|prelude}}
+
+By the [[True Desolation]], this develops into paranoid and erratic behavior. Kalak vacillates often, and finds making even the simplest decisions difficult.{{book ref|sa4|93}} He often follows what the crowd wants instead of his own internal moral compass.
+{{quote
+|I've failed everyone. I'm worthless
+
+Everything I've done...Everything I've tried...It's led to only more destruction and doom
+|Kalak{{book ref|sa5|part=postlude}}
+}} He seems to have trouble focusing, or at least paying attention to time, even when others are waiting for him.{{book ref|sa4|87}} He believes humans are dangerous; he's unsettled by their presence, with [[Bondsmith]]s, and people associated with them, seeming to provoke the strongest reaction. A visit into a human city makes him jittery to the point where he runs away at the sight of another person. It's likely that he prefers to live in [[Lasting Integrity]] for this reason.{{book ref|sa2|prologue}}{{book ref|sa4|82}} Even there, however, unexpected commotion can quickly make him panic. In this state, he is near-insensate, crying, covering his ears and curling on the floor. He recovers extremely quickly, though, and with no outward sign that he's been disturbed.{{book ref|sa4|87}}
+
+{{sidequote
+|They deserve better than you, son. They deserve better than me. I could never judge them for refusing to bond men. How could I?
+|Kalak{{book ref|sa4|87}}
+|side=left|size=250px
+}}
+
+Kalak is keenly aware of the fact that he and his fellow [[Herald]]s are mentally unwell, and does not hide this.{{book ref|sa4|93}}{{book ref|sa2|prologue}} He is extremely pessimistic, believing that the cause of [[Roshar]] is already lost, and feels immense guilt for causing [[spren]] to bond with humans, leading them to what he believes to be their doom.{{book ref|sa4|93}} The one thing he is still driven and decisive about is his utter obsession with leaving the [[Rosharan system]] altogether, and though he cannot break free yet, he's done extensive research on other worlds.{{book ref|sa4|115}} To facilitate leaving, he aligns himself with the king of Alethkar, [[Gavilar Kholin]], assisting his research.{{book ref|sa4|prologue}} After Gavilar's [[Assassination of Gavilar|assassination]], he continues the project of his own, hoping to unmoor himself and leave the entire cycle of Desolations behind.{{book ref|sa4|93}}
+
+Kalak can be snarky, and will dryly mock people he considers stupid.{{book ref|sa4|87}}{{epigraph ref|sa4|91}} He can still exercise some measure of authority, and can make snap decisions when truly needed.{{book ref|sa4|90}} When faced with the possibility of his own death, he's calm and composed.{{book ref|sa4|93}} For all that he fears humans, he sympathizes with them, and is at the very least willing to hear them out and give them some chance, even if he doesn't believe that they can succeed. He is willing to offer information to those who ask.{{book ref|sa4|87}}{{book ref|sa4|115}}
+
+## Attributes and Abilities
+{{image|Herald Glyph Kalak.svg|Kalak's [[glyph]]|side=right|width=150px}}
+
+### Herald
+{{for|Herald#Abilities|general information about Heraldic powers}}
+{{quote
+|He is not the type to fight unless cornered, but once pushed, there are few beings as dangerous on this planet.
+|[[Mraize]]{{book ref|sa4|78}}
+}}
+
+Kalak is a [[Cognitive Shadow]] which can persist after death and take on a human body, which is grown for him through unknown means, fully adult, every time he is reborn.{{wob ref|12029}}{{wob ref|10880}} While on Roshar, he doesn't age, and can only die by violent means;{{book ref|sa3|119}} and after death, he travels to [[Braize]], where he is caught by the [[Fused]] and tortured until he or another [[Herald]] breaks. When this happens, they are all returned to [[Roshar]] and a new [[Desolation]] begins.{{book ref|sa3|38}} 
+
+Prior to the [[Last Desolation]], Kalak wielded an [[Honorblade]], making him a [[Surgebinder]]. The Blade granted him control over the [[Surge]]s of [[Transportation]], allowing him to travel to and from [[Shadesmar]], and [[Cohesion]], which lets him shape inanimate matter, particularly stone, making it softer and more malleable. Additionally, Kalak could use [[Stormlight]] to heal himself.{{file ref|TWoK Front Endsheet.jpg|text=Surgebinding chart}} [[Mraize]] considers him a highly dangerous fighter, especially when cornered.{{book ref|sa4|78}} Kalak himself is not nearly so confident, and thinks that his inability to decide would make him easy prey, should anyone choose to attack him.{{book ref|sa4|78}}
+
+### Scholar
+{{quote
+|Old Thaidakar has always wanted my secrets.
+|Kalak{{book ref|sa4|93}}
+}}
+
+Kalak is [[cosmere]]-aware. He's researched other worlds to the point where he can draw a star map of them, knows about the existence of [[Ghostbloods]], and seems aware of [[Thaidakar]]'s condition.{{book ref|sa4|115}}{{book ref|sa4|93}} After [[Gavilar Kholin]]'s death -- and thus, the end of the king's experiments with transporting spheres -- he apparently continued to search for a way to leave the [[Rosharan system|system]]. He seems to have made significant progress during that time, as a year into the [[True Desolation]], he believes that he is on the cusp of success.{{book ref|sa4|93}} The Ghostbloods seem to agree, as they wish to steal him away for Thaidakar to learn about his state as a Cognitive Shadow.{{book ref|sa4|82}}
+
+Kalak has some engineering knowledge, as he assists [[Shallan Davar]] and [[Adolin Kholin]] in opening the box containing the [[seon]] [[Ala]] without killing her.{{book ref|sa4|115}} He's additionally familiar with metalworking and smithing, as at the start of each Desolation, it was his duty to re-teach mankind how to cast bronze for weapons.{{book ref|sa2|i|7}} He knows more than [[Shalash]] about how the [[Oathpact]], and by extension Cognitive Shadows, function, as he is able to diagnose what went wrong in the [[Voidbringers]]' attempt to capture [[Jezrien]].{{epigraph ref|sa4|91}}{{epigraph ref|sa4|92}}
+
+### Other
+He used to be known for his decision-making skills; even today, the [[honorspren]] place him in position of their High Judge, likely because of this past association.{{epigraph ref|sa4|75}}{{book ref|sa4|78}} However, though the honorspren obey his verdict, he does not have much actual power over their leadership. Using his mental instability as an excuse, the honorspren can imprison him in his quarters with no apparent consequences, and Kalak either cannot or does not wish to resist them.{{book ref|sa4|93}}
+
+Kalak is also Restares, the leader of the [[Sons of Honor]].{{book ref|sa4|82}} As such, has the capacity to set up and organize a large group of people; it's unclear how he communicates with them between Shadesmar and [[Physical Realm]]. However, with the Sons of Honor crumbling after the Everstorm began, and the last known group answering to [[Ialai Sadeas]], it's likely his influence with them, and the influence they wield, has waned.{{book ref|sa4|4}} Notably, he seems quite capable of keeping his involvement hidden, as Gavilar does not seem to realize that the two are one and the same.{{book ref|sa4|prologue}}{{book ref|sa1|prologue}}
+
+## History
+{{image|Ending the Oathpact by Katie Payne.jpg|side=left|width=350px|The [[Herald]]s abandoning the Oathpact as [[Jezrien]] waits for Kalak}}
+### Herald of the Almighty
+{{quote
+|Jezrien, I can't return this time. I **can’t**.
+|Kalak{{book ref|sa1|part=prelude}}
+}}
+
+Kalak was born on [[Ashyn]], and made the journey to [[Roshar]] when his home planet was destroyed by the overuse of [[Surge]]s.{{wob ref|11945}}{{book ref|sa3|111}} When a war between humans and the native [[singer]]s started due to human expansionism and the [[Fused]] began to appear, he, along with nine others, were made a [[Herald]] by [[Honor]].{{book ref|sa3|48}} He volunteered; it's unknown how many of the others did the same.{{book ref|sa1|part=prelude}} During the [[Desolation]]s, his particular speciality was teaching people craftsmanship, mainly smithing bronze.{{book ref|sa2|i|7}} 
+
+At [[Aharietiam]], Kalak was late to the appointed meeting place for all the surviving Heralds. There, he found only [[Jezrien]], awaiting him, uncertain whether or not Kalak had perished. When Kalak confessed to his fear of returning to [[Braize]], as was the Heralds' duty in-between the Desolations, Jezrien told him about [[Ishar]]'s plan to abandon [[Taln]] to the [[Oathpact]]. Though initially apprehensive, Kalak agreed readily enough, out of fear of the tortures. He and Jezrien left their [[Honorblade]]s along with the others, and departed in opposite directions.{{book ref|sa1|part=prelude}}
+
+### The Recreance and the Era of Solitude
+{{quote
+|We weren't supposed to get worse. Am I getting worse? I think I feel worse.
+|Kalak{{book ref|sa2|prologue}}
+}}
+
+{{image|Kalak Prelude.jpg|side=right|height=250px|Abandoning his [[Honorblade]]}}
+
+It's unknown how Kalak spent most of the four and a half thousand years between the [[Last Desolation]] and the [[True Desolation]]. He appears to have been at least distantly involved with the [[Knights Radiant]]. Shortly before the [[Recreance]], he and [[Nale]] were both present for [[Ba-Ado-Mishram]]'s imprisonment, and he knew the truth of what caused the Recreance.{{book ref|sa4|24}}{{epigraph ref|sa4|94}}{{book ref|sa5|85}} At some point afterwards, he grew to regret what happened with the [[Unmade]], but he either didn't seek out her [[gemstone]] to release her or did not succeed in finding it.{{epigraph ref|sa4|97}}
+
+Many centuries later, Kalak apparently became somehow involved with the [[Sons of Honor]]; it's unknown if he founded them or if he took them over. Under the name Restares, he became the leader of the group, gaining the attention of the [[Ghostbloods]].{{book ref|sa4|78}} Through the Sons of Honor, Kalak met [[Gavilar Kholin]] and encouraged, along with Nale, the king's work on transporting spheres across long distances, hoping to find a way out of [[Rosharan system]]. The two of them were both present at the night of [[assassination of Gavilar|Gavilar's assassination]], and met with the king to see the results of his work, with Kalak complaining about the slow pace of progress.{{book ref|sa4|prologue}}{{book ref|sa4|77}} While walking down a palace corridor, Kalak expressed his fear for [[Shalash]]'s sanity, as well as the sanity of the remaining Heralds, himself included. Nale rebuked him, but before the two could discuss it, they bumped into [[Jasnah Kholin]], and Kalak fled from her.{{book ref|sa2|prologue}}
+
+After [[Kaladin]] saved [[Meridas Amaram]] from an attack by [[Helaran Davar]] on a battlefield in [[Alethkar]] five years after Gavilar's assassination, Kalak, who was still using the name Restares, persuaded Amaram to take Helaran's Shards for himself and brand Kaladin a slave.{{book ref|sa1|51}}
+
+At some point after the assassination, Kalak moved to [[Lasting Integrity]] and either assumed or resumed the duties of their High Judge.{{book ref|sa4|78}}
+
+{{image|Kalak by Shuravf.jpg|side=left|width=250px}}
+
+### The Trial of Adolin Kholin
+==== The Diplomatic Mission ====
+{{quote
+|Boy, you're doomed. You realize that, right? Tanavast is **dead**. Like, completely dead. The Oathpact is broken somehow. The only thing left is to try to get off the ship before it sinks.
+|Kalak to [[Adolin]]{{book ref|sa4|82}}
+}}
+
+Following the death of [[Ialai Sadeas]], [[Mraize]] gave [[Shallan Davar]] the mission to track down Restares, pointing her towards the city of [[Lasting Integrity]].{{book ref|sa4|13}} Shortly after, a diplomatic mission to that very city was proposed, and Shallan volunteered to go, with her husband [[Adolin Kholin]] joining as the expedition's leader.{{book ref|sa4|19}} Meanwhile, Kalak left the city for a longer patrol. Prior to his departure, he ordered the [[honorspren]] not to tell anyone about his identity or nature; as such, they maintained that the High Judge was merely a rare type of [[spren]].{{book ref|sa4|78}}
+
+When Kalak returned, Adolin approached him, asking for a trial by witness, and for Kalak to preside over it. Though initially spooked by the presence of a human, and son of a [[Bondsmith]] to boot, Kalak eventually agreed. [[Sekeir]] attempted to convince him not to give Adolin the time of day, but Kalak rebuked him, annoyed that despite having spent years in Lasting Integrity, the honorspren did not help Kalak get off-world. However, the Herald refused to keep the trial private, and openly admitted to Adolin that he did not believe the other man stood any chance of winning. He also suggested that Adolin should rather focus on leaving Roshar altogether, as winning against [[Odium]] was, in Kalak's opinion, impossible.{{book ref|sa4|82}}
+
+At the same time, Mraize convinced Shallan to capture Kalak in a gemstone as a way to help Adolin succeed in the trial.{{book ref|sa4|82}} Kalak, aware that someone would be sent to kill him, though unaware of who precisely, composed a message to his killer in the journal, mocking them for thinking they could capture a Herald and begging that they release the Unmade Ba-Ado-Mishram.{{epigraph ref|sa4|91}}{{epigraph ref|sa4|97}}
+
+==== The Trial ====
+{{quote
+|So we're arguing over even the definitions? This doesn’t bode well.
+|Kalak{{book ref|sa4|87}}
+}}
+
+On the first day of the trial, Kelek was impatient to begin, fully ready to convict Adolin and have him sent to execution; the news that the honorspren wouldn't actually execute Adolin came as a surprise to him. After hurrying Sekeir along to begin as soon as possible, and making sure he understood the terms of the trial correctly, Kelek began to listen to the witness testimonies.{{book ref|sa4|87}}
+
+After [[Amuna]]'s testimony, Kalak admitted that the [[Stormfather]] choosing to bond again was in Adolin's favour. After a longer break, however, when he made everyone wait as he ate a fruit and made notes, he was forced by Sekeir to admit that the Stormfather's recent erratic behavior made the great spren's opinion untrustworthy. Next came [[Blended]]'s testimony; following it, Kalak pointed out to Adolin that an [[inkspren]] electing to side with honorspren on any matter was not a good look for humans. Finally, [[Notum]] was brought out to read a pre-made testimony. However, he broke away from it to protest and side with Adolin. This caused a good amount of agitation among the honorspren, which in turn made Kalak panic. He curled up and covered his ears, trembling.{{book ref|sa4|87}}
+
+After Notum was led out, Kelek quickly returned to a state of calm, and explained to Adolin that he's stepped into an old argument between spren. When Adolin pointed out that the first day of the trial went well for him, Kalak was unconvinced. He explained to Adolin that he did not believe men truly changed, and further elaborated that some spren believe they should side with Odium, and that Adolin's arrival could tip the scales in favour of that.{{book ref|sa4|87}}
+
+{{sidequote
+|You were warned about this trial multiple times, human. They have made their choice.
+|Kalak{{book ref|sa4|90}}
+|side=right|size=400px
+}}
+
+On the second day, Kelek arrived after Adolin, having changed into a more formal set of robes. He was similarly wishing to hurry things up, but seemed to be taking his responsibility more seriously, threatening to have one honorspren removed for breaking the rules and guiding the trial along. As another spren grew far too agitated, Kalak had him dragged out of the forum. However, the trial still ended with a loss to Adolin as [[Testament]] was brought up to prove the modern Radiants would still kill their spren.{{book ref|sa4|90}}
+
+==== Assassination Attempt ====
+It was this day that convinced Shallan to go ahead with her plan of killing Kalak.{{book ref|sa4|90}} Becoming Formless, she snuck into Kalak's house, fully intending on capturing his soul and throwing her lot with the Ghostbloods. However, her Veil and Radiant alters managed to convince her that she was strong enough to be Shallan, and so she changed her decision.{{book ref|sa4|93}}
+
+At that moment, Kalak, possibly having heard Shallan talk to herself, entered the room, and asked if Shallan was here to kill him. He revealed that he always knew [[Thaidakar]] wanted him captured, and explained the conflict between the different generations of honorspren: the elders who wanted to keep themselves isolated, and the younger ones who wanted to keep fighting. When Shallan offered to exchange information about Ghostbloods for helping Adolin win the trial, however, Kalak was still undecided.{{book ref|sa4|93}}
+
+Before he could consider it further, [[Lusintia]], Sekeir and other honorpren burst in, accusing Shallan of attempting to influence the trial. Surprisingly, Kalak sided with the [[Order of Lightweavers|Lightweaver]], saying that she was here to bring him news of the [[Physical Realm]]; a half-truth skipping over the assassination attempt. In response, Sekeir declared that Kalak had a bout of mental instability and ordered him and Shallan locked away.{{book ref|sa4|93}} As such, Kalak was absent from the final day of the trial.{{book ref|sa4|94}}
+
+==== The Aftermath ====
+Adolin ultimately won the trial, thanks to [[Mayalaran]] managing to speak in his defense.{{book ref|sa4|94}} In the aftermath, Kalak decided to assist him and Shallan. He aided them in opening the box holding [[Ala]] without killing the seon inside, and shared more information about the Recreance, revealing that prior to Ba-Ado-Mishram's capture, spren did not become [[deadeye]]s. He also told Shallan about other planets and what he managed to learn about them.{{book ref|sa4|115}}
+
+### The Contest of Champions
+==== Capture by Ghostbloods ====
+{{quote
+|I need to hide somewhere else. Yes. I will gather my things and ... and I will go.
+|Kalak{{book ref|sa5|i|1}}
+}}
+
+After the departure of the Kholin delegation, Kalak decided to flee Lasting Integrity to avoid any further Ghostblood interference. Before he was able to escape, he was confronted by [[Felt]] and Ala who were both secretly working for the Ghostbloods. They were instructed to watch over Kalak while the Contest of Champions played out on Roshar.{{book ref|sa5|i|1}}
+
+==== Reforging of the Oathpact ====
+
+{{quote
+|One more try. A final Return.
+|Kalak{{book ref|sa5|part=postlude}}
+}}
+
+Kalak is present for the reforging of the Oathpact although Kaladin notes he appears less physical than the other Heralds.{{book ref|sa5|144}} Upon waking up after the reforging, he notes the presence of [[121|Nale’s Spren]] and [[Syl]]. Kalak believes that he has failed the original Oathpact, but is encouraged by the new Herald of Second Chances to aid Roshar one last time. Kalak notices Taln and feels shame about his actions but develops a feeling of warmth on learning he has been forgiven by Taln.{{book ref|sa5|part=postlude}}
+
+
+{{image|Kalak by Caio Santos.jpg|side=right|width=200px}}
+## Relationships
+### Honorspren
+{{quote
+|Hold on; I don't care what you think.
+|Kalak to [[Sekeir]]{{book ref|sa4|82}}
+}}
+
+Though Kalak chose to live in the [[honorspren]] [[Lasting Integrity|capital]], their relationship is not friendly. The honorspren respect him and his judgements, calling him the High Judge and addressing him as the Holy One.{{book ref|sa4|78}}{{book ref|sa3|87}} However, they are also aware that he is not entirely there, mentally, and are willing to have him arrested against his will if he does not fall in line with what they -- and particularly [[Sekeir]] -- want.{{book ref|sa4|97}} They respect his judgements, but at the same time, they know that with how indecisive he is, the public opinion is what truly shapes the outcome. It's unclear if they'd still follow his decisions if he were to make a choice they did not agree with.{{book ref|sa4|82}}
+
+In turn, Kalak seems incredibly dismissive of his duty as the High Judge. He initially arrived at Lasting Integrity hoping that the honorspren would assist him with getting off-world, and their failure to do so frustrates him.{{book ref|sa4|82}} He does, however, have a clear understanding of their internal conflicts and politics, enough so to realize what [[Adolin]]'s trial is truly about.{{book ref|sa4|87}}
+
+### Other Heralds
+{{quote
+|The best of us inevitably cracked.
+|Kalak{{book ref|sa4|87}}
+}}
+
+Kalak, like many other [[Herald]]s, has a deep respect for [[Jezrien]], treating him as the unquestionable leader even when he knows Jezrien is just as tired of the war as the others are. The idea that Jezrien himself might be breaking terrifies him.{{book ref|sa1|part=prelude}} Unlike [[Nale]],{{book ref|sa2|i|9}} Kalak keeps that respect even thousands of years later, after Jezrien has been reduced to a homeless drunk. He is incensed at [[Szeth]] using Jezrien's [[Honorblade]], and quickly investigates what happened to Jezrien after his passing.{{book ref|sa2|part=prelude}}{{epigraph ref|sa4|79}}
+
+Though the group decided to never meet again, Kalak and Nale seem to spend time together prior to the [[True Desolation]].{{book ref|sa5|93}} Both were present for [[Ba-Ado-Mishram]]'s capture, and centuries later, both were speaking to [[Gavilar]] together about his research.{{book ref|sa5|85}} They were in the [[Kholinar Palace]] on the night of the [[assassination of Gavilar]], though they don't seem to have witnessed the event itself.{{book ref|sa4|24}}{{book ref|sa4|prologue}} In the present times, Kalak seems rather scared of going along with Nale, while Nale bullies him and dismisses his concerns.{{book ref|sa2|prologue}}{{book ref|sa4|prologue}}
+
+He considers [[Taln]] to be the best of them all. At [[Aharietiam]], he was ashamed to leave him behind. During the [[True Desolation]], he bemoans the fact that even someone like this could break.{{book ref|sa4|97}} At some point prior to the founding of the Oathpact, Kalak gave Taln a weapon that was lost.{{book ref|sa5|65}}
+
+Ishar respects Kalak for his ability to make tough decisions and his sense of reason.{{book ref|sa5|55}}
+
+Chana describes Kalak as "shoshau" and comments about wanting to upset him from his typical calmness.{{book ref|sa5|55}}
+
+## Culture
+{{image|Kalak.jpg|side=right|width=150px}}
+{{quote
+|They see us as divinities. They rely upon us, Jezrien. We're all that they have.
+|Kalak{{book ref|sa1|part=prelude}}
+}}
+In the [[Era of Solitude]], Kalak is basically unknown by his true name to humans. In [[Iri]] and [[Rira (country)|Rira]], he's called **Kellai**, while in [[Vorinism]], he is known as **Kelek**, due to a vowel shift in the Vorin languages.{{book ref|sa3|26}}{{wob ref|4404}} Even further east, in [[New Natanan]], Kalak is often equated with the [[Stormfather]].{{book ref|sa3|i|1}} 
+
+Vorin tradition associates him with the number 8 (kak), the [[Ten Essences|Essence]] of Foil, and the Attributes of Resolute and Builder.{{book ref|sa1|part=ars}} In the countries following the religion, he's one of the most revered and commonly-prayed-to Heralds alongside [[Jezrien]], with his name being an extremely common expletive.{{book ref|sa1|23}} In addition to his Divine Attributes, he seems to be also associated with truthfulness.{{book ref|sa4|23}}
+
+As Kelek, Kalak features in a number of common Rosharan sayings and phrases, such as:
+
+{{columns|count=2|
+* "Kelek preserve us"{{book ref|sa1|38}}
+* "Kelek's breath"{{book ref|sa1|46}}
+* "what in the name of Kelek"{{book ref|sa1|35}} 
+* "for Kelek's sake"{{book ref|sa1|27}} 
+* "Kelek knows"{{book ref|sa1|11}} 
+* "what in Kelek's tongue"{{book ref|sa2|86}} 
+* "Kelek speed their way"{{book ref|sa2|81}} 
+* "swear to Kelek himself"{{book ref|sa3|3}}
+* "thank Kelek"{{book ref|sa4|prologue}}
+* "Kelek, Jezerezeh, and Heralds above"{{book ref|sa4|21}}
+* "Kelek’s own truth"{{book ref|sa4|23}}
+* "Kelek help him"{{book ref|sa4|50}}
+* "the honest-by-Kelek’s-own-breath truth"{{book ref|sa4|91}}
+}}
+
+The name [[Kaladin]] is derived from Kalak.{{wob ref|333}} The [[glyph]] for "eternal" is also called *kalak*.{{17s ref|topic|68873|Creating Stormlight Glyphs: A JordanCon Workshop with Isaac Stewart|date=2018-05-04}}{{file ref|Alethi Glyphs Page 1.jpg|Alethi Glyphs}} Whether Kalak was named after *kalak* or the other way around, however, is unknown.
+
+## Trivia
+* Though his name became "Kelek" due to linguistic drift, Kalak is one of two Heralds, alongside [[Shalash]], whose original names are symmetrical under [[Vorin]] rules.
+* Kalak's portrait used in the chapter arches is called the Maker by the [[Dragonsteel Entertainment]] staff.{{wob ref|14097}}
+* The [[Rhythm of War/Epigraphs#Kalak's journal|epigraphs for Part Four]] of *[[Rhythm of War]]* are written by Kalak.
+* The official painting of Kalak, by {{a|Magali Villeneuve}}, was included in the hardcover release of *[[Rhythm of War]]*.
+
+## Notes
+<references />
+{{complete}}
+{{demoted|sa5|exemplary=yes}}
+{{Stormlight}}
+[[category: viewpoint characters]]
+[[es:Kalak]]

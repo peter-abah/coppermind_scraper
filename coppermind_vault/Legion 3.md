@@ -1,0 +1,1 @@
+#REDIRECT [[Legion: Lies of the Beholder]]

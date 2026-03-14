@@ -1,0 +1,12 @@
+---
+universe: "Cytoverse"
+books: "Skyward (series)"
+---
+
+{{update|sky4}}
+**Varvaxin Three** is a location in the [[Superiority]] with a secret intelligence stronghold.{{book ref|sky4|58}}
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

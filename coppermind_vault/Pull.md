@@ -1,0 +1,33 @@
+---
+unnamed: "yes"
+abilities: "{{tag+|Lurcher"
+---
+
+|groups={{tag|Set}}, {{tag|Vanishers}}
+|died={{date|341|PC}}{{book ref|mb4|18}}
+|residence=Elendel
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Alloy of Law]]
+}}
+{{for|Iron#Allomantic Use|the Allomantic action of iron known as Pulling|Iron}}
+**Pull** is the pseudonym of a member of the [[Set]] on [[Scadrial]]. He is a [[Lurcher]] that also works with the [[Vanishers]].{{book ref|mb4|17}}
+
+==Appearance and Personality==
+Pull wears a black suit with a bulletproof metal breastplate underneath. He carries at least one handgun.{{book ref|mb4|18}} He does not speak much, if at all.{{book ref|mb4|17}}
+
+==Attributes and Abilities==
+Pull is an [[Allomancer]], an [[iron]] [[Misting]] also known as a [[Lurcher]]. He is skilled with Ironpulls, and is able to Pull bullets in flight towards his protective breastplate to avoid injury. He can also quickly scale the exterior of large buildings by Pulling himself upward in a reverse-rappelling motion.{{book ref|mb4|18}}
+
+## History
+He was employed by the criminal organization known as the [[Set]], and was partnered with a [[Coinshot]] nicknamed [[Push]]. The pair dressed similarly and worked together during heists and other jobs.{{book ref|mb4|17}}
+
+In {{date|341|PC}}, the Set hired the [[Vanishers]] to perform robberies and kidnappings,{{book ref|mb4|epilogue}} and [[Mister Suit]] assigned Push and Pull to support [[Miles Dagouter]] in these efforts. They acted as bodyguards for Suit, and were also present to defend against potential interference by [[Waxillium Ladrian]].{{book ref|mb4|17}}
+
+Wax indeed stowed away on the [[Breaknaught]] knowing that the Vanishers would steal it. Miles anticipated this and warned Push and Pull that Wax was likely present before the train car was opened in the Vanishers workshop. However, Wax created a diversion with dynamite, evading an ambush. Push and Pull pursued him up the [[Ironspine Building]]. Wax fired a number of shots at Pull, but he protected himself using his Allomantic abilities. As Pull followed Wax down the building, he was shot with an [[aluminum]] rifle round by [[Marasi]] and landed face-first on the ground. Push confirmed to Miles that Pull had been killed, and angrily pursued Marasi seeking vengeance.{{book ref|mb4|18}}
+
+## Notes
+<references /><!-- aol: 17, 18 -->
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:19, 30 June 2021 (UTC)}}
+{{Mistborn|Era 2}}
+[[Category: Aliases]]

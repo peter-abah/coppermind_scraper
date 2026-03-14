@@ -1,0 +1,21 @@
+{{culture
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+
+{{quote
+| ...by tradition, he was more than just her master. He was her father, legally, until he pronounced her ready to become a merchant on her own.
+| Rysn discussing her babsk{{book ref|sa1|i|4}}
+}}
+**Babsk** (plural *babsk*{{book ref|sa1|i|4}}) is a term for a teacher or master in [[Thaylenah]]. Legally, a babsk is parent to their apprentices as long as the apprenticeship lasts.{{rpg ref|slwg|71}} Their apprentices follow them around, assisting them with their trade, and learning from them. [[Vstim]], [[Rysn]]'s babsk, is kind to her and wants to teach her how to be a good merchant, but not all babsk are, and this may not be common behavior.{{book ref|sa1|i|4}} Rysn's full name appears to be Rysn Ftori bah-Vstim; it is unclear whether this is a personal sign of respect or if all Thaylen apprentice merchants append their babsk's name.
+
+## Known Babsk
+* Vstim is Rysn's babsk and takes her to places all around the world, such as [[Shinovar]] and the [[Reshi Isles]], in order for her to learn to trade.{{book ref|sa1|i|4}}
+* Vstim is also [[Talik]]'s babsk before he is Rysn's; Talik attains the title of trademaster with him before moving to the Reshi Isles.{{book ref|sa2|i|3}}
+* [[Iyatil]] is [[Mraize]]'s babsk and master. Both are members of the [[Ghostbloods]].{{book ref|sa4|9}}
+
+## Notes
+<references />
+{{complete}}
+{{Stormlight}}

@@ -1,0 +1,67 @@
+{{book
+|cover=Firstborn.jpg
+|released=December 17, 2008
+|publisher=Tor Books
+|setting=*Standalone*
+|word-count=13,928
+}}
+***Firstborn*** is a non-[[cosmere]] short story written by [[Brandon Sanderson]] published by [[Tor]] on [https://reactormag.com/firstborn/ their website].{{bws ref|firstborn|Firstborn announcement|date=2013-08-21}}
+
+## Summary
+[[Dennison Crestmar]], High Officer of the empire and brother to the Great High Officer [[Varion Crestmar]], stands aboard his flagship directing his first real battle outside of the practice room. Unlike his brother who has led the empire to victory after victory, Dennison has yet still to prove himself, and he's making a poor effort of it; he's pessimistic, cynical, even aware that his own NCO's don't expect him to win, and he shows a casual attitude to proving them right.
+
+The fight against a rebel faction, that Dennison describes contentedly as little more than pirates, turns sour as he predicted it would, leading to the inevitable retreat with only his training preventing it from being a disaster.
+Blaming his own inadequacies they are echoed in his XO's words. Dennison shows an un-militaristic character insulting the XO in turn, while in his own mind he agrees that he is incompetent as a military commander.
+
+After the battle, Dennison travels to meet his father for a dinner reservation that he promptly misses. Arriving in a spaceport he is greeted by his father, the High Duke [[Sennion Crestmar]], whom Dennison notes they share only their height and nothing else in common. Sennion is every bit imposing as a High Duke; he commands authority in his walk and is displeased with his son's failures, explaining that the [[High Emperor]] still has hopes for him succeeding in a real situation.
+
+Dennison on the other hand had expected to be let go from military service, to pursue some other career he might have been better at. But instead of fulfilling that hope, his father announces Dennison's reassignment as an adjutant and Squadron-commander to High Admiral [[Kern]] aboard the [[Stormwind]] - one of the most prestigious flagships in the entire Imperial Fleet. Dennison is shocked and retorts that he will not be responsible for the deaths of thousands in the [[Reunification War]].
+
+Aboard the transport vessel en-route to the Stormwind, Dennison speaks the High Emperor about his reluctance to serve his new post until being beaten verbally into submission by the emperor's authority. The High Emperor expects great things of him that Dennison can hardly reciprocate beyond his own lack of self-esteem.
+
+Upon arriving at the Stormwind, Dennison is escorted to a simulation room where High Admiral Kern is observing the what Dennison instantly recognizes as the [[battle of Seapress]]; his brother's first victory fresh out of the academy that begun the Reunification War.
+Kern has no intentions of placing Dennison in any command position, much to the latter's relief.
+Instead, Kern wishes for Dennison to study his brother's tactics and learn from them to become a better leader. In doing so, Kern asks Dennison to finish the battle of Seapress simulation himself; Dennison fails terribly, losing his command carrier in the retreat.
+
+Over the next year, Dennison verses himself in the man that he hardly knows, becoming confused and the strange tactics his brother employed in his long campaign. At this point Dennison had stopped analysing the tactics, becoming more interested in the man himself - why he had made the decisions he had in his campaign that were not tactically obvious to Denisson.
+Resigning himself from the simulation chamber a junior officer notifies him of the battle currently being fought outside virtual reality. These battles seem commonplace by now and Dennison finds a desire to watch this one from the bridge.
+
+Having made his way up there where Kern stood amidst the battle hologram, Dennison exhibits a unique intellect for battlefield scenarios; as he puts it he "grasps the concept, but not the application." Being distracted lately hadn't given Dennison much time to realise Varion's forces had already begun approaching the last rebellious systems.
+Talking with Kern over soup, Dennison learns that his brother will be attending the Imperial Emissary on [[Kress]] for the closure of the Reunification War and will be able to finally meet the man. Dennison agrees to attend, eagerly.
+
+On Kress, Varion arrives in unregulated gray uniform, with [[Charisa of Utaries]], one of the first rebel commanders to join Varion, and Admirals [[Brakah]] and [[Terarn]], both men had requested assignment under Varion's command in the past. They are gathered to watch Sennion award Varion with the highest and most prestigious of the Imperial Crests for his services.
+Taking it from his father, Varion studies the medal a short while, before dropping it casually to the ground. In that instant, Sennion draws and fires his gun at Varion's head.
+The blast stopping short of killing Varion by the advanced personal shield technology Varion and his comrades wear sparks a realization in Denisson's mind. Oblivious to the gunfights erupting behind him Denisson finally understands the odd tactics his brother displayed in the war; Varion had been conquering the most technological advanced worlds, gaining the benefit of their advancements, all for this moment. Pulling a gun at his father's head, Sennion proudly stares Varion down, disavowing him as a son, right before Varion pulls the trigger. Noticing Denisson for the first time Varion approaches his brother and clearly states that the empire had managed to clone him after all, before taking off in his drop-ship.
+
+Dennison and Admiral Kern discuss in the aftermath of Varion's open betrayal how that technology had been obtained. Dennison wonders about being Varion's clone and about the morality of his brother's actions and if fighting for the Rebels is as morally just as fighting for the Empire, to which Kern counters with his own logic.
+Turning on the wallscreen Dennison is invited to a view of Varion's study aboard the Voidhawk - Varion's flagship. Explaining that the other bugs had been disconnected it is Varion's pride this one is still active. With too few officers Kern announces he is giving Dennison a sub-command to fight Varion.
+
+Dennison has a brief conference with the High Emperor via wallscreen discussing his status as a clone. The Emperor confirms Denisson's status as a Crestmar and that he may succeed the family name that was ratified by a closed council, contrary to standard law prohibiting clones from doing so.
+His first command under Kern on-board the Perpetual comes with a surprise. None of the officers on the bridge show the slightest hint of disrespect for him, despite his reputation. Though Kern still doesn't trust him enough to place him in the main force.
+
+Expecting to be a reserve force when Varion's fleet appears he is surprised to find Varion's fighters heading for his squadron. Considering this tactic to be odd, Dennison communicates his concern to Admiral Kern. Telling Dennison to put on his battle visor, Kern downloads a battle map to the visor which shows Varion's attack vectors, a plan intercepted by the advanced technology of the Empire's making.
+Dennison considers the possiblity that Varion is gunning for him for a very specific reason. Feeling that the whole battle is wrong is confirmed when there is a sharp, loud sound in Dennison's earpiece. Lord Canton of the Stormwind's reserve bridge reports an explosion on the main bridge and is assuming command. Shortly after it appears that Lord Canton is shot.
+Chaos amongst the fleet is what Varion wants and it is ultimately this realization that Dennison invokes Article 117, and takes command of the fleet.
+Ordering a general retreat in the hopes of catching Varion off guard the Stormwind is destroyed.
+
+Back at the Point, Dennison expects to be met with his execution, but is instead escorted to the Emperor's command room. After a week spent travelling he finally understands how Varion has progressed in his campaign; attacking core Empire worlds. The situation revealed is graver than Dennison knew. On the same day Kern's fleet was attacked, six other fleet Admirals were assassinated. Because of the retreat Dennison's fleet had been the only one to survive, a fact that the Emperor considers worthy of a medal.
+Seeing little hope Dennison almost resigns himself to the inevitability that Varion has already won, despite fighting ten of the best High Admirals of the Empire. The Emperor tells Dennison it is better to be a failure who nobly strived than the success who never really had to.
+
+Closing his eyes, Dennison displays his aptitude for his concept of battle. He might not be good at acting out his theories but he relates, with perfect precision, what is happening on each monitor and what Varion's next move will be. Trying to explain to the Emperor the difference between Varion and him Dennison suddenly proposes a plan to the Emperor, involving the bug-transmitter on the Voidhawk.
+Dennison orders one of the High Admiral's to focus five fighter squadrons on Charisa's own squadron in the tenth battle where the Voidhawk sits. He then takes the command chair the Emperor relinquishes and orders a technician to interrupt Varion's intel feed via the bug-transmitter.
+
+Sending Varion an invalid picture of the other nine battles by relating small problems that allow the Empire's forces to take control of the flow in reality. The feed is then lost and Dennison loses his power to fabricate the battles for Varion. The Emperor expects a crushing defeat at the hands of Dennison's personal vengeance at fooling his brother just once before the Empire crumbled. Then, surprisingly, Varion's flagship begins to retreat, followed by every other force across the galaxy. Dennison sits in wonderment that the technicians finding the bug were too late informing Varion of its true use.
+
+Grabbing a datapad and searching for the video feed of Varion's study, Dennison observes the High Admiral Lord Varion Crestmar the Silvermane dead by his own hand, and Dennison remarks how the greatest military genius of the age had never learned how to lose.
+
+## Characters
+;[[Dennison Crestmar]]: High Officer of the empire, and failed brother of [[Varion Crestmar]]
+;[[Varion Crestmar]]: Hero of the empire after the [[Reunification War]]
+;[[Sennion Crestmar]]: Duke and father to Dennison and Varion
+
+## Notes
+<references />
+{{meta/partial}}
+{{Firstborn}}
+{{books}}
+[[category: Firstborn| ]]

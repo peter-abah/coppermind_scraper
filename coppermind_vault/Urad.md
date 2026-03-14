@@ -1,0 +1,16 @@
+---
+#profession: "soldier"
+residence: "Urithiru"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Rhythm of War"
+---
+
+**Urad** is a [[darkeyed]] soldier on [[Roshar]].{{book ref|sa4|21}}
+
+He was one of six soldiers that [[Adolin Kholin]] chose to join him on the diplomatic mission from [[Urithiru]] to [[Lasting Integrity]]. He was chosen due to his unflappable personality and his experience in the field, particularly his skills as a hunter and forager.{{book ref|sa4|21}} He was presumably a member of the group that departed Lasting Integrity a few weeks after Adolin surrendered to the [[honorspren]].{{book ref|sa4|36}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:22, 20 September 2021 (UTC)}}
+{{Stormlight}}

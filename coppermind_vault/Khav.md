@@ -1,0 +1,26 @@
+---
+born: "{{Rosharan date|~1150s"
+---
+
+|residence=Hearthstone
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+{{quote
+|You know. Real darkeyes. Like us.
+|Khav's opinion of [[Kaladin]]{{book ref|sa1|16}}
+}}
+**Khav** is a resident of [[Hearthstone]] on [[Roshar]].{{book ref|sa1|16}}
+
+He has low eyebrows and a permanently scowling expression. He is a teenager in {{Rosharan date|1165}}, but younger than [[Jost]]'s 14.
+
+[[Kaladin]] uses his name as an example of a 'solid, Alethi darkeyes' name, unlike his own.
+
+He was amongst the children, including [[Jost]], [[Jest]], [[Mord]], [[Tift]], and [[Naget]], who Kaladin and [[Laral]] approached one day and Kaladin asked if they should be worming. He doesn't believe Kaladin is a real darkeyes, nor does he agree that farmers and soldiers are equal professions.{{book ref|sa1|16}}
+
+## Notes
+<references />
+{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 05:14, 15 May 2018 (MST)}}
+{{Stormlight}}

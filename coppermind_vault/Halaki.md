@@ -1,0 +1,12 @@
+---
+universe: "Cytoverse"
+introduced: "Defiant (book)|Defiant"
+---
+
+{{update|sky4}}
+**Halaki** is a [[Superiority]] general.{{book ref|sky4|44}}
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

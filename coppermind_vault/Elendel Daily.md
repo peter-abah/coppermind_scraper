@@ -1,0 +1,1 @@
+#REDIRECT [[The Elendel Daily]]

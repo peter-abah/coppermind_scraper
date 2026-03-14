@@ -1,0 +1,28 @@
+---
+type: "{{cat tag|drugs|Drug"
+---
+
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Lister's oil** is a substance on [[Roshar]] with antiseptic properties.{{book ref|sa1|10}}
+
+==Properties and Use==
+It is a pungent oil that is spread across the wounded area to prevent infection.{{book ref|sa1|10}}{{book ref|sa1|48}} It is known to scare away [[rotspren]].{{book ref|sa1|10}} It is perhaps the most effective antiseptic known in Alethkar, and it is preferred to [[larmic mucus]], [[knobweed]] sap, and soap and water.{{book ref|sa1|10}}{{book ref|sa1|17}}
+
+==History==
+Lister's oil was used in the hospitals in [[Kharbranth]].{{book ref|sa1|48}} [[Vathe]], a surgeon who was educated at the [[Great Concourse of Kharbranth]], knew of the effectiveness of lister's oil and trained his apprentice [[Lirin]] to use it.{{book ref|sa1|10}}{{book ref|sa1|17}} Lirin used it extensively in his surgery, including when he attended to [[Sani]]'s injury.{{book ref|sa1|10}} 
+
+Lirin passed his knowledge of lister's oil on to [[Kaladin]]. Kaladin used it to treat wounds when it was available, and he often wished he had more of it.{{book ref|sa1|2}}{{book ref|sa1|17}} It was very expensive on the [[Shattered Plains]], costing two sapphire [[spheres|marks]] per bottle from an apothecary that Kaladin visited.{{book ref|sa1|17}} Kaladin commented that even a bottle of cheaper larmic mucus would cost him ten days pay, and a bottle of lister's oil was around five times more expensive.{{book ref|sa1|17}}
+
+[[Shallan Davar]] was treated with lister's oil in [[Kharbranth]] after cutting herself with a shard of broken glass.{{book ref|sa1|45}}{{book ref|sa1|48}}
+
+==Trivia==
+*The name likely refers to an out-of-universe historical figure named Joseph Lister.{{wp ref|Joseph Lister}} He was an early pioneer of antiseptics and introduced phenol to sterilize wounds and surgical implements.
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:30, 14 October 2019 (UTC)}}
+{{Stormlight}}
+[[Category: Drugs]]

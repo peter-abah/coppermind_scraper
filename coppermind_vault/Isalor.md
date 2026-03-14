@@ -1,0 +1,15 @@
+---
+#profession: "Soldier"
+nation: "Alethkar"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Wind and Truth"
+---
+
+{{update|sa5}}
+**Isalor** is an [[Alethi]] soldier on [[Roshar]].{{book ref|sa5|39}}
+
+## Notes
+<references />
+{{stub}}
+{{stormlight}}

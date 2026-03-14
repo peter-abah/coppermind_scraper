@@ -1,0 +1,13 @@
+---
+earth: "Legion"
+books: "Skin Deep"
+---
+
+**Nathan Haight** is the owner of [[Exeltec]] and patron of [[Zen Rigby]].
+
+[[Stephen Leeds]] fakes his caller ID to appear as Nathan in order to confirm that Zen was following them. She complains that Nathan and the other partners keep bothering her while she's working.{{book ref|skin deep|9}}
+
+## Notes
+<references />
+{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 01:48, 6 March 2019 (MST)}}
+{{Legion}}

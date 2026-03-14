@@ -1,0 +1,14 @@
+---
+powers: "{{tag+|Epic"
+---
+
+|earth=Reckoners
+|introduced=[[Steelheart]]
+}}
+**Absence** is an [[Epic]] killed by the [[Reckoners]] one year before they killed [[Steelheart (Epic)|Steelheart]]. His blood was sampled and used as payment for weapons bought off [[Diamond]].{{book ref|Steelheart|16}}
+
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:59, 3 September 2016 (MST)}}
+{{Reckoners}}

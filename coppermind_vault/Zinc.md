@@ -1,0 +1,49 @@
+{{metal
+|allomancy=Riot emotions
+|type-a=External, Pulling, Mental
+|misting=Rioter
+|feruchemy=Store mental speed
+|type-f=Cognitive
+|ferring=Sparker
+|hemalurgy=Steal emotional fortitude
+|type-h=Mental
+|books=[[Mistborn (series)|Mistborn]], [[The Stormlight Archive]]
+}}
+**Zinc** is the external mental pulling metal. An [[Allomancer]] burning zinc is able to inflame the emotions of those around them. It can be targeted at a single person or a group. A [[Feruchemist]] can use zinc to store mental speed. When used as a [[Hemalurgic]] spike, zinc steals emotional fortitude. It increases a [[fabrial]]'s strength.
+
+The paired alloy of zinc used in the Metallic Arts is [[brass]].
+
+## Allomantic Use
+A zinc [[Misting]] is known as a **Rioter**. Emotional Allomancy is not mind control, but it does allow the practitioner to influence the emotions of those around them. This is known as **Rioting** or **Raging**.{{book ref|mb1|7}}{{book ref|mb1|10}} The effects can be targeted at a specific individual or group and can focus on specific emotions.{{book ref|aol|part=ars}} It is easier to target a specific direction instead of at a specific individual.{{book ref|mb7|60}}
+
+Rioting emotions can be used to increase someone's desire, determination, anger, etc. It can accomplish many of the same things as [[brass|Soothing]] emotions by Rioting all but the specified emotions. Extreme emotions in the target will interfere with emotional [[Allomancy]].{{wob ref|8025}} Emotional Allomancy can affect animals, however it requires a certain amount of sapience.{{wob ref|3950}} Emotional Allomancy also has a more compelling effect on [[Lifeless]] compared to a regular person.{{wob ref|13062}} A Rioter cannot Riot themselves.{{book ref|mb2|46}}
+
+Very powerful Rioting can put a Hemalurgic creature under complete control of the Rioter, and once controlled, the Rioting is no longer required. This can either be achieved by a solitary [[Allomancy|Mistborn]]  or [[hemalurgy|Hemalurgist]] burning [[duralumin]] and zinc together, a combination of a [[nicrosil|Nicroburst]] and a Rioter, or a group of Rioters and/or Soothers, though in the early days of [[Final Empire]], when Allomancy was much more powerful, a single Rioter was able to do it.{{book ref|mb2|54}}{{book ref|mb3|3}}{{epigraph ref|mb3|21}}
+
+Rioting inside of a [[Bendalloy|speed bubble]] could give the same effects as burning duralumin, and can still be aimed without the normal hindrances of exiting time bubbles.{{wob ref|15224}} [[Aluminum]] over the victim's head or possibly the Rioter's chest stops Rioting.{{wob ref|8223}} It can also be stopped by the helmet of a [[Shardplate]].{{wob ref|15717}}
+
+## Feruchemical Use
+A zinc [[Ferring]] is known as a **Sparker**. Zinc is used to store mental speed. It allows the Sparker to think very quickly and come to conclusions faster. While filling a zincmind, the Sparker will be dull-witted and slow.{{book ref|mb4|part=ars}} Storing does not affect the Sparker's ability to take in physical information, but it does increase the time it takes to process that information. For example, a Sparker filling their zincmind will perceive words without delay, but will take longer to parse their meaning.{{book ref|mb2|50}} Tapping zinc has the odd side effect of making the user hungry.{{book ref|mb6|3}}
+
+## Hemalurgic Use
+When used as a [[Hemalurgic]] spike, zinc steals emotional fortitude.{{book ref|mb3|part=ars}}
+
+### Kandra Blessing
+The [[kandra]] can use a pair of these spikes as a [[Blessing]] and call them the **Blessing of Stability**.{{epigraph ref|mb3|38}} Like all kandra Blessings, the Blessing gives the [[mistwraith]]s sentience, with the added benefit of emotional stability. This Blessing, however, is rarely used among the kandra.{{epigraph ref|mb3|38}}
+
+## Fabrial Use
+A [[fabrial]] with a zinc cage will increase the strength of the fabrial's function.{{epigraph ref|sa4|7}}
+
+## Culture
+Zinctongue is a colloquialism for smooth talkers.{{book ref|mb5|5}}{{msh ref|1|1}}
+
+After the [[Catacendre]], it is unlawful for a business to use Rioters to influence customers.{{book ref|mb5|14}} This was one of the provisions of the [[Allomantic Agreement of '94]]. However, consensual use of emotional [[Allomancy]] is not forbidden, and some rioters, known as **zinc counselors** uses their abilities as a kind of therapy.{{book ref|mb4|2}}
+
+## Trivia
+* In the [[Ars Arcanum]] of *[[The Final Empire]]*, the Allomantic roles of [[brass]] and zinc were swapped. This was fixed in *[[The Well of Ascension]]*, then repeated in *[[The Hero of Ages]]*.
+
+## Notes
+<references/>
+{{partial}}
+{{Mistborn|metals}}
+[[es:Cinc]]

@@ -1,0 +1,23 @@
+{{lifeform
+|image=FrillbloomWall.png
+|type={{cat tag|Plants|Plant}}
+|native=[[Shattered Plains]]
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+
+{{for|/Gallery|more images}}
+
+**Frillbloom** is a family of plants native to [[Roshar]]. It is common in the chasms of the [[Shattered Plains]], and grows larger there than it does in other places.{{book ref|sa1|49}}{{file ref|Chasmlife.jpeg|Chasm life page|post=&#32;from [[Shallan's sketchbook]]}}
+
+Frillbloom leaves are fanlike fronds that wave gently in the air.{{book ref|sa2|9}} When startled, they fold in on themselves like a hand folding into a fist.{{book ref|sa2|12}} They also close up when a storm is approaching.{{book ref|sa2|72}} 
+
+Colors vary between different frillbloom species, and include yellow, orange, red, and violet.{{book ref|sa1|55}}{{book ref|sa1|49}}{{book ref|sa2|69}} In some varieties, the fronds are veined.{{book ref|sa2|71}} Other varieties have spines on the tips of the leaves.{{book ref|sa2|49}}
+
+[[Kaladin]] makes note of [[lifespren]] dancing around frillbloom fronds in the chasms.{{book ref|sa2|9}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 09:55, 3 June 2019 (MST)}}
+{{Stormlight}}

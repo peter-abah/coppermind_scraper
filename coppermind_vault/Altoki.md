@@ -1,0 +1,26 @@
+---
+died: "Possessed by Fused, {{rosharan date|1174"
+---
+
+{{book ref|sa3|i|6}}
+|abilities=[[Regal|Forms of Power]]
+|species=singer
+|nation=listener
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Oathbringer]]
+}}
+
+{{quote
+| High sky. Dead winds. Blood rain.
+| The Fused who possesses Altoki{{book ref|sa3|i|6}}
+}}
+
+**Altoki** is a [[listener]] who becomes one of the [[Fused]].
+
+[[Ulim]] selected [[Venli]], [[Demid]], [[Melu]], [[Mrun]], Altoki and five others to open themselves to "new power" during the [[Everstorm]]. The group was not aware that they were volunteering their bodies as vessels for the Fused, which would effectively destroy their original identities. [[Odium]] prevented Venli from being chosen by a Fused, but all of the other singers were either possessed or killed. Altoki was possessed by an unnamed Fused that seemed predatory and deranged.{{book ref|sa3|i|6}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 17:14, 16 June 2018 (MST)}}
+{{Stormlight}}

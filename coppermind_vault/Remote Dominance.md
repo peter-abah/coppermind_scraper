@@ -1,0 +1,5 @@
+#REDIRECT [[Dominance#Remote Dominance]]
+[[category: subsection redirects]]
+[[Category: Mistborn]]
+[[Category: Locations]]
+[[Category: Scadrial]]

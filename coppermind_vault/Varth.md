@@ -1,0 +1,41 @@
+---
+occupation: "{{cat tag|soldiers|Squadleader"
+---
+
+in {{tag+|army|Amaram's}}
+|groups={{tag+|army|Amaram's}}
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+{{quote
+|Gotta do what you can to stay alive, son. Turn a liability into an advantage whenever you can. Remember that, if you live.
+|Varth to Kaladin{{book ref|sa1|67}}
+}}
+**Varth** is a squadleader in [[Meridas Amaram]]'s army under [[Torol Sadeas]] in [[Alethkar]] on [[Roshar]].{{book ref|sa1|67}}
+
+## Appearance & Personality
+Varth is around seventeen or eighteen years old.{{book ref|sa4|108}} He is a lean, thoughtful-looking man with keen eyes.{{book ref|sa1|67}} During his time in Amaram's army, he wears a green uniform with squadleader knots at the shoulder, along with leather armor. He has a haggard appearance from the stress of constant war.{{book ref|sa4|108}}
+
+He is selfish but pragmatic.{{book ref|sa1|67}} He uses whatever resources are at his disposal, and is always looking for a way to turn a liability into an advantage.{{book ref|sa4|108}}{{book ref|sa1|67}} His ultimate philosophy is to do whatever is necessary to keep himself alive, even if other people die instead.{{book ref|sa1|46}} However, like many soldiers in Amaram's army, he is often put into impossible situations, and he experiences regret over some of the choices that he has to make.{{book ref|sa1|67}}
+
+## Attributes and Abilities
+Varth has some understanding of battlefield tactics, and is used to operating with minimal resources. He is trained in the use of a spear.{{book ref|sa1|67}}
+
+## History
+### Squadleader in Amaram's Army
+{{sidequote|side=right|size=300px
+|You work with what you have. If they give me men who can’t fight, I’ll find another use for them.
+|Varth{{book ref|sa1|67}}
+}}
+Varth served as a squadleader in Brightlord [[Sheler]]'s company within Amaram's army{{book ref|sa1|67}} when it fought in a variety of small border conflicts between Sadeas and his rival highprinces, as well as the [[Reshi Isles]] and the nation of [[Jah Keved]].{{book ref|sa1|47}} During a battle with [[Hallaw]]'s army, a small group of Sheler's forces (including Varth and [[Mesh]]'s squads) were suffering heavy casualties while holding a hilltop, but they was ordered to hold the line and not retreat.{{book ref|sa1|67}}{{book ref|sa4|108}} Lacking suitable reinforcements, three messenger boys including [[Tien]] were sent to Varth. The boys had no combat training and were not intended to see the battlefield, but there was no one else left to help; Tien actually volunteered for the assignment.{{book ref|sa1|67}}{{book ref|sa4|108}} Varth placed them front and center in his squad's formation. When the enemy troops reached the line, Varth's squad pulled back, leaving Tien and his companions alone at the front, where they were swiftly slaughtered. However, the distraction briefly broke the momentum of Hallaw's charge, allowing Varth's squad to counterattack. Amaram and his cavalry then swept in and routed the remaining enemies. Varth realized that Amaram had intentionally sacrificed several squads in order to make himself look good.{{book ref|sa1|67}}
+
+[[Kaladin Stormblessed]], Tien's brother, reached Varth and his squad moments later and confronted Varth about leaving Tien and the other boys exposed.{{book ref|sa1|67}} Varth explained that he did whatever was necessary to keep himself alive, and advised Kaladin to learn to do the same. He then retreated to a more fortified position.{{book ref|sa1|67}}
+
+## Legacy
+Varth's words are often recalled by Kaladin later in his life.{{book ref|sa1|32}} He feels a certain kinship with Varth's struggle to survive despite impossible orders from his commanders,{{book ref|sa4|108}} although he strongly disagrees with Varth's principles.{{book ref|sa1|46}} Kaladin was driven for many years by a desire for power in order to exact vengeance on Varth and the men of his squad for sacrificing Tien.{{book ref|sa1|49}} He later reflects on Varth and the context of Tien's death on several occasions before speaking the [[Order_of_Windrunners#Ideals_of_the_Windrunners|Ideals of the Windrunners]].{{book ref|sa1|67}}{{book ref|sa4|108}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 16:43, 16 April 2021 (UTC)}}
+{{Stormlight}}

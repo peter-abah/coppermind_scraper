@@ -1,0 +1,679 @@
+---
+image: "Shardplate.jpeg"
+type: "{{cat tag|Weapons"
+---
+
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]], [[The Sunlit Man]]
+}}
+{{update|sa3|sa4|sa5}}
+{{quote
+|According to legend, the Shardblades were first carried by the [[Knights Radiant]] uncounted ages ago. Gifts of their god, granted to allow them to fight horrors of rock and flame, dozens of feet tall, foes whose eyes burned with hatred. The [[Voidbringer]]s.
+|[[Szeth]]'s thoughts on Shardblades{{book ref|sa1|prologue}}
+}}
+A **Shardblade** is a type of [[Investiture|Invested]] weapon found on [[Roshar]] that is typically carried by the [[Knights Radiant]]{{book ref|sa1|prologue}} and the [[Herald]]s of the [[Almighty]]. Shardblades wielded by Radiants are [[spren]] who have taken a physical form, and as such are [[Splinter]]s of [[Shard]]s [[Honor]] and [[Cultivation]].{{book ref|sa2|87}} They are usually used with [[Shardplate]], Invested armor that also exists on Roshar,{{book ref|sa1|prologue}} as Shardblades are so large that they are unwieldy on their own.{{book ref|sa1|13}} Those who are bound to a Shardblade are referred to as Shardbearers,{{book ref|sa2|16}} and those who also have a Shardplate are referred to as Full Shardbearers.{{rpg ref|slwg|240}}
+
+## Abilities
+### General Characteristics
+{{image|Shardbearer by Ari Ibarra.jpg|side=right|width=400px|A Shardbearer summoning his Shardblade}}
+
+While there are a few differences between the various types of Shardblades, they all share a few common traits. All are larger but lighter than any normal sword,{{book ref|sa2|44}} often at or approaching six feet in length,{{book ref|sa1|prologue}} while simultaneously extremely light.{{book ref|sa1|18}}{{wob ref|7134}} All Shardblades that are bound to a specific owner can be summoned{{book ref|sa1|prologue}} and dismissed at will.{{book ref|sa2|8}} When summoned, they appear in one's hand,{{book ref|sa1|prologue}} coalescing out of mist, with the shape the mist takes depending on the type of spren from which it was formed. For example, [[Mayalaran]] manifests as small vines before appearing as a Blade.{{book ref|sa2|50}} Additionally, water condenses along the length of the Blade when it appears.{{book ref|sa1|13}} They can appear inside liquid, shoving it out of the way, but cannot be summoned inside of a solid object.{{wob ref|14108}} When a Blade is dismissed{{book ref|sa2|5}} it also vanishes into mist.{{book ref|sa1|13}} The blades are made from an alloy of the [[God Metal|God Metals]] of Honor, Cultivation and, in the case of Enlightened spren, Odium. Each blade has a different ratio of that alloy depending on which radiant spren it is.{{wob ref|11949}}{{wob ref|2541}} This alloy is the same type as the one that appears on the keyhole of an [[Oathgate]].{{book ref|sa2|84}} The tensile strength of Shardblades is very high; while they can bend a small amount, Shardblades appear to be unbreakable under natural circumstances.{{book ref|sa2|26}}{{book ref|tsm|30}} Shardblades are said to have a sort of magnetism to them, anyone who sees one is drawn to it.{{book ref|sa3|7}}
+
+Shardblades can cut through non-living objects, such as wood or stone, as if they are passing through water.{{book ref|sa1|prologue}} Even though they can cut through nearly any material, there is still a slight bit of resistance even when cutting through inanimate objects.{{book ref|sa2|44}} When cutting through an object, Shardblades leave behind distinctive perfectly clean cuts.{{book ref|sa3|50}} However, when swung at a person or other living object, the edge of the Shardblade will fuzz, leaving the physical body unharmed, and cutting the being's soul. It is still possible to Soulcast a person killed by a Shardblade.{{book ref|sa4|104}}{{book ref|sa4|114}} The wielder of the Blade feels a small tug of resistance as the Blade passes through living material.{{book ref|sa1|13}} If the Blade cuts the core of a person's limb, the person feels a flash of incredible pain and then the limb turns gray and becomes limp and numb.{{book ref|sa2|32}} If an internal organ is pierced by a Shardblade, it may be killed or cease to function.{{book ref|sa1|13}} If the Blade strikes the spine or head, the eyes of the person blacken and burn out with a dark smoke rising from them.{{book ref|sa1|prologue}} When a person is killed this way by a Shardblade, death is not instantaneous; it often takes a few moments for the person to be completely dead.{{book ref|edgedancer|8}} Once a person or other living thing has been killed, its remains can be cut like any other inanimate object.{{book ref|sa2|72}} This applies to plants as well; it takes two swings of a Shardblade to sever a plant, one to kill the soul and another to cut it. Non-living portions of a living thing, such as hair or nails can be cut with a Shardblade before the creature itself is killed.{{book ref|sa1|13}} Parts of a body that have been damaged by a Shardblade are typically referred to as Blade-dead.{{book ref|sa2|56}} Blood continues to flow through them, and they do not rot.{{wob ref|12881}}
+
+Shardblades cannot be blocked by any typical weapons or armor, but they can be halted by a few things. One Shardblade can block another Shardblade,{{book ref|sa1|prologue}} and when the two collide they may produce sparks.{{book ref|sa1|68}} Shardplate can also stop a Shardblade, although two blows to a section of Shardplate is typically enough to shatter it.{{book ref|sa1|prologue}} The [[half-shard]]s of [[Jah Keved]] were also designed by more modern artifabrians to be resistant to Shardblades.{{book ref|sa1|22}} These are shields with an [[Augmenter]] attached,{{book ref|sa1|part=ars}} allowing them to withstand two blows from a Shardblade before breaking.{{book ref|sa1|i|9}} Other highly [[Investiture|Invested]] objects, such as a fully charged [[metalmind]], would be enough to block, or at least resist, a blow from a Shardblade.{{wob ref|3670}} A heavily Invested person can theoretically resist a blow from a Shardblade.{{wob ref|683}} The final known way to block a Shardblade is with [[aluminum]],{{wob ref|1437}} which is a rare material on Roshar as it can only be obtained through [[Soulcasting]],{{book ref|sa2|48}} although legends exist of it falling from the sky.{{book ref|sa3|100}} It is worth noting that the aluminum only nullifies the supernatural sharpness of the Blade, so a thin sheet of aluminum foil would be sheared through easily by a Blade.{{wob ref|1442}}
+
+### Healing Shardblade Wounds
+There are a few known ways for a Shardblade wound to be healed. A Radiant who is infused with [[Stormlight]] is capable of healing themselves when they are wounded by a Shardblade, but it requires a large amount of Stormlight.{{book ref|sa2|33}} When a Radiant heals a Shardblade wound on themselves, they create an entirely new piece of soul to replace the old and graft it on to their [[spiritweb]], leaving a scar behind.{{wob ref|126}} This healing leaves the wounded limb weakened and aching for a time afterwards.{{book ref|sa2|33}} This process is seemingly incapable of saving a Radiant from the instantaneous death of a Shardblade wound to head or spine. The [[Surge]] of Progression allows for a process known as Regrowth,{{book ref|sa2|i|9}} which is capable of healing Shardblade wounds or even death by Shardblade.{{book ref|edgedancer|8}} It requires near-immediate healing though, and a significant amount of power. Regrowth [[fabrial]]s can be created, and were put to use by Radiants before the Recreance.{{book ref|sa1|19}} Another potential way to heal a Shardblade wound is making use of a fabrial such as this, but it is as of yet uncertain. It is also possible for other magic systems to heal wounds from a Shardblade.{{wob ref|4111}}{{book ref|sa2|epilogue}}
+
+## Types
+There were five main types of Shardblades used on Roshar as of the [[Night of Sorrows]]. They were the Honorblades of the Heralds, the Shardblades of the typical Radiants, the dead Shardblades of the Radiants who abandoned their oaths at the [[Recreance]], the Unoathed Shardblades, and [[Awakening|Awakened]] Shardblades.
+ 
+### Honorblades
+*Main article: [[Honorblade]]s*
+
+The Honorblades are a variety of Shardblades.{{wob ref|2807}} They are the ten weapons of the Heralds, given to them by the [[Shard]] [[Honor]].{{book ref|sa2|87}} They are weapons of power beyond that of the average Shardblades of the Radiants.{{book ref|sa1|part=prelude}} Each Honorblade is a work of art, flowing and inscribed with [[glyph]]s and patterns. The Honorblade of each Herald grants [[Surgebinding]] abilities that corresponded with the order of Radiants that its Herald led.{{book ref|sa2|87}} The Honorblades, unlike the Shardblades, are not made from a bond with a spren. This means that they can be used indiscriminately, without regard for oaths or anything else. The Heralds abandoned these Blades in an attempt to end the [[Oathpact]],{{book ref|sa1|part=prelude}} so they can now be used like any other Shardblade,{{wob ref|2897}} although they do still grant Surgebinding abilities.{{book ref|sa2|87}} Honorblades are capable of activating Oathgates,{{book ref|sa3|16}} unlike dead Blades.{{book ref|sa2|84}}
+
+{{sidequote
+|The Heralds glow like the sun, wield the Honorblades, and speak with the voices of a thousand trumpets. They could cast down buildings with a command, force the storms to obey, and heal with a touch.
+|[[Shallan]]'s thoughts on the Heralds{{book ref|sa2|63}}
+|side=right|size=300px
+}}
+
+Seven of the Honorblades are held by the [[Shin]], who have kept them safe for millenia.{{book ref|sa2|88}} [[Ishar]] retrieved his Blade from the Shin.{{book ref|sa4|111}} The Honorblade of [[Jezrien]] is held by [[Vyre]].{{book ref|sa3|122}} [[Talenel]]'s Honorblade has been stolen back by the Shin, as they were lead by The Voice to reclaim the Blade, believing that if they did, the Desolation wouldn't happen. This swap is what initially threw Dalinar into thinking that the madman was just some random person faking for attention.{{wob ref|8850}} The Blade he held when he arrived in [[Kholinar]] was swapped at some point for the Shardblade that was brought with him to the [[Shattered Plains]]. The final Honorblade is in the possession of [[Nale]],{{wob ref|2562}} who went back to retrieve his Blade after abandoning the Oathpact.{{wob ref|2909}}
+
+{{image| Broken Oath by Antti Hakosaari.jpg|width=300px|side=right|Blade designs}}
+
+Honorblades also change the color of a person's eyes to the color that corresponds with the abilities that particular Honorblade grants.{{book ref|sa1|i|3}} For instance, Jezrien's Honorblade turns its owner's eyes a sapphire blue. However, that only occurs while the Blade is summoned. Once it is dismissed, its holder's eyes are returned to their natural color. Unlike dead Shardblades, Honorblades do not vanish automatically if the Blade is dropped, they must be intentionally dismissed.{{wob ref|2897}} Bonding with multiple Honorblades would be much easier than bonding with multiple Radiant spren.{{wob ref|13434}}
+
+### Radiant Shardblades
+Radiant Shardblades are granted to people who are on the path to becoming a full Radiant and have sworn a particular oath of the [[Immortal Words]].{{book ref|sa2|84}} The number of oaths they must swear before obtaining their blade varies from order to order.{{wob ref|7873}} At that point, the spren belonging to the Radiant will gain the ability to become a Shardblade in the Physical Realm unique to that particular Knight Radiant.{{book ref|sa2|84}}{{book ref|sa4|35}} Some Nahel spren are forbidden from telling their Radiant about how to gain their Blade, although this differs between Orders.{{book ref|edgedancer|2}}{{book ref|sa3|90}} As long as the spren is with the Radiant the spren can transform into a Blade instantaneously.{{book ref|sa2|86}} The spren becomes mist and coalesces into the Blade when it is desired,{{book ref|sa2|84}} and then dissipates back to mist when the Blade is dismissed.{{book ref|sa2|86}} If the Radiant is a darkeyes, their eyes are lightened,{{book ref|sa2|85}} though this effect is temporary and lasts only for a few hours after they summon the Blade.{{book ref|sa3|5}} The longer a Radiant and spren are bonded, the longer it takes for the Radiant's eyes to change back.{{book ref|sa4|91}} Each Radiant's eyes also change to the specific color that corresponds with their order.{{wob ref|6736}} This effect may not occur or be less noticeable if the person is already lighteyed.{{wob ref|81}}
+
+{{sidequote
+|The Honorblades are what we are based on, Kaladin. Honor gave these to men, and those men gained powers from them. Spren figured out what He'd done, and we imitated it.
+|Syl to Kaladin{{book ref|sa2|87}}
+|side=right|size=300px
+}}
+The spren is still capable of speaking with their Radiant while in Blade form.{{book ref|sa2|86}}{{book ref|tsm|25}} In addition to that, the spren need not take the shape of a Blade. They can become a spear, a shield, a knife, an axe, a hammer, or a large variety of other weapons. In the past they may have even taken the form of bows, although it is uncertain what was used for a string.{{book ref|edgedancer|20}} A spren may take many forms when it becomes solid, but it must be metal.{{book ref|edgedancer|20}} Almost anything can be made, assuming the Radiant understands the construction on a fundamental level and all pieces of metal are touching.{{book ref|tsm|5}} Unless practiced, the more complicated the item, the longer it takes the spren to turn into it.{{book ref|tsm|5}} Forms can also be altered without reverting back to a spren first, such as adding spikes to a shield.{{book ref|tsm|1}}{{book ref|tsm|5}} The metal can also be turned transparent or magnetic.{{book ref|tsm|6}}
+
+If given extra Investiture through their bond, Radiant Blades can grow much larger and heavier than normal.{{book ref|tsm|17}}{{book ref|tsm|3}}{{book ref|tsm|47}} They could also protect against heat that could burn a person alive in seconds.{{book ref|tsm|39}}
+
+Radiant Blades are able to be dulled with a mental command, but can still cut through things like a normal sword.{{book ref|sa4|15}} Radiant Blades may be lent to others, just like their dead counterparts, and may even change form in order to aid the borrower.{{book ref|sa2|72}}{{book ref|tsm|42}} When the Radiant who owns the Blade dies, the spren is freed and may bond again with another person one day.{{wob ref|6688}} A Radiant's living Shardblade can be used to activate [[Oathgates]].{{book ref|sa3|8}} They can also harm spren in the Physical Realm.{{book ref|sa3|84}}{{book ref|sa4|2}}
+
+Each default form that Radiant Shardblades take is unique, typically around six feet in length and a handspan in width.{{book ref|sa2|18}} They can be edged on one{{book ref|sa2|16}} or both sides,{{book ref|sa2|66}} and are often ornamented with [[glyphs]],{{book ref|sa2|86}} as well as patterns along the edges,{{book ref|sa2|84}} which may correspond with the [[Ten Essences|essence]] of that particular Radiant's order. The Blades also glow slightly along its lines with the [[Polestone]] color that corresponds to their Radiant's order.{{book ref|sa2|84}}{{book ref|sa2|72}}
+
+Radiant Shardblades are, in a way, more fragile than other Shardblades. A Radiant must remain faithful to their oaths or they risk damaging the Nahel bond with the spren. If their oaths are continually disobeyed, the bond will weaken{{book ref|sa2|68}} and then break, killing the spren and trapping them in the form of a dead Shardblade.{{book ref|sa2|87}} As Shardblades were originally patterned off of Honorblades, when their spren is killed they revert to the form of a sword, even if their Radiant preferred a different form.{{wob ref|5619}} It is potentially possible for that same person to reestablish the bond and return the dead Shardblade to its previous state.{{book ref|sa2|86}}
+
+### Dead Shardblades
+{{quote
+|Dead. Then they live again a little when someone summons them, syncing a heartbeat to their essence.
+|[[Sylphrena]] on dead Shardblades{{book ref|sa2|87}}
+}}
+
+Dead Shardblades are blades that were once owned by members of the Knights Radiant.{{book ref|sa2|87}} If a Radiant that has a Shardblade betrays their oaths, their spren is killed and its body is trapped in the shape of the Blade. Dead Shardblades lose some of the functionality that they once had. The Blades lose most of their ability to change into different weapons, although the shape of the Blade may change slightly to accommodate its owner after being used for a long time.{{wob ref|7728}} The dead Shardblades are nearly identical to how they appeared while still wielded by the Radiants, but there are two small differences. Each dead Shardblade has a [[Polestone]] attached to its pommel or crossguard,{{book ref|sa3|73}} whereas the Shardblades wielded by Radiants do not.{{book ref|sa2|67}} These gemstones allow for a new bond to be created between a person and a dead Shardblade.{{book ref|sa3|16}} A Radiant cannot draw Stormlight from a gemstone attached to a dead Shardblade.{{wob ref|13088}} They also lack the subtle glow possessed by the Blades of active Radiants.{{book ref|sa1|52}} Another difference between the two is that dead Shardblades do not automatically remain summoned when dropped or placed somewhere by their owner.{{book ref|sa1|13}} If a Shardbearer does not intentionally command their Blade mentally to remain, the Blade will automatically be dismissed and will have to be summoned all over again.{{book ref|sa2|8}} When a Shardblade is not actively summoned, the spren appear within Shadesmar as a [[deadeye]], where their eyes take on an appearance of having been scratched away, like scraping paint off a painting.{{book ref|sa3|89}} This is related to how the eyes of people killed by Shardblades burn.{{wob ref|13131}} The deadeyes have no apparent personality or autonomy, instead they will wander to the location that corresponds with the location in the Physical Realm of their corpse, or the person bonded to it unless prevented from doing so. If the person it is bonded to is themself in Shadesmar the spren will follow them around within Shadesmar.
+
+As the [[Nahel bond]] with the original Radiant seems to have been severed, a new bond has to be formed in order for a Blade to be summoned and dismissed. When a new owner touches a Shardblade for the first time, the gemstone on the pommel flashes.{{book ref|sa1|51}}{{book ref|sa2|66}} The person who wishes to bond with the Blade must keep it in close quarters to their self for five days before the bond is set.{{book ref|sa2|5}} At that point they can summon and dismiss it.{{book ref|sa3|16}} The spren inside the Blades are not completely dead, just mostly.{{book ref|sa2|87}} As they are a little alive, they can sync a heartbeat to their essence. It takes ten heartbeats for a dead spren to be revived and summoned as a Shardblade, and while being summoned the Shardbearer will always be able to hear their heartbeat.{{book ref|sa1|26}} A dead spren can choose to summon earlier than ten heartbeats, though how they do this is unknown.{{book ref|sa3|120}} If a person attempts to summon a dead Blade while in Shadesmar, the deadeye will turn their head to them in an unnatural way and begin screaming.{{book ref|sa3|89}} Once a person is bonded to a dead Shardblade, their eyes do lighten if they are not already lighteyes.{{book ref|sa2|68}} Since the gemstone on the pommel is the basis for the bond between a Blade and its owner, if the gemstone is removed or damaged, its owner will be unable to summon or dismiss the Blade{{book ref|sa3|75}} until the gemstone is replaced.{{book ref|sa3|76}}{{wob ref|1844}}
+
+When the holder of a dead Shardblade is killed, the Shardblade appears on the ground next to them.{{book ref|sa1|prologue}} A dead Shardblade may also be given up willingly. This process of breaking the bond requires willing the bond to break{{book ref|sa3|43}} with intense concentration while touching the gemstone of the Blade.{{book ref|sa2|89}} When the bond is severed completely, the gemstone on the pommel flashes,{{book ref|sa2|14}} and the former wielder feels a sensation of icy cold wash through their body.{{book ref|sa3|43}} If someone who was previously a darkeyes breaks their bond with a Blade, their eyes return to their original coloration.{{book ref|sa3|43}} A person may be bonded with multiple dead Shardblades but they have to be summoned individually.{{wob ref|1260}}
+
+{{sidequote
+|It just feels wrong to me. I hate it. I'm glad he got rid of it. Makes him a better man.
+|[[Syl]] on [[Dalinar]] giving up [[Oathbringer (Shardblade)|Oathbringer]]{{book ref|sa1|73}}
+|side=left|size=300px
+}}
+
+Dead Shardblades also have one other unique trait. When touched by a Radiant or Radiant-in-training, the Radiant will hear the agonizing screams of the dead spren. If the Radiant touches the dead Blade of another, the person it is bonded to will also hear screams and be accused of murdering the spren. This experience is terrifying.{{book ref|sa2|57}} A [[Fused]] will also experience a type of pain when touching a dead Shardblade, and only those who enjoy the pain keep captured Blades instead of passing them on to common soldiers who do not experience the same thing.{{book ref|sa4|61}}{{rpg ref|slsw|115}} There is no known way to free the spren trapped within dead Shardblades,{{book ref|sa3|28}} they have been so severely damaged that it would require their original knight{{wob ref|6937}} to repair them in almost all cases.{{wob ref|7137}} These deadeyes do have some measure of awareness of their surroundings in the Physical Realm, and may grow to hate some wielders less because they approve of their actions, screaming more quietly in their hands.{{book ref|sa3|28}} Other living true spren that are capable of forming the Nahel bond will sometimes express dislike and revulsion for anyone wielding a dead Shardblade, no matter the character of the person bound to the Blade.{{book ref|sa1|73}}{{book ref|sa3|18}} They consider these Blades to be abominations,{{book ref|sa2|16}} and distrust those that use the corpses of their relatives as mere objects.{{book ref|sa3|10}} Other spren have managed to understand the reasons humans still make use of the Blades.{{book ref|sa3|18}}
+
+Dead Shardblades may be returned to their previous function if their previous Radiant recommits themselves to their abandoned oaths.{{book ref|sa2|86}} Their spren can be reawoken and the dead Shardblade returns to its previous functionality. However, once their original Radiant has died, there is no known way to bond with the dead spren, heal their mind, and repair the Blade. It is possible for someone speaking the oaths of the Radiants to heal the spren within the Blade, but it would be very difficult.{{wob ref|7095}} The spren has had some portion of their consciousness torn away when the Nahel bond was broken and this chunk would have to be replaced to fix the Blade.{{wob ref|6053}} Awakening a Dead Shardblade in an attempt to fix them would not work.{{wob ref|8953}} This is likely a result of the heavily Invested nature of Shardblades.{{book ref|sa4|part=ars}}{{wob ref|5799}}{{wob ref|2675}}{{wob ref|7028}}{{wob ref|3882}}
+
+### Unoathed Shardblades
+{{quote
+|Radiants could still summon Blades and Plate too, but Adolin’s Unoathed could do it without Surges or oaths. They were something new.
+|[[Adolin]]{{book ref|sa5|147}}
+}}
+
+The [[Unoathed]] Shardblades were created when [[Maya]] led a group of deadeyes to the aid of [[Adolin Kholin]] in his defense of [[Azimir]] and he asked them to provide him with nine sets of Plate and Blades.{{book ref|sa5|135}}
+
+Unoathed Shardblades have some restored functionality, and can be summoned on demand.{{book ref|sa5|147}} They do not need gemstones or Stormlight in order to be bonded.{{book ref|sa5|147}} They can minimally change their size or length.{{book ref|sa5|40}} They can also dull themselves.{{book ref|sa5|42}}
+
+### Awakened Shardblades
+{{for|Awakening}}
+
+Swords are able to be [[Awakening|Awakened]] to create Shardblades.{{wob ref|6892}}{{wob ref|5152}}{{book ref|wb|53}} Awakened Shardblades have different properties from Radiant Blades, and vary depending on the Command and Awakening method.{{wob ref|7134}}{{book ref|sa3|83}}{{book ref|sa5|135}}{{book ref|wb|55}} They are effectively a "third generation" Blade, where Honorblades are "first generation" and Radiant Blades are "second generation".{{wob ref|3623}}
+
+The first one made, [[Nightblood]], was created by [[Vasher]] and [[Shashara]], made in imitation of Radiant Shardblades, with which they had prior experience.{{wob ref|3586}}{{book ref|sa5|35}} However, since they didn't know how Shardblades were originally made and were trying to imitate a magic system different from the one they had access to, they had to do some "hacking" in order to get it to work, resulting in something akin to a "robot spren".{{wob ref|3586}} Nightblood, while ultimately built around the same principles as other Shardblades, is much more powerful than normal, and is, in some ways, broken and opposite from them (i.e., in requiring constant input of Investiture to function, emitting black smoke that falls instead of white smoke that rises).{{wob ref|7134}}
+
+[[Vivenna]]'s [[Vivenna's Blade|Blade]] has the ability to cut easily through any non-living substance nearly effortlessly.{{book ref|sa3|81}} Unlike Radiant Shardblades, when Vivenna's Shardblade kills a human it does not cause their eyes to burn out, rather their entire body turns a strange ashen gray color.{{book ref|sa3|83}} Her Blade is also not able to be summoned or dismissed at will.{{book ref|sa3|93}} Unlike Nightblood, it doesn't require a source of Investiture to be safely drawn.{{wob ref|16391}}
+
+## Politics
+{{quote
+|Any man can win a Shardblade. Slave or free. Lighteyes or dark. It's the law.
+|[[Moash]] on winning Shardblades{{book ref|sa1|46}}
+}}
+
+Shardblades were often one of the most tangible expressions of power between various nations.{{book ref|sa1|29}} Kingdoms with many Shardblades were often considered to be more politically powerful than the others. Those without Shardblades, especially the smaller kingdoms, lived in fear of those with Shardblades.{{book ref|sa1|29}} In the major Vorin kingdoms, Alethkar and Jah Keved, Shardblades are sign of nobility and power. The highprinces of these nations and oftentimes their children or favored highlords typically have a Blade or two. With perhaps twenty or so Blades each, Jah Keved and Alethkar have the most Blades of any kingdom on Roshar.{{book ref|sa1|52}} These Blades are passed down family lines,{{book ref|sa2|14}} although if a Shardbearer is killed, their Blade goes to their killer.{{book ref|sa1|46}}
+
+{{sidequote
+|This weapon is worth fortunes. Cities, palaces, kingdoms.
+|[[Torol Sadeas]] on Shardblades{{book ref|sa1|69}}
+|side=right|size=300px
+}}
+
+Even within the Vorin kingdoms themselves, those with Shardblades were usually seen as more powerful. Highprinces of Alethkar and Jah Keved jostle with one another for position and influence,{{book ref|sa1|15}} and Shardblades are just another tool and indication of power and authority.{{book ref|sa2|5}} Duels for Shards can be used to embarrass political enemies as well as to weaken their military strength. For instance, Highprince Dalinar Kholin had his son duel Shardbearers that supported Torol Sadeas politically,{{book ref|sa2|51}} in order to disarm and shame them.{{book ref|sa2|5}} As most Blades are won by those who already have their own Shards, not all Blades are kept by the person that wins them. Oftentimes they are bestowed upon an heir or relative,{{book ref|sa1|18}} a worthy warrior,{{book ref|sa2|16}} a loyal officer,{{book ref|sa1|18}}{{book ref|sa2|66}} or even sometimes promised to an ally.{{book ref|sa1|24}} It is worth noting though that even if a person is said to own a Shardblade, it is considered treasonous to sell the Blade or defect to another kingdom.{{book ref|sa2|66}} However other than this exception, when a person is able to claim and bond a Blade without having it taken from them, no one will question their ownership of the weapon.{{book ref|sa3|7}}
+
+Outside of Vorin Roshar, other regions usually have far fewer Blades and they deal with them quite differently. The [[Thaylenah|Thaylens]] have only five Blades, which they keep in the hands of their Royal Guards.{{book ref|sa1|23}} The [[Herdaz|Herdazians]] have but a single Blade, which is kept in the royal line, passed from each king to his heir. In the Makabaki regions, the [[Prime Aqasix]] of [[Azir]] controls the Imperial Shardblades which he rents to the smaller kingdoms.{{book ref|edgedancer|2}} The Selay have several Blades of their own as well.{{book ref|sa1|23}} Even the [[listener]]s had their own Shardblades,{{book ref|sa1|28}} although they eventually lost every one of their blades{{book ref|sa2|i|11}} because the Alethi gradually killed the listener Shardbearers in the [[War of Reckoning]] and took these Blades for themselves.{{book ref|sa1|18}} Smaller and weaker nations such as [[Kharbranth]], however, have no Shardblades, leaving it to the mercy of the kingdoms with Shardblades.{{book ref|sa1|5}} It is generally believed that the island people of the [[Reshi Sea]] do not have any Blades either,{{book ref|sa1|16}} which leaves them at a disadvantage to the Alethi during border conflicts.{{book ref|sa1|52}} The [[Unkalaki]] of the [[Horneater Peaks]] do not have any Shardblades, but the first man to gain a Blade would be able to unite the Peaks as king.{{book ref|sa1|23}}
+
+A less common use for Shardblades was in assassination. Shardbearer assassins were by no means commonplace, but the [[Weeper]]{{book ref|sa2|prologue}} and [[Szeth|Szeth-son-son-Vallano]] used Shardblades in assassinations.{{book ref|sa1|prologue}} A potential strategy made use of by Shardbearer assassins is to give the Blade to a woman.{{book ref|sa2|36}} Centuries after the last female Radiants, Shardblades are rarely carried by women, so no one would expect to have to defend against, for instance, a washerwoman wielding a Shardblade. Other Shardbearer assassins, such as the Weeper, remove the burned out eyes of their victims, to hide the fact that they make use of a Shardblade.{{book ref|sa2|prologue}}
+
+## Culture 
+While Shardblades were certainly renowned for their use in combat, that is not to say that they did not have any impact on culture. Rather, they were one of the most important drivers of Rosharan culture, most noticeably in the Vorin nations. They have influenced theology, mythology, society, and even introduced the sport of dueling into Alethkar and Jah Keved, two of the most powerful kingdoms on the face of Roshar.
+
+### Fabrial Science
+One of the primary goals of [[artifabrian]]s and their research is the reproduction of Shardblades and their complement, Shardplate.{{book ref|sa1|60}} The kingdom that gained the ability to manufacture Shardblades and Shardplate would quickly become the most powerful in the entire world.{{book ref|sa1|prologue}} It is commonly said that artifabrians are only a few years away from managing to recreate Shardblades, but this has never proven true.{{book ref|sa1|22}} In fact, no artifabrian has ever come close to duplicating the effects of a Shardblade. For many years, artifabrians have believed that the supernatural qualities of a Shardblade are due to the gemstone in their hilts, which they believed to be a fabrial.{{book ref|sa2|67}} In 1173, artifabrians discovered that the gemstones were not originally a part of the Blade and are only important in allowing for the Blade to be summoned and dismissed. The most important Shardblade-related fabrial development are the half-shards of Jah Keved, which were a groundbreaking development in combating the Blades, but are still nowhere near the real ones.{{book ref|sa1|22}}
+
+### Theology & Mythology
+{{image|Relief.jpg|width=300px|side=right|The [[Herald]] [[Nale|Nalan'Elin]], holding his Honorblade}}
+{{quote
+|We have strength and power granted by the Almighty. It's a great responsibility, and it's our duty to use it for the protection of our men.
+|[[Adolin Kholin]] on being a Shardbearer{{book ref|sa2|49}}
+}}
+According to Vorin doctrine, the Shardblades were gifts from the Almighty, used to fight the Voidbringers, who were said to have skin of stone.{{book ref|sa1|prologue}} As humanity was barely making spears, and their metalworking was incredibly basic, they needed the aid of their god to drive the Voidbringers from Roshar and the Tranquiline Halls and back into Damnation.{{book ref|sa1|61}} While the Radiants were initially a force for good,{{book ref|sa1|61}} it is said that over time they became corrupt{{book ref|sa1|21}} and eventually betrayed mankind in some way, possibly helping the other side.{{book ref|sa1|43}} Thereafter they were known as the Lost Radiants, and some began to say that their powers had been a curse{{book ref|sa2|3}} or merely fanciful tales.{{book ref|sa2|5}} The Honorblades have been elevated to a place of legend,{{book ref|sa1|19}} considered to be mythological treasures.{{book ref|sa1|29}} In Vorinism, it is not believed that being killed by a Shardblade destroys the soul, likely due to their connection to the Radiants.{{wob ref|3754}} There are legends of a [[Aluminum|light, silvery metal]] that falls from the sky and has the capacity to block Shardblades.{{book ref|sa3|100}}
+
+Stories of heroes wielding Shardblades were pervasive among the peoples of Roshar, particularly the Vorin darkeyed.{{book ref|sa1|16}} Young children play at having Shardblades, and dream of growing up to join the army and win one for themselves. Young lighteyed children often have wooden toy swords, carved to look like Shardblades.{{book ref|sa2|89}} Some young men carry fine daggers carved in the likeness of Shardblades.{{book ref|sa2|39}} In rural towns, the tales of [[Lanacin|Lanacin the Surefooted]], [[Evod Markmaker]], and [[Raninor|Raninor of the Fields]], legendary and revered darkeyes who won Shardblades,{{book ref|sa2|44}} inspired men to go off to war in hopes of winning a Shardblade, and thus riches and fame for themselves and their loved ones.{{book ref|sa1|16}} However, a darkeyes winning a Shardblade is so incredibly uncommon that it has not happened in over a lifetime.{{book ref|sa2|68}} Given the preponderance of Blades in the Vorin kingdoms, some see it as a sign that the nations themselves have been blessed by the Heralds.{{book ref|sa3|19}}
+
+### Society
+Even though the Radiants are a distant memory of the past of Roshar, their influence still permeates Vorin society.{{book ref|sa2|87}} Indeed, it is the memory of the Radiants, whose eyes were lightened upon bonding their Blade, that led to the stratification of Vorin society into castes based on eye color. Even some titles may be passed with Shards; for instance in [[Thanadal|Thanadal's princedom]], the owner of a certain set of Shards is typically given the title of Royal Defender.{{book ref|sa1|58}}
+
+The cardinal rule of Shardblades is that any person who kills a Shardbearer is entitled to the Shards that person possess, regardless of their social status.{{book ref|sa1|46}} Any person in Vorin society that gains a Shardblade is instantly raised to the level of a fourth dahn lighteyes if they were not already at that rank or higher.{{book ref|sa2|66}} This grants that person the title of highlord, as well as lands of their own and incomes from those lands. Upon being raised, they may make their own noble house or ask permission to join another house. Anyone that bonds a Shardblade instantly becomes one of the most influential people in the kingdom, and their presence is expected at all social events of note.{{book ref|sa2|67}} They are so important that they become, to some extent, above the law.{{book ref|sa2|76}} For more serious crimes, Shardbearers are either pardoned or executed, as it is impossible to imprison a Shardbearer against their will. This is true whether the Shardbearer is lighteyed or dark, but far more lighteyes become Shardbearers than darkeyes.{{book ref|sa2|66}}
+
+When someone bonds a Shardblade, most commonly they maintain that bond up until the point of their death or it is lost in a duel or some other way.{{book ref|sa1|52}} It is worth noting though that to win a Blade fairly requires a true contest, in most cases.{{book ref|sa3|36}} Doing something like taking one from a child who cannot defend themselves may be frowned on or cause for rebellion, although there is oftentimes no way to force the Blade to be returned. The only circumstance that a person would willingly give up their Blade is when they become to weak or ill to be able to use it themselves, and even then it is uncommon and done with reluctance. In Vorin kingdoms, upon a Shardbearer's natural death, a Blade is most commonly passed on down their family line.{{book ref|sa2|14}} While passing the Blade from father to son is the most common, every person who owns a Blade has the right of bestowal, the ability to chose their successor themselves.{{book ref|sa3|10}} Most Shardblades have a detailed history and lore of their own{{book ref|sa3|11}} as well of drawings done of them{{book ref|sa2|44}} Royal records done by scholars{{book ref|sa2|44}} track the lineage of Blades down through the generations as they are passed down families{{book ref|sa2|i|7}} or change hands between brightlords and kings.{{book ref|sa3|11}} Oftentimes they also are given a name, such as Firestorm or Sunraiser, although some Shardbearers prefer not to name their Blades.{{book ref|sa2|14}}
+
+### Greatshell Hunts
+{{image|Dalinar_the_Blackthorn.jpg|width=300px|side=right|Dalinar, wielding Oathbringer, fights a chasmfiend}}
+
+Shardblades are often used in [[greatshell]] hunts, enormous Vorin sporting events.{{book ref|sa1|12}} Typically the Shardblades are used in the very final stages of the hunt, after the beast has been wounded by volleys of arrows and shots from a [[grandbow]]. In the case of the [[chasmfiend]]s of the [[Shattered Plains]], the Shardblades are used on the beasts's legs.{{book ref|sa1|13}} Shardbearers ride around beneath the greatshell, cutting through one leg at a time until the remaining legs cannot support the chasmfiend's weight and it collapses. The creature is then killed with the Blades and its gemheart is harvested. Some consider the Blades to be so effective that the greatshell hunts are unsportsmanlike.{{book ref|sa1|12}} It is unknown what role Shardblades play in other greatshell hunts.
+
+### Dueling
+{{quote
+|Fighting with Shardblades, though, that could be like a dance. The large weapons took a great deal of skill to swing properly, and Plate was resilient, so exchanges were generally drawn out. The fights were filled with grand motions, wide sweeps. There was a fluidity to fighting with a Shardblade. A grace.
+|Dalinar's thoughts on Shardblade duels{{book ref|sa1|58}}
+}}
+The Vorin kingdoms of eastern Roshar have a proud tradition of dueling, particularly with Shardblades. A duel between Shardbearers was not just a contest of skill, but an art form all its own.{{book ref|sa1|58}} Lighteyes and darkeyes alike gathered in arenas, to view not only a simple battle, but a grand spectacle. While there were rules and regulations as to what was permitted and forbidden during a duel, oftentimes certain actions were forbidden by traditions stronger than law.{{book ref|sa2|14}} Duels are supposed to be fought slowly and gracefully, both opponents testing one another before dueling in earnest. Duelists nearly always make use of traditional dueling styles, such as Windstance or Smokestance. Duels that are instead fought quickly with fast, brutal blows are nontraditional and unpopular with both highjudges and audiences, if not technically forbidden. While Shardblades typically do not need to be swung at full strength in combat, it is useful during a duel with someone also wielding another Shardblade.{{book ref|sa1|58}} Some duels are fought without a Shardblade, but even many of those are fought without a shield evoking the classical ideal of a duel with Shardblades.{{book ref|sa2|45}}
+
+{{sidequote
+|I am highprince here, Dalinar. In this arena, my word is the only law, granted me by the authority of the king.
+|Highjudge [[Istow]]{{book ref|sa2|56}}
+|side=right|size=300px
+}}
+
+Duels are moderated by a highjudge, who has absolute authority over what occurs during a duel within the arena.{{book ref|sa2|56}} Both duelists agree to terms in front of the highjudge before a duel. Duels are usually fought until a specific number of sections of Plate are Shattered. The typical number of Plates duelists fight for is one, but higher stakes duels can go for more two or three, but this can prove dangerous.{{book ref|sa1|58}} Some try to jam their Blade in gaps between the sections of Plate, hoping to break them.{{book ref|sa2|52}} This is a dangerous move though, and risks seriously wounding an opponent. A duel can also go until surrender, which allows a man to keep fighting until he feels he is bested or is rendered incapable of further fighting.{{book ref|sa2|56}} If a highjudge feels a duel has gone too far, she can end the duel herself. Duelists can also agree to a paired duel, in which one man fights two or a disadvantaged duel wherein the disadvantaged side need only have fewer duelists than the other side. Specific language when challenging another person to a duel is crucial as other duelists will use any flaws in the wording of the challenge to skew the duel to their own advantage.
+
+Duels can be fought for a variety of reasons. One is for sport, fighting to duels to practice and display skill.{{book ref|sa1|58}} Someone dueling can choose to compete to become the dueling champion of the kingdom. This is determined by statistical dueling rankings,{{book ref|sa1|58}} which prevent just any Shardbearer from challenging one ranked far higher.{{book ref|sa2|37}} Typically, a dueling champion will only agree to fight someone close to him in the rankings. Working ones way to the top of the rankings can typically take a year or two. Another reasons someone can challenge another to a duel is in recompense for an insult or some sort of wrongdoing.{{book ref|sa2|55}} This usually only applies to people of a similar rank, a subordinate is typically not permitted to challenge his superior to a duel. Duels can also be fought wagering Plate, Blades or both.{{book ref|sa2|14}} These duels are uncommon and usually something of a spectacle. This is one of the few ways that Shards change hands outside of actual combat. Duels to the death are very rare, although accidental death or serious injury are not unheard of in duels. One of the few ways that a duel to the death is permitted is by the [[Right of Challenge]], which is sometimes granted by a [[King's Boon|boon]] from the king.{{book ref|sa2|55}} The [[Alethi Codes of War]] forbid dueling in times of war, to avoid injuring officers, although few modern Alethi keep to the codes.{{book ref|sa1|12}}
+
+{{image|Scroll_of_Stances.jpeg|width=300px|side=right|Scroll showing a variety of Shardblade stances}}
+
+Duelists themselves have their own strongly held set of traditions, both as individuals and as a whole.{{book ref|sa3|15}} Some are borne out of necessity, such as how a Blade is held to avoid slicing something by accident or how to think of an enemy in combat. Others are less practical and seem almost mystical or spiritual. The manner in which they show respect to the traditions and institutions of dueling itself is one. Many duelists feel that the Blade itself is a part of them, a tradition perhaps dating back to the Radiants themselves. Some such as Adolin take this even further, believing that the Blade is a duelists life, and that they must be respected. Some also believe that a Blade cannot fail its wielder, a loss occurs only when the duelist fails the Blade.
+
+### Training Shardbearers
+A Shardbearer is typically trained in a specific way among the Alethi. Lighteyed boys of appropriate rank around the age of ten are chosen by an ardent swordmaster for training.{{book ref|sa2|16}} These boys typically already have at least some training with the sword. The swordmasters train in training grounds run by the ardentia. The swordmaster's job is to teach them the ten [[Stances|Shardblade Stances]], which are used in both dueling and regular combat.{{book ref|sa2|44}} They train with Blades in two ways. If the trainee has no Blade of his own, they can make use of wooden practice swords that approximate the balance and weight of a real Blade. They may also borrow one of the King's Blades.{{book ref|sa2|16}} Either way, when training with real Blades a guard is used to blunt the cutting edge.{{book ref|sa2|18}} The origin of these guards is unknown, but they are believed to come from long ago. As the Blades of the original Radiants could naturally dull themselves to prevent injury, it seems likely that they were developed at some point following the Recreance.{{book ref|sa3|15}} The guards are made of metal and conform to the edge of any Blade.{{book ref|sa2|18}} The guards themselves are useless and fragile on their own, but they are perfect for training. A swordmaster also coaches their student on how to control the Blade with their mind, commanding it to remain in place so it can be loaned to others.{{book ref|sa2|35}}
+
+### King's Blades
+One of the strongest traditions in Alethkar is the loaning of the King's Blade.{{book ref|sa2|58}} In Alethkar, both the king's Blade and his Plate are available to be used in a duel by those who have the favor of the king and are without Shards of their own. Borrowing the Blade does cost a hefty amount of [[sphere]]s, but it is not uncommon. Oftentimes kings dislike or are uncomfortable with this tradition, but they still follow the tradition. Kings will also make their Blades available for trainee Shardbearers to practice wielding an actual Blade.{{book ref|sa2|16}} This tradition is one of the reasons the Alethi have the best trained Shardbearers on Roshar. Whenever a Shardbearer is killed or dies, there is always someone prepared to bond their Blade and use it right away. On some occasions, a king will even allow their Blade to be used in actual combat, but it is uncertain how commonly this occurs.{{wob ref|8849}} If a king has multiple Blades, he will sometimes bestow one of the King's Blades on someone who he thinks is deserving of a Blade of their own.{{book ref|sa2|16}} Before the monarchy was restored in Alethkar, the highprinces carried on the tradition of the King's Blade by lending their own Blades.{{book ref|sa1|58}}
+
+### Space age Cosmere
+In the space age of the cosmere many planets have a universal fascination with Shardblades, and attribute Shardbearers with signs of divinity.{{book ref|tsm|11}} The wielders of dead Shardblades have a reputation for doing mercenary work, to the point of people assuming someone is a mercenary when they have a Blade.{{book ref|tsm|44}}
+
+## Battle Tactics
+Shardblades are such an effective tool on the battlefield that they have inspired their own tactical and countertactical uses. Combat in a battle against a vast number of regular soldiers differs significantly from a duel, and so the tactics that a Shardbearer makes use of are also quite different as well. Shardblades are typically most effective when they are used by a person that is also wearing Shardplate, as the Blades are so large that they are unwieldy without Plate.{{book ref|sa1|13}} The tactics discussed below typically assume the person wielding the Shardblade is also wearing Shardplate. These tactics also typically apply to dead Shardblades, as those who use them do not have inherent access to Surgebinding. It is worth noting however, that dueling knowledge may also come into play on the field of battle, if a Shardbearer faces an enemy Shardbearer.
+
+### Shardblade Tactics
+{{quote
+|A Shardbearer wasn't just a force of destruction; he was a force of morale and inspiration. The men fought more vigorously as they saw their brightlord felling foe after foe. Shardbearers changed battles.
+|Dalinar's thoughts on Shardbearers{{book ref|sa1|56}}
+}}
+
+The first tactical decision made using Shards is often deciding where to deploy them. As Shardblades are as rare as they are effective, generals and tacticians must decide where they are most useful. Shardbearers typically only fight in the most important battles.{{book ref|sa1|16}} For instance, no Shardbearers were necessary when the Alethi fought the Reshi in the [[wastescum skirmishes]],{{book ref|sa1|16}} but every single Shardbearer has been deployed to the Shattered Plains for the War of Reckoning.{{book ref|sa1|52}} While sending as many Shardblades to a conflict as possible may seem a simple solution, it may leave an army exposed elsewhere or leave its homeland defenseless.{{book ref|sa1|18}} Another consideration is the fact that sending Shardbearers to a battle may serve as a deterrent to one's enemies, but it may also escalate the conflict and provoke one's enemies to send their own Shardbearers into battle.{{book ref|sa1|52}}
+
+Shardbearers often lead formations themselves, cutting a hole in enemy ranks with their overwhelming force.{{book ref|sa1|68}} This creates a gap that well-trained men can exploit, which can allow for an army to overcome superior numbers. The usefulness of this tactic is twofold. Few regular men can put up an effective resistance against a Shardbearer, allowing them to lead a spectacularly effective charge, and this tactic also places the Shardbearers at the front of the regular soldiers, giving them a boost in morale.{{book ref|sa1|56}} Shardbearers may also be used in defensive fights to bolster the gaps in their own lines, moving quickly between weak places to give soldiers a chance to recover and return to their formation.{{book ref|sa1|67}} When a Shardbearer has Plate and Blade, they can also easily cut their way behind enemy lines, where they can wreak havoc with impunity and cause confusion that their own soldiers can then exploit.{{book ref|sa1|65}} Unlike fighting in a duel, the most effective way to combat large groups of soldiers is to maintain momentum and keep the Shardblade in constant motion, always cutting.{{book ref|sa1|56}} Practiced Shardbearers will use their control over their bond with their Shardblade to make use of it unexpectedly. They may throw their Shardblades in a more ranged attack than an enemy is used to and then dismiss it once the damage is done so that they can summon it back to their hands.{{book ref|sa2|35}} Another uncommon tactic is unexpectedly dismissing the Blade, which can surprise an enemy who is preparing to dodge the Blade or parry it.{{book ref|sa1|i|9}} This works particularly well when the Shardbearer is wearing Plate.
+
+{{image|Arena_adolin.jpg|width=300px|side=left|Adolin prepares for a fight in the dueling pit}}
+
+Due to their awesome power, Shardbearers fighting together often have to be careful that they do not inadvertently hurt one another or their own men.{{book ref|sa1|56}} Fighting in tandem with Shards is a skill all its own, keeping close enough to support one another but just far enough away to avoid interfering in the other's fight.{{book ref|sa1|67}} While the skill is uncommonly practiced, two Shardbearers supporting one another in combat can achieve incredible success.{{book ref|sa2|26}} Many times a Shardbearer will wade into enemy lines, bolstered by an honor guard fighting a few steps behind them.{{book ref|sa1|56}} The honor guard does not spend time defending the Shardbearer directly, but rather stays nearby to support the Shardbearer, so if his Plate is severely damaged or he is seriously injured, the Shardbearer can retreat to safety and not risk their life or their Shards.{{book ref|sa1|28}} Bolder Shardbearers will leave this honor guard behind and will attack enemies alone, either on foot or horseback.{{book ref|sa1|26}} Such a move is a tactical risk, as an isolated Shardbearer is at his most vulnerable and the loss of a Shardbearer in combat may prove disastrous for their own forces.{{book ref|sa1|56}} Shardbearers may also fight alone when capturing a wall or taking down some other fortification. Narrow wall tops are ideal for Shardbearers, as they are able to easily kill the clustered soldiers.{{book ref|sa3|11}} They must take care when scaling walls however, as some handholds are designed to be retracted by the defenders.{{book ref|sa3|66}} Unexpectedly pulling in a ledge that a Shardbearer is hanging from can be enough to send them spilling to the ground, cracking their Plate or killing them.
+
+As Shards are often passed down family lines,{{book ref|sa2|14}} they sometimes end up in the hands of someone who prefers not to be involved directly in combat. Aged warriors, those who lack a talent for fighting, or those who prefer to lead tactically from the rear{{book ref|sa2|8}} may not desire to engage directly in combat themselves, but also do not want to deprive their army of a Shardblade.{{book ref|sa1|52}} Shardbearers can will their Blade to remain and still remain fully bonded to the Blade.{{book ref|sa2|8}} This has lead to the practice of highprinces and other lighteyes lending their Blades to skilled officers. This tactic relies on a great deal of trust on both sides though. As the owner of the Blade has the ability to recall the Blade at any moment, the person fighting with it must trust that the owner will not dismiss the Blade, leaving them unarmed. For their part, the owner of the Blade must trust that the person wielding it will not interfere with the gem on the Blade or allow it to be damaged, which would prevent the true owner from being able to summon it until it is replaced with a new gemstone.{{wob ref|1844}}
+
+The Shardblade is such a powerful weapon that its versatility is often only limited by the creativity of its bearer. For instance, Adolin Kholin used his Shardblade stuck into the side of a plateau as a platform to stand on while clearing a space for him to stand on top of the plateau.{{book ref|sa2|26}} In another instance, Dalinar cuts section of rock away, allowing it to fall on his opponents below him.{{book ref|sa1|68}} He also will cut the stone underneath the feet of his opponents to make them lose their footing. An experienced Shardbearer can find a multitude of ways to use a Blade to his advantage in battle beyond the tactics in which they are typically trained.
+
+{{anchor|skepping}}
+When wielding a living Blade, a Shardbearer is able to use a technique called **skepping**. A duelist skeps their blade by making it vanish for a brief moment so it can pass through an opposing blade that is trying to block it. The reformed [[Windrunners]] have only recently begun practicing this technique. [[Ishar]] is very familiar with the technique, and is able to skep his Blade with ease.{{book ref|sa4|111}}
+
+### Countering Shardblades
+The most effective way of countering a Shardblade is to send another Shardbearer against them.{{book ref|sa1|24}} By leveling the playing field in this way, the overwhelming power of a Shardblade is negated and victory is left to the most skilled of the fighters.{{book ref|sa2|54}} However, when going up against a full Shardbearer, a person with both Blade and Plate, a Blade is often not enough to ensure victory.{{book ref|sa1|24}} In fact, in a duel between someone with only Plate and someone with only a Blade, the person with Plate will more often be successful, as they only need to get in one good strike on their opponent.{{book ref|sa3|11}} This is why most Shards are won by people who are already full Shardbearers.
+
+{{sidequote
+|In fighting a Shardbearer, everything became about that Blade. The Blade that nothing could stop, the Blade that didn't just kill the body— but severed the soul itself.
+|[[Kaladin]]'s thoughts on Shardblades{{book ref|sa2|18}}
+|side=right|size=300px
+}}
+As swords and arrows are practically useless against a Shardbearer, heavy weapons such as war hammers and axes are often used in an attempt to shatter the plate.{{book ref|sa1|56}} The most common tactic is to simply drown a Shardbearer in enemies.{{book ref|sa2|85}} Enemy forces attempt to attack from all directions, hoping that the Shardbearer may grow distracted or disoriented.{{book ref|sa1|56}} Despite the fact that most regular soldiers are afraid to face a Shardbearer, when they attack in large groups the weight of the army can force even the reluctant forward,{{book ref|sa1|56}} and there is always the chance that someone will get in a lucky blow.{{book ref|sa2|85}} Shardbearers are vulnerable if they can be separated from the soldiers supporting them, so if an army can separate a Shardbearer from their honor guard and limit their mobility, they have a decent chance of killing him.{{book ref|sa1|28}} One tactic to reduce a Shardblade's effectiveness is to get in close to the Shardbearer, staying within the Shardbearer's reach{{book ref|sa3|11}} and taking advantage of the Blade's long, non-lethal hilt.{{book ref|sa1|56}}{{book ref|sa2|89}} Fortifications may be constructed with this principle in mind, keeps built with narrow corridors to prevent a bulky Shardbearer from maneuvering.{{book ref|sa3|66}} There are also soldiers trained specifically to deal with Shardbearers. They utilize ropes and hooks to try to unbalance or trip the shardbearer, though this isn't always successful as shardplates are heavy. As the Shardblades cut through corpses instead of knocking them away like a normal weapon would, Shardbearers often become surrounded in corpses, which can lead to unstable footing and decreased mobility.{{book ref|sa1|56}} In extended battle, Shardbearers are rarely the last fighting, their enemy focuses on bringing them down first so that their Blades can be turned on their own men once they have fallen.{{book ref|sa1|67}} This means when a Shardbearer is killed, recovering their Blade and Plate are a higher priority than even retrieving the highlord's body.{{book ref|sa2|82}}
+
+One common vulnerability a Shardbearer has is their own arrogance. In fact, oftentimes Shardbearers allow their combat skills to dull or never bother becoming terribly skilled in the first place, as they become used to being near-invincible and fantastically stronger than any of their opponents.{{book ref|sa1|i|9}} This can be the undoing of a Shardbearer who faces a more practiced opponent or a Surgebinder. One specific move to counter a Shardblade that makes use of this weakness is called a lastclap.{{book ref|sa2|44}} Oftentimes Shardbearers do not swing at their full strength as they typically do not need to do so when fighting in large battles, as they have a Blade that can cut through any material.{{book ref|sa1|58}} This means that when they are swinging downward at an enemy with an overhead blow, the person they are swinging at can sometimes catch the Blade between their palms.{{book ref|sa2|32}} Some see this as a dumb move, only useful as a last resort, because it relies fully on an enemy's lack of care.{{book ref|sa2|44}}
+
+One uncommonly exploited weakness in a Shardblade is the gem at its hilt. If the gemstone on the hilt of a Blade is damaged or removed and the Shardbearer is somehow disarmed, he will be unable to summon the Blade to himself.{{wob ref|1844}} However, if someone can get close enough to a Shardbearer to disable his Blade in such a way, they are likely close enough to either kill the owner or be killed by him, making this tactic often impractical. Oftentimes, a surprise attack is the quickest way to kill a Shardbearer. If they are not currently on the battlefield, and therefore not in their Plate, a Shardbearer can be attacked before they have a chance to summon their Blade.{{book ref|sa2|89}} In close quarters fighting, such as hand-to-hand or with a knife, Shardblades are too long to be useful and are only a liability if summoned, eliminating the advantage of a Blade.
+
+### Combat in the Shattered Plains
+Shardblades also are helpful when dealing with the Shattered Plains in particular. When attempting to cross from one plateau to another that is held by an enemy, full Shardbearers will often leap the chasm between the two plateaus and establish a "beachhead" for the men setting bridges behind them.{{book ref|sa1|26}} This strategy is often followed by a cavalry attack across the bridge to push back the enemy.{{book ref|sa1|55}} Those who fight against the Shardbearers often attempt to push the Shardbearers off the plateau and into the chasm, killing them instantly, so this tactic is incredibly dangerous for unskilled Shardbearers. Shardblades are also useful in harvesting gemhearts rapidly from chasmfiends. A Blade can be used to kill the pupating chasmfiend, cutting through its chrysalis easily. Once dead, a Shardblade can easily be used instead of mallets to break open the chrysalis and remove the gemheart, allowing the Alethi to retreat quickly.{{book ref|sa1|15}}
+
+## Cosmere
+### Origin
+Shardblades, like the spren they are made from, can likely be termed Splinters, due to the fact that they are fragments of a Shard.{{wob ref|10563}} They are made out of a mixture of the unnamed God Metals of Honor and Cultivation. The precise proportion of the two differs depending on the type of spren that forms the Blade; as such, there are at least ten alloys.{{wob ref|11211}}{{wob ref|11949}}{{wob ref|2541}} Like all God Metals, they are Allomantically viable, and thus burnable by a [[Allomancy|Mistborn]], although it's yet to be seen what the effects would be.{{wob ref|13315}} Presumably, they would also have [[Hemalurgic]] and [[Feruchemical]] effects.{{wob ref|6082}}
+
+### Interactions with other Investitures
+Shardblades also seem to have a unique interaction with the Innate Investiture. When a Shardblade cuts a living being, it seems to sever the [[spiritweb]] of the being it is used on. It is uncertain how a Shardblade would behave if it was used on a post-[[Reod]] [[Elantrian]], as they are simultaneously living and dead, so it is possible that it would cut the Elantrian's flesh or merely leave the limb dead, depending on when the Elantrian is struck by the Blade.{{wob ref|1363}} Shardblades of all types also seem to be bonded directly to a person's spiritweb. [[Hemalurgy]] could be used to steal a Shardblade from someone, although it is unknown how Hemalurgic decay would impact this.{{wob ref|1153}} As heavily Invested objects,{{wob ref|5799}} Shardblades would be mostly immune to [[Allomantic]] Pushes and Pulls.{{wob ref|2801}} Influencing a Blade with Allomancy would require more power than even [[Rashek]] or [[Waxillium Ladrian]] with the [[Bands of Mourning]] wielded.{{wob ref|5258}} Additionally, Shardblades are theoretically capable of cutting or interfering with the lines produced by burning [[iron]] or [[steel]], as they are manifested in the Spiritual Realm.{{wob ref|2796}} People from off-world are able to use Shardblades.{{wob ref|1180}}
+
+[[Forgery]] could be used to gain a Shardblade, with some restrictions.{{wob ref|7235}} The Investiture is not powerful enough to temporarily create a new Shardblade, and if it somehow could it would be terribly inefficient.{{wob ref|4859}} Instead, if a person had once held a Shardblade and gave it up, a Forger could rewrite their past to make it that they had never given up the Blade, and they would then be able to summon that same Shardblade.{{wob ref|7235}} This would have the effect of tricking a Blade into believing that it is bound to two people at once and could be summoned by both of them. It is theoretically possible for the [[seon]]s and [[skaze]] of Sel to take the form of a Shardblade, but something would need to pull them more fully into the Physical Realm, like the Nahel bond does for the spren.{{wob ref|6197}}
+
+While there are only three known ways to heal from a Shardblade wound on [[Roshar]], it seems likely that other magic systems would also allow for that same healing. On [[Scadrial]], [[Gold#Feruchemical Use|goldminds]] of [[Feruchemy]] could be used to heal Shardblade damage.{{wob ref|4111}} The [[BioChromatic Breath|divine Breath]], the Breath of the [[Returned]] of [[Nalthis]], able to heal any typical wound or illness,{{wob ref|6724}} is also a possible solution for repairing the damage. On [[Sel]], the [[Aon]] [[Aon#Ien|Ien]], used for healing,{{book ref|elantris|19}} could potentially heal a Shardblade wound as well.
+
+### Relationship to Nightblood
+*See also: [[Nightblood]]*
+
+While most Shardblades originate on Roshar and seem to be ultimately derived from the power of [[Honor]] and possibly [[Cultivation]], this is not true of all Shardblades. The technical definition of a Shardblade is a heavily Invested weapon,{{wob ref|4878}} so Shardblades can be crafted with any manifestation of Investiture from any Shard, although some methods are far more difficult.{{wob ref|4859}} For instance, the sentient sword [[Nightblood]], created by [[Vasher]] and [[Shashara]] of [[Nalthis]] using [[Awakening]] and [[Investiture]] derived from the [[Shard]] [[Endowment]],{{book ref|wb|51}} is also considered a Shardblade.{{wob ref|6892}}{{wob ref|5152}} However, it is no ordinary Shardblade. While it cannot be summoned or take other forms like a [[spren]] can,{{book ref|sa2|86}} it is in fact several orders of magnitude more powerful than the Shardblade of a Radiant.{{wob ref|5617}}{{wob ref|163}} Nightblood is possibly even more powerful than the Honorblades. When struck against Ishar's Honorblade, that Blade was chipped.{{book ref|sa4|111}} It is unknown whether a spren Shardblade struck by Nightblood would be destroyed or damaged. Unlike typical Shardblades, Nightblood feeds on Investiture--such as Breaths,{{book ref|wb|56}} Stormlight,{{book ref|sa3|90}} and, ultimately, the bearer's soul--when it is drawn.{{wob ref|5813}} Nightblood is capable of consuming almost all types of Investiture.{{wob ref|661}}{{wob ref|6631}}
+
+## History
+### Heraldic Epochs
+*Main article: [[Heraldic Epochs]]*
+
+The very first Shardblades were the Honorblades.{{book ref|sa2|87}} They were gifted to the ten Heralds by the Almighty, the [[Shard]] [[Honor]], to aid in the fight against the Voidbringers and [[Odium]]. While these weapons were useful, over time it became clear that the Honorblades were not enough to continually defeat the Voidbringers. Each Desolation the Heralds would return to a populace that had forgotten them, and each time humanity drew closer to annihilation.{{book ref|sa2|i|7}} The spren, seeing how Honor had granted the Heralds these supernatural weapons and abilities, formed Nahel bonds with humans and did the same.{{book ref|sa2|87}} The Blades they created together were the very first of the Radiant Shardblades.
+
+{{sidequote
+|We had to be given Shardblades to fight, otherwise we would have had to resist the Voidbringers with clubs.
+|[[Kabsal]] on the origins of Shardblades{{book ref|sa1|45}}
+|side=right|size=300px
+}}
+
+These Shardblades were used by the Radiants to fight against the Voidbringers for at least several Desolations.{{book ref|sa2|64}} Finally, the Last Desolation, [[Aharietiam]], occurred.{{book ref|sa1|part=prelude}} The Heralds, broken under the pressure of their torture, abandoned their Honorblades and broke the [[Oathpact]]. They told mankind that humanity had won the war finally and left the Radiants to guide mankind themselves. At some point the [[Shin]] people obtained these nine remaining Honorblades and took them, guarding them for millennia.{{book ref|sa2|88}} At some point it was known that Shardblades could be blocked by aluminum,{{wob ref|8489}} although this knowledge has slipped into legend and been largely forgotten.{{book ref|sa3|100}}
+
+### Era of Solitude
+*Main article: [[Era of Solitude]]*
+
+The Radiants continued on, independently of the Heralds for several hundred years at least, until the [[Day of Recreance]], when the Radiants abandoned their Shards for unknown reasons.{{book ref|sa1|52}} When the Radiants laid down their Shards at the Recreance, they broke their bonds with their spren by betraying their oaths, killing them and trapping their bodies within the Shardblades they left behind,{{book ref|sa2|87}} leaving the spren in a state of eternal agony.{{book ref|sa3|28}} Initially, when the Radiants abandoned their Shardblades, the Blades remained fantastically sharp, but could no longer be bound to a person or summoned.{{book ref|sa1|67}} This betrayal of the Nahel spren broke their trust with humankind.{{book ref|sa2|3}} They refused to bond with men anymore and returned to Shadesmar.{{book ref|sa1|17}} At some point during the [[Era of Solitude]], the [[Herald]] [[Nale]] retrieved his own Honorblade for reasons unknown.{{wob ref|2562}}
+
+A few decades after the Recreance, a process was discovered to add a gemstone to the pommels of the Shardblades.{{book ref|sa2|67}} The Shardblades even shifted form to allow for the gemstones. This returned some of their old function to the dead Blades. They could once again be summoned, but they were not the same. For the next several hundred years following the Recreance, Shardblades were prized among nations of the world both as weapons of war{{book ref|sa1|29}} and symbols of power.{{book ref|sa1|23}} These Blades were considered to be heirlooms, and their paths and histories are accounted for through the generations.{{book ref|sa2|i|7}} Roughly half of the Shardblades made from the Recreance were eventually lost.{{wob ref|15647}}
+
+In the years immediately following the Recreance,{{wob ref|900}} a book called [[Arts and Majesty]] was written, dividing disciplines into masculine and feminine.{{book ref|sa2|25}} It claimed that masculine tasks were those done with two hands, while feminine tasks could be done with one. This was an attempt by men to gain exclusive control over Shardblades;{{wob ref|6245}} an attempt that was almost entirely successful.{{book ref|sa1|19}} This cultural shift happened over a particularly brief period of around twenty years.{{wob ref|900}} During this time, Shardblades were also used for some unusual purposes, such as carving the city of [[Yeddaw]] out of the ground.{{book ref|edgedancer|2}}
+
+It is uncertain if or when any new Radiants crafted Shardblades during this time period. It seems unlikely, as the Nahel spren had all retreated to their homeland of [[Shadesmar]].{{book ref|sa1|17}} There may have been a few dissident spren, similar to [[Sylphrena]]{{book ref|sa2|32}} or [[Ivory]]{{book ref|sa2|3}} but if there were any, they were few and far between. It is likely that any few Radiants arising during this time were killed by Nale, as he had been working for centuries to prevent the return of the Radiants.{{book ref|sa2.5|part=postscript}}
+
+### Refounding of the Knights Radiant
+{{image|Shallan-Veil-Radiant.JPG|width=200px|side=right|Shallan (as Veil) holding her living Shardblade}}
+
+{{quote
+|Speak again the ancient oaths and return to men the Shards they once bore. The Knights Radiant must stand again.
+|[[Tanavast]] in one of [[Dalinar's visions]]{{book ref|sa1|75}}
+}}
+
+The first non-Skybreaker Radiant confirmed to have created a Shardblade following the Recreance was [[Shallan Davar]], a young [[Veden]] girl.{{book ref|sa2|88}} She and her first spren, a [[Cryptic]] known as [[Testament]], reached the point in their bond where Shallan gained a Shardblade. However, Shallan's mother, who was possibly connected with the [[Ghostbloods]] or [[Skybreaker]]s, recognized her potential as a Radiant. She attempted to murder Shallan, but was instead killed in defense by Shallan wielding her Shardblade. This experience was so traumatizing to Shallan that she was unable to recall the exact circumstances of how she gained her Blade for many years, so knowledge of how Shardblades were created remained hidden.
+
+In the year 1168, [[Szeth|Szeth-son-Neturo]], a [[Truthless]] of [[Shinovar]] was sent by the [[Parshendi]] to kill [[Gavilar Kholin]], king of the kingdom of [[Alethkar]].{{book ref|sa1|prologue}} Wielding the Honorblade of the Herald Jezrien,{{book ref|sa2|87}} which he had received from his people,{{book ref|sa1|i|6}} Szeth assassinated many other rulers on the orders of King [[Taravangian]] of [[Kharbranth]].{{book ref|sa1|71}} The use of this Honorblade destabilized the political structures of most of the influential kingdoms of Roshar, particularly [[Azir]]{{book ref|sa2|i|9}} and the nation of [[Jah Keved]], where a succession war occurred.{{book ref|sa2|i|14}}
+
+In the final few days of year 1173, a former slave known as [[Kaladin Stormblessed]], who had bonded a [[honorspren]] named [[Sylphrena]],{{book ref|sa1|57}} swore the third [[Immortal Words|Ideal]] of the [[Windrunners]].{{book ref|sa2|84}} This allowed Syl the ability to become a Shardblade, returning the knowledge of the origins of Shardblades to mankind. Kaladin then used his Shardblade to fight Szeth, and reclaim Jezrien's Honorblade.{{book ref|sa2|86}} By this same time, [[Jasnah Kholin]] had also managed to progress to a point in her bond where her spren, [[Ivory]], could become a Blade.{{book ref|sa2|epilogue}} A few days later, in 1174, the [[Order of Edgedancers|Edgedancer]] [[Lift]] swore the third Ideal of her order, allowing her spren [[Wyndle]] to take the form of a Shardblade.{{book ref|edgedancer|19}}
+
+### True Desolation
+Following the arrival of the [[Everstorm]] and the start of the [[True Desolation]], [[Voidspren]]{{book ref|sa3|i|3}} and the [[Fused]]{{book ref|sa3|43}} made an active effort to gather up available dead Shardblades, as well as Plate. At least two other Radiants, [[Malata]] of the [[Dustbringers]] and [[Dami]] of the [[Stonewards]] have progressed sufficiently far to manifest a Shardblade as well.{{book ref|sa3|24}} Renarin Kholin has also managed to manifest a Blade,{{book ref|sa3|10}} but his spren [[Glys]] has been Enlightened by [[Sja-anat]], meaning his Blade may be something entirely unique.{{book ref|sa3|117}} Following the rediscovery of Urithiru, living Shardblades have became enormously important for permitting the operation of the Oathgates which allowed for Dalinar's coalition to form.{{book ref|sa3|1}} Jezrien's Honorblade was given by Kaladin to Dalinar, who kept it secret for some time.{{book ref|sa3|16}} During Kaladin's absence on his mission to [[Kholinar]], Dalinar entrusted the Honorblade to the men of [[Bridge Four]], hoping they could guard it and use it to practice their abilities.{{book ref|sa3|64}} Just before the [[Battle of Thaylen Field]], the men of Bridge Four were attacked in Urithiru{{book ref|sa3|i|14}} by an agent of [[Taravangian]] who stole the Honorblade.{{book ref|sa3|122}} Taravangian surrendered the Honorblade to Odium as a part of their agreement, who then gave it as a reward to [[Moash]].{{book ref|sa3|122}} <!-- Add a bit about Teft making a Blade too? How many do we need? -->
+
+## Known Shardbearers
+### Radiant Shardblades
+The Shardblades listed here are formed from living spren that have formed a [[Nahel bond]] with a human being. Any person that has bonded with a spren but has not yet manifested a Shardblade is not listed here.
+
+{| class='infobox sortable' align=center width=100%
+|- class=title
+! Spren Name !! Radiant Name !! Order !! class=unsortable| Typical Form !! class=unsortable| Notes !! class=unsortable| References
+|-
+| [[Ivory]]
+| [[Jasnah Kholin]]
+| [[Elsecaller]]
+| Sword
+|Blade is long and thin
+|{{book ref|sa2|epilogue}}
+|-
+| [[Pattern]]
+| [[Shallan Davar]]
+| [[Order of Lightweavers|Lightweaver]]
+| Sword
+| Sabre-like with a thin blade. Initially believed it to be a dead Shardblade - Has several faint lines down its length, glowing softly the color of garnet
+|{{book ref|sa2|72}}
+|-
+| [[Testament]]
+| [[Shallan Davar]]
+| [[Order of Lightweavers|Lightweaver]]
+| Sword or small round shield
+| Cutlass-like with an ornate guard reminiscent of a cryptic's spiral.
+| {{book ref|wat|28}}
+|-
+| [[Sylphrena]]
+| [[Kaladin Stormblessed]]
+| [[Windrunner]]
+| Spear, hammer, sword or shield
+| Blade and spear are covered in swirls with Windrunner's symbol at the center.
+|{{book ref|sa2|84}}{{book ref|sa3|10}}
+|-
+| [[Wyndle]]
+| [[Lift]]
+| [[Order of Edgedancers|Edgedancer]]
+| Pole or fork
+| Rarely appears as a Blade, Wyndle dislikes hurting people.
+|{{book ref|edgedancer|19}}{{book ref|oathbringer|119}}{{book ref|edgedancer|20}}
+|-
+| [[Spark]]
+| [[Malata]]
+| [[Dustbringer]]
+| Blade
+| *None*
+|{{book ref|sa3|24}}
+|-
+| [[Glys]]
+| [[Renarin]]
+| [[Truthwatcher]]*
+| Blade
+| Glys is an Enlightened spren, so the situation is unique. Appears thin, almost without a crossguard with waving folds to the metal
+|{{book ref|sa3|10}}
+|-
+| [[Rua]]
+| [[Lopen]]
+| [[Windrunner]]
+| Dagger or blade
+| As a Blade, can manifest an engraving of Rua's image
+|{{book ref|sa3.5|epilogue}}
+|-
+| [[Caelinora]]
+| [[Huio]]
+| [[Windrunner]]
+| Hammer or spear
+| Larger than a typical [[Shardhammer]]
+|{{book ref|sa3.5|18}}{{book ref|sa3.5|19}}
+|-
+| *unknown*
+| *[[Starfalls Windrunner|unknown]]*
+| [[Windrunner]]
+| Sword
+| Radiant from the [[Heraldic Epochs]]
+|{{book ref|sa1|19}}
+|-
+| [[Phendorana]]
+| [[Teft]]
+| [[Windrunner]]
+| Spear
+| Spear with a cross lugs, like those on a hunting spear.
+|
+|-
+| [[121]]
+| [[Nale]]
+| [[Skybreaker]]
+| Sword
+| Distinct from his Honorblade, otherwise not described
+| {{book ref|sa3|106}}
+|-
+| *unknown*
+| [[Dami]]
+| [[Stoneward]]
+| Imposing spiked tower shield
+| *None*
+| {{book ref|wat|63}}
+
+|}
+
+### Dead Shardblades
+This list of known dead Shardblades is organized by current owner or most recent known owner.
+
+{| class='infobox sortable' align=center width=100%
+|- class=title
+! Shardbearer !! Blade Name !! Previous Holder !! class=unsortable| Appearance !! class=unsortable| Notes !! class=unsortable| References
+|-
+| [[Adolin Kholin]]
+| [[Mayalaran]]{{book ref|sa3|120}}
+| [[Tinalar]]
+| Sinuous cutting edge, crystalline back, former Blade of an Edgedancer
+| Won in a duel in Adolin's youth. Unoathed.
+| {{book ref|sa2|14}}
+|-
+| [[Aladar]]
+| *Unknown*
+| *Unknown*
+| *Unknown*
+| Prefers to lead from rear, often lends Blade to officers
+| {{book ref|sa2|8}}
+|-
+| [[Dalinar Kholin]] (Unbound)
+| *Unknown*
+| [[Talenel]] (Unbound)
+| Wider than average -- cleaver-like
+| Unbound at the request of the Stormfather
+| {{book ref|sa2|76}}
+|-
+| [[Elhokar Kholin]] (Deceased)
+| [[Sunraiser]]
+| [[Kalanor]]
+| Long, thin -- etched with ten fundamental glyphs
+| Sunraiser's current owner is an unknown singer, who was in the invasion of Urithiru following Elhokar's death
+| {{book ref|sa1|13}}
+|-
+| [[Elhokar Kholin]] (Deceased)
+| *Unknown*
+| *Unknown*
+| *Unknown*
+| Current owner is unknown. [[Dalinar]] won a shardblade (and plate) from a Parshendi during the first year of the [[War of Reckoning]]. Gifted to [[Elhokar]] to bestow upon a useful warrior.
+| {{book ref|sa1|18}}
+|-
+| [[Eshonai]] (Deceased)
+| *Unknown*
+| *Unknown*
+| Wicked and barbed, flame patterns
+| Taken by the Fused along with her Plate
+| {{book ref|sa2|i|11}}
+|-
+| [[Fisk]]
+| [[Loremaker]]
+| *Unknown*
+| *Unknown*
+| May be one of the unnamed Shardblades won by Adolin
+| {{book ref|sa4|50}}
+|-
+| [[Gavilar Kholin]] (Deceased)
+| [[Firestorm]]
+| *Unknown*
+| Edged on both sides, flame patterns
+| Was in possession of Elhokar as King's Blade, presumably went to Jasnah after her coronation{{book ref|sa2|16}}
+| {{book ref|sa2|14}}
+|-
+| [[Graves]] (Deceased)
+| *Unknown*
+| *Unknown*
+| *Unknown*
+| Stolen by the Fused for purposes unknown{{book ref|sa3|43}}
+| {{book ref|sa2|82}}
+|-
+| [[Hanavanar]] (Deceased)
+| *Unknown*
+| *Unknown*
+| *Unknown*
+| Kept Blade a secret, two of his murdered men also had Blades, fate of all three unknown
+| {{book ref|sa2|14}}
+|-
+| [[General Khal]]
+| *Unknown*
+| [[Relis Ruthar]]
+| Colored a deep black
+| Won by Adolin in his duels
+| {{book ref|sa2|66}}{{book ref|sa2|56}}
+|-
+| [[Liss]]
+| *Unknown*
+| *Unknown*
+| *Unknown*
+| Kept a secret to be used in assassinations
+| {{book ref|sa2|prologue}}
+|-
+| [[Meridas Amaram]] (Deceased)
+| *Unknown*
+| [[Helaran Davar]]
+| Thick, curved, one edge in shape of flames or ripples, a gem stone set at the pommel. Etchings all along its surface.
+| Stolen by Amaram from Kaladin, now owned by Rock after he killed Amaram; taken with him to the Horneater Peaks{{book ref|sa4|12}}
+| {{book ref|sa1|51}}{{book ref|sa2|19}}{{book ref|sa2|52}}
+|-
+| [[Moash]] (Lost)
+| *Unknown*
+| [[Abrobadar]]
+| Edged on both sides, twisting vine pattern at center, heliodor pommel
+| Given up to the Fused in exchange for his life{{book ref|sa3|43}}
+| {{book ref|sa2|66}}
+|-
+| [[Renarin Kholin]] (Given up)
+| *Unknown*
+| [[Salinor Eved]]
+| *Unknown*
+| Won by Adolin in his duels, given to ardents after Renarin could manifest his own Blade
+| {{book ref|sa2|14}}
+|-
+| [[Resi]]
+| *Unknown*
+| *Unknown*
+| *Unknown*
+| Only full Shardbearer in Thanadals camp, called Royal Defender
+| {{book ref|sa1|58}}
+|-
+| [[Ruthar]]
+| *Unknown*
+| *Unknown*
+| *Unknown*
+| Only Blade remaining to Ruthar after Adolin's duels
+| {{book ref|sa2|67}}
+|-
+| [[Talanor]]
+| *Unknown*
+| *Unknown*
+| *Unknown*
+| Only possess a Blade, refused Adolin's duel off
+| {{book ref|sa2|22}}
+|-
+| [[Gavinor Kholin]]
+| [[Oathbringer (Shardblade)|Oathbringer]]
+| [[Dalinar Kholin]] (unbonded)
+| Handspan wide, curvy, hooked tip, edged on one side with wave-like serrations near hilt
+| Given to Gavinor after being stolen by [[Odium]] for use in the contest of Champions
+| {{book ref|sa5|131}}
+|-
+| [[Valam]] (Deceased)
+| *Unknown*
+| *Unknown*
+| *Unknown*
+| Left beside body of the king, current owner unknown
+| {{book ref|sa2|i|14}}
+|-
+| [[Yanagawn]]
+| [[Blade of Memories]]
+| [[Abidi]]
+| *Unknown*
+| Azish Imperial Shardblade
+| {{book ref|sa5|134}}
+|-
+| [[Yanagawn]]
+| [[Xorm]]
+| *Unknown*
+| *Unknown*
+| Unoathed
+| {{book ref|sa5|147}}
+|-
+| [[Sigzil]]
+| [[Vienta]]
+| *None*
+| *Unknown*
+| Bond broken to protect her from getting killed with [[Anti-Light]]
+| {{book ref|sa5|118}}
+|-
+| [[Sigzil]]
+| [[12124]]/Auxiliary
+| [[Szeth]]
+| A flame-bladed sword with an elaborate guard and ricasso
+| Consumed by [[Dawnshard]]
+| {{book ref|tsm|20}}
+|}
+
+### Former Shardbearers
+This is a list of former Shardbearers that have lost their Blade or have died and had their Blade claimed by someone else. The references section refers to the first specific instance this person was mentioned to have a Shardblade or the Shardblade appeared, for specific references for the details provided in this table, see the respective Shardbearer's page.
+
+{| class='infobox sortable' align=center width=100%
+|- class=title
+! Shardbearer !! Blade Name !! Previous Holder !! Next Holder !! class=unsortable| Appearance !! class=unsortable| Notes !! class=unsortable| References
+|-
+| [[Abrobadar]]
+| *Unknown*
+| *Unknown*
+| [[Moash]]
+| Edged on both sides, twisting vine pattern at center, heliodor pommel
+| Won by Adolin in his duels and given to Moash
+|{{book ref|sa2|57}}
+|-
+| [[Gallam]]
+| *Unknown*
+| *Unknown*
+| [[Relis Ruthar]]
+| *Unknown*
+| Defeated by Highprince Ruthar in the battle against [[Kalanor]], Blade was given to Relis Ruthar
+| {{book ref|sa3|26}}
+|-
+| [[Helaran]]
+| *Unknown*
+| *Unknown*
+| [[Meridas Amaram]]
+| Thick, curved, one edge in shape of flames or ripples, heliodor pommel 
+| None
+| {{book ref|sa2|19}}
+|-
+| [[Kalanor]]
+| [[Sunraiser]]
+| *Unknown*
+| [[Elhokar]]
+| Long, thin - etched with ten fundamental glyphs
+| This Blade was won by Dalinar, but given to Gavilar for his as-of-yet unborn heir
+| {{book ref|sa3|26}}
+|-
+| [[Relis Ruthar]]
+| *Unknown*
+| [[Gallam]]
+| [[General Khal]]
+| *Unknown*
+| Won by Adolin in his duels and given to Khal
+| {{book ref|sa2|57}}
+|-
+| [[Sadees]]
+| [[Oathbringer (Shardblade)|Oathbringer]]
+| *Unknown*
+| *Unknown*
+| | Long, Curved, with wavelike serrations near the hilt
+| Eventually passed down to [[Tanalan's father|Tanalan]]
+| {{book ref|sa3|11}}
+|-
+| [[Tanalan's father|Tanalan]]
+| [[Oathbringer (Shardblade)|Oathbringer]]
+| *Unknown*
+| [[Dalinar Kholin]]
+| | Long, Curved, with wavelike serrations near the hilt
+| Eventually passed from [[Sadees]]
+| {{book ref|sa3|11}}
+|-
+| [[Torol Sadeas]]
+| [[Oathbringer (Shardblade)|Oathbringer]]
+| [[Dalinar Kholin]]
+| [[Meridas Amaram]]
+| Long, Curved, with wavelike serrations near the hilt
+| Traded to Sadeas by Dalinar for the lives of the Bridgemen
+| {{book ref|sa3|22}}
+|-
+| [[Salinor Eved]]
+| *Unknown*
+| *Unknown*
+| [[Renarin Kholin]]
+| Once had a ruby on the pommel, destroyed by Adolin
+| Lost to Adolin Kholin, who granted it to his brother
+| {{book ref|sa2|14}}
+|-
+| [[Tinalar]]
+| [[Mayalaran]]{{book ref|sa3|120}}
+| *Unknown*
+| [[Adolin Kholin]]
+| Sinuous cutting edge, crystalline back, former Blade of an Edgedancer
+| Lost a duel to Adolin in his youth
+| {{book ref|sa2|14}}
+|}
+
+### Honorblades
+{{for|Honorblade#Blades|a list of all eleven Honorblades}}
+
+## Development
+{{quote
+|Can I make a situation where these oversized, over-stylized blades are actually practical? Why in the world would you need a weapon like that? And how do you actually use one?
+|[[Brandon Sanderson]]{{wob ref|9020}}
+}}
+[[Brandon Sanderson]]'s inspiration for Shardblades came out of the books, art, and video games in the fantasy genre during the 80s and 90s. He was a big fan of the [[Wikipedia:Final Fantasy|Final Fantasy]] games on the [[Wikipedia:NES|NES]], in which there are oversized swords.{{wob ref|9020}} Impractically large and ornate swords were common in other fantasy art during this time period as well. Brandon began to think about the circumstances in which these swords would be actually be practical and the kinds of enemies that they would be useful in combating. He also began to wonder how he could even make these swords useful, and came to the conclusion that they would have to be summoned. Brandon also felt that lightsabers are the coolest magic sword, but because Star Wars is science fiction, he wanted to come up with a cool magic sword for the fantasy genre.{{wob ref|1005}}
+
+Over the years, Brandon's concept of the Shardblade has grown and evolved in small ways that sometimes he still struggles to keep straight.{{wob ref|1844}} For instance, Shardblades originally could be stolen from their owners by knocking the gemstone off of the hilt. Eventually Brandon decided that other methods of stealing a Shardblade were more dramatic, so he altered the way that bond with a Shardblade worked. Even still, he occasionally forgets about this change in the Shardblade bond when drafting new books in the Stormlight Archive.
+
+## Trivia
+*In the initial draft of [[The Way of Kings]], Kaladin earned a Shardblade while defending [[Elhokar]] from an assassin, and kept it instead of giving it up.{{wob ref|4650}}
+*Brandon had a character dual wield a pair of Shardblades in the initial draft of [[The Way of Kings]] from 2002.{{wob ref|1234}}
+*There is a miscount in the original draft of Words of Radiance, where Dalinar's army ends up with one too many Shardblades after Adolin has completed his duels. It was corrected by making Teleb borrow one of the King's Blades.{{wob ref|8849}}
+*A Shardblade could not inflict long-term damage to Hoid,{{book ref|sa2|epilogue}} because it damages the soul and Hoid's healing method repairs the soul.{{wob ref|5606}}
+*There is no theoretical upper limit to the number of dead Shardblades a person can bond, and a person may have multiple living Shardblades, but it would be difficult to obey the oaths of multiple orders at the same time.{{wob ref|6647}}
+*Dalinar Kholin is unable to summon his Shardblade while he is experiencing one of his [[Dalinar's visions|visions]].{{book ref|sa1|19}}
+*Adolin Kholin has a habit of repeatedly summoning and then dismissing his Blade when he is nervous,{{book ref|sa2|50}} a trait he may have inherited from Gavilar, his uncle .{{book ref|sa3|11}}
+
+## Notes
+;Footnotes
+<references group=fn />
+<references />
+{{partial}}
+{{Stormlight}}
+[[category: Shardblades| ]]
+[[es:Hoja esquirlada]]

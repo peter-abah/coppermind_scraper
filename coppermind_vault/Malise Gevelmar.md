@@ -1,0 +1,47 @@
+---
+image: "Lin and Malise Davar by Marie Seeberger.jpg"
+family: "House Davar"
+parents: "Brightlord Gevelmar"
+spouse: "Lin Davar"
+children: "Helaran, Balat, Wikim, Jushu, Shallan (stepchildren) <!-- Note: Lin and Helaran become enemies before Lin's marriage to Malise, but Helaran is not officially disowned until later -->"
+born: "c. {{Rosharan date|1147|missing-date=y"
+---
+
+{{ref|group=fn|text=Shallan was born in 1156, and Malise is noted as being "less than ten years older" than Shallan.{{book ref|sa2|45}}}}
+|died={{Rosharan date|1172|10|7/8}} - killed by [[Lin Davar|Lin]]{{book ref|sa2|73}}
+|religion=Vorinism
+|nation=Jah Keved
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+**Malise Gevelmar**{{ref|group=fn|text=In most circumstances, Veden women do not take a married name.{{wob ref|14904}}}} is a [[lighteyes]] from [[Jah Keved]] on [[Roshar]]. She is the second wife of [[Lin Davar]] and the stepmother of his children, including [[Shallan]].
+
+## Appearance and Personality
+Malise is short and plump.{{book ref|sa2|61}} She has "buttonlike features" and black hair with blonde streaks.{{book ref|sa2|45}}
+
+She is the youngest daughter of Brightlord [[Gevelmar]].{{book ref|sa2|39}} House Gevelmar is rural and not particularly notable.{{wob ref|1161}} As a member of the nobility, she has some disdain for those of lower [[dahn]].{{book ref|sa2|39}} She is generally non-threatening, but is capable of significant anger.{{book ref|sa2|61}} 
+
+## History
+Shortly after [[Shallan's mother]] died, her father married Malise and she moved into the Davar estate in [[Valam princedom]].{{book ref|sa1|5}} Around that time, the Davar family was going broke, the oldest son [[Helaran]] had deserted the family, and Lin was increasingly unstable, often throwing things at his servants or beating them severely.{{book ref|sa2|39}} Over the next few years, Lin's sanity seemed to gradually decline despite the discovery of valuable quarries on Davar lands.{{book ref|sa2|73}}
+
+Malise initially accepted Lin's story that [[Shallan's mother]] was killed by her lover in a murder-suicide,{{book ref|sa2|39}} but later questioned whether this was true after Lin began battering her.{{book ref|sa2|45}} When Lin later ordered [[Rin]] to assassinate Lin's own son Helaran,{{book ref|sa2|61}} Malise vehemently protested. Lin became enraged and beat her, breaking her arm and imprisoning her in her room.{{book ref|sa2|65}} [[Shallan]] tried to arrange for [[Balat]] and Malise to escape the house,{{book ref|sa2|65}} but shortly before the planned escape, Malise revealed the plan and Lin killed her with blows to the head.{{book ref|sa2|73}} Balat confronted Lin, but Lin severely injured him and attempted to attack [[Eylita]]. However, Malise's death prompted Shallan to give Lin wine poisoned with [[blackbane]], which incapacitated him.{{book ref|sa2|73}} Shallan was forced to kill Lin and the family discovered the broken [[Davar soulcaster]],{{book ref|sa2|73}} setting events into motion that resulted in Shallan seeking an apprenticeship with [[Jasnah Kholin]].
+
+## Relationships
+### Lin Davar
+Malise is sent to marry Lin by her father in an arranged marriage, and they are married less than a month after meeting each other.{{book ref|sa2|39}} Approximately six months after her marriage to Lin, [[Wikim]] notes that Malise cries every other night.{{book ref|sa2|45}} Lin beats Malise, scaring off one of Shallan's tutors named [[Hasheh]].{{book ref|sa2|45}} Lin's behavior causes multiple tutors to quit, and Malise is stuck looking for replacements.{{book ref|sa2|65}} As things devolve in the Davar household, Malise regrets the marriage.{{book ref|sa2|65}} She tells Shallan that there is a "beast" inside Lin and that he cannot let things go. She believes he will ultimately kill the entire family.{{book ref|sa2|65}}
+
+### Shallan Davar
+Malise oversees Shallan's studies despite her own lack of education.{{book ref|sa2|65}} Since the Davars cannot retain tutors, Malise wants to teach Shallan, but she is not equipped to do so; her family ignored education like many rural [[Veden]] houses.{{book ref|sa1|7}} She is able to read [[women's script]]{{book ref|sa2|45}} but has little knowledge about history or other subjects.{{book ref|sa2|65}}  Like Shallan's brothers, Malise harbors some resentment that Shallan is the only one in the family who avoids Lin's wrath.{{book ref|sa2|65}} Shallan feels like she barely knows her stepmother despite years of living together, but does feel protective of her.{{book ref|sa2|65}}
+
+## Notes
+;Footnotes
+<references group=fn />
+;References
+<references />
+<!-- chapters
+sa1: 5, 7
+sa2: 39, 48, 61, 65, 73
+-->
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:28, 31 July 2019 (UTC)}}
+{{Stormlight}}

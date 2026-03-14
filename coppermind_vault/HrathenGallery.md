@@ -1,0 +1,19 @@
+## Official Art
+<gallery heights=300px caption="Official Art" mode=packed>
+Elantris US cover art.jpg | On the US cover of *[[Elantris (book)|Elantris]]*
+Elantris polish cover.jpg | On the Polish cover of *[[Elantris (book)|Elantris]]*
+Elantris GA3 cover.jpg | On the cover of Graphic Audio edition of *[[Elantris (book)|Elantris]]*
+Elantris CN cover.jpg | <center><small>by {{a|Jian Guo}}</small></center> Mainland China cover
+Hrathen by Olena Vasina.jpg | <center><small>by Olena Vasina</small></center> Ukrainian edition interior art
+Hrathen Character Pin.png | <small><center>by {{a|Anna Earley}}</center></small> Hrathen Character Pin
+</gallery>
+
+## Fanworks
+<gallery caption="Fanworks" mode="packed" heights=300px>
+Sel-5-Hrathen.jpg | <center><small>by {{a|botanicaxu}}</small></center>
+Hrathen by Shuravf.jpg | <center><small>by {{a|Shuravf}}</small></center>
+Hrathen and Sarene by ShiroXIX.png | <center><small>by {{a|ShiroXIX}}</small></center>
+Hrathen by Egilde Art.jpg| <small><center>by {{a|Egilde Art}}</center></small>
+</gallery>
+
+[[Category: Gallery Subpages]]

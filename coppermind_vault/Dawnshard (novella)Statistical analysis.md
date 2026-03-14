@@ -1,0 +1,108 @@
+
+This page contains a statistical analysis of ***[[Dawnshard (novella)|Dawnshard]]***, a novella in [[The Stormlight Archive]].
+
+For a full series overview and other books in the series, see [[The Stormlight Archive/Statistical analysis]].
+
+### Chapter by Chapter Breakdown
+{| class="wikitable sortable"
+!Chapter
+!Character
+!Word Count
+!Percentage
+|-
+| [[Dawnshard _(novella)/Summary#|Prologue]] || [[Yalb]]  || 1,361 || 2.47%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 1]] || [[Rysn Ftori]]  || 2,659 || 4.83%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 2]] || [[Rysn Ftori]]  || 3,365 || 6.11%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 3]] || [[Lopen]]  || 2,660 || 4.83%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 4]] || [[Rysn Ftori]]  || 2,848 || 5.17%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 5]] || [[Rysn Ftori]]  || 2,768 || 5.02%
+|-
+| rowspan="2"| [[Dawnshard _(novella)/Summary#|Chapter 6]] || [[Rysn Ftori]]  || 2,635 || 4.78%
+|-
+| [[Nikliasorm]]  || 883 || 1.6%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 7]] || [[Lopen]]  || 2,491 || 4.52%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 8]] || [[Rysn Ftori]]  || 2,037 || 3.7%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 9]] || [[Rysn Ftori]]  || 5,465 || 9.92%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 10]] || [[Rysn Ftori]]  || 2,782 || 5.05%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 11]] || [[Lopen]]  || 2,507 || 4.55%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 12]] || [[Rysn Ftori]]  || 1,528 || 2.77%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 13]] || [[Lopen]]  || 1,880 || 3.41%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 14]] || [[Rysn Ftori]]  || 1,035 || 1.88%
+|-
+| rowspan="2"| [[Dawnshard _(novella)/Summary#|Chapter 15]] || [[Lopen]]  || 2,558 || 4.64%
+|-
+| [[Rysn Ftori]]  || 985 || 1.79%
+|-
+| [[Dawnshard _(novella)/Summary#|Chapter 16]] || [[Rysn Ftori]]  || 2,181 || 3.96%
+|-
+| rowspan="2"| [[Dawnshard _(novella)/Summary#|Chapter 17]] || [[Lopen]]  || 536 || 0.97%
+|-
+| [[Rysn Ftori]]  || 392 || 0.71%
+|-
+| rowspan="4"| [[Dawnshard _(novella)/Summary#|Chapter 18]] || [[Lopen]]  || 860 || 1.56%
+|-
+| [[Rysn Ftori]]  || 1,313 || 2.38%
+|-
+| [[Lopen]]  || 334 || 0.61%
+|-
+| [[Rysn Ftori]]  || 811 || 1.47%
+|-
+| rowspan="2"| [[Dawnshard _(novella)/Summary#|Chapter 19]] || [[Lopen]]  || 255 || 0.46%
+|-
+| [[Rysn Ftori]]  || 3,549 || 6.44%
+|-
+| rowspan="2"| [[Dawnshard _(novella)/Summary#|Epilogue]] || [[Lopen]]  || 1,326 || 2.41%
+|-
+| [[Rysn Ftori]]  || 1,092 || 1.98%
+|}
+
+### Unique POV Breakdown
+{| class="wikitable sortable"
+!Character (4)
+!# of POVs (29)
+!% of Total POVs
+!Word Count (55,096)
+!% of Word Count
+|-
+| [[Lopen]]
+| align="right" | 10
+| align="right" | 34.48%
+| align="right" | 15,407
+| align="right" | 27.96%
+|-
+| [[Nikliasorm]]
+| align="right" | 1
+| align="right" | 3.45%
+| align="right" | 883
+| align="right" | 1.6%
+|-
+| [[Rysn Ftori]]
+| align="right" | 17
+| align="right" | 58.62%
+| align="right" | 37,445
+| align="right" | 67.96%
+|-
+| [[Yalb]]
+| align="right" | 1
+| align="right" | 3.45%
+| align="right" | 1,361
+| align="right" | 2.47%
+|}
+
+{{meta/done}}
+{{Stormlight}}
+[[Category: Stormlight Archive|*3.5x]]
+[[category: statistics]]

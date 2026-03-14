@@ -1,0 +1,17 @@
+---
+abilities: "{{tag+|Smoker"
+---
+
+|ethnicity=Skaa
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[Mistborn: The Final Empire]]
+}}
+**Cobble** is a [[skaa]] [[copper]] [[Misting]] (aka a [[Smoker]]) on [[Scadrial]].{{book ref|mb1|10}}
+
+He is an apprentice of [[Clubs]], used to disguise one of [[Kelsier's crew]]'s meetings.
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 10:56, 11 September 2018 (MST)}}
+{{Mistborn|Era 1}}

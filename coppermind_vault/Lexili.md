@@ -1,0 +1,12 @@
+{{settlement
+|nation=Greater Hexi
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Lexili** is a town in [[Greater Hexi]] on [[Roshar]]. It lies along a river that separates Hexi and [[Marat]], and is near the western edge of Hexi, by its mountains.{{map ref|Eastern Makabak}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 23:13, 19 November 2020 (UTC)}}
+{{Stormlight}}

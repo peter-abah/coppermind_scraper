@@ -1,0 +1,16 @@
+---
+image: "Armsman - Reckoners Board Game.jpg"
+powers: "{{tag+|Epic"
+---
+
+|earth=Reckoners
+|books=[[The Reckoners]]
+}}
+**Armsman** is an [[Epic]] in [[Wikipedia: Omaha|Omaha]]. The [[Reckoners]] were possibly planning to kill him.{{book ref|Steelheart|7}}
+
+[[David]] guesses that the Reckoners were targeting the Armsman, and used it to convince them to listen to David. 
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:53, 25 December 2016 (MST)}}
+{{Reckoners}}

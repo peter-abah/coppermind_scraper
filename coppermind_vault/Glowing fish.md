@@ -1,0 +1,14 @@
+{{lifeform
+|native=[[Cognitive Realm#Drominad subastral|Drominad subastral]]
+|type=Fish
+|world=First of the Sun
+|universe=[[Cosmere]]
+|introduced=[[Isles of the Emberdark]]
+}}
+{{spoilers|iote}}
+**Glowing fish** are a type of [[Investiture|Invested]] fish living in the [[Cognitive Realm#Drominad subastral|Drominad subastral]]. They live in shoals, and swim around in the [[Cognitive Realm#Emberdark|Unsea]], avoiding larger creatures, such as their natural predator, the [[Skullsnake]].{{book ref|iote|31}} [[Navigator]]s can sense shoals of glowing fish.{{book ref|iote|34}}
+
+## Notes
+<references />
+{{complete}}
+{{Emberdark}}

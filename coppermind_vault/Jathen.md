@@ -1,0 +1,15 @@
+---
+#profession: "Soldier"
+nation: "Shinovar"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Wind and Truth"
+---
+
+{{update|sa5}}
+**Jathen** is a [[Shin]] soldier on [[Roshar]].{{book ref|sa5|59}}
+
+## Notes
+<references />
+{{stub}}
+{{Stormlight}}

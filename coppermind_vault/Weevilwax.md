@@ -1,0 +1,20 @@
+---
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+**Weevilwax** is a substance on [[Roshar]] that is used as an adhesive, a seal, an artistic medium, and for making candles.
+
+## Examples of usage
+*[[Jasnah Kholin]] uses it to seal a message to her hired assassin, [[Liss]].{{book ref|sa2|prologue}}
+*[[Shallan Davar]] uses some of Jasnah's wax to hang a map of [[Urithiru]] on a wall when researching its location.{{book ref|sa2|47}}
+*A note from the [[Ghostbloods]] to Shallan was stuck to a wall outside her rooms with weevilwax.{{book ref|sa2|88}}
+*A standing mirror in [[Dalinar Kholin]]'s rooms in [[Urithiru]] is decorated with images of [[windspren]] that appear to be carved from weevilwax and then [[Soulcast]] into hardwood.{{book ref|sa3|4}}
+*After the loss of [[Stormlight]], one of the conference rooms in the [[Bronze Palace]] uses weevilwax candles.{{book ref|sa5|147}}
+
+## Notes
+<references /><!-- sa2: prologue, 47, 88; sa3: 4; sa5: 147 -->
+{{complete|--[[User:Stargazer|Stargazer]] ([[User talk:Stargazer|talk]]) 19:25, 10 December 2024 (UTC)}}
+{{Stormlight}}
+[[category: list articles]]

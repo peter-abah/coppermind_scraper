@@ -1,0 +1,16 @@
+{{lifeform
+|type={{cat tag|Plants|Plant}}
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Cussweed** or **yamma root** is a plant native to [[Roshar]].
+
+Ground cussweed roots are useful in treating sores.{{book ref|sa1|6}}
+
+[[Gaz]] chews on it.{{book ref|sa1|27}} [[Jix]] chewed on some during [[House Davar]]'s trip to a menagerie.{{book ref|sa2|45}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:17, 3 September 2016 (MST)}}
+{{Stormlight}}

@@ -1,0 +1,13 @@
+{{architecture
+|usage=[[wikipedia: rail yard|Train yard]]
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[The Alloy of Law]]
+}}
+
+The **Evergall Trainyards** are a [[wikipedia: rail yard|train yard]] on [[Scadrial]], likely in [[Elendel]]. [[House Tekiel|House Tekiel's]] new [[Breaknaught]] train car was on display there from the 4th of Doxil to the 19th of Doxil, {{date|341|pc}}.{{file ref|Elendel_Daily_broadsheet.png|*The Elendel Daily* broadsheet}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:49, 6 May 2024 (UTC)}}
+{{Mistborn|Era 2}}

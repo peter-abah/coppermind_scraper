@@ -1,0 +1,14 @@
+---
+profession: "Quartermaster"
+groups: "Seattle Police Department, Fabian Augments cartel"
+earth: "Frugal Wizard"
+introduced: "The Frugal Wizard's Handbook for Surviving Medieval England"
+---
+
+{{quote|Ryan, Rembrandt is crooked.|[[John West]] informs [[Ryan Chu]] of Rembrandt's deceit{{book ref|fwh|34}}}}
+**Rembrandt** is the quartermaster of the Seattle Police Department's armory, and secretly a member of the [[Fabian Augments]] cartel. As a crooked cop, he has worked for [[Ulric Stromfin]] for many years. On Ulric's orders, Rembrandt equipped [[Ryan Chu]] with a locked beacon that was coded to ignore Ryan's commands. Ultimately, the beacon would not work for Ryan. Ulric then lured Ryan to [[Maelport]], and took the beacon for himself.{{book ref|frugal|34}}
+
+## Notes
+<references />
+{{complete}}
+{{Frugal Wizard}}

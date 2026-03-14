@@ -1,0 +1,2 @@
+#REDIRECT [[Pars]]
+[[Category: Aliases]]

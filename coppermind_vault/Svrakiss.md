@@ -1,0 +1,24 @@
+{{culture
+|related=[[Shu-Dereth]]
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[Elantris (book)|Elantris]]
+}}
+
+The **Svrakiss** are mythological enemies of [[Jaddeth]], taught of in the religion of [[Shu-Dereth]] on [[Sel]],{{book ref|Elantris|6}} believed to be half-ghost and half-demon.{{glossary ref|Elantris|S}}
+
+## Culture
+### Shu-Dereth Faith
+According to Shu-Dereth, the Svrakiss are the souls of men barred from entrance into heaven for hating Jaddeth in life,{{book ref|Elantris|6}} and so are condemned to wander Sel, bitterly cursing their fate and preying on the living.{{glossary ref|Elantris|S}} The Derethi believe that they had the ability to take over the bodies of living men and control their actions.{{book ref|Elantris|6}} When someone who follows Shu-Dereth has bad luck or a difficult time, they often believe that the Svrakiss are to blame.{{book ref|Elantris|32}}{{book ref|Elantris|51}} The Svrakiss are considered to be a representation of absolute evil.{{glossary ref|Elantris|S}}
+
+## History
+The Svrakiss were initally a [[Svorden|Svordish]] concept that was adopted by the Derethi.{{glossary ref|Elantris|S}}
+
+When [[Elantris (city)|Elantris]] fell, the Derethi claimed that the [[Elantrian]]s had really been Svrakiss all along, using their evil powers to perform magic to make the weak-minded worship them.{{book ref|elantris|6}} This was not a belief shared by the [[Shu-Korath|Korathi]] priests.{{book ref|Elantris|17}} [[Hrathen]] and [[Dilaf]] used this doctrine to attempt to turn the [[Arelene]] population against the Elantrians,{{book ref|Elantris|18}} although Hrathen did not genuinely believe that the Elantrians were Svrakiss.{{book ref|Elantris|6}}
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 13:43, 18 March 2016 (MDT)}}
+{{Elantris}}
+[[Category: Religion]]
+[[es:Svrakiss]]

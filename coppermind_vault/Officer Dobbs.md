@@ -1,0 +1,11 @@
+---
+earth: "Snapshot"
+introduced: "Snapshot"
+---
+
+**Officer Dobbs** is a police officer in [[New Clipperton]]. His dupe considers shooting [[Anthony Davis|Davis]] after Davis and [[Chaz]] reveal to the precinct that they are in a [[Snapshot (event)|Snapshot]], and after Chaz kills the [[Maria]] dupe. Ultimately he decides not to and stumbles away.{{book ref|Snapshot|4}}
+
+## Notes
+<references />
+{{stub}}
+{{Snapshot}}

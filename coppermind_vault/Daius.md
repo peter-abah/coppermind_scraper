@@ -1,0 +1,19 @@
+---
+profession: "Attorney"
+residence: "Elendel"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 2"
+---
+
+**Daius** is an attorney in [[Elendel]] on [[Scadrial]].{{book ref|mb4|epilogue}}
+
+## History
+Lady [[Marasi Colms]] worked as an intern for Daius. He was the senior prosecutor of [[Miles Dagouter]]'s trial.{{book ref|mb4|epilogue}} Daius was successful in getting Miles put to death for his crimes. He advised against Marasi attending the execution, though she decided to go anyway. Daius himself never attended executions.
+
+Marasi's time at her internship with Daius made her realize that she would rather work as a constable.{{book ref|mb5|5}} Marasi did not like the sense of competition and the chaos of the prosecutor's office.
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 10:24, 19 June 2016 (MST)}}
+{{Mistborn|era 2}}

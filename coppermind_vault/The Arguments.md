@@ -1,0 +1,23 @@
+{{DISPLAYTITLE:*{{FULLPAGENAME}}*}}
+{{literature
+|type=Religious text
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{quote
+| Man's life on Roshar is conflict.
+| from *The Arguments*, as quoted by [[Adolin]]{{book ref|sa1|24}}
+}}
+***The Arguments*** is a book on [[Roshar]] that is part of the doctrine of [[Vorinism]].{{book ref|sa1|24}}{{book ref|sa1|61}}
+
+==Content==
+[[Adolin Kholin]] quotes *The Arguments* to Dalinar, who refers to the work as "scripture".{{book ref|sa1|24}} *The Arguments* may contain some historical or pseudohistorical information about human life on Roshar, as Adolin cites the book in reference to ongoing wars on Roshar since the time of the [[Tranquiline Halls]].{{book ref|sa1|24}} Vorin culture has certain rules about sex and romance,{{wob ref|1443}} and some of those rules may have originated in *The Arguments*; [[Navani]] notes that the book does not forbid a marriage between a widow and her late husband's brother, although some devout Vorins maintain that such a relationship is inappropriate.{{book ref|sa1|61}}
+
+==Importance in Vorinism==
+[[Shallan]] recalls painting passages from *The Arguments* while growing up in [[Jah Keved]], reciting them repeatedly and committing them to memory before burning the paper.{{book ref|sa3|15}} Both Shallan and [[ardent]] [[Pai]] cite a lack of connection to *The Arguments* when questioning the devotion of the [[Alethi]].{{book ref|sa3|15}}{{book ref|sa2|i|12}} 
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:03, 30 July 2019 (UTC)}}
+{{Stormlight}}

@@ -1,0 +1,2 @@
+#REDIRECT[[Ishar]]
+[[Category: Aliases]]

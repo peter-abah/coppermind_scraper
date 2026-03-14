@@ -1,0 +1,16 @@
+---
+universe: "Cosmere"
+---
+
+{{spoilers|iote}}
+
+**Jope** is one of the two final living companions of [[Cakoban]] during a journey through the [[Cognitive Realm#Drominad subastral|Drominad subastral]] after leading most of their people to [[First of the Sun]]. Chased by an [[Evil|Eidolith]] attracted by the team's [[Investiture]], Jope sailed for weeks without food until Cakoban sacrificed himself to allow Jope and their shipmate to escape.{{book ref|iote|52}}
+
+He is a close friend of Cakoban and has a romantic relationship with Cakoban's sister. Though he can see the leader's fear through his bravado, Cakoban urges him to tell his story more bravely upon returning to their people.{{book ref|iote|52}}
+
+Jope wears a wrap and loincloth with no shirt. He also has a "mindshield" of some description, likely an ability similar to that of [[Allomancy|allomantic]] [[Copper]] or of certain [[Aviar]] like [[Kokerlii]] and [[Rokke]] that shields his mind from predators.{{book ref|iote|52}}
+
+## Notes
+<references />
+{{complete}}
+{{Emberdark}}

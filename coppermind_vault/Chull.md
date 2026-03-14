@@ -1,0 +1,120 @@
+{{lifeform
+|image=Chull.jpg
+|type=Animal
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{update|sa3|sa5}}
+The **chull** is a species of domesticated Rosharan animal. There are differing breeds of chulls with a vast array of phenotypes. They are found all across [[Roshar]].{{file ref|Chull.jpg|Shallan's Sketchbook: Chulls}} They have been domesticated for over seven thousand years, being herded by [[Singer]]s before the arrival of humanity on Roshar.{{book ref|sa5|43}}
+
+## Appearance and Anatomy
+{{image|Chull Life Cycle.jpeg|A depiction of the five stages of life for a chull: Larva (chull cremling), first Pupation, Adult, second Pupation, and Senescence.|side=left|width=250px}}
+Mature chulls are massive hexapodal crustaceans with thick legs with large claws and a stone-like shell. Their carapaces are typically red.{{book ref|WoK|4}} Chulls have whip-like antennae that grow in pace with their shell as they age, so that the chull can sense out spaces to determine if they're large enough to pass through,{{wob ref|14936}} and beady fist-size black eyes.{{book ref|WoK|28}} 
+
+They are known to excrete undigested matter as feces, colloquially referred to as "chull dung."{{book ref|sa1|23}}{{book ref|sa2|48}}{{book ref|sa3|116}} Their mouth opens horizontally, and is strong enough to crush rockbuds and other such plants.{{file ref|Chull.jpg|Shallan's Sketchbook: Chulls}}{{book ref|sa1|4}} Their two large claws are strong enough to break bones.{{rpg ref|slwg|194}}
+
+### Shell
+Chull shells are a light, porous stone created from minerals the chull consumes in its food and water and then excretes through channels in the back and legs, particularly rock and [[crem]].{{url ref|url=http://inkthinker.deviantart.com/art/The-Way-of-Kings-Chulls-179074546|text=Inkthinker's comments on the Chull page from Shallan's Sketchbook|site=Deviant Art}}{{wob ref|15379}}
+Since the shell is not alive, and contains no known nerves, chulls are not hurt when their shells are cracked, shaped, or smoothed.{{book ref|sa2|i|3}}{{wob ref|15379}}  These shells are hard, enough so to deflect arrows, thus they provide the chull with efficient protection.{{book ref|sa1|55}}
+
+Their shell naturally grows in clusters of Fibonacci spirals, comparable to [[wikipedia:Romanesco broccoli|Romanesco broccoli]]. This creates spaces for various plants to take root and cremlings to find homes, allowing for the creation of complex symbiotic ecosystems to form on the backs of wild chulls.{{file ref|Chull.jpg|Shallan's Sketchbook: Chulls}}{{wob ref|16609}} The smooth shells of domestic chulls are due to domestic care, with owners sanding down and shaping the shell for whatever purpose they are needed for, be it practical or decorative.{{wob ref|16609}}
+
+The shell of a Chull is not only used for protection, but also as a means of camouflage.{{book ref|sa1|23}}
+
+Chulls pull their legs and head into their shell when they sleep, and as a result sleeping chulls look like large boulders or small hills.{{book ref|WoK|23}}
+
+The [[Reshi]], and likely others, paint their chulls' shells. One can identify what island a Reshi chull handler is from by the colors and patterns on their chulls' shells.{{book ref|WoK|28}}
+
+### Reproduction
+They reproduce in a similar manner to [[chasmfiend]]s,{{wob ref|762}} and are known to, in some manner, produce eggs.{{book ref|sa3|68}} They are known to breed with other chulls, therefore they engage in sexual reproduction, with the breeding cycle on the southern slopes of the [[Horneater Peaks]] being considered especially important.{{book ref|sa3|104}} Outside of chull reproduction in the natural world, humans are known to breed chulls in batches for their use as beasts of burden.{{book ref|sa2|49}}
+
+### Life Cycle
+Chulls begin life as an egg,{{book ref|sa3|68}} which eventually hatches into larvae known as a **chull cremling** before eventually undergoing a process known as the **First Pupation**, in which they surround themselves with a shell and metamorphize into an adult chull. First Pupation can be encouraged by feeding the chull cremling a consistent diet of [[rocklily]] leaves.{{file ref|Chull Life Cycle.jpeg|The Life Cycle of a Chull}} The chull loses its memory of its larval state after its metamorphosis, and training must resume as if with a new chull. Their behaviour can also potentially change after pupation.{{file ref|Chull Life Cycle.jpeg|The Life Cycle of a Chull}}
+
+Their **Second Pupation** has some correlation with [[highstorm]]s, and one can help prevent it by keeping a chull sheltered during highstorms. Second Pupation can also be delayed by feeding a chull crushed [[shelltick]] and mixing [[shalebark]] oil into their water.{{file ref|Chull Life Cycle.jpeg|The Life Cycle of a Chull}}
+
+## Behavior 
+Chulls are generally docile creatures. While known to happen, it is very unusual for Chulls to behave aggressively.{{book ref|WoK|4}} They tend to move with a slow, lumbering gait and are generally slower than humans.{{book ref|sa2|15}}{{book ref|sa2|28}} Chulls are considered slow to react.{{book ref|sa1|56}}
+
+The behavior of an individual chull can change dramatically following First Pupation.{{file ref|Chull Life Cycle.jpeg|The Life Cycle of a Chull}}
+
+They sometimes clack their mandibles and look about their surroundings, they also often twitch their antennae. What these behaviors mean is as of yet unknown.{{book ref|sa1|28}} They are also known to engage in behavior referred to as fidgeting, this is observed when they are stopped after pulling a wagon for a prolonged period.{{book ref|sa1|4}}
+
+In many cases, they are considered to be incredibly stubborn.{{book ref|sa3|18}}{{rpg ref|slwg|194}}
+
+### Diet
+Chulls are omnivorous creatures with a varied diet. They eat everything from [[rockbud]]s to slugs to smaller crustaceans.{{book ref|sa1|4}}{{wob ref|15379}}{{wob ref|16609}}{{book ref|sa1|33}}{{book ref|sa3|2}}  Domestic chulls are often fed lavis grain;{{book ref|WoK|2}} chulls are also often fed rocklily leaves, or crushed shelltick and shalebark oil mixed into their water, which are all used in order to prevent metamorphosis at various stages of the chull lifecycle.{{file ref|Chull Life Cycle.jpeg|The Life Cycle of a Chull}}
+
+### Grooming
+Chulls are known to groom one another, removing various rockbuds that grow upon their shell.{{wob ref|16609}}
+
+### Herding
+Chulls are often herded in large groups by their owners.{{book ref|sa3|65}}
+
+### Intelligence
+Chulls are considered less intelligent than horses,{{book ref|sa3|10}} they are able to memorize various rhythms and associate them with commands and actions, allowing them to be effective beasts of burden.{{book ref|sa2|17}} However, this requires training.{{file ref|Chull Life Cycle.jpeg|The Life Cycle of a Chull}}{{epigraph ref|sa1|4}} Comparing someone's intelligence to a chull is sometimes used as an insult.{{book ref|sa3.5|18}}{{book ref|sa4|15}}
+
+### Pack Behavior
+Wild chulls are known to gather together in packs, indicating that they are social animals.{{book ref|sa2|70}}{{book ref|sa4|62}} They are known to groom each other, likely other members of their pack.{{wob ref|16609}}
+
+### Predation
+They are known to be prey to chasmfiends, these larges creatures are able to crush a chull's shell in their strong jaws, making for easy consumption.{{book ref|sa1|13}}{{book ref|yumi|33}}
+
+### Sleep
+Chulls appear to be diurnal creatures, sleeping during the night and spending the day awake.{{cite}} When they sleep, they pull their legs into grooves the shell, disguising themselves as boulders in order to protect themselves while they sleep.{{book ref|sa1|23}}{{wob ref|14936}}
+
+### Vocalizations
+They are capable of making a wide range of noises, including a gravelly bleating,{{book ref|sa1|12}}{{book ref|sa1|13}}{{book ref|sa3|103}} trumpeting,{{book ref|sa1|21}} and snorting.{{book ref|sa1|26}}
+
+## Training
+In order for chulls to learn to how follow human orders, and thus serve as beasts of burden, they must be trained by a professional trainer. Chulls must be trained twice, once as a chull cremling, and once as a mature chull following the memory loss after First Pupation.{{file ref|Chull Life Cycle.jpeg|The Life Cycle of a Chull}}{{epigraph ref|sa1|4}}
+
+There are several different methods of training a chull.  
+* In the rural areas of [[Jah Keved]], chulls are harnessed and controlled with complex leather bridles.{{file ref|Chull.jpg|Shallan's Sketchbook: Chulls}}
+* In the coastal region around [[Kharbranth]], chull drivers often sit directly on the chull's shell and direct them by tapping on their antennae with long poles.{{file ref|Chull.jpg|Shallan's Sketchbook: Chulls}}
+* Some chulls are trained to respond to different rhythms tapped out on their shells with a guiding reed.  These reeds are often as long as a person is tall and allow the driver to drive from the wagon or cart rather than riding on the chull itself.{{book ref|WoR|17}}
+
+## Use
+{{image|Chull_Painting.png|width=200px|side=left}}
+Chull are highly valued as work animals and are considered to be worth more than the average slave.{{book ref|Wok|46}} Some people maintain chull herds and rent their labor out on a contract basis.{{book ref|WoK|15}} They are slow but strong and are used to pull everything up to and including the large complex bridges [[Dalinar]] uses for chasm crossings.{{book ref|WoK|15}} Since their shells can be carved without harming the animal, some people sand flat places on top of a chull to ride and many carts are hooked to fittings drilled directly into their shells. Shelves and racks can also be carved into or attached directly to chull shells.{{file ref|Chull.jpg|Shallan's Sketchbook: Chulls}}
+
+Since it is lightweight and durable, chull shell is used as a crafting material. [[Shallan]] had a [[havah]] with chull-shell buttons.{{book ref|WoK|3}}
+
+Chull meat is edible. It can be dried and stored as jerky.{{book ref|WoR|70}}  In some cultures, including [[Herdazian]] and [[Unkalaki]], chull head is considered a delicacy.{{book ref|WoR|12}} 
+
+During the [[War of Reckoning]], [[Dalinar Kholin]] used them to pull his bridges, rather than put the lives of [[bridgemen]] at risk.{{book ref|sa1|15}}
+
+## Cultural References
+{{image|ChIsForChull.png|side=right|width=250px}}
+There is a tavern in Dalinar's warcamp called the "[[Ornery Chull]]."{{book ref|WoR|46}}
+
+### Idioms
+{{quote
+|You think I'm scared of a lumbering chull like you?
+|[[Teft]]'s nervous retort.{{book ref|WoK|23}}
+}}
+{{quote
+|Jasnah is inordinately fond of dust, I believe she thrives on it, feeding off the particles like a chull crunching rockbuds.
+|[[Shallan Davar]] talking with [[Kabsal]]{{book ref|WoK|33}}
+}}
+{{quote
+|An army was like a massive chull at times, lumbering along, slow to react
+|[[Dalinar]] regarding his army.{{book ref|WoK|56}}
+}}
+{{quote
+|Everyone has a place. You're out of yours. Like a chull in a dining hall
+|[[Kaladin]]'s impression of the lighteyes regard for him and his guards.{{book ref|WoR|44}}
+}}
+{{quote
+|Storms, he was like a rat gnawing on the toes of a chull
+|[[Adolin]]'s inner monologue while battling a Thunderclast.{{book ref|sa3|120}}
+}}
+
+## Trivia
+* Chull whiskers are similar to those of a cat.{{wob ref|14936}}
+* There are currently no chulls that are holding [[Shards]].{{wob ref|14953}}
+## Notes
+<references/>
+{{partial}}
+{{Stormlight}}

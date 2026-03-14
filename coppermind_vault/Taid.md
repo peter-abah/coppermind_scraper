@@ -1,0 +1,19 @@
+---
+abilities: "{{tag+|Elantrian"
+---
+
+|ethnicity=Aonic
+|residence=Elantris
+|nation=Arelon
+|world=Sel
+|universe=[[Cosmere]]
+|introduced=[[The Hope of Elantris]]
+}}
+**Taid** is an [[Elantrian]].
+
+He is the adult supervisor of the [[Roost]] in [[New Elantris]].{{book ref|thoe}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:08, 17 September 2018 (MST)}}
+{{Elantris}}

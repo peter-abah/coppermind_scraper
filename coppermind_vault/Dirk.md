@@ -1,0 +1,46 @@
+---
+spouse: "The princess of Dormancy"
+relatives: "The duke <small>(uncle)</small>, Charlie <small>(cousin)</small>"
+residence: "Diggen's Point"
+titles: "Ducal heir, Verdant King's court"
+profession: "{{cat tag|Soldiers|Military officer"
+---
+
+|world=Lumar
+|universe=[[Cosmere]]
+|introduced=[[Tress of the Emerald Sea]]
+}}
+{{quote|
+Though the new heir had the intellect of a soggy piece of bread, he was popular, handsome, and very good at getting other people killed.
+|Hoid{{book ref|tress|5}}
+}}
+
+**Dirk** is a young noble on [[Lumar]]. He is the nephew of the [[duke]] of [[Diggen's Point]]. He is appointed as the duke's new heir following the capture of [[Charlie]] by the [[Sorceress]].{{book ref|tress|5}}
+
+## Appearance and Personality
+Dirk is six and a half feet tall, incredibly muscular, and handsome with a very straight jaw.{{book ref|tress|5}} He is approximately the same age as Charlie, putting him in his late teens.{{book ref|tress|5}}{{book ref|tress|2}}
+
+## Attributes and Abilities
+Hoid notes that Dirk has "both the jaw and the intellect of a marble bust". He says very little, and usually responds to questions with a single word or sentence.{{book ref|tress|5}}
+
+He is a skilled fencer. He is said to be a "war hero", although the only known example of his military leadership is the [[Battle of Lakeprivy]], where he lost ten thousand men.{{book ref|tress|5}}
+
+## History
+Dirk's early history is unclear. He was presumably born into nobility since he is the nephew of a duke; he also served as a member of the [[Verdant King]]'s court{{book ref|tress|57}} and may have lived in [[Kingsport]] at some point. He was given command of a sizable army at a very young age.{{book ref|tress|5}}
+
+The duke had long been disappointed that his son did not fit the mold of a prototypical heir; Charlie did not care for fencing, was talkative, and enjoyed fraternizing with people under his station.{{book ref|tress|4}}{{book ref|tress|2}} Still, the duke set out on a journey to find Charlie a suitable princess to wed. His efforts were thwarted by Charlie, who had promised to return home to [[Tress]] and therefore intentionally bored every potential bride he met to the point that they refused to marry him.{{book ref|tress|4}} 
+{{sidequote|side=right|size=360px
+|I've rescued your son. The real one. Not the walking chin with a six-word vocabulary.
+|Tress, to the duke{{book ref|tress|epilogue}}
+}}
+After a year of this had passed, the town received word that the duke was returning to Diggen's Point with his heir and new daughter-in-law. The townspeople were surprised when Dirk was introduced as the new heir, and the [[princess of Dormancy]] as his wife.{{book ref|tress|5}} The duke had eventually figured out Charlie's deception; with the king's approval, the duke forced Charlie to try and marry the [[Sorceress]]. This would either gain the Verdant kingdom an alliance with the Sorceress, or get rid of a problematic heir.{{book ref|tress|5}}
+
+Within hours of learning that Charlie's ship had vanished in the dangerous [[Midnight Sea]], the king declared Charlie officially dead; the duke adopted Dirk and instated him as his heir. Dirk was exactly the type of heir that the duke had always wanted, and he was soon married to the princess in order to solidify a political alliance. The duke threw a large party to celebrate Dirk upon their return. The townspeople were confused, but were quickly convinced to toast Dirk's marriage when the duke provided free food and drinks. The nobles were very happy with Dirk as the new heir, and after a few days none of the common people seemed to care.{{book ref|tress|5}}
+
+After Tress successfully rescued Charlie, the king claimed that he had believed in Charlie all along.{{book ref|tress|epilogue}} The status of Dirk and the princess after this is unclear.
+
+## Notes
+<references />
+{{complete|[[User:MrMrDUCK|MrMrDUCK]] ([[User talk:MrMrDUCK|talk]]) 08:16, 16 March 2024 (UTC)}}
+{{tress}}
+[[es:Dirk]]

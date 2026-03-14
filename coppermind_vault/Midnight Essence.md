@@ -1,0 +1,39 @@
+{{lifeform
+|image= Midnight.jpg
+|abilities= Shapeshifting
+|type= {{cat tag|Spren}}, [[Aether]] 
+|universe=[[Cosmere]]
+}}
+{{update|book=sa3|tress}}
+**Midnight Essence** is a substance that appears throughout the cosmere, most notably connected to [[aether|midnight aether]] and [[Re-Shephir]]. Midnight Essence has not been shown to exist without some degree of sentience or possession through a [[Luhel bond]], and therefore can be considered both a substance and a creature.{{book ref|Tress|31}} However, whether or not it is truly sentient is questioned.{{book ref|tress|31}}
+
+On Roshar, it is associated with Re-Shephir, as the substance she uses to make her creatures.{{book ref|sa3|29}} The ancient [[Knights Radiant|Radiants]] considered them one of the [[Ten Deaths]].{{book ref|sa1|19}} [[Dalinar Kholin]] experienced them in one of his visions, while [[Shallan Davar]], [[Adolin Kholin]], and members of [[Bridge Four]] had to deal with them while fighting Re-Shephir in [[Urithiru]].{{book ref|sa3|29}}
+
+On [[Lumar]], Midnight Essence is used by a variety of characters, and is more widely available, with the commonly accessible method of synthesis involving placing water onto midnight spores.{{book ref|Tress|31}}
+
+## Nature
+Midnight Essence is a black, viscous, bubbling liquid that imitates a nearby creature.{{book ref|tress|28}} It normally involves some level of corruption to Investiture.{{wob ref|16194}} All Midnight Essence created exhibits some form of mind, and Midnight Essence may be an example of concentrated Investiture granting sentience.{{wob ref|2253}} However, even [[Hoid]] cannot determine whether Midnight Essence is truly alive.{{book ref|Tress|58}} Midnight Essence can be controlled through a [[Luhel bond]], giving the bonder the ability to manipulate the Essence's movement and actions, and, if enough control is exerted, dissipate it at will.{{book ref|Tress|31}} The Luhel bond involves a form of trade with the sentient Midnight Essence, relinquishing something it wants (water in the case of Lumarian Essence) in exchange for control over the entity.{{book ref|Tress|62}} The summoned essence responds to the bonder's [[Intention]] and thus can be controlled or bonded without visible or audible communication.{{book ref|tress|58}} Midnight Essence is an effect where multiple magic systems will reach the same conclusion. When something is done to the magic to corrupt it, it becomes like Midnight Essence. So while there are similarities between the two and they work the same they may not have the same point of origin.{{wob ref|16194}}
+
+## Appearance & Behavior
+{{image|Spren in the Wall.jpg|width=220px|side=right|Shallan's drawing of Midnight Essence}}
+Midnight Essence is smooth, slick, black, and reflective.{{book ref|sa1|19}}{{book ref|tress|58}} Due to its ability of mimicry, it can appear in a variety of shapes, and generally imitates what it sees around it, oft shaped through the lens of the mind they are bound to.{{book ref|tress|31}}{{wob ref|1593}} The Midnight Essence creatures created by Re-Shephir in Urithiru were humanoid, mimicking the appearance of people in the tower.{{book ref|sa3|29}} However, they can also change shape at will, being able to squeeze themselves into a hole and wriggle away to escape pursuit. Some Midnight Essence creatures on Lumar exhibit these same characteristics, with [[Tress]]'s Midnight Essence mimicking a nearby rat, and sliding underneath a gap between a door and the ship deck with ease, despite being far larger than said gap.{{book ref|Tress|31}}
+
+Some Midnight Essence creatures, however, appear in shapes unrelated to mimicry. In Dalinar's vision, they had six extremely thin legs that were bent at the sides with clawed paws. Their bodies seem almost fluid, with long and flexible necks and sharp teeth that appeared like knives.{{book ref|sa1|19}} They also give off a putrid smell. Additionally, the Midnight Essence creatures found in the [[Midnight Sea]] look like large sea serpents, though it is unclear whether this is a result of them mimicking some form of deep ocean life, or if they are manipulated to appear this way, similar to the creatures from Dalinar's vision.{{book ref|tress|58}}
+
+The Midnight Essence in Dalinar's vision had no eyes. It hunted by smell, and made a soft wheezing whispering sound when hunting for a scent.{{book ref|sa1|19}} Its body was soft, and gave a little when it was struck. When the skin was pierced, the Midnight Essence bled smoke. If the Essence was damaged enough, its entire body would deflate with a hissing sound, leaving behind a skin that looked like a sack of black silk. The Midnight Essence's mouth was a weak point on its body.
+
+Midnight Essence can be fairly clever as well, wary when facing a skilled or determined opponent.{{book ref|sa1|19}} However, this may be a result of manipulation through the wielder of the Luhel bond.
+
+Midnight Essence in all forms seems to have some form of rudimentary intelligence, able to impose basic notions onto the minds of those they bond with.{{book ref|tress|31}}{{book ref|tress|62}} They are also capable of following commands given to them, without having to be actively controlled by the user.{{book ref|Tress|58}} But it is unclear if it is ever truly self-aware beyond its voracious thirst.{{book ref|Tress|58}}
+
+## Abilities
+The claws of the Midnight Essence in Dalinar's vision were powerful enough to seriously damage [[Shardplate]].{{book ref|sa1|19}} It was quite strong, able to burst right through the wall of a barn. As it hunted by smell, it could track people in the darkest night. They also often hunted as a pack. The Essence was seemingly impervious to fire. They were also swift, both while running and while fighting. While the Midnight Essence may be released directly by Re-Shephir, it also may be extracted from her to be used independently{{wob ref|11350}} and released elsewhere.{{book ref|sa1|19}}
+
+It is possible for a user of the midnight aether to become too absorbed into their creation, therefore losing control of their body and seeing through the eyes of their creation, and controlling it as their own body. This appears to have some degree of psychological effects upon the user, making their thoughts and behavior come more in line with what the creation is imitating.{{book ref|tress|31}} This can be dangerous as, when possessing the Essence, one loses awareness of the state of their actual body, therefore they can easily die from dehydration.{{book ref|tress|31}}
+
+## Notes
+<references />
+{{partial}}
+{{cosmere}}
+[[category: Aether]]
+[[es:Esencia de Medianoche]]

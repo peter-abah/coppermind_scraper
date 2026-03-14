@@ -1,0 +1,17 @@
+{{lifeform
+|type={{cat tag|Plants|Plant}}
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Whispermill** is a [[Roshar]]an plant that produces small seeds resembling [[lifespren]].{{book ref|sa2.5|8}}
+
+{{quote
+| [Lift] slipped into a boxlike stone room, lifespren pouring in behind her, dancing in the air like glowing whispermill seeds.
+| [[Lift]]'s thoughts after using [[Growth]] while pursuing [[Nale]]{{book ref|sa2.5|8}}
+}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 18:57, 4 October 2021 (UTC)}}
+{{Stormlight}}

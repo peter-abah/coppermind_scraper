@@ -1,0 +1,13 @@
+{{culture
+|type=Profession
+|world=First of the Sun
+|universe=[[Cosmere]]
+}}
+{{spoilers|iote}}
+{{for|Unpublished works#Potential Works|the potential novel}}
+**Kingmakers** are people charged with traditionally appointing a successor for the various chiefs of the [[Eelakin]] people on the planet [[First of the Sun]]. Kingmakers reside on all the islands, including the small and unimportant ones.{{book ref|iote|3}} They also appoint, and oversee the teaching of new [[loremother]]s.{{book ref|iote|47}} A small number of kingmakers, likely those of the larger isles, also have a vote in the [[Eelakin|Traditional House]] of the Eelakin government.{{book ref|iote|61}}
+
+## Notes
+<references />
+{{complete}}
+{{Emberdark}}

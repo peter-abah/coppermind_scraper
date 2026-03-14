@@ -1,0 +1,14 @@
+{{aspect
+|skills=Photography
+}}
+**Rahul** is one of [[Stephen Leeds]]' [[aspect]]s.{{book ref|skin deep|8}} He is an Indian man with a moustache and a round face. He speaks with an Indian accent and knows a lot about photography and computers, making him unusual in his ability to have more than one specialization.{{book ref|legion2|16}} He is married to [[Kalyani]].{{book ref|legion2|8}}
+
+Rahul was unusual in that Stephen didn't intentionally manifest him, but instead he spontaneously appeared via his relationship with Kalyani.{{book ref|legion2|8}}{{book ref|skin deep|16}} He first appeared to Stephen while Stephen was on a video call with Kalyani, when he promised to be very helpful.{{book ref|legion2|16}}
+
+## Trivia
+* Rahul is named after [[Brandon]]'s good friend Rahul Pantula, who is a beta reader and assists Brandon with aspects of the [[cosmere]] that connect to Indian mythology.{{wob ref|16254}}
+
+## Notes
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 03:06, 12 February 2024 (UTC)}}
+{{Legion}}

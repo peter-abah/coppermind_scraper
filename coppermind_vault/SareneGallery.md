@@ -1,0 +1,37 @@
+## Official Artwork
+<gallery mode="packed" heights=250px caption="Official artwork">
+Elantris US cover art.jpg | <center><small>by {{a|Stephan Martinière}}</small></center> US cover
+Elantris HU2 Cover Art.jpg| <small><center>by {{a|Péter Kovács}}</center></small>Hungarian cover
+Elantris SP cover art 2.jpg | <center><small>by {{a|Alain Brion}}</small></center> Spanish limited-run cover
+Elantris cover (Sam Green).jpg | <center><small>by {{a|Sam Green}}</small></center> UK cover
+Elantris CN cover.jpg | <center><small>by {{a|Jian Guo}}</small></center> Mainland China cover
+Elantris JP Part 1 cover.jpg | Japanese cover
+Elantris CK cover.jpg| <small><center>by {{a|Jan Patrik Krasny}}</center></small>Czech cover
+ElantrisAr.jpg | Saudi Arabian cover
+Elantris GA2 cover.jpg | <center><small>by {{a|Jahbulani Ori}}</small></center> Graphic Audio cover
+Passage Verge.jpg | <small><center>by {{a|Michael Whelan}}</center></small>PASSAGE: VERGE
+</gallery>
+
+## Portraits
+<gallery mode="packed" heights=250px>
+Sarene by Botanica.jpg | <center><small>by {{a|Botanicaxu}}</small></center>
+Sarene portrait.png | <center><small>by {{a|Botanicaxu}}</small></center>
+Sarene treefin.jpg | <center><small>by {{a|treefin}}</small></center>
+Sarene by Bernardo Curvello.jpg | <center><small>by {{a|Bernardo Curvello}}</small></center> Sarene in her fencing outfit
+Sarene by Hayley Olivia.jpg | <center><small>by {{a|Hayley Olivia}}</small></center>
+Sarene by Shuravf.jpg | <center><small>by {{a|Shuravf}}</small></center>
+Sarene by Egilde Art.jpg| <small><center>by {{a|Egilde Art}}</center></small>
+Sarene and Ashe standing by Shayndlart.jpeg| <small><center>by {{a|Shayndlart}}</center></small> With [[Ashe]]
+</gallery>
+
+## Scenes
+<gallery mode="packed" heights=250px>
+Sarene and Ashe by Séverine Dumagny.jpg | <center><small>by {{a|Séverine Dumagny}}</small></center> Talking With [[Ashe]]
+Aon Omi by esamitch.jpg| <small><center>by {{a|esamitch}}</center></small>Looking over [[Elantris (city)|Elantris]] with [[Ashe]]
+Hrathen and Sarene by ShiroXIX.png | <center><small>by {{a|ShiroXIX}}</small></center> Annoying [[Hrathen]]
+Sarene teaching fencing.jpg | <center><small>by {{a|zoethatcher art}}</small></center> Giving fencing lessons.
+Sarene and Spirit.jpg | <center><small>by {{a|Jewishicequeen}}</small></center> Handing out food in [[Elantris (city)|Elantris]]
+Sarene Fencing by Elisgardor.jpg| <small><center>by {{a|Elisgardor}}</center></small>Practicing her fencing
+Raoden and Sarene.png | <center><small>by {{a|Jewishicequeen}}</small></center> Kissing [[Raoden]]
+</gallery>
+[[Category:Gallery Subpages]]

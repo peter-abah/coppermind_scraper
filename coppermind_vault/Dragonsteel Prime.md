@@ -1,0 +1,68 @@
+{{book|title=*Dragonsteel* Prime
+|cover=Dragonsteel_Prime_Cover.png
+|'publisher=[[Dragonsteel Entertainment]]
+|released= March 29, 2024
+|page-count=642
+|word-count=[[/Statistical_analysis|236,997]]
+}}
+
+***Dragonsteel* Prime** was [[Brandon Sanderson]]'s seventh novel and was written as his honors thesis for his bachelor's degree. Five copies are currently held in the Harold B Lee Library at Brigham Young University, four of which are available for circulation. After positive response to his release of [[The Way of Kings Prime|*The Way of Kings* Prime]], Brandon considered a possible release of this draft as part of a "Sanderson Curiosities" series,{{wob ref|16172}} and ultimately, it was released during the *[[Words of Radiance]]* Leatherbound campaign on [https://www.backerkit.com/c/projects/dragonsteel/words-of-radiance-leatherbound/ Backerkit]. The book can be downloaded [https://www.backerkit.com/c/projects/dragonsteel/words-of-radiance-leatherbound/updates/4692?ref=dpbs329&mc_cid=b5b4ac004d/ here].
+
+Brandon has stated that it was not his best work.{{wob ref|6453}} He plans to rewrite and publish the series after the completion of *[[The Stormlight Archive]]*.{{bws ref|another-long-and-rambling-post-on-future-books|Another Long and Rambling Post™ on Future Books|date=2010-10-12}} Sections of the book, including locations such as the [[Shattered Plains]], were later re-purposed in *[[The Way of Kings]]*, but Brandon considers some of the other events to be canon.{{wob ref|8838}} Specifically, Brandon has stated that he considers most of the worldbuilding in the book to be canon, but not the characters.{{wob ref|8142}} He had some trepidation over removing the Shattered Plains because, though it was not as essential to the story, he felt it was the part of the book that worked best.{{wob ref|4650}}
+
+In 2007, Brandon began work on a rewrite of the Dragonsteel series. He began with *[[The Liar of Partinel]]* and *[[The Lightweaver of Rens]]*, which take place approximately five hundred years before the events of *Dragonsteel* Prime, which he then planned to rewrite and release as 'The Eternal War'.{{wob ref|7825}} However, after finishing Liar he was unsatisfied with the result and shelved the series for a future date. Since 'The Eternal War' would begin the main story arc, at the time he also intended to call that book 'Dragonsteel Book 1' and expect the readers to connect it to the previous two books to avoid the confusion of starting his story arc with Book 3.{{wob ref|6096}} The story takes place on [[Yolen]] and focuses on [[Jerick]], but also includes other viewpoint characters such as Topaz, also known as [[Hoid]].
+
+## Plot Summary
+
+### Jerick
+Jerick, a young boy in a Melerand village, becomes tied into an ideological caste struggle between King Rodis and Kalord Strafen, and is taken from his village to be educated in the capital. Over the years, he becomes highly educated and popular amongst the nobility and servants. During his time learning in the capital, he discovered his abilities of [[microkinesis]].
+
+He lived in peace until a Sho Del assassin infiltrated the castle and attempted to kill the king. Jerick attempted to protect him, but failed. 
+
+This led him to travel to the Shattered Plains, where he was made into a bridgeman due to his caste. He eventually gained the recognition of a general for his leadership skills and combat ability, and became a member of the Tzai, an elite military force trained in various magics. He was very successful as a Tzai, and rose through the ranks rapidly due to his microkinetic skills. 
+
+## Characters
+{{columns|
+* [[Bat'Chor]]
+* [[Frost]]
+* [[Topaz]]
+* Courteth
+* [[Jerick]] 
+* Mardle
+* Martis
+* Rin
+* Rodis
+* Ryalla 
+* Strafen
+* Torell
+* Yoharn
+}}
+
+## Statistical Analysis
+{{for|/Statistical analysis|a full statistical analysis}}
+*Dragonsteel Prime* consists of one prologue, fifty-three chapters, and one epilogue, reaching a total 236,997 word count.
+
+{|class="wikitable"
+|-
+! Word Count 
+| style="text-align:center" | 236,997
+|
+|-
+! Page Count 
+| style="text-align:center" | 642 
+| Free PDF
+|-
+! Chapter Count 
+| style="text-align:center" | 55
+| Including prologue and epilogue.
+|-
+! PoV Characters
+| style="text-align:center" |  
+|
+|}
+
+## Notes
+<references />
+{{meta/partial}}
+{{books}}
+[[es:Dragonsteel Prime]]

@@ -1,0 +1,14 @@
+---
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Rhythm of War"
+---
+
+**Maratham** is a palace organizer in the [[Kholinar Palace]] on [[Roshar]].{{book ref|sa4|prologue}}
+
+On the night of [[Assassination of Gavilar|Gavilar's assassination]] she brought word to [[Navani]] that [[Gavilar]] had told the [[listener]]s they could bring their drums but that they didn't have enough room for them. Navani told her to use the extra soldiers in the palace that night to set up a second, more exclusive feast in the upper hall so that they would have more space to work with.{{book ref|sa4|prologue}}
+
+## Notes
+<references />
+{{complete}}
+{{stormlight}}

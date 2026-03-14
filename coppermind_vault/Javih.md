@@ -1,0 +1,18 @@
+---
+profession: "Captain in {{tag+|army|Kholin"
+---
+
+|groups={{tag+|army|Kholin}}
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+**Javih** is a captain in the [[:Category: Kholin army|Kholin army]] during the [[Battle of Narak]].{{book ref|sa2|82}}
+
+## History
+Captain Javih accompanied the Kholin army on the expedition to the center of the [[Shattered Plains]] and was present for the [[Battle of Narak]]. He delivered a tactical report to [[Highprince]] [[Dalinar Kholin]] but was interrupted by a messenger reporting that Brightlord [[Teleb]] had fallen and Roion's army routed, leaving Highprince [[Roion]] himself being trapped by [[Parshendi]]. Dalinar responded by charging off to battle himself and sending Javih to collect the reserves for a rescue.  
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 00:09, 2 July 2016 (MST)}}
+{{Stormlight}}

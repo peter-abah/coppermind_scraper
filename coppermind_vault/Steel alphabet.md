@@ -1,0 +1,458 @@
+{{culture
+|related=[[Allomancy]]
+|type={{cat tag|Language}}
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn (series)]]
+}}
+{{spoilers|iote}}
+The **Steel alphabet** was the set of glyphs used on [[Scadrial]]. It has been shown that the glyphs evolved over time.{{ref|name=symbols}}
+
+Most of the symbols were also used to represent various metals and numbers. The steel alphabet used a base-16 numbering system with a positional structure similar to [[wikipedia:Japanese numerals|Japanese numerals]]&mdash;double-number pairs are used to represent the order of magnitude and the number in that position respectively.{{ref|name=17s-broad-numbers}}
+
+At some point the alphabet diverged such that the symbols used to represent [[Feruchemical]] metals were distinct to those used by [[Allomancy]] and the general alphabet.{{ref|name=Feruchemy table}} During the technological advancement after the [[Final Ascension]], the symbols used during the [[Final Empire]] were tweaked to become easier for printing.{{ref|name=font}} The Northern Scadrians kept using the script, and many of the vessels manufactured during Scadrial’s Space Age included writing in the Steel alphabet.{{book ref|iote|25}}
+
+{{quote
+|The three sets of symbols show the progression of the Allomantic text through the ages. The earliest script is from Hero of Ages. It was changed and modified into the Terris script symbols we see in Well of Ascension. After more time, the Terris script morphed into what is now known as the Allomantic Alphabet or the Steel Alphabet, which are the symbols used in Mistborn: The Final Empire. We've extrapolated the Steel Alphabet into a script that's more-standardized and refined for the chapter headings in Alloy of Law, which takes place 300 years after Hero of Ages.
+|[[Isaac Stewart]] on the history of the icons.{{ref|name=isaacs-site}}
+}}
+
+## Symbols and their Meanings
+The mapping between the English and Steel alphabet was first achieved by Valkynphyre of the 17th Shard.{{17s ref|topic|1905|text=Treatise Metallurgic translation|poster=Valkynphyre|date=01 May 2012}}
+
+The table below displays all the known Final Empire symbols, alongside all their different meanings. 
+
+{| class=infobox width=100%
+|-
+! rowspan=3 | [[File:Iron.svg|100x100px]]
+| Iron
+
+! rowspan=3 | [[File:Steel.svg|100x100px]]
+| Steel
+
+! rowspan=3 | [[File:Tin.svg|100x100px]]
+| Tin
+
+! rowspan=3 | [[File:Pewter.svg|100x100px]]
+| Pewter
+
+|-
+| 1
+| 2
+| 3
+| 4
+
+|-
+| B
+West
+| P
+Northwest
+| E/I{{ref|name=rings}}
+North
+| O/U{{ref|name=rings}}
+Northeast
+
+|-
+! rowspan=3 | [[File:Zinc.svg|100x100px]]
+| Zinc
+
+! rowspan=3 | [[File:Brass.svg|100x100px]]
+| Brass
+
+! rowspan=3 | [[File:Copper.svg|100x100px]]
+| Copper
+
+! rowspan=3 | [[File:Bronze.svg|100x100px]]
+| Bronze
+
+|-
+| 5
+| 6
+| 7
+| 8
+
+|-
+| L
+East
+| R
+Southeast
+| D
+South
+| T
+Southwest
+
+|-
+! rowspan=3 | [[File:Cadmium.svg|100x100px]]
+| Cadmium
+
+! rowspan=3 | [[File:Bendalloy.svg|100x100px]]
+| Bendalloy
+
+! rowspan=3 | [[File:Gold.svg|100x100px]]
+| Gold
+
+! rowspan=3 | [[File:Electrum.svg|100x100px]]
+| Electrum
+
+|-
+| 9
+| 10
+| 11
+| 12
+
+|-
+| G
+| K
+| M
+| N
+
+|-
+! rowspan=3 | [[File:Chromium.svg|100x100px]]
+| Chromium
+
+! rowspan=3 | [[File:Nicrosil.svg|100x100px]]
+| Nicrosil
+
+! rowspan=3 | [[File:Aluminum.svg|100x100px]]
+| Aluminum
+
+! rowspan=3 | [[File:Duralumin.svg|100x100px]]
+| Duralumin
+
+|-
+| 13
+| 14
+| 15
+| 16
+
+|-
+| W
+| Y
+| Z
+| S
+
+|-
+! rowspan=3 | [[File:Atium.svg|100x100px]]
+| Atium
+
+! rowspan=3 | [[File:Malatium.svg|100x100px]]
+| Malatium
+
+! rowspan=3 | [[File:Allomancy 19 (Final Empire).svg|100x100px]]
+| *unknown*
+
+! rowspan=3 | [[File:Allomancy 20 (Final Empire).svg|100x100px]]
+| *unknown*
+
+|-
+| *unknown*
+| *unknown*
+| 256{{ref|name=17s-broad-numbers}}{{ref|name=Elendel-daily}}
+| 4096{{ref|name=17s-broad-numbers}}{{ref|name=Elendel-daily}}
+
+|-
+| V
+| F
+| J
+| C{{ref|name=coinsKickstarter}}/Ch?
+
+|-
+! rowspan=3 | [[File:Allomancy 21 (Final Empire).svg|100x100px]]
+| *unknown*
+
+! rowspan=3 | [[File:Allomancy 22 (Final Empire).svg|100x100px]]
+| *unknown*
+
+! rowspan=3 | [[File:Lerasium.svg|100x100px]]
+| Lerasium
+
+! rowspan=3 | [[File:Allomancy 0 (Final Empire).svg|100x100px]]
+| *unknown*
+
+|-
+| *unknown*
+| *unknown*
+| *unknown*
+| 0
+
+|-
+| H
+| X{{ref|name=coinsKickstarter}}/Sh
+| A
+| *unknown*
+
+|}
+
+The sections below focus on the different ways the symbols above can be used.
+
+### Symbols as letters
+
+The tin and pewter symbols corresponding to E/I and O/U are distinct, and can be identified by the position of the dot; E places the dot below and to the left of the spike, similar to the O placement, and U places the dot next to the top of the outer curved spike.{{wob ref|11029}}{{wob ref|11240}}{{wob ref|13293}}{{url ref|name=rings|url=https://badalijewelry.com/collections/brandon-sanderson/products/custom-steel-alphabet-ring|text=Badali jewelry - Steel Alphabet ring page|site=Badali Jewelry}} This practice of dot placement to distinguish vowels evolved within 100 years of [[The Alloy of Law]].{{wob ref|11240}} The dot can also be moved around in non-vowels for various reasons.{{wob ref|13293}}
+
+The letter Q is not present in the alphabet. When followed by a U (like in "question" or "require"), as is most often the case, the two are written as *kw* instead (e.g. "kwestion" or "rekwire").{{wob ref|14938}}
+
+The table below is formatted to make translating text from and into the Steel Alphabet easier, and omits non-letter glyphs.
+
+{| class=infobox style=text-align:center
+|+ **Symbols as Letters**
+
+|-
+! Letter !! Ancient <br>Terris !! Intermediary !! Late Final Empire <br>(c. 1022 FE) !! c. 341 PC <br>(print font) !! Terris <br>alphabet !! Metal
+|-
+| A || [[File:Lerasium (Book 3).svg|32x32px]] || [[File:Lerasium (book 2).svg|32x32px]] || [[File:Lerasium.svg|32x32px]] || [[File:Lerasium (Alloy of Law).svg|32x32px]] || [[File:Lerasium (Feruchemy).svg|32x32px]] || Lerasium
+|-
+| B || [[File:Iron (Book 3).svg|32x32px]] || [[File:Iron (book 2).svg|32x32px]] || [[File:Iron.svg|32x32px]] || [[File:Iron (Alloy of Law).svg|32x32px]] || [[File:Iron (Feruchemy).svg|32x32px]] || Iron
+|-
+| C 
+| colspan=5 | Use the symbol for **K** ([[File:Bendalloy.svg|32x32px]]) when **C** makes a [k] sound (i.e. treat *cat* like *kat*).<br> Use the symbol for **S** ([[File:Duralumin.svg|32x32px]]) when **C** makes an [s] sound (e.g. treat *city* like *sity*)
+|
+|-
+| rowspan=2 | CH 
+| [[File: Allomancy 20 (Hero of Ages).svg|32x32px]] 
+| [[File:Allomancy 20 (book 2).svg|32x32px]] 
+| [[File:Allomancy 20 (Final Empire).svg|32x32px]] 
+| [[File:Allomancy 20 (Alloy of Law).svg|32x32px]] 
+| [[File:Unknown Metal Feruchemy 20 (Final Empire) 18 (Alloy of Law).svg|32x32px]]
+| *Unknown*
+|-
+| colspan=5 | Use only when **CH** makes a [t̠͡ʃ] sound (like in 'chair'). Use the symbol for **K** ([[File:Bendalloy.svg|32x32px]]) when it makes a [k] sound (like in 'chaos')
+|
+|-
+| D || [[File:Copper (Book 3).svg|32x32px]] || [[File:Copper (book 2).svg|32x32px]] || [[File:Copper.svg|32x32px]] || [[File:Copper (Alloy of Law).svg|32x32px]] || [[File:Copper (Feruchemy).svg|32x32px]] || Copper
+|-
+| E
+| colspan=5 | Shares symbol with **I** ([[File:Tin.svg|32x32px]]), but places the dot on the bottom, to the left of the tip of the vertical spike
+| Tin*
+|-
+| F || [[File:Malatium (Book 3).svg|32x32px]] || [[File:Malatium (book 2).svg|32x32px]] || [[File:Malatium.svg|32x32px]] || [[File:Malatium (Alloy of Law).svg|32x32px]] || [[File:Malatium (Feruchemy).svg|32x32px]] || Malatium
+|-
+| G || [[File:Cadmium (Book 3).svg|32x32px]] || [[File:Cadmium (book 2).svg|32x32px]] || [[File:Cadmium.svg|32x32px]] || [[File:Cadmium (Alloy of Law).svg|32x32px]] || [[File:Cadmium (Feruchemy).svg|32x32px]] || Cadmium
+|-
+| H || [[File: Allomancy 21 (Hero of Ages).svg|32x32px]] || [[File:Allomancy 21 (book 2).svg|32x32px]] || [[File:Allomancy 21 (Final Empire).svg|32x32px]] || [[File:Allomancy 21 (Alloy of Law).svg|32x32px]] || [[File:Unknown Metal Feruchemy 21 (Final Empire) 19 (Alloy of Law).svg|32x32px]] || *Unknown*
+|-
+| I || [[File:Tin (Book 3).svg|32x32px]] || [[File:Tin (book 2).svg|32x32px]] || [[File:Tin.svg|32x32px]] || [[File:Tin (Alloy of Law).svg|32x32px]] || [[File:Tin (Feruchemy).svg|32x32px]] || Tin
+|-
+| J || [[File: Allomancy 19 (Hero of Ages).svg|32x32px]] || [[File:Allomancy 19 (book 2).svg|32x32px]] || [[File:Allomancy 19 (Final Empire).svg|32x32px]] || [[File:Allomancy 19 (Alloy of Law).svg|32x32px]] || [[File:Unknown Metal Feruchemy 19 (Final Empire) 17 (Alloy of Law).svg|32x32px]] || *Unknown*
+|-
+| K || [[File:Bendalloy (Book 3).svg|32x32px]] || [[File:Bendalloy (book 2).svg|32x32px]] || [[File:Bendalloy.svg|32x32px]] || [[File:Bendalloy (Alloy of Law).svg|32x32px]] || [[File:Bendalloy (Feruchemy).svg|32x32px]] || Bendalloy
+|-
+| L || [[File:Zinc (Book 3).svg|32x32px]] || [[File:Zinc (book 2).svg|32x32px]] || [[File:Zinc.svg|32x32px]] || [[File:Zinc (Alloy of Law).svg|32x32px]] || [[File:Zinc (Feruchemy).svg|32x32px]] || Zinc
+|-
+| M || [[File:Gold (Book 3).svg|32x32px]] || [[File:Gold (book 2).svg|32x32px]] || [[File:Gold.svg|32x32px]] || [[File:Gold (Alloy of Law).svg|32x32px]] || [[File:Gold (Feruchemy).svg|32x32px]] || Gold
+|-
+| N || [[File:Electrum (Book 3).svg|32x32px]] || [[File:Electrum (book 2).svg|32x32px]] || [[File:Electrum.svg|32x32px]] || [[File:Electrum (Alloy of Law).svg|32x32px]] || [[File:Electrum (Feruchemy).svg|32x32px]] || Electrum
+|-
+| O || [[File:Pewter (Book 3).svg|32x32px]] || [[File:Pewter (book 2).svg|32x32px]] || [[File:Pewter.svg|32x32px]] || [[File:Pewter (Alloy of Law).svg|32x32px]] || [[File:Pewter (Feruchemy).svg|32x32px]] || Pewter
+|-
+| P || [[File:Steel (Book 3).svg|32x32px]] || [[File:Steel (book 2).svg|32x32px]] || [[File:Steel.svg|32x32px]] || [[File:Steel (Alloy of Law).svg|32x32px]] || [[File:Steel (Feruchemy).svg|32x32px]] || Steel
+|-
+| Q 
+| colspan=5 | Does not have a dedicated symbol; use **KW** ([[File:Bendalloy.svg|32x32px]][[File:Chromium.svg|32x32px]]) instead of **QU** (e.g. treat *quest* like *kwest*)
+|
+|-
+| R || [[File:Brass (Book 3).svg|32x32px]] || [[File:Brass (book 2).svg|32x32px]] || [[File:Brass.svg|32x32px]] || [[File:Brass (Alloy of Law).svg|32x32px]] || [[File:Brass (Feruchemy).svg|32x32px]] || Brass
+|-
+| S || [[File:Duralumin (Book 3).svg|32x32px]] || [[File:Duralumin (book 2).svg|32x32px]] || [[File:Duralumin.svg|32x32px]] || [[File:Duralumin (Alloy of Law).svg|32x32px]] || [[File:Duralumin (Feruchemy).svg|32x32px]] || Duralumin
+|-
+| SH
+| colspan=5 | Shares symbol with **X** ([[File:Allomancy 22 (Final Empire).svg|32x32px]])
+|
+|-
+| T || [[File:Bronze (Book 3).svg|32x32px]] || [[File:Bronze (book 2).svg|32x32px]] || [[File:Bronze.svg|32x32px]] || [[File:Bronze (Alloy of Law).svg|32x32px]] || [[File:Bronze (Feruchemy).svg|32x32px]] || Bronze
+|-
+| U 
+| colspan=5 | Shares symbol with **O** ([[File:Pewter.svg|32x32px]]), but places the dot on top, next to the head of the curved spike
+| Pewter*
+|-
+| V || [[File:Atium (Book 3).svg|32x32px]] || [[File:Atium (book 2).svg|32x32px]] || [[File:Atium.svg|32x32px]] || [[File:Atium (Alloy of Law).svg|32x32px]] || [[File:Atium (Feruchemy).svg|32x32px]] || Atium
+|-
+| W || [[File:Chromium (Book 3).svg|32x32px]] || [[File:Chromium (book 2).svg|32x32px]] || [[File:Chromium.svg|32x32px]] || [[File:Chromium (Alloy of Law).svg|32x32px]] || [[File:Chromium (Feruchemy).svg|32x32px]] || Chromium
+|-
+| X || [[File: Allomancy 22 (Hero of Ages).svg|32x32px]] || [[File:Allomancy 22 (book 2).svg|32x32px]] || [[File:Allomancy 22 (Final Empire).svg|32x32px]] || [[File:Allomancy 22 (Alloy of Law).svg|32x32px]] || [[File:Unknown Metal Feruchemy 22 (Final Empire) 20 (Alloy of Law).svg|32x32px]] || *Unknown*
+|-
+| Y || [[File:Nicrosil (Book 3).svg|32x32px]] || [[File:Nicrosil (book 2).svg|32x32px]] || [[File:Nicrosil.svg|32x32px]] || [[File:Nicrosil (Alloy of Law).svg|32x32px]] || [[File:Nicrosil (Feruchemy).svg|32x32px]] || Nicrosil
+|-
+| Z || [[File:Aluminum (Book 3).svg|32x32px]] || [[File:Aluminum (book 2).svg|32x32px]] || [[File:Aluminum.svg|32x32px]] || [[File:Aluminum (Alloy of Law).svg|32x32px]] || [[File:Aluminum (Feruchemy).svg|32x32px]] || Aluminum
+
+|}
+
+### Symbols as numbers
+
+The steel alphabet uses a base-16 numbering system with a positional structure similar to [[wikipedia:Japanese numerals|Japanese numerals]]&mdash;double-number pairs are used to represent the order of magnitude and the number in that position respectively.{{ref|name=17s-broad-numbers}} Unlike the base-10 system we are familiar with, where we use 0-9 for all numbers, the Scadrians use 1-16. Here's a detailed explanation of how it all works:
+
+* 0 does get a character - [[File:Allomancy 0 (Final Empire).svg|32x32px]] - but it's never used to represent other numbers
+* Powers of 16 - i.e. 16 (16<sup>1</sup>), 256 (16<sup>2</sup>), 4096 (16<sup>3</sup>), etc. get their own characters
+* The decimal numbers between 1 and 16 are represented with a single character each (1 is [[File:Iron.svg|32x32px]], 2 is [[File:Steel.svg|32x32px]], ... 16 is [[File:Duralumin.svg|32x32px]])
+* From here on out (until we hit 256, or 16<sup>2</sup>), numbers are represented as multiples of 16, followed by a 1-15 remainder (remainder 0 is omitted, so 32 is just 2 16, instead of 2 16 0). When the 16 multiplier is 1, it is omitted (so 33 which is 2x16 + 1, would be written as 2 16 1, but 17 which is 1x16 + 1, would be written as just 16 1, instead of 1 16 1). This means that...
+** The next 15 numbers (17-31) are represented as (16)(x). So 17 is [[File:Duralumin.svg|32x32px]][[File:Iron.svg|32x32px]] or (16)(1), 18 is [[File:Duralumin.svg|32x32px]][[File:Steel.svg|32x32px]] or (16)(2), and so on.
+** 32 is represented as (2)(16) - i.e. [[File:Steel.svg|32x32px]][[File:Duralumin.svg|32x32px]]; therefore 33 is [[File:Steel.svg|32x32px]][[File:Duralumin.svg|32x32px]][[File:Iron.svg|32x32px]] or (2)(16)(1), 34 is (2)(16)(2), etc. It can be convenient to think of these not as (2)(16)(x), but as (32)(x)
+** 48 is (3)(16), 64 is (4)(16), and so on, until 255 which is (15)(16)(15)
+* 256 gets its own special symbol - [[File:Allomancy 19 (Final Empire).svg|32x32px]] - and the pattern repeats: 257 is (256)(1), 258 is (256)(2), 272 is (256)(16), 273 is (256)(16)(1), ... 511 is (256)(15)(16)(15) (again, it can be convenient to think of this as (256)(255)), 512 is (2)(256), and so on until 4095 which is (15)(256)(15)(16)(15) or 15x256 + 255; again, remainder of 0 and multiplier of 1 are omitted)
+* 4096 also gets a special symbol - [[File:Allomancy 20 (Final Empire).svg|32x32px]] - and the pattern repeats.
+
+At the moment, the largest number we know how to represent is 16x4096-1, or 65,535 - which would be 15x4096 + 15x256 + 15x16 + 15 (or 15x16<sup>3</sup> + 15x16<sup>2</sup> + 15x16<sup>1</sup> + 15x16<sup>0</sup>). To represent numbers larger than that we would need to know the character for 65,536 or 16^4, and we don't.
+
+[[User:Paleo]] has put together a convenient conversion tool, that turns base-10 numbers into Steel alphabet ones: https://marvin-roesch.github.io/steel-numbers/
+
+{| class=infobox style=text-align:center
+|+ **Symbols as Numbers**
+|-
+! Number !! Ancient <br>Terris !! Intermediary !! Late Final Empire <br>(c. 1022 FE) !! c. 341 PC <br>(print font) !! Terris <br>alphabet !! Metal
+|-
+| 0 || [[File:Allomancy 0 (Hero of Ages).svg|32x32px]] || || [[File:Allomancy 0 (Final Empire).svg|32x32px]] || [[File:Allomancy 0 (Alloy of Law).svg|32x32px]]
+|-
+| 1 || [[File:Iron (Book 3).svg|32x32px]] || [[File:Iron (book 2).svg|32x32px]] || [[File:Iron.svg|32x32px]] || [[File:Iron (Alloy of Law).svg|32x32px]] || [[File:Iron (Feruchemy).svg|32x32px]] || Iron
+|-
+| 2 || [[File:Steel (Book 3).svg|32x32px]] || [[File:Steel (book 2).svg|32x32px]] || [[File:Steel.svg|32x32px]] || [[File:Steel (Alloy of Law).svg|32x32px]] || [[File:Steel (Feruchemy).svg|32x32px]] || Steel
+|-
+| 3 || [[File:Tin (Book 3).svg|32x32px]] || [[File:Tin (book 2).svg|32x32px]] || [[File:Tin.svg|32x32px]] || [[File:Tin (Alloy of Law).svg|32x32px]] || [[File:Tin (Feruchemy).svg|32x32px]] || Tin
+|-
+| 4 || [[File:Pewter (Book 3).svg|32x32px]] || [[File:Pewter (book 2).svg|32x32px]] || [[File:Pewter.svg|32x32px]] || [[File:Pewter (Alloy of Law).svg|32x32px]] || [[File:Pewter (Feruchemy).svg|32x32px]] || Pewter
+|-
+| 5 || [[File:Zinc (Book 3).svg|32x32px]] || [[File:Zinc (book 2).svg|32x32px]] || [[File:Zinc.svg|32x32px]] || [[File:Zinc (Alloy of Law).svg|32x32px]] || [[File:Zinc (Feruchemy).svg|32x32px]] || Zinc
+|-
+| 6 || [[File:Brass (Book 3).svg|32x32px]] || [[File:Brass (book 2).svg|32x32px]] || [[File:Brass.svg|32x32px]] || [[File:Brass (Alloy of Law).svg|32x32px]] || [[File:Brass (Feruchemy).svg|32x32px]] || Brass
+|-
+| 7 || [[File:Copper (Book 3).svg|32x32px]] || [[File:Copper (book 2).svg|32x32px]] || [[File:Copper.svg|32x32px]] || [[File:Copper (Alloy of Law).svg|32x32px]] || [[File:Copper (Feruchemy).svg|32x32px]] || Copper
+|-
+| 8 || [[File:Bronze (Book 3).svg|32x32px]] || [[File:Bronze (book 2).svg|32x32px]] || [[File:Bronze.svg|32x32px]] || [[File:Bronze (Alloy of Law).svg|32x32px]] || [[File:Bronze (Feruchemy).svg|32x32px]] || Bronze
+|-
+| 9 || [[File:Cadmium (Book 3).svg|32x32px]] || [[File:Cadmium (book 2).svg|32x32px]] || [[File:Cadmium.svg|32x32px]] || [[File:Cadmium (Alloy of Law).svg|32x32px]] || [[File:Cadmium (Feruchemy).svg|32x32px]] || Cadmium
+|-
+| 10 || [[File:Bendalloy (Book 3).svg|32x32px]] || [[File:Bendalloy (book 2).svg|32x32px]] || [[File:Bendalloy.svg|32x32px]] || [[File:Bendalloy (Alloy of Law).svg|32x32px]] || [[File:Bendalloy (Feruchemy).svg|32x32px]] || Bendalloy
+|-
+| 11 || [[File:Gold (Book 3).svg|32x32px]] || [[File:Gold (book 2).svg|32x32px]] || [[File:Gold.svg|32x32px]] || [[File:Gold (Alloy of Law).svg|32x32px]] || [[File:Gold (Feruchemy).svg|32x32px]] || Gold
+|-
+| 12 || [[File:Electrum (Book 3).svg|32x32px]] || [[File:Electrum (book 2).svg|32x32px]] || [[File:Electrum.svg|32x32px]] || [[File:Electrum (Alloy of Law).svg|32x32px]] || [[File:Electrum (Feruchemy).svg|32x32px]] || Electrum
+|-
+| 13 || [[File:Chromium (Book 3).svg|32x32px]] || [[File:Chromium (book 2).svg|32x32px]] || [[File:Chromium.svg|32x32px]] || [[File:Chromium (Alloy of Law).svg|32x32px]] || [[File:Chromium (Feruchemy).svg|32x32px]] || Chromium
+|-
+| 14 || [[File:Nicrosil (Book 3).svg|32x32px]] || [[File:Nicrosil (book 2).svg|32x32px]] || [[File:Nicrosil.svg|32x32px]] || [[File:Nicrosil (Alloy of Law).svg|32x32px]] || [[File:Nicrosil (Feruchemy).svg|32x32px]] || Nicrosil
+|-
+| 15 || [[File:Aluminum (Book 3).svg|32x32px]] || [[File:Aluminum (book 2).svg|32x32px]] || [[File:Aluminum.svg|32x32px]] || [[File:Aluminum (Alloy of Law).svg|32x32px]] || [[File:Aluminum (Feruchemy).svg|32x32px]] || Aluminum
+|-
+| 16 || [[File:Duralumin (Book 3).svg|32x32px]] || [[File:Duralumin (book 2).svg|32x32px]] || [[File:Duralumin.svg|32x32px]] || [[File:Duralumin (Alloy of Law).svg|32x32px]] || [[File:Duralumin (Feruchemy).svg|32x32px]] || Duralumin
+|-
+| 256 || [[File: Allomancy 19 (Hero of Ages).svg|32x32px]] || [[File:Allomancy 19 (book 2).svg|32x32px]] || [[File:Allomancy 19 (Final Empire).svg|32x32px]] || [[File:Allomancy 19 (Alloy of Law).svg|32x32px]] || [[File:Unknown Metal Feruchemy 19 (Final Empire) 17 (Alloy of Law).svg|32x32px]] || 
+|-
+| 4096 || [[File: Allomancy 20 (Hero of Ages).svg|32x32px]] || [[File:Allomancy 20 (book 2).svg|32x32px]] || [[File:Allomancy 20 (Final Empire).svg|32x32px]] || [[File:Allomancy 20 (Alloy of Law).svg|32x32px]] || [[File:Unknown Metal Feruchemy 20 (Final Empire) 18 (Alloy of Law).svg|32x32px]] || 
+
+|}
+
+<br>{{theory}}
+Most of these symbols come from images come from images uploaded on Brandon's website, that list 23 symbols in almost exactly the order they appear here (e.g. 1. Iron, 2. Steel, 3. Tin, etc.). The only exceptions are the Era 1 graphics, which list 9. Atium & 10. Malatium as well as 17. Cadmium & 18. Bendalloy; Era 2 puts cadmium and bendalloy in their 9 & 10 spots, and moves atium & malatium to 21 & 22 - leaving 17-20 nameless. Using the Era 2 ordering, the symbols for 256 (16<sup>2</sup>)([[File:Allomancy 19 (Alloy of Law).svg|32x32px]]) and 4096 (16<sup>3</sup>) ([[File:Allomancy 20 (Alloy of Law).svg|32x32px]]) are labeled as **17. No name** and **18. No name**. Based on that it is possible that the symbols for **19. No name** ([[File:Allomancy 21 (Alloy of Law).svg|32x32px]]) and **20. No name** ([[File:Allomancy 22 (Alloy of Law).svg|32x32px]]) will come to represent 65,536 (16<sup>4</sup>) and 1,048,576 (16<sup>5</sup>) respectively. 
+
+### Symbols as cardinal directions
+
+The Steel glyphs corresponding to the eight basic metals are also used to express (inter)cardinal directions.{{map ref|Luthadel}}
+
+{| class=infobox style=text-align:center
+|+ **Symbols as Directions**
+|-
+! Direction !! Ancient <br>Terris !! Intermediary !! Late Final Empire <br>(c. 1022 FE) !! c. 341 PC <br>(print font) !! Terris <br>alphabet !! Metal
+|-
+| North || [[File:Tin (Book 3).svg|32x32px]] || [[File:Tin (book 2).svg|32x32px]] || [[File:Tin.svg|32x32px]] || [[File:Tin (Alloy of Law).svg|32x32px]] || [[File:Tin (Feruchemy).svg|32x32px]] || Tin
+|-
+| Northeast || [[File:Pewter (Book 3).svg|32x32px]] || [[File:Pewter (book 2).svg|32x32px]] || [[File:Pewter.svg|32x32px]] || [[File:Pewter (Alloy of Law).svg|32x32px]] || [[File:Pewter (Feruchemy).svg|32x32px]] || Pewter
+|-
+| East || [[File:Zinc (Book 3).svg|32x32px]] || [[File:Zinc (book 2).svg|32x32px]] || [[File:Zinc.svg|32x32px]] || [[File:Zinc (Alloy of Law).svg|32x32px]] || [[File:Zinc (Feruchemy).svg|32x32px]] || Zinc
+|-
+| Southeast || [[File:Brass (Book 3).svg|32x32px]] || [[File:Brass (book 2).svg|32x32px]] || [[File:Brass.svg|32x32px]] || [[File:Brass (Alloy of Law).svg|32x32px]] || [[File:Brass (Feruchemy).svg|32x32px]] || Brass
+|-
+| South || [[File:Copper (Book 3).svg|32x32px]] || [[File:Copper (book 2).svg|32x32px]] || [[File:Copper.svg|32x32px]] || [[File:Copper (Alloy of Law).svg|32x32px]] || [[File:Copper (Feruchemy).svg|32x32px]] || Copper
+|-
+| Southwest || [[File:Bronze (Book 3).svg|32x32px]] || [[File:Bronze (book 2).svg|32x32px]] || [[File:Bronze.svg|32x32px]] || [[File:Bronze (Alloy of Law).svg|32x32px]] || [[File:Bronze (Feruchemy).svg|32x32px]] || Bronze
+|-
+| West || [[File:Iron (Book 3).svg|32x32px]] || [[File:Iron (book 2).svg|32x32px]] || [[File:Iron.svg|32x32px]] || [[File:Iron (Alloy of Law).svg|32x32px]] || [[File:Iron (Feruchemy).svg|32x32px]] || Iron
+|-
+| Northwest || [[File:Steel (Book 3).svg|32x32px]] || [[File:Steel (book 2).svg|32x32px]] || [[File:Steel.svg|32x32px]] || [[File:Steel (Alloy of Law).svg|32x32px]] || [[File:Steel (Feruchemy).svg|32x32px]] || Steel
+
+|}
+
+### Symbols as everything else
+
+In addition to the more extensive systems of letters, numbers, and directions, various individual symbols are used to denote other miscellaneous aspects of life too:
+
+* The symbol that indicates prices in **clips** ([[File:Clip (Era 2).svg|x16px]]) is a variation of the symbol for **copper**, but without the dot and rotated clockwise so it resembles ¢ (e.g. an issue of the Two Seasons broadsheet might cost 2[[File:Clip (Era 2).svg|x16px]], or two clips).{{ref|name=2s-header}}{{wob ref|13020}} 
+* The symbol for **cadmium** ([[File:Cadmium (Alloy of Law).svg|32x32px]]) is used to represent degrees in temperature (e.g. a weather broadcast might include a high of 26[[File:Cadmium (Alloy of Law).svg|32x32px]] and low of 17[[File:Cadmium (Alloy of Law).svg|32x32px]]).{{ref|name=2s-weather}}
+
+## Evolution of the Steel Alphabet
+The following table shows both the evolution of the symbols used in the steel alphabet, which have come to be associated with [[Allomancy]], as well as the separate set of symbols that developed to represent the [[Feruchemy|Feruchemical]] use of metals.
+
+The form of letters shown in 341 PC are not a true evolution of the script, but are instead simply a different font for the same letters.{{17s ref|topic|78422|text=Correction to the steel alphabet|poster=argent|date=30 September 2018}}
+
+{| class=infobox width=100%
+|- class=title
+! width=10% | Metal
+! width=18% | Ancient Terris (pre 0 FE)
+! width=18% | Intermediary
+! width=18% | Late Final Empire (c. {{date|1022|FE}})
+! width=18% | c. {{date|341|PC}} (print font){{17s ref|topic|78422|text=Correction to the steel alphabet|poster=argent|date=30 September 2018}}
+! width=18% | Terris alphabet
+|-
+{{/row|Iron}}
+{{/row|Steel}}
+{{/row|Tin}}
+{{/row|Pewter}}
+{{/row|Zinc}}
+{{/row|Brass}}
+{{/row|Copper}}
+{{/row|Bronze}}
+{{/row|Cadmium}}
+{{/row|Bendalloy}}
+{{/row|Gold}}
+{{/row|Electrum}}
+{{/row|Chromium}}
+{{/row|Nicrosil}}
+{{/row|Aluminum}}
+{{/row|Duralumin}}
+{{/row|Atium}}
+{{/row|Malatium}}
+{{/num-row|19|fer=[[File:Unknown Metal Feruchemy 19 (Final Empire) 17 (Alloy of Law).svg|x75px]]}}
+{{/num-row|20|fer=[[File:Unknown Metal Feruchemy 20 (Final Empire) 18 (Alloy of Law).svg|x75px]]}}
+{{/num-row|21|fer=[[File:Unknown Metal Feruchemy 21 (Final Empire) 19 (Alloy of Law).svg|x75px]]}}
+{{/num-row|22|fer=[[File:Unknown Metal Feruchemy 22 (Final Empire) 20 (Alloy of Law).svg|x75px]]}}
+{{/row|Lerasium}}
+{{/row|Ettmetal|mb3=&nbsp;|mb2=&nbsp;}}
+{{/num-row|0|mb2=&nbsp;}}
+|}
+
+## Trivia
+* The distinguishing of vowels by different placement of a dot is based upon the extinct, but partially revived, [https://en.wikipedia.org/wiki/Baybayin Baybayin Script].{{wob ref|11029}}
+* Isaac Stewart has previously confirmed that the Feruchemical symbols for chromium and nicrosil were mistakenly swapped on the Feruchemy Table.{{wob ref|11030}}
+* The name of the symbol for gold (see above) is "mah."{{book ref|mb6|10}}{{file ref|New Ascendancy broadsheet.jpg |*The New Ascendancy* Broadsheet}}
+
+## Notes
+<references>
+
+{{ref|name=symbols|text=symbols used in WoA & HoA}}
+{{ref|name=Feruchemy table|text=Feruchemical metal table}}
+{{ref|name=font|text=the font, said by Peter, used in AoL}}
+
+{{17s ref|name=17s-broad-numbers|topic|1157|text=Edition Number in Elendel Daily|poster=discipleofhoid|date=14 November 2011}}
+
+{{file ref|name=Elendel-daily|Elendel Daily broadsheet.png|Elendel Daily}}
+{{file ref|name=2s-header|The Two Seasons broadsheet.jpg|The Two Seasons (Header)}}
+{{file ref|name=2s-weather|The Two Seasons broadsheet.jpg|The Two Seasons (Weather)}}
+
+{{url ref
+|name=isaacs-site
+|url=http://web.archive.org/web/20120510041032/http://www.isaacstewart.com/mistborn-series-artwork/
+|text=Isaac's Mistborn artwork
+|site=wayback machine
+|date=2012-05-10
+}}
+
+{{url ref
+|name=coinsKickstarter
+|url=https://www.kickstarter.com/projects/shirepostmint/mistborn-coins
+|text=Mistborn Coins Kickstarter (Translations under images of coins)
+|site=Shire Post Mint Kickstarter
+|date=28 September 2017
+}}
+
+</references>
+{{partial}}
+{{Mistborn}}
+[[category: Metallic Arts|~]]
+[[es:Alfabeto de acero]]

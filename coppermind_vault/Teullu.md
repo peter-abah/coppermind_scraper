@@ -1,0 +1,13 @@
+---
+world: "Sel"
+universe: "Cosmere"
+books: "The Emperor's Soul"
+---
+
+**Teullu** are a warrior people on [[Sel]]. They are holders of advanced martial arts, and trained [[Shaizan]]. The Teullu are wary and dislike outsiders, to the point of being willing to kill foreigners who attempted to ingratiate themselves.{{tes ref|98}} 
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 09:46, 16 June 2018 (MST)}}
+{{The Emperor's Soul}}
+[[es:Teullu]]

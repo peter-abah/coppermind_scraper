@@ -1,0 +1,2 @@
+#REDIRECT[[Vasher]]
+[[Category: Aliases]]

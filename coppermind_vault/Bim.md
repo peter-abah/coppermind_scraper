@@ -1,0 +1,81 @@
+---
+image: "Bim.PNG"
+died: "{{Detritus date|80"
+---
+
+, Skyward Flight's Second Battle{{book ref|Skyward|19}}
+|profession={{cat tag|DDF pilots}}
+|'ethnicity=[[Yeongian]]
+|world=Detritus
+|universe=[[Cytoverse]]
+|introduced=[[Skyward]]
+}}
+
+{{quote
+|I talked to some cadets from Firestorm Flight this morning. *They've* been dogfighting this entire time.
+|Bim complaining to [[Cobb]] about not spending more time using [[Poco]] weaponry.{{book ref|Skyward|15}}
+}}
+
+**Bim** is a [[Yeongian]] cadet at the [[DDF]] [[flight school]] on [[Detritus]]. He is in [[Skyward Flight]], however, does not have a callsign. Bim dies during battle, while attempting to destroy a [[lifebuster]].{{book ref|sky1|19}} 
+
+## Appearance and Personality
+{{image|Bim by Hinumay.jpeg|side=left|width=250px}}
+{{quote
+|Fly back in? Can’t we just turn off the holograms and go grab some grub?
+|Bim's attitude during [[Skyward Flight]] training{{book ref|sky1|13}}
+}}
+Bim has dark blue hair,{{book ref|sky1|8}} is enthusiastic,{{book ref|sky1|13}} earnest,{{book ref|sky1|13}} and relatively good looking.{{book ref|sky1|8}} He is Yeongian, and a descendant of the Chinese and Korean crew that made up the *[[Yeong-Gwang]]*.{{book ref|sky1|8}} The ancestors of Bim's clan were part of the ship's [https://en.wikipedia.org/wiki/Hydroponics hydroponics] teams and likely are involved with production of food in caverns nearby to [[Igneous]] and [[Alta Base]].{{book ref|sky1|9}}
+
+Bim is overly eager when it comes to weaponry and constantly questioning when Skyward Flight will begin training on destructors.{{book ref|sky1|13}} He is keen to begin learning to dogfight, and is frustrated that Cobb deprioritizes this training in favor of basic maneuvering.{{book ref|sky1|15}} He is not overly eager to practice more routine exercises and suggests cutting corners, which Cobb does not appreciate.{{book ref|sky1|13}}
+
+## Attributes and Abilities
+### Flight Training
+As someone who passed the flight school entrance exam, Bim is highly knowledgeable about piloting and [[starfighter]]s.{{book ref|sky1|8}} He has trained to pilot a [[Poco]], perform aerial maneuvers, and use its weaponry. He is highly interested in the [[Starfighter#destructor|destructor]] guns that are affixed to combat starfighters, and is overly eager to train using the weapons.{{book ref|sky1|14}} Compared to his fellow flight members, Bim is not as skilled with a [[Starfighter#Light-Lance|light-lance]].{{book ref|sky1|15}} Bim is aware of flight school traditions prior to starting his training as a cadet.{{book ref|sky1|8}}
+
+## History
+### Early Life
+Little is known about Bim's childhood, however, as his clan maintained underground farms that produced food for the wealthy,{{book ref|Skyward|8}} it is likely that he assisted in some way with this production during his younger years.
+
+### Flight School
+{{image|Bim by Hitori Maron.jpg|side=right|height=350px}}
+{{quote
+|Sir, is it true that if we crash a real ship while in training, we won't graduate? 
+|Bim to Cobb regarding cadet status following ejection{{book ref|Skyward|8}}
+}}
+After passing the entrance exam, Bim was placed in Skyward Flight under the tutorledge of [[Cobb]]. His first day of flight school saw him arriving at the class room with [[Hurl]], indicating that they may have known each other prior to the class.{{book ref|sky1|8}} He is roomed with the other male members of his flight, however, the number of male members of Skyward Flight led to Bim having to sleep on a cot instead of permanent bed.{{book ref|sky1|11}} After [[Rig]] dropped out of flight school, it is likely that Bim took over his bed.
+
+During Skyward Flight's first lesson, Bim asked Cobb about the tradition of discharging cadets who eject during combat. Cobb denied there was an official rule that would dismiss cadets, and tried to discourage the cadets from listening to similar rumors.{{book ref|sky1|9}} When the lesson was interrupted by a [[varvax|Krell]] attack, Bim, along with the rest of Skyward Flight, were ordered to take to the sky and line up close to the battle to deceive the Krell into thinking there were more pilots ready to join the conflict.{{book ref|sky1|11}}
+
+During the game in which Skyward Flight practiced using their light-lances to Bim was the first to crash. After finishing the exercise, Bim attempted to flirt with [[Spensa]] by asking about her interest in heroes and stories. He hastily excuses himself after admitting that he didn't know of any of the figures Spensa had listed. Realizing that Bim had been trying to flirting with her Spensa attempted to flirt back by comparing him to [https://en.wikipedia.org/wiki/Odysseus Odysseus].{{book ref|sky1|15}}
+
+A few days later, Skyward Flight was once again sent into battle against the Krell, this time fighting alongside full pilots. During the firefight, Bim spotted a lifebuster heading towards [[Alta Base]]. He and Spensa went to attack the ship, however, were attacked by the escort ships that had been attached to the side of the bomber. Ignoring Cobb's orders to fall back, Bim attempted to take the ship, insisting that he could hit it, however, was killed by the Krell escort ships.{{book ref|sky1|19}}
+
+## Relationships
+### Spensa
+{{quote
+|So, you're really into warriors and things, eh?
+|Bim attempting to flirt with [[Spensa]]{{book ref|sky1|15}}
+}}
+Bim has some level of romantic inclinations towards Spensa, and flirts with her during their time at flight school.{{book ref|sky1|15}} Bim's unsubtle and awkward attempts to flirt with Spensa makes it likely that he is inexperienced when it comes to romance.{{book ref|sky1|15}} He approved of her strategy to beat [[Jorgen]] in the light-lance game, not seeing an issue with her actions.{{book ref|sky1|15}} Following the revelation that Spensa's father was [[Zeen Nightshade]], Bim began acting more cautious around Spensa, although it is unclear if this was because of her parentage or her temper.{{book ref|sky1|16}}
+
+Spensa returns some of this attraction, acknowledging to herself that she finds him relatively attractive,{{book ref|sky1|11}}{{book ref|sky1|15}} as well as finding his antics and enthusiasm to be cute.{{book ref|sky1|14}} She is aware, however, that relationships between cadets are strictly prohibited until after graduation.{{book ref|sky1|11}}
+
+Spensa was hit hard by Bim's death and struggled with her grief after losing her friend, keenly aware of the holes that had been left in the flight by the loss of [[Bim]] and [[Morningtide]].{{book ref|sky1|20}} Despite her initial struggles to vocalize her feelings about the loss of her friends, Spensa was able to offer the other members of Skyward Flight some words of comfort, reminiscing on Bim's positive attitude and how much he smiled.{{book ref|sky1|20}}{{book ref|sky1|21}}{{book ref|sky1|20}} Following his death, she finds that she is more sharply reminded of his absence during times that he would have contributed to conversation during their training.{{book ref|sky1|20}}{{book ref|sky1|23}} She regrets being unable to help him choose a callsign before his death and attempts to share this with [[Hurl]], however, the other girl dismisses her due to a combination of trying to process her own grief and also because of her prejudices against Spensa's heritage.{{book ref|sky1|23}} It took several weeks for Spensa to come to terms with Bim's death, and although she moved past her grief, his memory stayed with her and the loss of her flightmate never fully faded.{{book ref|sky1|34}}{{book ref|sky2|43}}{{book ref|sky2|3}}
+
+### Cobb
+{{sidequote
+|You want to go sweep floors instead of being a fighter pilot, boy? I've seen rocks that fly almost as well as you do—I could drop one in your seat, paint the head blue, and at least I’d stop getting lip!
+|[[Cobb]] responding to Bim's attitude during training{{book ref|sky1|15}}
+|side=right|size=350px
+}}
+Cobb finds Bim to be overeager and does not appreciate his fixation on weaponry, believing that it would end up with Bim dead.{{book ref|sky1|13}} Conversely, Bim finds Cobb's constant refusal to teach Skyward Flight about starfighter weaponry to be frustrating and has a propensity to complain about this fact.{{book ref|sky1|21}} Cobb is not pleased by Bim's attitude when he is given instructions or when by his suggestions to cut corners during training.{{book ref|sky1|13}}{{book ref|sky1|15}}
+
+Cobb blames [[Ironsides]] for Bim's death, believing that the Admiral was wrong to be sending under-trained cadets into real battles.{{book ref|sky1|i|1}} Spensa finds Cobb re-watching the battle, however, it is unclear if he was attempting to recreate scenarios where the battle had ended differently or if he was watching the recording for another reason.{{book ref|sky1|21}}
+
+### Jorgen Weight
+As Bim's flightleader, [[Jorgen]] took his death hard, however, at first tried to put aside his grief to offer his support to the rest of his flight. Following Bim and Morningtide's deaths, Jorgen frequently replayed simulations of the battle to play out different outcomes. Although he ran through multiple scenarios, he was unable to find a way in which the battle had ended differently, which caused Jorgen great frustration.{{book ref|Skyward|29}} 
+
+## Notes
+<references/><!-- Skyward: 5,8-11,13-17,19-23,25,29,31,34,41,47 -->
+{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 08:18, 16 January 2020 (UTC)}}
+{{Skyward}}

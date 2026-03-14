@@ -1,0 +1,20 @@
+{{DISPLAYTITLE:*Whistlebow*}}
+{{vehicle|name=*Whistlebow*
+|type={{cat tag|watercraft|Ship}}
+|captain=
+|world=Lumar
+|universe=[[Cosmere]]
+|books=[[Tress of the Emerald Sea]]
+}}
+
+The ***Whistlebow*** is a ship that traveled the twelve seas on [[Lumar]].
+
+## History
+Little is known about the history of the *Whistlebow*. At some point, [[Charlie]] came into contact with [[Hoid]] while he was serving as the ship's cabin boy, before he joined the crew of the *[[Crow's Song]]*.{{book ref|tress|13}}{{book ref|tress|4}} Charlie had Hoid deliver a beautiful, unchipped porcelain cup back to [[Tress]] aboard the *Whistlebow*.{{book ref|tress|4}} This was the first of the four cups Charlie sent to Tress, however it is unknown which ships delivered the other three.{{book ref|tress|4}}
+
+## Notes
+<references />
+{{complete|[[User:Jofwu|Jofwu]] ([[User talk:Jofwu|talk]]) 15:15, 16 January 2023 (UTC)}}
+{{Tress}}
+[[es:Delator]]
+[[uk:Свистоніс]]

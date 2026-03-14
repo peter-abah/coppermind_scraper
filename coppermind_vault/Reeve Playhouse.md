@@ -1,0 +1,13 @@
+{{architecture
+|city=Newcago
+|earth=Reckoners
+|books=[[The Reckoners]]
+}}
+The **Reeve Playhouse** is a theater in [[Newcago]] owned by [[Spritzer]].{{book ref|Steelheart|1}}{{book ref|Steelheart|6}} It is located on Schuster street, and has a bright red neon sign that proclaims the name of the theater.{{book ref|Steelheart|1}} The majority of people who went to the Reeve Playhouse would be rich overstreeters, either favored by Steelheart or simply born to a rich family.{{book ref|Steelheart|1}}
+
+On the first Saturday of every month, [[Fortuity]] would go there to see a play.{{book ref|Steelheart|6}} During the fight with Fortuity, [[Tia]] blew the Reeve up, in an attempt to lead Fortuity back to the area the [[Reckoners]] wanted him in.{{book ref|Steelheart|3}}
+
+## Notes
+<references/>
+{{complete}}
+{{Reckoners}}

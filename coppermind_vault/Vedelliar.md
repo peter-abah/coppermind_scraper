@@ -1,0 +1,14 @@
+{{settlement
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Vedelliar** is a town in southeastern [[Alethkar]] on [[Roshar]]. It is near [[Rathalas]], and contains a waystop.
+
+During the Battle at the Rift in {{Rosharan date|1163}}, [[Teleb]]'s scouts claimed to have observed a caravan of traitors, including a [[Shardbearer]], fleeing Rathalas to the east towards Vedelliar and the [[Unclaimed Hills]]. [[Tanalan]] told [[Dalinar]] that the traitor was [[Torol Sadeas]].{{book ref|sa3|71}} However, Teleb's scouts had been bribed into giving false information; the caravan was actually a trap laid by Tanalan to lure Dalinar away from the city into an ambush.{{book ref|sa3|75}}
+
+## Notes
+<references />
+{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 13:24, 1 June 2018 (MST)}}
+{{Stormlight}}

@@ -1,0 +1,18 @@
+{{lifeform
+|type={{cat tag|drugs|Drug}}
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+**Black Frayn** is an herbal stimulant used during the [[Final Empire]] on [[Scadrial]].{{book ref|mb2|53}} 
+
+==Effects==
+Black Frayn is a described as a "nasty drug" due to its addictive nature. It can be taken orally by ingesting its leaves.{{book ref|mb2|53}} The drug makes one feels stronger and more alert, and can awaken someone rapidly.{{book ref|mb2|53}}{{book ref|mb2|55}} It also makes the body feel warm, warming the blood as if one was burning an [[Allomancy|Allomantic]] metal.{{book ref|mb2|55}} 
+
+==History==
+[[Straff Venture]]'s former mistress [[Amaranta]] serves as his herbalist; she is secretly working with [[Zane]] and administers Black Frayn to Straff over time, making him believe that he is being poisoned each time he experiences withdrawal symptoms.{{book ref|mb2|49}} When Amaranta believes that Straff has driven Zane from his warcamp, she plans to withhold the drug and kill Straff as payback for his prior abandonment and for taking Zane away from her.{{book ref|mb2|49}} Straff manages to summon his last bit of strength to kill Amaranta and ingest a variety of drugs, hoping that one of them will save his life.{{book ref|mb2|49}} After waking up three days later,{{book ref|mb2|50}} Straff eventually figures out that Black Frayn is the substance that he is addicted to.{{book ref|mb2|53}} He believes that he can slowly wean himself off the drug,{{book ref|mb2|53}} although he admits there are benefits to taking it.{{book ref|mb2|55}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 10:33, 10 July 2019 (MST)}}
+{{Mistborn|Era 1}}

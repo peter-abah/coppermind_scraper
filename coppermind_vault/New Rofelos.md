@@ -1,0 +1,14 @@
+---
+nation: "High Empire"
+books: "Firstborn"
+---
+
+**New Rofelos** is a planet in the [[Reaches]] that is part of the [[High Empire]].{{book ref|firstborn}}
+
+Prior to [[Varion Crestmar]]'s graduation from the [[Academy]], the planet had rebelled against the empire and was outside of its control. About five years into his [[Reunification War|re-conquest of the Reaches]], Varion brought the planet back under imperial control. When reviewing Varion's strategies, [[Dennison Crestmar]] found the decision to go after New Rofelos odd, as doing so had exposed Varion's forces to division. When Varion launched his rebellion against the empire about fifteen years later, Dennison concluded that some of his strange strategic decisions&mdash;likely including the decision to capture New Rofelos early&mdash;were likely made to strengthen his hand when he finally turned against the empire.{{book ref|firstborn}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 07:28, 30 May 2022 (UTC)}}
+{{Firstborn}}
+[[Category: Celestial bodies]]

@@ -1,0 +1,44 @@
+---
+'species: "Chasmfiend"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Wind and Truth"
+---
+
+**Thundercloud** is a [[chasmfiend]] on [[Roshar]], and the leader of the group of chasmfiends that allied with the [[listeners]] after the [[War of Reckoning]].{{book ref|sa5|70}}
+
+## Appearance and Personality
+{{for|Chasmfiend#Appearance_and_Anatomy|more information|Chasmfiend}}
+{{sidequote
+|He sent to her that he thought he finally understood. She didn’t want him to eat humans because they weren’t fatty enough to be truly delicious, and he should focus on better meals.
+|Thundercloud{{book ref|sa5|118}}|side=right|size=300px
+}}
+Thundercloud is the largest and most dangerous of the chasmfiends who left the [[Shattered Plains]] with the listeners.{{book ref|sa5|70}} Like all chasmfiends, his face is composed of thick plating that appears like “chunks of broken rock,” and he has dark eyes that peer through junctions in the plates.{{book ref|sa5|78}} His mandibles are roughly the thickness of a singer’s arms, and he can use these smaller foreclaws to pick up and carry allies--including people--over obstacles.{{book ref|sa5|78}}
+
+Thundercloud is highly intelligent and is capable of communicating with other chasmfiends and listeners via projected images and impressions.{{book ref|sa5|58}}{{book ref|sa5|78}}{{book ref|sa5|118}} [[Venli]] can feel rhythms like Curiosity pulsing from him{{book ref|sa5|78}}, and Thundercloud is able to communicate complex ideas with her, such as the relative tastiness of different foods.{{book ref|sa5|118}} Thundercloud is willing to coordinate with listeners and will listen to their commands.{{book ref|sa5|70}} He shows confusion at the idea of not eating humans, but trusts Venli's judgment on the matter.{{book ref|sa5|118}}
+
+## History
+### Post War of Reckoning
+{{sidequote
+|Or he was the first who had decided not to fight any longer--and when the largest and most dangerous of them decided the little things on the Shattered Plains had defeated him, the others had followed
+|[[Venli]]{{book ref|sa5|70}}|side=right|size=300px
+}}
+Thundercloud was the first chasmfiend to decide not to fight the humans and listeners.{{book ref|sa5|70}} His choice inspired around fifty other chasmfiends to make peace and join the listeners, led by [[Thude]], during the aftermath of the War of Reckoning and following the arrival of the [[Everstorm]].{{book ref|sa5|70}}
+
+### Second Battle of Narak
+Thundercloud is one of the five chasmfiends who insisted on accompanying Venli and her group of listeners through the chasms on their expedition to [[Narak]].{{book ref|sa5|70}} He and the other chasmfiends assisted the listeners in navigating the chasms, using their mandibles to lift singers over obstacles.{{book ref|sa5|78}}
+
+After their discovery of the [[Well of Control]] and subsequent truce with [[El]]'s army, Thundercloud and the other four chasmfiends participated in the listeners deception at the [[Second Battle of Narak]], launching a mock assault, alongside Venli’s forces, against the humans.{{book ref|sa5|118}} At Venli’s urging, he agreed not to kill or devour most of the humans, despite his natural predatory instincts.{{book ref|sa5|118}} Instead, he focused on destroying fortifications--stomping through rooftops and sweeping aside walls with his tail--until the humans retreated.{{book ref|sa5|118}}
+
+## Relationships
+### Venli
+Thundercloud shows direct responsiveness to Venli’s commands, trusting her judgment over his instincts regarding the consumption of humans.{{book ref|sa5|118}} He carries her over obstacles in the chasms of the Shattered Plains,{{book ref|sa5|78}} and allows her to ride him into battle during the Second Battle of Narak.{{book ref|sa5|118}}
+<!---
+### Listener Dissenters
+Thundercloud leads the other chasmfiends in establishing a truce with the listener's who fled the shattered plains on the night of the arrival of the Everstorm.{{book ref|sa5|70}}
+--->
+
+## Notes
+<references />
+{{complete}}
+{{stormlight}}

@@ -1,0 +1,17 @@
+{{geography
+|type=Valley
+|region=Shinovar
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+The **Valley of Truth** is located in [[Shinovar]] on [[Roshar]].{{book ref|twok|i|6}}
+
+The Valley of Truth lies near a coastline. It has muggy weather and thick Shin grass, and shepherds watch their flocks near white cliffsides.{{book ref|sa4|i|7}} The area also has plains with wild horses, as well as simple earthen buildings.{{book ref|sa1|i|6}}
+
+The Valley was the home of [[Szeth]] and his family. Around the year {{Rosharan date|1165}} when Szeth was twenty-eight years old, he made claims that the [[Voidbringers]] would return.{{book ref|sa1|i|3}} His people refused to believe him; he was deemed [[Truthless]] and banished not only from the Valley, but all of Shinovar.{{book ref|sa1|i|6}}{{book ref|sa2|i|14}} He would eventually be vindicated during the [[True Desolation]].{{book ref|sa2|88}} 
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 19:48, 10 November 2017 (MST)}}
+{{Stormlight}}

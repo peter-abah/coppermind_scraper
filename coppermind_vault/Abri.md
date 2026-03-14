@@ -1,0 +1,13 @@
+{{geography
+|type={{cat tag|Islands|Island}}
+|region=Reshi Isles
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Abri** is one of the largest [[Reshi Isles]] in northern [[Roshar]]. It lies within the archipelago that separates the [[Reshi Sea]] from the [[Northern Depths]]. It is east of [[Quili]] and west of [[Kadrix]].{{map ref|Roshar}}
+
+## Notes
+<references/>
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:55, 3 September 2016 (MST)}}
+{{stormlight}}

@@ -1,0 +1,16 @@
+---
+occupation: "{{cat tag|Scholars|Scholar"
+---
+
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Dialectur** is a scholar and author on [[Roshar]].{{book ref|sa2|67}}
+
+They penned a very well-known treatise on tactics called *War*.{{book ref|sa2|67}}
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 23:52, 21 May 2016 (MDT)}}
+{{Stormlight}}

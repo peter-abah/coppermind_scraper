@@ -1,0 +1,22 @@
+---
+profession: "Thief"
+groups: "{{cat tag|Huqin's crew"
+---
+
+|nation=Azir
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+**Maxin** is a thief and member of [[:Category: Huqin's crew|Huqin's crew]] who attempts to rob the [[Bronze Palace]] in [[Azir]] on [[Roshar]].{{book ref|sa2|i|9}}
+
+==Appearance and Personality==
+Like the rest of [[Huqin]]'s crew (except [[Lift]]), he is Azish and has dark hair and skin.{{book ref|sa2|i|9}} He is optimistic that the crew will be able to pull of their planned heist.{{book ref|sa2|i|9}}
+
+==History==
+During the attempted heist of the [[Bronze Palace]] in {{Rosharan date|1173}}, Maxin and [[Tigzikk]] were assigned to infiltrate the gardens disguised as scribes so they could mingle with the bureaucrats gathered there during the choosing of the [[Prime Aqasix]].{{book ref|sa2|i|9}} They were acting as lookouts; if anything seemed amiss, they would use whistles to warn the rest of the crew that was robbing the palace.{{book ref|sa2|i|9}} It is not clear if Maxin and Tigzikk escaped the palace with Huqin after [[Nale]]'s intervention.
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 16:59, 8 April 2020 (UTC)}}
+{{Stormlight}}

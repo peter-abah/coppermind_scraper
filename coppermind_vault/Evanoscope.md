@@ -1,0 +1,2 @@
+#REDIRECT [[Evanotype]]
+[[category: aliases]]

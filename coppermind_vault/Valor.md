@@ -1,0 +1,33 @@
+{{shard info
+|vessel=[[Medelantorius]]{{book ref|sa5|115}}
+|slivers=*Unknown*
+|splinters=*Unknown*
+|status=Whole{{epigraph ref|sa4|25}}
+|residence=*Unknown*
+|books=[[The Stormlight Archive]]
+}}
+**Valor** is a [[Shard]] of [[Adonalsium]] that has not been [[Splinter#Formation|Splintered]] and whose original Vessel is the [[dragon (cosmere)|dragon]] god [[Medelantorius]].{{epigraph ref|sa4|25}}{{book ref|sa5|115}}
+
+== History==
+Like all Shards, Valor was created at the [[Shattering]] of [[Adonalsium]], and picked up by Medelantorius.{{msh ref|3|2}}{{book ref|sa5|115}} It is not known what Valor did directly after her Ascension, or where she settled, if she settled at all.
+
+[[Tanavast]] searched for her during the conflict with [[Odium]] 3,000 years after the Shattering, but could not find her. He did not believe that she had been killed, however, as he was confident he would have felt her death.{{book ref|sa5|115}}
+
+Valor has had dealings with [[Endowment]],{{epigraph ref|sa5|62}} and at some point reached out to receive her aid in an unknown matter. Endowment had acquiesced without going to Valor's location in person, thus maintaining the Shards' agreement to isolation.{{epigraph ref|sa5|64}}
+
+Some time around the [[True Desolation]], on the advice of [[Hoid]], Harmony reached out to Valor about the threat posed by [[Odium]]; their conversation left him with the impression that she is reasonable. He later encouraged Hoid to try approaching her again, as she felt it had been too long since their last conversation.{{epigraph ref|sa4|22}}{{epigraph ref|sa4|25}} Despite this, Hoid was apparently unable to locate Valor himself, and when he asked Endowment for information on her location, Endowment refused to help, claiming that Valor had no interest in speaking to Hoid again.{{epigraph ref|sa5|63}}{{epigraph ref|sa5|65}} In Endowment's view, both she and Valor are the only Shards who still maintain a degree of isolation.{{epigraph ref|sa5|65}}
+
+After his [[Ascension]] to Odium, [[Taravangian]] was also unable to locate Valor, finding that she and [[Reason|one other Shard]] had somehow completely vanished from interaction with the other Shards.{{book ref|sa5|i|4}}
+
+Following his work assisting [[Waxillium Ladrian]], Hoid intended to find Valor in order to assist the people of Roshar to resist [[Retribution]].{{book ref|sa5|epilogue}}
+
+## Trivia
+* The unpublished novella *[[Adamant]]* includes in-world curses of 'Valor'.{{wob ref|12305}}
+
+## Notes
+<references />
+{{partial}}
+{{demoted|sa5}}
+{{cosmere}}
+[[es:Valentía]]
+[[uk:Доблесть]]

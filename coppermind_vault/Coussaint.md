@@ -1,0 +1,19 @@
+---
+residence: "Elendel"
+world: "Scadrial"
+universe: "Cosmere"
+introduced: "The Lost Metal"
+---
+
+**Miss Coussaint** is [[Allriandre]]'s landlady in [[Elendel]] on [[Scadrial]].{{book ref|mb7|epilogue|3}}
+
+She sometimes watches over [[Ruri]], Allriandre's daughter, when Allriandre is out. However, she shouts at Ruri when she draws on the walls using toothpaste, causing the little girl to cry.{{book ref|mb7|epilogue|3}}
+
+She takes her rent on the first of the month, and plans to do renovations.{{book ref|mb7|epilogue|3}}
+
+She has a lot of chins, with one way bigger than the rest.{{book ref|mb7|epilogue|3}}
+
+## Notes
+<references />
+{{complete}}
+{{Mistborn|Era 2}}

@@ -1,0 +1,20 @@
+---
+descendants: "Elashe"
+titles: "King of Elantris_(city)|Elantris"
+aliases: "Rhashm"
+ethnicity: "Aonic"
+world: "Sel"
+universe: "Cosmere"
+books: "Elantris (book)|Elantris"
+---
+
+King **Raoshem** was the first king of [[Elantris (city)|Elantris]].{{wob ref|7592}}
+
+When the [[Aonic]] peoples migrated to [[Arelon]] they found Elantris empty and abandoned. Initially it was viewed with superstition, people believed it was haunted. King **Rhashm**, who renamed himself Raoshem, strove to overcome the fears of his people and settled Elantris as the center of his kingdom. Several decades later people started being taken by the [[Shaod]], becoming [[Elantrian]]s.{{wob ref|7592}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:39, 11 September 2018 (MST)}}
+{{Elantris}}
+
+[[es:Raoshem]]

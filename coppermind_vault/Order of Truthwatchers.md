@@ -1,0 +1,113 @@
+{{Radiant|order=Truthwatcher
+|herald=Pralla
+|spren=Mistspren
+|surge-=Progression|surge+=Illumination
+|plate spren=[[Concentrationspren]]{{wob ref|16808}}
+|order-=Edgedancer|order+=Order of Lightweavers
+}}
+{{update|sa3|sa4|sa5}}
+The **Order of Truthwatchers** is an order of the [[Knights Radiant]] on [[Roshar]].{{epigraph ref|sa2|52}}
+
+The Truthwatchers are [[Surgebinder]]s who used the [[Surge]]s of Progression and Illumination, and they are associated with the emerald [[polestone]]. They form a [[Nahel bond]] with [[mistspren]].
+
+## Philosophy
+{{sidequote
+|I will seek truth.
+|The core philosophy of the Truthwatchers{{rpg ref|slhb|181}}
+|side=right|size=250px
+}}
+
+Those who join the Truthwatchers generally subscribe to a philosophy of finding the ultimate truth and sharing it.{{wob ref|13776}}{{rpg ref|slhb|181}} The order is concerned with the fundamental truths of the universe, and whether or not those in power are being truthful with the people they lead.{{wob ref|8500}}{{wob ref|16457}} A small percentage of Truthwatchers are greatly concerned with the actions of the powerful and might be likened to investigative reporters.{{wob ref|13776}} The order will make their opinions known loudly and forcefully, particularly if they think someone in power is abusing that power or lying about fundamental truths.{{rpg ref|slhb|181}} Truthwatchers are open to changing their beliefs if new information is presented.{{rpg ref|slhb|181}} They enjoy differences in opinion and engaging in debates. They tend to attract scientists, scholars, or thinkers of all types.{{rpg ref|slhb|182}}
+
+Divine attributes of the Truthwatchers are Learned and Giving.
+
+## Ideals of the Truthwatchers
+The Ideals of the Knights Radiant, also known as the [[Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.{{book ref|sa1|59}} 
+
+The Ideals of the Order of Truthwatchers all focus on seeking and sharing truth, as well as making sure it is not improperly exploited. However, unlike the [[Order of Lightweavers|Lightweavers]], who pursue personal truths, the Truthwatchers are concerned more with uncovering the greater secrets of the universe.{{wob ref|13776}}{{rpg ref|slhb|181}} An Enlightened Truthwatcher will have different oaths from a standard one.{{wob ref|11872}}
+
+### The First Ideal
+{{quote
+|Life before death, strength before weakness, journey before destination.
+|The First Ideal of the Knights Radiant{{book ref|wok|59}}
+}}
+
+The Truthwatchers share the first ideal with all other orders of Radiants, which serves as the motto of the organization as a whole.{{book ref|sa1|59}} The words are broadly interpreted to state the value of life, the importance of strength and service and the importance of the methods by which one accomplishes a task.
+
+### The Second Ideal
+{{quote
+|I will seek truth wherever it is hidden.
+|The Second Ideal of the Truthwatcher order{{rpg ref|slhb|181}}
+}}
+
+This oath is centered around searching for new knowledge.{{rpg ref|slhb|181}} Truthwatchers may choose which truths to seek, and success or failure is not important to the search, only that they seek to learn.
+
+### The Third Ideal
+{{quote
+|I will reveal truth to all who seek it.
+|The Third Ideal of the Truthwatcher order{{rpg ref|slhb|181}}
+}}
+
+This oath focuses on knowledge being available for everyone.{{rpg ref|slhb|181}} Truthwatchers believe that hoarding secrets harms the greater world, and this Ideal pushes Truthwatchers to share truth with anyone it would benefit. This oath does not require a Truthwatcher to share everything they have learned with everyone, but instead focuses on truths that were deliberately hidden from those who would benefit from it. It must be reached before a Truthwatcher can manifest their mistspren as a [[Shardblade]].{{rpg ref|slhb|184}}{{rpg ref|slsw|126}}
+
+### The Fourth Ideal
+The specific words of this Ideal are individualized, but the overarching theme is acknowledging the consequences of sharing hidden secrets and forbidden truths, and then sharing them despite the risks to themselves.{{rpg ref|slhb|141}} Upon achieving this Ideal, a Truthwatcher gains their [[Shardplate]], which is formed of [[concentrationspren]].{{rpg ref|slhb|184}}{{rpg ref|slhb|186}}
+
+## Abilities
+{{image|WOKLB - KS - Truthwatchers by Steve Argyle.jpg|width=250px|side=right}}
+The Truthwatchers use the Surges of **Progression** and **Illumination**.
+
+### Progression
+[[Surgebinding#Progression|**Progression**]] can be manipulated to alter the growth and healing of organisms.{{book ref|sa2|part=ars}} It is described as "The Surge of Growth and Healing, or Regrowth". This ability heals the damage done to the body and the soul of a person instantly and without any scarring. There is a degree of skill involved for more advance healings.{{book ref|sa5|50}}
+
+### Illumination
+<!-- Do NOT place abilities that have only been shown by Enlightened Truthwatchers here -->
+[[Surgebinding#Illumination|**Illumination**]] is used to craft illusions by weaving light, sound and various waveforms.{{book ref|sa2|part=ars}} This can be used to change their appearance for disguises or other purposes, create illusions of walls and rocks to hide behind and in, and to create illusions to confuse or distract.{{book ref|sa4|6}} The Truthwatcher [[Honorbearer]] also summons a globe of light in her hands, which makes the shadows come alive and amplifies the voices from the [[Spiritual Realm]]{{book ref|sa3|90}}{{wob ref|2671}} of people that [[Szeth]] killed that he hears,{{book ref|sa5|141}} though it is unclear whether this ability relates to Illumination alone.
+
+### Enlightened
+Truthwatchers who have had their mistspren Enlightened by [[Sja-anat]] have different abilities from standard Truthwatchers. Progression remains normal, still allowing the healing of themselves and others.{{book ref|sa4|50}}{{book ref|sa3|15}} Where standard Truthwatchers can use Illumination to create illusions, Enlightened ones can only summon lights, which can sometimes act in strange and unnatural ways.{{book ref|sa4|6}} During the [[Battle of Thaylen Field]], Renarin makes the spirit of a wounded [[thunderclast]] flee her body by drawing a large amount of Stormlight,{{book ref|sa3|120}} though how he did so and whether an ordinary Truthwatcher would also have this ability remains unclear. Enlightened Truthwatchers are able to influence some control over the Spiritual Realm while inside of it.{{book ref|sa5|84}} They are also capable of hearing Odium's [[Rhythm]]s.{{book ref|sa5|30}}
+
+;Future Sight
+This bond also allows the Radiant to see the visions of past and future events.{{book ref|sa2|85}}{{book ref|sa3|117}} Renarin stated that this is because Truthwatchers are unique because "they see".{{book ref|sa2|89}} Visions are sometimes shown through dark glass and show possible outcomes, but are not always accurate.{{book ref|sa4|54}}{{book ref|sa3|118}} Those without a strong Connection to the realms are not able to see this glass normally, however, it has been shown that Enlightened Truthwatchers can bring other Enlightened Truthwatchers into visions.{{book ref|sa5|30}} They do not come specifically from Odium, but since their powers come from him it is possible that his desires influence what the visions will show.{{book ref|sa4|54}} Ba-Ado-Mishram has also been shown to be able to affect visions in small ways, although this might be because she was trapped in the Spiritual Realm.{{book ref|sa5|84}} Vision are more likely to happen when the rhythms of Roshar swell.{{book ref|sa5|30}} Seeing visions also have the added benefit of causing others who see the future to see the Truthwatcher and those close to them as a black spot, as those who see the future cause a conflict in [[Fortune]].{{book ref|sa4|i|6}}{{wob ref|11873}}{{wob ref|11882}} The ability to see the future is related to the [[:File:TWoK Rear Endsheet.jpg|Voidbinding chart]],{{wob ref|8461}} though the precise relationship between the powers and Voidbinding remains unclear.{{wob ref|9541}}
+
+;Sphere Light
+Instead of Lightweaving, Enlightened Truthwatchers are able to create a sphere of light the can show people's futures and souls.{{book ref|sa5|62}}{{book ref|sa5|121}} This could show a person an alternate version of themselves, similar to the effect of [[Allomancy|Allomantic]] [[gold]] or [[malatium]].{{book ref|sa5|62}} This manifests as an illusory sphere of light showing the target's alternate self.{{book ref|sa4|8}} This ball of light has also been shown to have other effects, perhaps influencing the soul, such as when Renarin makes the spirit of a wounded [[thunderclast]] flee her body with one of these lights.{{book ref|sa3|120}} The light responds better when given a [[Command]].{{book ref|sa5|62}}
+
+;Nahel Bond Abilities
+Enlightened Truthwatchers and mistspren can feel each others emotions with a strong enough bond.{{book ref|sa5|30}}{{book ref|sa5|63}}
+
+### Shardplate Abilities
+Truthwatchers' [[Shardplate]] is formed of [[concentrationspren]].{{wob ref|16808}}{{rpg ref|slhb|186}}
+
+## History
+### The Ancient Radiants
+The ancient Truthwatchers were often scientists, scholars and thinkers; this led to them being perceived as quiet and rather esoteric in their pursuits.{{rpg ref|slhb|182}} They tended to be reserved, though a group of them was always dedicated to monitoring the actions of the people in power on Roshar, and making their opinions on said actions heard far and wide if necessary. They particularly concerned themselves with abuse of power, as well as finding out the truth, though what constituted "truth" was a subject of some debate.{{wob ref|13776}}
+
+Truthwatchers would often engage in enthusiastic discussions on the topic of philosophy, particularly concerning the truth, even if many such conversations would take place only in writing. They were also interested in the more obscure crafts and sciences, such as new [[fabrial]]s or technologies.{{wob ref|13776}}
+
+### True Desolation
+Modern Truthwatchers are few and far between, scattered around the world rather than united.{{rpg ref|slhb|182}}
+
+## Notable Truthwatchers
+{{columns|count=2|
+* [[Renarin Kholin]] (bonded to [[Glys]])
+* [[Ym]] (bonded to [[Uma]]){{wob ref|2507}}{{book ref|sa2|i|2}}{{book ref|sa5|i|11}}
+* [[Dyel's mother]] (bonded to [[Uma]]){{book ref|sa5|i|11}}
+* [[Rahel]] (bonded to an unknown mistspren)
+* [[Stump]], or Arshqqam (bonded to [[Dreaming-though-Awake]]){{book ref|sa4|24}}
+* [[Rlain]] (bonded to [[Tumi]]){{book ref|sa4|114}}
+* [[Ylt]] (bonded to [[Tyche]]){{rpg ref|slsw|11}}
+* [[Kaiana]] (bonded to [[Horizons-Ever-Drifting]]){{rpg ref|slsw|11}}
+}}
+
+## Quotes
+{{quote|Now, as the Truthwatchers were esoteric in nature, their order being formed entirely of those who never spoke or wrote of what they did, in this lies frustration for those who would see their exceeding secrecy from the outside; they were not naturally inclined to explanation; and in the case of Corberon's disagreements, their silence was not a sign of exceeding abundance of disdain, but rather an exceeding abundance of tact.|[[Words of Radiance (in-world)|Words of Radiance, chapter 11, page 6]]{{book ref|sa2|52}}}}
+
+## Trivia
+* Getting a 100% Truthwatcher score on the [https://www.brandonsanderson.com/official-knights-radiant-order-quiz/ Knights Radiant Quiz] requires a set of answers detailed [https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fhow-the-knights-radiant-quiz-works-v0-rma9jtkispnc1.png%3Fwidth%3D1916%26format%3Dpng%26auto%3Dwebp%26s%3Dcd77c31ea23c7f2ae066e4d3e5541d5ba958d6b8 here].
+
+## Notes
+<references />
+{{partial}}
+{{Stormlight}}
+[[es:Orden de los Vigilantes de la Verdad]]

@@ -1,0 +1,30 @@
+{{culture
+|image=Damosi.png
+|type={{cat tag|clothing|Garment}}
+|related={{tag|Terris}}
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn (series)]]
+}}
+The **tinningdar**{{book ref|mb5|5}} is the name for traditional [[Terris]] robes worn on [[Scadrial]].{{book ref|mb1|8}}
+## Description
+The tinningdar's most distinctive feature is a colorful overlapping V pattern down the front.{{book ref|mb1|8}}{{book ref|mb1|18}} The pattern is embroidered.{{book ref|mb1|8}} They are commonly worn with a belt and often have wide sleeves,{{book ref|mb1|12}} which can help accommodate [[metalmind]] bracers.{{book ref|mb6|prologue}} Stewards may own multiple sets of tinningdar, including more ornate versions that they wear to formal events.{{book ref|mb1|12}}
+
+## History
+{{image|Sazed_(by_Treefin).jpeg|[[Sazed]] in a tinningdar|width=200px|side=left}}
+### Final Empire
+In the [[Final Empire]], Terris stewards traditionally wear a tinningdar in the three colors of the noble house that the steward serves.{{book ref|mb1|8}} They are sometimes referred to as "steward's robes";{{book ref|mb3|18}} [[Jastes]] identifies [[Sazed]] as a steward by his robes.{{book ref|mb2|19}} Other items of Terris clothing, such as the robes worn by [[Tindwyl]], are colorful and identifiably Terris, but are not mentioned as having the distinctive V pattern of the tinningdar.{{book ref|mb2|19}}
+
+Sazed regularly wears the tinningdar, even when performing menial tasks, such as digging a grave{{book ref|mb2|4}} or stirring soup.{{book ref|mb1|33}} He sees the robes as part of Terris history despite the fact that they also represent the lifestyle forced upon the Terris by the [[Lord Ruler]]; he wonders if future Terrismen will continue to wear the tinningdar.{{book ref|mb2|7}}
+
+Sazed and other former stewards continue to wear the tinningdar after the fall of the [[Final Empire]],{{book ref|mb3|10}} although the colors no longer represent nobility.{{book ref|mb3|18}} 
+
+### Post-Catacendre
+The tinningdar is still worn by the Terris 300 years after the [[Catacendre]].{{book ref|mb5|5}} Teenage Terris students, including a young [[Waxillium Ladrian]], wear them in [[the Village]].{{book ref|mb5|5}}{{book ref|mb6|prologue}} Wax does not find the robes comfortable.{{book ref|mb6|prologue}}
+
+Wax "dies" and meets [[Harmony]]—presumably in the [[Cognitive Realm]]—and perceives his clothing as the tinningdar, with layers of time instead of color.{{book ref|mb6|28}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 18:53, 26 January 2019 (MST)}}
+{{Mistborn}}

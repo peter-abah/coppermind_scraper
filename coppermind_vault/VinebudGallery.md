@@ -1,0 +1,12 @@
+## Official Artwork
+<gallery mode="packed" heights=400px caption="Official artwork">
+rockbuds.jpg| <small><center>by {{a|Ben McSweeney}}</center></small>A page from [[Shallan's sketchbook]].
+TheWayOfKings.png| <small><center>by {{a|Michael Whelan}}</center></small>Vinebuds in their retracted form (bottom right) on *[[The Way of Kings]]* cover
+</gallery>
+
+## Fanworks
+<gallery mode="packed" heights=400px caption="Fanworks">
+VisForVinebud.png| <small><center>by [[User:KalynaAnne]]</center></small>
+</gallery>
+
+[[Category:Gallery Subpages]]

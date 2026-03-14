@@ -1,0 +1,41 @@
+---
+image: "Confidence.jpg"
+titles: "Confidence{{book ref|tsm|19"
+---
+
+|ethnicity=Threnodite
+|groups=[[Greater Good]]
+|residence=Beacon
+|world=Canticle
+|universe=[[Cosmere]]
+|introduced=[[The Sunlit Man]]
+}}
+{{update|tsm}}
+{{objective|claim=BenjiBritt|date=2025-02}}
+**Confidence** is one of the [[Greater Good]] among the [[Beacon]]ites on [[Canticle]].{{book ref|tsm|8}} Her duty is to express what she knows to be true with utmost energy of heart.{{book ref|tsm|19}}
+<!--
+## Quotes and Images
+Both images and brief quotes from the text are particularly useful for character articles, since they can give the reader a better sense of the character's personality. The infobox should include an image (if one is available), and additional images and quotes can be included in the relevant sections of the article. If multiple image types are available, choose a head or bust portrait for the infobox and reserve a full body portrait for the Appearance and Personality section. See [[Help:Images]] and [[Help:Templates#Other Templates]] for more information.
+-->
+## Appearance and Personality <!--This section should contain a detailed physical description of the character. It should also describe their temperament, citing examples.-->
+Confidence is an older [[Threnodite]] woman and the tallest of the three members of the Greater Good.{{book ref|tsm|7}}{{book ref|tsm|8}} She has medium-dark skin and blue eyes.{{book ref|tsm|8}} She typically wears a hat, small eyeglasses, gloves, and a common long black dress.{{book ref|tsm|8}}
+<!--
+## Attributes and Abilities
+This section should list the character's skills, knowledge, and abilities, particularly any magical/superhuman abilities. Note that it is not necessary to go into extreme depth about a magical ability if it is covered in a separate article; using a {{t|for}} template may be helpful.
+
+## History
+This section, usually the longest part of the article, should describe the entire known life of the character.
+
+## Relationships
+Descriptions of the article subject's relationships with key characters or groups, particularly those that have a notable effect on the subject's personality or story arc.
+
+## Trivia
+Out of universe facts, such as information about how Brandon created the character.
+
+## See Also
+Links to other articles that relate to the character.
+-->
+## Notes<!--The notes section should first list <code><nowiki><references /></nowiki></code>, then the article status template (one of {{t|stub}}, {{t|partial}}, or {{t|complete}}). After the article status should be the series navbar (or navbars, in case more than one is appropriate). Sometimes, extra categories are applied after the navbar, though generally we prefer the categories to be generated from tags listed in the infobox. Categories are also placed here when how the article sorts in that category needs to be changed. For example, [[Allomancy#Notes]] lists <code><nowiki>[[Category:Allomancy| ]]</nowiki></code> so that the Allomancy page sorts at the top of [[:Category:Allomancy]]-->
+<references />
+{{stub}}
+{{Sunlit Man}}

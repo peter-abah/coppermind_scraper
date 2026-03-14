@@ -1,0 +1,14 @@
+---
+#profession: "Soldier"
+nation: "Alethkar"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "Wind and Truth"
+---
+
+**Talig** is an [[Alethi]] soldier and a former guard for [[Jasnah Kholin]] on [[Roshar]].{{book ref|sa5|39}} Talig and [[Beamlin Dorset]] are a matched pair; they are always near each other on the battlefield. Talig is handy with a bow, and, having been one of Jasnah’s guards, he is comfortable taking orders from a woman. This made Adolin suggest that during the [[Battle of Azimir]], [[Colot]] make Talig [[May Aladar|May]]’s head sergeant, with Beam as her second in command. Adolin told Colot to put them on the interior balcony with the [[Azish]] archers.{{book ref|sa5|39}} It is unclear if he survived the battle.
+
+## Notes
+<references />
+{{complete}}
+{{stormlight}}

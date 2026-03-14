@@ -1,0 +1,16 @@
+{{settlement
+|map=Darkhill locator.png
+|princedom=Hatham
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Darkhill** is a settlement in [[Alethkar]] in the [[Hatham princedom]] during the [[Era of Solitude]].{{map ref|Alethkar}} 
+
+It is located near a river that drains into [[Mevan Bay]] and north of border with [[Bethab princedom]].{{map ref|Alethkar}} 
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 02:53, 21 December 2016 (MST)}}
+{{stormlight}}

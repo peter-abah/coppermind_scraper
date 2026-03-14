@@ -1,0 +1,14 @@
+{{settlement
+|map=Savalashi locator.png
+|princedom=Thanadal
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Savalashi** is a city in [[Alethkar]] in [[Thanadal princedom]].{{map ref|Alethkar}} It is south of the [[Sunmaker Mountains]].
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 18:04, 24 December 2016 (MST)}}
+{{Stormlight}}

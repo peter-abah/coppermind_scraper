@@ -1,0 +1,15 @@
+{{lifeform
+|type={{cat tag|Food|Vegetable}}
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Tenem** is a soft, light-orange vegetable native to [[Roshar]].{{book ref|sa1|22}}
+
+[[Lighteyes]] sometimes eat tenem fried and served in round slices with peppered [[chicken]].{{book ref|sa1|22}}
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 01:47, 22 May 2016 (MDT)}}
+{{Stormlight}}
+[[Category: Rosharan food]]

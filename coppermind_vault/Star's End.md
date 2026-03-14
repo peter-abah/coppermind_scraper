@@ -1,0 +1,20 @@
+{{book
+|released=Not applicable
+}}
+***Star's End*** is a short science-fiction novel dealing with alien relations. It was completed in 1998, and it is the second novel that [[Brandon Sanderson]] wrote.{{wob ref|7825}} 
+
+==Plot==
+According to Brandon, it was about a team of scientists on a space station trying to absorb the energy from a supernova, inspired by his interest in the topic. There was also a murder mystery on the station.{{wob ref|16113}}
+
+## Repurposed Elements
+The character of [[Kazan Smedry|Kaz Smedry]] originated in *Star's End*. There is also a being that is conceptually similar to what we now know as [[spren]].{{wob ref|16113}} The [[Sleepless]] were also conceived for the novel.{{wob ref|14260}}{{wob ref|14555}}
+
+==Future==
+Brandon has revisited *Star's End* and calls it "not good" or even "terrible", and well below the quality of other early works.{{wob ref|14248}}{{wob ref|14555}} However, it represents one of the first times that he felt like his writing showed real potential.{{wob ref|16113}} 
+
+There are no plans to revise the book into something that could be published.{{wob ref|7818}} It could be released in a future [[Dragonsteel Entertainment|Dragonsteel]] Kickstarter as part of the [[Sanderson Curiosities]] series, but it would be towards the bottom of the list.{{wob ref|14248}}
+
+## Notes
+<references/>
+{{meta/done}}
+{{books}}

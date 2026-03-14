@@ -1,0 +1,13 @@
+{{group
+|type={{cat tag|DDF Flights|DDF flight}}
+|world=Detritus
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+
+**Vanir Flight** is a [[DDF]] flight composed of four [[Sporta]]s.{{book ref|sky4|6}}
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

@@ -1,0 +1,114 @@
+{{shard info
+|image=Cultivation by Ari Ibarra.jpeg
+|vessel=[[Koravellium Avast]]
+|splinters=[[Spren]]
+|status=Alive and whole{{wob ref|2785}}{{wob ref|1555}}
+|perpendicularity=[[Cultivation's Perpendicularity]]
+|magic=[[Surgebinding]],{{wob ref|1640}} [[Old Magic]]
+|residence=[[Roshar]], [[Ashyn]]
+|books=[[The Stormlight Archive]]
+}}
+{{objective|claim=Larkin|date=2024-12}}
+{{update|sa4|yumi|sa5}}
+{{quote
+|1={{small caps|I control all things that can be grown, nurtured.<br />
+That includes the thorns.}}
+|2=Cultivation to [[Dalinar]]{{book ref|sa3|114}}
+}}
+
+**Cultivation** is one of the sixteen [[Shard|Shards of Adonalsium]].{{book ref|sa1|75}} Her Vessel is a [[dragon (cosmere)|dragon]] named [[Koravellium Avast]],{{file ref|Alethi Glyphs Page 2.jpg}}{{wob ref|14441}} though [[Hoid]] has referred to her as **Slammer**.{{wob ref|9472}} Cultivation resides on [[Roshar]], having originally come there with [[Honor]] before [[Odium]]'s arrival.{{wob ref|1169}} Cultivation's [[Investiture]] is typically associated with the color green.{{wob ref|13074}}
+
+## Intent
+{{quote
+|Yes. It did like war, didn’t it? She hated suffering, but she was the Vessel. Her power loved anything that encouraged people to learn, better themselves, and achieve. That was often accelerated by conflict.
+|[[Taravangian]]{{book ref|sa5|i|12}}
+}}
+Cultivation's Intent as a Shard is about growth, pruning, and transformation.{{rpg ref|slwg|87}} According to Odium, all she wishes to see is change, regardless of where it leads.{{book ref|sa3|57}} Due to this, the power supports anything that induces growth and development, including war and conflict.{{book ref|sa5|i|12}}
+
+In her own view, on the other hand, she wishes to grow things and people, and prune them if need be, to shape them in a desired form, even if she accepts that there will always be a degree of uncertainty.{{book ref|sa3|114}}{{book ref|yumi|12}}
+
+## Associated Magics
+{{image|Cultivation by Gar_leyva.jpg|side=right|width=250px}}
+### Lifelight
+Cultivation has her own form of gaseous Investiture, [[Lights#Lifelight|Lifelight]], that is comparable to the Scadrian [[mist]]s,{{wob ref|12207}} [[Stormlight]], and [[Voidlight]].{{wob ref|10578}} When visiting the [[Nightwatcher]], Dalinar sees Cultivation surrounded by green mist,{{book ref|sa3|114}} which is likely Lifelight.{{wob ref|12207}} It can both be captured in gems and serve as a power source much like the other two Lights. In fact, [[Lift]]'s Investiture that she generates by transmuting consumed food is Lifelight and not Stormlight. The power that the [[Sibling]] uses, [[Towerlight]], is a mixture of Lifelight and Stormlight.{{book ref|sa4|69}}
+
+Lifelight takes up the middle note on the Rosharan [[wikipedia:Tritonic scale|tritonic scale]].{{book ref|sa4|69}}
+
+### God Metal
+[[Shardblade]]s and [[Shardplate]] are both made out of a mixture of the unnamed God Metals of Honor and Cultivation. The precise proportion of the two differs depending on the type of [[spren]] that forms the Blade, or the order to which the Plate belongs; as such, there are at least ten alloys.{{wob ref|11211}}{{wob ref|11949}}{{wob ref|2541}}
+
+### Surgebinding
+{{for|Surgebinding}}
+
+Surgebinding is a magic system derived from both Cultivation and [[Honor]].{{wob ref|1640}} To Surgebind, a person must bond a [[spren]], which grants them the ability to inhale [[Stormlight]] and use it for various purposes, chief among them self-healing and manipulating [[Surge]]s, the fundamental forces of Roshar.{{wob ref|7663}} Some Surges are more inclined towards Cultivation, while others are closer to Honor. Additionally, some of the Radiant spren appear to be closer to Cultivation than others.{{wob ref|10649}}
+
+The spren capable of forming the Radiant bonds are likewise a mix of Cultivation and Honor's [[Investiture]]s; as such, a [[Shardblade]] is a mix of her and his metals.{{wob ref|11949}} She is able to acknowledge the oaths of [[Knights Radiant]]s.{{book ref|sa4|60}}{{book ref|sa4|115}}
+
+### Old Magic
+{{for|Old Magic}}
+
+Old Magic is a magic "system" that appears to be usable only by Cultivation and the [[Nightwatcher]].{{book ref|sa3|114}} It allows for granting another person a boon and a curse based on their request. The boons and curses can range from physical objects, such as money or swords, to mental alterations, such as making a person see upside-down for the rest of their life, or erasing memories.{{book ref|sa3|114}}{{book ref|sa1|i|7}} It even permits [[Realmatic Theory|Realmatic]] changes, such as granting a new and unique way of acquiring Investiture.{{book ref|sa2|i|9}}
+
+Although the Nightwatcher has no known agenda in her boons and curses, Cultivation occasionally intervenes when she can further her plans.{{book ref|sa4|i|5}} These include granting [[Taravangian]] the capacity to Ascend to [[Odium]] and [[Dalinar]] the emotional fortitude to avoid becoming Odium's champion.{{book ref|sa3|114}}{{book ref|sa2|i|14}}{{wob ref|13097}}{{book ref|sa1|61}}
+
+There is more to Old Magic than just boons and curses; however, there is no person currently known to make use of that.{{wob ref|10819}}
+
+{{image|Koravellium Avast by paintweaver.jpg|side=right|width=250px}}
+
+### Other
+Cultivation is capable of seeing the future, with [[Honor]] mentioning that she is much better at it than he ever was.{{book ref|sa1|75}} While certainly one of the better users of future sight in the [[cosmere]], she herself admits that she cannot truly predict everything.{{book ref|sa3|114}}
+
+She is capable of creating [[spren]] of herself, the chief example of this being the [[Nightwatcher]].{{wob ref|9207}} This being said, the Nightwatcher is not very humanlike, and so Cultivation keeps her in the [[Valley]] to hold court, and grants her the use of the Old Magic.{{book ref|sa3|114}} [[Cultivationspren]] were created by Cultivation herself, and they refer to her as "Mother".{{book ref|sa2|i|9}}{{book ref|sa5|104}}
+
+Something about her presence on Roshar, whether intentional or otherwise, makes it easier for animal life there to attain a degree of sentience, with [[Ryshadium]], [[santhid]]yn, [[Tai-na]], and [[chasmfiend]]s being far more intelligent than their peers for this reason.{{rpg ref|slwg|13}}{{wob ref|2792}}
+
+[[Cultivation's Perpendicularity]] was located in the [[Horneater Peaks]], and forms either one or all of the [[Horneater Oceans]], the giant lakes at the top of the mountains. Until the [[True Desolation]], where it was overtaken by the [[Fused]], it was the main way for [[worldhopper]]s to travel to and from Roshar.{{book ref|sa3|93}}{{book ref|sa3|102}} After Cultivation left Roshar, the perpendicularity vanished.{{book ref|sa5|147}}
+
+Cultivation appears to have the ability to kill or at least seriously wound [[Odium]], as he refrained from killing the [[Stormfather]] out of fear of leaving himself exposed to her counterattack.{{book ref|sa3|111}}
+
+## History
+{{image|The Roshards by jurassicpencil.jpg|side=left|width=200px|Cultivation, [[Honor]] and [[Odium]]}}
+{{for|Koravellium Avast#History|the history of the original Vessel}}
+
+### Shattering and ancient Roshar
+{{quote
+|I think there's only one [woman of my age] around these parts, and she and I never did get along.
+|Hoid{{book ref|sa2|55}}
+}}
+The Shard of Cultivation was created during the Shattering, and was subsequently taken up by [[Koravellium Avast]]. She and [[Honor]], with whom she was romantically involved, departed the site of the Shattering, [[Yolen]], and ended up on Roshar.{{wob ref|2786}} There, they became the gods of a local sentient species known as the [[singer]]s. However, following [[Odium]]'s arrival in the [[Rosharan system]], the two Shards ended up siding with human newcomers instead.{{book ref|sa3|111}}
+
+At an unknown point in time, she created the [[Nightwatcher]], who became both infamous and deeply sought after for her ability to grant banes and boons with the [[Old Magic]].{{book ref|sa3|114}} She also created the [[Sibling]] alongside Honor, who became vital in the functioning of [[Urithiru]] and the fight against the [[Voidbringers]].{{epigraph ref|sa3|67}} 
+
+Although Cultivation assisted Honor in fighting Odium, Honor still perished.{{wob ref|2729}} Following his death, Cultivation withdrew in grief, and appeared to have lost all interest in aiding mankind any longer.{{book ref|sa2|i|9}} This was not entirely correct, however -- rather than hiding, she was planning.{{wob ref|8669}}
+
+Cultivation also briefly spent time on [[Ashyn]].{{wob ref|15171}}
+
+### Era of Solitude
+{{image|A_Petition_to_the_Nightwatcher.jpg|[[Dalinar]] Petition to the [[Nightwatcher]]|side=right|height=250px}}
+
+In the late [[Era of Solitude]], Cultivation used the [[Old Magic]] at least thrice. She granted [[Taravangian]] fluctuating amounts of emotion and intelligence, ultimately grooming him to take up the [[Shard]] of [[Odium]], which required emotion, and to master its [[Shard|Intent]], which required the intelligence.{{wob ref|13097}} She altered [[Lift]]'s Surgebinding so it was powered by Lifelight, rather than Stormlight, though Lift's boon and curse are not known.{{book ref|sa4|i|5}}{{book ref|sa4|60}} She also intervened when [[Dalinar Kholin]] came to see the Nightwatcher and begged for forgiveness. Instead of this, she erased all memories of [[Evi|his wife]], which served as both a boon and a curse.{{book ref|sa3|114}}
+
+Unlike with all other boons and curses, Dalinar's memories gradually returned after the arrival of the [[Everstorm]].{{book ref|sa3|24}} This was deliberately engineered by Cultivation to give him time to come to terms with his past before [[Odium]] would try to use it to turn Dalinar into his champion.{{book ref|sa3|121}}
+
+## Influence
+{{image|Cultivation by Heatherly.png|side=right|width=300px}}
+{{quote
+|Storming Mother of the World and Father of Storms above!
+|[[Lift]]{{book ref|sa2.5|15}}
+}}
+
+Cultivation has been honored on [[Roshar]] for a long time, at least since the era of the [[Knights Radiant]].{{book ref|sa3|29}} In the present day, however, her worship is limited to the western part of the continent, where she is considered an embodiment of nature and nature [[spren]].{{book ref|sa2|3}} There, she is sometimes referred to as **Mother of the World**.{{book ref|sa2.5|15}} Even in the east, people sometimes make references to Mother Cultivation, though typically as a joke.{{book ref|sa3|21}} In [[Vorinism]], belief in her and her cohorts, such as the [[Nightwatcher]], is considered pagan superstition and usually dismissed.{{book ref|sa3|114}}{{book ref|sa3|29}}
+
+Cultivation is also highly revered by [[cultivationspren]]. Though the precise relation between them and her is unclear, they often call her Mother or Blessed Mother, and only sometimes by her proper name.{{book ref|sa3|118}}{{book ref|sa2.5|4}}{{book ref|sa2.5|13}} "Mother's vines" appears to be a particular curse related to Cultivation.{{book ref|sa2.5|11}}
+
+## Trivia
+* Cultivation is one of the few characters who have spoken in <span style='font-variant: small-caps'>small-caps</span>.{{book ref|sa3|114}}
+* In *[[wikipedia:Magic: The Gathering|Magic: The Gathering]]* colors, Cultivation would be green.{{wob ref|11057}}
+* Cultivation has never really gotten along with Hoid.{{book ref|sa2|55}}
+
+## Notes
+<references/>
+{{partial}}
+{{Stormlight}}
+{{cosmere}}
+[[es:Cultivación]]

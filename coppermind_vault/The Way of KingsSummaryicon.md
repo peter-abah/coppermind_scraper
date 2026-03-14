@@ -1,0 +1,1 @@
+#REDIRECT [[Summary:The Way of Kings/icon]]

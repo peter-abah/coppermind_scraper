@@ -1,0 +1,48 @@
+---
+family: "House Smedry"
+children: "Attica Smedry|Attica, Kazan Smedry|Kaz, Pattywagon Smedry|Pattywagon"
+descendants: "Alcatraz Smedry|Alcatraz, Folsom Smedry|Folsom, Quentin Smedry|Quentin"
+abilities: "{{tag+|Smedry"
+---
+
+, {{tag+|Oculator}}
+|nation=Nalhalla
+|earth=Alcatraz
+|introduced=[[Alcatraz Versus the Evil Librarians]]
+}}
+{{update|a6}}
+**Leavenworth "Grandpa" Smedry** is an [[Oculator]] and the head of [[House Smedry]].{{book ref|a1|2}}
+
+## Appearance and Personality
+Leavenworth is an elderly man, mostly bald, with only some white, unkempt hair left on the back of his head. He wears a bushy white mustache.{{book ref|a1|2}}
+
+While in the [[Hushlands]], Leavenworth wears a black tuxedo, believing it will make him blend in. 
+
+Grandpa Smedry has a very energetic and optimistic personality. He is vigorous and fit, despite his old age.
+
+##  Attributes and Abilities
+He has the [[Smedry Talent|Talent]] for always arriving late, which he has great control over. It is a time talent very close to the center of the [[Smedry Talent#The Incarnate Wheel|Incarnate Wheel]], for it is very unspecific. He is known to use this Talent to avoid being shot and to survive torture by arriving late to the pain.{{book ref|a1|16}} He is even able to slow down groups of pursuers by switching sides and arriving late to his new target.{{book ref|a4|3}}
+
+Alcatraz figures out that he can use his grandfather's Talent to actually arrive early. He asks him to arrive with [[Crystallia|Crystin Knights]] to Mokia much sooner than it would be possible. As a result, Leavenworth was late in reference to the time Alcatraz had given him, but still arrived earlier than he normally would.{{book ref|a4|15}}{{book ref|a4|19}}
+
+Leavenworth Smedry is also a very skilled and powerful [[Oculator]]. He owns a rich collection of various lenses and has deep knowledge about them. He values knowledge-granting lens much more than combat ones. He is on the [[Oculator Council]].{{book ref|a1|13}}
+
+## History
+Before the events of the story, [[Swcbn|Kangchenjunga Sarektjåkkå]] at one point caught Leavenworth in a trap, which left him hanging off of the side of a frozen mountain cliff with his foot hanging to a slowly melting ice block and his body covered in bacon with a sign that said "Free Wolf Chow."{{book ref|a3|12}}
+
+Leavenworth came to [[Alcatraz]]'s house the day after [[Shasta Smedry]] stole the [[Sands of Rashid]]. He was late, thinking that he had arrived on Alcatraz's birthday. Leavenworth then used Tracker's Lenses to find Alcatraz's room, and prompted Alcatraz to realize that the Sands were gone. After saving Alcatraz from a Librarian assassin,{{book ref|a1|3}} he led Alcatraz, [[Sing Sing Smedry]], [[Quentin Smedry]], and [[Bastille|Bastille Dartmoor]] on an infiltration of the downtown library to recover the sands. Once the group split up, he and Quentin found the Sands, but they were surrounded by Ensnarer's Glass. Finding no other way to get to the Sands, they both fell in to the trap, as each panel of Ensnarer's Glass can only go off once. After he was captured, [[Radrian Blackburn]] took him and Quentin to be tortured. Leavenworth used his Talent to arrive late to the pain, negating the damage of Blackburn's Torturer's Lens. After Alcatraz, Bastille, and Sing saved the two, they went to recover the Sands. However, they found that Blackburn had already made the Sands into Translator's Lenses. Leavenworth then fought Blackburn in an Oculator's Duel and lost, but was saved by Alcatraz.{{book ref|a1|18}} After returning Alcatraz to his Hushlander foster home, he came back that night to pick him back up. 
+
+Leavenworth spent a few more months in the Hushlands, but separated from Alcatraz when he received a message from Shasta saying that [[Attica Smedry]] had gone to the [[Library of Alexandria]]. He arrived too late to stop Attica from giving his soul to the Curators of Alexandria or reclaim Attica's possessions before Shasta.
+ 
+He helped protect [[Brig Dartmoor|the High King]] from the Librarians when he returned to [[Nalhalla]] and sent knights to help the Mokians during the siege of [[Mokia]].
+
+During the infiltration of the [[Highbrary]], he played an instrumental role in keeping [[Himalaya]] and her team of Librarians alive by engaging all the Highbrary's fans at top speed, thereby disorganizing a large quantity of books and distracting their assailants. He arrived late to Attica's confrontation with Shasta and Alcatraz, at which point [[Biblioden]] revealed his true identity by shooting him in the head. However, his Talent returned just in time, and he began using it to arrive late to his own death.{{book ref|a5|part=Bastille's Letter}}
+
+## Trivia
+* Grandpa Smedry has a tendency to curse using the names of Brandon's favorite writers. For example, "Rumbling Rawns!" refers to [[wikipedia:Melanie Rawn|Melanie Rawn]].{{wob ref|13668}}
+* His name is a reference to [[wikipedia:Fort_Leavenworth|Fort Leavenworth]], which is the location of the Military Corrections Complex.{{wob ref|13678}}
+
+## Notes
+<references />
+{{partial}}
+{{Alcatraz}}

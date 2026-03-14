@@ -1,0 +1,16 @@
+---
+world: "Threnody"
+universe: "Cosmere"
+books: "Shadows for Silence"
+---
+
+**Harold** is a man who lived in the [[Forests of Hell]] on [[Threnody]].{{book ref|sfs}}
+
+## History
+Harold owned a hound that got rabies and went violently mad.{{book ref|sfs}} [[Silence Montane]] compared the dog to [[Chesterton Divide]] and his men, explaining to [[William Ann Montane]] that they were mad and needed to be put down.
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 20:08, 16 December 2016 (MST)}}
+{{Shadows for Silence}}
+[[es:Harold]]

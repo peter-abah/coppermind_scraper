@@ -1,0 +1,15 @@
+---
+abilities: "{{tag+|Epic"
+---
+
+|earth=Reckoners
+|books=[[The Reckoners]]
+}}
+**Powder**  is an [[Epic]] that tried to conquer [[wikipedia: Canada|Canada]]. He could cause unstable materials like gunpowder to explode just by looking at them.
+
+He attempted to conquer Canada during the second year of Epics, and attacked their military bases. When he attacked the base in [[wikipedia: CFB Trenton|Trenton]] where [[Abraham]] was stationed, he killed Abraham's entire squad, but Abraham survived due to being imprisoned awaiting a court-martial.{{book ref|calamity|35}}
+
+## Notes
+<references />
+{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 01:24, 16 July 2018 (MST)}}
+{{Reckoners}}

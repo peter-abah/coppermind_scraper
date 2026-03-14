@@ -1,0 +1,14 @@
+{{geography
+|region=Sea of Souls
+|world=Shadesmar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Reliqq's Channel** is a channel in the [[Sea of Souls]], part of the [[Shadesmar|Rosharan subastral]] of the [[Cognitive Realm]]. It is cuts through a peninsula south of [[Urithiru]] and [[Abiding Light]], connecting the [[Astral Banks]] with the [[Radiant Depths]].{{map ref|Sea of Souls}} In the [[Physical Realm]], this peninsula is a river that separates [[Tukar]] and [[Marat]].{{map ref|Roshar}}
+
+It is unknown who Reliqq is.
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 23:49, 18 November 2020 (UTC)}}
+{{Stormlight}}

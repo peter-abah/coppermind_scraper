@@ -1,0 +1,23 @@
+{{vehicle
+|image=Ben-bryant-poco2.jpg
+|type={{cat tag|Spacecraft}}, {{cat tag|DDF Ships}}
+|world=Detritus
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+The **Poco** is a basic [[starfighter]] used by the [[DDF]]. [[Spensa]]'s first ship was a Poco.
+
+Spensa states that "they looked like glorified pencils with wings."{{book ref|Skyward|9}} These are the ships recreated holographically in the [[Flight School]]'s flight simulators.{{book ref|Skyward|9}}
+
+== Capabilities==
+Pocos are equipped with [[Destructor]]s, [[IMP]]s, [[Light-lance]]s, shields, and a A-19 booster.{{book ref|Skyward|9}}{{book ref|Skyward|2}} Other features include gravitational capacitors ([[GravCap]]s) and an [[acclivity ring]].{{book ref|Skyward|9}}
+
+Pocos do not have a self-destruct function, but do have the capability to eject the pilot in case of crash.{{book ref|Skyward|9}}
+
+The Poco is stated to be a "basic but fast" model.{{book ref|Skyward|8}} Standard fighting speed is Mag-1, and the maximum speed for a Poco is Mag-10,{{book ref|Skyward|19}} with Mag being 300 miles per hour.{{wob ref |12469}}
+
+## Notes
+<references /><!-- 
+-->
+{{partial}}
+{{Skyward}}

@@ -1,0 +1,20 @@
+---
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+{{quote
+|You don't survive like the Mink has without learning to wiggle out of situations others could never escape.<br>
+Is no like he needs us a lot. The Ganlos Riera herself couldn’t catch him!
+|Two Herdazian soldiers discussing [[Dieno enne Calah]]'s evasiveness{{book ref|sa4|2}}
+}}
+The **Ganlos Riera** is a female individual on [[Roshar]].{{book ref|sa4|2}} It is not clear if "Ganlos Riera" is a title, a name, or some other descriptor.
+
+The Ganlos Riera is likely related to [[Herdaz]] in some way; the [[Dieno|Mink]]'s soldiers explain to [[Kaladin]] that the general is one of the few people that would be able to elude the Ganlos Riera.{{book ref|sa4|2}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:56, 14 June 2022 (UTC)}}
+{{stormlight}}
+[[Category:Titled characters]]

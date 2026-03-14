@@ -1,0 +1,12 @@
+{{settlement
+|nation=Marat
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Mikhan** is a town in northern [[Marat]] on [[Roshar]]. It is south of the city [[Lexili]] in [[Greater Hexi]].{{map ref|Eastern Makabak}} 
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 23:15, 19 November 2020 (UTC)}}
+{{Stormlight}}

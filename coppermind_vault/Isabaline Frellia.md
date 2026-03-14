@@ -1,0 +1,14 @@
+---
+world: "Scadrial"
+universe: "Cosmere"
+introduced: "Shadows of Self"
+---
+
+**Isabaline Frellia** is a criminal in [[Elendel]].{{book ref|mb5|4}}
+
+She is present at [[Winsting Innate's auction]] and dies along with the rest of the attendants. She is noted by [[Marasi]] as having a very large criminal file, and [[Claude Aradel]] mentions that there are another seven criminals of equivalent note at the crime scene.
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:20, 17 September 2018 (MST)}}
+{{Mistborn|era 2}}

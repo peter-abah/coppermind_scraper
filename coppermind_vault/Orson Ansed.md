@@ -1,0 +1,17 @@
+---
+occupation: "Police captain"
+world: "Evensong"
+universe: "Cytoverse"
+introduced: "Defending Elysium"
+---
+
+Captain **Orson Ansed** is a member of the [[Evensong]] Police Department.{{book ref|Elysium}}
+
+In 2211, a piece of carapace, presumed to be from the recently-missing [[Varvax]] ambassador, is found in a burning station on Evensong, and Ansed is assigned to investigate the case. When he first arrives at the scene, he receives a report from officer [[Ken Harris]]. He initially hopes to keep news of the incident from the media, but the worker who found the carapace had already released the information, and feels as though it might have been better if the burner hadn't been emptied for another couple of days so that the body could have been completely destroyed. When [[Jason Write]] arrives at the crime scene, Ansed assumes he had been sent by the [[Phone Company]] to investigate the death, though Jason actually came to retrieve a PC scientist, [[Denise Carlson]], who appears to have gone crazy, and he allows the police department to continue to investigate.{{book ref|Elysium}}
+
+He is not one to stand on formality, and waves away the salutes of officers working under him.{{book ref|Elysium}}
+
+## Notes
+<references />
+{{complete}}
+{{skyward|de}}

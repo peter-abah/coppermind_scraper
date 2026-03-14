@@ -1,0 +1,17 @@
+---
+era: "Classical Scadrial"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 1"
+---
+
+{{quote
+|Is my defense of the Summer Hill really the "Burden by which the Hero shall be dubbed"?
+|[[Alendi's logbook]]{{book ref|mb1|21}}
+}}
+The **Summer Hill** was a location on [[Scadrial]] before [[Rashek]] reshaped the world. Prior to traveling to the [[Well of Ascension]], [[Alendi]] defended the hill, which some saw as a fulfillment of a line of the [[Terris Prophecies]].{{book ref|mb1|21}}
+
+## Notes
+<references />
+{{complete|--[[User:Stargazer|Stargazer]] ([[User talk:Stargazer|talk]]) 16:46, 29 March 2020 (UTC)}}
+{{Mistborn|Era 1}}

@@ -1,0 +1,58 @@
+{{vehicle|title=
+|image= Ambush by Ernanda Souza.jpg
+|type={{cat tag|Aircraft}}
+|world=Canticle
+|universe=Cosmere
+}}
+
+{{quote|Impressive, can everything on this planet break apart into smaller, functional pieces? If we crash this thing, is it going to disintegrate into a hundred even smaller cycles?|[[Nomad]] on hovercycles{{book ref|tsm|13}}}}
+
+**Hovercycles** are a class of airship on [[Canticle]] primarily used for personal or small group transportation.{{book ref|tsm|6}} Hovercycles have both 4-seat and 6-seat variants{{book ref|tsm|1}}{{book ref|tsm|5}} (the former being called a **quadcycle**){{book ref|tsm|12}} with each seat able to detach from the central fuselage and operate independently.{{book ref|tsm|13}} Like all other ships on Canticle, hovercycles are able to attach themselves to other ships to create larger structures.{{book ref|tsm|2}}{{book ref|tsm|3}}{{book ref|tsm|7}}{{book ref|tsm|16}}{{book ref|tsm|17}}
+
+==Design and Use==
+Hovercycles are open-air vehicles, with only short windscreens at each seat to protect against the elements.{{book ref|tsm|1}}{{book ref|tsm|6}}{{book ref|tsm|7}} They are able to move faster than the sun across the planet{{book ref|tsm|1}}{{book ref|tsm|2}} and can maintain flight from as little as a few feet above the ground up to a height of approximately fifty or sixty feet.{{book ref|tsm|1}}{{book ref|tsm|2}}{{book ref|tsm|5}}{{book ref|tsm|16}}{{book ref|tsm|19}} Flying low to the ground is typical while flying near to the sunrise to stay out of the light.{{book ref|tsm|2}}{{book ref|tsm|17}} Hovercycles are highly maneuverable vehicles, though there are some other ship types on the planet that can outpace their speed.{{book ref|tsm|6}}{{book ref|tsm|14}}{{book ref|tsm|18}}{{book ref|tsm|28}}
+
+Cycles are turned on by pulling a lever and pushing a button, a sequence that is not immediately intuitive.{{book ref|tsm|5}}{{book ref|tsm|8}} Flight controls include an accelerator operated by the rider’s left foot {{book ref|tsm|14}} and a throttle which likely controls steering and may also play a role in acceleration.{{book ref|tsm|6}} Hovercycle controls are relatively simple to learn, likely a result of necessity in a society that is in nearly perpetual flight.{{book ref|tsm|13}}
+
+Hovercycles typically have no headlights making navigation through the dark and stormy areas of Canticle dangerous and presumably rare under normal circumstances.{{book ref|tsm|7}} However, floodlights can be fitted onto them for specialized purposes.{{book ref|tsm|27}}{{book ref|tsm|28}}
+
+===Multi-Seat Cycles===
+Unlike many of the other ships on Canticle which are bulbous in construction,{{book ref|tsm|12}}{{book ref|tsm|33}} hovercycles are long and thin machines with a central fuselage and either four or six saddle-style seats in rows of 2 each with their own controls, windscreens, and propulsion systems. {{book ref|tsm|1}}{{book ref|tsm|6}}The central core houses a hatch in which a [[Sunheart|sunheart]] provides the machine power.{{book ref|tsm|6}} While attached to the core, the seat in the left front position acts as the operator for the larger fuselage.{{book ref|tsm|5}}{{book ref|tsm|12}} While hovercycles are large enough to hide behind to block line of site, they cannot withstand bullets when fired upon{{book ref|tsm|5}}
+
+When attaching to a city, a cycle moves in sideways and locks into the city's edge.{{book ref|tsm|2}} The engines remain on and add their lift to that of the city.{{book ref|tsm|2}}{{book ref|tsm|3}}{{book ref|tsm|8}} After locking onto a larger structure, hovercycles can be altered to more seamlessly blend with the city for long term storage. Panels are placed above each seat and the windscreens are folded down. While folded in, the hovercycle looks like a thick rectangle of steel bolted to the side of the city, reminiscent of a closed multitool.{{book ref|tsm|8}}
+
+===Single-Seat Cycles===
+Each separable cycle is approximately five feet wide{{book ref|tsm|17}} and has a single leather saddle-style seat.{{book ref|tsm|8}} The crafts each have their own windscreen, controls, and engine as well as a strap or belt to secure the rider.{{book ref|tsm|1}}{{book ref|tsm|6}}{{book ref|tsm|7}} The seat can be lifted to reveal a storage space below for a tow cable.{{book ref|tsm|15}}{{book ref|tsm|30}} A single-seat cycle can operate normally carrying two people, though there is not much room to maneuver while doing so.{{book ref|tsm|17}}
+
+To detach one of the seats, the rider turns a nearly flush handle on the side of the seat which splits open a portion of the fuselage including the seat and some of the surrounding metal. After detaching from the central core, sections at the front and sides simultaneously fold out to form into an independant hovercycle.{{book ref|tsm|13}} Each separable seats contains a battery which draws power from the main body that can last for approximately one Canticlite hour before needing to reattach to charge.{{book ref|tsm|13}}{{book ref|tsm|27}}
+
+===Engine Design===
+Hovercycle engines are approximately the size of a large melon and are powered by a sunheart.{{book ref|tsm|6}}{{book ref|tsm|20}} While active the engines and the resulting ejecta glow the same red-orange color as the sunhearts themselves{{book ref|tsm|6}} and produce a noticeable roar while climbing, dropping, or accelerating.{{book ref|tsm|2}}{{book ref|tsm|5}}{{book ref|tsm|14}}{{book ref|tsm|16}}
+
+The engines draw in a large amount of air through intakes and use [[Investiture]] from the sunhearts to superheat the air in some kind of compressor, possibly generating plasma. The superheated air and possibly also some Investiture in the form of raw energy then pass through nozzles and out the jets on the bottoms of the cycles to provide upward thrust.{{book ref|tsm|19}}{{book ref|tsm|20}} The ejecta has a fiery look and produces enough heat to warm metal or fry plantlife while flying near the ground.{{book ref|tsm|1}}{{book ref|tsm|2}}{{book ref|tsm|5}} Because the atmosphere is unusually thin on Canticle due to the planet’s size, this use of heated air as the propellant limits the maximum height that ships can reach.{{book ref|tsm|19}}{{book ref|tsm|20}}
+
+===Instrumentation===
+Hovercycles are equipped with a number of instruments set into a console dashboard with lights that allow for their use even in poor visibility.{{book ref|tsm|7}} These include a navigation system that can guide the rider toward a broadcast signal,{{book ref|tsm|7}} a time-keeping instrument,{{book ref|tsm|28}} and a gauge that displays how much flight time remains in the battery of a single-seat cycle when detached from the main fuselage.{{book ref|tsm|14}} The cycles are also equipped with a radio or a similar [[Connection]]-based communication device. The radio has a green on black indicator screen housed on the cycle’s dashboard and blinks when receiving an incoming signal.{{book ref|tsm|7}}{{book ref|tsm|13}}{{book ref|tsm|14}}{{book ref|tsm|15}}
+
+==History==
+[[Nomad]] and [[Auxiliary]] arrived on Canticle and hitched themselves to the hovercycles of the [[Cinder King|Cinder King’s]] [[Charred]] to escape the sunlight. Nomad was dragged along behind the cycles as they made their way to [[Union]].{{book ref|tsm|1}}{{book ref|tsm|2}}
+
+At Union, the [[Beacon|Beaconite’s]] executed their rescue operation from a squadron of hovercycles, dropping bombs into Union’s arena. [[Rebeke]] and [[Divinity]] brought their quadcycle down to the floor of the arena to rescue [[Elegy]] and were fired upon by the Cinder King. Divinity was killed and Rebeke was forced to hide behind her hovercycle for protection. Nomad offered to use Auxiliary as a shield in exchange for passage off Union, a proposition Rebeke was forced to accept. Rebeke drove them toward Beacon carrying an incapacitated Elegy and an injured [[Thomos]] while Nomad shielded the back of the quadcycle.{{book ref|tsm|5}}{{book ref|tsm|6}}
+
+Nomad pretended to stumble and drop a rifle earlier stolen from the Charred, really storing it on the underside of Rebeke’s hovercycle using Auxiliary for later retrieval. The cycle arrived at [[Beacon]] and locked into the city. After meeting with the [[Greater Good]], Nomad retrieved the stored rifle, noting that the hovercycle had been converted to become part of Beacon’s deck.{{book ref|tsm|6}}{{book ref|tsm|7}}{{book ref|tsm|8}}
+
+Nomad and Rebeke took the quadcycle along with other Beaconites on their own hovercycles to scout the area where they believed the [[Refuge of Stone]] to be located. Nomad spotted a scout on a hovercycle sent by the Cinder King and gave chase. Rebeke killed the outrider with her rifle and his cycle crashed. Rebeke got out her tow line intending to salvage the crashed cycle but was interrupted by the arrival of the Cinder King’s own ship. After a short parley, Nomad and Rebeke escaped on Nomad’s cycle but were forced to leave Rebeke’s behind.{{book ref|tsm|12}}{{book ref|tsm|13}}{{book ref|tsm|14}}{{book ref|tsm|15}}{{book ref|tsm|16}}{{book ref|tsm|17}}
+
+Nomad used an engine extracted from a hovercycle to learn how Beacon’s engines work so that he could figure out a way to get the city over the mountains. He learned that the engines use the surrounding air as a propellant and that they would not work in a vacuum without some modification. With the help of [[Solemnity Divine]], Nomad created multiple prototypes for the modified engines using hovercycles resulting in at least one explosion. He took a final prototype cycle on a stress test of the design and determined that the modifications worked.{{book ref|tsm|19}}{{book ref|tsm|20}}{{book ref|tsm|23}}{{book ref|tsm|27}}{{book ref|tsm|28}}
+
+==Notable Examples==
+*[[Rebeke]]’s quadcycle
+
+==Trivia==
+*Nomad has flown similar vehicles in the past and can likely figure out the controls with only a little instruction.{{book ref|tsm|11}}{{book ref|tsm|13}}
+*After the death of their mother, Divinity installed his and Rebeke’s mother’s sunheart into Rebeke’s quadcycle so that she could have it near her.{{book ref|tsm|13}}
+
+## Notes
+<references />
+{{complete}}
+{{Sunlit Man}}

@@ -1,0 +1,19 @@
+---
+died: "Battle of Narak, {{Rosharan date|1173"
+---
+
+|abilities=[[Regal|Forms of Power]]
+|species=Singer
+|nation=Listener
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Rhythm of War]]
+}}
+**Faridai** is a [[singer]] on [[Roshar]].{{book ref|sa4|95}}
+
+He was one of the [[listener]]s who took [[stormform]] before the [[Battle of Narak]]. During the battle, he joined a line of his comrades that were singing a song to summon the [[Everstorm]]. [[Venli]] saw the [[Alethi]] forces approaching and tried to convince him to leave, but he was in a trancelike state and barely acknowledged her. Shortly after Venli left, the human forces led by [[Adolin]] indeed reached the line of listeners and easily slaughtered them.{{book ref|sa4|95}}{{book ref|sa2|83}} Faridai presumably died during this assault.
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 04:14, 12 April 2022 (UTC)}}
+{{stormlight}}

@@ -1,0 +1,13 @@
+{{event
+|participants=[[High Empire]], rebellious factions
+|effects=Imperial reconquest of the [[Reaches]], death of [[Varion Crestmar]]
+|books=[[Firstborn]]
+}}
+The **Reunification War** was a conflict in the [[High Empire]].{{book ref|firstborn}}
+
+It involved [[Varion Crestmar]]'s rise to power and his eventual fall at the hands of his brother [[Dennison Crestmar]].
+
+## Notes
+<references />
+{{stub}}
+{{Firstborn}}

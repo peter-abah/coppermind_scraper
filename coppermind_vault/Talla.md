@@ -1,0 +1,23 @@
+---
+abilities: "Nahel bond, Windrunner magic, {{tag+|Splinter"
+---
+
+of [[Honor]]
+|bonded=[[Drehy]]
+|species=Honorspren
+|residence=Urithiru
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Rhythm of War]]
+}}
+
+**Talla** is an [[honorspren]] on [[Roshar]] who is bonded to [[Drehy]].{{book ref|sa5|30}}
+
+## Attributes and Abilities
+As an [[Honorspren]], forming a [[Nahel bond]] with Talla made Drehy a [[Knight Radiant]] of the [[Order of Windrunners]]. Through their bond, Drehy is able to access the Surges of [[Gravitation]] and [[Adhesion]], and after Drehy reaches his Third Ideal, Talla is able to form a [[Shardblade]].{{book ref|sa4|5}}
+
+## Notes
+<references />
+{{stub}}
+{{stormlight}}
+[[category: Shardblades]]

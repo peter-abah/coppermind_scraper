@@ -1,0 +1,16 @@
+{{CoverToC|legion}}
+
+This is a gallery for all known covers for *[[Legion: The Many Lives of Stephen Leeds]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
+
+<gallery widths=3000px heights=400px mode="packed">
+Legion Omnibus US Hardcover.jpeg | <center>United States</center> (Tor, hardcover)
+LegionO MMPB Cover.jpg | <center>United States</center> (Tor, mass-market paperback)
+LegionO UK Cover.jpg | <center>United Kingdom</center> (Gollancz)
+LegionO Audiobook cover.jpg | <center>United Kingdom</center> (Orion)
+LegionO RU cover.jpg | <center>Russia</center> (Азбука / Azbooka)
+Legion2 TW cover.jpg | <center>Taiwan</center> (奇幻基地出版 / Fantasy Foundation)
+LegionO PL Cover.jpg | <center>Poland</center> (Wydawnictwo MAG)
+LegionO BG Cover.jpg | <center>Bulgaria</center> (Артлайн Студиос / Artline Studios)
+</gallery> 
+
+[[Category:Cover Galleries]]

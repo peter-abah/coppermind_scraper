@@ -1,0 +1,18 @@
+---
+died: "During Szeth's banishment{{book ref|sa5|90"
+---
+
+|abilities={{tag+|Shardbearer}}
+|religion=[[Stone Shamanism]]
+|ethnicity=Shin
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Wind and Truth]]
+}}
+{{update|sa5}}
+**Gearil-daughter-Gearil** is a [[Shin]] [[Honorbearer]] on [[Roshar]]. She holds the [[Order of Dustbringers|Dustbringer]] [[Honorblade]].{{book ref|sa5|83}}
+
+## Notes
+<references />
+{{stub}}
+{{stormlight}}

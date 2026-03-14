@@ -1,0 +1,11 @@
+---
+'world: "Earth (Skyward)|Earth's moon"
+universe: "Cytoverse"
+---
+
+The **Earth Disappearance Station** is a [[Superiority]] information nexus located on Luna, [[Old Earth]]'s moon.{{book ref|sky4|6}}
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

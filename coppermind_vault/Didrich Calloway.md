@@ -1,0 +1,15 @@
+---
+children: "Charles Calloway"
+profession: "Knight-senator of East Carolina"
+abilities: "{{tag+|Rithmatist"
+---
+
+|earth=Rithmatist
+|books=[[The Rithmatist]]
+}}
+**Didrich Calloway** was the [[knight-senator]] of East Carolina.{{book ref|Rithmatist|11}} When the [[Scribbler]] started to kidnap students from [[Armedius Academy]], he pulled his son out. His son, [[Charles Calloway]], was promptly kidnapped.
+
+## Notes
+<references />
+{{stub}}
+{{Rithmatist}}

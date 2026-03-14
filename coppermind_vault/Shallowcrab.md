@@ -1,0 +1,14 @@
+{{lifeform
+|type=Animal
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+**Shallowcrabs** are a type of creature native to [[Roshar]].{{book ref|sa1|i|6}}
+
+Shallowcrab fights are common sporting competitions in the gambling dens of [[Vorin]] nations,{{book ref|sa1|i|6}} where games that involve overtly guessing the future are considered to be sacrilegious and something of the [[Voidbringers]].{{book ref|sa1|18}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 08:57, 3 June 2017 (MST)}}
+{{Stormlight}}

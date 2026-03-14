@@ -1,0 +1,7 @@
+{{disambig}}
+
+The phrase "**Dark One**" refers to several related things:
+* [[Dark One (franchise)]], the entire multimedia storytelling enterprise set on [[Earth (Dark One)|Earth]] and [[Mirandus]]
+** A series of graphic novels part of that franchise
+*** [[Dark One Book 1|*Dark One* Book 1]], the first of those graphic novels
+* [[Dark One (title)]], the in-world leader of the forces of darkness

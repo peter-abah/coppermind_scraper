@@ -1,0 +1,12 @@
+---
+world: "Scadrial"
+universe: "Cosmere"
+introduced: "The Lost Metal"
+---
+
+**Wilhelmette** is a constable in [[Elendel]] on [[Scadrial]] in the same precinct as [[Marasi]], who thought that she and [[Gemdwyn]] were inspired by her to join up.{{book ref|mb7|10}}
+
+## Notes
+<references />
+{{complete}}
+{{Mistborn|Era 2}}

@@ -1,0 +1,21 @@
+---
+occupation: "{{cat tag|Scholars|Scholar"
+---
+
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+**Bennitson** is the author of *Armies in Motion*, a book about military tactics on [[Scadrial]] during the [[Final Empire]].{{book ref|mb3|70}}
+
+While touting his own knowledge of military tactics to [[Elend Venture]], [[Aradan Yomen]] used the phrase "distinct points". Elend immediately recognized this terminology from Bennitson's work, and ascertained that Yomen's knowledge of war was scholarly, rather than practical.{{book ref|mb3|70}}
+
+{{quote
+|One thing that we scholars tend to forget about, Yomen, is the impact emotion can have on a battle. It isn't just about food, shoes, and clean water, necessary as those are. It's about hope, courage, and the will to live. Soldiers need to know that their leader will be in the fight -- if not killing enemies, then directing things personally from behind the lines. They can't think of him as an abstract force up on a tower somewhere, watching out a window and pondering the depths of the universe.
+|[[Elend Venture]], after Yomen inadvertently references *Armies in Motion*{{book ref|mb3|70}}
+}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 16:15, 20 September 2019 (UTC)}}
+{{Mistborn|Era 1}}

@@ -1,0 +1,15 @@
+---
+species: "Singer"
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+**Ron** is a [[singer]] on [[Roshar]].{{book ref|sa4|51}}
+
+During the [[True Desolation]], they were part of [[Venli]]'s group that wished to escape the [[Fused]]. After being transferred from [[Kholinar]] to [[Urithiru]], they were assigned to secretly pack supplies with [[Alavah]] in case the group needed to quickly escape the tower.{{book ref|sa4|51}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 19:11, 19 June 2021 (UTC)}}
+{{stormlight}}

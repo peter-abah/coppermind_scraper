@@ -1,0 +1,14 @@
+{{geography
+|region=Sea of Souls
+|world=Shadesmar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+The **Empyrean Gulf** is a body of water in the [[Sea of Souls]], part of the [[Shadesmar|Rosharan subastral]] of the [[Cognitive Realm]]. It is surrounded by peninsulas with a variety of settlements and locations: one that contains [[Perpetual Sobriety]] and [[Ageless Beauty]], one with [[Justice Untarnished]] and the [[Oathbound Spires]], and one with the lighthouse [[Abiding Light]].{{map ref|Sea of Souls}} 
+
+In the Physical Realm, the Empyrean Gulf corresponds to the nation of [[Emul]].{{map ref|Roshar}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 23:08, 19 November 2020 (UTC)}}
+{{Stormlight}}

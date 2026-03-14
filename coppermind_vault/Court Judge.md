@@ -1,0 +1,19 @@
+---
+unnamed: "yes"
+profession: "Judge"
+earth: "Dark One"
+introduced: "Dark One Book 1"
+---
+
+{{uncanonical}}
+
+The **Court Judge** is an unnamed black haired woman, who is the presiding judge in the trial of [[Malmahan|Mr. Caligo]].{{book ref|do1|3}}
+
+## History
+
+After giving the defense the floor for their opening statement, the judge is not impressed with [[Lin Yang-Tanasin]] when Lin informs the court of Mr. Caligo's intentions to plead guilty of the fifteen murders he is accused of, and give information regarding a further thirteen murders the prosecutors are unaware of. She is not impressed as this is only if he is sentenced to death for the murders, a penalty that has been suspended in New York since 2004. The judge takes the defense to her chambers, and rejects Mr. Caligo's deal, despite Lin's arguments for the death penalty in this trial. After informing the court of her decision to reject the offer, she is taken control of by Mr. Caligo along with everyone but Lin in the courtroom.{{book ref|do1|2}}{{book ref|do1|3}} 
+
+## Notes
+<references />
+{{complete}}
+{{Dark One}}

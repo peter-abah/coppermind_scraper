@@ -1,0 +1,44 @@
+---
+image: "Roial by King Oreo.png"
+merge-family: "y"
+spouse: "Eoldess{{book ref|Elantris|14"
+---
+
+|bonded=[[Opa]]
+|titles=Duke of [[Ial Plantation]]
+|died=Stabbed by one of [[Telrii]]'s men{{book ref|Elantris|53}}
+|nation=Arelon
+|world=Sel
+|universe=[[Cosmere]]
+|introduced=[[Elantris (book)|Elantris]]
+}}
+Duke **Roial** of [[Ial Plantation]] was an old Arelene merchant and nobleman.
+
+## Appearance and Personality
+Roial is an incredibly homely man, spindly and diminutive of frame, with locks of powder-white hair.{{book ref|Elantris|11}} At 25, [[Sarene]] is of age where Roial is old enough to be her father, perhaps even her grandfather.{{book ref|Elantris|38}}
+
+Upon first meeting him, Sarene notes that he is "boisterous instead of reserved, almost more mischievous than distinguished" and that he dominates conversations despite his homely looks and slight frame.{{book ref|Elantris|11}} She later learns that despite his riches, Roial is a very frugal man - except when it comes to his luxurious gardens, which he loves dearly and spends much time wandering in.{{book ref|Elantris|32}}
+
+## Attributes and Abilities
+Roial is either the second or the third richest man in Arelon.{{book ref|elantris|8}}{{book ref|elantris|32}} This is through his skill as a merchant. 
+
+He also has a [[seon]] named [[Opa]].{{book ref|Elantris|32}}
+
+## History
+Roial's late wife [[Eoldess]] died ten years before the [[Reod]].{{book ref|Elantris|14}}
+
+Also prior to the Reod, he was the governor of [[Iald]], a port city. After the fall, he was the only Elantris-appointed official to remain in power.{{book ref|Elantris|11}} He supported King [[Iadon]]'s rise to power and helped stabilize the new monarchy. As an old politician, he was involved in many schemes--one being supporting Prince [[Raoden]] privately against his father--but was ultimately concerned with the well-being of Arelon and felt guilty for helping Iadon in creating the "monstrosity" which was killing Arelon.{{book ref|elantris|4}}{{book ref|Elantris|11}} After Raoden was taken by the Shaod and believed dead, his group which worked against Iadon in minor ways largely dissolved. Roial did agree to a final meeting in Kiin's house, where he met Princess Sarene.{{book ref|Elantris|11}} Sarene quickly took control of the group.
+
+When Princess [[Sarene]] arrived in Arelon, Roial was one of the richest men in Arelon, as his holdings included Iald, which was the second most wealthy city in the country. The only way Iadon stayed king was by including national tax revenue as his income.{{book ref|Elantris|11}} However, as Duke [[Telrii]] started taking money from [[Hrathen]] and the [[Fjordell Empire]], Roial eventually became the third richest man in Arelon.
+
+After King Iadon committed suicide, Roial and Sarene tried to prevent Telrii (and, by association, Fjorden) from becoming king, and Sarene suggested that they marry. As Sarene inherited Raoden's fortune, they would have sufficient funds to defeat Telrii, and because Sarene had a connection to the throne, Roial's kingship would have some legitimacy. Roial was kind and respected Sarene greatly, assuring her that their marriage would be only political, and she would not have to perform in the bedroom. Roial's intent was that he would die in a few years and Sarene could have a new, younger husband.{{book ref|elantris|35}} None of this planning ever came to pass, for at Roial and Sarene's wedding ceremony, Hrathen had poisoned Sarene, making her appear to be taken by the Shaod.{{book ref|elantris|38}}{{book ref|elantris|39}} As such, Sarene was thrown into Elantris and Telrii became king.{{book ref|elantris|40}}{{book ref|elantris|44}}
+
+When Sarene returned from Elantris, Roial and the other lords met her at the gate. After a short talk with Hrathen, they returned to Kiin's house.{{book ref|elantris|47}}
+
+Roial and the others planned an attempt to take the throne back from Telrii somehow, but Count [[Ahan]]--a longstanding friend, rival, and fellow conspirator against Iadon--betrayed Roial to Telrii, who then ordered a soldier to kill him. The soldier stabbed Roial. This led to [[Raoden]] proclaiming his return. Raoden tried to save Roial but was to inexperienced with healing [[Aon]]s; Roial died after saying his final words to Raoden.{{book ref|Elantris|53}} He was buried alongside [[Eondel]], [[Karata]] and [[Saolin]] in one of the graves dedicated to those who had fought for Arelon.{{book ref|Elantris|Epilogue}}
+
+## Notes
+<references /><!-- 4, 8, 11, 14, 20, 22, 23, 25, 32, 35, 38, 39, 41, 44, 46, 47, 50, 52-56, 58, Epilogue -->
+{{partial}}
+{{Elantris}}
+[[es:Roial]]

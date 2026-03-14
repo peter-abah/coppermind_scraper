@@ -1,0 +1,20 @@
+---
+residence: "Luthadel"
+ethnicity: "Skaa"
+world: "Scadrial"
+universe: "Cosmere"
+introduced: "The Well of Ascension"
+---
+
+**Larn** is a member of a [[Survivorist]] congregation in [[Luthadel]] on [[Scadrial]].{{book ref|mb2|42}}
+
+==Appearance and Personality==
+He is around eighteen years old. He is a [[skaa]], and his face and clothing are dirty. He is visibly nervous when he meets [[Elend Venture]],{{book ref|mb2|42}} presumably due to Elend's status as an influential [[noble]].
+
+==History==
+He has lived in Luthadel his whole life. He is introduced to Elend by [[Demoux]], and tells Elend about an [[Inquisitor]] that he spotted slinking around the center of the city. He says that he previously tried to tell King [[Penrod]] about it, but was turned away by his guards. Demoux says that he had been hearing other rumors about Inquisitors near [[Kredik Shaw]], but Larn has good eyesight and is trustworthy, which made him take his claim seriously.{{book ref|mb2|42}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 22:32, 21 August 2019 (UTC)}}
+{{Mistborn|Era 1}}

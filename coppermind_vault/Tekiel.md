@@ -1,0 +1,11 @@
+{{disambig}}
+
+**[[House Tekiel]]** was a major noble house in the [[Final Empire]] which survived through the [[Final Ascension]].
+This could relate to the house or:
+## Characters
+* [[Tevidian Tekiel]]
+* [[Salmen Tekiel]]
+* [[Kale Tekiel]]
+## Places
+* [[Keep Tekiel]] - The house's residence in [[Luthadel]]
+* [[Tekiel Tower]] - A skyscraper being built in [[Elendel]]

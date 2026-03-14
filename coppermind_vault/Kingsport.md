@@ -1,0 +1,18 @@
+{{settlement
+|region=Emerald Sea
+|world=Lumar
+|universe=[[Cosmere]]
+|books=[[Tress of the Emerald Sea]]
+}}
+
+**Kingsport** is a city presumably in the [[Emerald Sea]] on [[Lumar]];{{book ref|tress|19}} it is also presumably the residence of the [[Verdant King]], and as such is located on the [[Core Archipelago]].{{book ref|tress|7}} Reports about possible [[deadrunner]]s are sent to the port,{{book ref|tress|19}} which is located far from [[Shimmerbay]].{{book ref|tress|21}}
+
+[[Charlie]] claimed that there was constant war at the port, to the extent that gardeners must be trained in the art of warfare; however, it is likely that this was merely another of his stories.{{book ref|tress|2}} After Charlie's disappearance, [[Tress]] planned to go to Kingsport to plead that the king pay Charlie's ransom. When she had the opportunity to do so, however, she instead remained with the crew of the *[[Crow's Song]]*.{{book ref|tress|8}}{{book ref|tress|21}}
+
+[[Crow]] had news via a raven from a contact in Kingsport that the remnants of the *[[Oot's Dream]]* had been found, but that there were no survivors, just the corpse of the one man that Crow had left alive.{{book ref|tress|19}}
+
+## Notes
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 17:11, 12 January 2023 (UTC)}}
+{{tress}}
+[[es:Puerto Real]]

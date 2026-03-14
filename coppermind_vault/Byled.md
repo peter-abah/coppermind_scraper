@@ -1,0 +1,12 @@
+---
+universe: "Cytoverse"
+books: "Skyward (series)"
+---
+
+{{update|sky4}}
+**Byled** is the location of the [[Superiority]]'s primary communications node.{{book ref|sky4|epilogue}}
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

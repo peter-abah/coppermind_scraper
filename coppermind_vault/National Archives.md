@@ -1,0 +1,20 @@
+{{architecture
+|city=Elendel
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+{{quote
+|The Second Octant constables clustered and watched the crowd for pickpockets from the steps up into the National Archives.
+|[[Marasi Colms|Marasi's]] observations upon arriving for Governor [[Replar Innate|Innate's]] speech{{book ref|mb5|6}}
+}}
+The **National Archives** is a building in [[Elendel]] on [[Scadrial]].{{book ref|mb5|6}}
+
+The National Archives are located in the Second Octant, near the [[Field of Rebirth]] and across from the governor's mansion.{{book ref|mb5|6}} Presumably, the archives store important historical documents.
+
+Governor [[Replar Innate]] liked to address people from the governor's mansion. On at least one such occasion, in {{date|342|PC}}, the constables kept an eye on the people from the steps leading up to the National Archives.{{book ref|mb5|6}}
+
+## Notes
+<references />
+{{complete|--[[User:Stargazer|Stargazer]] ([[User talk:Stargazer|talk]]) 23:00, 26 April 2020 (UTC)}}
+{{Mistborn|Era 2}}

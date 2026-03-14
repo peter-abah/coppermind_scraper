@@ -1,0 +1,108 @@
+{{Radiant|order=Stoneward
+|herald=Talenel
+|spren=Peakspren
+|surge-=Cohesion|surge+=Tension
+|plate spren=[[Bindspren]]{{wob ref|16808}}
+|order-=Willshaper|order+=Bondsmith
+}}
+{{update|sa4|sa5}}
+The **Order of Stonewards** is an order of the [[Knights Radiant]] on Roshar.{{epigraph ref|sa2|37}}
+
+The Stonewards were [[Surgebinder]]s who used the [[Surge]]s of **Cohesion** and **Tension**, and they are associated with the topaz [[polestone]]. The patron [[Herald]] of the Stonewards is [[Talenel]]. In [[Shadesmar]], the spren of the Stonewards, [[peakspren]], look like stone and their skin cracks when they move.{{wob ref|9532}}
+
+## Philosophy
+{{sidequote
+|I will be there when I'm needed.
+|The core philosophy of the Stonewards{{rpg ref|slhb|172}}
+|side=right|size=250px
+}}
+
+Those who join the Stonewards generally subscribe to a philosophy of team dynamics, on learning to work with others, and on being there for those who need them.{{wob ref|13780}} The core tenet of the order is be there when needed and not let anyone down.{{rpg ref|slhb|172}} They aim to be there for both friends and strangers. They seek to take a difficult situation with few resources and make something better of it.{{wob ref|16469}} 
+
+The order strives to exemplify resolve, strength, and dependability.{{epigraph ref|sa2|37}} They love challenging themselves and work on their social skills to connect with everyone.{{rpg ref|slhb|172}} They tend to attract those who are most interested in warfare, prowess with weapons, or athletics of any sort.{{wob ref|13780}}{{wob ref|16469}}
+
+## Ideals of the Stonewards
+The Ideals of the Knights Radiant, also known as the [[Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.{{book ref|sa1|59}} The Ideals of the Order of Stonewards all focus on working with a team and supporting others, which led them to put others' interests before their own. Of the orders, they were some of the least likely to bend their Ideals.{{wob ref|13780}}
+
+### The First Ideal
+{{quote
+|Life before death, strength before weakness, journey before destination.
+|The First Ideal of the Knights Radiant{{book ref|wok|59}}
+}}
+
+The Stonewards share the first ideal with all other orders of Radiants, which serves as the motto of the organization as a whole.{{book ref|sa1|59}} The words are broadly interpreted to state the value of life, the importance of strength and service and the importance of the methods by which one accomplishes a task.
+
+### The Second Ideal
+{{quote
+|I will step forward when others fall back.
+|The Second Ideal of the Stonewards order{{rpg ref|slhb|173}}
+}}
+
+This oath is centered around dependability and pushing through seemingly impossible odds.{{rpg ref|slhb|173}} If a Stoneward gives their word, they strive to accomplish the task or die trying.
+
+### The Third Ideal
+{{quote
+|I will be the foundation on which others can build.
+|The Third Ideal of the Stonewards order{{rpg ref|slhb|173}}
+}}
+
+This oath focuses on Stonewards viewing themselves as one piece to a larger whole.{{rpg ref|slhb|173}} Stonewards also seek to be there for all who need it, not just a select few. It must be reached before a Stoneward can manifest their peakspren as a [[Shardblade]].{{rpg ref|slhb|176}}
+
+### The Fourth Ideal
+The Fourth Ideal of the Stonewards is unique for each member, but all have the common theme of recognizing that it is impossible to help others if you do not help yourself. As such, Stonewards who reach this ideal know the importance of self-care and the strength of relying on a support system.{{rpg ref|slhb|173}} Upon achieving this Ideal, a Stoneward gains their [[Shardplate]], which is formed of [[bindspren]].{{rpg ref|slhb|176}}{{rpg ref|slhb|178}}
+
+## Abilities
+{{image|WOKLB - KS - Stonewards by Steve Argyle.jpeg|side=right|width=200px|Stonewards}}
+{{quote
+|The Shardbearer pressed his hand against the incline leading up to the Voidbringer, and again the stone seemed to writhe. Steps formed in the rock, as if it were made of wax that could flow and be shaped.
+|Dalinar's observations of a Stoneward in a [[Dalinar's visions|vision]]{{book ref|sa3|38}}
+}}
+The Stonewards use the Surges of **Cohesion** and **Tension**. Like most Knights Radiant, the Stonewards have squires.{{book ref|sa4|43}}{{wob ref|15204}}
+
+### Cohesion
+[[Surgebinding#Cohesion|**Cohesion**]] allows them to manipulate or alter objects at a molecular level.{{wob ref|6061}} This surge allows a Stoneward to make stone more malleable, like clay, or even a liquid.{{book ref|sa5|41}}{{book ref|sa3|38}} This surge also connects the Stoneward to the spren of the stone, allowing them to speak with the stone.{{book ref|sa5|29}}
+
+This ability lets them reshape things other than stone, but not flesh or anything even slightly Invested.{{wob ref|9422}}
+
+### Tension
+[[Surgebinding#Tension|**Tension**]] allows them to alter the stiffness of an object.{{book ref|sa2|part=ars}}{{wob ref|7843}} Stonewards are able to control the hardness of an object, allowing them to harden clothing into weapons or armor and walk on top of liquids.{{book ref|sa4|32}}{{book ref|sa5|41}}{{rpg ref|slhb|172}} Much like Cohesion, Tension is highly resisted by [[Investiture]].{{wob ref|9422}}
+
+### Shardplate Abilities
+Stonewards' [[Shardplate]] is formed of [[bindspren]].{{wob ref|16808}}{{rpg ref|slhb|178}} The glow of their [[Shardplate]] is amber.{{book ref|wok|19}}{{book ref|sa5|118}}
+
+## History
+### The Ancient Radiants
+The ancient Stonewards were the infantry and the ground troops of the Knights Radiant; alongside the [[Windrunners]], they were considered the finest soldiers.{{wob ref|16469}} They tended to attract people interested in warfare, but also challenge, prowess with weapons, and athleticism. Throughout the world, they were widely known for being dependable, strong and filled with resolve, but also stubborn to a fault and prone to taking on projects larger than themselves. This attitude was said to be a good representation of their patron Herald.{{wob ref|13780}}{{epigraph ref|sa2|37}} They took pride in this -- to be there when they were needed was a core tenet of their order.{{wob ref|13780}}
+
+In battle, they served as the frontline troops.{{wob ref|12085}}{{rpg ref|slhb|174}} In times of peace, on the other hand, they were often explorers, but also sportsmen, often organizing and engaging in various competitions and events.{{wob ref|13780}}
+
+### True Desolation
+During the True Desolation, the Stonewards primarly fought against Odium, joining the Coalition of Monarchs.{{rpg ref|slhb|174}}
+
+## Notable Stonewards
+* [[Zu (Roshar)|Zu]] (bonded to [[Ua'pam]])
+* [[Dami]] (bonded to an unknown peakspren)
+* [[Badali]] (bonded to an unknown peakspren)
+* [[Erinor]] (bonded to an unknown peakspren) {{book ref|sa5|28}}
+* [[Talatin]] was a historic Stoneward from before the [[Recreance]].
+* [[Taszo-son-Clutio]] (bonded to [[Po'ahu]]){{rpg ref|slsw|32}}
+
+## Quotes
+{{quote
+|Now, as each order was thus matched to the nature and temperament of the Herald it named patron, there was none more archetypal of this than the Stonewards, who followed after Talenelat'Elin, Stonesinew, Herald of War: they thought it a point of virtue to exemplify resolve, strength, and dependability. Alas, they took less care for imprudent practice of their stubbornness, even in the face of proven error.
+|[[Words of Radiance (in-world)|*Words of Radiance*, chapter 13, page 1]]{{epigraph ref|sa2|37}}
+}}
+
+{{quote
+|As a Stoneward, I spent my entire life looking to sacrifice myself. I secretly worry that this is the cowardly way. The easy way out. - From drawer 29-5, topaz.
+|Oathbringer, Chapter 58, Epigraph{{epigraph ref|sa3|58}}
+}}
+
+## Trivia
+* Getting a 100% Stoneward score on the [https://www.brandonsanderson.com/official-knights-radiant-order-quiz/ Knights Radiant Quiz] requires a set of answers detailed [https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fhow-the-knights-radiant-quiz-works-v0-cdp5b7ljspnc1.png%3Fwidth%3D1916%26format%3Dpng%26auto%3Dwebp%26s%3Da8ad1ca766a0d23a0beac2d79ee2b1b3222a58b2 here].
+
+## Notes
+<references />
+{{partial}}
+{{Stormlight}}
+[[es:Orden de los Custodios de Piedra]]

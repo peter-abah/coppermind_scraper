@@ -1,0 +1,147 @@
+{{culture
+|image=Fused_monochrome.jpg
+|related=[[Odium]]
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+{{update|sa4|sa5}}
+{{quote
+| They are aflame. They burn. They bring the darkness when they come, and so all you can see is that their skin is aflame. Burn, burn, burn....
+| Collected on Palahishev, 1172, 21 seconds pre-death. Subject was a baker's apprentice.{{epigraph ref|twok|7}}
+}}
+The **Voidbringers** are historically considered to be a group of creatures that attacked the humans of [[Roshar]] in a series of wars known as [[Desolation]]s.{{book ref|twok|45}} In the four and a half millennia since [[Aharietiam]],{{book ref|sa3|38}} much of the factual evidence on the Voidbringers has faded into myth and legend, as well as [[Vorin]] doctrine.{{book ref|sa1|45}} Voidbringers were said to have cast mankind out of the Tranquiline Halls and fought the [[Herald|Heralds of the Almighty]] and [[Knights Radiant]] on Roshar.
+
+Despite the fact that the Voidbringers were mostly dismissed as legends and folklore, the scholar [[Jasnah Kholin]] feared what was to come and tried to surmise the true nature of Voidbringers, hypothesizing that the singers were the Voidbringers.{{book ref|sa1|72}} In actuality, upon the arrival of the [[Everstorm]], the Voidbringers were revealed to be a large coalition of various beings allied with the [[Shard]] [[Odium]]--not solely singers. Furious at their displacement and slavery at the hands of mankind, the Voidbringers are intent on taking Roshar for themselves.{{book ref|sa3|109}}
+
+## History
+### Origins of the Voidbringers
+{{quote
+|Well were they named Voidbringers, for they brought the void. The empty pit that sucks in emotion. A new god. Their god.
+|[[Eila Stele]]{{epigraph ref|sa3|117}}
+}}
+{{sidequote
+|They came from another world, using powers that we have been forbidden to touch. Dangerous powers, of spren and Surges. They destroyed their lands and have come to us begging.
+|[[Eila Stele]]{{epigraph ref|sa3|115}}
+|side=right|size=300px
+}}
+The first known usage of the term Voidbringer was as a title for [[Zoral]] on [[Ashyn]] around seven-thousand-one-hundred years before the [[Night of Sorrows]].{{book ref|sa5|107}} The exact context of this title is not currently known, but he was likely one of the major figures to be first contacted by Odium on Ashyn.{{book ref|sa5|104}}{{book ref|sa5|107}}
+
+The term would next be used for the first humans on Roshar.{{book ref|sa3|111}} They came to Roshar fleeing their former homeworld{{book ref|sa3|111}} Ashyn{{book ref|sa5|104}} which they had destroyed with the [[Dawnshard]]s,{{book ref|sa3|113}} bringing with them their god, the [[Shard]] [[Odium]].{{book ref|sa3|121}} Initially confined to [[Shinovar]], the place they had been given that was sheltered from the [[highstorm]]s, they eventually moved to conquer all of Roshar.{{book ref|sa3|113}} The original inhabitants of Roshar, the [[singers]], named them Voidbringers,{{book ref|sa3|111}} for they had brought the void of emotions, Odium.{{book ref|sa3|121}}{{epigraph ref|sa3|117}} At some point in this conflict, mankind instead became aligned with the Shard Honor,{{book ref|sa3|121}} whereas the singers took the aid of Odium, who granted them powers.{{book ref|sa3|38}} When those to whom Odium had granted power died, they refused to move on to the [[Beyond]], instead reincarnating themselves by possessing the bodies of other singers. These were the very first [[Fused]]. Mankind began to lose, unable to defeat enemies that were continually reborn. Ten humans asked Honor for the ability to seal away the spirits of the Fused on [[Braize]], much as Odium was trapped by Honor. Honor made them into his [[Herald]]s, granting them this ability as well as the [[Honorblade]]s.
+
+### Trapped in Damnation
+While this Oathpact worked for a time, the Heralds could be tortured into betraying their oaths and allowing the spirits to return to Roshar in an event known as a [[Desolation]].{{book ref|sa3|38}} Over time the singers and the rest of Odium's forces became known as the Voidbringers by mankind. They fought against mankind to reclaim their homelands on Roshar and occupy them,{{book ref|sa3|83}} destroying human civilization{{book ref|sa3|14}} and killing a huge portion of the population.{{book ref|sa1|60}} In joining with Odium, the singers had given over absolute authority to him, directing the overarching strategy of the Voidbringer attacks and creating plans independently of the Fused.{{book ref|sa3|115}} Mankind repelled them each time, with the help of Honor, the Heralds and the [[Knights Radiant]]. The cycle of torture and Desolations exhausted the Heralds, causing them to abandon the Oathpact after a few thousand years, leaving behind only [[Talenelat]], who had been forced to return to Braize when he was killed. Taln had never broken before and, by the strength of his will alone, held back the next Desolation.
+
+{{sidequote
+| The Ancient of Stones must finally begin to crack It is a wonder that upon his will rested the prosperity and peace of a world for over four millennia.
+| The Diagram, Book of the 2nd Ceiling Rotation: pattern 1{{epigraph ref|sa2|83}}
+|side=left|size=300px|
+}}
+
+Millennia later, the remaining singers fought against humans in the [[False Desolation]],{{book ref|sa3|56}} led by the Unmade [[Ba-Ado-Mishram]].{{epigraph ref|sa3|80}} The [[Bondsmith]] [[Melishi]] used his abilities{{epigraph ref|sa3|79}} to imprison the Unmade,{{book ref|sa3|prologue}} but inadvertently{{epigraph ref|sa3|81}} also damaged the minds of all the singers who had been Connected to her.{{book ref|sa3|prologue}} This rendered the singers into the servile parshmen who were repurposed to form the backbone of human labor for the next two millennia.{{book ref|sa1|72}} Memory of the Voidbringers faded over the centuries, as they became considered to be myths and legends.{{book ref|sa1|19}} Even several generations after the departure of the Heralds, memory of the Voidbringers was already becoming confused.{{book ref|sa1|28}} Information from the shadowdays was fragmented{{book ref|sa1|45}} and what little knowledge that remained of the Voidbringers was heavily revised and edited by the Vorin church during the days of the [[Hierocracy]].{{book ref|sa2|6}} Eventually after four thousand and five hundred years, the Voidspren and the spirits of the Fused were somehow released, even without Taln breaking.{{book ref|sa3|38}}{{wob ref|14869}} Voidspren began carving out an empire in Shadesmar,{{book ref|sa3|108}} and as a result some true spren returned to the Physical Realm bond with humans to try to prevent the Desolation.{{book ref|sa2|13}}
+
+### True Desolation
+In 1173, a [[Listener|group of singers]] that had avoided losing their Connection and Identity by abandoning their gods and choosing dullform{{book ref|sa2|i|4}} fought the [[Alethi]] in the [[War of Reckoning]]{{book ref|sa1|43}} on the [[Shattered Plains]].{{book ref|sa1|12}} A single Voidspren guided one singer, [[Venli]], to the discovery of stormform, a form of power.{{book ref|sa3|i|3}} Fearful of being driven to extinction by the Alethi,{{book ref|sa2|i|11}} the singers took stormform and in a final [[Battle of Narak|battle with the Alethi]] summoned the [[Everstorm]].{{book ref|sa2|84}} As this storm passed over Roshar in early 1174, it restored Identity and Connection to the parshmen, returning their minds and personalities to them.{{book ref|sa3|17}} The Fused also returned, taking the bodies of unwittingly willing singers.{{book ref|sa3|i|6}} The Voidspren guided the newly-awakened singers to several different locations, conquering their way through [[Emul]]{{book ref|sa3|96}} and concentrating their forces in [[Alethkar]],{{book ref|sa3|96}} [[Marat]],{{book ref|sa3|27}} and [[Iri]], where humans had agreed to help the Voidbringers.{{book ref|sa3|16}} The Voidbringers in Iri have also moved to capture the Oathgates in [[Rall Elorim]], [[Kurth]], and [[Panatham]], securing most of the territory around the [[Purelake]].{{book ref|sa3|122}}
+{{sidequote
+| Flame and char. Skin so terrible. Eyes like pits of blackness. Music when they kill.
+| A quote from the [[Iviad]]{{epigraph ref|twok|50}}
+|side=right|size=300px|
+}}
+
+The Voidbringer forces in Alethkar [[Siege of Kholinar|laid siege]] to the capital of [[Kholinar]].{{book ref|sa3|51}} With the help of several Unmade sowing chaos in the city,{{book ref|sa3|77}} the Voidbringers managed to take the city and its Oathgate, despite the best efforts of the returning Knights Radiant.{{book ref|sa3|85}} Several weeks later, Odium directed the Voidbringers to make another push to capture an Oathgate, this time located in [[Thaylen City]],{{book ref|sa3|115}} as well as force the Bondsmith [[Dalinar Kholin]] to submit to Odium and become his champion.{{book ref|sa3|117}} With the help of [[Nergaoul]], the Voidbringers successfully managed to bond with the men of the [[Sadeas princedom|Sadeas]] army.{{book ref|sa3|115}} These corrupted humans, along with [[Yelig-nar]],{{book ref|sa3|118}} the Fused, and two thunderclasts, formed the major Voidbringer forces for the battle.{{book ref|sa3|115}} Fortunately Dalinar managed to shake off this temptation and swear his next [[Immortal Words|Ideal]], opening [[Honor's Perpendicularity]] to provide Stormlight for the fight and allow some of his Radiants in Shadesmar to aid in the fight.{{book ref|sa3|119}} The Radiants managed to defend the city by capturing [[Nergaoul]] within a [[perfect gemstone]] and freeing the Sadeas soldiers from Odium's influence.{{book ref|sa3|120}} The Voidbringers themselves remain a dangerous enemy with control over vast swathes of Roshar. They have not yet decided what will become of humanity should they achieve total victory, but some among the Fused desire to drive them to extinction to ensure that they are safe from humans and Honor forever.{{book ref|sa3|i|7}} Odium’s forces were also aggressively laying the groundwork for an empire in the Cognitive Realm.{{rpg ref|slwg|172}}
+
+## Types of Voidbringers
+By the time of the [[True Desolation]], there are a variety of beings that are considered to be Voidbringers by the modern humans of the [[Era of Solitude]]. While they are often referred to collectively as Voidbringers when they are discussed as a group, in reality there are several important divisions among the Voidbringers. The word Voidbringers basically serves as a broad term that can refer to any one or all of these disparate groups.
+
+### Fused
+{{quote
+| 1=<span style='font-variant: small-caps'> They are the spren of parshmen long dead. They are their kings, their lighteyes, their valiant soldiers from long, long ago. </span>
+| 2=The [[Stormfather]] to [[Dalinar Kholin]]{{book ref|sa3|38}}
+}}
+
+{{for|Fused}}
+
+The group most easily called the Voidbringers, the Fused are [[Cognitive Shadow]]s of ancient singers that were granted access to the [[Surge]]s by Odium long ago.{{book ref|sa3|38}} Making use of [[Voidlight]], the Fused are often also referred to as spren instead of Cognitive Shadows,{{book ref|sa3|38}} although either term is applicable. The Fused are among the most dangerous enemy of mankind, as their repeated deaths and resurrections have given them ample opportunity to hone their skills in the art of war against mankind.{{book ref|sa3|i|3}} With the weakening of the [[Oathpact]] and the arrival of the [[Everstorm]], the Fused are no longer sent to Damnation upon their death, they are instead reincarnated upon the next Everstorm.{{book ref|sa3|38}} With repeated rebirth, the minds of the Fused gradually degrade, resulting in eventual insanity. The Fused are also responsible for the [[thunderclast]]s, enormous skeletal monsters with bodies of stone, inhabiting rock as they would a singer.{{book ref|sa3|115}}
+
+### Voidspren
+{{for|Voidspren}}
+
+While the Fused may technically be considered to be Voidspren, there are several other varieties of Voidspren that exist as well. There are several varieties of more intelligent Voidspren,{{book ref|sa3|102}} such as [[Ulim]]{{book ref|sa3|i|3}} and [[Yixli]]{{book ref|sa3|23}} that seem capable of sapience in the Physical Realm without a spren bond. Some of these spren are made of golden light, while others appear as red shadows.{{book ref|sa3|102}} Those in the Physical Realm have been guiding groups of the singers to staging points{{book ref|sa3|23}} and administering the singers.{{book ref|sa3|i|7}} They have also increased their control within [[Shadesmar]],{{book ref|sa3|108}} sailing warships and capturing cities as well as [[Cultivation's Perpendicularity]].{{book ref|sa3|102}} There are also lesser Voidspren which are mindless,{{book ref|sa3|i|11}} much like the other subspren common on Roshar. These spren are capable of bonding with regular singers to grant them forms of power, turning them into Regals.{{book ref|sa3|i|7}}
+
+### Regals
+{{quote
+| Qualify yourselves for greater service, and you will be elevated to the place of a Regal, given a form of power.
+| A Fused to a group of common singers{{book ref|sa3|115}}
+}}
+{{for|Regal}}
+
+Regals are singers that have bonded one of the various types of lesser Voidspren.{{book ref|sa3|i|7}} This grants them one of the forms of power, such as stormform{{book ref|sa3|i|11}} or envoyform,{{book ref|sa3|i|7}} which each have various abilities. Common singers that have proven themselves to be particularly effective or loyal to the Fused are granted the privilege of become a Regal.{{book ref|sa3|115}} Regals remain subservient to the Fused,{{book ref|sa3|i|7}} but they command the respect of the regular singers.{{book ref|sa3|115}} Their relationship to the more intelligent Voidspren remains uncertain.{{book ref|sa3|i|7}} It is the highest known rank that a non-Fused singer can attain.
+
+### Singers
+{{for|Singers}}
+{{sidequote
+| That chanting, that singing, those rasping voices.
+| One of the [[Death Rattle]]s{{epigraph ref|twok|66}}
+|side=right|size=300px|
+}}
+The singers themselves are merely a species native to Roshar.{{book ref|sa3|111}} However, they have been heavily influenced by their ancestors, the Fused, and typically are supportive of Odium. Most of the singers were damaged by the capture of [[Ba-Ado-Mishram]] in the [[False Desolation]],{{epigraph ref|sa3|80}} and were robbed of their Connection, Identity, and forms.{{book ref|sa3|prologue}} With the arrival of the Everstorm, their Connection and Identity were restored and they awoke again.{{book ref|sa3|17}} The singers that awoke feel like citizens of their kingdoms of birth; they practice the same customs and attitudes{{book ref|sa3|65}} and consider those lands their homes.{{book ref|sa3|109}} Many singers are angry about the slavery{{book ref|sa3|20}} and wish to build their own lasting empire and subjugate the humans.{{book ref|sa3|i|7}} However, some wish that they could avoid conflict and simply find their own place to live.{{book ref|sa3|115}} They feel as though they lack an identity as a people and are struggling to find their path forward.{{book ref|sa3|121}}
+
+### Unmade
+{{for|Unmade}}
+
+The Unmade are a group of nine{{book ref|sa3|1}} ancient, twisted spren{{book ref|sa3|62}} comprised of [[Splinter]]s of [[Odium]].{{wob ref|9207}} The Unmade were once something else, but they were somehow unmade into their current forms.{{book ref|sa3|84}} They now exist as minions of Odium, doing his bidding.{{book ref|sa3|1}}  Each Unmade is endowed with vast and terrible powers,{{epigraph ref|sa3|89}} such as [[Sja-anat|corrupting spren]],{{book ref|sa3|77}} providing [[Moelach| visions of the future]],{{epigraph ref|sa3|102}} or producing [[Midnight Essence|evil murderous spren]].{{book ref|sa3|29}} The intelligence of an individual Unmade varies from wise and crafty{{epigraph ref|sa3|106}} to simply mindless forces.{{epigraph ref|sa3|104}} The Unmade are not traditionally counted among the Voidbringers, but the two are often associated and they are among the most powerful of Odium's forces. They may have some relationship with the [[Ten Deaths]], a concept that is poorly understood.{{book ref|sa1|19}}
+
+## Culture
+In the thousands of years since the Voidbringers were seen, they have become mythologized in human societies, playing a role in the culture, religion, and folklore of the modern day. They are considered by many to be mythological,{{book ref|sa1|19}} or simple fabrications.{{book ref|sa1|72}} Most people do not believe they exist on Roshar anymore, either destroyed or driven back to the Tranquiline Halls.{{book ref|sa1|42}}
+
+### Myth & Folklore
+{{quote
+| They lived out in the wilds, always awaiting the Desolation—or sometimes, a foolish child who took no heed of the night's darkness.
+| A child's tale, yes, but this quote from Shadows Remembered seems to hint at the truth I seek. See page 82, the fourth tale.{{epigraph ref|twok|43}}
+}}
+
+In rural areas, Voidbringers played a wide variety of cultural roles. Oftentimes the Voidbringers were seen as mischievous, rather than evil, punishing foolish people and causing bad luck.{{book ref|sa1|45}} They were are often blamed for small misfortunes, such as a blighted crop{{book ref|sa1|10}} or laundry going missing.{{book ref|sa1|45}} In more urban areas, stories of the Voidbringers are slightly different. They are said to be a type of evil spren that walk the night and enter the hearts of good men{{book ref|sa1|45}} and make them do terrible things.{{book ref|sa1|61}} Some confuse mental illness for possession by a Voidbringer.{{book ref|sa2|63}} Voidbringers are often synonymous with monsters and other superstitions, hiding in corners or under the bed.{{book ref|sa1|42}} The term Voidbringer is even sometimes used as an affectionate nickname for troublemakers,{{book ref|sa2|39}} or a metaphor for difficult past events.{{book ref|sa2|41}}
+
+{{image|Chasmfiend old.jpg|width=250px|side=right|An ancient artist's depiction of a Voidbringer}}
+
+There are darker rumors of the Voidbringers as well. They are also said to haunt the most violent highstorms{{book ref|sa1|4}} along with the shades of the Lost Radiants, causing the damage left by the storm{{book ref|sa1|16}} and feasting on human flesh{{book ref|sa1|4}} and stealing their hearts.{{book ref|sa1|43}} Other groups claim that the Voidbringers steal souls.{{book ref|sa2|i|9}} Some peoples, such as the [[Unkalaki]], totally deny that the Voidbringers ever existed, believing them to be campfire tales.{{book ref|sa1|43}} Any sort of oddity, like the powers associated with [[Surgebinding]], may be considered related to the Voidbringers by darkeyes{{book ref|sa1|73}} and lighteyes alike.{{book ref|sa1|72}} In fact, any oddity such as a talking animal,{{book ref|sa2|45}} a shadow that points the wrong way,{{book ref|sa2|i|3}} or a spren that speaks{{book ref|sa2|81}} may be associated with the Voidbringers. Even only a few generations after Aharietiam, the specifics of what the they looked like were forgotten, with ancient artists drawing pictures of [[chasmfiend]]s and labeling them Voidbringers.{{book ref|sa1|28}} They are often associated with the Lost Radiants, who are said to have betrayed mankind to the Voidbringers,{{book ref|sa1|43}} although in Vorin theology this is not believed to be the case. [[Dalinar Kholin]] suspected that [[Dalinar's visions|his visions]] might come from the Voidbringers.{{book ref|sa1|65}}
+
+Tales of the Voidbringers are common among the darkeyes, and are occasionally collected into volumes, such as *[[Shadows Remembered]]*.{{book ref|sa1|33}} In these, the Voidbringers are often associated with stories of ghosts and spirits;{{book ref|sa1|33}} in some tales, the dead become Voidbringers.{{book ref|sa2|5}} In one such tale, a boy who left his home at night was chased to a cavern near a lake by the Voidbringers.{{book ref|sa1|33}} He escaped by floating a piece of wood carved in a human shape out onto the lake and tricking the Voidbringers into devouring that instead of him. In another story, a traveler shown kindness slaughtered a whole family, drank their blood, and wrote voidish symbols on the walls.{{book ref|sa1|45}} There are other tales of evil men made immortal and tortured over and over again, like the story of [[Extes]].{{book ref|sa1|49}} They also often exist on the periphery of other tales. For instance, Derethil sailed west to discover where the Voidbringers spawned and destroy them there{{book ref|sa1|57}} and [[Parasaphi]]'s people had been slaughtered by the Voidbringers in the Desolation.{{book ref|sa1|61}}
+
+### Theology
+====Vorinism====
+
+According to Vorin theology, the Voidbringers are real creatures,{{book ref|sa1|45}} incarnations of destruction{{book ref|sa3|51}} or death given form.{{book ref|sa2|35}} They were created in Damnation forged from pure hatred.{{book ref|sa1|45}} They are viewed as counterparts to the Almighty,{{book ref|sa1|45}} as well as his mythological enemies.{{book ref|sa1|42}} They are said to have come into existence to oppose the Almighty, as the cosmere needed to balance his ultimate goodness.{{book ref|sa1|45}} They dwell in the hearts of mankind, just as the Almighty once did. The Voidbringers were said to have red eyes{{book ref|sa2|78}} and stand dozens of feet tall with bodies of flame{{book ref|sa1|prologue}} and stone,{{book ref|sa1|3}} which required [[Shardblade]]s to be defeated.{{book ref|sa1|prologue}} In other tales, the Voidbringers had horrific faces and spindly arms of bone.{{book ref|sa3|81}} Other Voidbringers lacked a form, spectral spirits of the dead or spren from Damnation.{{book ref|sa3|2}}
+{{sidequote
+| A scourge and a plague. A hundred times they came upon mankind. First casting us from the Tranquiline Halls, then trying to destroy us here on Roshar. They weren't just spren that hid under rocks, then came out to steal someone’s laundry. They were creatures of terrible destructive power, forged in Damnation, created from hate.
+| [[Kabsal]] on the Voidbringers{{book ref|sa1|45}}
+|side=left|size=300px|
+}}
+
+The Voidbringers are said to have attacked humanity in the [[Tranquiline Halls]], capturing it and forcing humanity into [[Roshar]].{{book ref|sa1|45}} The Voidbringers then tried to force humanity into Damnation itself.{{book ref|sa1|61}} Mankind fought against the Voidbringers, led by the [[Herald|Heralds of the Almighty]]{{book ref|sa1|15}}{{book ref|sa1|45}} and their chosen [[Knights Radiant]].{{book ref|sa1|42}} The two groups clashed ninety-nine times,{{book ref|sa1|45}} each time the Voidbringers tried to destroy everything in their path{{book ref|sa3|51}} annihilate mankind{{book ref|sa3|2}} but the humans successfully held Roshar.{{book ref|sa1|42}}  Finally in Aharietiam, the Final Desolations, mankind succeeded in throwing back the Voidbringers to the Tranquiline Halls.{{book ref|sa1|45}} The Heralds themselves followed them, intending to reclaim the Tranquiline Halls once and for all. It is believed that the best of mankind will join in the [[War for Heaven]]{{book ref|sa1|59}} and leading men{{book ref|sa3|105}} or fighting against the Voidbringers.{{book ref|sa1|15}} The Unmade were said to be the princes of the Voidbringers,{{book ref|sa3|32}} able to blind the eyes of men and mislead them.{{book ref|sa3|16}} The Voidbringers are also said to flay souls in Damnation, torturing people for eternity.{{book ref|sa3|41}}
+
+In modern Vorinism, the Voidbringers have been relegated to a less prominent place in the theology, as they are associated with the Lost Radiants and the failings of Vorinism.{{book ref|sa1|45}} The Vorin church rejects the tales of the [[False Desolation]], claiming that no Voidbringers survived on Roshar following the Aharietiam.{{book ref|sa3|56}} Even still, precognition or fortune-telling is still considered to be related to the [[Voidbringers]]{{book ref|sa2|8}}{{epigraph ref|sa2|5}} and [[Voidbinding]],{{book ref|sa1|18}} and forbidden in Vorin society.{{book ref|sa1|i|6}} In fact, the return of the Voidbringers has made the church suspicious of all Radiants and Surgebinding, fearful that their powers come from the Voidbringer.{{book ref|sa3|50}}
+
+====Stone Shamanism====
+
+Little is known about the beliefs of the Shamanate on the Voidbringers. They say that the Voidbringers could hold Stormlight in perfectly, unlike humans.{{book ref|sa1|prologue}} The Stone Shamans hold that the Voidbringers do not exist anymore. Szeth's claims that the Voidbringers had returned were apparently serious enough to lead to his banishment from Shin society.{{book ref|sa2|i|10}}
+
+### Scholarship
+{{sidequote
+| The Voidbringers had a natural, real-world correlate, I'm certain of it. Something caused the legends.
+| [[Jasnah Kholin]] to [[Shallan]]{{book ref|sa1|72}}
+|side=right|size=300px|
+}}
+The well educated don't believe in the Voidbringers oftentimes.{{book ref|sa1|10}} They are considered to be little more than myths to most scholars, similar to the [[deathspren]].{{book ref|sa1|45}} Many consider all the tales and folklore to be nonsensical and what few serious histories exist are often self-contradictory and vague, as the Desolations occurred during prehistory.{{book ref|sa1|45}} Some fringe scholars might believe in the Voidbringers, but most respected scholars believe them fabrications{{book ref|sa1|72}} constructed by the Lost Radiants as a justification for their power.{{book ref|sa1|42}} Folklorists are the only ones who make a serious study of the Voidbringers.{{book ref|sa1|61}} [[Jasnah Kholin]] began a study into the Voidbringers,{{book ref|sa1|45}} traveling to various libraries across Roshar searching for information on them.{{book ref|sa1|28}} She developed a hypothesis that the Voidbringers and the parshmen were one and the same before the arrival of the Everstorm.{{book ref|sa1|72}} While Jasnah was trapped in Shadesmar and presumed dead, her ward, [[Shallan Davar]], managed to convince at least some of the Alethi on the Shattered Plains of Jasnah's beliefs.{{book ref|sa2|77}}{{book ref|sa2|78}} Jasnah was ultimately proved at least partially correct,{{book ref|sa2|87}} although she had not anticipated the existence of the Fused.
+
+### Secret Societies
+The Voidbringers were important to several different secret societies on Roshar. The [[Ghostbloods]] had anticipated that the Voidbringers would return{{book ref|sa3|40}} and are trying to control the situation to their advantage somehow.{{book ref|sa3|22}} The [[Order of Skybreakers|Skybreakers]] also predicted that the Voidbringers would return.{{book ref|sa3|40}} They maintained a clandestine presence after the Recreance, hunting down nascent Radiants as [[Nale]] believed that they could somehow cause the Voidbringers to return. The [[Sons of Honor]] worked specifically for the return of the Voidbringers, believing that their return would return the Heralds and restore the Knights Radiant and Vorin church to dominance. The [[Envisagers]] believed that the return of the Voidbringers would return the Radiants as well, but they also tried to manifest Surgebinding by putting themselves in life-threatening danger.{{book ref|sa2|71}}
+
+## Trivia
+*[[Pattern]] says that the Voidbringers lack a pattern.{{book ref|sa3|81}} It is uncertain what he meant by this. This may be reference to humans being the true Voidbringers, as they do not have marble patterns on their skin such as that of the singers.
+*While humans are not technically considered to be Voidbringers by the modern day definition, they have fought on the side of the Voidbringers in both the past Desolations{{book ref|sa3|38}} and the current Desolation.{{book ref|sa3|16}}
+
+## Notes
+<references />
+{{partial}}
+{{demoted|sa4|exemplary=yes}}
+{{Stormlight}}

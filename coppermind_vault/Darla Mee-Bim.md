@@ -1,0 +1,12 @@
+---
+world: "Detritus"
+universe: "Cytoverse"
+introduced: "Skyward"
+---
+
+**Darla Mee-Bim** was an applicant for the Defiant Defence Force (DDF) Flight School, and was seated next to [[Spensa]] for the entrance exam. During the exam, Spensa peaked at Darla's test, discovering that the other girl was doing an exam entirely different to her own. While Darla's test contained questions regarding flight maneuvers, Spensa's exam was on sewage and ventilation.{{book ref|Skyward|5}}
+
+## Notes
+<references />
+{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 06:22, 29 January 2019 (MST)}}
+{{Skyward}}

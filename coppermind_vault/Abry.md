@@ -1,0 +1,16 @@
+---
+groups: "{{tag+|army|Amaram's"
+---
+
+|world=Roshar|nation=Alethkar|residence=Hearthstone
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+**Abry** was a boy in [[Hearthstone]].{{book ref|sa1|44}}
+
+He volunteered for [[Amaram]]'s army with [[Jost]].
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:54, 3 September 2016 (MST)}}
+{{Stormlight}}

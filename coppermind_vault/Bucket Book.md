@@ -1,0 +1,29 @@
+---
+owner: "Jax (Reckoners){{!"
+---
+
+Jax<!--Yes, keep that odd formatting, it's necessary since the template automatically generates a link-->
+|earth=Reckoners
+|books=[[The Reckoners]]
+}}
+{{update|lux}}
+{{quote
+|After all, the Bucket Book was sacred. A ledger of true excellence. A list of impossible feats that saluted both Hershel and me in notarized record. 
+|Jax{{book ref|lux|1}}
+}}
+The **Bucket Book** is a book of several hundred challenges that [[Jax (Reckoners)|Jax]] and [[Hershel]] are racing to complete. Each time one of the two completes a challenge, they write their initials next to it, and get a point. They are both competing to have the most points. The small notebook has a worn black cover, and the lettering is barely legible.{{book ref|lux|1}}
+
+## Challenges
+*<nowiki>#7: Throw a person a distance of over 9 feet.</nowiki>{{book ref|lux|1}}
+*<nowiki>#31: Break the sound barrier without use of vehicular power.</nowiki>{{book ref|lux|1}}
+*<nowiki>#97: Take down a bear without using a bullet or blade.</nowiki>{{book ref|lux|1}}
+*<nowiki>#111: Rip a phone book in half.</nowiki>{{book ref|lux|1}}
+*<nowiki>#170: Evel Knievel your way through a window without splattering against a wall.</nowiki>{{book ref|Lux|31}}
+*<nowiki>#171: Make it back alive.</nowiki>{{book ref|Lux|31}}
+
+
+
+## Notes
+<references />
+{{partial}}
+{{Reckoners}}

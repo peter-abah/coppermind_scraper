@@ -1,0 +1,44 @@
+---
+profession: "{{cat tag|Soldiers|Soldier"
+---
+
+<small>(Sergeant and personal guard)</small>
+|groups={{tag+|army|Amaram's}}
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+{{quote
+|Kaladin could thank Hav for that, for training him to think in terms of 'us' and 'them.' ... Protect the 'us,' destroy the 'them.' A soldier had to think like that.
+|Kaladin while watching a fight between Alethi soldiers and Parshendi{{book ref|sa1|57}}
+}}
+**Hav** is a soldier in Highlord [[Meridas Amaram]]'s personal guard on the [[Shattered Plains]] of [[Roshar]].{{book ref|sa2|52}} He played a major part in the training of [[Kaladin]] when he first became a spearman.{{book ref|sa1|57}}
+
+## Appearance and Personality
+Hav is a solid-looking man. He has a thick, wide nose, and a graying beard. He often wears the uniform of a soldier in Amaram's army, including a traditional [[takama]].{{book ref|sa2|52}}
+
+Hav is an excellent teacher who is able to instill crucial lessons about survival as a soldier, such as the importance of mentally dividing the battlefield into friend and foe, and not worrying about those that were not your friends.{{book ref|sa1|57}} He believes that guard duty is one of the most respectable assignments a soldier can perform.{{book ref|sa2|16}} Hav is also very protective, sometimes overly so; he attempted to create a secure perimeter around Amaram's manor, a nearly impossible task without walls.{{book ref|sa2|52}}
+
+## History
+### Skirmishes in Alethkar
+{{sidequote|side=right|size=300px
+|Panic on the battlefield kills more men than enemy spears. Never run. Always retreat.
+|Hav, as recalled by Kaladin{{book ref|sa4|70}}
+}}
+Nothing is known about Hav's early life. At some point he joined the army, becoming a soldier under then-Highmarshal [[Meridas Amaram]].{{book ref|sa2|44}} Hav rose to the rank of sergeant at some point there. At least one of his responsibilities was receiving and training new recruits to Amaram's forces. In {{Rosharan date|1168}}, after [[Tien]] and Kaladin were recruited by Amaram, they were sent to speak with Sergeant Hav to begin their training.
+
+Hav trained Kaladin during the early part of his military career. Hav's training was physically demanding,{{book ref|sa4|9}} and he taught Kaladin close-combat fighting techniques such as how to throw a punch and how to grab your enemy's spear.{{book ref|sa3|6}}{{book ref|sa4|59}} He also taught Kaladin about the mental component of being a soldier and a leader. He trained him to stick with a decision that he made and not second guess himself.{{book ref|sa1|21}}{{book ref|sa4|15}} He emphasized the need for unity among a squad, noting that soldiers who march together find it easier to fight together.{{book ref|sa3|10}} He also trained Kaladin to think of soldiers in terms of "us" and "them", protecting his side and killing the enemy.{{book ref|sa1|57}} Using this technique to divide his mind helped Kaladin handle the difficult adjustment to fighting in battles that often had no clearly righteous side.
+
+### Life on the Shattered Plains
+Late in the year {{Rosharan date|1173}}, Hav accompanied Amaram to the Shattered Plains as a member of his personal guard.{{book ref|sa2|52}} Amaram moved into a temporary dwelling, and Hav tried to set up a secured perimeter around the building. When [[Shallan Davar]] attempted to sneak into Amaram's home in the guise of a messenger to do reconnaissance for the [[Ghostbloods]], Hav stopped her at the boundary, but she managed to talk her way onto the grounds. While pretending to be the maid [[Telesh]], Shallan sent Amaram out to speak with Hav, who she claimed had stopped the messenger. Hav was confused by this, as he had let the messenger pass.{{book ref|sa2|52}}
+
+## Legacy
+Hav's lessons made a strong impact on Kaladin. He often reflected upon the things he had learned from Hav as a recruit, throughout his enslavement and his path to becoming a [[Knights Radiant|Knight Radiant]].{{book ref|sa1|21}}{{book ref|sa3|10}} The wisdom that he gained from Hav's counsel helped Kaladin continue with his course of saving the men of [[Bridge Four]]{{book ref|sa1|21}} and come to the conclusion that he needed to rescue [[Dalinar Kholin]] and his men after their betrayal in the [[Battle of the Tower]].{{book ref|sa1|67}} When Kaladin punched [[Roshone]] for [[Moash]], he remembered Hav teaching him the proper technique.{{book ref|sa3|6}} After leaving [[Hearthstone]], he reminisced about Hav's methods of teaching a squad to march&mdash;shouting commands from the back and helping anyone that was struggling.{{book ref|sa3|10}} Even as the years pass by, Kaladin continues to hear Hav's voice in his head, giving him advice.{{book ref|sa3|10}}{{book ref|sa4|70}}
+
+Kaladin sometimes thinks of Hav himself, wondering what became of him. He believes that Hav would be proud of him.{{book ref|sa2|15}} Hav's fate is unclear, as he is not mentioned during Amaram's last stand at the [[Battle of Thaylen Field]].
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:50, 8 September 2023 (UTC)}}
+{{Stormlight}}

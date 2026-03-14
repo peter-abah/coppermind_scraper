@@ -1,0 +1,18 @@
+## Official Artwork
+<gallery mode=packed heights=300px>
+AU Shadows for Silence.jpeg| <small><center>by {{a|Ben McSweeney}}</center></small> [[Silence Montane]] in the Forests of Hell, *[[Arcanum Unbounded]]* interior art
+Forests of Hell by Geoff Shupe.jpg | <small><center>by {{a|Geoff Shupe}}</center></small> Year of the Sanderson postcard
+Shadows Subterrean cover.jpg | <small><center>by Tom Kidd</center></small> Press edition of *[[Shadows for Silence]]*
+
+</gallery>
+
+## Fanworks
+<gallery mode=packed heights=200px>
+Shadows for Silence by esamitch.jpg| <small><center>by {{a|esamitch}}</center></small>
+Silence Shuravf.jpg| <small><center>by {{a|Shuravf}}</center></small> [[Silence Montane]] walking with [[William Ann Montane]] through the [[Forests of Hell]]
+Silence by Connor Chamberlain.jpg| <small><center>by {{a|Connor Chamberlain}}</center></small> [[Silence Montane]] in the Forests of Hell
+Forests of Hell by Marie Seeberger.jpg| <small><center>by {{a|Marie Seeberger}}</center></small>[[Silence Montane|Silence]] and [[William Ann Montane|William Ann]] in the Forests of Hell
+</gallery>
+
+[[Category:Gallery Subpages]]
+[[es:Bosques del infierno/Galería]]

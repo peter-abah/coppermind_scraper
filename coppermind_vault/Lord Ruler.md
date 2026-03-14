@@ -1,0 +1,2 @@
+#REDIRECT [[Rashek]]
+[[Category: Aliases]]

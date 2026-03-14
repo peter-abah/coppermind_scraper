@@ -1,0 +1,2 @@
+#REDIRECT [[Allomancy]]
+[[category: terminology]]

@@ -1,0 +1,26 @@
+---
+ethnicity: "Threnodite"
+'residence: "Beacon"
+world: "Canticle"
+universe: "Cosmere"
+introduced: "The Sunlit Man"
+---
+
+{{quote|You blessed fool, we’re all a group of blessed fools.|Hardy upon learning mission details{{book ref|tsm|33}}}}
+**Hardy** is a resident of [[Beacon]] on [[Canticle]] and one of four members of [[Zeal]]'s special operations team. Along with the other team members, Hardy typically performs the missions' fieldwork while Zeal organizes the team and runs the operations.{{book ref|tsm|33}}
+
+==Appearance and Personality==
+Hardy is a large, beefy man and like the other members of Zeal's team has a more rough and tumble appearance than the other Beaconites. He wears thick work gloves, overalls made of a course cloth, and a long coat. His clothing is made of a huge amount of leather which is likely to have been made from a great many of the planet's gazelle-like [[Canticle#Ecology|beasts]].{{book ref|tsm|33}}
+Hardy's speech patterns are notably courser than most other Beaconites. He frequently uses the word "blessed" as a curse which [[Nomad]] attributes to a linguistic necessity of living in a conservative religious society.{{book ref|tsm|33}}
+
+He has an affable and easygoing personality and is willing to put himself in great peril for the sake of his people even without knowing the full details of the mission.{{book ref|tsm|33}}
+
+==History==
+Hardy likely participated in the mission to steal the [[Haridan's authorization key|authorization key]] from the [[Cinder King]]'s vessel during the raid on [[Union]].{{book ref|tsm|8}} After crash landing on the far side of the mountains, Zeal requests to the [[Greater Good]] that his team perform a raid to steal [[sunheart]]s to power their escape.{{book ref|tsm|32}}
+
+Accompanying Zeal, Nomad, [[Rebeke]], and [[Elegy]] on the *[[Dawnchaser]]*, Hardy jovially questions Zeal about the details of the mission to enter the [[Canticle#Climate and Weather|great maelstrom]] and collect the buried sunhearts before the Cinder King. Though Zeal tells him that he and the rest of the team will be digging the sunhearts up by hand, Nomad jumps in to say that only Nomad will be going out in the maelstrom and that Zeal's team is only there because Zeal insisted they be present to provide backup.{{book ref|tsm|33}} After Nomad exits the ship, Hardy becomes incapacitated from the intense heat, either falling unconscious or becoming violently sick.{{book ref|tsm|36}}
+
+## Notes
+<references />
+{{complete}}
+{{Sunlit Man}}

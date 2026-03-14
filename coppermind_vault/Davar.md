@@ -1,0 +1,17 @@
+{{disambig}}
+
+**[[House Davar]]** is a small lighteyed [[Veden]] family living in the [[Valam princedom]] of [[Jah Keved]].
+
+## Characters
+* [[Balat Davar]] - second son, engaged to [[Eylita Tavinar]], kills [[cremling]]s for pleasure
+* [[Helaran Davar]] - estranged eldest son
+* [[Jushu Davar]] - fourth son, obsessive gambler
+* [[Lin Davar]] - father and head of the household
+* [[Shallan Davar]] - youngest child and only daughter of Lin and his late first wife
+* [[Wikim Davar]] - third son, intellectual
+
+## Places
+* Davar estate - some land with various mines which were augmented using [[soulcaster]]s
+* Davar manor - the main family home
+
+[[Category: Family names]]

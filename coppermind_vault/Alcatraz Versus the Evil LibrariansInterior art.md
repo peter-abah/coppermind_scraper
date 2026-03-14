@@ -1,0 +1,22 @@
+{{InteriorArtToC|alcatraz}}
+
+This is a gallery of interior art for *[[Alcatraz Versus the Evil Librarians]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
+
+<gallery widths=3000px heights=300px mode="packed" caption="Maps">
+Free Kingdoms World Map.jpg | <center><small>by [[Isaac Stewart]]</small></center> The [[Free Kingdoms]]
+</gallery>
+
+<gallery widths=3000px heights=300px mode="packed" caption="Other artwork">
+Bastille smacking Alcatraz.jpeg | <center><small>by {{a|Hayley Lazo}}</small></center> [[Bastille]] smacking [[Alcatraz]]
+Futhark Wheel.png | <center><small>by {{a|Hayley Lazo}}</small></center> The Futhark Wheel of [[Smedry Talent]]s
+So there I was . . ..jpeg | <center><small>by {{a|Hayley Lazo}}</small></center> [[Alcatraz]] on the Librarian altar
+Dinosaurs.jpeg | <center><small>by {{a|Hayley Lazo}}</small></center> Dinosaurs
+Alcatraz1 Interior Art ch14.jpg | <center><small>by {{a|Hayley Lazo}}</small></center> [[Bastille]]
+Alcatraz1 Interior Art 1.jpg | <center><small>by {{a|Hayley Lazo}}</small></center> Chapter 3
+Alcatraz1 Interior Art 2.jpg | <center><small>by {{a|Hayley Lazo}}</small></center> Chapter 7
+Alcatraz1 Interior Art 3.jpg | <center><small>by {{a|Hayley Lazo}}</small></center> Chapter 8
+Alcatraz1 Interior Art 4.jpg | <center><small>by {{a|Hayley Lazo}}</small></center> Chapter 10
+Alcatraz1 Interior Art ch15.jpg | <center><small>by {{a|Hayley Lazo}}</small></center> Chapter 15
+</gallery> 
+
+[[Category:Interior art]]

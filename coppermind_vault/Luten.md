@@ -1,0 +1,15 @@
+---
+residence: "Hearthstone"
+world: "Roshar"
+universe: "Cosmere"
+introduced: "The Way of Kings"
+---
+
+**Luten** is a resident of [[Hearthstone]] on [[Roshar]].{{book ref|sa1|31}}
+
+He, [[Horl]], [[Balsas]] and others try to forcefully persuade [[Lirin]] to hand over the spheres he got from Brightlord [[Wistiow]]. His leg had previously been saved through surgery by [[Lirin]]. He had a limp after his surgery. 
+ 
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:28, 11 September 2018 (MST)}}
+{{Stormlight}}

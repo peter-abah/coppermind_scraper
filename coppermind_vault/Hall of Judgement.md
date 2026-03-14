@@ -1,0 +1,1 @@
+#REDIRECT [[Hall of Judgment]]

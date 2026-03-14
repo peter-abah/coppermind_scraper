@@ -1,0 +1,24 @@
+{{book
+|released=April 1st, 1994 (submitted to a contest)
+|word-count=2068
+}}
+{{quote
+|I have posted the story here unedited, exactly as I sent it to the judges at the convention. I actually took first place in the student division of the contest. That awards ceremony, held in a sparsely-attended hotel conference room, was one of the proudest moments of my youth. It was one of the first times I can remember thinking “Wow. Maybe I CAN do this!”
+|[[Brandon Sanderson]]{{bws ref|Centrifugal|Centrifugal|date=April 1st, 1994}}
+}}
+
+**Centrifugal** Is a short story that [[Brandon]] wrote for a contest when he was a senior in high school. It is available for free on his [[bws:Centrifugal|website]].
+
+## Summary
+Laros Mezprique discovered a red supergiant star only a fraction of a lightyear away from Earth and created a plan to harness its energy in the future when it was projected to go supernova. Joshua Shorton purchased rights to the star, cut Laros out of the project, and began implementing the plan himself, which became know as the Shorton Project. Laros went on to study genetics and implemented a revenge plan involving someone named Jammer Alistes.
+
+Three thousand years later, the project nears completion. Joshua's descendant Emil Shorton gloats to Mront, who disagrees with the project, in the final minutes before supernova.
+
+Meanwhile, Ronald/Robert Alistes (Presumable a descendant of Jammer) is full of adrenaline, unable to feel pain, and compelled to break into the Shorton Project base. Sergeant Forec and a computer technician notice Alistes, but decide to leave him, figuring that he would be stopped by the DNA scan and then drop dead from the adrenaline.
+
+Alistes fools the DNA scan, giving him access to a diamond that focus energy from the shields. Alistes throws himself into the energy flow. He dies, but manages to damage the system enough for the shields to fail. The star then goes supernova and destroys the entire base. The Shorton family is left in massive debt from the failed project.
+
+## Notes
+<references/>
+{{meta/partial}}
+{{books}}

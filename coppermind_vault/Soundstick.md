@@ -1,0 +1,24 @@
+---
+type: "{{cat tag|Weapons|Weapon"
+---
+
+|function=[[Hazekiller]]
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+{{quote
+|A **crack** sounded behind her. Vin cried out, her tin-enhanced ears overreacting to the sudden sound. Pain shot through her head, and she raised hands to her ears.
+|[[Vin]] after someone uses soundsticks{{book ref|mb2|2}}
+}}
+**Soundsticks** are wooden sticks that, when banged together, produce a loud noise. They are used to overload the senses of a [[Tin#Allomantic Use|Tineye]] or [[Allomancy|Mistborn]] burning [[tin]].{{book ref|mb2|2}}
+
+A [[Smoker]] uses soundsticks to overload [[Vin]]'s tin-enhanced hearing during her fight with [[Ashweather Cett]]'s assassins. After [[Zane|the Watcher]] kills the Smoker, Vin uses the soundsticks to fight off a group of [[Pewter#Allomantic Use|Thugs]].{{book ref|mb2|2}}
+
+## Trivia
+Years before *[[The Well of Ascension]]* was published, a member of [[Brandon Sanderson|Brandon]]'s writing group suggested the idea of soundsticks to him. Brandon loved the idea, as it plays off the benefit Mistborn get from burning tin and fits well with the concept of actions and reaction in [[Allomancy]].{{wob ref|2581}}
+
+## Notes
+<references/>
+{{complete|--[[User:Stargazer|Stargazer]] ([[User talk:Stargazer|talk]]) 17:35, 16 March 2020 (UTC)}}
+{{Mistborn|Era 1}}

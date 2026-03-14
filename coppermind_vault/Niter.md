@@ -1,0 +1,43 @@
+---
+died: "Battle of the Tower, {{rosharan date|1173"
+---
+
+{{book ref|sa2|18}}
+|titles=Head of the Cobalt Guard
+|#profession=soldier
+|groups={{tag|Cobalt Guard}}
+|residence=Alethi warcamps
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+**Niter** is the head of the [[Cobalt Guard]] in [[Alethkar]] on [[Roshar]] during the [[War of Reckoning]].{{book ref|sa1|28}}
+
+==Appearance and Personality==
+Niter is a tan-skinned [[lighteyes]], and he wears a short black beard.{{book ref|sa1|28}} He presumably wears the dark blue uniform of the Cobalt Guard.{{book ref|sa1|18}} He is naturally suspicious, although [[Dalinar]] notes that this is not a bad trait in a bodyguard. He is excited by the prospect of watching a [[Shardbearer]] in action.{{book ref|sa1|28}} [[Zahel]] thought of him as a good man.{{book ref|sa2|18}}
+
+==Attributes and Abilities==
+Although Niter is lighteyed, he is of a low [[dahn]]. He served the Cobalt Guard for years, presumably working his way up to become their captain.{{book ref|sa1|28}} He is personally acquainted with the leadership of [[House Kholin]] on the [[Shattered Plains]] including Dalinar and [[Adolin]], who hold him in high regard.{{book ref|sa1|28}}{{book ref|sa3|9}} He is also friends with Zahel and likely worked with him often due to the Cobalt Guard's training in swordsmanship.{{book ref|sa2|18}}{{book ref|sa1|18}}
+
+==History==
+It is not known when Niter became head of the Cobalt Guard, but he was part of the group for a number of years.{{book ref|sa1|28}} The Guard was well-run under his leadership; the members were exceptionally brave and loyal.{{book ref|sa1|68}}{{book ref|sa2|16}}
+
+He was present when the Kholins received a messenger from Highprince [[Thanadal]] declining a meeting with Dalinar. Niter personally helped intercept the messenger and had the Cobalt Guard clear a space around Dalinar and Adolin so that they could discuss the message. Dalinar then asked Niter to retrieve his [[Shardhammer]] and Niter seemed to think that he was going to do something impressive with it. Dalinar thought Niter would probably be disappointed since he planned to use the hammer to dig a latrine ditch.{{book ref|sa1|28}}
+
+Prior to the [[Battle of the Tower]], Niter and the Cobalt Guard helped Adolin prepare for the battle. They brought him his [[Ryshadium]], [[Sureblood]].{{book ref|sa1|64}} Niter presumably died during the battle, as most of the Cobalt Guardsmen were killed fighting alongside Dalinar and Adolin after Sadeas's betrayal.{{book ref|sa1|64}} Zahel later said that he died keeping the Kholin men alive.{{book ref|sa2|18}}
+
+Niter was succeeded as head of the Cobalt Guard by [[Kaladin]],{{book ref|sa2|18}} who had great respect for the Guard and integrated the few surviving members with [[Bridge Four]].{{book ref|sa2|16}} 
+
+Dalinar mentioned that Niter was among the few people he would have trusted to investigate the murders of [[Torol Sadeas]] and [[Vedekar Perel]] in [[Urithiru]] if he were still alive.{{book ref|sa3|9}}
+
+## Notes
+{{holder
+|title=Head of the [[Cobalt Guard]]
+|prev=*Unknown*
+|this=until {{rosharan date|1173}}
+|next=[[Kaladin]]
+}}
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 18:28, 24 August 2020 (UTC)}}
+{{Stormlight}}

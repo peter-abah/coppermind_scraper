@@ -1,0 +1,14 @@
+{{lifeform
+|sapient=Yes
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+
+The **cormax drones** are a species or peoples known to the [[Superiority]].{{book ref|sky2|29}}
+
+Next to nothing is known about them, other than that they're highly aggressive, but not as capable as humans, and that they do not produce many [[cytonics]].{{book ref|sky2|29}} The manner in which they're referred to -- "*a* cormax drone" -- suggests that drones may be a caste or a group within some greater cormax species, similar to some bug populations, and their aggression may be due to protecting other cormax; however, this is purely speculative.
+
+## Notes
+<references />
+{{complete|[[User:Rasarr|Rasarr]] ([[User talk:Rasarr|talk]]) 02:18, 20 February 2020 (UTC)}}
+{{Skyward}}

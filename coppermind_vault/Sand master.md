@@ -1,0 +1,5 @@
+{{Template:disambig}}
+
+The term **sand master** may refer to two distinct concepts on [[Taldain]]:
+*[[Sand mastery]] - A manifestation of Investiture that allows its user to telekinetically control glowing ribbons of sand.
+*[[Diem]] - The [[Lossand]]in organization of sand masters on the Dayside of Taldain, one of the eight recognized Professions.

@@ -1,0 +1,19 @@
+{{business
+|image=Basin Bill.jpeg
+|owner=[[Basin Bill]]
+|services=Tavern, theater
+|city=[[New Seran]]
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+{{quote
+|Hundreds of cities were lost at the Final Ascension. Magical Artifacts, Riches, and Fame can be yours! Apply in person at Basin Bill's Old Time Pub & Playhouse.
+|Advertisement in *[[The New Ascendancy]]* {{file ref|New_Ascendancy_broadsheet.jpg|*The New Ascendancy* broadsheet}}
+}}
+**Basin Bill's Old Time Pub & Playhouse** is a business in [[New Seran]] on [[Scadrial]]. It is owned by [[Basin Bill]]. In addition to its presumed functions as a tavern and theater, it also appears to serve as the headquarters of a treasure hunting operation run by Bill.{{file ref|New_Ascendancy_broadsheet.jpg|*The New Ascendancy* broadsheet}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:38, 19 August 2022 (UTC)}}
+{{Mistborn|Era 2}}

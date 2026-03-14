@@ -1,0 +1,2 @@
+#REDIRECT [[Austrism]]
+[[Category: Characters]]

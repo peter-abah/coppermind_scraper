@@ -1,0 +1,15 @@
+## Official Artwork
+<gallery mode="packed" heights=300px caption="Official artwork">
+Axehound by Shallan.jpg| <small><center>by {{a|Ben McSweeney}}</center></small>From *[[Shallan's sketchbook]]*
+</gallery>
+
+## Fanworks
+<gallery mode="packed" heights=250px caption="Fanworks">
+AisForAxehound.png| <small><center>by [[User: KalynaAnne|KalynaAnne]]</center></small>
+Axehounds by Abigail Barker.jpg| <small><center>by {{a|Abigail Barker}}</center></small>
+Axehound by Marianne Eie.jpg| <small><center>by {{a|Marianne Eie}}</center></small>
+Axehounds by Eccos.jpg| <small><center>by {{a|EccoS}}</center></small>
+Axehounds by Jennifer Mellen.jpg| <small><center>by {{a|Jennifer Mellen}}</center></small>
+</gallery>
+
+[[Category:Gallery Subpages]]

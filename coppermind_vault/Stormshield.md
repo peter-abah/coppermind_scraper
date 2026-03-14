@@ -1,0 +1,16 @@
+---
+type: "{{cat tag|Weapons"
+---
+
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Stormlight Archive]]
+}}
+A **stormshield** is a large shield used by the [[listener]]s on [[Roshar]].{{book ref|Sa4|88}} Stormshields are designed to protect their carrier from a [[highstorm]], although they don’t always succeed in this task.{{book ref|WoR|i|5}}
+
+[[Eshonai]], along with a number of other listeners, prefers to have a stormshield with her when she goes out into a highstorm.{{book ref|Sa4|88}} Eshonai secures the stormshield on her back while jumping chasms, then unhooks it when a highstorm arrives.{{book ref|sa2|i|5}}
+
+## Notes 
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 05:29, 15 October 2024 (UTC)}}
+{{stormlight}}

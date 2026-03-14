@@ -1,0 +1,15 @@
+---
+world: "Sel"
+universe: "Cosmere"
+books: "The Emperor's Soul"
+---
+
+**Chamrav** is an artisan of renown in the [[Rose Empire]] on [[Sel]].{{tes ref|12}}
+
+[[Gaotona]] mistook [[Wan ShaiLu]]'s [[Forgery]] of a table to be an imitation of Chamrav's work.
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 11:21, 12 June 2016 (MST)}}
+{{The Emperor's Soul}}
+[[es:Chamrav]]

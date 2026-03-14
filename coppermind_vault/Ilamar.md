@@ -1,0 +1,28 @@
+---
+died: "{{Rosharan date|1173|9|6|4"
+---
+
+, [[Battle of the Tower]]{{book ref|sa2|37}}
+|titles=Cavalrylord in {{tag+|army|Kholin}}
+|groups={{tag+|army|Kholin}}
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+**Ilamar** is the cavalrylord for [[Highprince]] [[Dalinar Kholin]]'s army on [[Roshar]].{{book ref|sa1|26}}
+
+## Appearance and Personality
+Ilamar is a [[lighteyed]] [[Alethi]] man; however, the red patches in his otherwise dark hair and his long red moustache imply some [[Veden]] or [[Unkalaki]] heritage as well. He has a squat and compact frame.{{book ref|sa1|26}} [[Dalinar Kholin]] considers him both a good soldier and a good friend.{{book ref|sa2|37}}
+
+## History
+Around {{Rosharan date|1145}}, in [[Gavilar Kholin]]'s decisive battle against [[Highprince]] [[Kalanor]], Ilamar and his group of fifty cavalrymen fought armed with hooks and ropes for attacking enemy [[Shardbearer]]s.{{book ref|sa3|26}}
+
+In {{Rosharan date|1173}}, Ilamar continued to lead the cavalry during the [[War of Reckoning]]. He notified Dalinar that the cavalry was ready to head onto the [[Shattered Plains]] in pursuit of a [[gemheart]], but [[Torol Sadeas]] delayed the excursion, demanding to enter the Kholin warcamp to investigate an assassination attempt on the [[Elhokar Kholin|king]]. Once at the location of the gemheart, Ilamar waited for Dalinar and [[Adolin]] to clear a plateau of [[Parshendi]] before he led the cavalry across on bridges.{{book ref|sa1|26}}
+
+Dalinar conferred with Ilamar and [[Teleb]] on the battlefield about a month later before assaulting the [[Tower (Roshar)|Tower]].{{book ref|sa1|64}} Ilamar died during the [[Battle of the Tower]] along with [[Havar]], [[Perethom]], and six thousand more members of Kholin army.{{book ref|sa2|37}}
+
+## Notes
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 01:13, 18 October 2023 (UTC)}}
+{{Stormlight}}

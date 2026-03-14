@@ -1,0 +1,16 @@
+---
+#profession: "Sailor"
+nation: "Thaylenah"
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+**Nlan** is a [[Thaylen]] sailor on [[Roshar]] employed as a cook on the *[[Wandersail (1174_ship)|Wandersail]]*.{{book ref|sa3.5|4}}
+
+He was one of three crewmembers that accepted [[Rysn]]'s offer to stay ashore during the [[expedition to Akinah]]. [[Cord]] replaced him as the ship's cook during the expedition.{{book ref|sa3.5|4}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:23, 26 July 2021 (UTC)}}
+{{Stormlight}}

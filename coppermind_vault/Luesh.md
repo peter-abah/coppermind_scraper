@@ -1,0 +1,27 @@
+---
+abilities: "Soulcasting (fabrial){{book ref|sa1|7"
+---
+
+|groups={{tag|Ghostbloods}}
+|died={{Rosharan date|1173|missing-date=y}}{{book ref|sa1|29}}
+|nation=Jah Keved
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+**Luesh** is a steward of [[House Davar]] in [[Jah Keved]] on [[Roshar]].{{book ref|sa1|7}} He is a member of the [[Ghostbloods]].{{book ref|sa1|74}} 
+
+==Appearance and Personality==
+He has a wrinkled, leathery face with well-worn frown lines.{{book ref|sa2|61}} He is able to gain the trust of the Davar children despite secretly deceiving them.{{book ref|sa1|74}} 
+
+==History==
+Luesh joined the Davar household circa {{Rosharan date|1172|missing-date=y}}, and he quickly became a confidant of [[Lin Davar]].{{book ref|sa2|61}} Although he denied it, Luesh was presumably the person who gave Lin [[Davar Soulcaster|an illicit Soulcaster]] [[fabrial]].{{book ref|sa1|29}} Luesh was trained to use the Soulcaster; he and Lin worked with a surveyor to create artificial marble deposits on Davar land,{{book ref|sa1|7}} significantly improving the family's previously dire financial situation.{{book ref|sa2|39}} Lin was able to leverage the restored name of House Davar to gain political influence in the [[Valam princedom]],{{book ref|sa2|61}} likely positioning himself to become [[highprince]].{{book ref|sa1|29}} 
+
+After Lin's death, the Davar children found the Soulcaster, which had been broken in a scuffle.{{book ref|sa1|5}} The family tried to have the fabrial repaired, but Luesh could not make it function.{{book ref|sa1|7}} Desperate for money, [[Shallan]] soon devised a plan to steal [[Jasnah's Soulcaster|Jasnah Kholin's Soulcaster]].{{book ref|sa1|29}} After she set out on her journey, [[Balat]] and [[Eylita]] informed her that Luesh died in his sleep, and that a pendant with a distinctive symbol was found on his body.{{book ref|sa1|29}} Furthermore, a group of individuals visited the Davar estate&mdash;one of whom had a tattoo of the same symbol on his hand&mdash;professing knowledge of the Soulcaster and demanding that it be returned, intensifying the need for Shallan to steal Jasnah's fabrial.{{book ref|sa1|29}} Balat concluded that Luesh was a plant all along, and that he acted as a liaison between Lin and his mysterious backers.{{book ref|sa1|29}}
+
+Shallan learned that [[Kabsal]] had the same symbol tattooed on his arm, implying that he and Luesh belonged to the same organization; Jasnah believed it to be named the [[Ghostbloods]]. Shallan worried that her father was also a member.{{book ref|sa1|74}} She later confirmed the existence of the Ghostbloods after meeting [[Mraize]].{{book ref|sa2|43}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:17, 30 July 2019 (UTC)}}
+{{Stormlight}}

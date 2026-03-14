@@ -1,0 +1,36 @@
+## Official artwork
+<gallery mode="packed" heights=200px name="Official Artwork">
+TWoK US Cover art.jpg | <center><small>by {{a|Michael Whelan}}</small></center> On *[[The Way of Kings]]* cover
+GA - WoK5 - Eshonai by Alex Allen.jpg | <center><small>by {{a|Alex Allen}}</small></center> On the cover of part 5 of *[[The Way of Kings]]* Graphic Audio adaptation
+Eshonai Chapters.svg | <center><small>by {{a|Isaac Stewart}}</small></center> In her chapter header
+Eshonai and Venli Flashback Chapters.svg | <center><small>by {{a|Isaac Stewart}}</small></center> In her and [[Venli]]'s flashback chapter header
+Call to Adventure - Eshonai.jpg | <center><small>by {{a|Antti Hakosaari}}</small></center> *Horizon Seeker*, *[[Call to Adventure: The Stormlight Archive]]*
+WoR FR Part 1 cover.jpg | <center><small>artist unknown</small></center> On the French cover for *[[Words of Radiance]] part 1*
+Eshonai - XIII. Death.jpg| <center><small>by {{a|taratjah}}</small></center> In her [[Shardplate]] on the Tarot card **Death**
+WoKPlaymat.png | <center><small>by {{a|Jian Guo}}</small></center> Way of Kings Playmat
+Eshonai Card.jpg | <center><small>by {{a|Rebecca Sorge Jensen}}</small><center> Eshonai Card from the Stormlight Archive Playing Card Deck
+Eshonai WOKLB Sticker.jpg| <center><small>by {{a|Ben McSweeney}}</small></center> Eshonai sticker from *[[The Way of Kings]]* leatherbound Kickstarter
+Eshonai Miniature.png| <center><small>by {{a|Isaac Stewart}}</small></center> Eshonai Miniature from the Stormlight Premium Miniatures Kickstarter
+</gallery>
+
+## Portraits
+<gallery mode="packed" heights=200px name="Portraits">
+Eshonai portrait large.png | <center><small>by {{a|Exmakina}}</small></center> 
+Character sketch eshonai.jpg | <center><small>by {{a|Sheep}}</small></center>
+Eshonai color.jpg | <center><small>by {{a|Sheep}}</small></center> With [[Shardplate|Plate]] and [[Shardblade|Blade]]
+Venli and Eshonai by Tara Spruit.jpg | <center><small>by {{a|taratjah}}</small></center> With [[Venli]]
+Eshonai Portrait - Warform by Marie Seeberger.jpg | <center><small>by {{a|Marie Seeberger}}</small></center> In [[warform]]
+Eshonai Portrait - Stormform by Marie Seeberger.jpg | <center><small>by {{a|Marie Seeberger}}</small></center> In [[stormform]]
+Eshonai by Marianne Eie.jpg | <center><small>by {{a|Marianne Eie}}</small></center> In [[warform]]
+Eshonai by Esther Schrader.jpg | <center><small>by {{a|Esther Schrader}}</small></center>
+</gallery>
+## Scenes
+<gallery mode="packed" heights=200px name="Scenes">
+Eshonai Gavilar Shuravf.jpg| <center><small>by {{a|Shuravf}}</small></center> Meeting with [[Gavilar]]
+Eshonai of the Listeners.jpg | <center><small>by {{a|Petar Penev}}</small></center> Leading the [[listener]] army
+Gemheart.jpg | <center><small>by {{a|Sheep}}</small></center> Holding a [[gemheart]]
+Rhythm of Mourning by Caio Santos.jpeg| <small><center>by {{a|Caio Santos}}</center></small>Overlooking the aftermath of a skirmish with the [[Alethi]]
+Eshonai by Casey Fallon.jpg | <center><small>by {{a|Casey Fallon}}</small></center> Transforming in the [[highstorm]]
+Crem Burial.jpg | <center><small>by {{a|Matthew Johnson}}</small></center> Eshonai dead after the [[Battle of Narak]]
+</gallery>
+[[Category:Gallery Subpages]]

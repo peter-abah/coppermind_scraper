@@ -1,0 +1,40 @@
+{{food
+|image=Chouta.jpg
+|ingredients=Flatbread, meat, sauce
+|type=Street food
+|origin=Herdaz
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]], [[Mistborn Era 2]]
+}}
+{{dialogue
+|Lopen|Chouta.
+|Kaladin|Chowder?
+|Lopen|Cha-ou-ta. Herdazian food, gon. Good stuff. You can have a bite, if you want.
+|attr=[[Lopen]] and [[Kaladin]]{{book ref|sa2|18}}
+}}
+**Chouta** is a street food that is originally from [[Herdaz]] on [[Roshar]] but has also gained popularity off-world, at least on [[Scadrial]]. It consists of fried flatbread wrapped tightly around fried meat and sauce,{{book ref|sa2|46}} open on one end.{{book ref|sa5|21}} It can be carried in one hand and eaten while doing other things.{{book ref|sa2|18}}
+
+## Ingredients
+The flatbread used in chouta is very thick.{{book ref|sa2|18}} The meat often used in the warcamps is [[flangria]], which is mixed with ground [[lavis]], formed into small balls, battered, and fried.{{book ref|sa2|46}} The meatballs are then stuffed into the fried bread and covered with a generous amount of dark gravy.{{book ref|sa2|18}}{{book ref|sa2|46}} The chouta stands in [[Dalinar]]'s warcamp also sell a variety that is stuffed with fried [[cremling]] claws instead of meatballs,{{book ref|sa2|46}} and there may be other variations.{{book ref|sa3|74}} Chouta is flavorful, but not spicy.{{book ref|sa3|46}}
+
+## History
+{{image|Chouta - Glyph.png|side=left|width=150px|The glyph for chouta{{rpg ref|slwg|47}}}}
+[[Lopen]] introduced [[Bridge Four]] to chouta in the warcamps. [[Kaladin]] initially thought it looked disgusting,{{book ref|sa2|18}} but [[Sigzil]] and [[Rock]] tried it and enjoyed it.{{book ref|sa2|46}} Kaladin eventually broke down and bought some chouta from a street vendor; he was annoyed to discover that he actually liked it.{{book ref|sa2|81}} The love of chouta spread throughout Bridge Four, and [[Teft]], [[Skar]], [[Leyten]], and [[Drehy]] were all later seen eating it.{{book ref|sa3|46}}{{book ref|sa3|73}} 
+
+{{sidequote
+|The walls around these plateaus. Makes them look like a bunch of chouta rolls. You know, open at the top? Stuffed with meat.
+|[[Red (Roshar)|Red]]{{book ref|sa5|21}}
+|side=right|size=250px
+}}
+Chouta was sold at a tavern in [[Kholinar]] visited by [[Hoid]] and [[Shallan]].{{book ref|sa3|68}} It was also commonly eaten in [[Urithiru]].{{book ref|sa4|i|5}} [[Red (Roshar)|Red]] compared the plateaus of [[Narak]] to chouta after they had walls built around them, though other members of the [[Unseen Court]] disagreed with the comparison.{{book ref|sa5|21}} [[Lift]] enjoyed eating chouta; while she was in the guise of [[Navani Kholin]] during Navani's stint in the [[Spiritual Realm]], Lopen saw her and thought it was suspicious that Navani would be eating it.{{book ref|sa5|33}} During the [[Battle of Azimir]], [[Adolin]]'s [[Kaminah|aide-de-camp]] prepared him several chouta wraps so he could eat while he spent time with [[Yanagawn]]. Adolin offered one of the wraps to [[Gezamal Kushkam]], but Yanagawn's guards were prohibited from eating on the job.{{book ref|sa5|52}}
+
+By {{date|348|PC}}, chouta was readily available in northern [[Scadrial]]; [[Wayne]] got some very greasy chouta at a food stand in [[Bilming]] while he, [[Wax]], and [[Marasi]] were investigating [[Maraga]]. Wax thought it looked disgusting, but Wayne argued that that was how street food should look.{{book ref|mb7|32}}
+
+==Trivia==
+*[[Brandon Sanderson]] has noted that chouta are not inspired by burritos and are closer to "deep-fried meatballs in a [[wikipedia:sopaipilla|sopaipilla]]".{{wob ref|8883}}{{wob ref|2854}} Brandon is fascinated by the rapid development of portable street food during the industrial revolution, and devised chouta to reflect this concept.{{wob ref|8883}}
+
+## Notes
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 17:31, 16 January 2025 (UTC)}}
+{{Stormlight}}

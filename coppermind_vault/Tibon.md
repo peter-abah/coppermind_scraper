@@ -1,0 +1,19 @@
+---
+#profession: "soldier"
+groups: "{{tag|Cobalt Guard"
+---
+
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+
+**Tibon** is a lighteyed [[Alethi]] soldier on [[Roshar]].
+
+He was a member of the [[Cobalt Guard]].{{book ref|sa1|18}} He--along with [[Marks (Roshar)|Marks]], another member of the Cobalt Guard--guarded [[Adolin]] during his date with [[Janala]], and waited with [[Falksi]] outside the tent of the leatherworkers [[Yis]] and [[Avaran]].
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 19:53, 10 November 2017 (MST)}}
+{{Stormlight}}

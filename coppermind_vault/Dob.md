@@ -1,0 +1,24 @@
+---
+profession: "Stable hand"
+world: "Threnody"
+universe: "Cosmere"
+introduced: "Shadows for Silence in the Forests of Hell"
+---
+
+{{quote
+| I'm an idiot, mam. Not a fool.
+| Dob{{book ref|sfs}}
+}}
+**Dob** is an elderly stable hand at [[Silence's waystop]] in the [[Forests of Hell]] on [[Threnody]].{{book ref|sfs}}
+
+Dob takes care of the horses of people who stay at the waystop.{{book ref|sfs}} He is under standing orders to leave watering for last, in case Silence wants to add [[wetleek]] sap to their water in order to track bounties. He sleeps in the stable with the horses.
+
+Dob has worked at the waystop since before [[William Montane]]'s death; he is a loyal man.{{book ref|sfs}} However, Dob is not terribly intelligent, and [[Silence Montane]] thinks that he has no idea that she is the White Fox. On the contrary, Dob is fully aware of her secret identity. When Silence returns from hunting [[Chesterton Divide]], carrying [[William Ann]], both injured from the withering touch of shades, Dob pours silver dust on the two of them to save their lives.
+
+After his chores are done, Dob likes to smoke his pipe on the waystop's porch.{{book ref|sfs}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:23, 17 September 2018 (MST)}}
+{{Shadows for Silence}}
+[[es:Dob]]

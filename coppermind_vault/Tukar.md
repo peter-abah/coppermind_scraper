@@ -1,0 +1,113 @@
+{{nation
+|map=Tukar locator.png
+|ruler=[[Tezim]]
+|ethnicity=Tukari
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+{{update|sa4|sa5}}
+{{quote
+|The judgment of the final storm has come to destroy all men, and only his path will lead to deliverance.
+|[[Tezim]], god-priest of Tukar{{book ref|sa3|24}}
+}}
+**Tukar** is a kingdom on [[Roshar]]. It is bordered by [[Emul]] to the north and [[Marat]] to the west. The people of Tukar are called the Tukari.{{book ref|sa1|53}} Tukar is ruled by god-priest Tezim, who is actually the [[Herald]] [[Ishar]] in disguise.{{book ref|sa3|64}}
+
+## Etymology
+Tukar is derived from Tuk, the local name for the Herald [[Talenel]].{{book ref|sa4|98}}
+
+## Geography
+Tukar lies in south-western Roshar, on the coast of the [[Southern Depths]] and the [[Aimian Sea]], in the geographical region of [[Makabak]]. It borders [[Emul]] to the north and [[Marat]] to the west, both on rivers. The island chain leading from Tukar to Aimia are possibly under Tukari control.{{map ref|Roshar}} Tukar is the coldest Makabaki nation.{{rpg ref|slwg|42}}
+
+Tukar has several settlements, such as [[Torriqqam]] and [[Khathazan]]. Along the Southern Depths, there are also the towns of [[Riqu Mar]] and [[Linder Mar]].{{map ref|Eastern Makabak}} [[Icewater]], located on one of the islands off the coast, may belong to it. [[Sesemalex Dar]], the capital of Emul, is located on the western border of Tukar, and the Tukari have laid claim to it for generations.{{map ref|Roshar}}{{book ref|sa1|53}} Due to their claim of ownership, there is a strong sense of anti-Emuli irredentism in the hearts of the people, which has led to many separate conflicts over the city across the centuries.{{book ref|sa1|53}}
+
+Tukar has an area of around 702,000 km<sup>2</sup>.{{ref|name=blog634}}
+
+## History
+{{quote
+|The war between Emul and Tukar was heating up. Granted, everyone was always saying that. But things **had** changed over the last few years.
+|[[Hauka]]{{book ref|sa2.5|3}}
+}}
+### The Heraldic Epochs
+During the [[Silver Kingdoms]] era, Tukar was part of [[Makabakam]].{{map ref|Silver Kingdoms}} At some point, Makabakam splintered into smaller states, with Tukar being one of them.{{map ref|Roshar}} 
+
+### The Era of Solitude
+When the [[Azir|Azish Empire]] began to form, Tukar might have joined them, although their status within the coalition, if it even is part of the coalition, is complex.{{book ref|sa3|65}}{{book ref|sa3|96}}
+
+The nations of Tukar and Emul have been in the state of on-and-off conflict for centuries, with the main point of contention being the city of [[Sesemalex Dar]]. This was done due to a combination of the religious value ascribed to Sesemalex Dar by both sides, and due to its effectiveness and value as a port city.{{book ref|sa2.5|2}}{{book ref|sa1|54}}
+
+==== Rise of Tezim and the Eighty's War ====
+Around {{rosharan date|1167}}, Ishar rose to power as the God-Priest of Tukar. As the leader, he began to lead a new conflict against Emul for control of Sesemalex Dar, known as the [[Eighty's War]]. Shortly before the [[Everstorm]], in {{rosharan date|1173}}, the fighting grew in ferocity.{{book ref|sa2.5|3}} At the same time, tensions with [[Marat]] began to rise, leading some to theorize that they may quickly turn their aggression to them instead.{{book ref|sa3|24}}{{book ref|sa3|106}}
+
+### The True Desolation
+{{image|Map of Eastern Makabak.jpg|side=right|width=250px|Map of the war in Emul}}
+When the True Desolation began, [[Dalinar Kholin]] sent messages to both Emul and Tukar, hoping that at least one of them would join his alliance.{{book ref|sa3|12}} Tukar outright refused, with the god-priest demanding that, as an "aspect of the [[Almighty]]", he should be the one in charge of [[Urithiru]] and the [[Knights Radiant]], they quickly refused to submit to his demands.{{book ref|sa3|24}}
+
+During the Desolation, [[voidspren]] began appearing in [[Shadesmar]] in the region equivalent to Tukar.{{book ref|sa3|102}} Nonetheless, by the [[Battle of Thaylen Field]], the country is still considered to be neutral in the conflict.{{book ref|sa3|122}}
+
+==== The Emuli Offensive ====
+They played a major role in the Emuli Offensive in {{rosharan date|1175}}, fighting against Alethi and Azish forces and the [[Coalition of monarchs]] who were attempting to push the occupying Fused out of Emul.{{cite}} They primarily set up their armies in northeastern Tukar, around the [[Drunmu Basin]].{{map ref|Eastern Makabak}}{{book ref|sa4|111}}{{expand}}
+
+==== The Final Ten Days ====
+After Ishar left to [[Shinovar]] to prepare Szeth to replace [[Jezrien]] as a Herald, [[Odium]] was able to influence Tukar, though to what extent is still unknown.{{book ref|sa5|114}}
+
+## Culture
+### People
+The people of Tukar are typically brown-skinned and have black hair. Tukari people tend to be emotionally reactive, for better and worse. Refusing to show one’s emotions is seen as a sign of disrespect and insincerity. They fight fiercely and pursue their beliefs with reckless abandon. For this, outsiders regard the Tukari as brazen and volatile.{{rpg ref|slwg|42}} Many Tukari live as herdsmen.{{book ref|sa4|98}}
+
+### Fashion
+Tukar is the coldest Makabaki nation, and people living there favor enveloping garments made of thick, coarse fabric. Tukari humans craft necklaces and bracelets in ringed, chain-like patterns that represent bonds, a symbol of their god-priest.{{rpg ref|slwg|42}} At least some of these accessories are made from cloth, and have certain colors on them. They may also have writing on them.{{book ref|sa4|36}} Their clothes have colours similar to Azish patterns. Their outfits also have braided tassels that hang low from the waist. This style is common in southeastern Makabak.{{book ref|sa4|30}}
+
+### Calendar
+They make use of a different calendar than the Vorin calendar. Little is known about it except that the Vorin year {{rosharan date|1168}} is considered to be in the eighties in the Tukari calendar,{{book ref|sa2|i|14}} although the exact year is unknown.
+
+## Politics
+{{image|Ishar Endsheet.jpg|side=right|width=250px|[[Tezim]], the god-priest of Tukar}}
+
+### Government and Religion
+Tukar is a theocracy, with their current spiritual and political leader, Tezim, being alternately titled the god-priest, god-king, and priest-king.{{book ref|sa2.5|3}}{{book ref|sa3|64}}{{book ref|sa3|65}} The Tukari people also live in clans.{{book ref|Sa4|36}}
+
+Unlike other Makabaki states, which consider [[Herald]]s to be gods, the Tukari worship the [[Almighty]], much like the eastern nations. Tezim is likewise revered as a semi-divine figure, and considered an aspect of god.{{book ref|sa3|28}} Other titles ascribed to him are "first and last man", "Herald of Heralds" and "bearer of the [[Oathpact]]".{{book ref|sa3|24}} In reality, Tezim is the half-mad Herald [[Ishar]].{{book ref|sa3|64}} Though the average Tukari likely do not know of his true identity, there are numerous rumors concerning him outside of the country.{{book ref|sa2.5|3}}
+
+It is unknown why the Tukari accepted him as their God-King so quickly, and why they accepted a foreigner into that position, but there is a reason that they did so.{{wob ref|11325}}
+
+### International relations
+{{quote
+|I'd rather have the Emuli anyway. Their soldiers might be less capable, but they’re also… well, **not crazy**.
+|[[Navani]]{{book ref|sa3|24}}
+}}
+
+Technically, Tukar appears to be part of the greater [[Azir|Azish Empire]], and the [[Prime Aqasix]] seems to have the capacity to summon the god-priest to [[Azimir]] whenever they wish.{{book ref|sa3|65}} However, for generations now Tukar has been at war with [[Emul]], another Azish member state, putting the Prime's ability to control it in question.{{book ref|sa2.5|2}} The conflict is centered around the city of [[Sesemalex Dar]], considered holy by both the Emuli and the Tukari. While the Emuli consider it their ancestral homeland, the Tukari motivations for the conflict are unknown. In the East, there is some confusion over whether the conflict is purely religious or economical, as Sesemalex Dar is an excellent port.{{book ref|sa1|54}}
+
+Tukari in general are considered volatile and crazy by the outsiders, with the [[Alethi]] relieved at not having to ally with them, and [[Szeth]] speculating that they might suddenly abandon their crusade against Emul and go to war with [[Marat]].{{book ref|sa3|24}}{{book ref|sa3|106}} The main way of communicating with them diplomatically is through their scribes, with the god-priest himself rarely, if ever, speaking in person.{{book ref|sa3|24}}
+
+### Economy
+It is a major nation in regards to access to the Southern Sea, giving it major economic and military advantages over other nations.{{book ref|sa4|19}} Tukar is known for exporting perfume, jewelry, and skilled mercenaries.{{rpg ref|slwg|42}}
+
+### Military
+==== Equipment and Fabrials ====
+The Tukari are highly militaristic. The Tukari Soldiers in Tezim’s army don’t wear proper uniforms, they are seen wearing hogshide battle leathers with hardened cuirasses painted a dark blue. Most of them are armed with spears, though some of them have steel swords.{{book ref|sa4|111}} Tukar itself has numerous [[Soulcaster]]s, which it has put to good use in Eighty's War.{{book ref|sa2|i|14}} It is not known if they have any [[Shardblade]]s or [[Shardplate]], though their military is considered highly capable.{{book ref|sa3|24}}
+
+==== Military tactics ====
+The Tukari, knowing that the Emuli are most dangerous at a distance, have adjusted their assault strategy to force the Emuli into close combat.{{rpg ref|slwg|40}} The Tukari Military is also highly mobile, with [[Ishar]] being able summon [[Perpendicularity|perpendicularities]], enabling him and his armies to enter and exit [[Shadesmar]]. Their access to the Southern Sea also grants them a major military advantage over other nations.{{book ref|sa4|19}}
+
+## Settlements
+* [[Khathazan]]
+* [[Linder Mar]]
+* [[Riqu Mar]]
+* [[Torriqqam]]
+## Trivia
+* At around 702,000 km<sup>2</sup>, it falls between [[wikipedia:Myanmar|Myanmar]] and [[wikipedia:Zambia|Zambia]] in total area.{{ref|name=blog634}}
+ 
+## Notes
+<references>
+{{17s ref|blog|634|text=Roshar Physical Characteristics And Areas|date=2019-08-30|name=blog634}}
+<!-- chapters
+sa1: 28, 54
+sa2: 54, I-14
+Edgedancer: 3, 4
+sa3: 8, 12, 24, 64, 65, 96, 102, 106, 122
+-->
+
+</references>
+{{partial}}
+{{stormlight}}

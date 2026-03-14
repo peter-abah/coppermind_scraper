@@ -1,0 +1,56 @@
+{{lifeform
+|image=Sandling.jpg
+|type=Animal
+|world=Taldain
+|universe=[[Cosmere]]
+|books=[[White Sand]]
+}}
+{{quote
+|Predators who glide effortlessly through the sand. They're fast and near indestructible, living in the deep sand and only emerging to hunt.
+|Kenton {{book ref|ws|1|review=yes}}
+}}
+
+**Sandlings**, often called **deep sandlings**, are creatures that live in the deep sand on the [[Dayside]] of [[Taldain]].{{book ref|ws|1|review=yes}}
+
+## Appearance and Anatomy
+{{image|Sandling Excerpt.jpg|side=right|width=200px|Sandling size comparisons, as sketched by Duchess Khrissalla.}}
+Sandlings come in various sizes, with several species being significantly larger than a human. They appear to be arthropods, with a hard, segmented carapace. However, some sections of a sandling's body are covered in interlocking scales, like a reptile. Unlike arthropods, they have mouths with long teeth, a tongue, and liquid saliva. Though they appear to have eyelids, they cannot see, and must "feel" to find their prey. [[Kerzta|Kerztians]] believe that they even speak to the sand.{{book ref|ws|1|review=yes}} They are usually gray in color.{{book ref|ws|9|review=yes}}
+
+They survive off of eating sand, but they do not gain sustenance from the sand itself, but from the microflora that coats it.{{book ref|ws|11}} After dissolving this film of microflora for sustenance, they excrete the sand, which loses its white color and becomes identical to tan Darkside sand.{{book ref|ws|11}}
+
+Their blood is gaseous and acrid, when this gaseous blood reacts with air, it can coalesce into a gooey liquid.{{book ref|ws|1}}{{book ref|ws|part=ars}}
+
+Water is toxic to sandlings, able to dissolve them.{{book ref|ws|1}}{{book ref|ws|part=ars}}
+
+### Interactions with Investiture
+Some sandlings have [[terken]] shells, making them immune to [[sand mastery]]. Any [[Investiture|Invested]] sand that touches terken shells becomes black and loses it power. Terken shells can also be made into an oil-based liquid and smeared on people or objects to make them immune.{{book ref|ws|8|review=yes}} Assassins covet this oil for use in fighting sand masters,{{book ref|ws|10|review=yes}} although it does not suppress sand masters from manipulating objects not actually covered in the oil.{{book ref|ws|8|review=yes}} 
+
+[[Khrissalla]] takes a scientific interest in both sandling carapace and sand excreted by the sandlings; she discovers some unusual properties after performing various experiments. She eventually realizes that the sand gains a microflora, key to harnessing the planet's Investiture, which is ingested by sandlings.{{book ref|ws|11|review=yes}}{{book ref|ws|12|review=yes}}
+
+## Ecology
+Sandlings live in deep sand and only surface to hunt. They will eat almost anything, and they are able to ingest sand, dissolving the microflora film for sustenance, and excreting the sand, free of this film.{{book ref|ws|9|review=yes}}{{book ref|ws|11}} They can move very quickly through the sand.{{book ref|ws|1|review=yes}} They are "nearly indestructible" under normal circumstances, but their shell and skin can be dissolved by water.{{book ref|ws|1|review=yes}}{{book ref|ws|part=ars}} Guns can also penetrate their carapace.{{book ref|ws|4|review=yes}} Plants such as the [[dorim vine]] have water inside them for protection against sandlings, since a sandling's mouth will dissolve if it tries to eat the vines.{{book ref|ws|3|review=yes}}
+
+Smaller sandlings can be hunted by groups of humans using conventional weapons such as spears and swords.{{book ref|ws|9|review=yes}} Humans may use carved carapace for various purposes, such as making arrowheads.{{book ref|ws|4|review=yes}}
+
+### Species
+Multiple species of sandlings have been seen in *White Sand*:{{expand}}
+
+***Keldar** (pl. Keldarin)
+***A'keldar** (pl. A'keldarin) a great sand wolf and cousin to Keldarin.{{book ref|ws|part=ars}}{{book ref|ws|1}}
+***Tonk**  (pl. Tonks) a domesticated form of sandling used as a beast of burden on Dayside.{{book ref|ws|3}}
+***Rezal** (pl. Rezalin)
+***Terha** (pl. Terhan)
+***DelRak** (pl. DelRaiken) also known as **DelRak Naisha** - It is not aggressive, but it functions as a trap, hiding in the sand with only its triangle-shaped head showing; when anything touches it, it devours it.{{book ref|ws|9|review=yes}} 
+***Marken** (pl. Markens) - A [[terken]] sandling used in the [[Mastrell's Path]], a trial faced by members of the [[Diem]]. It is incredibly large, with clawed legs, a long tail, spiked carapace, and a huge round mouth rimmed with conical teeth.{{book ref|ws|1|review=yes}} It is not known how this particular sandling ended up outside of its usual habitat.{{book ref|ws|2|review=yes}} 
+***KaRak** (pl. KaRakin) - Has a form similar to a four-legged wingless dragon with a forked tongue, frilled neck, and long tail; a baby is the size of an elephant, while an adult is approximately seventy feet tall.{{book ref|ws|9|review=yes}}
+*An unnamed species that is very small; groups of individuals coordinate movements and feeding, like a school of fish.{{book ref|ws|9|review=yes}}
+*An unnamed species that is very small and can be held in the hand.{{book ref|ws|part=ars}}
+
+## Trivia
+*Sandlings have a similar appearance to [[Chasmfiend]]s and other [[greatshell]]s found on [[Roshar]], although they are not intended to parallel each other.{{wob ref|2655}} In a hypothetical fight between the two, the environment would affect the outcome.{{wob ref|10485}}
+*Sandlings are also similar to (and probably inspired by) the Sandworms of Arrakis, found in Frank Herbert's *Dune*. Sandworms are also gargantuan creatures that live beneath the desert sands, and emerge when they feel a disturbance in the sand. Water is toxic to Sandworms, and they avoid it just as Sandlings do. Brandon has acknowledged *Dune* as significant inspiration for [[White Sand]].{{book ref|ws1|Introduction}}  
+
+## Notes
+<references />
+{{partial}}
+{{White Sand}}

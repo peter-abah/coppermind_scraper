@@ -1,0 +1,14 @@
+{{vehicle|name=*{{PAGENAME}}*{{DISPLAYTITLE:*{{PAGENAME}}*}}
+|type={{cat tag|Spacecraft}}
+|captain=[[Goro]]
+|world=Evershore
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+{{update|sf3}}
+The ***Ever-Glorious Crashing Waves of Time***, sometimes shortened to the ***Crashing Wave***, is a [[kitsen]] [[starfighter]] under the command of [[Goro]].{{book ref|sf3|12}}
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

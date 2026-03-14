@@ -1,0 +1,18 @@
+---
+family: "House Entrone"
+ancestors: "Charrs Entrone"
+relatives: "Gave Entrone"
+residence: "Elendel"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 2"
+---
+
+**Lady Valette{{book ref|mb6|12}} Entrone** is a noble in [[Elendel]].{{book ref|mb4|2}}
+
+She was courted by [[Waxillium Ladrian]] at some point in the past.{{book ref|mb4|2}} After seeing Waxillium, Valette was courted by another man, who [[Gave Entrone]] described as dreadful. However, she eventually married, and the Entrones were all pleased with her union.{{book ref|mb6|12}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 20:59, 22 June 2019 (MST)}}
+{{Mistborn|era 2}}

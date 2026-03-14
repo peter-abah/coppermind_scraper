@@ -1,0 +1,17 @@
+---
+abilities: "{{tag+|Fused"
+---
+
+|species=singer
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+The **Word of Deeds** is a [[Fused]] on [[Roshar]].{{book ref|sa4|105}}
+
+After the fourth and last of the [[Sibling]]'s nodes in [[Urithiru]] was destroyed, [[Raboniel]] sent a guard to tell the Word of Deeds and the [[Night Known]] to come to her. She presumably sought their help in completing the Sibling's corruption.{{book ref|sa4|105}}
+
+## Notes
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:23, 11 January 2021 (UTC)}}
+{{Stormlight}}

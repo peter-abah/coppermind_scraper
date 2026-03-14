@@ -1,0 +1,23 @@
+---
+family: "House Dartmoor"
+spouse: "Brig Dartmoor|Brig"
+children: "Angola Dartmoor|Angola, Rikers Dartmoor|Rikers, Bastille"
+abilities: "{{tag+|Crystin"
+---
+
+|nation=Nalhalla
+|earth=Alcatraz
+|introduced=[[The Scrivener's Bones]]
+}}
+{{update|a6}}
+**Draulin** is a Knight of [[Crystallia]].{{book ref|a2|2}} She is also the mother to [[Bastille]].
+
+## Appearance and Personality
+Draulin is very serious and would never even consider breaking a rule. She also is very hard on her daughter. She works very hard to complete her job.{{book ref|a2|2}} She is very hard to please.{{book ref|a3|2}} Bastille wouldn't find it impossible that Draulin may have set her up in order to see her fail.{{book ref|a3|3}} She voted for the hardest punishment on Bastille during her hearing about losing her Sword.
+
+Her hair is a metallic silver, similar to [[Bastille]]'s hair. She also shares a resemblance to Bastille. She sometimes wears a steel plate armor with thinner metal and better fitting. The pieces fit together in a more flexible manner.{{book ref|a2|2}} She has a [[Fleshstone]] on the back of her neck.
+
+## Notes
+<references />
+{{partial}}
+{{Alcatraz}}

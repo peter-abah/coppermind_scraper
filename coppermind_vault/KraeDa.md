@@ -1,0 +1,16 @@
+{{geography
+|map=Dayside map.jpg
+|type={{cat tag|mountains|Mountain}}
+|region=Kerla
+|world=Taldain
+|universe=[[Cosmere]]
+|books=[[White Sand]]
+}}
+**Mount KraeDa** is a mountain in the center of [[Dayside]] on [[Taldain]]. It lies in the middle of the [[Kerla]], a desert region north of [[Lossand]].{{map ref|Dayside}}
+
+The [[Diem]] holds contests and ceremonies in a secluded location near the base of KraeDa.{{book ref|ws|part=ars}} The duration of the [[Mastrell's Path]] is determined by the length of time that it takes for the moon to cross behind the mountain (approximately one hour in Dayside timekeeping).{{book ref|ws|1}}
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:36, 18 June 2019 (MST)}}
+{{White Sand}}

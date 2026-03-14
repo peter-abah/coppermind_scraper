@@ -1,0 +1,26 @@
+---
+titles: "{{tag+|Wyrn"
+---
+
+, Emperor of [[Fjorden]]
+|nation=Fjordell
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[Elantris (book)|Elantris]]
+}}
+{{for|Wulfden the Fourth|the current Wyrn}}
+**Wulfden the First** is a former [[Wyrn (title)|Wyrn]] of the [[Fjordell Empire]] on [[Sel]].{{glossary ref|Elantris|W}} 
+
+Wulfden the First lived over three hundred years before the [[Reod]], during the First Empire of Fjorden. The empire had conquered almost all of [[Opelon]] through military might, but collapsed due to its rapid expansion.{{glossary ref|Elantris|F}} 
+
+Fjorden originally had a pantheistic religion, but after the collapse, Wulfden converted to [[Shu-Dereth]] and made it the state religion of [[Fjorden]], elevating [[Jaddeth]] from a minor god to a primary deity.{{glossary ref|Elantris|J}}  Early Derethi leadership, presumably under Wulfden's guidance, also instituted the system of propaganda that led their priests to alter historical works such as *[[Wyrn the King]]*.{{wob ref|2072}}{{book ref|Elantris|43}}
+
+Within a generation, all of Fjorden was Derethi, and the militaristic structure of their society was adapted to an aggressive policy of religious conversion of neighboring states. The resulting [[Fjordell Empire]], also known as the "New Empire",{{wob ref|2072}} eventually gained more power than the First Empire had once held.{{glossary ref|Elantris|F}} 
+
+==Trivia==
+*"Wulfden" is a name used by several Fjordell Wyrns, including the current ruler, [[Wulfden the Fourth]].{{glossary ref|Elantris|W}} However, there is no confirmed familial relationship between these leaders.
+
+## Notes
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 09:47, 19 June 2019 (MST)}}
+{{Elantris}}

@@ -1,0 +1,16 @@
+---
+profession: "{{cat tag|scholars|Philosopher"
+---
+
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+**Galabris Menthon** is a well-known First Age philosopher on [[Scadrial]].{{file ref |New Ascendancy broadsheet.jpg|*The New Ascendancy* broadsheet}}
+
+At some point in his works, Galabris rhetorically wondered if [[Harmony]] had [[ettmetal|his own]] [[Metallic_Arts#The_God_Metals|God Metal]].{{file ref |New Ascendancy broadsheet.jpg|*The New Ascendancy* broadsheet}} This was later referenced in an issue of *[[The New Ascendancy]]*.
+
+## Notes
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 00:50, 1 July 2018 (MST)}}
+{{mistborn|era 2}}

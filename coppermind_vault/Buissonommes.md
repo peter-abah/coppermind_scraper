@@ -1,0 +1,17 @@
+---
+profession: "Playwright"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 2"
+---
+
+**Buissonommes** is a playwright on [[Scadrial]]. They cowrote the *[[A Hero for All Ages]]* operetta with [[Sablerfils]] for [[Clarvonne's Theater]].{{file ref|House_Record_broadsheet.jpg|*The House Record* Broadsheet}}
+
+==Trivia==
+*"Sablerfils" loosely translates from French as "Sanderson" and has been confirmed as a cameo for Brandon.{{reddit ref|Mistborn|43lw2i|czk8zu2|date=2016-02-01|text=Anyone else notice Brandon's self-insert in BoM?}} "Buissonommes" similarly translates as "Bushman", which is [[Emily Sanderson]]'s maiden name. It is also the last name of Brandon's father-in-law Matt, who is a musician that has advised Brandon on lyrics and poetry in his books. Although unconfirmed, it is likely that Buissonommes is a cameo for Emily and/or Matt.
+
+
+## Notes
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 22:28, 26 May 2021 (UTC)}}
+{{Mistborn|era 2}}

@@ -1,0 +1,13 @@
+{{vehicle
+|type={{cat tag|Spacecraft}}, {{cat tag|DDF Ships}}
+|world=Detritus
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+{{update|sky4}}
+A **Sporta** is a four seat [[starfighter]] used by the [[DDF]] on [[Detritus]]. It is intended for fast maneuverability and dropping off ground troops.{{book ref|sky4|6}}
+
+## Notes
+<references />
+{{partial}}
+{{Skyward}}

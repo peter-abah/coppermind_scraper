@@ -1,0 +1,21 @@
+---
+profession: "Architect"
+ethnicity: "Noble"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 1"
+---
+
+**Lord Fedre** was a canal architect from [[Scadrial]] who lived in the eighth century of the [[Final Empire]].{{book ref|mb3|49}}
+
+He was an infamous scoundrel and was known for his fondness for cats and canals.{{book ref|mb3|part=Ars}} He authored a book on canal architecture that was chronicled in one of [[Sazed]]'s [[metalmind]]s. Sazed considered him a genius with canal architecture, despite his reputation.{{book ref|mb3|49}}
+
+An aqueduct in [[Urteau]] bearing Fedre's name was still in place at the end of the [[Final Empire]], several hundred years after his lifetime.{{map ref|Urteau}}
+
+## Trivia
+*Lord Fedre is a cameo for Brandon's editor, [[Moshe Feder]].{{wob ref|7796}} Brandon did this because it was originally Moshe's suggestion to use canals in the Mistborn books.{{wob ref|2371}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 21:25, 30 March 2019 (MST)}}
+{{Mistborn|Era 1}}

@@ -1,0 +1,17 @@
+---
+species: "Taynix"
+abilities: "{{tag+|cytonics"
+---
+
+, mimicry
+|world=Detritus
+|universe=[[Cytoverse]]
+|introduced=[[ReDawn (novella)|ReDawn]]
+}}
+{{update|sf2}}
+**Pipsqueak** is a [[taynix]] found on [[Detritus]].{{book ref|sf2|21}}
+
+## Notes
+<references />
+{{stub}}
+{{Skyward}}

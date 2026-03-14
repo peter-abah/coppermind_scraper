@@ -1,0 +1,43 @@
+{{magic
+|related=[[Realmatic Theory]], [[Investiture]], [[Surgebinding]], [[Twinborn]]
+|universe=[[Cosmere]]
+}}
+{{update|sa4}}
+
+{{quote
+|The effects here are more subtle than they are when mixing Surges on Roshar, but I am convinced that each unique combination also creates something distinctive. Not just two powers, you could say, but two powers … and an effect. This demands further study.
+|Khriss.{{book ref|mb5|part=ars}}
+}}
+**Resonances** are additional powers or effects gained by people with access to more than one [[Investiture|Invested Art]] or [[Surge]].{{wob ref|4570}}
+
+## Mechanics
+Resonances arise from the nature of how [[Shard]]s combine.{{wob ref|8115}} They are not simply a combination of the two base powers, but rather a separate, more distinctive, effect.{{book ref|mb5|part=ars}} The combination of powers can also cause slight variances in how the base powers are manifested, which is why [[Knights Radiant]] of different orders may manifest their shared [[Surge]]s slightly differently.{{wob ref|1524}} The longer a person uses their two powers, the more likely they are to acquire a resonance.{{wob ref|9494}}
+
+An individual with many powers, such as a [[Allomancy|Mistborn]] or Full [[Feruchemist]], may lose this added effect.{{wob ref|3959}} With so many powers, the individual powers effectively wash out any resonance. It is still possible for such people to have a resonance, but it would be much less pronounced.{{wob ref|12608}} Temporarily gaining additional powers, such as from the [[Bands of Mourning]], would not deprive someone of a resonance they previously had. Someone with one power who began using the Bands of Mourning might develop a resonance between their original power and the Bands.{{wob ref|9494}} It is possible for a Surgebinder with multiple [[Honorblade]]s/[[Nahel bond]]s to develop new abilities and resonances between surges that aren't normally combined.{{wob ref|14007}}
+
+## Known Resonances
+### Surgebinding
+All orders of [[Knights Radiant]] have access to two Surges,{{book ref|sa3|part=ars}} and therefore each order has a resonance of their own.{{wob ref|1296}}{{wob ref|4889}} If a Radiant were to gain access to other Surges, either through an [[Honorblade]] or [[Nahel bond|bonding]] to another different [[spren]], resonances can form between Surges that wouldn't normally have them.{{wob ref|14007}} Known [[Surgebinding]] resonances include:
+* [[Windrunner]]s' resonance is an increased number of squires, more than any other order.{{wob ref|915}} 
+* [[Order of Lightweavers|Lightweavers]]' resonance is increased mnemonic ability.{{wob ref|6740}}{{epigraph ref|sa2|49}} For [[Shallan Davar]], this manifests as the ability to take a "Memory" of a scene, which she can recall at a later time with perfect accuracy; when she put it to paper as a painting or a sketch the Memory is completely removed from her mind.{{book ref|sa1|7}}{{wob ref|1424}} This is similar to the way an [[copper#Feruchemical Use|Archivist]] stores memories in their copperminds. There is a limit to how many Memories she can store at the same time.{{wob ref|3244}} Memories are tied to [[Spiritual Realm|Spiritual]] [[Connection]].{{wob ref|3249}} Lightweavers can experience light and color differently and may be able to minutely alter the mood of others.{{wob ref|11531}}
+
+### Metallic Arts
+[[Twinborn]], individuals who are both [[Ferring]]s and [[Misting]]s, also have resonances, although those resonances are typically more subtle than the resonances between [[Surges]] on [[Roshar]].{{book ref|mb5|part=ars}} [[Hemalurgy]] will usually not create resonances, but it is possible for it to happen.{{wob ref|12024}}
+
+## Potential Resonances
+{{theory}}
+* [[Skybreakers]]' resonance is unknown, though it does not involve telling guilty and innocent people apart.{{wob ref|8208}}
+* [[Edgedancers]]' resonance may be the ability to communicate especially well,{{wob ref|1524}} as scholars considered the pre-[[Recreance]] Edgedancers "the most articulate and refined" of the Radiants,{{epigraph ref|sa2|46}} and [[Lift]] is easily able to speak and understand quite opaque street slang in [[Yeddaw]].{{book ref|edgedancer|6}}
+* [[Elsecaller]]s' resonance may be an internal GPS, due to [[Jasnah]] being able to pinpoint the closest settlement after returning from Shadesmar without any equipment.{{book ref|sa2|epilogue}}{{wob ref|6740}} Elsecallers' ability to [[Soulcast]] at a distance is not a resonance, as it is something that Lightweavers could learn as well.{{wob ref|13399}}
+
+## Trivia
+* The nature of resonances was partially inspired by the [[wikipedia:Wave interference|constructive interference]] of waves.{{wob ref|8916}}
+* [[Waxillium Ladrian]]'s ability to create a "[[steel#Allomantic Use|steel bubble]]" to deflect metal moving around him{{book ref|mb4|1}} was originally intended to be the result of him being a [[savant]] in the resonance between his [[steel#Allomantic Use|Allomantic steel]] and [[iron#Feruchemical Use|Feruchemical iron]]. Brandon later indicated that may not still be accurate, as he realized Wax was not manifesting the usual consequences of savantism.{{wob ref|1563}}{{wob ref|8115}}
+* There are 256 possible Twinborn resonances, with 16 of those being compounders.
+* There are 45 possible Surgebinding resonances, with 10 coming from the standard Radiant orders. <!--(10*10=100-10=90/2=45, get rid of the ones of the same surges, (Regrowth and Regrowth) and duplicates (Regrowth/Illumination and Illumination/Regrowth) in order to get the number)--> 
+
+## Notes
+<references />
+{{partial}}
+{{cosmere}}
+[[es:Resonancia]]

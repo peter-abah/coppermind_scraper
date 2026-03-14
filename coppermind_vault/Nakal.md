@@ -1,0 +1,16 @@
+---
+residence: "Alethi warcamps"
+nation: "Alethkar"
+world: "Roshar"
+universe: "Cosmere"
+books: "The Stormlight Archive"
+---
+
+**Nakal** is a member of [[Elhokar Kholin]]'s staff on the [[Shattered Plains]] of [[Roshar]]. He is a handyman or maintenance worker of some kind.{{book ref|sa2|22}}
+
+During a [[highstorm]] in {{Rosharan date|1173}}, Elhokar remarks that Nakal needs to fix a loose shutter, commenting, "The shutter shouldn't leak. This is my palace, not a village tavern!"
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 18:17, 10 November 2017 (MST)}}
+{{Stormlight}}

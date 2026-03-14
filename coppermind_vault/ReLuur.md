@@ -1,0 +1,21 @@
+---
+born: "Third Generation"
+species: "kandra"
+world: "Scadrial"
+universe: "Cosmere"
+books: "Mistborn Era 2"
+---
+
+**ReLuur** is a third generation [[kandra]]. There are very few third generation kandras, and many kandra looked up to him.{{book ref|mb6|3}}
+
+He is an explorer and pursues knowledge of the [[Bands of Mourning]]. Along the way, he took many evanotypes of murals and images that depicted the Bands of Mourning, suggesting that they did in fact exist. However, when he returned to the Kandra [[Homeland]], he was missing one of his two [[Hemalurgy|Hemalurgic spike]]s, and as a result was not entirely sane. [[TenSoon]] attempted to give ReLuur one of his spikes, but as it was another kandra's spike, he rejected it and spat it out.
+Later, he recounted seeing a "beast of the void with no eyes". It is described as being red-skinned with horns and spikes, it's eyes black. It is likely that ReLuur encountered a Malwish person, or someone in a Malwish-style mask.
+
+He found the [[Set]] and [[Telsin Ladrian]].{{book ref|mb6|3}}
+
+ReLuur's spike is pewter, a metal which is not normally used as a [[Blessing]].{{wob ref|7081}}
+
+## Notes
+<references />
+{{partial}}
+{{Mistborn|Era 2}}

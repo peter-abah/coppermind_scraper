@@ -1,0 +1,19 @@
+---
+family: "House Entrone"
+ancestors: "Charrs Entrone"
+died: "{{date|342|PC"
+---
+
+|residence=Elendel
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[Shadows of Self]]
+}}
+**Hughes Entrone** is a nobleman and member of [[House Entrone]] on [[Scadrial]]. He is a cousin and confidant to the incumbent Lord Entrone.{{book ref|mb5|1}}
+
+He was present at [[Winsting Innate's auction]], indicating that he was probably involved in illicit activities. He spoke to Winsting during the auction. He presumably died along with the rest of the attendees after a shootout was instigated by [[Bleeder]].{{book ref|mb5|1}}
+
+## Notes
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:28, 17 September 2018 (MST)}}
+{{Mistborn|era 2}}

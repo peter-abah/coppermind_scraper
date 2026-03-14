@@ -1,0 +1,5 @@
+#REDIRECT [[Artifabrication]]
+[[Category: Structural redirects]]
+[[Category: Characters]]
+[[Category: Titled characters]]
+[[Category: Scholars]]

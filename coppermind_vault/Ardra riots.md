@@ -1,0 +1,15 @@
+{{event
+|effects=Destruction of [[First Union Bank (Newcago)|First Union]] servers
+|earth=Reckoners
+|books=[[The Reckoners]]
+}}
+{{quote
+|Most of their servers were located in Texas, but the building was burned down eight years back during the Ardra riots
+|[[Tia]], about [[First Union Bank (Newcago)|First Union]] servers{{book ref|Steelheart|14}}
+}}
+The **Ardra riots** are an event that destroyed most of the servers that could contain the contents of the vault at [[First Union Bank (Newcago)|First Union Bank]] vault. [[Tia]] mentioned the riots to [[David Charleston|David]] and [[Cody]] in explaining why she was having trouble tracking down the contents of the vault.{{book ref|Steelheart|14}}
+
+## Notes
+<references />
+{{complete|--[[User:Stargazer|Stargazer]] ([[User talk:Stargazer|talk]]) 23:35, 7 October 2021 (UTC)}}
+{{Reckoners}}

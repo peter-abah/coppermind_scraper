@@ -1,0 +1,5 @@
+#REDIRECT [[Taldain#Darkside]]
+[[Category: subsection redirects]]
+[[Category:Nominal redirects]]
+[[Category: White Sand]]
+[[Category: Cosmere]]
