@@ -1,0 +1,6 @@
+coppermind_raw/
+coppermind_vault/
+extractor_state.json
+extractor_last_run.json
+__pycache__/
+.venv/
