@@ -1,0 +1,846 @@
+This is a day-by-day timeline of events for ''[[Words of Radiance]]''. The bulk of the work was accomplished by Cheese Ninja on the 17th Shard.{{17s ref|post|109582|Original decryption of the timeline|date=Mar 11th, 2014}}
+
+Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generally be assumed to be accurate within a quarter of a year, this has been denoted in the table.{{17s ref|post|90580|text=Peter commenting on chapter timestamps|date= Jan 27th, 2014}}
+
+{| class=infobox width=100%
+|- class=title
+! width=5% | Year
+! width=5% | Month
+! width=5% | Week
+! width=5% | Day
+! width=10% | Chapters
+! width=60% | Events
+! width=10% | Notes
+
+|-
+! 1167
+! ~9<br>(+/-2.5)
+! ?
+! ?
+| [[Summary: Words of Radiance/Prologue|WoR-Prologue]]
+| King Gavilar is assassinated.
+| <ref name=wor-prologue />
+
+|-
+! ~1167
+! ~9<br>(+/-2.5)
+! ?
+! ?
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 10|WoR-10]]
+| style="background-color:#EEEEFF"| Shallan kills her mother.
+| style="background-color:#EEEEFF"| <ref name=wor-10 />
+
+|-
+! rowspan= 2| ~1168
+! ~4<br>(+/-2.5)
+! ?
+! ?
+| [[Summary: Words of Radiance/Chapter 19|WoR-19]]
+| Helaran visits, reveals Shardblade, and threatens his father. Shallan speaks for the first time since her mother's death.
+| <ref name=wor-19 /> <ref name=5monthpostmomdeath />
+
+|-
+
+! ~9<br>(+/-2.5)
+! ?
+! ?
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 27|WoR-27]]
+| style="background-color:#EEEEFF"| Shallan sees the strongbox where her mother's "soul" is hidden.
+| style="background-color:#EEEEFF"| <ref name=wor-27 />
+
+|-
+! ~1169
+! ~10<br>(+/-2.5)
+! ?
+! ?
+| [[Summary: Words of Radiance/Chapter 39|WoR-39]]
+| Redin interrupts a feast and interrogates Lin Davar.
+| <ref name=wor-39 />
+
+|-
+! rowspan=2| ~1170
+! ~5/6
+! ?
+! ?
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 45|WoR-45]]
+| style="background-color:#EEEEFF"| Shallan meets Hoid during Middlefest.
+| style="background-color:#EEEEFF"| <ref name=wor-45 />
+
+|-
+
+! ~10<br>(+/-2.5)
+! ?
+! ?
+| [[Summary: Words of Radiance/Chapter 48|WoR-48]]
+| Shallan saves Jushu from his gambling debts.
+| <ref name=wor-48 /> <ref name=shallan14.5 />
+
+|-
+! rowspan=2| 1172
+! ~5<br>(+/-2.5)
+! ?
+! ?
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 61|WoR-61]], [[Summary: Words of Radiance/Chapter 65|WoR-65]]
+| style="background-color:#EEEEFF"| Lin confronts Balat over his planned bride, then orders Helaran's assassination. Shallan convinces Balat to run away.
+| style="background-color:#EEEEFF"| <ref name=wor-61-65 /> <ref name=wor-65 />
+
+|-
+
+! 10
+! ~7/8
+! ?
+| [[Summary: Words of Radiance/Chapter 73|WoR-73]]
+| Shallan kills her father.
+| <ref name=wor-73 /> <ref name=wor-73b />
+
+|-
+! rowspan=71| 1173
+! rowspan=21| 9
+! 6
+! 5
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 1|WoR-1]], [[Summary: Words of Radiance/Chapter 2|WoR-2]]
+| style="background-color:#EEEEFF"| '''Highstorm'''
+| style="background-color:#EEEEFF"| <ref name=diagramdates /> <ref name= peter-tower/highstorm />
+
+|-
+
+
+! rowspan=5| 7
+! 1
+|
+|
+|
+
+|-
+
+
+
+! 2
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+! 3
+| [[Summary: Words of Radiance/Chapter 3|WoR-3]]
+| Shallan draws Pattern
+| <ref name=patternsummoning />
+
+|-
+
+
+
+! 4
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+! 5
+|
+|
+|
+
+|-
+
+
+! rowspan=5| 8
+! 1
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 4|WoR-4]]
+| style="background-color:#EEEEFF"| '''Highstorm'''. First instance of the countdown.
+| style="background-color:#EEEEFF"| <ref name=diagramdates /> <ref name=62days />
+
+|-
+
+
+
+! 2
+| [[Summary: Words of Radiance/Chapter 5|WoR-5]]
+| Dalinar gives permission to Adolin to begin dueling again, announces he wants to re-found the Knights Radiant.
+| <ref name=strangebreakin />
+
+|-
+
+
+
+! 3
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 6|WoR-6]], [[Summary: Words of Radiance/Chapter 7|WoR-7]], [[Summary: Words of Radiance/Chapter 8|WoR-8]]
+| style="background-color:#EEEEFF"| ''Wind's Pleasure'' is attacked. Dalinar goes on plateau run.
+| style="background-color:#EEEEFF"| <ref name=stormbacktwo /> <ref name=60days />
+
+|-
+
+
+
+! 4
+| [[Summary: Words of Radiance/Chapter 9|WoR-9]], [[Summary: Words of Radiance/Chapter 11|WoR-11]], [[Summary: Words of Radiance/Chapter 12|WoR-12]]
+| Shallan washes ashore. Amaram arrives on the Shattered Plains.
+| <ref name=postshipwrecksleep /> <ref name=amaramarrival />
+
+|-
+
+
+
+!5
+| style="background-color:#EEEEFF"| WoR-11, [[Summary: Words of Radiance/Chapter 13|WoR-13]]
+| style="background-color:#EEEEFF"| Shallan joins Tvlakv's caravan.
+| style="background-color:#EEEEFF"| <ref name=postshipwrecksleep />
+
+|-
+
+
+! rowspan=5| 9
+! 1
+|
+| '''Highstorm'''
+| <ref name=diagramdates />
+
+|-
+
+
+
+!2
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+!3
+| 
+| 
+| 
+
+|-
+
+
+
+!4
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+!5
+| [[Summary: Words of Radiance/Chapter 14|WoR-14]], [[Summary: Words of Radiance/Chapter 15|WoR-15]]
+| Adolin duels using Ironstance. Shallan confronts Tvlakv.
+| <ref name=ironstance /> <ref name=sixdaystogether /> <ref name=fireconfrontation />
+
+|-
+
+
+! rowspan=5| 10
+! 1
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 16|WoR-16]], [[Summary: Words of Radiance/Chapter 17|WoR-17]], [[Summary: Words of Radiance/Chapter 18|WoR-18]], [[Summary: Words of Radiance/Chapter 20|WoR-20]], [[Summary: Words of Radiance/Chapter 21|WoR-21]], [[Summary: Words of Radiance/Chapter 22|WoR-22]], [[Summary: Words of Radiance/Chapter 23|WoR-23]]
+| style="background-color:#EEEEFF"| '''Highstorm'''. Renarin begins training, Rlain requests a spear, Shallan recruits the deserters and saves the merchants. Railing assassination attempt.
+| style="background-color:#EEEEFF"| <ref name=ironstance /> <ref name=amaramarrival /> <ref name=tanatishesa /> <ref name=tanatishesb /> <ref name=fireconfrontation /> <ref name= <ref name=diagramdates />
+
+|-
+
+
+
+! 2
+| 
+| 
+|
+
+|-
+
+
+
+! 3
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+! 4
+|
+| '''Highstorm'''
+| <ref name=diagramdates /> <ref name=49days />
+
+|-
+
+
+
+! 5
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 24|WoR-24]], [[Summary: Words of Radiance/Chapter 25|WoR-25]]
+| style="background-color:#EEEEFF"| Shallan starts to train with Tyn. Bridge Four starts learning to ride horses
+| style="background-color:#EEEEFF"| <ref name=desertersfourdays /> <ref name=desertershighstorm /> <ref name=horses />
+
+|-
+
+! rowspan=50| 10
+! rowspan=5| 1
+! 1
+| 
+| 
+| 
+
+|-
+
+
+
+! 2
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+! 3
+| 
+| 
+| 
+
+|-
+
+
+
+! 4
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+! 5
+| 
+| '''Highstorm'''
+| <ref name=diagramdates />
+
+|-
+
+
+! rowspan=5| 2
+! 1
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+! 2
+| 
+| 
+| 
+
+|-
+
+
+
+! 3
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 28|WoR-28]]
+| style="background-color:#EEEEFF"| Shallan and Kaladin meet. Boots!
+| style="background-color:#EEEEFF"| <ref name=bootsout /> <ref name=bootscene />
+
+|-
+
+
+
+! 4
+| [[Summary: Words of Radiance/Chapter 30|WoR-30]]
+| Shallan draws Yalb and Shalash drawings, discusses betrothal with Tyn, and investigates lait.
+| <ref name=lait />
+
+|-
+
+
+
+! 5
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 31|WoR-31]], [[Summary: Words of Radiance/Chapter 32|WoR-32]], [[Summary: Words of Radiance/Chapter 33|WoR-33]], [[Summary: Words of Radiance/Chapter 34|WoR-34]], [[Summary: Words of Radiance/Interlude I-5|WoR-I-5]], [[Summary: Words of Radiance/Interlude I-6|WoR-I-6]], [[Summary: Words of Radiance/Interlude I-8|WoR-I-8]]
+| style="background-color:#EEEEFF"| Thude arranges meeting between Alethi and Parshendi. '''Highstorm'''. Eshonai enters stormform, Szeth attacks, Shallan kills Tyn, Taln arrives at the Shattered Plains.
+| style="background-color:#EEEEFF"| <ref name=diagramdates /> <ref name=38days /> <ref name=ishanahhighstorm /> <ref name=szethattack /> <ref name=parshendimeetingsetup />
+
+|-
+
+
+! rowspan=5| 3
+! 1
+| [[Summary: Words of Radiance/Chapter 35|WoR-35]], [[Summary: Words of Radiance/Chapter 36|WoR-36]], [[Summary: Words of Radiance/Chapter 37|WoR-37]], [[Summary: Words of Radiance/Chapter 38|WoR-38]], [[Summary: Words of Radiance/Chapter 40|WoR-40]], [[Summary: Words of Radiance/Chapter 41|WoR-41]], [[Summary: Words of Radiance/Chapter 42|WoR-42]], [[Summary: Words of Radiance/Chapter 43|WoR-43]]
+| Shallan enters the warcamps. Adolin arranges duel with Elit. Kaladin learns to bind Gravitation, and that Moash was complicit in the railing assassination attempt. Renarin joins Bridge Four. Shallan meets with the Ghostbloods for the first time.
+| <ref name=szethattack /> <ref name=bootscene /> <ref name=elitduel /> <ref name=37days /> <ref name=ghostbloodassignment />
+
+|-
+
+
+
+! 2
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+! 3
+|
+|
+|
+
+|-
+
+
+
+! 4
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+! 5
+| [[Summary: Words of Radiance/Chapter 46|WoR-46]]
+| Kaladin gives Rlain a spear.  Kaladin and Moash meet with Graves
+| <ref name=ishevanb />
+
+|-
+
+
+! rowspan=5| 4
+! 1
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 47|WoR-47]], [[Summary: Words of Radiance/Chapter 49|WoR-49]], [[Summary: Words of Radiance/Chapter 50|WoR-50]]
+| style="background-color:#EEEEFF"| Pattern decodes the Dawnchant. Shallan experiments with Lightweaving. Shallan and Adolin have a date watching a '''Highstorm''' approach.
+| style="background-color:#EEEEFF"| <ref name=diagramdates /> <ref name=32days /> <ref name=parshendimeeting />
+
+|-
+
+
+
+! 2
+| [[Summary: Words of Radiance/Chapter 51|WoR-51]], [[Summary: Words of Radiance/Chapter 52|WoR-52]]
+| Adolin meets with Eshonai. Shallan infiltrates Amaram's manor. Kaladin trains in the Surge of Gravitation.  Rlain leaves warcamps for Narak.
+| <ref name=parshendimeetingsetup /> <ref name=parshendimeeting /> <ref name=ishevana /> <ref name=ishevanb />
+
+|-
+
+
+
+! 3
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 53|WoR-53]], [[Summary: Words of Radiance/Chapter 54|WoR-54]]
+| style="background-color:#EEEEFF"| Adolin duels Elit. Shallan reports on her infiltration of Amaram's manor to the Ghostbloods.
+| style="background-color:#EEEEFF"| <ref name=elitduel /> <ref name=adolinsblunder /> <ref name=menageriedate /> <ref name=ghostbloodreport />
+
+|-
+
+
+
+! 4
+| [[Summary: Words of Radiance/Chapter 55|WoR-55]]
+| Adolin, Shallan, and Kaladin go to the menagerie. Hoid.
+| <ref name=menageriedate /> 
+
+|-
+
+
+
+! 5
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 56|WoR-56]], [[Summary: Words of Radiance/Chapter 57|WoR-57]], [[Summary: Words of Radiance/Chapter 58|WoR-58]]
+| style="background-color:#EEEEFF"| Adolin duels the four Shardbearers. Kaladin is thrown in prison.
+| style="background-color:#EEEEFF"| <ref name=adolinsblunder /> <ref name=witvisit />
+
+|-
+
+
+! rowspan=5| 5
+! 1
+|
+|
+|
+
+|-
+
+
+! 2
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+! 3
+| [[Summary: Words of Radiance/Chapter 59|WoR-59]]
+| Adolin imprisons himself. Wit visits Kaladin in prison, telling the Fleet story.
+| <ref name=witvisit />
+
+|-
+
+
+! 4
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+! 5
+| 
+| 
+|
+
+|-
+
+
+! rowspan=5| 6
+! 1
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Interlude I-11|WoR-I-11]], [[Summary: Words of Radiance/Chapter 60|WoR-60]]
+| style="background-color:#EEEEFF"| Eshonai seizes control from the Five. Shallan figures out Stormseat is located on the Shattered Plains, and how to attach illusions to Pattern.
+| style="background-color:#EEEEFF"| <ref name=stormform15 /> <ref name=manytransform /> <ref name=nosleeponjesel />
+
+|-
+
+
+
+! 2
+|
+| 
+| 
+
+|-
+
+
+
+! 3
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| '''Highstorm'''
+| style="background-color:#EEEEFF"| <ref name=diagramdates />
+
+|-
+
+
+
+! 4
+| [[Summary: Words of Radiance/Chapter 62|WoR-62]]
+| Dalinar visits Kaladin in prison.
+| <ref name=dalinarvisita />
+
+|-
+
+
+
+! 5
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 63|WoR-63]], [[Summary: Words of Radiance/Chapter 64|WoR-64]]
+| style="background-color:#EEEEFF"| Shallan meets "Taln".
+| style="background-color:#EEEEFF"| <ref name=dalinarvisitb />
+
+|-
+
+
+! rowspan=5| 7
+! 1
+|
+|
+|
+
+|-
+
+
+! 2
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+! 3
+| 
+| 
+| 
+
+|-
+
+
+! 4
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 66|WoR-66]]
+| style="background-color:#EEEEFF"| Kaladin is released. Moash begins bonding a Shardblade.
+| style="background-color:#EEEEFF"| <ref name=moashbond />
+
+|-
+
+
+! 5
+| 
+| 
+| 
+
+|-
+
+
+! rowspan=5| 8
+! 1
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+! 2
+| [[Summary: Words of Radiance/Chapter 67|WoR-67]]
+| Dalinar's visions are made public.
+| <ref name=11days />
+
+|-
+
+
+
+! 3
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 68|WoR-68]], [[Summary: Words of Radiance/Chapter 69|WoR-69]], [[Summary: Words of Radiance/Chapter 70|WoR-70]]
+| style="background-color:#EEEEFF"| Scouting expedition out onto the Plains. Shallan and Kaladin fall into the chasms. They are chased by a chasmfiend.
+| style="background-color:#EEEEFF"| <ref name=moashbond /> <ref name=lasthighstorm /> <ref name=chasmsleep />
+
+|-
+
+
+
+! 4
+| WoR-70, [[Summary: Words of Radiance/Chapter 71|WoR-71]], [[Summary: Words of Radiance/Chapter 72|WoR-72]], [[Summary: Words of Radiance/Chapter 74|WoR-74]]
+| Kaladin and Shallan slay chasmfiend. During '''Highstorm''' Stormfather confronts Kaladin over Syl's death.
+| <ref name=diagramdates /> <ref name=chasmsleep /> <ref name=7hours />
+
+|-
+
+
+
+! 5
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 75|WoR-75]], [[Summary: Words of Radiance/Chapter 76|WoR-76]], [[Summary: Words of Radiance/Chapter 77|WoR-77]]
+| style="background-color:#EEEEFF"| Kaladin and Shallan emerge from the chasms. Dalinar's expedition leaves. Amaram's treachery is revealed.
+| style="background-color:#EEEEFF"| <ref name=trueglory /> <ref name=weeping76 />
+
+|-
+
+
+! rowspan=5| 9
+! 1
+| WoR-77
+| The Weeping begins. Shallan reads ''Words of Radiance''. Moash visits Kaladin.
+| <ref name=theweeping />
+
+|-
+
+
+
+! 2
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+! 3
+| 
+| 
+| 
+
+|-
+
+
+
+! 4
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 78|WoR-78]]
+| style="background-color:#EEEEFF"| Shallan reveals her Lightweaving to Dalinar. Stormform patrol is discovered. Rlain surrenders.
+| style="background-color:#EEEEFF"| <ref name=fourdaysweeping /> <ref name=dayafterparshendi />
+
+|-
+
+
+
+! 5
+| [[Summary: Words of Radiance/Chapter 79|WoR-79]]
+| Rlain is questioned.
+| <ref name=dayafterparshendi /> <ref name=countdownend />
+
+|-
+
+
+! rowspan=5| 10
+! 1
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+
+! 2
+| [[Summary: Words of Radiance/Chapter 80|WoR-80]]
+| Dalinar, the other Highprinces, and Shallan discuss their plan of attack. Elhokar meets with Kaladin.
+| <ref name=eighthdayofexpedition /> <ref name=1day />
+
+|-
+
+
+
+! 3
+| style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 81|WoR-81]], [[Summary: Words of Radiance/Chapter 82|WoR-82]], [[Summary: Words of Radiance/Chapter 83|WoR-83]], [[Summary: Words of Radiance/Chapter 84|WoR-84]], [[Summary: Words of Radiance/Chapter 85|WoR-85]], [[Summary: Words of Radiance/Chapter 86|WoR-86]], [[Summary: Words of Radiance/Chapter 87|WoR-87]], [[Summary: Words of Radiance/Chapter 88|WoR-88]]
+| style="background-color:#EEEEFF"| Battle of Narak and summoning of the '''Everstorm'''. The Stormfather hastens a '''Highstorm'''. Urithiru is rediscovered. Kaladin thwarts assassination attempt on Elhokar.
+| style="background-color:#EEEEFF"| <ref name=countdownend />
+
+|-
+
+
+
+! 4
+| 
+| 
+| 
+
+|-
+
+
+
+! 5
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+! rowspan=3| 1174
+! rowspan=3| 1
+! rowspan=3| 1
+! 1
+| 
+| Lightday. Navani begins her entries in her journal.
+|
+
+|-
+
+
+
+! 2
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+| style="background-color:#EEEEFF"| 
+
+|-
+
+
+
+! 3
+| [[Summary: Words of Radiance/Chapter 89|WoR-89]]
+| Dalinar swears the second ideal of the Bondsmiths. Renarin reveals he is a Truthwatcher.
+| <ref name=the4 /> <ref name=exploration />
+
+|}
+
+Chapters not included:
+*[[Summary: Words of Radiance/Interlude I-1|WoR-I-1]]
+*[[Summary: Words of Radiance/Interlude I-2|WoR-I-2]]
+*[[Summary: Words of Radiance/Interlude I-3|WoR-I-3]]
+*[[Summary: Words of Radiance/Interlude I-4|WoR-I-4]]
+*[[Summary: Words of Radiance/Chapter 26|WoR-26]]
+*[[Summary: Words of Radiance/Chapter 29|WoR-29]]
+*[[Summary: Words of Radiance/Interlude I-7|WoR-I-7]]
+*[[Summary: Words of Radiance/Chapter 44|WoR-44]]
+*[[Summary: Words of Radiance/Interlude I-9|WoR-I-9]]
+*[[Summary: Words of Radiance/Interlude I-10|WoR-I-10]]
+*[[Summary: Words of Radiance/Interlude I-12|WoR-I-12]]
+*[[Summary: Words of Radiance/Interlude I-13|WoR-I-13]]
+*[[Summary: Words of Radiance/Interlude I-14|WoR-I-14]]
+*[[Summary: Words of Radiance/Epilogue|WoR-Epilogue]]
+
+==Notes==
+<References>
+<ref name=wor-prologue>WoR-Prologue is labeled "Six years ago" from circa Tanat 1173.</ref>
+<ref name=wor-10>WoR-10 is labeled "Six years ago" from circa Tanat 1173.</ref>
+<ref name=wor-19>WoR-19 is labeled "Five and a half years ago from circa Tanat 1173.</ref>
+<ref name=wor-27>WoR-27 is labeled "Five years ago from circa Tanat 1173.</ref>
+<ref name=wor-39>WoR-39 is labeled "Four years ago from circa Ishi 1173.</ref>
+<ref name=wor-45>WoR-45 is labeled "Three and a half years ago from circa Ishi 1173.</ref>
+<ref name=wor-48>WoR-48 is labeled "Three years ago from circa Ishi 1173.</ref>
+<ref name=wor-61-65>WoR-61 and WoR-65 are labeled "One and a half years ago from circa Ishi 1173.</ref>
+<ref name=wor-65>In WoR-65 Shallan mentions that it has been two hours since the end of WoR-61.</ref>
+<ref name=wor-73>WoR-73 is labeled "One year ago from circa Ishi 1173.</ref>
+<ref name=wor-73b>In WoR-73 it says "...a highstorm was approaching. The last one before the Weeping."</ref>
+{{ref|text=[[Words of Radiance/Epigraphs#Chapter 88|WoR-88 Epigraph]] lists dates for the final 10 highstorms leading up to the summoning of the Everstorm, as confirmed by the intervals between the countdown messages.|name=diagramdates}}
+<ref name=peter-tower/highstorm>[http://www.17thshard.com/forum/topic/6262-stormlight-chronology-notes/#entry101454 The highstorm in WoK-75 takes place after midnight the day after the Battle of the Tower. WoR-1 and WoR-2 take place later that morning.]</ref>
+<ref name=patternsummoning>In WoR-6 Shallan mentions that after drawing Pattern she initially tried to keep him hidden in her cabin but that for the previous 4 days she'd been with him on deck.</ref>
+<ref name=62days>First countdown message is discovered: "Sixty-two days. Death follows."</ref>
+<ref name=60days>In WoR-8 Dalinar mentions that there are now only 60 days left.</ref>
+<ref name=49days>Third countdown message is discovered: "Forty-nine days. A new storm comes."</ref>
+<ref name=38days>Fourth countdown message is discovered: "Thirty-eight days. The end of all nations."</ref>
+<ref name=37days>In WoR-41 it says "Thirty-seven days" remain.</ref>
+<ref name=32days>Fifth countdown message is discovered: "Thirty-two days. Seek the center."</ref>
+<ref name=11days>In WoR-67 it says "Eleven days" remain.</ref>
+<ref name=1day>In WoR-80 Dalinar says "Tomorrow is the last day of the countdown."</ref>
+<ref name=countdownend>In WoR-79 Navani mentions that the countdown ends three days from then. Which is also three days before Lightday, i.e. the first day of the new year.</ref>
+<ref name=the4>In WoR-89 it says "A week had passed since they had arrived at this place..."</ref>
+<ref name=exploration>In WoR-89 it says "Five days of exploration had sent Adolin and Navani into the depths of the city-tower."</ref>
+<ref name=eighthdayofexpedition>In WoR-80 it says they are now on the "eighth day of the expedition".</ref>
+<ref name=dayafterparshendi>In WoR-79 it says "It was the day after they’d discovered the Parshendi on the Plains..."</ref>
+<ref name=fourdaysweeping>In WoR-78 it says it is "Four days into the Weeping..."</ref>
+<ref name=theweeping>In WoR-77 it says "The Weeping began."</ref>
+<ref name=weeping76>In WoR-76 it says "The Weeping...would roll in sometime tomorrow."</ref>
+<ref name=trueglory>In WoR-75 it mentions "Last night's highstorm was the final one of the season. Sometime tomorrow, the Weeping would begin."</ref>
+<ref name=7hours>In WoR-71 it says "They had seven hours until the highstorm..."</ref>
+<ref name=chasmsleep>In WoR-70 Kaladin and Shallan sleep during part of the night.</ref>
+<ref name=lasthighstorm>In WoR-69 it says the last highstorm before the Weepings is "Tomorrow night... Just after first moonset."</ref>
+<ref name=moashbond>In WoR-68 it says Moash only has one more day until his Shardblade is bonded.</ref>
+<ref name=dalinarvisitb>In WoR-63 Adolin mentions Dalinar visited him the previous night, presumably around the same time he visited Kaladin.</ref>
+<ref name=dalinarvisita>In WoR-62 it says "There'd been a highstorm yesterday..."</ref>
+<ref name=nosleeponjesel>In WoR-60 Pattern implies it is Jesel.</ref>
+<ref name=stormform15>In WoR-I-11 Eshonai says "She had held [storm]form for fifteen [full] days now..."</ref>
+<ref name=manytransform>In WoR-I-11 Eshonai says "In two days, I will take any who wish to go into the storm..."</ref>
+<ref name=witvisit>In WoR-59 it says it is the "...third day of [Kaladin's] imprisonment..."</ref>
+<ref name=ghostbloodreport>In WoR-54 Shallan mentions she is running late after spending too much time with Adolin following his duel with Elit.</ref>
+<ref name=adolinsblunder>In WoR-53 Relis arranges the full disadvantage duel to be in two days.</ref>
+<ref name=menageriedate>In WoR-53 Shallan arranges a "date" for the following day.</ref>
+<ref name=ishevana>In WoR-52 it mentions "the previous day's highstorm".</ref>
+<ref name=ishevanb>In WoR-52 Syl mentions "It's been two days" since Kaladin met Graves.</ref>
+<ref name=parshendimeeting>In WoR-50 Adolin mentions that the meeting with the Parshendi is scheduled for the following day.</ref>
+<ref name=ghostbloodassignment>In WoR-43 Mraize orders Shallan to infiltrate Amaram's manor and report back "next week on Chachel".</ref>
+<ref name=elitduel>In WoR-37 Adolin arranges to duel Elit in seven days, on Chachel.</ref>
+<ref name=szethattack>In WoR-35 it says Szeth attacked the previous night.</ref>
+<ref name=bootscene>In WoR-36 Shallan says she met Kaladin "two days out from the Shattered Plains".</ref>
+<ref name=parshendimeetingsetup>In WoR-I-5 Thude says a meeting with the Alethi has been arranged in seven days.</ref>
+<ref name=ishanahhighstorm>In WoR-31 it says there is a highstorm that night.</ref>
+<ref name=lait>In WoR-30 Shallan estimates that they are about a day out from the Shattered Plains.</ref>
+<ref name=bootsout>In WoR-28 Shallan estimates they are about a day and a half out from the Shattered Plains.</ref>
+<ref name=horses>In WoR-25 Kaladin mentions it has been four days since the night of the railing assassination attempt.</ref>
+<ref name=desertersfourdays>In WoR-24 Shallan says she has been traveling with the deserters for four days.</ref>
+<ref name=desertershighstorm>In WoR-24 Shallan mentions a highstorm last night.</ref>
+<ref name=ironstance>In WoR-16 it is mentioned that the Ironstance duel was the previous day.</ref>
+<ref name=amaramarrival> In WoR-16 it says it has been seven days since Amaram's arrival.</ref>
+<ref name=tanatishesa> In WoR-17 Shallan refers to a highstorm that night.</ref>
+<ref name=tanatishesb> In WoR-18 Kaladin refers to a highstorm that night.</ref>
+<ref name=fireconfrontation> In WoR-17 Shallan mentions her confrontation with Tvlakv was the previous night.</ref>
+<ref name=sixdaystogether>In WoR-15 Shallan says she has been traveling with Tvlakv's caravan for six days.</ref>
+<ref name=postshipwrecksleep>In WoR-11 Shallan falls asleep and wakes up the following morning.</ref>
+<ref name=stormbacktwo>In WoR-6 Shallan mentions a highstorm "two days back".</ref>
+<ref name=strangebreakin>In WoR-5 Kaladin mentions "the strange break-in at Dalinar's quarters yesterday."</ref>
+<ref name=5monthpostmomdeath>In WoR-19 one of the House Davar maids mention it has been five months since Shallan's mother's death.</ref>
+<ref name=shallan14.5>In WoR-48 it is mentioned Shallan hit her teens "precisely fifteen months" previous.</ref>
+</References>
+{{Words of Radiance Summaries}}
+[[Category:Subpages]]

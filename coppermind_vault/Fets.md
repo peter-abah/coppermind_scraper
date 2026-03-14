@@ -1,14 +1,15 @@
-{{culture
-|type={{cat tag|Games|Game}}
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 1]]
-}}
-{{quote|It's like a game of fets—sometimes, the only way to take a piece is to corner it so that no matter which way it moves, it dies.|[[Hammond]]{{book ref|mb2|22}}|}}
+---
+source_file: Fets.txt
+entity_type: culture
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
+---
 
-**Fets** is a game played in the [[Final Empire]].{{book ref|mb2|22}} [[Hammond]] referenced it to [[Vin]] when she asked for a way to fight against a [[Allomancy|Mistborn]] with [[atium]].
+> It's like a game of fets—sometimes, the only way to take a piece is to corner it so that no matter which way it moves, it dies.
+> — [[Hammond]]
+
+**Fets** is a game played in the [[Final Empire]]. [[Hammond]] referenced it to [[Vin]] when she asked for a way to fight against a [[Allomancy|Mistborn]] with [[atium]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 20:16, 10 November 2017 (MST)}}
-{{Mistborn|Era 1}}

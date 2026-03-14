@@ -1,18 +1,15 @@
 ---
-profession: "{{cat tag|Law enforcement"
+source_file: Terri.txt
+entity_type: character
+residence: Elendel
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-|residence=Elendel
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
+**Terri** is a constable in [[Elendel]] on [[Scadrial]].
 
-**Terri** is a constable in [[Elendel]] on [[Scadrial]].{{book ref|mb5|7}}
-
-When [[Waxillium]] and [[Wayne]] arrived at the precinct office to interrogate [[Rian]] after his failed assassination attempt on Governor [[Replar Innate]], Wayne was wearing Constable Terri's hat.{{book ref|mb5|7}}
+When [[Waxillium]] and [[Wayne]] arrived at the precinct office to interrogate [[Rian]] after his failed assassination attempt on Governor [[Replar Innate]], Wayne was wearing Constable Terri's hat.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 22:35, 8 April 2022 (UTC)}}
-{{Mistborn|Era 2}}

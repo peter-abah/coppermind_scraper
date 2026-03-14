@@ -1,3 +1,8 @@
+---
+source_file: GazGallery.txt
+entity_type: article
+---
+
 ## Artwork
 <gallery caption="Gallery" mode="packed" heights=200px>
 Gaz.jpg | <center><small>by {{a|Ashley Coad}}</small></center> Before bonding a spren

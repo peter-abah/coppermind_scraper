@@ -1,0 +1,15 @@
+{{character|name=Darm
+|died=[[Winsting Innate's auction]], {{date|342|PC}}{{book ref|mb5|1}}
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[Shadows of Self]]
+}}
+{{for|Darm (Rithmatist)|the cleaning lady at [[Armedius Academy]]}}
+'''Darm''' is a criminal on [[Scadrial]].
+
+They are present at [[Winsting Innate's auction]], and one of [[Winsting Innate|Winsting]]'s guards claims that Darm is the first to start shooting, refuting another guard who says it was [[Dowser Maline|Dowser]].{{book ref|mb5|1}}
+
+== Notes ==
+<references />
+{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 00:56, 3 July 2018 (MST)}}
+{{Mistborn|Era 2}}

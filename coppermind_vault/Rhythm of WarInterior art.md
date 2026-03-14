@@ -1,4 +1,7 @@
-{{InteriorArtToC|sa}}
+---
+source_file: Rhythm of WarInterior art.txt
+entity_type: interiorarttoc
+---
 
 This is a gallery of interior art for *[[Rhythm of War]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 

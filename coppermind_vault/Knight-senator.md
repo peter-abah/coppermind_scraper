@@ -1,8 +1,11 @@
-{{group
-|earth=Rithmatist
-|books=[[The Rithmatist]]
-}}
-**Knight-senators** are political leaders in the [[United Isles of America]].{{book ref|Rithmatist|11}}
+---
+source_file: Knight-senator.txt
+entity_type: group
+earth: Rithmatist
+books: '[[The Rithmatist]]'
+---
+
+**Knight-senators** are political leaders in the [[United Isles of America]].
 
 ## Known knight-senators
 * [[Michael]]'s parents
@@ -10,6 +13,5 @@
 
 ## Notes
 <references />
-{{stub}}
-{{Rithmatist}}
+
 [[category: list articles]]

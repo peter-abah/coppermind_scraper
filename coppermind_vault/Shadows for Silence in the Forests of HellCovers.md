@@ -1,4 +1,9 @@
-This is a gallery for all known covers for *[[{{b|s4s}}]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
+---
+source_file: Shadows for Silence in the Forests of HellCovers.txt
+entity_type: b
+---
+
+This is a gallery for all known covers for *[[]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 
 <gallery widths=3000px heights=400px mode="packed">
 Shadows for Silence Cover Art.jpg | <center>United States</center> (Dragonsteel)

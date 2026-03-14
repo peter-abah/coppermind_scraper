@@ -1,15 +1,16 @@
 ---
-type: "Weapon"
-owners: "Wyrn (character)|Wyrn, Shu-Dereth|Derethi church"
-world: "Sel"
-universe: "Cosmere"
-books: "Elantris (book)|Elantris"
+source_file: Gretgor.txt
+entity_type: item
+type: Weapon
+owners: '[[Wyrn (character)|Wyrn]], [[Shu-Dereth|Derethi church]]'
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
 ---
 
-**Gretgor** is a sword used by the first [[Wyrn (character)|Wyrn]], founder of the [[Fjordell Empire]].{{glossary ref|Elantris|G}} Although it could be considered mythical,{{glossary ref|Elantris|G}} a sword thought to be Gretgor is enshrined in [[Widor]].{{wob ref|7438}}
+**Gretgor** is a sword used by the first [[Wyrn (character)|Wyrn]], founder of the [[Fjordell Empire]]. Although it could be considered mythical, a sword thought to be Gretgor is enshrined in [[Widor]].
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 09:23, 19 June 2019 (MST)}}
-{{Elantris}}
+
 [[Category: Weapons]]

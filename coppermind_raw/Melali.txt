@@ -1,0 +1,20 @@
+{{character
+|religion={{tag|Vorinism}}
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+'''Melali''' is a brighteyed lady on the [[Shattered Plains]].{{book ref|sa2|37}}
+
+==Appearance and Personality==
+Adolin considers her to be quite pretty. She wears a traditional Vorin [[havah]] with her hair in complex braids, including hairspikes.{{book ref|sa2|37}}
+
+==History==
+Melali and [[Adolin]] courted at one point, but Adolin did something, that he does not remember, that annoyed her, which lead to the end of their relationship.
+
+She is present with [[Relis Ruthar]] when [[Adolin]] challenges him for his [[Shardblade]]. Melali is quite bitter towards Adolin, and insults him and [[Dalinar Kholin]], saying that she was surprised Dalinar let him finally duel, as he might hurt himself.{{book ref|sa2|37}} Adolin jokes that it is nice to see her too, and asks how Melali's sister is. Melali tartly responds that her sister is off limits, and Adolin remembers that her sister was the reason why Melali despised him so, presumably because Adolin flirted with her sister.{{book ref|sa2|37}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 20:31, 10 November 2017 (MST)}}
+{{Stormlight}}

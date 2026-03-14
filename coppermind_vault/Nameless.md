@@ -1,69 +1,64 @@
-{{settlement
-|image=Nameless_Sea_of_Souls_map_crop.jpg
-|region=Sea of Souls
-|world=Shadesmar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
+---
+source_file: Nameless.txt
+entity_type: settlement
+image: Nameless_Sea_of_Souls_map_crop.jpg
+region: Sea of Souls
+world: Shadesmar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-{{quote
-|This place is literally called, 'Nameless'.
-|[[Nazh]]’s notes on his [[Sea of Souls]] map{{map ref|Sea of Souls}}
-}}
+> This place is literally called, 'Nameless'.
+> — [[Nazh]]’s notes on his [[Sea of Souls]] mapSea of Souls
 
-**Nameless** is an independent coastal outpost in [[Shadesmar]].{{book ref|sa4|29}}
-{{book ref|sa4|30}}{{map ref|Sea of Souls}}
+**Nameless** is an independent coastal outpost in [[Shadesmar]].
 
 ## Geography
-{{quote
-|A dark strip of obsidian broke the sea ahead, with quiet lights shimmering above. Not souls, but actual candles in the windows of small structures. 
-|A view of Nameless from the ocean{{book ref|sa4|29}}
-}}
-The town is located in the southern portion of the [[Sea of Souls]] in Shadesmar. It sits on the edge of the [[Radiant Depths]] and is near the peninsula that leads to [[Abiding Light]].{{map ref|Sea of Souls}} 
 
-Nameless resides on free lands that are not owned or controlled by the [[Fused]] or the [[honorspren]].{{book ref|sa4|29}} The town sits on a barren obsidian field that is sparse in vegetation. A small cluster of crystalline plants can occasionally be seen.{{book ref|sa4|30}}
+> A dark strip of obsidian broke the sea ahead, with quiet lights shimmering above. Not souls, but actual candles in the windows of small structures.
+> — A view of Nameless from the ocean
+
+The town is located in the southern portion of the [[Sea of Souls]] in Shadesmar. It sits on the edge of the [[Radiant Depths]] and is near the peninsula that leads to [[Abiding Light]]. 
+
+Nameless resides on free lands that are not owned or controlled by the [[Fused]] or the [[honorspren]]. The town sits on a barren obsidian field that is sparse in vegetation. A small cluster of crystalline plants can occasionally be seen.
 
 ### Locations
-The settlement is quite small and its four streets can be walked in less than half an hour. It is a busy waystop for travelers who are looking to buy or sell goods. Space exists outside where caravans can set up camp while they stay in the town, and a small port, that consists of a simple stone dock, can be utilized by those traveling by ship. Most, if not all, of the residents of the town are merchants, who have either temporarily or permanently settled due to the location’s propensity towards trade.{{book ref|sa4|29}}
+The settlement is quite small and its four streets can be walked in less than half an hour. It is a busy waystop for travelers who are looking to buy or sell goods. Space exists outside where caravans can set up camp while they stay in the town, and a small port, that consists of a simple stone dock, can be utilized by those traveling by ship. Most, if not all, of the residents of the town are merchants, who have either temporarily or permanently settled due to the location’s propensity towards trade.
 
-The small buildings of the town are made out of [[Shadesmar#Trade|manifested]] materials and have little to no cohesive styling. There is a general trend towards [[Azish]] influences, however, the [[spren]] in the town are limited by what building materials can be produced or procured by traders, which leads to buildings being a patchwork of different colored stone and other materials. Candles are used by the townsfolk to light their houses, with these likely being manifestations.{{book ref|sa4|29}}
+The small buildings of the town are made out of [[Shadesmar#Trade|manifested]] materials and have little to no cohesive styling. There is a general trend towards [[Azish]] influences, however, the [[spren]] in the town are limited by what building materials can be produced or procured by traders, which leads to buildings being a patchwork of different colored stone and other materials. Candles are used by the townsfolk to light their houses, with these likely being manifestations.
 
-Spren in the town wear a mixture of different [[Physical Realm]] fashion styles that likely would not be seen in any of the human nations of [[Roshar]].{{book ref|sa4|29}}
+Spren in the town wear a mixture of different [[Physical Realm]] fashion styles that likely would not be seen in any of the human nations of [[Roshar]].
 
 ### Marketplace
-{{quote
-|Traders from another land perhaps? Oh, it does happen, and more and more these days. People come in caravans seeking to trade.  
-|[[Archinal]] commenting on the influx of traders into [[Shadesmar]] while in Nameless{{book ref|sa4|29}}
-}}
-A range of items are available for purchase at the marketplace including, books, weapons, and food and water.{{book ref|sa4|29}}
 
-The market stalls are predominantly run by [[cultivationspren]], however, [[highspren]] and [[inkspren]] merchants have also set up stalls. Many of the merchants are able to speak [[Alethi]] and/or [[Azish]]. At least some merchants cater, at least in part, to humans and have travel necessities, such as food and water, available for purchase. Permanent market stalls are open sided and set against the front side of the stall owners home.{{book ref|sa4|29}}
+> Traders from another land perhaps? Oh, it does happen, and more and more these days. People come in caravans seeking to trade.
+> — [[Archinal]] commenting on the influx of traders into [[Shadesmar]] while in Nameless
+
+A range of items are available for purchase at the marketplace including, books, weapons, and food and water.
+
+The market stalls are predominantly run by [[cultivationspren]], however, [[highspren]] and [[inkspren]] merchants have also set up stalls. Many of the merchants are able to speak [[Alethi]] and/or [[Azish]]. At least some merchants cater, at least in part, to humans and have travel necessities, such as food and water, available for purchase. Permanent market stalls are open sided and set against the front side of the stall owners home.
 
 ## Occupants
-The town is made up of a large variety of sapient spren, including both [[spren#Radiant|Radiant]] and non-Radiant spren. Many of the spren do not permanently live in the town and are instead passing through as caravaneers or sailors.{{book ref|sa4|29}}
+The town is made up of a large variety of sapient spren, including both [[spren#Radiant|Radiant]] and non-Radiant spren. Many of the spren do not permanently live in the town and are instead passing through as caravaneers or sailors.
 
-Although the town appears to be predominantly run by spren, it is not uncommon to find humans passing through with the caravans. As such, they do not draw as much attention or stick out as an oddity as they would in other trade cities such as [[Celebrant]],{{book ref|sa3|102}} and are largely treated like any other trader. Humans may still experience hostility from individual spren.{{book ref|sa4|29}}  
+Although the town appears to be predominantly run by spren, it is not uncommon to find humans passing through with the caravans. As such, they do not draw as much attention or stick out as an oddity as they would in other trade cities such as [[Celebrant]], and are largely treated like any other trader. Humans may still experience hostility from individual spren.  
 
-[[Notum]] is a known figure among the townspeople, although he likely does not stay in the town for long when his patrol passes by. He is tolerated, but not well liked by the townspeople and they will go out of their way to avoid him if possible.{{book ref|sa4|30}}
+[[Notum]] is a known figure among the townspeople, although he likely does not stay in the town for long when his patrol passes by. He is tolerated, but not well liked by the townspeople and they will go out of their way to avoid him if possible.
 
 ## History
-{{sidequote
-|We have landed and the others went out to explore a small dockside town here on the coast. We have several weeks’ further travel via caravan, hopefully as uneventful as these, before reaching the fortress.
-|[[Shallan]] reporting on their journey to [[Mraize]]{{book ref|sa4|29}}
-|side=right|size=350px
-}}
 
-At some point after his demotion as captain, Notum began to visit Nameless as part of his patrol through the area.{{book ref|sa4|30}} 
+> We have landed and the others went out to explore a small dockside town here on the coast. We have several weeks’ further travel via caravan, hopefully as uneventful as these, before reaching the fortress.
+> — [[Shallan]] reporting on their journey to [[Mraize]]
 
-In 1175, [[Adolin]] and the [[Urithiru]] delegation stopped in Nameless on their way to [[Lasting Integrity]]. [[Ua'pam]] and [[Zu (Roshar)|Zu]] arranged a campsite for the group to set up in until they were ready to continue their journey.{{book ref|sa4|29}}
+At some point after his demotion as captain, Notum began to visit Nameless as part of his patrol through the area. 
 
-The group explored the town, trading their remaining [[Stormlight]] for the supplies they would need, both for their journey to Lasting Integrity, and also their return to Urithiru. While exploring the marketplace, Adolin and [[Maya]] encountered [[Testament]] and learned of her death at the hands of an unknown [[Shallan|Radiant]] ten years prior.{{book ref|sa4|29}}
+In 1175, [[Adolin]] and the [[Urithiru]] delegation stopped in Nameless on their way to [[Lasting Integrity]]. [[Ua'pam]] and [[Zu (Roshar)|Zu]] arranged a campsite for the group to set up in until they were ready to continue their journey.
 
-After their encounter, Adolin and [[Godeke]] attempted to approach the [[Tukari caravaneers]] who had set up camp outside of the town. The group were antagonistic and turned the pair away. Returning to [[Unativi]]'s barge, Adolin found Notum talking with the boat’s captain. Adolin explained his plan to Notum of how he planned to approach the honorspren, however, Notum shut down his idea, strongly believing that the honorspren would never consider his request.{{book ref|sa4|30}}
+The group explored the town, trading their remaining [[Stormlight]] for the supplies they would need, both for their journey to Lasting Integrity, and also their return to Urithiru. While exploring the marketplace, Adolin and [[Maya]] encountered [[Testament]] and learned of her death at the hands of an unknown [[Shallan|Radiant]] ten years prior.
 
-Adolin and his cohort left Nameless shortly after Notum, with the Tukari caravaneers following them out of the town.{{book ref|sa4|32}}
+After their encounter, Adolin and [[Godeke]] attempted to approach the [[Tukari caravaneers]] who had set up camp outside of the town. The group were antagonistic and turned the pair away. Returning to [[Unativi]]'s barge, Adolin found Notum talking with the boat’s captain. Adolin explained his plan to Notum of how he planned to approach the honorspren, however, Notum shut down his idea, strongly believing that the honorspren would never consider his request.
+
+Adolin and his cohort left Nameless shortly after Notum, with the Tukari caravaneers following them out of the town.
 
 ## Notes
 <references />
-{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 06:56, 17 November 2020 (UTC)}}
-{{stormlight}}

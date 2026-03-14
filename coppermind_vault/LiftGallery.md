@@ -1,3 +1,8 @@
+---
+source_file: LiftGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Edgedancer UK cover.jpg | <center><small>by {{a|Sam Green}}</small></center> On the UK cover of *[[Edgedancer (novella)|Edgedancer]]*

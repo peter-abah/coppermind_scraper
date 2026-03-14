@@ -1,16 +1,15 @@
 ---
-titles: "General"
-#profession: "Soldier"
-nation: "Shinovar"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Wind and Truth"
+source_file: Lumo-son-Tumo.txt
+entity_type: character
+titles: General
+'#profession': Soldier
+nation: Shinovar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-{{update|sa5}}
-**Lumo-son-Tumo** is a soldier who later becomes the general of the camp near the [[Stoneward]] monastery in [[Shinovar]] on [[Roshar]].{{book ref|sa5|59}}{{book ref|sa5|111}}
+**Lumo-son-Tumo** is a soldier who later becomes the general of the camp near the [[Stoneward]] monastery in [[Shinovar]] on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

@@ -1,6 +1,11 @@
-{{disambig}} [[Category:family names]]
+---
+source_file: ZoBell.txt
+entity_type: disambig
+---
 
-**Kaylynn ZoBell** is one of [[Brandon]]'s long-time early readers{{article ref|Acknowledgements}} and has cameoed in a number of books:
+[[Category:family names]]
+
+**Kaylynn ZoBell** is one of [[Brandon]]'s long-time early readers and has cameoed in a number of books:
 
 ## [[The Rithmatist]]
 * [[Professor ZoBell]] - A [[Rithmatics|Rithmatist]]

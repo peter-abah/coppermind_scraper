@@ -1,0 +1,15 @@
+{{character
+|titles=Prime controller of the elected assembly
+|species=Dione
+|world=Monrome
+|universe=[[Cytoverse]]
+|introduced=[[Defiant (book)|Defiant]]
+}}
+{{update|sky4}}
+'''Valizode''' is the prime controller of the general assembly on [[Monrome]], the homeworld of the [[dione]]s.{{book ref|sky4|epilogue}}
+
+== Notes ==
+<references />
+{{stub}}
+{{Skyward}}
+[[Category: Viewpoint characters]]

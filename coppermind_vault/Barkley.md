@@ -1,15 +1,15 @@
 ---
-profession: "Groundskeeper"
-residence: "Armedius Academy"
-earth: "Rithmatist"
-introduced: "The Rithmatist"
+source_file: Barkley.txt
+entity_type: character
+profession: Groundskeeper
+residence: Armedius Academy
+earth: Rithmatist
+introduced: '[[The Rithmatist]]'
 ---
 
 **Old Barkley** is a groundskeeper at [[Armedius Academy]].
 
-[[Melody]] and [[Joel]] passed him one evening while he was rewinding the [[springwork]] lanterns in order to turn them on.{{book ref|Rithmatist|13}} He is assisted by springwork crabs which can clip grass and presumably worked with [[Joseph]], another groundskeeper.{{book ref|rithmatist|4}}{{book ref|Rithmatist|12}}
+[[Melody]] and [[Joel]] passed him one evening while he was rewinding the [[springwork]] lanterns in order to turn them on. He is assisted by springwork crabs which can clip grass and presumably worked with [[Joseph]], another groundskeeper.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 21:13, 13 August 2022 (UTC)}}
-{{Rithmatist}}

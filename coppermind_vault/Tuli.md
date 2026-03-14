@@ -1,15 +1,14 @@
 ---
-occupation: "Strategist"
-ethnicity: "Eelakin"
-world: "First of the Sun"
-universe: "Cosmere"
-introduced: "Isles of the Emberdark"
+source_file: Tuli.txt
+entity_type: character
+occupation: Strategist
+ethnicity: Eelakin
+world: First of the Sun
+universe: '[[Cosmere]]'
+introduced: '[[Isles of the Emberdark]]'
 ---
 
-{{spoilers|iote}}
-**Tuli** is a strategist with the [[Second Company]] on [[First of the Sun]]. They are a member of the group negotiating with the [[Ones Above]] and advising [[Vathi]]. They suggest staging a coup d'etat to oust Vathi from power as a stalling tactic and force the Ones Above to reset the talks. Tuli has a colorful [[aviar]] of the same breed as [[Kokerlii]], capable of hiding his mind from nearby predators.{{book ref|iote|7}}
+**Tuli** is a strategist with the [[Second Company]] on [[First of the Sun]]. They are a member of the group negotiating with the [[Ones Above]] and advising [[Vathi]]. They suggest staging a coup d'etat to oust Vathi from power as a stalling tactic and force the Ones Above to reset the talks. Tuli has a colorful [[aviar]] of the same breed as [[Kokerlii]], capable of hiding his mind from nearby predators.
 
 ## Notes
 <references />
-{{complete}}
-{{Emberdark}}

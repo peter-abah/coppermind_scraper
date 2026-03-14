@@ -1,24 +1,27 @@
-{{book|title=*Edgedancer*|display-title=*Edgedancer* (novella)
-|cover=Edgedancer Cover.jpg
-|series=[[The Stormlight Archive]]
-|prequel=Words of Radiance
-|sequel=Oathbringer
-|released=November 22, 2016
-|setting=[[Roshar]], [[Cosmere]]
-|publisher=Tor Books
-|ISBN=978-1-250-16654-8
-|page-count=272
-|word-count=[[/Statistical_analysis|40,660]]
-}}
-{{for|Order of Edgedancers|the Order of Knights Radiant|pre=This article deals with the novella featuring Lift}}
+---
+source_file: Edgedancer (novella).txt
+entity_type: book
+title: '''''Edgedancer'''''
+display-title: '''''Edgedancer'''' (novella)'
+cover: Edgedancer Cover.jpg
+series: '[[The Stormlight Archive]]'
+prequel: Words of Radiance
+sequel: Oathbringer
+released: November 22, 2016
+setting: '[[Roshar]], [[Cosmere]]'
+publisher: Tor Books
+isbn: 978-1-250-16654-8
+page-count: '272'
+word-count: '[[/Statistical_analysis|40,660]]'
+---
 
 ***Edgedancer*** is a novella featuring [[Lift]] originally published in *[[Arcanum Unbounded]]*. In the chronology, it largely takes place between [[Words of Radiance]] and [[Oathbringer]].
 
 ## Synopsis
-*Three years ago, [[Lift]] asked a goddess to stop her from growing older–a wish she believed was granted. Now, in *Edgedancer*, the barely teenage nascent [[Knight Radiant]] finds that time stands still for no one. Although the [[Yanagawn|young Azish emperor]] granted her safe haven from an executioner she knows only as [[Nale|Darkness]], court life is suffocating the free-spirited Lift, who can’t help heading to [[Yeddaw]] when she hears the relentless Darkness is there hunting people like her with budding powers. The downtrodden in Yeddaw have no champion, and Lift knows she must seize this awesome responsibility.*{{url ref|url=https://www.brandonsanderson.com/the-stormlight-archive-series/#EDGEDANCER|text=Brandon's website|site=brandonsanderson.com}}
+*Three years ago, [[Lift]] asked a goddess to stop her from growing older–a wish she believed was granted. Now, in *Edgedancer*, the barely teenage nascent [[Knight Radiant]] finds that time stands still for no one. Although the [[Yanagawn|young Azish emperor]] granted her safe haven from an executioner she knows only as [[Nale|Darkness]], court life is suffocating the free-spirited Lift, who can’t help heading to [[Yeddaw]] when she hears the relentless Darkness is there hunting people like her with budding powers. The downtrodden in Yeddaw have no champion, and Lift knows she must seize this awesome responsibility.*
 
 ## Summary
-{{for|/Summary|a chapter by chapter summary}}
+
 Lift travels with her spren [[Wyndle]] to [[Yeddaw]] in [[Tashikk]] from [[Azimir]] where her friend [[Gawx]] had recently been crowned emperor. Upon arriving at the city, she makes sure to display her [[Order of Edgedancers|Edgedancer]] powers to the guards so that she can find [[Nale|Darkness]]. She hopes to find and protect another [[Knights Radiant|Radiant]] that she knows he's hunting in the city. She also has the goal of eating all ten varieties of pancakes that they make during the [[Weeping]].
 
 She finds an [[Tashi's Light Orphanage|orphanage]] in order to get some food. It's run by an old lady referred to as the [[Stump]] and haunted by a strange old philosopher. The Stump is cranky and cynical because many children come to her who have some sort of mental illness, and after they have been with her for a while, they are healed. She feels like she's constantly being scammed.
@@ -37,13 +40,12 @@ Lift is one of [[Brandon Sanderson|Brandon's]] favorite characters in the [[Stor
 The fact that Lift still thinks she is ten years old, even though she has lived for thirteen years, is more than just a joke.
 
 ## Development
-The first draft of *Edgedancer* was written during May 2016.{{sots ref|2016}}
+The first draft of *Edgedancer* was written during May 2016.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Edgedancer}}
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Edgedancer* consists of nineteen chapters from the PoV of Lift and one from the PoV of [[Hauka]], reaching a total 40,660 word count. The standalone version also includes Lift's interlude from *Words of Radiance*.
 
 {|class="wikitable"
@@ -71,8 +73,6 @@ The first draft of *Edgedancer* was written during May 2016.{{sots ref|2016}}
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Stormlight}}
-{{books}}
+
 [[category: Stormlight Archive| 2.5]]
 [[es:Danzante del Filo (novella)]]

@@ -1,10 +1,15 @@
-{{book|title=*Alloy of Law*|display-title=*Alloy of Law* (rule book)
-|cover=MAG AOL_cover.jpg
-|released=August 3, 2014{{tweet ref|497400509242679298|Alloy of Law release tweet|date=2014-08-07}}
-|series=[[Mistborn Adventure Game]]
-|setting=[[Scadrial]], [[Cosmere]]
-|publisher=Crafty Games
-}}
+---
+source_file: Alloy of Law (rule book).txt
+entity_type: book
+title: '''''Alloy of Law'''''
+display-title: '''''Alloy of Law'''' (rule book)'
+cover: MAG AOL_cover.jpg
+released: August 3, 2014
+series: '[[Mistborn Adventure Game]]'
+setting: '[[Scadrial]], [[Cosmere]]'
+publisher: Crafty Games
+---
+
 ***Alloy of Law*** is the second supplement released for the *[[Mistborn Adventure Game]]*. It focuses on updating the rules and world to [[Mistborn Era 2]].
 
 ## Product Description
@@ -24,13 +29,12 @@ This is *The Alloy of Law*.
 *A gazetteer of the towns, cities, and key locations of the Elendel Basin and Roughs
 *An exploration of the faiths, politics, and secrets of The Alloy of Law… and beyond
 *Advice and inspiration for Narrators on running campaigns in The Alloy of Law era
-*A rogues’ gallery of noted personalities in the era, including novel heroes Wax, Wayne, and Marasi{{url ref|url=http://www.crafty-games.com/content/alloy-law-available-now|text=product description|site=[[Crafty Games]]}}
+*A rogues’ gallery of noted personalities in the era, including novel heroes Wax, Wayne, and Marasi
 
 ==External Links==
 *[http://www.crafty-games.com/buy-now/alloy-of-law Product page on Crafty Games' website]
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Mistborn|rpg}}
+
 [[category: Mistborn|#mag-r3]]

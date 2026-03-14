@@ -1,0 +1,2 @@
+#redirect[[Kalak]]
+[[category: aliases]]

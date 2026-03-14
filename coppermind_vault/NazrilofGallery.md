@@ -1,3 +1,8 @@
+---
+source_file: NazrilofGallery.txt
+entity_type: article
+---
+
 ## Official Art
 <gallery mode="packed" heights=250px caption="Official Art">
 Ghastly Gondola.jpg| <small><center>by {{a|Ben McSweeney}}</center></small>Shooting a [[shade]] at [[Nicki Savage]]

@@ -1,0 +1,6 @@
+#REDIRECT[[Listener#Military]]
+[[category: Stormlight Archive]]
+[[category: subsection redirects]]
+[[Category: Cosmere]]
+[[Category: Culture]]
+[[Category: Rosharan culture]]

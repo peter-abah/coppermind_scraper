@@ -1,17 +1,15 @@
 ---
-world: "Roshar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Madasa.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-**Madasa** is a historical figure on [[Roshar]] from a time prior to the [[Day of Recreance]]. They are mentioned in *[[Words of Radiance (in-world)|Words of Radiance]]* in connection to the [[Order of Bondsmiths]]. It is not clear if Madasa was actually a [[Knight Radiant]] or some other contemporary authority figure.{{epigraph ref|sa2|44}}
+**Madasa** is a historical figure on [[Roshar]] from a time prior to the [[Day of Recreance]]. They are mentioned in *[[Words of Radiance (in-world)|Words of Radiance]]* in connection to the [[Order of Bondsmiths]]. It is not clear if Madasa was actually a [[Knight Radiant]] or some other contemporary authority figure.
 
-{{quote
-| But as for the [[Bondsmith]]s, they had members only three, which number was not uncommon for them; nor did they seek to increase this by great bounds, for during the times of Madasa, only one of their order was in continual accompaniment of [[Urithiru]] and its thrones. Their spren was understood to be specific, and to persuade them to grow to the magnitude of the other orders was seen as seditious.
-| from *[[Words of Radiance (in-world)#Chapter 16|Words of Radiance]]*, chapter 16, page 14{{epigraph ref|sa2|44}}
-}}
+> But as for the [[Bondsmith]]s, they had members only three, which number was not uncommon for them; nor did they seek to increase this by great bounds, for during the times of Madasa, only one of their order was in continual accompaniment of [[Urithiru]] and its thrones. Their spren was understood to be specific, and to persuade them to grow to the magnitude of the other orders was seen as seditious.
+> — from *[[Words of Radiance (in-world)#Chapter 16|Words of Radiance]]*, chapter 16, page 14
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:00, 28 August 2020 (UTC)}}
-{{Stormlight}}

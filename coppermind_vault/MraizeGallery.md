@@ -1,3 +1,8 @@
+---
+source_file: MraizeGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=200px caption="Official artwork">
 Ghostblood Agent by Soph P.jpg | <center><small>by {{a|Soph Peralta}}</small></center> *Ghostblood Agent*, from *[[Call to Adventure: The Stormlight Archive]]*

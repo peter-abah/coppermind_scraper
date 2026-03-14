@@ -1,0 +1,30 @@
+{{culture
+|type={{cat tag|Religion}}
+|related=Classical Scadrial
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn (series)]]
+}}
+'''Larstaism''' was a religion from [[Classical Scadrial]]. The Larsta people were banished from their land, which had held many complex traditions and rules. In response, they made their religion as simple as possible.{{book ref|mb2|48}} [[Mare]] was a follower of the Larsta faith, converting to it after [[Sazed]] had preached it to her.{{book ref|mb3|10}} 
+
+Sazed evaluates Larstaism for truth longer than other pre-Ascension religions because it did not seem to have any illogical or contradictory tenets.{{book ref|mb3|10}} He uses their descriptions of Scadrial's pre-ascension plants and animals, such as the [[Marewill flowers]], to model new flora. 
+
+== Beliefs ==
+
+Simplicity was a key tenet of the Larsta faith, and it focused on the simple beauty of nature.{{book ref|mb2|48}} They believed in "seeking the divine" through art and creation rather than on answering existential questions or discussing the afterlife. Since not everyone could create art, Larsta society donated money to talented monks so that they would be able to paint, sculpt and write poetry which would then benefit the entire society -- they believed art brought them closer to understanding divinity. Flowers were a subject of Larsta poetry. 
+
+Larstaism had a religious hierarchy, and Larsta priests wrote poetry about the world's beauty while they meditated.{{book ref|mb3|82}} Prayer materials, scriptures, notes and writings were also used in the religion.{{book ref|mb3|10}}
+
+Larsta weddings required only a declaration of love before a local priest, and they did not believe in divorce.{{book ref|mb2|48}}
+
+It is discussed in [[Harmony]]'s ''[[Beliefs Reborn]]''. [[Wax]] and [[Steris]]'s wedding ceremony is based on practices of the Larsta faith{{book ref|mb6|1}}, as is [[Vin]] and [[Elend]]'s.{{book ref|mb2|48}}
+
+{{quote
+| "Be warned, the Larsta love oath is binding. They knew no form of divorce in their culture."
+|  Sazed while marrying Vin and Elend
+}}
+
+== Notes ==
+<references />
+{{complete}}
+{{Mistborn|Era 1}}

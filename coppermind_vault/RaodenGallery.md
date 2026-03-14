@@ -1,3 +1,8 @@
+---
+source_file: RaodenGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Elantris SP cover art 1.jpg | <center><small>by {{a|Alain Brion}}</small></center> On Spanish *Elantris* anniversary cover

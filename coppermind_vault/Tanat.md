@@ -1,4 +1,9 @@
-{{disambig}}<br/>
+---
+source_file: Tanat.txt
+entity_type: disambig
+---
+
+<br/>
 
 **Tanat** can refer to multiple things:
 * One of the names used for the [[Herald]] [[Talenel]]

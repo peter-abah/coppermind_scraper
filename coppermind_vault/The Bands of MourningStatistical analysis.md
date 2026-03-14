@@ -1,3 +1,8 @@
+---
+source_file: The Bands of MourningStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains some statistical analysis of ***[[The Bands of Mourning]]***, the third book in the [[Mistborn (series)|Wax and Wayne series]].
 
 For a full series overview see [[Mistborn/Statistical analysis]], and for other books in the series see [[The Alloy of Law/Statistical analysis]], [[Shadows of Self/Statistical analysis]], and [[The Lost Metal/Statistical analysis]].
@@ -257,8 +262,6 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 
 |}
 
-{{meta/done}}
-{{Mistborn|Era 2}}
 [[category: Mistborn|*e2.3e]]
 [[category: Mistborn Era 2|*2e]]
 [[category: statistics]]

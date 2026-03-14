@@ -1,26 +1,24 @@
 ---
-titles: "First Generation"
-species: "Kandra"
-abilities: "{{tag+|feruchemist"
+source_file: Haddek.txt
+entity_type: character
+titles: '[[First Generation]]'
+species: Kandra
+abilities: feruchemist <small>(formerly)</small>
+nation: Terris
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Hero of Ages]]'
 ---
 
-<small>(formerly)</small>{{epigraph ref|mb3|68}}
-|nation=Terris
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[The Hero of Ages]]
-}}
 **Haddek** is a member of the [[First Generation]] of the [[kandra]] and acts as the leader of the Firsts.
 
 ## Appearance & Personalty
-Instead of a [[True Body]], Haddek, like the other Firsts, wears his own original bones.{{book ref|mb3|68}}
+Instead of a [[True Body]], Haddek, like the other Firsts, wears his own original bones.
 
 ## History
-Before the [[Ascension of the Lord Ruler]] he was one of [[Rashek]]'s fellow packmen.{{expand}} The changes made by Rashek during his Ascension included making Haddek into a mistwraith, and then after this he was given [[Hemalurgic]] Blessings, and became a member of the First Generation of kandra.
+Before the [[Ascension of the Lord Ruler]] he was one of [[Rashek]]'s fellow packmen. The changes made by Rashek during his Ascension included making Haddek into a mistwraith, and then after this he was given [[Hemalurgic]] Blessings, and became a member of the First Generation of kandra.
 
-During the [[Battle of Hathsin]], Haddek teaches [[Sazed]] the original [[Terris prophecies]] and aids the discovery of [[Ruin]]'s true intentions. However, once it became clear that Ruin had begun to influence the kandra, Haddek declared that the [[Resolution]] had come, prompting most of the kandra to remove their blessings.{{book ref|mb3|79}}
+During the [[Battle of Hathsin]], Haddek teaches [[Sazed]] the original [[Terris prophecies]] and aids the discovery of [[Ruin]]'s true intentions. However, once it became clear that Ruin had begun to influence the kandra, Haddek declared that the [[Resolution]] had come, prompting most of the kandra to remove their blessings.
 
 ## Notes
 <references /><!-- mb3: 71, 75, 79 -->
-{{partial}}
-{{Mistborn|Era 1}}

@@ -1,24 +1,29 @@
-<noinclude>{{literature
-|type=Message
-|author=[[Kwaan]]
-|era=Classical Scadrial
-|language=[[Terris]] (old dialect)
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 1]]
-}}
+---
+source_file: Kwaan's inscription.txt
+entity_type: literature
+type: Message
+author: '[[Kwaan]]'
+era: Classical Scadrial
+language: '[[Terris]] (old dialect)'
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
+---
+
+<noinclude>
 **Kwaan's inscription** is a message written in [[steel]] by [[Kwaan]], warning about [[Ruin]]'s corruption of the [[Terris prophecies]] and denouncing [[Alendi]].
 
-After the [[Lord Ruler]] killed Kwaan, he kept the inscription as a reminder of his old life,{{wob ref|5764}} and it was eventually housed in the [[Conventical of Seran]]. After the [[Collapse]], [[Sazed]] discovered it when he visited the Conventical with [[Marsh]], and he took a rubbing of it for later study.{{book ref|mb2|12}} Unfortunately [[Ruin]] modified it, tricking [[Vin]] into giving up the power of the [[Well of Ascension]] and letting him back into the world.{{book ref|mb2|58}} After Ruin's release, Sazed returned to the Conventical to read the unmodified version.{{book ref|mb2|epilogue}}
+After the [[Lord Ruler]] killed Kwaan, he kept the inscription as a reminder of his old life, and it was eventually housed in the [[Conventical of Seran]]. After the [[Collapse]], [[Sazed]] discovered it when he visited the Conventical with [[Marsh]], and he took a rubbing of it for later study. Unfortunately [[Ruin]] modified it, tricking [[Vin]] into giving up the power of the [[Well of Ascension]] and letting him back into the world. After Ruin's release, Sazed returned to the Conventical to read the unmodified version.
 
 ## Full Text
 {| class="mw-collapsible mw-collapsed" width=100%
 |-
-|{{copyright}}
+|
 The full text of Kwaan's inscription was found by Sazed in the Conventical of Seran. The full, uncorrected inscription is revealed in *[[The Well of Ascension]]* [[The Well of Ascension/Epigraphs|epigraphs]]. Expand on the right to display the full text of Kwaan's inscription: 
 |-
 |
-{{quote|</noinclude>
+
+> </noinclude>
 I write these words in steel, for anything not set in metal cannot be trusted. I have begun to wonder if I am the only sane man remaining. Can the others not see? They have been waiting so long for their hero to come— the one spoken of in Terris prophecies— that they quickly jump between conclusions, presuming that each story and legend applies to this one man. My brethren ignore the other facts. They cannot connect the other strange things that are happening. They are deaf to my objections and blind to my discoveries. Perhaps they are right. Perhaps I am mad, or jealous, or simply daft. My name is Kwaan. Philosopher, scholar, traitor. I am the one who discovered Alendi, and I am the one who first proclaimed him to be the Hero of Ages. I am the one who started this all. And I am the one who betrayed him, for I now know that he must never be allowed to complete his quest.
 <br />
 I write this record now, pounding it into a metal slab, because I am afraid. Afraid for myself, yes—I admit to being human. If Alendi does return from the Well of Ascension, I am certain that my death will be one of his first objectives. He is not an evil man, but he is a ruthless one. That is, I think, a product of what he has been through.
@@ -103,7 +108,9 @@ If Rashek fails to lead the trek astray, then I have instructed the lad to kill 
 <br />
 Alendi must not reach the Well of Ascension, for he must not be allowed to release the thing that is imprisoned there.
 
-<noinclude>|Kwaan's inscription in the Conventical of Saran}}
+<noinclude>
+> — Kwaan's inscription in the Conventical of Saran
+
 |}
 
 ## Ruin's Corruption
@@ -115,12 +122,12 @@ Ruin altered specific portions of Sazed's copies of Kwaan's inscription in order
 ! width=10% | Version !! Text
 |-
 ! Original Text
-| "I am afraid, however, that all I have known - that my story - will be forgotten. I am afraid for the world that is to come. Afraid that **my plans** will fail. Afraid of a doom **worse than** the Deepness." {{epigraph ref|mb2|7}}
+| "I am afraid, however, that all I have known - that my story - will be forgotten. I am afraid for the world that is to come. Afraid that **my plans** will fail. Afraid of a doom **worse than** the Deepness." 
 |-
 ! rowspan=2 | Corrupted Text
-|"I am afraid, however, that all I have known - that my story - will be forgotten. I am afraid for the world that is to come. Afraid that **Alendi** will fail. Afraid of a doom **brought by** the Deepness." {{book ref|mb2|30}}
+|"I am afraid, however, that all I have known - that my story - will be forgotten. I am afraid for the world that is to come. Afraid that **Alendi** will fail. Afraid of a doom **brought by** the Deepness." 
 |-
-|"I am also afraid, however, that all I have known - that my story - will be forgotten. I am afraid for the world that may come. Afraid **because my plans failed**. Afraid of a doom **brought by** the Deepness." {{book ref|mb2|41}}
+|"I am also afraid, however, that all I have known - that my story - will be forgotten. I am afraid for the world that may come. Afraid **because my plans failed**. Afraid of a doom **brought by** the Deepness." 
 |-
 |}
 
@@ -131,10 +138,10 @@ Here Ruin obscures the revelation that Kwaan is concerned about a threat greater
 ! width=10% | Version !! Text
 |-
 !Original Text
-|"Alendi's height struck me the first time I saw him. Here was a man who **towered over others**, a man who** - despite his youth and clothing - **demanded respect." {{epigraph ref|mb2|10}}
+|"Alendi's height struck me the first time I saw him. Here was a man who **towered over others**, a man who** - despite his youth and clothing - **demanded respect." 
 |-
 !Corrupted Text
-|"Alendi's height struck me the first time I saw him. Here was a man who **was small of stature, but who seemed to tower over others**, a man who demanded respect." {{book ref|mb2|30}}
+|"Alendi's height struck me the first time I saw him. Here was a man who **was small of stature, but who seemed to tower over others**, a man who demanded respect." 
 |-
 |}
 
@@ -145,10 +152,10 @@ Here Kwaan describes Alendi's physical appearance as it pertains to the propheci
 ! width=10% | Version !! Text
 |-
 ! Original Text
-| "When I finally had the realization - finally connected all of the signs of the Anticipation to **Alendi** - I was so excited." {{epigraph ref|mb2|13}}
+| "When I finally had the realization - finally connected all of the signs of the Anticipation to **Alendi** - I was so excited." 
 |-
 ! Corrupted Text
-| "When I finally had the realization - finally connected all of the signs of the Anticipation to **him** - I was so excited." {{book ref|mb2|30}}
+| "When I finally had the realization - finally connected all of the signs of the Anticipation to **him** - I was so excited." 
 |-
 |}
 
@@ -159,10 +166,10 @@ Ruin replaces "Alendi" with a gender neutral pronoun (translated here to "him") 
 ! width=10% | Version !! Text
 |-
 ! Original Text
-| "If only the Deepness hadn't come **when it did**, providing a threat that drove men to desperation both in action and belief." {{epigraph ref|mb2|18}}
+| "If only the Deepness hadn't come **when it did**, providing a threat that drove men to desperation both in action and belief." 
 |-
 ! Corrupted Text
-| "If only the Deepness hadn't come, providing a threat that drove men to desperation both in action and belief." {{book ref|mb2|30}}
+| "If only the Deepness hadn't come, providing a threat that drove men to desperation both in action and belief." 
 |-
 |}
 
@@ -173,10 +180,10 @@ Ruin removes the phrase "when it did," emphasizing the threat of the Deepness.
 ! width=10% | Version !! Text
 |-
 ! Original Text
-| "There was a place for me, in the lore of the Anticipation—I thought myself the **Announcer**, the prophet foretold to discover the Hero of Ages." {{epigraph ref|mb2|34}}
+| "There was a place for me, in the lore of the Anticipation—I thought myself the **Announcer**, the prophet foretold to discover the Hero of Ages." 
 |-
 ! Corrupted Text
-| "There was a place for me, in the lore of the Anticipation—I thought myself the **Holy First Witness**, the prophet foretold to discover the Hero of Ages." {{book ref|mb2|57}}
+| "There was a place for me, in the lore of the Anticipation—I thought myself the **Holy First Witness**, the prophet foretold to discover the Hero of Ages." 
 |-
 |}
 
@@ -187,10 +194,10 @@ Here, Ruin replaces the title Kwaan earned among the [[Worldbringers]] with the 
 ! width=10% | Version !! Text
 |-
 ! Original Text
-| "Alendi was never the Hero of Ages. At best, I have amplified his virtues, creating a Hero where there was none. At worst, I fear that **all we believe may have been corrupted**." {{epigraph ref|mb2|36}}
+| "Alendi was never the Hero of Ages. At best, I have amplified his virtues, creating a Hero where there was none. At worst, I fear that **all we believe may have been corrupted**." 
 |-
 ! Corrupted Text
-| "Alendi was never the Hero of Ages. At best, I have amplified his virtues, creating a Hero where there was none. At worst, I fear that **I have corrupted all we believe**." {{book ref|mb2|57}}
+| "Alendi was never the Hero of Ages. At best, I have amplified his virtues, creating a Hero where there was none. At worst, I fear that **I have corrupted all we believe**." 
 |-
 |}
 
@@ -201,10 +208,10 @@ Here, Ruin erases a reference to Kwaan's realization that the prophecies have be
 ! width=10% | Version !! Text
 |-
 ! Original Text
-| "I **have no** doubt that if Alendi reaches the Well of Ascension, he will take the power and then - in the name of the **presumed** greater good - give it up." {{epigraph ref|mb2|50}}
+| "I **have no** doubt that if Alendi reaches the Well of Ascension, he will take the power and then - in the name of the **presumed** greater good - give it up." 
 |-
 ! Corrupted Text
-| "I doubt that if Alendi reaches the Well of Ascension, he will take the power and then - in the name of the greater good - give it up." {{book ref|mb2|41}}
+| "I doubt that if Alendi reaches the Well of Ascension, he will take the power and then - in the name of the greater good - give it up." 
 |-
 |}
 
@@ -215,10 +222,10 @@ Ruin obscures Kwaan's realization that giving up the power of the Well would do 
 ! width=10% | Version !! Text
 |-
 ! Original Text
-| "Rashek is to try and lead Alendi in the wrong direction, to discourage him or otherwise foil his quest. Alendi won't know that he has been deceived, **that we've all been deceived, and he won't listen to me**." {{epigraph ref|mb2|55}}<!--epilogue adds "dissuade him" before "discourage him"-->
+| "Rashek is to try and lead Alendi in the wrong direction, to discourage him or otherwise foil his quest. Alendi won't know that he has been deceived, **that we've all been deceived, and he won't listen to me**." <!--epilogue adds "dissuade him" before "discourage him"-->
 |-
 ! Corrupted Text
-| "Rashek is to try and lead Alendi in the wrong direction, to discourage him or otherwise foil his quest. Alendi won't know that he has been deceived." {{book ref|mb2|41}}
+| "Rashek is to try and lead Alendi in the wrong direction, to discourage him or otherwise foil his quest. Alendi won't know that he has been deceived." 
 |-
 |}
 
@@ -229,10 +236,10 @@ Here Ruin directly removes a portion of the text to hide the realization of some
 ! width=10% | Version !! Text
 |-
 ! Original Text
-| "If Rashek fails to lead Alendi astray, then I have instructed the lad to kill **Alendi**." {{epigraph ref|mb2|56}}<!--epilogue says "lead the trek astray" instead-->
+| "If Rashek fails to lead Alendi astray, then I have instructed the lad to kill **Alendi**." <!--epilogue says "lead the trek astray" instead-->
 |-
 ! Corrupted Text
-| "If Rashek fails to lead Alendi astray, then I have instructed the lad to kill **my former friend**." {{book ref|mb2|41}}
+| "If Rashek fails to lead Alendi astray, then I have instructed the lad to kill **my former friend**." 
 |-
 |}
 
@@ -243,10 +250,10 @@ This change leads Sazed and [[Tindwyl]] to be confused about Kwaan's insistence 
 ! width=10% | Version !! Text
 |-
 ! Original Text
-| "Alendi must not reach the Well of Ascension**, for he must not be allowed to release the thing that is imprisoned there**." {{epigraph ref|mb2|59}}
+| "Alendi must not reach the Well of Ascension**, for he must not be allowed to release the thing that is imprisoned there**." 
 |-
 ! Corrupted Text
-| "Alendi must not reach the Well of Ascension**. He must not take the power for himself**." {{book ref|mb2|41}}
+| "Alendi must not reach the Well of Ascension**. He must not take the power for himself**." 
 |-
 |}
 
@@ -254,7 +261,6 @@ With this change, Ruin both hides Kwaan's limited knowledge of his existence and
 
 ## Notes
 <references />
-{{partial}}
-{{Mistborn|Era 1}}
+
 [[Category: Objects and Materials]]
 [[category: possessive articles]]

@@ -1,3 +1,8 @@
+---
+source_file: MoashGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery caption="Official artwork" mode="packed" heights=250px>
 Bridge 4 poster without text.jpg | <center><small>by Zack Stella</small></center> On the [[Bridge Four]] poster (with the [[Shardblade]])

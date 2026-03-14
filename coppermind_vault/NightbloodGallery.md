@@ -1,3 +1,8 @@
+---
+source_file: NightbloodGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Nightblood by Dan dos Santos.png | <center><small>by {{a|Dan dos Santos}}</small></center> In *[[Warbreaker]]* leatherbound interior art

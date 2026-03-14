@@ -1,14 +1,13 @@
 ---
-profession: "Patent official"
-nation: "Thaylen"
-world: "Roshar"
-universe: "Cosmere"
+source_file: Ytredn.txt
+entity_type: character
+profession: Patent official
+nation: Thaylen
+world: Roshar
+universe: '[[Cosmere]]'
 ---
 
-{{update|sa5}}
-**Ytredn** is a [[Thaylen]] patent official on [[Roshar]].{{book ref|sa5|i|15}}
+**Ytredn** is a [[Thaylen]] patent official on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

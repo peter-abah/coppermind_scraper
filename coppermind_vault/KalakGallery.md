@@ -1,3 +1,8 @@
+---
+source_file: KalakGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Herald Glyph Kalak.svg| <small><center>by {{a|Isaac Stewart}}</center></small>Kalak's [[glyph]]

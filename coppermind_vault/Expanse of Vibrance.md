@@ -1,16 +1,16 @@
 ---
-world: "Shadesmar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Expanse of Vibrance.txt
+entity_type: location
+world: Shadesmar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-{{theory}}
-The **Expanse of Vibrance** is a location in [[Shadesmar]]{{wob ref|4805}} that corresponds to [[Nalthis]].{{rpg ref|slwg|83}}{{wob ref|12656}}
+The **Expanse of Vibrance** is a location in [[Shadesmar]] that corresponds to [[Nalthis]].
 
-It is bordered by the [[Nexus of Imagination]].{{map ref|Shadesmar}}
+It is bordered by the [[Nexus of Imagination]].
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 02:04, 23 December 2016 (MST)}}
-{{cosmere}}
+
 [[es:Extensión de la Intensidad]]

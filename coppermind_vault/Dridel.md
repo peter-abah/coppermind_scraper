@@ -1,22 +1,21 @@
 ---
-groups: "{{tag|Luthadel Assembly"
+source_file: Dridel.txt
+entity_type: character
+groups: Luthadel Assembly
+ethnicity: Noble
+residence: Luthadel
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Well of Ascension]]'
 ---
 
-|ethnicity=Noble
-|residence=Luthadel
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[The Well of Ascension]]
-}}
-Lord **Dridel** is one of the [[noble]] members of the [[Luthadel Assembly]] on [[Scadrial]].{{book ref|mb2|31}}
+Lord **Dridel** is one of the [[noble]] members of the [[Luthadel Assembly]] on [[Scadrial]].
 
 ==Appearance and Personality==
-He has a permanent sneer, which fits his sharp face and dark hair.{{book ref|mb2|31}}
+He has a permanent sneer, which fits his sharp face and dark hair.
 
 ==History== 
-Dridel voted with the rest of the Assembly to depose [[Elend Venture]] as king.{{book ref|mb2|27}} After Elend was ousted, he initiated the process of nominating a chancellor. Dridel quipped that Elend would nominate himself.{{book ref|mb2|31}}
+Dridel voted with the rest of the Assembly to depose [[Elend Venture]] as king. After Elend was ousted, he initiated the process of nominating a chancellor. Dridel quipped that Elend would nominate himself.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:24, 17 September 2018 (MST)}}
-{{Mistborn|Era 1}}

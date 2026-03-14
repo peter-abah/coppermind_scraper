@@ -1,12 +1,13 @@
-{{geography
-|type={{cat tag|Islands|Island}}
-|region=Emerald Sea
-|world=Lumar
-|universe=[[Cosmere]]
-|books=[[Tress of the Emerald Sea]]
-}}
+---
+source_file: Erik Island.txt
+entity_type: geography
+region: Emerald Sea
+world: Lumar
+universe: '[[Cosmere]]'
+books: '[[Tress of the Emerald Sea]]'
+---
 
-**Erik Island** is an island in the [[Emerald Sea]] on [[Lumar]], known for its many lakes. The inhabitants export salmon.{{book ref|tress|2}}
+**Erik Island** is an island in the [[Emerald Sea]] on [[Lumar]], known for its many lakes. The inhabitants export salmon.
 
 ==Trivia==
 
@@ -14,6 +15,5 @@
 
 ## Notes
 <references />
-{{complete|[[User:Jofwu|Jofwu]] ([[User talk:Jofwu|talk]]) 14:02, 10 January 2023 (UTC)}}
-{{tress}}
+
 [[es:Isla Erik]]

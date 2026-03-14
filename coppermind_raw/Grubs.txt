@@ -1,0 +1,18 @@
+{{character
+|titles=Sergeant at arms
+|#profession=soldier
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Wind and Truth]]
+}}
+{{quote
+|You know how excited Grubs gets when he has a chance to dig out his officer-tying rope.
+|[[Colot]]{{book ref|sa5|47}}
+}}
+'''Grubs''' is an [[Alethi]] sergeant at arms on [[Roshar]]. [[Colot]] instructed [[Kaminah]] to use Grubs in a threat to get [[Adolin Kholin]] to sleep during the [[Battle of Azimir]]. Colot claimed that Grubs, who presumably was present at the battle, had a rope he chiefly used to tie officers in place.{{book ref|sa5|47}}
+
+== Notes ==
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 04:32, 6 January 2025 (UTC)}}
+{{stormlight}}

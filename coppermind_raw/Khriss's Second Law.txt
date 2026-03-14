@@ -1,0 +1,1 @@
+#REDIRECT [[Investiture#The_Nature_of_Investiture]]

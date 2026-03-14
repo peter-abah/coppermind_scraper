@@ -1,0 +1,1 @@
+#REDIRECT [[Lights#Lifelight]]

@@ -1,11 +1,14 @@
-{{book
-|cover=Firstborn.jpg
-|released=December 17, 2008
-|publisher=Tor Books
-|setting=*Standalone*
-|word-count=13,928
-}}
-***Firstborn*** is a non-[[cosmere]] short story written by [[Brandon Sanderson]] published by [[Tor]] on [https://reactormag.com/firstborn/ their website].{{bws ref|firstborn|Firstborn announcement|date=2013-08-21}}
+---
+source_file: Firstborn.txt
+entity_type: book
+cover: Firstborn.jpg
+released: December 17, 2008
+publisher: Tor Books
+setting: '''''Standalone'''''
+word-count: 13,928
+---
+
+***Firstborn*** is a non-[[cosmere]] short story written by [[Brandon Sanderson]] published by [[Tor]] on [https://reactormag.com/firstborn/ their website].
 
 ## Summary
 [[Dennison Crestmar]], High Officer of the empire and brother to the Great High Officer [[Varion Crestmar]], stands aboard his flagship directing his first real battle outside of the practice room. Unlike his brother who has led the empire to victory after victory, Dennison has yet still to prove himself, and he's making a poor effort of it; he's pessimistic, cynical, even aware that his own NCO's don't expect him to win, and he shows a casual attitude to proving them right.
@@ -61,7 +64,5 @@ Grabbing a datapad and searching for the video feed of Varion's study, Dennison 
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Firstborn}}
-{{books}}
+
 [[category: Firstborn| ]]

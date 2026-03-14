@@ -1,14 +1,15 @@
-{{book
-|released= not applicable
-|prequel= White Sand Prime
-}}
-{{for|Taishin#The Lord Mastrell|the Taisha who leads the [[Diem]] in [[Lossand]]|Lord Mastrell}}
-***Lord Mastrell*** is the unpublished sequel to [[White Sand Prime|*White Sand* Prime]].  It is the third novel [[Brandon Sanderson]] ever wrote.{{wob ref|7825}}
+---
+source_file: Lord Mastrell.txt
+entity_type: book
+released: not applicable
+prequel: White Sand Prime
+---
 
-Brandon actively didn't consider it a sequel.{{wob ref|7582}} But has since changed his views on it.{{wob ref|7825}}{{wob ref|7818}}{{wob ref|9259}}{{wob ref|9618}}
+***Lord Mastrell*** is the unpublished sequel to [[White Sand Prime|*White Sand* Prime]].  It is the third novel [[Brandon Sanderson]] ever wrote.
+
+Brandon actively didn't consider it a sequel. But has since changed his views on it.
 
 ## Notes
 <references/>
-{{meta/stub}}
-{{books}}
+
 [[es:Lord mastrell]]

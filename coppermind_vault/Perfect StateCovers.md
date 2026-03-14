@@ -1,3 +1,8 @@
+---
+source_file: Perfect StateCovers.txt
+entity_type: article
+---
+
 This is a gallery for all known covers for *[[Perfect State]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 
 <gallery widths=3000px heights=400px mode="packed">

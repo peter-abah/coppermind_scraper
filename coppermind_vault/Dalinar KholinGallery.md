@@ -1,3 +1,8 @@
+---
+source_file: Dalinar KholinGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery caption="Official artwork" mode="packed" heights=200px>
 Dalinar Allen.jpg | <center><small>by {{a|Alex Allen}}</small></center>The cover of Graphic Audio's *[[The Way of Kings]]* part 2

@@ -1,0 +1,20 @@
+{{character
+|died={{book ref|mb1|11}}
+|groups=[[Camon's crew]]
+|ethnicity=Skaa
+|residence=Luthadel
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[Mistborn: The Final Empire]]
+}}
+'''Disten''' is a member of [[Camon]]'s [[Camon's crew|thieving crew]] in [[Luthadel]] on [[Scadrial]].{{book ref|mb1|4}} He serves as a head pointman for the crew. He is missing one hand, but is considered to have very keen senses.{{book ref|mb1|4}}
+
+==History==
+After [[Kelsier]] and [[Dockson]] intervened in the crew's attempt to scam the [[Steel Ministry]], Disten expressed curiosity about what Kelsier had discussed with [[Vin]]. Disten and a few other crew members then recounted various rumors about Kelsier's history to Vin, mixing fact with fiction.{{book ref|mb1|4}}
+
+Disten was presumably killed when the Ministry discovered the crew's lair and slaughtered everyone inside.{{book ref|mb1|11}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 22:50, 17 March 2020 (UTC)}}
+{{Mistborn|Era 1}}

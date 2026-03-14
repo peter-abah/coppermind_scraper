@@ -1,3 +1,8 @@
+---
+source_file: Marasi ColmsGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Shadows of Self US Hardcover.jpg | <center><small>by {{a|Chris McGrath}}</small></center> On *[[Shadows of Self]]* cover

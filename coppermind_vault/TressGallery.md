@@ -1,3 +1,7 @@
+---
+source_file: TressGallery.txt
+entity_type: article
+---
 
 ## Official Artwork
 <gallery mode="packed" heights=200px name="Official Artwork">
@@ -24,7 +28,6 @@ Tress and Charlie by Marie Seeberger.jpg | <center><small>by {{a|Marie Seeberger
 Tress by ohnoesaxel.jpg| <small><center>by {{a|ohnoesaxel}}</center></small>
 Tress by lururoart.jpg| <small><center>by [https://www.instagram.com/lururoart/ Lucía R.]</center></small>
 </gallery>
-
 
 [[Category:Gallery Subpages]]
 [[es:Trenza/Galería]]

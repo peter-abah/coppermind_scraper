@@ -1,0 +1,2 @@
+#redirect[[Singer]]
+[[category: aliases]]

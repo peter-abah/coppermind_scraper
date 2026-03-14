@@ -1,0 +1,384 @@
+{{DISPLAYTITLE:''{{PAGENAME}}''}}
+'''''The Stormlight Archive''''' is an ongoing epic fantasy series by [[Brandon Sanderson]]. Set on the planet [[Roshar]], the series forms a core part of the [[cosmere]] sequence, and centers around [[Odium]]'s efforts to escape the ties that bind him to the [[Rosharan system]]. The series is estimated to require ten books to complete.{{wob ref|2875}}
+
+For a summary of the events thus far, see [[/Summary|the individual summary pages for each book]].
+
+== Structure ==
+The novels of ''The Stormlight Archive'' follow a consistent internal structure. Each is split into five parts, and Brandon plots each novel as if it were an entire trilogy. The names of each part, when put together, form a [[ketek]]. Between each part is a set of interludes, set in different points of view, which show events in other locations on Roshar. Each novel has one character who gets multiple interludes, whose interludes effectively form a novella. The books also feature several pieces of in-world art on the endpages and between some chapters, and epigraphs from in-world documents at the start of each non-flashback chapter.{{wob ref|3718}}{{wob ref|3916}} Each of the first five books begins with a prologue that shows a different character's perspective of the night of the [[assassination of Gavilar]] and ends with an epilogue from [[Hoid]]'s point of view.{{wob ref|13282}}{{wob ref|12260}} Each novel, with the exception of ''[[Wind and Truth]]'', also contains an [[Ars Arcanum]] after the epilogue.
+
+Each novel will focus on one specific order of the [[Knights Radiant]] and feature flashbacks from a character tied to that order.{{wob ref|1673}}{{wob ref|11374}} Brandon has made clear that a character can have flashback point of views, even if they are already dead, so the characters scheduled to have flashbacks in an upcoming book might still die before their book.{{wob ref|3757}} The series will be split into two arcs of five books each, with a time gap of about ten years between the two arcs.{{Reddit ref|books|vtua7m|ifa1psd|text=Reddit AMA 2022|date=2022-07-07}} The second arc will be written after [[Mistborn Era 3|''Mistborn'' Era 3]].{{wob ref|11548}} Brandon has said he also hopes to write novellas in between at least all the remaining arc one novels, though is unsure if he has enough time.{{wob ref|13632}} These novellas would fill in some details and show parts of the story that wouldn't have otherwise been seen.
+
+Subject to the assumption that characters stay associated with their current order and assigning the [[Order of Dustbringers]] to [[Shalash]]'s book by process of elimination, the following table summarizes these relationships and the order of books:
+
+<div style="overflow-x: scroll">
+{| class="infobox bib" width=100%
+|-
+!scope="col" style="width: 80px;min-width:80px;"   |Year<br />Published 
+!scope="col" style="width: 130px;min-width:130px;" |Book Title
+!scope="col" style="width: 80px;min-width:80px;"   |In-world<br />Year(s){{ref|name=DateNote|group=fn}}
+!scope="col" style="width: 100px;min-width:100px;" |[[Knights Radiant|Radiant]]<br />Order
+!scope="col" style="width: 120px;min-width:120px;" |Flashback<br />Viewpoint{{ref|name=DateNote|group=fn}}
+!scope="col" style="width: 100px;min-width:100px;" |Prologue<br />Viewpoint
+!scope="col" style="width: 100px;min-width:100px;" |Main Interlude<br />Viewpoint
+!scope="col" style="width: 100px;min-width:100px;" |Word Count
+
+|-
+!colspan=8 |Arc 1
+
+|- class="stormlight cosmere"
+!2010
+|''[[The Way of Kings]]''<br /><sup>[[The Way of Kings (in-world)|[in-world text]]]</sup>
+|1173
+|[[Order of Windrunners|Windrunners]]
+|[[Kaladin]]<br />(1164-1172)
+|[[Szeth]]
+|[[Szeth]]
+|[[The Way of Kings/Statistical analysis|384,365]]
+
+|- class="stormlight cosmere"
+!2014
+|''[[Words of Radiance]]''<br /><sup>[[Words of Radiance (in-world)|[in-world text]]]</sup>
+|1173-1174
+|[[Order of Lightweavers|Lightweavers]]
+|[[Shallan Davar]]<br />(1167-1172)
+|[[Jasnah Kholin]]
+|[[Eshonai]]
+|[[Words of Radiance/Statistical analysis|398,238]]
+
+|- class="stormlight cosmere"
+!2017
+|''[[Oathbringer]]''<br /><sup>[[Oathbringer (in-world)|[in-world text]]]</sup>
+|1174
+|[[Order of Bondsmiths|Bondsmiths]]
+|[[Dalinar Kholin]]<br />(1140-1168)
+|[[Eshonai]]
+|[[Venli]]
+|[[Oathbringer/Statistical analysis|454,440]]
+
+|- class="stormlight cosmere"
+!2020
+|''[[Rhythm of War]]''<br /><sup>[[Rhythm of War (in-world)|[in-world text]]]</sup>
+|1175
+|[[Order of Willshapers|Willshapers]]
+|[[Venli]] and [[Eshonai]]<br />(1166-1173)
+|[[Navani Kholin]]
+|[[Taravangian]]
+|[[Rhythm of War/Statistical analysis|455,891]]
+
+|- class="stormlight cosmere"
+!2024
+|''[[Wind and Truth]]''<br /><sup>[[Knights of Wind and Truth|[in-world text]]]</sup>
+|1175
+|[[Order of Skybreakers|Skybreakers]]
+|[[Szeth]]<br />(1149-1166)
+|[[Gavilar Kholin]]
+|[[Odium]]
+|[[Wind and Truth/Statistical analysis|487,746]]
+
+|-
+!colspan=8 |Arc 2
+
+|- class="stormlight cosmere unreleased"
+!Unknown
+|''Unknown''
+|''Unknown''
+|[[Order of Edgedancers|Edgedancers]]
+|[[Lift]]{{wob ref|11620}}
+|''Unknown''
+|''Unknown''
+|''Unknown''
+
+|- class="stormlight cosmere unreleased"
+!Unknown
+|''Unknown''
+|''Unknown''
+|[[Order of Truthwatchers|Truthwatchers]]
+|[[Renarin Kholin]]{{wob ref|11620}}
+|''Unknown''
+|''Unknown''
+|''Unknown''
+
+|- class="stormlight cosmere unreleased"
+!Unknown
+|''Unknown''
+|''Unknown''
+|[[Order of Dustbringers|Dustbringers]]
+|[[Shalash]]{{wob ref|11620}}
+|''Unknown''
+|''Unknown''
+|''Unknown''
+
+|- class="stormlight cosmere unreleased"
+!Unknown
+|''Unknown''
+|''Unknown''
+|[[Order of Stonewards|Stonewards]]
+|[[Talenel]]{{wob ref|11620}}
+|''Unknown''
+|''Unknown''
+|''Unknown''
+
+|- class="stormlight cosmere unreleased"
+!Unknown
+|''Unknown''
+|''Unknown''
+|[[Order of Elsecallers|Elsecallers]]
+|[[Jasnah Kholin]]{{wob ref|11620}}
+|''Unknown''
+|''Unknown''
+|''Unknown''
+
+|}
+</div>
+
+{| class="infobox bib" width=100%
+
+|-
+!colspan=6 |The Stormlight Archive Novellas
+
+|-
+!style=width:20% |Year Published
+!style=width:20% |Title
+!style=width:20% |Series<br />Chronology{{ref|name=DateNote|group=fn}}
+!style=width:20% |Focus Character
+!style=width:20% |Word Count
+
+|- class="stormlight cosmere"
+!2016
+|''[[Edgedancer (novella)|Edgedancer]]''
+|2.5<br />(1174)
+|[[Lift]]
+|[[Edgedancer (novella)/Statistical analysis|40,660]]
+
+|- class="stormlight cosmere"
+!2020
+|''[[Dawnshard (novella)|Dawnshard]]''
+|3.5<br />(1174)
+|[[Rysn]]
+|[[Dawnshard_(novella)/Statistical analysis|56,282]]
+
+|- class="stormlight cosmere unreleased"
+!2026 (Tentative)
+|''[[Unpublished works#Cosmere_works|Horneater]]''{{wob ref|16435}}
+|4.5{{wob ref|13754}}
+|[[Lunamor]]
+|
+
+|}
+
+{| class="infobox bib" width=100%
+
+|-
+!colspan=6 |Lost Tales (Short Stories)
+
+|-
+!style=width:20% |Year Published
+!style=width:20% |Title
+!style=width:20% |Series<br />Chronology{{ref|name=DateNote|group=fn}}
+!style=width:20% |Focus Character
+!style=width:20% |Word Count
+
+|- class="stormlight cosmere"
+! rowspan=2 | 2025
+|''[[Elsecaller (short story)|Elsecaller]]''
+|2.1<br />(1173-1174)
+|[[Jasnah Kholin]]
+|
+
+|- class="stormlight cosmere"
+|''[[King Lopen the First of Alethkar]]''
+|2.2<br />(1173)
+|[[Lopen]]
+|
+
+|}
+
+{| class="infobox bib" width=100%
+
+|-
+!colspan=6 |Cosmere RPG (Campaigns)
+
+|-
+!style=width:20% |Year Published
+!style=width:20% |Title
+!style=width:20% |In-world Year(s){{ref|name=DateNote|group=fn}}
+!style=width:20% |Pages
+!style=width:20% |Notes
+
+|- class="stormlight cosmere"
+! rowspan=12 | 2025
+|''[[Bridge Nine]]''
+| 1172
+| 40
+|
+
+|- class="stormlight cosmere"
+|''[[Stonewalkers]]''
+| 1173-1174
+| 168
+|
+
+|- class="stormlight cosmere"
+|''[[The First Step]]''
+| 1173
+| 46
+|
+
+|- class="stormlight cosmere"
+|''[[The Recruit]]''
+| 1174
+| 4
+| Released in ''Chasmfiend'' Vol 2.
+
+|- class="stormlight cosmere"
+|''[[Speak the Words]]''
+| 1174
+| 16
+|
+
+|- class="stormlight cosmere"
+|''[[A Spark in the Supplies]]''
+| 1174
+| 3
+| Released in ''Stormlight Scenarios''
+
+|- class="stormlight cosmere"
+|''[[The Great Herdazian Hog Heist]]''
+| 1174
+| 3
+| Released in ''Stormlight Scenarios''
+
+|- class="stormlight cosmere"
+|''[[Reverent Light]]''
+| 1174
+| 3
+| Released in ''Stormlight Scenarios''
+
+|- class="stormlight cosmere"
+|''[[The Stolen Masterpiece]]''
+| 1174
+| 3
+| Released in ''Stormlight Scenarios''
+
+|- class="stormlight cosmere"
+|''[[Found in the Dark]]''
+| 1174
+| 3
+| Released in ''Stormlight Scenarios''
+
+|- class="stormlight cosmere"
+|''[[Back from the Dead]]''
+| 1174
+| 3
+| Released in ''Stormlight Scenarios''
+
+|- class="stormlight cosmere"
+|''[[The Cost of Redemption]]''
+| 1174
+| 3
+| Released in ''Stormlight Scenarios''
+
+|}
+
+<references group=fn>
+{{ref|group=fn|text=All years are from the [[Roshar#Calendar|Rosharan calendar]]. Years for the Series Chronology column do not include the prelude, prologues, or flashbacks; years for the Flashback Viewpoint column only include that character's flashback chapters.|name=DateNote}}
+</references>
+
+Brandon has also talked about wanting to go back and do a novella set between ''The Way of Kings'' and ''Words of Radiance''; he initially thought this novella might focus on [[Lopen]],{{wob ref|13632}}{{wob ref|13754}} but, after including Lopen in ''Dawnshard'', said it would likely be someone else, possibly [[Teft]].{{wob ref|14701}}
+
+===Back Cover Text===
+{{for|/Back Cover Text|the back cover text of each book}}
+
+Each book has a back cover text that is written in-universe from the perspective of one of the [[Sleepless]].
+
+=== Keteks ===
+{{for|/Keteks|the full list of endnote keteks}}
+
+The titles of the five parts of each book form a [[ketek]] which is revealed with context in the endnote of every book. The abbreviations of the first five books also form a palindrome of five parts, being similar in structure to a ketek: (t)WoK - WoR - O - RoW - KoW(t).{{wob ref|13904}}
+
+== Cover Galleries ==
+{{CoverToC|sa}}
+
+== Publication ==
+{{columns|
+* US/Canadian rights (#1-4) with Tor
+* Bulgarian rights (#1-4) to Артлайн Студиос (Artline Studios)
+* UK rights (#1-4) to Gollancz
+* German rights (#1-3) to Heyne
+* French rights to Calmann-Levy
+* Polish rights to MAG
+* Turkish rights (#1) to Akılçelen Kitaplar (Arkadas)
+* Spanish rights (#1) to Ediciones B
+* Chinese rights (complex, #1) to 奇幻基地 (Fantasy Foundation)
+* Chinese rights (simplified) to 史诗图书 (Epic Books)
+* Japanese rights (#1) to 早川書房 (Hayakawa)
+* Czech rights (#1) to Talpress
+* Italian rights (#1) to Fanucci{{ref|name=aa}}
+* Israeli rights to אופוס (Opus)
+* Russian rights (#1-3) to Азбука Аттикус (Azbooka)
+* Romanian rights (#1-2) to Editura Paladin
+* Danish rights (#1) to Ulven og Ulgen
+* Hungarian rights (#1) to Delta Vision
+* Brazillian rights (#1) to TRAMA
+* Ukrainian rights to КСД (bookclub.ua)
+
+}}
+
+== Awards ==
+* Way of Kings #7 NY Times best-seller
+* Winner of the 2010 Whitney Awards Best Novel of the Year Award and Best Speculative Fiction Award
+* Winner of the 2010 David Gemmell Legend Award for Best Fantasy Novel (Way of Kings)
+* The Way of Kings hit the Times list in mass market, debuts at #25 on the chart
+* Named one of the Best of 2010 by Fantasy Faction
+* Named one of the Best of 2010 by Ranting Dragon
+* Named one of the Best of 2010 by SFF World
+* Named one of the Best of 2010 by Goodreads{{ref|name=aa}}
+* Words of Radiance #1 NY Times best-seller{{ref|name=wor-nytimes}}
+* Winner of the 2014 Whitney Finalists Speculative Catagory
+* Winner of the 2015 David Gemmell Legend Award for Best Fantasy Novel (Words of Radiance)
+
+== Statistics ==
+{{for|/Statistical analysis|a full statistical analysis}}
+The Stormlight Archive currently consists of five full novels and two novellas.
+
+{|class="wikitable"
+|-
+! Word Count 
+| style="text-align:center" | 1,789,876
+|
+|-
+! Page Count 
+| style="text-align:center" | 4,820
+| Tor hardbacks
+|-
+! Chapter Count 
+| style="text-align:center" | 476
+| Including prelude, 4 prologues, 49 interludes, and 4 epilogues.
+|-
+! PoV Characters
+| style="text-align:center" | 54
+|
+|-
+! PoV Count
+| style="text-align:center" | 851
+|
+|}
+
+== Trivia ==
+* When Brandon initially wrote [[The Way of Kings Prime|''The Way of Kings'' Prime]], he called the series ''Dawnshards''.{{book ref|wok'|part=preface}} By the time he pitched it to Tor two years later, he had changed the series name to ''Oathshards''.{{wob ref|13739}}
+
+== Notes ==
+<references>
+
+{{tor ref|name=wor-nytimes|brandon-sandersons-words-of-radiance-debuts-at-number-one-on-the-new-york-times-bestseller-list|Words of Radiance debut 1st on NYT bestsellers|date=MAR 12 2014}}
+
+{{url ref|name=aa|url=https://awfulagent.com/jabclients/brandon-sanderson|text=Brandon's Awful Agent page|site=Awful Agent}}
+
+</references>
+{{meta/partial}}
+{{Stormlight}}
+{{books}}
+[[category: Stormlight Archive| ]]
+[[category: series]]
+[[category: meta]]
+[[uk: Хроніки Буресвітла]]

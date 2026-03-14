@@ -1,21 +1,22 @@
-{{literature
-|type=Message
-|author=[[Hoid]], [[Frost]], [[Endowment]], [[Patji (being)|Patji]], and [[Harmony]]
-|'world=[[Roshar]], [[Yolen]], [[Nalthis]], [[First of the Sun]], and [[Scadrial]]
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{copyright}}
-The **letters** are a set of correspondence between [[Hoid]] and several other prominent figures in the [[cosmere]], including [[Frost]], [[Endowment]], [[Autonomy]], and [[Harmony]].{{wob ref|2682}}{{wob ref|5301}}{{wob ref|8401}}{{wob ref|9081}} Hoid's initial letters express his fears concerning [[Odium]]--both his former attacks against various [[Shards]] of [[Adonalsium]], his activities on [[Roshar]], and the potential for future devastation throughout the cosmere--and calls for assistance from the recipients.{{epigraph ref|sa1|12}} Subsequent letters, all addressed to Hoid, are a response to this call for aid.{{epigraph ref|sa2|59}}{{epigraph ref|sa3|33}}{{epigraph ref|sa3|42}}{{epigraph ref|sa3|53}}
+---
+source_file: Letters.txt
+entity_type: literature
+type: Message
+author: '[[Hoid]], [[Frost]], [[Endowment]], [[Patji (being)|Patji]], and [[Harmony]]'
+'''world': '[[Roshar]], [[Yolen]], [[Nalthis]], [[First of the Sun]], and [[Scadrial]]'
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+The **letters** are a set of correspondence between [[Hoid]] and several other prominent figures in the [[cosmere]], including [[Frost]], [[Endowment]], [[Autonomy]], and [[Harmony]]. Hoid's initial letters express his fears concerning [[Odium]]--both his former attacks against various [[Shards]] of [[Adonalsium]], his activities on [[Roshar]], and the potential for future devastation throughout the cosmere--and calls for assistance from the recipients. Subsequent letters, all addressed to Hoid, are a response to this call for aid.
 
 In addition to giving some insight concerning the significance of the conflict on Roshar as it relates to the greater cosmere, the letters give some insight into the histories, goals, and personalities of their authors.
 
 ## The First Letter
-{{for|The Way of Kings/Epigraphs#The Letter|a list of the excerpts in each chapter's epigraph}}
-The first letter, written by Hoid to Frost,{{wob ref|2682}} argues for the danger presented by [[Rayse]], the original vessel of [[Odium]], hoping to draw Frost out of his oath of nonintervention.{{epigraph ref|sa2|74}} Hoid points out that Rayse was dangerous even before taking the Shard of Odium upon himself, and thus if [[Ati]] could be so corrupted by the [[Shard]] of [[Ruin]] then Rayse will only be made worse. Hoid cites the Splintering of [[Devotion]] and [[Dominion]] on [[Sel]] as proof of the threat Odium presents. He then dismisses concerns of his own biases and asks [[Frost]] to call off the members of the [[Seventeenth Shard]] who have been hunting for him on [[Roshar]] before making his final plea.{{epigraph ref|sa1|12}}
 
-{{quote|
-Old friend, I hope this missive finds you well. Though, as you are now essentially immortal, I would guess that wellness on your part is something of a given. I realize that you are probably still angry. That is pleasant to know. Much as your perpetual health, I have come to rely upon your dissatisfaction with me. It is one of the cosmere's great constants, I should think.
+The first letter, written by Hoid to Frost, argues for the danger presented by [[Rayse]], the original vessel of [[Odium]], hoping to draw Frost out of his oath of nonintervention. Hoid points out that Rayse was dangerous even before taking the Shard of Odium upon himself, and thus if [[Ati]] could be so corrupted by the [[Shard]] of [[Ruin]] then Rayse will only be made worse. Hoid cites the Splintering of [[Devotion]] and [[Dominion]] on [[Sel]] as proof of the threat Odium presents. He then dismisses concerns of his own biases and asks [[Frost]] to call off the members of the [[Seventeenth Shard]] who have been hunting for him on [[Roshar]] before making his final plea.
+
+> Old friend, I hope this missive finds you well. Though, as you are now essentially immortal, I would guess that wellness on your part is something of a given. I realize that you are probably still angry. That is pleasant to know. Much as your perpetual health, I have come to rely upon your dissatisfaction with me. It is one of the cosmere's great constants, I should think.
 <br/>
 
 Let me first assure you that the [[lerasium|element]] is quite safe. I have found a good home for it. I protect its safety like I protect my own skin, you might say. You do not agree with my quest. I understand that, so much as it is possible to understand someone with whom I disagree so completely. Might I be quite frank? Before, you asked why I was so concerned. It is for the following reason: [[Ati]] was once a kind and generous man, and you saw what became of him. [[Rayse]], on the other hand, was among the most loathsome, crafty, and dangerous individuals I had ever met. He holds the most frightening and terrible of all the Shards. Ponder on that for a time, you old reptile, and tell me if your insistence on nonintervention holds firm. Because I assure you, Rayse will not be similarly inhibited. One need only look at the aftermath of his brief visit to [[Sel]] to see proof of what I say. In case you have turned a blind eye to that disaster, know that [[Aona]] and [[Skai]] are both dead, and that which they held has been Splintered. Presumably to prevent anyone from rising up to challenge Rayse. 
@@ -24,14 +25,14 @@ Let me first assure you that the [[lerasium|element]] is quite safe. I have foun
 You have accused me of arrogance in my quest. You have accused me of perpetuating my grudge against [[Rayse]] and [[Bavadin]]. Both accusations are true. Neither point makes the things I have written to you untrue. I am being chased. Your friends of the [[Seventeenth Shard]], I suspect. I believe they're still lost, following a false trail I left for them. They'll be happier that way. I doubt they have any inkling what to do with me should they actually catch me. If anything I have said makes a glimmer of sense to you, I trust that you'll call them off. Or maybe you could astound me and ask them to do something productive for once. For I have never been dedicated to a more important purpose, and the very pillars of the sky will shake with the results of our war here. I ask again. Support me. Do not stand aside and let disaster consume more lives. I've never begged you for something before, old friend.
 <br />
 
-I do so now.|The First Letter}}
+I do so now.
+> — The First Letter
 
 ==The Second Letter==
-{{for|Words of Radiance/Epigraphs#The Second Letter|a list of the excerpts in each chapter's epigraph}}
-The second letter is a reply to the first, written by Frost to Hoid.{{wob ref|5301}} In this letter, [[Frost]] dismisses Hoid's concerns, arguing that Rayse has been trapped by [[Honor]] in the [[Rosharan system]], and thus the threat he presents is sufficiently obstructed for the time being. Though his frustration with [[Hoid]] comes through in the opening lines, he names Hoid a friend and begs him to consider the danger that Hoid's own meddling may introduce.{{epigraph ref|sa2|59}}
 
-{{quote|
-I'll address this letter to my "old friend," as I have no idea what name you're using currently. Have you given up on the gemstone, now that it is dead? And do you no longer hide behind the name of your old master? I am told that in your current incarnation you've taken a name that references what you presume to be one of your virtues. This is, I suspect, a little like a skunk naming itself for its stench. 
+The second letter is a reply to the first, written by Frost to Hoid. In this letter, [[Frost]] dismisses Hoid's concerns, arguing that Rayse has been trapped by [[Honor]] in the [[Rosharan system]], and thus the threat he presents is sufficiently obstructed for the time being. Though his frustration with [[Hoid]] comes through in the opening lines, he names Hoid a friend and begs him to consider the danger that Hoid's own meddling may introduce.
+
+> I'll address this letter to my "old friend," as I have no idea what name you're using currently. Have you given up on the gemstone, now that it is dead? And do you no longer hide behind the name of your old master? I am told that in your current incarnation you've taken a name that references what you presume to be one of your virtues. This is, I suspect, a little like a skunk naming itself for its stench. 
 <br />
 
 Now, look what you've made me say. You've always been able to bring out the most extreme in me, old friend. And I do still name you a friend, for all that you weary me. Yes, I'm disappointed. Perpetually, as you put it. Is not the destruction we have wrought enough? The worlds you now tread bear the touch and design of Adonalsium. Our interference so far has brought nothing but pain. My path has been chosen very deliberately. Yes, I agree with everything you have said about [[Rayse]], including the severe danger he presents. However, it seems to me that all things have been set up for a purpose, and if we—as infants—stumble through the workshop, we risk exacerbating, not preventing, a problem. 
@@ -40,31 +41,30 @@ Now, look what you've made me say. You've always been able to bring out the most
 Rayse is captive. He cannot leave the system he now inhabits. His destructive potential is, therefore, inhibited. Whether this was [[Tanavast]]’s design or not, millennia have passed without Rayse taking the life of another of the sixteen. While I mourn for the great suffering Rayse has caused, I do not believe we could hope for a better outcome than this. He bears the weight of God’s own divine hatred, separated from the virtues that gave it context. He is what we made him to be, old friend. And that is what he, unfortunately, wished to become. I suspect that he is more a force than an individual now, despite your insistence to the contrary. That force is contained, and an equilibrium reached. 
 <br />
 
-You, however, have never been a force for equilibrium. You tow chaos behind you like a corpse dragged by one leg through the snow. Please, hearken to my plea. Leave that place and join me in my oath of nonintervention. The [[cosmere]] itself may depend upon our restraint.|The Second Letter}}
+You, however, have never been a force for equilibrium. You tow chaos behind you like a corpse dragged by one leg through the snow. Please, hearken to my plea. Leave that place and join me in my oath of nonintervention. The [[cosmere]] itself may depend upon our restraint.
+> — The Second Letter
 
 ==Oathbringer Letters==
 
 Three additional letters were written to Hoid (two using one of his aliases, Cephandrius), in response to messages similar to that presented in the first letter. The responses vary, though they are generally dismissive or apathetic toward Hoid's plea.
 
 ===First Oathbringer Letter===
-{{for|Oathbringer/Epigraphs#Chapter 33|a list of the excerpts in each chapter's epigraph}}
-The first of these letters is written by [[Endowment]]{{wob ref|8401}}{{ref|text=By process of elimination, Endowment is the only known, living Shard who fits with the context of the letter.}} and offers a dismissal much like Frost's. It notably expresses a disdain for multiple Shards sharing a planet, referencing an agreement that they made not to settle near one another. Endowment ultimately argues that [[Rayse]]'s activity is none of Hoid's business, and that [[Odium]], and potentially Hoid himself, will be dealt with if they feel the need arises.{{epigraph ref|sa3|33}}
 
-{{quote
-| Dearest Cephandrius,<br />
+The first of these letters is written by [[Endowment]] and offers a dismissal much like Frost's. It notably expresses a disdain for multiple Shards sharing a planet, referencing an agreement that they made not to settle near one another. Endowment ultimately argues that [[Rayse]]'s activity is none of Hoid's business, and that [[Odium]], and potentially Hoid himself, will be dealt with if they feel the need arises.
+
+> Dearest Cephandrius,<br />
 I received your communication, of course. I noticed its arrival immediately, just as I noticed your many intrusions into my land. You think yourself so clever, but my eyes are not those of some petty noble, to be clouded by a false nose and some dirt on the cheeks. You mustn't worry yourself about Rayse. It is a pity about [[Aona]] and [[Skai]], but they were foolish--violating our pact from the very beginning. Your skills are admirable, but you are merely a man. You had your chance to be more, and refused it. No good can come of two Shards settling in one location. It was agreed that we would not interfere with one another, and it disappoints me that so few of the Shards have kept to this original agreement. As for [[Uli Da]], it was obvious from the outset that she was going to be a problem. Good riddance. Regardless, this is not your concern. You turned your back on divinity. If Rayse becomes an issue, he will be dealt with.
 <br />
 And so will you.<!--
 
--->|First *Oathbringer* Letter
-}}
+-->
+> — First *Oathbringer* Letter
 
 ===Second Oathbringer Letter===
-{{for|Oathbringer/Epigraphs#Chapter 42|a list of the excerpts in each chapter's epigraph}}
-The second letter is written by [[Patji (being)|Patji]], an avatar of [[Autonomy]],{{wob ref|12761}} and mentions [[First of the Sun]].{{wob ref|9081}}{{wob ref|8606}} As things stand, Autonomy dismisses Hoid's concern, believing Rayse to be captive, and even offers some admiration for the trapped Shard. The author refers to itself in a plural sense and suggests that [[Hoid]] may have found more favor if he had approached some other avatar. The letter is closed with a challenge by which Hoid may earn the Shard's respect.{{epigraph ref|sa3|42}}
 
-{{quote
-| Cephandrius, bearer of the [[First Gem]],<br />
+The second letter is written by [[Patji (being)|Patji]], an avatar of [[Autonomy]], and mentions [[First of the Sun]]. As things stand, Autonomy dismisses Hoid's concern, believing Rayse to be captive, and even offers some admiration for the trapped Shard. The author refers to itself in a plural sense and suggests that [[Hoid]] may have found more favor if he had approached some other avatar. The letter is closed with a challenge by which Hoid may earn the Shard's respect.
+
+> Cephandrius, bearer of the [[First Gem]],<br />
 You must know better than to approach us by relying upon presumption of past relationship. You have spoken to one who cannot respond. We, instead, will take your communication to us &ndash; though we know not how you located us upon this world. We are indeed intrigued, for we thought it well hidden. Insignificant among our many realms. As the waves of the sea must continue to surge, so must our will continue resolute.
 <br />
       Alone.
@@ -73,26 +73,24 @@ You must know better than to approach us by relying upon presumption of past rel
 <br />
       Only in this will you earn our respect.<!--
 
--->|Second *Oathbringer* Letter
-}}
+-->
+> — Second *Oathbringer* Letter
 
 ===Third Oathbringer Letter===
-{{for|Oathbringer/Epigraphs#Chapter 53|a list of the excerpts in each chapter's epigraph}}
-The third letter is written by [[Sazed]], the vessel of [[Harmony]], evident in the writing patterns, the reference to two diametrically opposed Shards, and his relative ignorance regarding [[Adonalsium]]. While Harmony does not dispute Hoid's claims, he feels unequipped and expresses a hesitancy to offer any support before he is able to place any trust in the man, whom he knows nothing about. He requests that [[Hoid]] visit him directly before taking any action of his own.{{epigraph ref|sa3|53}}
 
-{{quote
-|Friend,<br />
+The third letter is written by [[Sazed]], the vessel of [[Harmony]], evident in the writing patterns, the reference to two diametrically opposed Shards, and his relative ignorance regarding [[Adonalsium]]. While Harmony does not dispute Hoid's claims, he feels unequipped and expresses a hesitancy to offer any support before he is able to place any trust in the man, whom he knows nothing about. He requests that [[Hoid]] visit him directly before taking any action of his own.
+
+> Friend,<br />
 Your letter is most intriguing, even revelatory. I would have thought, before attaining my current station, that a deity could not be surprised. Obviously, that is not true. I can be surprised. I can perhaps even be naive, I think. I am the least equipped, of all, to aid you in this endeavor. I am finding that the powers I hold are in such conflict that the most simple of actions can be difficult. I am also made uncertain by your subterfuge. Why have you not made yourself known to me before this? How is it you can hide? Who are you truly, and how do you know so much about Adonalsium? If you would speak to me further, I request open honesty. Return to my lands, approach my servants, and I will see what I can do for your quest.<!--
 
--->|Third *Oathbringer* Letter
-}}
+-->
+> — Third *Oathbringer* Letter
 
 ==The Sixth Letter==
-{{for|Rhythm of War/Epigraphs#The Letter|a list of the excerpts in each chapter's epigraph}}
+
 The sixth letter is in reply to [[Hoid]]. It is also written by [[Sazed]], the vessel of [[Harmony]], again evident in his writing patterns, mention of his relative youth, talk of being made up of [[Ruin]] and [[Preservation]], and talk about [[Scadrial]].
 
-{{quote
-|Dear Wanderer,<br />
+> Dear Wanderer,<br />
 I did receive your latest communication. Please forgive formality on my part, as we have not met in person. I feel new to this role, despite my years of holding it. You will admit to my relative youth, I think. I have been fascinated to discover how much you’ve accomplished on [[Scadrial]] without me noticing your presence. How is it that you hide from [[Shard]]s so well?<br/>
 
 I have reached out to the others as you requested, and have received a variety of responses. Much as you indicate, there is a division among the other Shards I would not have anticipated. [[Endowment]] at least responded to my overtures, though I have not been able to locate [[Invention]] again following our initial contact. [[Whimsy]] was not terribly useful, and [[Mercy]] worries me. I do think that [[Valor]] is reasonable, and suggest you approach her again. It has been too long, in her estimation, since your last conversation. The deaths of both [[Devotion]] and [[Dominion]] trouble me greatly, as I had not realized this immense power we had was something that could be broken in such a way. On my world, the power always gathered and sought a new Vessel.<br/>
@@ -108,24 +106,21 @@ You say that the power itself must be treated as separate in our minds from the 
 My instincts say that the power of [[Odium]] is not being controlled well. The Vessel will be adapted to the power’s will. And after this long, if Odium is still seeking to destroy, then it is because of the power. Of course, I admit this is a small quibble. A difference of semantics more than anything. In truth, it would be a combination of a Vessel’s craftiness and the power’s [[Intent]] that we should fear most.<br/>
 
 Regardless, please make yourself known to me when you travel to my lands. It is distressing that you think you need to move in the shadows.<!--
--->|The Sixth Letter
-}}
+-->
+> — The Sixth Letter
 
 ==The Seventh Letter==
-{{for|Wind and Truth/Epigraphs#Endowment's Letter|a list of the excerpts in each chapter's epigraph}}
+
 The seventh letter is in reply to [[Hoid]] from the [[Shard]] [[Endowment]], as a response to Hoid's request for help regarding [[Odium]].
 
-{{quote
-|Dearest Cephandrius,<br />
+> Dearest Cephandrius,<br />
 Your rebuttal is eloquent, as always, but did you think I would be moved?<br/>
 
 I have kept my part of the bargain, and will not be budged. I have stayed upon my land, bringing blessings to the people of [[Nalthis]] - gifting them the power of gods, as I was so long denied. I do not repeat the mistakes of the past. I have plans to deal with Odium, as I told you before. I will not explain them to you. I am well aware that if you were to know of my plans, you would be compelled to interfere. It is your way, is it not? If I were to give you the fuel with which to set yourself aflame, the resulting bonfire would then become my fault and not yours. For we all know what you are. As for [[Valor]], our dealings are none of your business - for largely the same reasons. Can you not leave her alone? You need not always have the last word, though I know you collect them like badges of honor. I will not tell you where she is. All I will say is that I have kept my bargain, and I did not go in person at her request for aid. These days, it seems she and I are the only ones capable of maintaining any manner of isolation. I can tell you, with absolute certainty, she does not want to see you again. It has not been too long. No, I do not think it ever will be. Be content to play with your toys on their world of storms. Or do I have to broadcast what I have learned of your goals? I certainly do not think it a coincidence that you have made a special study of the worlds where legends abound of the dead being raised. You feign altruism. But you have another motive, do you not? Well, you always have.
-|The Seventh Letter}}
+> — The Seventh Letter
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 07:55, 17 March 2022 (UTC)}}
-{{Stormlight}}
-{{cosmere}}
+
 [[Category: Objects and Materials]]
 [[es:Cartas]]

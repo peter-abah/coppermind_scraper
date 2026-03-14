@@ -1,0 +1,13 @@
+{{character
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+'''Marri''' is a lady's maid serving [[Shallan Davar]].{{book ref|sa2|77}}
+
+She follows Shallan onto the [[Shattered Plains]] on the expedition that culminates in the [[Battle of Narak]].{{book ref|sa2|77}} Shallan would not allow Marri to ride in her coach because she did not want to explain [[Pattern]] to the girl. Whilst in [[Urithiru]], Shallan keeps sending Marri away to keep the secret of Veil.{{book ref|sa3|21}}
+
+== Notes ==
+<references />
+{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 08:17, 3 January 2018 (MST)}}
+{{Stormlight}}

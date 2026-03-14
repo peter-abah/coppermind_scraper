@@ -1,0 +1,13 @@
+{{character
+|world=Lumar
+|universe=[[Cosmere]]
+|books=[[Tress of the Emerald Sea]]
+}}
+
+'''Lili''' is a servant of the dragon [[Xisisrefliel]] at the bottom of the [[Crimson Sea]] on [[Lumar]]. They used to be the floor scrubber for Xisisrefliel; however, they were promoted from the position shortly before [[Crow]]'s arrival, and Crow succeeded them in the position.{{book ref|totes|52}}
+
+== Notes ==
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 18:15, 27 February 2023 (UTC)}}
+{{Tress}}
+[[es:Lili]]

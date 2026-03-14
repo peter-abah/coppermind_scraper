@@ -1,4 +1,9 @@
-The back cover of each book in [[The Stormlight Archive]] contains text, often called a blurb, that is written from an in-universe perspective.{{wob ref|2888}} It is as of yet unknown who the author of each text is, but it has been confirmed that each one comes from the perspective of one of the [[Sleepless]].{{wob ref|1500}}{{wob ref|12946}}
+---
+source_file: The Stormlight ArchiveBack Cover Text.txt
+entity_type: wob ref
+---
+
+The back cover of each book in [[The Stormlight Archive]] contains text, often called a blurb, that is written from an in-universe perspective. It is as of yet unknown who the author of each text is, but it has been confirmed that each one comes from the perspective of one of the [[Sleepless]].
 
 ==The Way of Kings==
 *I long for the days before the [[Last Desolation]].*
@@ -15,7 +20,7 @@ The back cover of each book in [[The Stormlight Archive]] contains text, often c
 
 *One of them may redeem us.*
 
-*And one of them will destroy us.*{{bws ref|the-stormlight-archive-series#THEWAYOFKINGS}}
+*And one of them will destroy us.*
 
 ==Words of Radiance==
 ''The [[Knights Radiant]] must stand again.
@@ -39,7 +44,7 @@ The back cover of each book in [[The Stormlight Archive]] contains text, often c
 
 *And finally **[[Dalinar|the King]]**. Broken by war, he seeks the past. That which was abandoned. That which he* *must not know.*
 
-*For those secrets will crush him as they did the knights who came before.*{{tweet ref|916417321748504576|Just got the final dust jacket for Oathbringer. Huzzah!|date=2017-10-06}}
+*For those secrets will crush him as they did the knights who came before.*
 
 ==Rhythm of War==
 

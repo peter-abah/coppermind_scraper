@@ -1,4 +1,9 @@
-{{disambig}}<br/>
+---
+source_file: Kak.txt
+entity_type: disambig
+---
+
+<br/>
 
 **Kak** can refer to multiple things:
 * One of the names used for the [[Herald]] [[Kalak]]

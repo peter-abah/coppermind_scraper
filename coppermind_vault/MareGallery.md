@@ -1,3 +1,8 @@
+---
+source_file: MareGallery.txt
+entity_type: article
+---
+
 ==Official Artwork==
 <gallery mode="packed" heights=250px caption="Official Artwork">
 Mare_Card_Cropped.png|<small><center>by {{a|Jackson Robinson}}</center></small>Queen of Hearts, Mistborn Themed Luxury Playing Cards

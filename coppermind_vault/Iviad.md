@@ -1,21 +1,17 @@
-{{DISPLAYTITLE:*{{FULLPAGENAME}}*}}
-{{literature
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-The ***Iviad*** is a literary work on [[Roshar]]. [[Jasnah Kholin]] implies that it is extremely well-known, to the point that most scholars would recognize passages without a specific reference.{{epigraph ref|sa1|50}} 
+---
+source_file: Iviad.txt
+entity_type: displaytitle:''{{fullpagename}}''
+---
+
+The ***Iviad*** is a literary work on [[Roshar]]. [[Jasnah Kholin]] implies that it is extremely well-known, to the point that most scholars would recognize passages without a specific reference. 
 
 ## Contents
-The *Iviad*'s age, format, author, and language are unknown. It has only been mentioned once, by Jasnah during her research of the [[Voidbringers]].{{epigraph ref|sa1|50}} The lines of the work are numbered for reference and the excerpt is written in sentence fragments, suggesting that the *Iviad* is a work of poetry rather than prose.
+The *Iviad*'s age, format, author, and language are unknown. It has only been mentioned once, by Jasnah during her research of the [[Voidbringers]]. The lines of the work are numbered for reference and the excerpt is written in sentence fragments, suggesting that the *Iviad* is a work of poetry rather than prose.
 
 ## Quotes
-{{quote
-| Flame and char. Skin so terrible. Eyes like pits of blackness.
-| A quote from the *Iviad* probably needs no reference notation, but this comes from line 482, should I need to locate it quickly.{{epigraph ref|sa1|50}}
-}}
+
+> Flame and char. Skin so terrible. Eyes like pits of blackness.
+> — A quote from the *Iviad* probably needs no reference notation, but this comes from line 482, should I need to locate it quickly.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 20:04, 25 December 2016 (MST)}}
-{{Stormlight}}

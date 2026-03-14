@@ -1,3 +1,8 @@
+---
+source_file: Salas.txt
+entity_type: article
+---
+
 #redirect[[Roshar#Planetary System]]
 [[category: subsection redirects]]
 [[Category: Locations]]

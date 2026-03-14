@@ -1,20 +1,20 @@
 ---
-'residence: "Lonzare"
-ethnicity: "Darksider"
-world: "Taldain"
-universe: "Cosmere"
-introduced: "White Sand"
+source_file: Loaten.txt
+entity_type: character
+'''residence': '[[Lonzare]]'
+ethnicity: Darksider
+world: Taldain
+universe: '[[Cosmere]]'
+introduced: '[[White Sand]]'
 ---
 
-{{quote
-|You're infamous on [[Darkside]], you know. Traitor to the dynasty, executed -- or so we're told -- for trying to murder Emperor [[Skathan]] himself.
-| [[Khrissalla]] to Loaten.{{book ref|ws|5|review=yes}}
-}}
+> You're infamous on [[Darkside]], you know. Traitor to the dynasty, executed -- or so we're told -- for trying to murder Emperor [[Skathan]] himself.
+> — [[Khrissalla]] to Loaten.
 
 **Loaten** is a [[Darksider]] currently living in Lonzare, the Darksider quarter of [[Kezare]]. 
 
 ## Appearance and Personality
-Loaten is a portly dark skinned man. He has a thin goatee and long thick sideburns but is otherwise bald. He has a distinctive scar on his neck. He wears a pin striped gray robe over a blue shirt, and wears a ring on every one of his fingers.{{book ref|ws|5|review=yes}}
+Loaten is a portly dark skinned man. He has a thin goatee and long thick sideburns but is otherwise bald. He has a distinctive scar on his neck. He wears a pin striped gray robe over a blue shirt, and wears a ring on every one of his fingers.
 
 ## History
 Loaten was Emperor [[Skathan]]'s chief minister of diplomacy. He fell from power when he tried to kill Skathan. He was said to have been executed, but in reality he fled to [[Dayside]].
@@ -23,7 +23,6 @@ Loaten met [[Gevalden]] during his search for the [[sand mastery|Sand Mages]] an
 
 ## Notes
 <references />
-{{complete}}
-{{White Sand}}
+
 [[Category: Taldaini]]
 [[Category: Residents of Kezare]]

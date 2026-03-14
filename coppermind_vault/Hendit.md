@@ -1,17 +1,15 @@
 ---
-#profession: "Soldier"
-groups: "{{tag|Cobalt Guard"
+source_file: Hendit.txt
+entity_type: character
+'#profession': Soldier
+groups: Cobalt Guard
+residence: Urithiru
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|residence=Urithiru
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-**Hendit** is a member of the [[Cobalt Guard]] on [[Roshar]].{{book ref|sa5|14}}
+**Hendit** is a member of the [[Cobalt Guard]] on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{stormlight}}

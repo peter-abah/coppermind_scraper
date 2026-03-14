@@ -1,8 +1,11 @@
-{{book
-|released=December 2011
-|word-count=2,015
-}}
-***I Hate Dragons*** is a short story written by [[Brandon Sanderson]] as part of a dialogue exercise. He wrote the story using only dialogue, although admittedly, he did use large caps and occasionally very descriptive conversation.{{bws ref|I-hate-dragons|I Hate Dragons|date=2010-12-17}} Some time later, Brandon expanded the short story, putting in descriptions, and added more chapters.{{bws ref|i-hate-dragons-extended-version|I Hate Dragons Extended|date=2011-05-01}}
+---
+source_file: I Hate Dragons.txt
+entity_type: book
+released: December 2011
+word-count: 2,015
+---
+
+***I Hate Dragons*** is a short story written by [[Brandon Sanderson]] as part of a dialogue exercise. He wrote the story using only dialogue, although admittedly, he did use large caps and occasionally very descriptive conversation. Some time later, Brandon expanded the short story, putting in descriptions, and added more chapters.
 
 The short story can also be found in *[https://a.co/d/g1txveB Dragon Writers: An Anthology]* (WordFire Press, 2016).
 
@@ -23,7 +26,5 @@ The sorceress then talks to Skip and tries to dissuade him from quitting his rol
 
 ## Notes
 <references />
-{{meta/partial}}
-{{I Hate Dragons}}
-{{Books}}
+
 [[es:I Hate Dragons]]

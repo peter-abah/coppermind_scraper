@@ -1,11 +1,14 @@
-{{book
-|series=[[Skyward (series)]]
-|setting=[[Cytoverse]]
-|collaborators=[[Janci Patterson]]
-|prev=Evershore (novella)|prequel=Evershore
-|released=November 21, 2023
-|page-count=18
-}}
+---
+source_file: Hyperthief.txt
+entity_type: book
+series: '[[Skyward (series)]]'
+setting: '[[Cytoverse]]'
+collaborators: '[[Janci Patterson]]'
+prev: Evershore (novella)
+prequel: Evershore
+released: November 21, 2023
+page-count: '18'
+---
 
 ***Hyperthief*** is a short story in the [[Skyward (series)|Skyward series]], co-written by [[Brandon Sanderson]] and [[Janci Patterson]]. It is set after *[[Evershore (novella)|Evershore]]* and follows [[FM]], [[Rig]], [[Alanik]], and [[Nedd]] in third-person limited perspectives. It was initially distributed as a physical booklet at the Dragonsteel 2023 convention and then sold as part of a Cytoverse bundle. It can be read online on [https://www.dragonsteelbooks.com/collections/featured-products/products/hyperthief-ebook Dragonsteelbooks.com]
 
@@ -18,6 +21,3 @@ Nedd's lunch is interrupted by an emergency flight mission. The taynix had repor
 
 ## Notes
 <references />
-{{meta/partial}}
-{{skyward}}
-{{books}}

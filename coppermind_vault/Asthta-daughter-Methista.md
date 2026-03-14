@@ -1,15 +1,12 @@
 ---
-profession: "{{cat tag|Scholars|Mathematician"
+source_file: Asthta-daughter-Methista.txt
+entity_type: character
+ethnicity: Shin
+world: Roshar
+universe: '[[Cosmere]]'
 ---
 
-|ethnicity=Shin
-|world=Roshar
-|universe=[[Cosmere]]
-}}
-
-**Asthta-daughter-Methista** is a [[Shin]] mathematician from [[Roshar]].{{wob ref|13994}}
+**Asthta-daughter-Methista** is a [[Shin]] mathematician from [[Roshar]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 21:32, 19 July 2020 (UTC)}}
-{{Stormlight}}

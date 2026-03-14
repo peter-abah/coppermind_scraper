@@ -1,20 +1,14 @@
-{{noble house
-|home=[[Free Kingdoms]]
-|earth=Alcatraz
-|books=[[Alcatraz series]]
-}}
+---
+source_file: House Dartmoor.txt
+entity_type: noble house
+home: '[[Free Kingdoms]]'
+earth: Alcatraz
+books: '[[Alcatraz series]]'
+---
+
 **House Dartmoor** is a noble house of the [[Free Kingdoms]], they are the leaders of [[Nalhalla]].
 
 ## Family Tree
-{{chart/wrap|title=House Dartmoor family lineage|
-{{chart| | | | | | BRI |~|y|~| DRA | | |BRI=[[Brig Dartmoor|Brig]]|DRA=[[Draulin]]}}
-{{chart| | | | | |,|-|-|-|+|-|-|-|.| | }}
-{{chart| Tal |~| Ang | | Rik | | Bas | <!--
--->|Ang=[[Angola Dartmoor|Angola]]|Tal=[[Talakimallo]]|Rik=[[Rikers Dartmoor|Rikers]]{{book ref|a3|7}}|Bas=[[Bastille]]}}
-}}
 
 ## Notes
 <references />
-{{stub}}
-{{Alcatraz}}
-{{DEFAULTSORT:Dartmoor}}

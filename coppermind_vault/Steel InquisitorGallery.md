@@ -1,3 +1,8 @@
+---
+source_file: Steel InquisitorGallery.txt
+entity_type: article
+---
+
 ==Official artwork==
 <gallery mode="packed" heights=250px caption="Official Artwork">
 Steel Inquisitor.jpg|<small><center>by {{a|Ben McSweeney}}</center></small>An Inquisitor stood on top of [[Kredik Shaw]], concept art

@@ -1,11 +1,14 @@
-{{Template:Disambig}}
+---
+source_file: Ancient One.txt
+entity_type: template:disambig
+---
 
 **Ancient One** or **ancient one** can refer to the following:
 
-*A title commonly used by the [[Fused]] in the [[Rosharan system]]{{book ref|sa4|42}}
-*A title for the [[Herald]]s, also in the Rosharan system{{book ref|sa3|i|8}}
-*An honorific used for members of the [[Ire]]{{msh ref|5|2}}
-*Informally, the term may also refer to [[Shard]]s{{book ref|sa4|86}}
+*A title commonly used by the [[Fused]] in the [[Rosharan system]]
+*A title for the [[Herald]]s, also in the Rosharan system
+*An honorific used for members of the [[Ire]]
+*Informally, the term may also refer to [[Shard]]s
 
 ==Notes==
 <references />

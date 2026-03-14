@@ -1,13 +1,13 @@
 ---
-earth: "Legion"
-books: "Legion (book)|Legion"
+source_file: Davenport.txt
+entity_type: character
+earth: Legion
+books: '[[Legion (book)|Legion]]'
 ---
 
 **Mr. Davenport** is one of [[Monica]]'s superiors in [[Azari Laboratories, Inc]].
 
-[[Stephen Leeds]] met Davenport at the airport, and Stephen thinks Davenport has a poor taste in shoes and smells of pipe smoke.{{book ref|legion|5}}
+[[Stephen Leeds]] met Davenport at the airport, and Stephen thinks Davenport has a poor taste in shoes and smells of pipe smoke.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:55, 11 September 2018 (MST)}}
-{{Legion}}

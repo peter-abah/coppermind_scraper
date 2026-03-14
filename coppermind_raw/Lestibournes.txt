@@ -1,0 +1,2 @@
+#redirect[[Spook]]
+[[Category: Aliases]]

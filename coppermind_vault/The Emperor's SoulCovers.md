@@ -1,3 +1,8 @@
+---
+source_file: The Emperor's SoulCovers.txt
+entity_type: article
+---
+
 This is a gallery of covers for *[[The Emperor's Soul]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 
 <gallery widths=3000px heights=400px mode="packed">

@@ -1,23 +1,23 @@
-{{architecture
-|owners=[[Clubs]]
-|usage={{cat tag|Businesses|Business}}
-|city=Luthadel
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn: The Final Empire]]
-}}
-**Clubs's shop** is a carpentry shop and is a front for his work as a [[Copper#Allomancy|Smoker]].{{map ref|Luthadel}}
+---
+source_file: Clubs's shop.txt
+entity_type: architecture
+owners: '[[Clubs]]'
+city: Luthadel
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn: The Final Empire]]'
+---
+
+**Clubs's shop** is a carpentry shop and is a front for his work as a [[Copper#Allomancy|Smoker]].
 
 ## Business
 Clubs's shop's carpentry section is a successful business in itself with several apprentices and other staff. This allows Clubs to have a fair amount of independence -- unlike most [[skaa]] in the Final Empire. It has quarters for the apprentices and any people currently employing Clubs as a Smoker, along with spaces for meetings and a kitchen. The shop also has multiple hidden lookout posts and at least one hidden exit for escape in case of either guards or [[Steel Inquisitors]].
 
 ## Apprentices
-[[Clubs]] employs six{{book ref|mb1|15}} apprentices that do a large share of the work for the shop. Among these are several more Smokers whose combined efforts are able to keep a Coppercloud running all day. The only notable apprentice is Clubs's nephew [[Lestibournes]], later named [[Spook]] by [[Kelsier]], who becomes a member of [[Kelsier's crew]] and later continues to support Vin.
+[[Clubs]] employs six apprentices that do a large share of the work for the shop. Among these are several more Smokers whose combined efforts are able to keep a Coppercloud running all day. The only notable apprentice is Clubs's nephew [[Lestibournes]], later named [[Spook]] by [[Kelsier]], who becomes a member of [[Kelsier's crew]] and later continues to support Vin.
 
 ## History
 During the events of the downfall of the [[Final Empire]] Clubs's shop is used as a central location for [[Kelsier's crew]] to run their plans while actually in [[Luthadel]].
 
 ## Notes
 <references />
-{{partial}}
-{{Mistborn|Era 1}}

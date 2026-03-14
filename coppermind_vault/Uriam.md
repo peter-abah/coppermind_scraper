@@ -1,18 +1,17 @@
 ---
-abilities: "{{tag+|Fused"
+source_file: Uriam.txt
+entity_type: character
+abilities: Fused
+titles: The Defiant
+species: Singer
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Rhythm of War]]'
 ---
 
-|titles=The Defiant
-|species=Singer
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Rhythm of War]]
-}}
-**Uriam** the Defiant is a [[Fused]] on [[Roshar]].{{book ref|sa4|14}}
+**Uriam** the Defiant is a [[Fused]] on [[Roshar]].
 
-When a conclave of important [[singers]] assembles in [[Kholinar]], [[Raboniel]] proposes an infiltration of [[Urithiru]]; after their Voice announces them, Uriam asks for clarification on Raboniel's ability to turn the tower's own defenses against the [[Knights Radiant]] to suppress their powers.{{book ref|sa4|14}}
+When a conclave of important [[singers]] assembles in [[Kholinar]], [[Raboniel]] proposes an infiltration of [[Urithiru]]; after their Voice announces them, Uriam asks for clarification on Raboniel's ability to turn the tower's own defenses against the [[Knights Radiant]] to suppress their powers.
 
 ## Notes
 <references />
-{{complete}}
-{{Stormlight}}

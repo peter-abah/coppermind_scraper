@@ -1,0 +1,14 @@
+{{character
+|profession=Writer
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Corvana''' is a scholar on [[Roshar]].{{book ref|twok|60}}
+
+Corvana wrote the ''[[Analectics]]'', a book that contained at least some quotes from the songs of the [[Vanrial]] that were thought to be in [[Dawnchant]].{{book ref|twok|60}} A copy of her book was owned by Princess [[Jasnah Kholin]] and later used by Brightlady [[Navani Kholin]] in {{Rosharan date|1173}} to confirm that Highprince [[Dalinar Kholin]] was speaking in the Dawnchant during his visions.{{book ref|twok|60}}
+
+== Notes ==
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 18:20, 21 December 2016 (MST)}}
+{{stormlight}}

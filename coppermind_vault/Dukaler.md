@@ -1,17 +1,16 @@
 ---
-groups: "{{tag|Luthadel Assembly"
+source_file: Dukaler.txt
+entity_type: character
+groups: Luthadel Assembly
+ethnicity: Noble
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Well of Ascension]]'
 ---
 
-|ethnicity=Noble
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[The Well of Ascension]]
-}}
 Lord **Dukaler** is a [[noble]] and member of the [[Luthadel Assembly]] after the [[Collapse]] of the [[Final Empire]].
 
-He votes for Lord [[Penrod]] to replace [[Elend]] as King of Luthadel during the [[Siege of Luthadel]].{{book ref|mb2|38}}
+He votes for Lord [[Penrod]] to replace [[Elend]] as King of Luthadel during the [[Siege of Luthadel]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:25, 17 September 2018 (MST)}}
-{{Mistborn|Era 1}}

@@ -1,0 +1,14 @@
+{{character
+|titles=The Magnanimous
+|nation=Azir
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Wind and Truth]]
+}}
+
+'''Kasaakam the Magnanimous''' is an [[Azish]] ruler on [[Roshar]]. During their reign, they issued an imperial edict that freed all slaves in Azir.{{book ref|sa5|61}} [[Jasnah Kholin]] studied Kasaakam's actions during her preparation to ban slavery in [[Alethkar]] in {{Rosharan date|1175}}.{{book ref|sa4|17}}{{book ref|sa5|61}}
+
+== Notes ==
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 17:09, 13 January 2025 (UTC)}}
+{{Stormlight}}

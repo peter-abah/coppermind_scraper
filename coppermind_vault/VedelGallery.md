@@ -1,3 +1,8 @@
+---
+source_file: VedelGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Herald Glyph Vedel.svg| <small><center>by {{a|Isaac Stewart}}</center></small>Vedel's [[glyph]]

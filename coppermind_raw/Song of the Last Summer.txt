@@ -1,0 +1,1 @@
+#REDIRECT [[The Song of the Last Summer]]

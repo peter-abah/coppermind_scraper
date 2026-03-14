@@ -1,16 +1,17 @@
-{{settlement
-|region=Roughs
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-**Far Dorest** is a city in the northern [[Roughs]]. It is north of [[Faradana]] and east of the [[True Madil]].{{map ref|Elendel Basin}}
+---
+source_file: Far Dorest.txt
+entity_type: settlement
+region: Roughs
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
 
-Far Dorest had a single lawkeeper for its entire, large population:{{book ref|mb4|4}} [[Jon Deadfinger]], a lawkeeper from Far Dorest who worked with [[Miles Dagouter]] and [[Waxillium Ladrian]].{{book ref|mb4|11}}
+**Far Dorest** is a city in the northern [[Roughs]]. It is north of [[Faradana]] and east of the [[True Madil]].
 
-For the murder [[Wayne]] committed, Jon set Wayne to be hanged in Far Dorest.{{book ref|mb4|10}}
+Far Dorest had a single lawkeeper for its entire, large population: [[Jon Deadfinger]], a lawkeeper from Far Dorest who worked with [[Miles Dagouter]] and [[Waxillium Ladrian]].
+
+For the murder [[Wayne]] committed, Jon set Wayne to be hanged in Far Dorest.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 21:20, 22 June 2019 (MST)}}
-{{Mistborn|Era 2}}

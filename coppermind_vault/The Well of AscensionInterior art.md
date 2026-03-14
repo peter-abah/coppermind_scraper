@@ -1,4 +1,7 @@
-{{InteriorArtToC|mbe1}}
+---
+source_file: The Well of AscensionInterior art.txt
+entity_type: interiorarttoc
+---
 
 This is a gallery of interior art for *[[The Well of Ascension]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 

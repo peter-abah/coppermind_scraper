@@ -1,0 +1,22 @@
+{{settlement
+|region=Nirovah Valley
+|nation=Shinovar
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+'''Clearmount''' is a town located in southeast [[Shinovar]] on [[Roshar]]. It is the hometown of [[Szeth-son-Neturo]] and his family.{{book ref|sa5|24}}
+
+==Geography==
+Clearmount is a small farming town situated in the [[Nirovah Valley]], near both the [[Stoneward monastery]] and [[Shinovar]]'s southeastern coast.{{book ref|sa5|40}} It is at the edge of a broad, grassy plain where shepherds graze sheep for part of the year.{{book ref|sa5|24}} The inland side of the town is near [[Dison's Valley]].{{book ref|sa5|27}} It has muggy weather and thick Shin grass, and shepherds watch their flocks near white cliffsides.{{book ref|sa4|i|7}} The area is occasionally subject to attacks by raiders from other lands.{{book ref|sa5|27}}{{book ref|sa5|38}}
+
+==History==
+[[Szeth]] and his family had a homestead an hour's walk outside of the town.{{book ref|sa5|27}} The homestead was technically part of Clearmount, although it was difficult to even see the town due to the rolling hills nearby.{{book ref|sa5|24}} Some shepherds chose to live part-time within the town proper, but Szeth's family did not do so. They did visit the town regularly; [[Zeenid-daughter-Beth]] taught a painting class there and the family always attended monthly devotions.{{book ref|sa5|27}} Szeth and [[Elid]] also had cousins who lived in the town.{{book ref|sa5|48}} Szeth gradually became aware that one of the reasons his family chose to stay on the homestead was their lack of blind faith in [[Stone Shamanism]].{{book ref|sa5|27}} 
+
+In his youth, Szeth considered Clearmount to be noisy, with buildings and roads that disconnected people from nature,{{book ref|sa5|27}} although he later realized that it was quite primitive compared to Roshar's larger urban centers.{{book ref|sa5|73}}
+
+Around the year {{Rosharan date|1149}}, Szeth discovered a stone on his family's land, setting off a chain of events that would change his life.{{book ref|sa5|24}} Szeth's family was initially worried they would have to move into the town,{{book ref|sa5|27}} but they soon left the area to live in the Stoneward monastery instead.{{book ref|sa5|48}}{{book ref|sa5|51}} Szeth did not return to his childhood home until {{Rosharan date|1175}} when he and [[Kaladin]] visited the homestead to see if doing so might help Szeth progress in his quest to cleanse Shinovar.{{book ref|sa5|33}}{{book ref|sa5|35}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:56, 29 August 2025 (UTC)}}
+{{Stormlight}}

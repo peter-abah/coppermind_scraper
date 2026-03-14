@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Tresting.txt
+entity_type: disambig
+---
 
 **Tresting** could refer to two things:
 

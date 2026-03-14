@@ -1,15 +1,16 @@
 ---
-world: "Sel"
-universe: "Cosmere"
-books: "Elantris (book)|Elantris"
+source_file: ShanVen.txt
+entity_type: character
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
 ---
 
-**ShanVen** is one of the original followers of the [[Shu-Korath]] religion, and [[Korath]]'s right-hand man.{{wob ref|7591}}
+**ShanVen** is one of the original followers of the [[Shu-Korath]] religion, and [[Korath]]'s right-hand man.
 
 He took the budding religion to [[Teod]] as their young monarchy had established it as the state religion.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 15:01, 25 December 2016 (MST)}}
-{{Elantris}}
+
 [[Category: Religion]]

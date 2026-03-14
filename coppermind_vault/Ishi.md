@@ -1,4 +1,9 @@
-{{disambig}}<br/>
+---
+source_file: Ishi.txt
+entity_type: disambig
+---
+
+<br/>
 
 **Ishi** can refer to multiple things:
 * One of the names used for the [[Herald]] [[Ishar]]

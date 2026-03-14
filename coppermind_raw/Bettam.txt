@@ -1,0 +1,15 @@
+{{character
+|profession={{tag+|ardent}} in the Devotary of the Mind[[category: scholars]]
+|residence=Jokasha Monastery
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Oathbringer]]
+}}
+'''Bettam''' is an [[ardent]] at [[Jokasha Monastery]] on [[Roshar]].{{book ref|sa3|i|2}}
+
+He believed that the [[Everstorm]] would force the ardentia to move to a new location, as the wind would knock down all the trees and leave the monastery exposed. He disputed another ardent's measurements claiming that the Everstorm's winds were not strong enough to cause that level of damage.{{book ref|sa3|i|2}}
+
+== Notes ==
+<references />
+{{complete|[[User:Thegatorgirl00|Thegatorgirl00]] ([[User talk:Thegatorgirl00|talk]]) 7:35, 10 June 2018 (MST)}}
+{{Stormlight}}

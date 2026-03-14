@@ -1,0 +1,105 @@
+{{character
+|image=Fuzz by Matthew Johnson.jpeg
+|abilities={{tag+|Shard|Preservation}}
+|titles=[[Preservation]]
+|aliases=Mist Spirit, Fuzz, Terr,{{book ref|mb3|75}} Frue{{book ref|mb6|22}}
+|world=Yolen
+|died={{date|1025|fe}}
+|groups={{tag|Kelsier's crew}}{{msh ref|3|1}}, {{tag|Preservers}}
+|universe=[[Cosmere]]
+|introduced=[[The Well of Ascension]]
+}}
+{{quote
+|Fortunately, before I died, I put a plan into motion. I can't remember it, but I’m certain that it was brilliant.
+|Leras{{msh ref|2|4}}
+}}
+
+'''Leras''' is the first [[Vessel]] of the [[Shard]] [[Preservation]], originally from [[Yolen]]. Along with [[Ati]], the Vessel of [[Ruin]], he created [[Scadrial]], although he later betrayed Ati and imprisoned him in the [[Well of Ascension]], at the cost of his own life. He is nicknamed '''Fuzz''' by [[Kelsier]].{{msh ref|1|1}}
+
+== Appearance and Personality==
+{{image|Preservation by FelCandy.webp|side=left|width=300px}}
+=== Appearance ===
+{{for|/Gallery|more images}}
+
+Leras is a short man, by Scadrian standards, with black hair and a prominent nose.{{epigraph ref|mb3|56}} In the [[Cognitive Realm]], he appears wearing a thin wool coat that reaches almost to his feet, as well as a laced tunic with a conical skirt at the bottom, tied by a belt holding [[Leras's knife|a knife]] with a handle of bone.{{msh ref|1|1}} As his final death approaches, his form begins to unravel, and parts of him begin to fall apart into mist. At a certain point, half of his face is missing, replaced by fading white smoke, with holes in other parts of his body and clothing. This does not impact his ability to speak or perceive his environment.{{msh ref|2|1}} Occasionally, his silhouette will fully unfold, revealing a skeleton beneath. Looking into this form's eyes while holding any power allows one to perceive the full nature of Preservation -- an expanse of infinity, frozen still in a single moment.{{msh ref|2|1}}
+
+When appearing in the physical realm, Leras takes the form of the [[mist]] spirit, a silhouette outlined in [[Scadrial]]'s omnipresent [[mist]]s. Though roughly humanoid, he is difficult to distinguish from the fog, at least until he starts moving. He cannot speak in this form, but he can move around and point, as well as interact with objects in a limited capacity.{{book ref|mb3|55}}
+
+=== Personality ===
+{{image|Leras by Elisgardor.jpg|side=right|width=250px}}
+
+{{quote
+|The hearts of men are NOT YOUR TOYS.
+|Leras to [[Kelsier]]{{msh ref|6|4}}
+}}
+
+When he is cognizant, Leras is often sarcastic and sardonic. He gets easily excited over things he adores, like the [[Lord Ruler]], and will often pace when thinking, full of energy. He likes people who accomplish the impossible, especially when it involves their own survival.{{msh ref|1|1}} He was once able to be cunning, and even deceitful, when needed, but seems to have lost this capacity over time.{{msh ref|3|1}} 
+
+Leras has a strong sense of duty towards Scadrial and its people, and continues to maintain his appointed tasks, such as welcoming the recently deceased, even as he is dying.{{msh ref|1|1}} He treats his divinity seriously, and attempts to impart this seriousness upon others.{{msh ref|6|4}} The same means he dislikes being mocked, and is highly offended when suggested to act in a way opposing to his Intent.{{msh ref|2|3}} He can also get incensed when people do not follow their roles, and gets angry when his function as Scadrial's god is questioned or usurped.{{msh ref|3|1}} 
+
+As he is dying, Leras is often unfocused and has difficulties thinking and remembering, or even participating in an ongoing conversation. His abilities in this regard increase somewhat when he starts regularly interacting with [[Kelsier]], and by his death, he is able to communicate coherently, though it's uncertain if his memories ever fully returned to him before his passing.{{msh ref|6|4}}
+
+He appreciates permanence and lack of change, to the extent that he supported Rashek and the [[Final Empire]], despite the fact it engaged in slavery, genocide, and eugenics. Not due to the fact that he agrees with what they do, but rather due to the fact that it was preserved for a thousand years.{{msh ref|1|1}}
+
+== Attributes and Abilities ==
+{{quote
+|Yes, there was a plan. I . . . remember I had a plan. When I was smarter . . .
+|Leras{{msh ref|1|2}}
+}}
+
+{{image|Death of Leras by Álvaro González Huertas .jpeg|side=left|width=250px|Leras's death}}
+{{image|The_Last_Breath_of_Preservation.jpg|The death of Leras|side=right|height=350px}}
+
+
+Leras is a [[Vessel]] of a [[Shard]]; as such, he is unaging, nigh-omniscient within his sphere of influence, and lacking a distinct form in the [[Physical Realm]]. During the events immediately before the [[Catacendre]] he is, however, functionally dead, having been mortally wounded and dying for millennia. As such, he is slowly unraveling. He lacks significant fragments of his memories, has trouble focusing, and is only lucid for short periods of time.{{msh ref|1|1}} He has trouble keeping a humanoid appearance even in the [[Cognitive Realm]], and parts of him can only appear as tendrils of mist.{{msh ref|1|2}} He's also technically a [[Cognitive Shadow]], a fading imprint of mind and memory on the power of [[Preservation]].{{wob ref|6891}}{{msh ref|3|2}}
+
+As the Vessel of Preservation, Leras processed some of the best future sight in the [[cosmere]]. He was able to accurately predict events for thousands of years in the future, even with interference from [[Ruin]]. This allowed him to make long-term, large-scale plans and trust them to work out properly, even if he himself forgets what the plan was in the first place.{{book ref|mb3|81}}{{msh ref|1|2}}
+
+The form he takes in the Cognitive Realm carries on it a knife.{{msh ref|1|1}} He refers to it as his old friend, and his first instinct when threatened is to reach for it, suggesting he was once at least moderately capable with it. However, by the time of the [[Final Empire]] he finds harming other beings almost impossible.{{msh ref|1|2}}{{msh ref|2|3}}
+
+== History ==
+{{image|Preservation by zoethatcher art.jpg|side=right|width=300px}}
+Like all original [[Vessel]]s, Leras is a native of [[Yolen]].{{wob ref|7939}} He participated in the [[Shattering of Adonalsium]], and took up one of the [[Shard]]s, [[Preservation]], before departing Yolen along with [[Ati]], the Vessel of [[Ruin]].{{msh ref|3|2}}
+
+{{for|Preservation#History|subsequent events}}
+<br style="clear:left;"/>
+== Relationships ==
+=== Ati ===
+{{quote
+|I know you're listening, changing what I write, what I have written. You make our religion all about you. They hardly remember the truth any longer. Subtle as always, you worm.
+|Leras to Ruin{{msh ref|1|2}}
+}}
+Though Leras and [[Ati]] knew each other before the [[Shattering]], having killed [[Adonalsium]] together, it's unknown what the relationship between them was. Leras seems to know him well, enough so to recognize what parts of [[Ruin]]'s behavior stem from Ati's own personality, and seems to mourn his change in an understated way.{{msh ref|3|1}} As the [[Shard]]s, the two are diametrically opposed in both [[Intent]] and personality. Ati is dismissive and mocking of Leras, while Leras is worried about Ati escaping the [[Well of Ascension]] and devises the plan to oppose him.{{msh ref|4|4}} This being said, Leras isn't himself scared of Ati, as he is already dead and thus beyond his reach.{{msh ref|2|3}}
+
+=== Kelsier ===
+{{image|Preservation.jpg|side=left|width=200px|Leras turning Kelsier into a [[Cognitive Shadow]]}}
+{{quote
+|You're not only the first to punch me, you’re also the first to try to recruit me. You are a distinctively strange man.
+|Leras to [[Kelsier]]{{msh ref|1|1}}
+}}
+Leras and [[Kelsier]] meet when the latter dies, though Leras himself has been following Kelsier's actions for some time. He dislikes him, and initially wants to push him onward to the [[Beyond]], but Kelsier is able to trick him into explaining how to become a [[Cognitive Shadow]]. Kelsier nicknames him '''Fuzz''', due to his fuzzy, half-unraveled appearance, and attempts to recruit him to his schemes, which Leras eventually agrees to go along with, mostly out of curiosity.{{msh ref|1|1}} He is briefly furious when he realizes that Kelsier's actions led to [[Lord Ruler]]'s death, and often ribs Kelsier over his unwillingness to move on to the Beyond and the way his actions played into Ruin's hand.{{msh ref|1|2}}
+
+As the Well of Ascension fills up, the two eventually do begin to cooperate, with Leras telling Kelsier more and Kelsier being more willing to listen to and respect Leras' divinity.{{msh ref|2|3}} Though still angry about Kelsier and his veneration as "the Survivor", Leras eventually trusts Kelsier enough to point him towards the [[Ire]].{{msh ref|3|1}}{{msh ref|3|3}} As Leras continues to unravel, Kelsier tries to keep up his spirits.{{msh ref|6|2}} At the moment of his death, the two are cordial, with Kelsier comforting Leras and Leras giving Kelsier tacit blessing to use his power and imploring him to keep on surviving.{{msh ref|6|4}}
+
+=== Hoid ===
+Leras seems to remember [[Hoid]] fondly.{{msh ref|2|1}}
+
+=== Senna ===
+{{quote
+|Oh, Senna . . . I'm losing this place. Losing them all . . .
+|Leras{{msh ref|3|1}}
+}}
+Leras is familiar with an unknown person or being named [[Senna]]. It's unclear who or what they were; however, Leras invokes them during his breakdown when seeing Ruin destroy [[Scadrial]] around him, suggesting it was someone highly important to him, possibly a dead Yolish god.{{msh ref|3|1}}
+
+== Trivia ==
+* He is familiar with [[Vax]], and would recognize the name of the planet if he was still around when [[Ati]] mentioned it.{{wob ref|12779}}
+
+== Notes ==
+{{holder|title= Vessel of<br>[[Preservation]]
+|prev=''None''|this=|next=[[Kelsier]]
+}}
+<references />
+{{complete}}
+{{Mistborn|Era 1}}
+{{cosmere}}
+[[es:Leras]]

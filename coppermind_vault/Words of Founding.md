@@ -1,25 +1,26 @@
-{{literature
-|type=
-|author=[[Sazed]]
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn (series)|Mistborn]]
-}}
-{{quote
-|One entire chamber was dedicated to the Words of Founding, Harmony's books, lore, knowledge, and own holy account of what had happened to the World of Ash.
-|[[Wax]] describing part of the museum/crypt at the [[Field of Rebirth]]{{book ref|mb5|19}}
-}}
+---
+source_file: Words of Founding.txt
+entity_type: literature
+author: '[[Sazed]]'
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn (series)|Mistborn]]'
+---
+
+> One entire chamber was dedicated to the Words of Founding, Harmony's books, lore, knowledge, and own holy account of what had happened to the World of Ash.
+> — [[Wax]] describing part of the museum/crypt at the [[Field of Rebirth]]
+
 The **Words of Founding** are a set of literary works left by [[Sazed]] for the people of the [[Elendel Basin]] on [[Scadrial]] after he took up the [[Shard]]s [[Ruin]] and [[Preservation]] to become [[Harmony]]. 
 
 ==Significance and Contents==
-The Words of Founding are thought of as holy doctrine by [[Pathian]]s. Even followers of other religions such as [[Trellism]] hold the Words in high regard.{{book ref|mb4|11}} Some religious sects also consider writings by other [[Originators]] as holy canon alongside the Words of Founding, although the [[Docksithium]] is almost universally ignored.{{book ref|mb5|19}}
+The Words of Founding are thought of as holy doctrine by [[Pathian]]s. Even followers of other religions such as [[Trellism]] hold the Words in high regard. Some religious sects also consider writings by other [[Originators]] as holy canon alongside the Words of Founding, although the [[Docksithium]] is almost universally ignored.
 
-The Words of Founding are divided into volumes, at least eighty in total{{book ref|mb5|20}} and possibly far more.{{book ref|mb5|19}} Because of their length, abridged versions of the Words of Founding are common.{{book ref|mb6|20}} They contain a massive amount of information covering everything from religion to city planning documents for [[Elendel]].{{book ref|mb4|1}}{{book ref|mb4|10}}  They contain information that would be otherwise unknown to humans, including an extremely detailed chart of [[Feruchemical]] powers{{book ref|mb6|3}} and writings about [[kandra]]{{book ref|mb5|12}} and [[Kelsier]]'s brief stint as Preservation's Vessel.{{book ref|mb5|14}} They also contain hints about electricity{{book ref|mb4|3}} and powered flight,{{book ref|mb4|15}} as well as the existence of four new metals.{{book ref|mb3|Epilogue}} Notably, they do not discuss [[Hemalurgy]] with the same level of detail as the other [[Metallic Arts]].{{book ref|mb5|25}} [[Spook]] saw this as a mistake and wrote a book that included more information about Hemalurgy; Harmony did not agree with his actions but could not forbid him from writing the book.{{book ref|mb5|6}}
+The Words of Founding are divided into volumes, at least eighty in total and possibly far more. Because of their length, abridged versions of the Words of Founding are common. They contain a massive amount of information covering everything from religion to city planning documents for [[Elendel]].  They contain information that would be otherwise unknown to humans, including an extremely detailed chart of [[Feruchemical]] powers and writings about [[kandra]] and [[Kelsier]]'s brief stint as Preservation's Vessel. They also contain hints about electricity and powered flight, as well as the existence of four new metals. Notably, they do not discuss [[Hemalurgy]] with the same level of detail as the other [[Metallic Arts]]. [[Spook]] saw this as a mistake and wrote a book that included more information about Hemalurgy; Harmony did not agree with his actions but could not forbid him from writing the book.
 
 ===Known Volumes===
-**Beliefs Reborn*, a volume that includes details about [[Larstaism]] (and likely other religions from Sazed's portfolio) from [[Classical Scadrial]].{{book ref|mb6|1}}
-*The Historica, containing a history of Scadrial prior to the [[Catacendre]]. It details the work that the [[kandra]] did hiding the [[atium]] from [[Ruin]],{{book ref|mb6|24}} as well as general information about kandra and [[mistwraith]]s in general.{{book ref|mb5|7}} [[Wax]] finds the sections on kandra to be boring.{{book ref|mb5|13}} It reveals the details of [[Vin]]'s [[Ascension]].{{book ref|mb5|11}} It also tells the story of [[Kelsier]] and his true motives for overthrowing the [[Lord Ruler]], namely vengeance, not altruistic heroism as the [[Church of the Survivor|Survivorists]] believe.{{book ref|mb5|17}}
-*The eightieth volume is at least partially written in verse, and includes verses about "Harmony's quest for Truth."{{book ref|mb5|20}}
+**Beliefs Reborn*, a volume that includes details about [[Larstaism]] (and likely other religions from Sazed's portfolio) from [[Classical Scadrial]].
+*The Historica, containing a history of Scadrial prior to the [[Catacendre]]. It details the work that the [[kandra]] did hiding the [[atium]] from [[Ruin]], as well as general information about kandra and [[mistwraith]]s in general. [[Wax]] finds the sections on kandra to be boring. It reveals the details of [[Vin]]'s [[Ascension]]. It also tells the story of [[Kelsier]] and his true motives for overthrowing the [[Lord Ruler]], namely vengeance, not altruistic heroism as the [[Church of the Survivor|Survivorists]] believe.
+*The eightieth volume is at least partially written in verse, and includes verses about "Harmony's quest for Truth."
 
 ## Trivia
 * An excerpt from the Words of Founding makes up the [[The Hero of Ages/Epigraphs|epigraph]]s in the third [[Mistborn (series)|Mistborn]] book, *[[The Hero of Ages]]*.
@@ -27,10 +28,11 @@ The Words of Founding are divided into volumes, at least eighty in total{{book r
 ## Excerpt
 {| class="mw-collapsible mw-collapsed" width=100%
 |-
-|{{copyright}}
+|
 |-
 |
-{{quote|<!-- part 1 chapter 1-->
+
+> <!-- part 1 chapter 1-->
 I am, unfortunately, the Hero of Ages.
 <br />
 <!-- chapter 2 -->
@@ -496,8 +498,8 @@ Yet, she did make use of a small crumb of Preservation's power when she defeated
 There is much more to this mystery. Perhaps I will tease it out eventually, as my mind grows more and more accustomed to its expanded nature. Perhaps I will determine why I was able to take the powers myself. For now, I only wish to make a simple acknowledgment of the woman who held the power just before me.
 <br />
 Of all of us who touched it, I feel she was the most worthy.
-|Introduction to the Words of Founding.
-}}
+> — Introduction to the Words of Founding.
+
 |}
 
 ==See also==
@@ -506,6 +508,4 @@ Of all of us who touched it, I feel she was the most worthy.
 ## Notes
 <references />
 
-{{partial}}
-{{Mistborn|Era 1}}
 [[category: culture]]

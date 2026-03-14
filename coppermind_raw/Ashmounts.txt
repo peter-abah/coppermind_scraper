@@ -1,0 +1,50 @@
+{{geography
+|image=ashmount.png
+|type={{cat tag|mountains|Volcanoes}}
+|region=Final Empire
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn (series)|Mistborn]]
+}}
+{{quote 
+|The ash, that was our real problem. The smoke filling the atmosphere, the black flakes covering up everything beneath, the eruptions of the volcanic ashmounts . . . Those were what would kill the world.
+|[[Sazed]]'s reflections in the [[Words of Founding]] on the ash{{epigraph ref|mb3|19}}
+}}
+
+The '''Ashmounts''' are enormous volcanoes located in [[Scadrial]]’s northern hemisphere.{{map ref|Final Empire 1021|the Final Empire}}{{map ref|scadrial|Scadrial}} Ash from the Ashmounts is described as black, although real ash is supposed to be grey and white with some dark component. The reasoning as to why is thought by some to be the influence of Ruins power, although it might just be the nature of the Ashmounts’ purpose.{{epigraph ref|mb3|19}} 
+
+== History ==
+=== Creation of the Ashmounts ===
+The Ashmounts were created by [[Rashek]] during his initial contact with the [[Well of Ascension]], to counteract his moving the planet too close to the sun.{{epigraph ref|mb3|4}} They are the source of the ashfalls that protect the planet from overheating by filling the air with massive clouds of ash. The Ashmounts also had a large effect on the planet’s biosphere, as [[Rashek]] made microorganisms to break down the ash,{{epigraph ref|mb3|15}} and changed the plants and animals, including humans, on the surface to be able to survive in this new environment.{{epigraph ref|mb3|5}}{{epigraph ref|mb3|25}}
+
+When Rashek created the Ashmounts, he did not necessarily place them near larger mountain ranges, and they often rise out of otherwise flat ground.
+
+=== The Final Empire and the Collapse ===
+During the Final Empire, the Ashmounts, and to an extension the ash they produced, played a large role in society. During this period of time, the only place to get [[Aluminum]] was inside the Ashmounts' craters.{{book ref|mb6|3}}  After [[Ruin]] was freed from the Well of Ascension, he caused the Ashmounts to emit massively larger amounts of ash and lava than normally, which served as part of his plan to destroy the world.{{msh ref|6|4}}{{epigraph ref|mb3|48}} At some point, Ashmount Zerinah erupted far harsher then normally, spewing lava as far as [[Lekal City]] and setting the southern dominance ablaze.{{book ref|mb3|34}}{{book ref|mb3|61}} On his journey to Fadrex City from the Kandra Homeland, TenSoon has to take a detour because of a river of lava in the way, coming from Ashmount Tyrian.{{book ref|mb3|61}} When [[Vin]] [[Ascension|Ascended]], she tried plugging the Ashmounts, but immediately realized that the land would be too hot without the protection of the ash and was forced to rotate the planet to compensate.{{book ref|mb3|76}} Her plugs did not hold, causing lava and ash to flow out anyway.{{book ref|mb3|81}}
+
+During [[Sazed]]'s Ascension, he restored Scadrial to its original orbit using the knowledge of the [[Nelazan]], eliminating the need for the Ashmounts.{{book ref|mb3|82}}
+
+=== Post-Catacendre ===
+After the Catacendre, the Ashmounts are stilled, although some appear to be gone.{{book ref|mb7|13}}{{map ref|scadrial|Scadrial}} Their former locations in the Final Empire are no longer populated, but are still referred to on maps using the names of the Ashmounts. Tyrian, Morag, Torinost, Kalling, and Faleast still seem to be extant in some form, while Zerinah and Doriel are not visible on available maps. A city in the Basin near the Ashmount's previous location is named [[Doriel (city)|Doriel]], and the area east of the [[Southern Roughs]] is known as "Lost Doriel".{{map ref|scadrial|Scadrial}} 
+
+During {{date|341|PC}}, an organisation known as the [[Set]] captured a number of citizens, under the guise of saving them from impending doom. They kept the citizens underground and pretended that the world above had ended, with the Ashmounts erupting again. During their attempt to unravel the Set’s plans, [[Wax]] and [[Marasi]] were concerned that the [[Set]] might be trying to restart the Ashmounts.{{book ref|mb7|43}}
+
+{{image|Ashmounts by Beigriff.jpg|side=left|width=300px}}
+
+== List of all the Ashmounts ==
+There were seven Ashmounts in the Final Empire; however, some appear to have been flattened during the [[Catacendre]], reducing the number down to five.{{map ref|scadrial|Scadrial}}
+
+*Tyrian, in the Central Dominance, in the middle of [[Lake Tyrian]] just west of [[Luthadel]]
+*Zerinah, in the Southern Dominance, southwest of Luthadel. It appears to have been flattened.{{map ref|scadrial|Scadrial}}
+*Doriel, in the Southern Dominance, near the [[Southern Sea]] south-southwest of Luthadel. It appears to have been flattened to create the Elendel Basin.{{map ref|scadrial|Scadrial}}
+*Faleast, in the Eastern Dominance, south-southeast of Luthadel. It appears to currently make up the [[Faleast Range]].{{map ref|scadrial|Scadrial}}
+*Morag, in the Western Dominance, west-northwest of Luthadel
+*Torinost, in the Western Dominance, north-northwest of Luthadel
+*Kalling, in the Northern Dominance, northeast of Luthadel
+
+== Notes ==
+<references />
+{{partial}}
+{{Mistborn|Era 1}}
+[[category: list articles]]
+[[es:Montes de Ceniza]]

@@ -1,3 +1,8 @@
+---
+source_file: The Hope of ElantrisStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[The Hope of Elantris]]***.
 
 Information used for this page is located [https://docs.google.com/spreadsheets/d/1NQHYpq4ZiDe-9jiaEwjE6WXNh_q4Z-EY_xmoEmOSNHg/edit#gid=1254206552 here].
@@ -40,7 +45,5 @@ Information used for this page is located [https://docs.google.com/spreadsheets/
 | align="right" | 9.25%
 |}
 
-{{Elantris}}
-{{meta/done}}
 [[Category: Elantris|*]]
 [[category: statistics]]

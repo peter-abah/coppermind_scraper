@@ -1,0 +1,14 @@
+{{character
+|occupation={{cat tag|Scholars|Scholar}}, Author
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Guvlow''' is a scholar  on [[Roshar]] during the [[Era of Solitude]].{{epigraph ref|sa1|33}}
+
+Guvlow wrote a book called ''Incarnate''.{{epigraph ref|sa1|33}} The book contained a quote from "[[The Poem of the Seventh Morning]]", an ancient poem that had otherwise been lost. During [[Jasnah Kholin]]'s research regarding the [[Voidbringers]], she studied ''Incarnate'', which was generally thought to be reliable by scholars. The quote that was purportedly copied from a fragment of "The Poem of the Seventh Morning" was from a [[Knights Radiant|Radiant]] [[Stoneward]] named [[Talatin]] and addressed the difficulty in fighting [[Voidbringers]].{{epigraph ref|sa1|33}}
+
+== Notes ==
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 01:44, 24 December 2016 (MST)}}
+{{Stormlight}}

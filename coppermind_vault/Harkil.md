@@ -1,12 +1,11 @@
 ---
-universe: "Cytoverse"
-books: "Skyward (series)"
+source_file: Harkil.txt
+entity_type: location
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
-{{update|sky4}}
-**Harkil** is a [[Superiority]] supply depot connected to [[Surehold]].{{book ref|sky4|13}}
+**Harkil** is a [[Superiority]] supply depot connected to [[Surehold]].
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

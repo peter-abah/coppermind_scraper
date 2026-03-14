@@ -1,3 +1,8 @@
+---
+source_file: VinebudGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=400px caption="Official artwork">
 rockbuds.jpg| <small><center>by {{a|Ben McSweeney}}</center></small>A page from [[Shallan's sketchbook]].

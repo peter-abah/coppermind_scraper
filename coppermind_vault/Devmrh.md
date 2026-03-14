@@ -1,14 +1,14 @@
 ---
-profession: "Scribe"
-ethnicity: "Thaylen"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Oathbringer"
+source_file: Devmrh.txt
+entity_type: character
+profession: Scribe
+ethnicity: Thaylen
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Oathbringer]]'
 ---
 
-**Devmrh** is a scribe on [[Roshar]] who is asked by [[Navani]] to retrieve a palanquin for [[Shallan]] after the [[Battle of Thaylen Field]].{{book ref|sa3|121}} Based on her name and location, Devmrh is presumably [[Thaylen]].
+**Devmrh** is a scribe on [[Roshar]] who is asked by [[Navani]] to retrieve a palanquin for [[Shallan]] after the [[Battle of Thaylen Field]]. Based on her name and location, Devmrh is presumably [[Thaylen]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 21:17, 30 March 2019 (MST)}}
-{{Stormlight}}

@@ -1,0 +1,1 @@
+#REDIRECT [[Isles of the Emberdark]]

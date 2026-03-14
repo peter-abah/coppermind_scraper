@@ -1,0 +1,10 @@
+{{event
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+The '''Urithiru Grand Showcase''' is a scholarly event that takes place in the [[Breakaway]] in [[Urithiru]]. The crowning event of this showcase is the '''Fabrial Exhibit''', where artifabrians show their new designs and prototypes. During the first ever Urithiru Grand Showcase, a thief and a goat broke into the showroom and stole two [[fabrial]]s.{{rpg ref|ss|15}} It is unknown if the fabrials were recovered, though the showcase happened anyways.{{rpg ref|ss|16}}
+
+== Notes ==
+<references />
+{{complete}}
+{{Stormlight}}

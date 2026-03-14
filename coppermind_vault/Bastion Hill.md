@@ -1,15 +1,17 @@
-{{settlement
-|region=Forests of Hell
-|world=Threnody
-|universe=[[Cosmere]]
-|books=[[Shadows for Silence]]
-}}
-**Bastion Hill** is one of the [[Fortress Town]]s on [[Threnody]].{{book ref|sfs}}
+---
+source_file: Bastion Hill.txt
+entity_type: settlement
+region: Forests of Hell
+world: Threnody
+universe: '[[Cosmere]]'
+books: '[[Shadows for Silence]]'
+---
 
-Prices of [[silver]] are on the rise in Bastion Hill, as well as [[Lastport]].{{book ref|sfs}}
+**Bastion Hill** is one of the [[Fortress Town]]s on [[Threnody]].
+
+Prices of [[silver]] are on the rise in Bastion Hill, as well as [[Lastport]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:07, 25 December 2016 (MST)}}
-{{Shadows for Silence}}
+
 [[es:Colina Bastión]]

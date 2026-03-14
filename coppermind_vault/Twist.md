@@ -1,24 +1,20 @@
 ---
-image: "Twist.png"
-species: "Taynix"
-abilities: "{{tag+|cytonics"
+source_file: Twist.txt
+entity_type: character
+image: Twist.png
+species: Taynix
+abilities: cytonics, mimicry
+world: Detritus
+universe: '[[Cytoverse]]'
+introduced: '[[Sunreach]]'
 ---
 
-, mimicry
-|world=Detritus
-|universe=[[Cytoverse]]
-|introduced=[[Sunreach]]
-}}
-{{update|sf1|sf2}}
+**Twist** is a [[taynix]] that [[Jorgen]] discovers in a cavern on [[Detritus]] along with several other taynix. FM thinks of Twist as being female. Twist is of the yellow and blue variety of taynix, meaning she can use her [[Cytonics|Cytonic]] abilities to teleport. Twist likes to roll over to get her belly scratched, which leads to [[Rodge McCaffery|Rig]] giving her her name.
 
-**Twist** is a [[taynix]] that [[Jorgen]] discovers in a cavern on [[Detritus]] along with several other taynix.{{book ref|sf1|12}} FM thinks of Twist as being female.{{book ref|sf1|13}} Twist is of the yellow and blue variety of taynix, meaning she can use her [[Cytonics|Cytonic]] abilities to teleport.{{book ref|sf1|4}} Twist likes to roll over to get her belly scratched, which leads to [[Rodge McCaffery|Rig]] giving her her name.{{book ref|sf1|12}}
-
-Twist goes with [[Skyward Flight]] on their rescue mission to [[Sunreach (station)|Sunreach]]. With Jorgen’s direction, Twist uses her cytonic abilities to teleport into [[T-Stall]]’s starfighter and bring him into the station, saving him.{{book ref|sf1|16}}
+Twist goes with [[Skyward Flight]] on their rescue mission to [[Sunreach (station)|Sunreach]]. With Jorgen’s direction, Twist uses her cytonic abilities to teleport into [[T-Stall]]’s starfighter and bring him into the station, saving him.
 
 ## Trivia
-* When singing, Twist sings soprano.{{book ref|sf1|12}}
+* When singing, Twist sings soprano.
 
 ## Notes
 <references />
-{{partial}}
-{{Skyward}}

@@ -1,0 +1,23 @@
+{{vehicle
+|type={{cat tag|Spacecraft}}
+|creator=
+|creators
+|owner=
+|owners=
+|captain=[[Varion Crestmar]]
+|earth=
+|world=
+|universe=
+|books=[[Firstborn]]
+}}
+{{quote
+|Varion had used Article 117, taking command of the Voidhawk and its small fleet, the common captain becoming his XO.
+|[[Dennison Crestmar]]{{book ref|Firstborn}}
+}}
+
+'''Voidhawk''' is the name of the longship belonging to [[Varion Crestmar]] in the empire of [[Firstborn]]{{book ref|Firstborn}}. Despite it being a relatively small ship, it was used by [[Varion Crestmar]] as his flagship during his campaign. The Empire have implanted several bugs aboard it, including the one that allows capture and limited alteration of FTL communications.{{book ref|Firstborn}}
+
+== Notes ==
+<references />
+{{stub}}
+{{Firstborn}}

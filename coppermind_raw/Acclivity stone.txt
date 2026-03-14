@@ -1,0 +1,34 @@
+{{item
+|image=Spensa LittleGreyDragon.png
+|type=Mineral
+|function=Provides lift to starships
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+{{update|sky3|sf3|sky4}}
+{{quote
+|Hundreds of acclivity rings. If this thing falls, and we can salvage it, it could transform the DDF.
+|[[Jorgen]]{{book ref|sky1|46}}
+}}
+
+'''Acclivity stone''' is a mineral that reduces gravity, and even produces anti-gravity, when charged.{{book ref|sky1|14}}
+
+== Appearance and Properties ==
+Though it rarely occurs in regular space -- such as in the planetary core of [[ReDawn (planet)|ReDawn]]{{book ref|sf2|1}} -- most of the time, acclivity stone can only be found in the [[nowhere]], making it exceptionally rare.{{book ref|sky2|25}} The blue color normally indicative of acclivity stone is the result of a refinement process; it looks similar to normal rock beforehand.{{book ref|sky3|10}} Uncharged acclivity stone is black in color, with tones of blue.{{book ref|sky3|17}} When charged, it glows a blue bright enough to be seen from some distance. It seems capable of holding charge for a considerable amount of time - possibly centuries, though the charge does inevitably run out.{{book ref|sky1|10}} While it's rather durable, [[starfighter]] destructors are capable of destroying it, rendering it useless.{{book ref|sky1|31}} When destroyed, it lets out a flash of light.{{book ref|sky1|34}}
+
+Charged acclivity stone seems to affect the surrounding gravity, making it weaker or possibly altering its direction. This can make objects fall more slowly and even produce lift, letting them hover and fly.{{book ref|sky1|14}} It also seems to attract [[light-lance]]s, as it's easier for them to hook on acclivity debris.{{wob ref|11430}}
+
+== Acquisition and Use ==
+Acclivity stone is mined by spacefaring species of the galaxy through nowhere portals. The scarcity of those portals makes obtaining it highly difficult, and the material itself very costly; a species with access to a nowhere portal can become exceedingly rich through mining acclivity stone.{{book ref|sky2|25}} However, despite its relative scarcity, acclivity stone is broadly used to provide lift to spaceships and space stations throughout all of the inhabited space, and has been used as such for generations.{{book ref|sky2|34}}
+
+For starships and stations, the stone is fashioned into [[acclivity ring|rings]] that are attached to the underside of the vehicle.{{book ref|sky2|46}} The bigger the structure, the more acclivity rings it requires, with the largest structures necessitating hundreds of rings to keep them in orbit. Old acclivity rings can, however, be salvaged and reused, allowing for new ships to be fielded.{{book ref|sky1|25}}
+
+Though rarely-occurring in nature, acclivity stone can have major impact on ecosystems in which it does occur. On [[ReDawn (planet)|ReDawn]] in particular, huge chunks of acclivity stone house the roots of the island trees, the megaflora which serves as the only source of the planet's breathable air. As such, it is foundational to all life in the planet's atmosphere.{{book ref|sf2|1}}{{book ref|sf2|8}}
+
+== Trivia ==
+* An "acclivity" is another word for an upward slope, likely referring to the stone's ability to make things float up.
+
+== Notes ==
+<references />
+{{partial}}
+{{Skyward}}

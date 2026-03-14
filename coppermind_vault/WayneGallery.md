@@ -1,3 +1,8 @@
+---
+source_file: WayneGallery.txt
+entity_type: article
+---
+
 ## Official Art
 <gallery mode="packed" heights=250px gallery caption="Official artwork">
 The Alloy of Law Cover.jpg | <center><small>by {{a|Chris McGrath}}</small></center> On *[[The Alloy of Law]]* cover

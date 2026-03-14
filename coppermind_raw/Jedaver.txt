@@ -1,0 +1,2 @@
+#REDIRECT[[Syre]]
+[[category: aliases]]

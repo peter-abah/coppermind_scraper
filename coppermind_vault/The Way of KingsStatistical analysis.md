@@ -1,3 +1,8 @@
+---
+source_file: The Way of KingsStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains some statistical analysis of ***[[The Way of Kings]]***, the first book in [[The Stormlight Archive]].
 
 For a full series overview see [[The Stormlight Archive/Statistical analysis]], and for other books in the series see [[Words of Radiance/Statistical analysis]], [[Oathbringer/Statistical analysis]], [[Rhythm of War/Statistical analysis]], and [[Wind and Truth/Statistical analysis]].
@@ -760,7 +765,5 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 | align="right" | 0.4151%
 |}
 
-{{meta/done}}
-{{Stormlight}}
 [[Category: Stormlight Archive|*1x]]
 [[category: statistics]]

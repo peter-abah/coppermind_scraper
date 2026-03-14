@@ -1,4 +1,7 @@
-{{Template:Disambig}}
+---
+source_file: Tower.txt
+entity_type: template:disambig
+---
 
 **Tower** can refer to the following:
 

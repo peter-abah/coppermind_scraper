@@ -1,83 +1,56 @@
-{{quote
-|I am the Lopen, which means I am ready for anything at any time. You should know this by now.
-|Lopen to [[Moash]]{{book ref|sa2|41}}
-}}
+---
+source_file: LopenQuotes.txt
+entity_type: book ref
+---
 
-{{quote
-|A one-armed Herdazian is still twice as useful as a no-brained Alethi.
-|Lopen{{book ref|sa1|62}}
-}}
+> I am the Lopen, which means I am ready for anything at any time. You should know this by now.
+> — Lopen to [[Moash]]
 
-{{quote
-|Hey, gancho! Hey! You want me, I think. You can use me. We Herdazians are great fighters, gon. You see, this one time, I was with, sure, three men and they were drunk and all but I still beat them.
-|Lopen volunteering for recruitment.{{book ref|sa1|32}}
-}}
+> A one-armed Herdazian is still twice as useful as a no-brained Alethi.
+> — Lopen
 
-{{quote
-|Oh, storms yes! Everybody, give the Lopen your spheres! I have glowing that needs to be done.
-|Lopen after succeeding in Investing Stormlight and realizing that he could grow back his left arm{{book ref|sa2|87}}
-}}
+> Hey, gancho! Hey! You want me, I think. You can use me. We Herdazians are great fighters, gon. You see, this one time, I was with, sure, three men and they were drunk and all but I still beat them.
+> — Lopen volunteering for recruitment.
 
-{{quote
-|...look into the future and find out if I beat Huio at cards tomorrow.
-|Lopen to Renarin{{book ref|sa4|54}}
-}}
+> Oh, storms yes! Everybody, give the Lopen your spheres! I have glowing that needs to be done.
+> — Lopen after succeeding in Investing Stormlight and realizing that he could grow back his left arm
 
-{{quote
-|I’m an expert on one-armed Herdazian jokes. ‘Lopen,’ my mother always says, ‘you must learn these to laugh before others do. Then you steal the laughter from them, and have it all for yourself.’ She is a very wise woman.
-|Lopen{{book ref|sa2|12}}
-}}
+> ...look into the future and find out if I beat Huio at cards tomorrow.
+> — Lopen to Renarin
 
-{{quote
-|A man can never have enough cousins.
-|Lopen to [[Earless Jaks]]{{book ref|sa1|55}}
-}}
+> I’m an expert on one-armed Herdazian jokes. ‘Lopen,’ my mother always says, ‘you must learn these to laugh before others do. Then you steal the laughter from them, and have it all for yourself.’ She is a very wise woman.
+> — Lopen
 
-{{quote
-|You can thank me, naco, for inspiring this great advance in your learning. People—and little things made out of nothing too, sure—are often inspired near the Lopen.
-|Lopen to Rua, after teaching the spren how to perform a rude gesture{{book ref|sa3|121}}
-}}
+> A man can never have enough cousins.
+> — Lopen to [[Earless Jaks]]
 
-{{quote
-|If you’re crazy, you’re a good type, and I like you. Not a killing-people-in-their-sleep type of crazy. Besides, We all follow crazies all the time. Do it every day with lighteyes.
-|Lopen to Kaladin, on whether he'd follow him to battle if he was crazy.{{book ref|sa1|59}}
-}}
+> You can thank me, naco, for inspiring this great advance in your learning. People—and little things made out of nothing too, sure—are often inspired near the Lopen.
+> — Lopen to Rua, after teaching the spren how to perform a rude gesture
 
-{{quote
-|Some of my cousins, they call me the Lopen because they haven't ever heard anyone else named that. I've asked around a lot, maybe one hundred...or two hundred...lots of people, sure. And nobody has heard of that name.
-|Lopen introducing himself to Kaladin{{book ref|sa1|32}}
-}}
+> If you’re crazy, you’re a good type, and I like you. Not a killing-people-in-their-sleep type of crazy. Besides, We all follow crazies all the time. Do it every day with lighteyes.
+> — Lopen to Kaladin, on whether he'd follow him to battle if he was crazy.
 
-{{quote
-|Oh. Oh. Question for you! What did the one-armed Herdazian do to the man who stuck him to the wall?<br>
+> Some of my cousins, they call me the Lopen because they haven't ever heard anyone else named that. I've asked around a lot, maybe one hundred...or two hundred...lots of people, sure. And nobody has heard of that name.
+> — Lopen introducing himself to Kaladin
+
+> Oh. Oh. Question for you! What did the one-armed Herdazian do to the man who stuck him to the wall?<br>
 Nothing. The Herdazian was 'armless.</br>
-|Lopen, after being stuck to a wall in a [[Full Lashing]] experiment that he himself proposed{{book ref|sa2|12}}
-}}
+> — Lopen, after being stuck to a wall in a [[Full Lashing]] experiment that he himself proposed
 
-{{quote
-|Ain’t nothing wrong with being a woman, gancho. Some of my relatives are women.
-|Lopen to Kaladin{{book ref|sa2|76}}
-}}
+> Ain’t nothing wrong with being a woman, gancho. Some of my relatives are women.
+> — Lopen to Kaladin
 
-{{quote
-|Life before death, strength before weakness, journey before pancakes
-|Lopen misquoting the First Ideal of the Knights Radiant to an injured soldier{{book ref|sa3|121}}
-}}
+> Life before death, strength before weakness, journey before pancakes
+> — Lopen misquoting the First Ideal of the Knights Radiant to an injured soldier
 
-{{quote
-|Well, sure. Technically it might be. But for the end of the world, it's not so bad, right? I figured that when everything ended, we’d sink into a noxious bath of pus and doom, breathing in agony as the air around us—sure—became molten, and we screamed a final burning scream, relishing the memories of the last time a woman loved us. Don’t know about you, moolie, but my lungs aren’t burning. The air doesn’t seem very molten. Considering how bad this could have gone, you’ve got a lot to be thankful for. Remember that.
-|Lopen comforting a wounded man after the Battle of Thaylen Field{{book ref|sa3|121}}
-}}
+> Well, sure. Technically it might be. But for the end of the world, it's not so bad, right? I figured that when everything ended, we’d sink into a noxious bath of pus and doom, breathing in agony as the air around us—sure—became molten, and we screamed a final burning scream, relishing the memories of the last time a woman loved us. Don’t know about you, moolie, but my lungs aren’t burning. The air doesn’t seem very molten. Considering how bad this could have gone, you’ve got a lot to be thankful for. Remember that.
+> — Lopen comforting a wounded man after the Battle of Thaylen Field
 
-{{quote
-|NOW? I was saving that for a dramatic moment, you penhito! Why didn't you listen earlier? We were, sure, all about to die and things!
-|Lopen to the [[Stormfather]], when he achieved the Second Ideal of the Windrunners shortly after the [[Battle of Thaylen Field]]{{book ref|sa3|121}}
-}}
+> NOW? I was saving that for a dramatic moment, you penhito! Why didn't you listen earlier? We were, sure, all about to die and things!
+> — Lopen to the [[Stormfather]], when he achieved the Second Ideal of the Windrunners shortly after the [[Battle of Thaylen Field]]
 
-{{quote
-|I'll do it, then. I've got to protect people, you know? Even from myself. Gotta rededicate to being the best Lopen possible. A better, improved, *extra*-incredible Lopen.
-|Lopen swearing his version of the Windrunners' Third Ideal{{book ref|sa3.5|Epilogue}}
-}}
+> I'll do it, then. I've got to protect people, you know? Even from myself. Gotta rededicate to being the best Lopen possible. A better, improved, *extra*-incredible Lopen.
+> — Lopen swearing his version of the Windrunners' Third Ideal
 
 ## Notes
 <references/>

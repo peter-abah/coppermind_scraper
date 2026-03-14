@@ -1,14 +1,14 @@
 ---
-world: "Nalthis"
-universe: "Cosmere"
-introduced: "Warbreaker"
+source_file: Jlan.txt
+entity_type: character
+world: Nalthis
+universe: '[[Cosmere]]'
+introduced: '[[Warbreaker]]'
 ---
 
-**Jlan** is a servant in the [[God King]]'s palace in [[Hallandren]].{{book ref|wb|6}}
+**Jlan** is a servant in the [[God King]]'s palace in [[Hallandren]].
 
-She is one of the servants present when [[Siri]] bathes prior to her wedding and first meets [[Bluefingers]]. Bluefingers says that Jlan and her ladies are always efficient, and was pleased with their work.{{book ref|wb|6}}
+She is one of the servants present when [[Siri]] bathes prior to her wedding and first meets [[Bluefingers]]. Bluefingers says that Jlan and her ladies are always efficient, and was pleased with their work.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 21:51, 14 June 2019 (MST)}}
-{{Warbreaker}}

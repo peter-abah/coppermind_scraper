@@ -1,3 +1,8 @@
+---
+source_file: SigzilGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Bridge 4 poster without text.jpg| <small><center>by Zack Stella</center></small>With the rest of [[Bridge Four]] on the movie-style poster of [[Bridge Four]] that was part of *[[The Way of Kings]]* leatherbound edition Kickstarter campaign.

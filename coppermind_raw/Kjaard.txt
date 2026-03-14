@@ -1,0 +1,14 @@
+{{settlement
+|nation=Jaador
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[Elantris (book)|Elantris]]
+}}
+'''Kjaard''' is a city in [[Jaador]].{{file ref|Sycla-Opelon Map.jpg|Map of Sycla}} It is located close to border with [[Fjorden]].
+
+It is possibly Jaador's capital.
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 18:08, 6 June 2017 (MST)}}
+{{Elantris}}

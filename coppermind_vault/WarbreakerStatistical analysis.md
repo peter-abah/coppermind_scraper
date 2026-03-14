@@ -1,3 +1,8 @@
+---
+source_file: WarbreakerStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Warbreaker]]***.
 
 Information used for this page is located [https://docs.google.com/spreadsheets/d/1iodY8VsGcahpzx5SFZcE-QIV7Wj8rV9-n7uIt0HdD_A/edit#gid=684717550 here].
@@ -551,7 +556,5 @@ Information used for this page is located [https://docs.google.com/spreadsheets/
 | align="right" | 0.24%
 |}
 
-{{meta/done}}
-{{Warbreaker}}
 [[Category: Warbreaker|*]]
 [[category: statistics]]

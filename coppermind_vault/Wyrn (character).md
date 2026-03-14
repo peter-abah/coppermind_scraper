@@ -1,20 +1,20 @@
 ---
-titles: "King of Fjorden"
-nation: "Fjorden"
-world: "Sel"
-universe: "Cosmere"
-books: "Elantris (book)|Elantris"
+source_file: Wyrn (character).txt
+entity_type: character
+titles: King of Fjorden
+nation: Fjorden
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
 ---
 
-{{for|Wyrn|other uses of Wyrn}}
-**Wyrn** is an ancient resident of [[Sel]] who founded the nation of [[Fjorden]].{{glossary ref|Elantris|G}} Subsequent rulers of Fjorden have used "[[Wyrn (title)|Wyrn]]" as a title.{{glossary ref|Elantris|W}}
+**Wyrn** is an ancient resident of [[Sel]] who founded the nation of [[Fjorden]]. Subsequent rulers of Fjorden have used "[[Wyrn (title)|Wyrn]]" as a title.
 
-He is the subject of the oldest known literary work on Sel, *[[Wyrn the King]]*.{{book ref|elantris|43}} He lived long before the founding of [[Shu-Dereth]] and [[Shu-Korath]].{{book ref|elantris|43}} After Shu-Dereth was adopted as the state religion of Fjorden,{{glossary ref|Elantris|W}} modern Derethi priests altered historical documents to falsely claim that Wyrn was Derethi and worshipped [[Jaddeth]].{{book ref|elantris|43}}
+He is the subject of the oldest known literary work on Sel, *[[Wyrn the King]]*. He lived long before the founding of [[Shu-Dereth]] and [[Shu-Korath]]. After Shu-Dereth was adopted as the state religion of Fjorden, modern Derethi priests altered historical documents to falsely claim that Wyrn was Derethi and worshipped [[Jaddeth]].
 
-He is said to have wielded a sword named [[Gretgor]].{{glossary ref|Elantris|G}} A sword thought to be Gretgor is still extant and held in [[Widor]].{{wob ref|7438}}
+He is said to have wielded a sword named [[Gretgor]]. A sword thought to be Gretgor is still extant and held in [[Widor]].
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 10:56, 20 June 2019 (MST))}}
-{{Elantris}}
+
 [[es:Wyrn (personaje)]]

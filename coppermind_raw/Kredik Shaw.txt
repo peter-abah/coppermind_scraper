@@ -1,0 +1,41 @@
+{{architecture
+|image=Kredik Shaw.jpg
+|owner=[[Lord Ruler]]
+|usage={{cat tag|palaces|Palace}}
+|city=Luthadel
+|nation=Final Empire
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+'''Kredik Shaw''', also known as the '''Hill of a Thousand Spires''' when translated from Terris, is the palace of the [[Lord Ruler]] of the [[Final Empire]] and is located in the center of [[Luthadel]], between the [[Tin]] and [[Copper]] Gates.
+
+== Location and Appearance ==
+{{for|/Gallery|more images}}
+{{image|Kredik_Shaw_by_AutomaticMoon.jpg|side=left|width=250px}}
+It is built on top of the [[Well of Ascension]] by [[Rashek]] after he remodels the surrounding geography to hide the well from those seeking it in the mountains of [[Terris]].
+
+It has many peaked spires and sheer towers that rise high into the air, all of varying thickness. Some are large enough to contain large rooms and stairwells, and others are simply nothing more than thin rods of iron.{{book ref|mb2|35}} There are no outer defensive walls surrounding the palace.
+
+One part of the palace contains a large, domed room with many murals, including a [[Terris|mountain]], a large cavern, a [[Well of Ascension|pool of light]], and [[Ruin|something very dark]].{{epigraph ref|mb3|14}} At the center of this room is a small, single-story building with a wooden door. Words are carved into the door, probably in the ancient [[Terris]] language. The stone of this building is carved with ornate, flowing patterns.{{book ref|mb1|14}}
+
+Being in the area immediately around Kredik Shaw gives one a feeling of immense depression, as if a constant, strong [[Brass|Soothing]] were taking place.{{book ref|mb1|14}} This is caused by the Lord Ruler himself.{{book ref|mb1|26}}
+
+== History ==
+{{image|Vin mistborn by Steve Argyle.jpg|side=right|width=250px}}
+
+[[Kelsier]], [[Mare]], and [[Redd]] once infiltrated the palace but were discovered and captured, resulting Redd being killed immediately upon discovery, with Kelsier and Mare being detained at the [[Pits of Hathsin]].{{book ref|mb1|21}}
+
+After Kelsier escapes and re-forms [[Kelsier's crew|his thieving crew]], he and [[Vin]] infiltrate once again but are chased away by [[Steel Inquisitors]], resulting in Vin being seriously injured before [[Sazed]] saves her using [[Feruchemy]].{{book ref|mb1|15}} They manage to retrieve [[Alendi's journal|a book]] from one of the rooms, which [[Sazed]] later translates.{{book ref|mb1|14}}
+
+After Kelsier's death, Vin once again infiltrates the palace, making it to the Lord Ruler's lair before being captured by [[Kar]]. She is then taken to a holding cell before being escorted to a throne room to be interrogated by Kar to implicate and remove [[Tevidian]] as the head of the [[Steel Ministry]].{{book ref|mb1|36}} After the execution she is returned to her cell before being freed by [[Sazed]] and [[Elend]].{{book ref|mb1|37}} She then returns to the throne room and attacks the Lord Ruler with [[Marsh]]'s help, eventually using the power of the mists to kill the Lord Ruler.{{book ref|mb1|38}}
+
+[[Vin]] destroys the palace after becoming [[Preservation]] during her last fight with Ruin's remaining Inquisitors. Remnants of the palace are forced in to the ground inside a large crater caused by this event.{{book ref|mb3|73}}{{book ref|mb5|20}}
+
+[[Independence Tower]], a skyscraper in post-Catacendre [[Scadrial]] located in the city of [[Bilming]], is often referred to as the '''Shaw''', named after Kredik Shaw.{{book ref|mb7|39}}{{book ref|mb7|58}}
+
+== Notes ==
+<references />
+{{partial}}
+{{Mistborn|Era 1}}
+[[es:Kredik Shaw]]

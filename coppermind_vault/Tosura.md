@@ -1,14 +1,13 @@
 ---
-species: "Kitsen"
-world: "Evershore"
-universe: "Cytoverse"
-books: "Skyward (series)"
+source_file: Tosura.txt
+entity_type: character
+species: Kitsen
+world: Evershore
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
-{{update|sky4}}
-**Tosura** is a [[kitsen]] science officer on the *[[Swims Upstream]]*.{{book ref|sky4|35}}
+**Tosura** is a [[kitsen]] science officer on the *[[Swims Upstream]]*.
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

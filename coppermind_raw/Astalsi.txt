@@ -1,0 +1,27 @@
+{{culture
+|type={{cat tag|Religion}}
+|era=Classical Scadrial
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+{{quote
+| There were a group of people before the Ascension known as the Astalsi. They claimed that each person was born with a certain finite amount of ill luck. And so, when an unfortunate event happened, they thought themselves blessed—thereafter, their lives could only get better.
+| [[Sazed]] preaching to [[Vin]]{{book ref|mb1|29}}
+}}
+
+'''Astalsi''' is an ancient religion from [[Scadrial]]. They don't survive the [[Lord Ruler]]'s reign, but [[Sazed]] keeps knowledge about them in his [[Feruchemy|metalminds]].{{book ref|mb1|9}}
+
+The Astalsi followers are rather advanced, and mix religion with science. They develop a detailed scale to express different colors, and think that these different colors are indications of different kinds of fortune.{{book ref|mb1|29}}
+
+They believe that each person was born with a certain finite amount of bad luck, and for them a poor life was a sign of fortune yet to come. For this reason Sazed preaches the Astalsi religion to [[Vin]], given that Vin already had been through a lot during her life.{{book ref|mb1|29}}
+
+== Trivia ==
+*Astalsi was a motivation for [[Warbreaker]].{{wob ref|4654}}
+*The Astalsi and [[Dadradah]] religions are "branches of a more ancient religion".{{wob ref|10923}}
+
+== Notes ==
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 21:27, 9 March 2022 (UTC)}}
+{{Mistborn|Era 1}}
+[[Category: Religion]]

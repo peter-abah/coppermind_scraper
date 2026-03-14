@@ -1,21 +1,19 @@
 ---
-residence: "Hearthstone"
-nation: "Alethkar"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "The Way of Kings"
+source_file: Tift.txt
+entity_type: character
+residence: Hearthstone
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[The Way of Kings]]'
 ---
 
-{{quote
-|Hey, my fah’s a farmer, and he’s right good at it. It’s a noble Calling! All your fahs are farmers.
-|Tift to other kids in [[Hearthstone]]{{book ref|sa1|16}}
-}}
+> Hey, my fah’s a farmer, and he’s right good at it. It’s a noble Calling! All your fahs are farmers.
+> — Tift to other kids in [[Hearthstone]]
 
-**Tift** is a [[darkeyed]] resident of [[Hearthstone]] on [[Roshar]]. His father is a farmer, and Tift thinks he is good at it.{{book ref|sa1|16}}
+**Tift** is a [[darkeyed]] resident of [[Hearthstone]] on [[Roshar]]. His father is a farmer, and Tift thinks he is good at it.
 
-As a child, he played with the other children in the village, including [[Jost]], [[Jest]], [[Mord]], [[Naget]], and [[Khav]]. [[Kaladin]] used his name as an example of a 'solid, Alethi darkeyes' names, unlike his own.{{book ref|sa1|16}}
+As a child, he played with the other children in the village, including [[Jost]], [[Jest]], [[Mord]], [[Naget]], and [[Khav]]. [[Kaladin]] used his name as an example of a 'solid, Alethi darkeyes' names, unlike his own.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 17:06, 10 November 2017 (MST)}}
-{{Stormlight}}

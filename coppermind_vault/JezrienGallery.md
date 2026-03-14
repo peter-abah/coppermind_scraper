@@ -1,3 +1,8 @@
+---
+source_file: JezrienGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Herald Glyph Jezrien.svg | <center><small>by {{a|Isaac Stewart}}</small></center> Jezrien's [[glyph]]

@@ -1,15 +1,13 @@
 ---
-abilities: "{{tag+|squire|Order of Windrunners"
+source_file: Atakin.txt
+entity_type: character
+abilities: squire
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-**Atakin** is a [[Order of Windrunners|Windrunner]] [[squire]] to [[Sigzil]] on [[Roshar]].{{book ref|sa5|56}}
+**Atakin** is a [[Order of Windrunners|Windrunner]] [[squire]] to [[Sigzil]] on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

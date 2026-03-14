@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Ladrian.txt
+entity_type: disambig
+---
 
 **Ladrian** is a family name on [[Scadrial]], it may refer to:
 

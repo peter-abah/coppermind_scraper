@@ -1,16 +1,14 @@
 ---
-occupation: "{{cat tag|Scholars|Scholar"
+source_file: Masly.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Masly** is a scholar on [[Roshar]].{{epigraph ref|sa1|29}}{{book ref|sa1|42}}
+**Masly** is a scholar on [[Roshar]].
 
 They write: "The ones of ash and fire, who killed like a swarm, relentless before the Heralds," a quote referring to the [[Voidbringer]]s. According to [[Jasnah Kholin]], this quote is corroborated by [[Coldwin]] and [[Hasavah]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 18:11, 10 November 2017 (MST)}}
-{{Stormlight}}

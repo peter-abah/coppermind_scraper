@@ -1,18 +1,16 @@
-{{book
-|cover=Secret History Cover Art.jpg
-|series=[[Mistborn Era 1]]
-|setting=[[Scadrial]], [[Cosmere]]
-|released=January 26, 2016
-|word-count=[[/Statistical_analysis|44,981]]
-}}
-{{notice|style=background-color: #F55;
-|b=Your questions are dangerous.
-|This page contains extensive spoilers for the entirety of [[Mistborn Era 1|*Mistborn* Era 1]], as well as a part of *[[The Bands of Mourning]]* and the [[cosmere]] at large.
-}}
+---
+source_file: Mistborn Secret History.txt
+entity_type: book
+cover: Secret History Cover Art.jpg
+series: '[[Mistborn Era 1]]'
+setting: '[[Scadrial]], [[Cosmere]]'
+released: January 26, 2016
+word-count: '[[/Statistical_analysis|44,981]]'
+---
+
 ***Mistborn: Secret History*** is a novella telling the story of [[Kelsier]] from the time of his death at the hands of the [[Lord Ruler]] until [[Scadrial]] is re-made by [[Harmony]]. It was originally published as an e-book only, then later in print in *[[Arcanum Unbounded]]*. This story is often recommended to be read after *[[The Bands of Mourning]]*, but can be read anytime after *[[The Hero of Ages]]*. It must be read before *[[The Lost Metal]]*.
 
 ## Summary
-{{for|/Summary|a complete chapter by chapter summary}}
 
 Following his death at the hands of the Lord Ruler, Kelsier meets [[Preservation]] before he "passes on" to the Beyond. Kelsier refuses, and he remains on Scadrial as a cognitive aspect. Despite refusing to pass on, as Preservation wishes, Kelsier befriends Preservation, giving him the nickname of [[Preservation|Fuzz]] (a crewmember name). 
 
@@ -21,7 +19,6 @@ Desperate to prevent himself passing on, Kelsier tricks Preservation into reveal
 During this time, [[Hoid]] arrives at the Well through the [[Cognitive Realm]]. Kelsier does not recognize Hoid from their prior meeting without his disguise, but is instantly distrustful towards Hoid. Although he engages him in a fistfight, Kelsier is unable to prevent Hoid from transitioning to the Physical Realm and helplessly watches Hoid consume a bead of [[lerasium]] and exit the Well's chamber.   
 
 Vin and Elend's arrival at the Well gives Kelsier hope that he will be able to get through to her, but as a cognitive aspect with no connection to the Physical Realm, he can't, so Kelsier takes Leras's knife and stabs Elend as the [[Preservation|mist spirit]] to motivate Vin to use the power to save Elend. Despite this, Vin releases the power and thus releases Ruin and Kelsier from the Well. When he asks Preservation to help him stop Ruin, Preservation tells him to head across the ocean for help. Although he doesn't know this at the time, Kelsier has been sent to the southern side of Scadrial, where the people have advanced without much interference from either [[Shard]].
-
 
 During his journey, Kelsier meets [[Khriss]] from [[Taldain]], and [[Nazh]] from [[Threnody]]. The pair enlighten Kelsier a little bit on how the events on Scadrial affect the [[cosmere]] but remain quite vague as to why they are there, or about events in the cosmere that are unrelated to the current conflict. Before parting, Nazh gives Kelsier his knife and wishes him well in his quest to save his planet. Along the way, Kelsier discovers many odd things about not being "alive" anymore. He finds that his [[Allomancy]] is useless and that he can create fire out of a log long since burned out simply by willing it to ignite.
 
@@ -47,10 +44,9 @@ Resurrecting characters is a "dangerous trope" because Brandon wants death to be
 There may be more installments to the *Secret History* story, showing more of what Kelsier is up to behind the scenes with Spook and during [[Mistborn_(series)#Era_2|the Wax and Wayne books]].
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Mistborn: Secret History}}
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Mistborn: Secret History* consists of twenty-five chapters, and one epilogue, reaching a total 44,981 word count. There are two different unique point-of-view characters in a total of 26 POVs.
 
 {|class="wikitable"
@@ -74,9 +70,7 @@ There may be more installments to the *Secret History* story, showing more of wh
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Mistborn|Era 1}}
-{{books}}
+
 [[Category: Mistborn| e1.3.5]]
 [[Category: Mistborn Era 1| 3.5]]
 [[es:Mistborn: historia secreta]]

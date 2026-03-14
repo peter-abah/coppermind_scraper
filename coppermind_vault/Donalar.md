@@ -1,19 +1,16 @@
 ---
-ancestors: "Donalar"
-parents: "Donalar"
-#profession: "soldier"
-groups: "{{cat tag|Cobalt Guard"
+source_file: Donalar.txt
+entity_type: character
+ancestors: Donalar
+parents: Donalar
+'#profession': soldier
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-**Donalar** is an officer and a member of the [[Cobalt Guard]] on [[Roshar]].{{book ref|sa5|52}} He is a [[lighteyes]], colored light blue, and is the third generation in his family to have the name Donalar.
+**Donalar** is an officer and a member of the [[Cobalt Guard]] on [[Roshar]]. He is a [[lighteyes]], colored light blue, and is the third generation in his family to have the name Donalar.
 
 ## Notes
 <references />
-{{partial}}
-{{stormlight}}

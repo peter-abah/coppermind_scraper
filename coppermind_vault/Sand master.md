@@ -1,4 +1,7 @@
-{{Template:disambig}}
+---
+source_file: Sand master.txt
+entity_type: template:disambig
+---
 
 The term **sand master** may refer to two distinct concepts on [[Taldain]]:
 *[[Sand mastery]] - A manifestation of Investiture that allows its user to telekinetically control glowing ribbons of sand.

@@ -1,0 +1,15 @@
+{{geography
+|map=Thaylen Sea locator.png
+|region=Sea of Lost Lights
+|world=Shadesmar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+The '''Thaylen Sea''' is a location south of the [[Sea of Lost Lights]] in [[Shadesmar]], the [[subastral]] of [[Roshar]].{{map ref|Sea of Lost Lights}} In the [[Physical Realm]], the sea corresponds to the island of [[Thaylenah]].{{map ref|Roshar}}
+
+The Thaylen Sea is north of the [[Nexus of Imagination]].{{map ref|Shadesmar}} It is very close to the [[Glasswater Deep]] and [[Luminous Shallows]] of the Sea of Lost Lights, although no direct waterways are visible in the available maps.{{map ref|Sea of Lost Lights}} Nazh marked the location of [[Thaylen City]] on the edge of the sea;{{map ref|Sea of Lost Lights}} northwest of the city there is a lake which [[Nazh]] hates.{{map ref|Sea of Lost Lights}} The lake corresponds to an island in [[Longbrow's Straits]] in the Physical Realm.{{map ref|Roshar}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:10, 3 July 2018 (MST)}}
+{{Stormlight}}

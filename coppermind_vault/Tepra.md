@@ -1,13 +1,13 @@
 ---
-world: "Roshar"
-universe: "Cosmere"
+source_file: Tepra.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
 ---
 
-{{update|sa5}}
-**Tepra** is a figure from legends on [[Roshar]].{{book ref|sa5|131}}
+**Tepra** is a figure from legends on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}
+
 [[Category: Myths and Legends]]

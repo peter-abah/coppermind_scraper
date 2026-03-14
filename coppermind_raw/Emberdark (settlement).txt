@@ -1,0 +1,16 @@
+{{settlement
+|map=Emberdark locator.png
+|region=Sea of Lost Lights
+|world=Shadesmar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{for|Emberdark|other uses of the term 'Emberdark'|pre=This article is about the settlement in Shadesmar}}
+'''Emberdark''' is a settlement in the [[Sea of Lost Lights]] in [[Shadesmar]], the [[subastral]] of [[Roshar]].{{map ref|Sea of Lost Lights}} It is south of the [[Nor Channel]] and is adjacent to the [[Emberdark Channel]]. It is along the [[Glasswater Deep]].
+
+In the [[Physical Realm]], Emberdark seems to lie along the [[Deathbend River]].{{map ref|Alethkar}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 21:58, 3 July 2018 (MST)}}
+{{Stormlight}}

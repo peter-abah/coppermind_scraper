@@ -1,33 +1,30 @@
 ---
-died: "{{book ref|yumi|41"
+source_file: Sunjun.txt
+entity_type: character
+abilities: Nightmare
+'#profession': scholar
+groups: '[[Institute of Mechanical Solutions]]'
+nation: Torio
+world: Komashi
+universe: '[[Cosmere]]'
+introduced: '[[Yumi and the Nightmare Painter]]'
 ---
 
-|abilities={{tag+|Nightmare}}
-|#profession=scholar
-|groups=[[Institute of Mechanical Solutions]]
-|nation=Torio
-|world=Komashi
-|universe=[[Cosmere]]
-|introduced=[[Yumi and the Nightmare Painter]]
-}}
-
-**Sunjun** is one of the [[Torish]] scholars from the [[Institute of Mechanical Solutions]] who is involved in the creation of the [[father machine]] and who is later sent by the machine to prevent [[Yumi]] from escaping her prison.{{book ref|yumi|38}}{{book ref|yumi|23}}
+**Sunjun** is one of the [[Torish]] scholars from the [[Institute of Mechanical Solutions]] who is involved in the creation of the [[father machine]] and who is later sent by the machine to prevent [[Yumi]] from escaping her prison.
 
 ## Appearance and Personality
-Like other Torish scholars, he has a bearded chin and mustache.{{book ref|yumi|20}}{{book ref|yumi|23}} He wears white clothing with a black, winged [https://en.wikipedia.org/wiki/Tanggeon tanggeon].{{book ref|yumi|20}}
+Like other Torish scholars, he has a bearded chin and mustache. He wears white clothing with a black, winged [https://en.wikipedia.org/wiki/Tanggeon tanggeon].
 
-Sunjun is the most engineering-minded among his colleagues, preferring to be hands-on with their machinery and equipment. He is also the most observant, noticing Yumi's presence when their prototype machine is primed.{{book ref|yumi|23}}
+Sunjun is the most engineering-minded among his colleagues, preferring to be hands-on with their machinery and equipment. He is also the most observant, noticing Yumi's presence when their prototype machine is primed.
 
 ## History
-Prior to his death, Sunjun worked with other scholars to develop and activate the father machine. His soul was kept in reserve by the machine upon its activation, for the purpose of its self-defense, though he was still turned into a [[nightmare]]. When Yumi's mind became resistant to the machine's tampering, Sunjun was one of the four scholars sent to [[Gongsha Town]] to investigate, under the leadership of [[Gyundok]].{{book ref|yumi|40}} 
+Prior to his death, Sunjun worked with other scholars to develop and activate the father machine. His soul was kept in reserve by the machine upon its activation, for the purpose of its self-defense, though he was still turned into a [[nightmare]]. When Yumi's mind became resistant to the machine's tampering, Sunjun was one of the four scholars sent to [[Gongsha Town]] to investigate, under the leadership of [[Gyundok]]. 
 
-Their prototype machine did not work upon arrival on Gonghsa, and Sunjun got to work trying to discover why. After a few days he determined the issue was with their power source. Gyundok ordered Sunjun to prime the machine, but Sunjun backed away and refused outright to do this. Ultimately the [[fourth Torish scholar]] offered to prime it, prompting Sunun to back up even further. When the machine activated, Sunjun was carefully watching, and he realized that it was charged from an additional source. As the others celebrated, Sunjun announced that a [[hijo|spirit]] was present, then withdrew a detection device, plugged it into the machine, and used it to locate Yumi until she was able to escape.{{book ref|yumi|23}}
+Their prototype machine did not work upon arrival on Gonghsa, and Sunjun got to work trying to discover why. After a few days he determined the issue was with their power source. Gyundok ordered Sunjun to prime the machine, but Sunjun backed away and refused outright to do this. Ultimately the [[fourth Torish scholar]] offered to prime it, prompting Sunun to back up even further. When the machine activated, Sunjun was carefully watching, and he realized that it was charged from an additional source. As the others celebrated, Sunjun announced that a [[hijo|spirit]] was present, then withdrew a detection device, plugged it into the machine, and used it to locate Yumi until she was able to escape.
 
-When Nikaro and Yumi approached the scholars to destroy the prototype machine, Gyundok called to Sunjun that it was time for a confrontation. Sunjun activated the boxy device that was subsequently used to sever the [[Connection]] between Yumi and Painter.{{book ref|yumi|34}}
+When Nikaro and Yumi approached the scholars to destroy the prototype machine, Gyundok called to Sunjun that it was time for a confrontation. Sunjun activated the boxy device that was subsequently used to sever the [[Connection]] between Yumi and Painter.
 
-Sunjun remained with the other scholars after Yumi and Nikaro were separated, working to resolve the issues in Gongsha Town and contain Yumi.{{book ref|yumi|37}} When Yumi escaped, he chased her with the others to [[Torio City]], where Yumi's dominating will forced him to stand down.{{book ref|yumi|38}}{{book ref|yumi|40}}
+Sunjun remained with the other scholars after Yumi and Nikaro were separated, working to resolve the issues in Gongsha Town and contain Yumi. When Yumi escaped, he chased her with the others to [[Torio City]], where Yumi's dominating will forced him to stand down.
 
 ## Notes
 <references />
-{{complete}}
-{{yumi}}

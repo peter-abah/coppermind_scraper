@@ -1,0 +1,7 @@
+#redirect[[Roshar#Planetary System]]
+[[category: subsection redirects]]
+[[Category: Locations]]
+[[Category: Stormlight Archive]]
+[[Category: Cosmere moons]]
+[[Category: Cosmere celestial bodies]]
+[[Category: Celestial bodies]]

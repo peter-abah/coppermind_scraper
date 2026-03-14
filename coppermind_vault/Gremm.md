@@ -1,17 +1,14 @@
 ---
-profession: "{{cat tag|Pirates|Pirate"
+source_file: Gremm.txt
+entity_type: character
+parents: '[[Peg]]'
+siblings: '[[Semm]]'
+species: Tenasi
+universe: '[[Cytoverse]]'
+introduced: '[[Cytonic (book)|Cytonic]]'
 ---
 
-|parents=[[Peg]]
-|siblings=[[Semm]]
-|species=Tenasi
-|universe=[[Cytoverse]]
-|introduced=[[Cytonic (book)|Cytonic]]
-}}
-{{update|sky3}}
-**Gremm** is a [[tenasi]] pirate in the [[belt]] of the [[nowhere]]. He is the eldest son of [[Peg]].{{book ref|sky3|25}}
+**Gremm** is a [[tenasi]] pirate in the [[belt]] of the [[nowhere]]. He is the eldest son of [[Peg]].
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

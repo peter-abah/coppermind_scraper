@@ -1,0 +1,21 @@
+{{character|name=Rod
+|profession=Innkeeper
+|residence=Diggen's Point
+|world=Lumar
+|universe=[[Cosmere]]
+|introduced=[[Tress of the Emerald Sea]]
+}}
+
+{{for|Rod (Roshar)|the character on [[Roshar]]}}
+
+'''Rod''' is a citizen of [[Diggen's Point]] on [[Lumar]].{{book ref|tress|7}}
+
+He is an older man and works as an innkeeper on the island. He usually helps [[Brick]], the tavern owner, with brewing on the weekends. He is friends with [[Lem]] and plays darts with him, although Lem is better. [[Lem]] once helped Rod home when he was drunk.{{book ref|totes|7}}
+
+Rod was one of the people that Lem approached with an unspoken request for help to get [[Tress]] on to the ''[[Oot's Dream]]''. Rod likely helped get the word out, although he was not present when Tress stowed away.{{book ref|totes|7}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 19:14, 6 April 2023 (UTC)}}
+{{tress}}
+[[es:Rod (Lumar)]]

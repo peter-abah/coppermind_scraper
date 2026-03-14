@@ -1,0 +1,1 @@
+#REDIRECT [[Starfighter#Inverted_Magellan_Pulse]]

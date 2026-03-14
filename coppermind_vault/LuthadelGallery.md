@@ -1,3 +1,8 @@
+---
+source_file: LuthadelGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Luthadel.png| <small><center>by {{a|Isaac Stewart}}</center></small> Map of Luthadel

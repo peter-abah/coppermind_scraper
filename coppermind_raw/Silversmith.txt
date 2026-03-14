@@ -1,0 +1,15 @@
+{{character
+|profession={{cat tag|Armedius Academy Faculty|Professor}}
+|residence=Armedius Academy
+|powers={{tag+|Rithmatist}}
+|earth=Rithmatist
+|books=[[The Rithmatist]]
+}}
+'''Silversmith''' is a professor of Rithmatics at [[Armedius Academy]].{{book ref|Rithmatist|2}}
+
+According to Joel, [[Howards]] and Silversmith treat their students like fools.
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 20:05, 10 November 2017 (MST)}}
+{{Rithmatist}}

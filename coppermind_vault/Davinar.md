@@ -1,16 +1,17 @@
-{{settlement
-|map=Davinar locator.png
-|princedom=Thanadal
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Davinar** is a town in [[Thanadal princedom]] in central [[Alethkar]] during the [[Era of Solitude]].{{map ref|Alethkar}} 
+---
+source_file: Davinar.txt
+entity_type: settlement
+map: Davinar locator.png
+princedom: Thanadal
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-It is located at the western edge of the [[Sea of Spears]].{{map ref|Alethkar}} 
+**Davinar** is a town in [[Thanadal princedom]] in central [[Alethkar]] during the [[Era of Solitude]]. 
+
+It is located at the western edge of the [[Sea of Spears]]. 
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 02:57, 21 December 2016 (MST)}}
-{{Stormlight}}

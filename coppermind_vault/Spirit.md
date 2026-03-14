@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Spirit.txt
+entity_type: disambig
+---
 
 **Spirit** can refer to multiple things:
 * [[Raoden]] uses the alias "Spirit" in [[Elantris (book)|Elantris]]

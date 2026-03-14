@@ -1,56 +1,56 @@
-{{culture
-|image=Glyphward1.jpg
-|name=Glyphwards
-|related=Vorinism
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{update|sa4}}
+---
+source_file: Glyphward.txt
+entity_type: culture
+image: Glyphward1.jpg
+name: Glyphwards
+related: Vorinism
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
 A **glyphward** is a [[Vorin]] prayer written in [[glyphs]] with the intention of being burned.
 
-Many scientifically-minded Rosharans deplore glyphwards as pure superstition, with some wondering why, if the [[Almighty]] is omniscient, he needs to have a prayer burned to him before he can aid someone.{{book ref|sa1|5}}{{book ref|sa1|17}}{{book ref|sa1|43}} Nonetheless, they remain a minority, and for most Vorins, glyphwards are the main avenue for communicating with the Almighty. For them, if the prayer fails to be answered, it's simply His will.{{book ref|sa1|25}}
+Many scientifically-minded Rosharans deplore glyphwards as pure superstition, with some wondering why, if the [[Almighty]] is omniscient, he needs to have a prayer burned to him before he can aid someone. Nonetheless, they remain a minority, and for most Vorins, glyphwards are the main avenue for communicating with the Almighty. For them, if the prayer fails to be answered, it's simply His will.
 
 ## Creation
-The job of making glyphwards usually goes to women, though a man who knows glyphs can do so as well.{{book ref|sa1|5}}{{book ref|sa3|83}} Regardless of who creates them, both men and women make use of them.{{book ref|sa1|28}} In addition to being homemade, glyphwards can be purchased from [[luckmerch]]es or apothecaries, the latter of which will often decorate their shops with them.{{book ref|sa1|25}}{{book ref|sa1|17}}
+The job of making glyphwards usually goes to women, though a man who knows glyphs can do so as well. Regardless of who creates them, both men and women make use of them. In addition to being homemade, glyphwards can be purchased from [[luckmerch]]es or apothecaries, the latter of which will often decorate their shops with them.
 
-Usually, glyphwards are either drawn on long strips of paper or sewn into cloth, though at times they are drawn on surfaces with [[burn ink]] and then set on fire to burn the prayer onto something.{{book ref|sa1|69}} The drawing medium is usually ink, either red or black, but if it won't stick, chalk can also be used.{{book ref|sa2|86}} The ink can be of various colors, such as red or black, while the cloth or paper are typically white.{{book ref|sa2|14}} The glyphward can be as short as a single glyph, or as long as several glyphs strung together.{{book ref|sa1|69}}{{book ref|sa1|62}} They do take some skill to draw well and neatly, so a person who can draw glyphwards calligraphically well is considered to have an impressive ability.{{book ref|sa1|5}}
+Usually, glyphwards are either drawn on long strips of paper or sewn into cloth, though at times they are drawn on surfaces with [[burn ink]] and then set on fire to burn the prayer onto something. The drawing medium is usually ink, either red or black, but if it won't stick, chalk can also be used. The ink can be of various colors, such as red or black, while the cloth or paper are typically white. The glyphward can be as short as a single glyph, or as long as several glyphs strung together. They do take some skill to draw well and neatly, so a person who can draw glyphwards calligraphically well is considered to have an impressive ability.
 
 ## Use
-After a glyphward is created, it is burned to send the soul of the prayer to the [[Almighty]], although glyphwards often make an additional appeal to one of the [[Herald]]s or to the [[Stormfather]] to make sure they are heard.{{book ref|sa1|62}} Where the glyph is burned does not seem to matter - it can be in a specifically-designed brazier or censer, but it's just as valid on the ground.{{book ref|sa2|14}}{{book ref|sa3|71}}{{book ref|sa1|69}} [[Ardent]]s will also burn prayers to help the people they serve, or in exchange for a monetary offering.{{book ref|sa1|37}}{{book ref|sa3|66}} While the glyphward is burning, it's customary for all people concerned with its contents to bow their heads.{{book ref|sa2|14}}
+After a glyphward is created, it is burned to send the soul of the prayer to the [[Almighty]], although glyphwards often make an additional appeal to one of the [[Herald]]s or to the [[Stormfather]] to make sure they are heard. Where the glyph is burned does not seem to matter - it can be in a specifically-designed brazier or censer, but it's just as valid on the ground. [[Ardent]]s will also burn prayers to help the people they serve, or in exchange for a monetary offering. While the glyphward is burning, it's customary for all people concerned with its contents to bow their heads.
 
-On some occasions, glyphwards are not burned right away, or at all. In some cases, one is simply sewn onto a person's sleeve in the event that they ever need it.{{book ref|sa1|44}} Others are worn for protection or good fortune, without ever being burned, and some Rosharans will even get tattoos of glyphwards.{{book ref|sa1|55}}{{book ref|sa1|62}} Sometimes, a person will wear a white armband on their arm, and wrap an appropriate glyphward around it whenever they feel the need to have it.{{book ref|sa3|73}}
+On some occasions, glyphwards are not burned right away, or at all. In some cases, one is simply sewn onto a person's sleeve in the event that they ever need it. Others are worn for protection or good fortune, without ever being burned, and some Rosharans will even get tattoos of glyphwards. Sometimes, a person will wear a white armband on their arm, and wrap an appropriate glyphward around it whenever they feel the need to have it.
 
-When fire or flammable materials are not available, one may sketch a glyphward anyway, in hope that the Almighty will understand the supplicant's situation and accept the prayer. Instead of burning such a glyphward, the petitioner will then bow their head reverently for ten heartbeats.{{book ref|sa2|11}} Less formal prayers may also be simply traced with a finger to ward off evil.{{book ref|sa2|3}} 
+When fire or flammable materials are not available, one may sketch a glyphward anyway, in hope that the Almighty will understand the supplicant's situation and accept the prayer. Instead of burning such a glyphward, the petitioner will then bow their head reverently for ten heartbeats. Less formal prayers may also be simply traced with a finger to ward off evil. 
 
 ## Prayers
-{{image|Fervent Prayer by Antti Hakosaari.jpg|side=right|width=300px|[[Navani]] burning a glyphward for [[Glyphs/Index#Thath|*thath*]], or Justice}}
 
-Though they are universally believed to turn away evil, the prayers sent through glyphwards vary quite a bit.{{book ref|sa1|25}} Among others, the following can be distinguished:
+Though they are universally believed to turn away evil, the prayers sent through glyphwards vary quite a bit. Among others, the following can be distinguished:
 
 ;Prayers for fortune 
-Often burned before an important action, such as a duel, or for blessings of luck or success.{{book ref|sa1|49}} They typically contain glyphs specifying what the author wishes for in particular - for example, a glyphward made for a duel might be comprised of glyphs for "safety" and "glory", or just "excellence".{{book ref|sa2|14}}{{book ref|sa2|56}} Other prayers simply say "fortune", while some implore the Almighty with glyphs like "determination".{{book ref|sa3|89}}{{book ref|sa3|83}}
+Often burned before an important action, such as a duel, or for blessings of luck or success. They typically contain glyphs specifying what the author wishes for in particular - for example, a glyphward made for a duel might be comprised of glyphs for "safety" and "glory", or just "excellence". Other prayers simply say "fortune", while some implore the Almighty with glyphs like "determination".
 
 ;Thanksgiving prayers
-Burned to thank the [[Almighty]].{{book ref|sa1|8}} Can be burned after a strike of good fortune or when a difficult task is accomplished.{{book ref|sa3|104}}
+Burned to thank the [[Almighty]]. Can be burned after a strike of good fortune or when a difficult task is accomplished.
 
 ;Prayers for absolution
-When a Vorin commits a sin of some kind, such as visiting the [[Nightwatcher]], they burn those glyphwards so that the Almighty may forgive them.{{book ref|sa1|61}}
+When a Vorin commits a sin of some kind, such as visiting the [[Nightwatcher]], they burn those glyphwards so that the Almighty may forgive them.
 
 ;Protective glyphwards 
-When someone dies, or is in danger of dying, their wife or daughters will create glyphwards to pray for their wellbeing either in this world or the next, with some people continuing to regularly burn glyphwards for their loved ones for years after they've died.{{book ref|sa1|69}}{{book ref|sa2|i|14}} In some cases, one may pray for protection of greater things, such as a nation.{{book ref|sa2|i|14}} 
+When someone dies, or is in danger of dying, their wife or daughters will create glyphwards to pray for their wellbeing either in this world or the next, with some people continuing to regularly burn glyphwards for their loved ones for years after they've died. In some cases, one may pray for protection of greater things, such as a nation. 
 
-For personal protection, a person can wear an unburned glyphward around their arm.{{book ref|sa3|89}} It's also considered prudent to have a glyphward when being near a person of suspect moral character, such as a [[stormwarden]] or a [[Knight Radiant]].{{book ref|sa3|44}}{{book ref|sa3|8}}
+For personal protection, a person can wear an unburned glyphward around their arm. It's also considered prudent to have a glyphward when being near a person of suspect moral character, such as a [[stormwarden]] or a [[Knight Radiant]].
 
 ;Prayers for events: 
 Some prayers are specific to particular events in a person's life. 
 
-* A **bride's prayer** is a glyphward made of a glyphpair that a woman who is to be married sews onto her sleeve. After the engagement is formally announced, such a prayer is then removed and burned.{{book ref|sa1|44}} 
-* During a wedding, the bride will receive multiple glyphwards.{{book ref|sa3|122}} 
-* When a child is born, a number of glyphwards are burned, some containing the newborn's name.{{book ref|sa3|49}}
+* A **bride's prayer** is a glyphward made of a glyphpair that a woman who is to be married sews onto her sleeve. After the engagement is formally announced, such a prayer is then removed and burned. 
+* During a wedding, the bride will receive multiple glyphwards. 
+* When a child is born, a number of glyphwards are burned, some containing the newborn's name.
 
 ## Notes
 <references />
-{{partial}}
-{{Stormlight}}
+
 [[Category: Vorinism]]

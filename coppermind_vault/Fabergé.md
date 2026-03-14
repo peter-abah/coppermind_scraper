@@ -1,14 +1,13 @@
 ---
-abilities: "{{tag+|Epic"
+source_file: Fabergé.txt
+entity_type: character
+abilities: Epic
+residence: Ildithia
+earth: Reckoners
+books: '[[The Reckoners]]'
 ---
 
-|residence=Ildithia
-|earth=Reckoners
-|books=[[The Reckoners]]
-}}
-**Fabergé** is an [[Epic]] who works with [[Limelight]]. She and [[Dragdown]] are assigned to spread rumors of an underground resistance. This is part of Prof's plan to draw [[Larcener]] out of hiding. Her true powers are unknown, although it is inferred she is a lesser Epic.{{book ref|calamity|28}}
+**Fabergé** is an [[Epic]] who works with [[Limelight]]. She and [[Dragdown]] are assigned to spread rumors of an underground resistance. This is part of Prof's plan to draw [[Larcener]] out of hiding. Her true powers are unknown, although it is inferred she is a lesser Epic.
 
 ## Notes
 <references />
-{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 04:26, 22 March 2023 (UTC)}}
-{{Reckoners}}

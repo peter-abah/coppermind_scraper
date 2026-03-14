@@ -1,4 +1,7 @@
-{{CoverToC|stormlight}}
+---
+source_file: Wind and TruthCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[Wind and Truth]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

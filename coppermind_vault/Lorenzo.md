@@ -1,19 +1,21 @@
 ---
-died: "*Unknown*"
-titles: "Lieutenant"
-profession: "Police Officer"
-skills: "Marksmanship"
-'residence: "Wikipedia: New York City|New York City"
-'nation: "Wikipedia: United States|United States of America"
-earth: "Dreamer"
-introduced: "Dreamer"
+source_file: Lorenzo.txt
+entity_type: character
+died: '''''Unknown'''''
+titles: Lieutenant
+profession: Police Officer
+skills: Marksmanship
+'''residence': '[[Wikipedia: New York City|New York City]]'
+'''nation': '[[Wikipedia: United States|United States of America]]'
+earth: Dreamer
+introduced: '[[Dreamer]]'
 ---
 
-**Lorenzo** is an NYPD lieutenant in Manhattan who was possessed by [[Dreamer (character)|Dreamer]], a [[Poltergeist|poltergeist]] who was playing a game of cops and robbers. He was killed when Dreamer used his body to tackle [[Phi]] off a building.{{book ref|dreamer}}
+**Lorenzo** is an NYPD lieutenant in Manhattan who was possessed by [[Dreamer (character)|Dreamer]], a [[Poltergeist|poltergeist]] who was playing a game of cops and robbers. He was killed when Dreamer used his body to tackle [[Phi]] off a building.
 
 ## Appearance & Personality
 
-Lorenzo is a muscular, dark-skinned police officer. As a lieutenant in the [[Wikipedia: New York City Police Department|New York City Police Department (NYPD)]], he wears a white shirt instead of a blue one. Dreamer describes his soul as "tough." He is tall, strong, and athletic. When possessed by Dreamer, he has a yellow aura around him that is only visible to other poltergeists. He is an excellent marksman.{{book ref|dreamer}}
+Lorenzo is a muscular, dark-skinned police officer. As a lieutenant in the [[Wikipedia: New York City Police Department|New York City Police Department (NYPD)]], he wears a white shirt instead of a blue one. Dreamer describes his soul as "tough." He is tall, strong, and athletic. When possessed by Dreamer, he has a yellow aura around him that is only visible to other poltergeists. He is an excellent marksman.
 
 ## History
 
@@ -21,9 +23,7 @@ Lorenzo was responding to a shooting in a restaurant in Manhattan with a number 
 
 Dreamer used Lorenzo's position as a police lieutenant to get intelligence about Phi's whereabouts in order to catch him and beat him at their game. When [[Marks (Dreamer)|another police officer]] spotted Phi's current body, Dreamer used Lorenzo to encourage him to shoot to kill. Upon catching up to Phi, Dreamer shot at him, hitting several bystanders and noting that Lorenzo was skilled with a gun. When Phi possessed Marks, another police officer, Lorenzo's natural athleticism allowed Dreamer to dodge out of the way of Phi's gunfire. Dreamer then used Lorenzo's microphone to sow confusion by telling the other police that Marks had been working with Phi's previous body. Dreamer continued to pursue Phi into a building next to the target building where [[Longshot]] was hiding, using Lorenzo's police credentials to get past the security guard.
 
-On the roof of the target building, Dreamer was determined not to let Phi win the game and used Lorenzo's body to tackle Phi (in Marks's body) off the building entirely. Lorenzo and Marks both died on impact with the ground, leaving Dreamer and Phi without hosts.{{book ref|dreamer}}
+On the roof of the target building, Dreamer was determined not to let Phi win the game and used Lorenzo's body to tackle Phi (in Marks's body) off the building entirely. Lorenzo and Marks both died on impact with the ground, leaving Dreamer and Phi without hosts.
 
 ## Notes
 <references />
-{{partial}}
-{{Dreamer}}

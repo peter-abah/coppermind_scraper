@@ -1,4 +1,9 @@
-**Sophie Campbell** is the artist who did the coloring for *[[White Sand|White Sand Volume 1]]*.{{wp ref|Sophie Campbell}}
+---
+source_file: Sophie Campbell.txt
+entity_type: wp ref
+---
+
+**Sophie Campbell** is the artist who did the coloring for *[[White Sand|White Sand Volume 1]]*.
 
 ## See Also
 * [[wikipedia:Sophie Campbell| Wikipedia]]
@@ -6,5 +11,5 @@
 
 ## Notes
 <references />
-{{real world|complete}}
+
 [[Category: People]]

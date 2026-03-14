@@ -1,21 +1,17 @@
 ---
-occupation: "{{cat tag|Scholars|Scholar"
+source_file: Coldwin.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{quote
-|The ones of ash and fire, who killed like a swarm, relentless before the [[Herald]]s.
-|Noted in Masly, page 337. Corroborated by Coldwin and Hasavah.{{epigraph ref|sa1|29}}
-}}
+> The ones of ash and fire, who killed like a swarm, relentless before the [[Herald]]s.
+> — Noted in Masly, page 337. Corroborated by Coldwin and Hasavah.
 
-**Coldwin** is a scholar on [[Roshar]] during the [[Era of Solitude]].{{epigraph ref|sa1|29}}
+**Coldwin** is a scholar on [[Roshar]] during the [[Era of Solitude]].
 
-According to Princess [[Jasnah Kholin]]'s research on the [[Voidbringers]],{{book ref|sa2|42}} both Coldwin and [[Hasavah]] corroborated facts noted in [[Masly]]'s work.{{epigraph ref|sa1|29}}
+According to Princess [[Jasnah Kholin]]'s research on the [[Voidbringers]], both Coldwin and [[Hasavah]] corroborated facts noted in [[Masly]]'s work.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 01:26, 21 December 2016 (MST)}}
-{{Stormlight}}

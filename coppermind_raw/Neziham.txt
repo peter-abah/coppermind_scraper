@@ -1,0 +1,40 @@
+{{character
+|died={{book ref|sa5|82}}
+|abilities={{tag+|Shardbearer}}
+|residence=Azimir
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Wind and Truth]]
+}}
+{{update|sa5}}
+'''Neziham''' is an [[Azir|Azish]] [[Shardwielding|Shardbearer]] on Roshar. He uses Plate and Blade, both of which he received from the Azish imperial crown.{{book ref|sa5|14}} Neziham was instrumental in the defense of [[Azimir]] during the [[True Desolation]].{{book ref|sa5|47}}{{book ref|sa5|80}}{{book ref|sa5|81}}
+
+== Appearence and Personality ==
+{{quote|For Prime and People. So long as the emperor is on his throne, I fight.|Neziham to Adolin after seeing a Thunderclast at Azimir{{book ref|sa5|81}}}}
+
+Neziham is a Makabaki man, and as such, he likely has the dark skin associated with the Makabaki peoples. He keeps his head shaved, and his mouth contains several bronze teeth.{{book ref|sa5|47}} He is also described as having an iron gaze, and being made of hard stuff.{{book ref|sa5|81}} Although not quickly impressed, he was amazed at Adolin Kholin’s skills as a Shardbearer. He is also fond of his commandant, [[Zarb Kushkam]].{{book ref|sa5|63}}
+
+== Attributes and Abilities ==
+Neziham has a set of [[Shardplate]], and carries a [[Shardblade]]. He is skilled in the use of these artifacts, likely one of Azir’s best, as he was chosen to personally protect the [[Prime Aqasix]] himself. His blade, which he received from the Azish government, is named the ‘Blade of Memories’.{{book ref|sa5|129}}
+
+Although not a commander, he is also a fairly good tactician.{{book ref|sa5|47}} He is also an able fighter without his Shards, as he distinguished himself enough to actually receive the Shards. Despite this, he spent most of his time as a Shardbearer doing civil work like cutting trenches.{{book ref|sa5|14}} Neziham hadn’t fought any [[Thunderclast]]s, and was not well versed in the tactics to take them down, before the battle of Azimir.{{book ref|sa5|82}} He is part of the Imperial Guard under Commandant Supreme Zarb Kushkam.{{book ref|sa5|63}}
+
+== History ==
+=== Early life ===
+Neziham became a soldier in his youth. During his time in the Azish military, he distinguished himself, earning him imperial rights to a set of Shards. After earning his Shards, Neziham was often hired by the various kingdoms and houses of the [[Makabak|Makabaki]] people, most often to do civic work, like cutting trenches with his Shardblade.{{book ref|sa5|14}}
+
+=== True Desolation ===
+==== Azimir ====
+As the True Desolation began, most of Neziham's colleagues were sent to fight in the south of the empire. Neziham remained behind though, held back to aid the Imperial Guard, which was stationed in the Azish capital. After the coalition learned of an impending invasion of [[Azimir]], and sent Alethi [[Highprince]] [[Adolin Kholin]] to aid Azimir, Neziham readied himself for a fight.{{book ref|sa5|37}} It is likely Neziham fought in the first wave of enemies. A day later, during the eleventh wave of enemies, Neziham fought alongside Kholin, beating back the flood of enemy soldiers. After realising that the enemy had built a sort of roofed fort inside the dome, they decided to push the enemy back and destroy their hold in the dome. They were turned back though. After retreating, Neziham, Adolin and Commandant Supreme [[Zarb Kushkam]] spoke in private about the attack and how to deal with the enemy fortification.{{book ref|sa5|47}}
+
+{{sidequote|Thank you. You … are quite the Shardbearer.|Neziham thanking Adolin after being rescued by him{{book ref|sa5|63}}|side=right|size=300px}}
+
+During another attack, Neziham fought on the northern side of the dome, while Adolin Kholin fought on the southern side. As Neziham fought, the enemy sent a good four dozen [[Regal#Direform|direforms]] forward, armed with aluminum banded shields to resist Neziham's Shardblade. They almost managed to kill him, with Neziham's helmet broken and his plate in terrible shape, when Adolin Kholin arrived. The highprince beat the Regals back, and the singer forces retreated back into their fort. After getting back up to his feet, Neziham thanked Kholin.{{book ref|sa5|63}} Sometime during the fourth day, the enemy almost defeated the combined Alethi and Azish forces, pushing them into the hallways leading out of the dome before Neziham and Kholin turned the tide and beat them back.{{book ref|sa5|80}} The next attack came in the form of a regular assault inside the dome, and a [[Thunderclast]] just outside Azimir, which was bent on destroying the dome from the outside and allowing the singers to conquer the city.{{book ref|sa5|81}}
+
+==== Death ====
+Commandant Supreme Kushkam sent Adolin Kholin and Neziham to deal with the Thunderclast. After planning together how to beat the creature, Kholin grabbed a large metal chain and set out to trip the beast, after which Neziham could kill it with his Blade.{{book ref|sa5|81}} Neziham and Adolin worked together, with Neziham attempting to fight and distract the beast so that Adolin could trip it. The Azish Shardbearer was hit repeatedly, once even being flung against the wall of a nearby building, and his Plate was in terrible shape. After the Thunderclast dragged Kholin through the street, Neziham looked toward him, and, being distracted at the wrong time, missed the creature’s next move. The Thunderclast smashed a fist against Neziham, crushing him between its fist and the ground and killing Neziham instantly.{{book ref|sa5|82}}
+
+== Notes ==
+<references />
+{{complete}}
+{{Stormlight}}

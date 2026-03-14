@@ -1,3 +1,8 @@
+---
+source_file: Rathbore Monastery.txt
+entity_type: article
+---
+
 #REDIRECT [[Shu-Dereth#Monasteries]]
 [[Category: Elantris]]
 [[Category: Locations]]

@@ -1,0 +1,17 @@
+{{character
+|died=Killed by [[Devinshae]]{{book ref|mb1|22}}
+|ethnicity=Skaa
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[Mistborn: The Final Empire]]
+}}
+'''Kareien''' is a [[skaa]] slave on Lord [[Devinshae]]'s plantations in the [[Final Empire]] of [[Scadrial]].{{book ref|mb1|22}}
+
+She was in a relationship with [[Dockson]]. Dockson had sneaked between skaa hovels to spend time with her, and other skaa protected them from the taskmasters, as Dockson was not to be out after dark. He had braved the mists for her. Kareien and Dockson's relationship gave hope to the skaa at the Devinshae plantation, and helped them get over their superstition of the mists.{{book ref|mb1|22}}
+
+One night, Kareien was taken by Devinshae, and, as the law required of a noble, she was killed to not create half-breed [[Allomancy|Allomancers]]. Her corpse was buried the next morning. Dockson was destroyed inside, and left the same day she was buried, as he couldn't continue to be around Kareien's family and Devinshae.{{book ref|mb1|22}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:42, 24 December 2016 (MST)}}
+{{Mistborn|Era 1}}

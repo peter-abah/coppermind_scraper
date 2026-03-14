@@ -1,0 +1,2 @@
+#redirect[[Rathalas]]
+[[Category: aliases]]

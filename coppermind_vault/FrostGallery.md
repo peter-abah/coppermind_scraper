@@ -1,3 +1,8 @@
+---
+source_file: FrostGallery.txt
+entity_type: article
+---
+
 ## Gallery
 <gallery mode="packed" heights=250px caption="Gallery">
 Hoid by Katie Payne.jpg | <center><small>by {{a|Katie Payne}}</small></center> With [[Hoid]], on [[Dragonsteel Entertainment]] sticker

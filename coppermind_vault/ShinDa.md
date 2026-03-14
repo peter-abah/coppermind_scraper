@@ -1,17 +1,17 @@
-{{culture
-|type={{cat tag|Games|Game}}
-|origin={{tag|JinDo}}
-|world=Sel
-|universe=[[Cosmere]]
-|books=[[Elantris (book)|Elantris]]
-}}
-**ShinDa** is a popular board game that originated in [[JinDo]],{{glossary ref|Elantris|S}} which was played throughout [[Arelon]] and [[Teod]] on [[Sel]] during the [[Late Era]].{{book ref|Elantris|8}}{{book ref|Elantris|32}}
+---
+source_file: ShinDa.txt
+entity_type: culture
+origin: JinDo
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
+---
 
-[[Kiin]] and [[Raoden]] played ShinDa in King [[Iadon]]'s throne room every afternoon.{{book ref|Elantris|8}} This made Iadon uncomfortable, because Kiin had refused a noble title to spite Iadon's system, and Iadon could not remove them without violating his own law that every lord and every invitee of Raoden, the crowned prince, was welcome in the throne room.
+**ShinDa** is a popular board game that originated in [[JinDo]], which was played throughout [[Arelon]] and [[Teod]] on [[Sel]] during the [[Late Era]].
 
-Every MaeDal, King [[Eventeo]] and Lord [[Eoden]] played ShinDa in Teod.{{book ref|Elantris|32}}
+[[Kiin]] and [[Raoden]] played ShinDa in King [[Iadon]]'s throne room every afternoon. This made Iadon uncomfortable, because Kiin had refused a noble title to spite Iadon's system, and Iadon could not remove them without violating his own law that every lord and every invitee of Raoden, the crowned prince, was welcome in the throne room.
+
+Every MaeDal, King [[Eventeo]] and Lord [[Eoden]] played ShinDa in Teod.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 01:53, 5 June 2017 (MST)}}
-{{Elantris}}

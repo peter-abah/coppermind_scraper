@@ -1,3 +1,8 @@
+---
+source_file: The Sunlit ManInterior art.txt
+entity_type: article
+---
+
 This is a gallery of interior art for *[[The Sunlit Man]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 
 <gallery widths=3000px heights=300px mode="packed" caption="Endpapers">

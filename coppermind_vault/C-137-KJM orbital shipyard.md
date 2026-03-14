@@ -1,46 +1,40 @@
 ---
-type: "{{cat tag|Spacecraft"
+source_file: C-137-KJM orbital shipyard.txt
+entity_type: item
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-{{quote
-|It was so big, my mind reeled to comprehend it. It was like the sky itself was falling. A sudden shower of hundreds of pieces of debris rained down, a blazing hail. And behind it, that **something**. That enormous, inconceivable **something**.
-|[[Spensa]]'s reaction to the appearance of the shipyard.{{book ref|sky1|25}}
-}} 
+> It was so big, my mind reeled to comprehend it. It was like the sky itself was falling. A sudden shower of hundreds of pieces of debris rained down, a blazing hail. And behind it, that **something**. That enormous, inconceivable **something**.
+> — [[Spensa]]'s reaction to the appearance of the shipyard.
+ 
 
-The **C-137-KJM orbital shipyard** is an old steel ship found in the ring of debris surrounding [[Detritus]]. It orbited the planet for several centuries before falling to the surface when the [[acclivity ring]]s that held it afloat ran out of power.{{book ref|sky1|25}}{{book ref|sky1|26}}
+The **C-137-KJM orbital shipyard** is an old steel ship found in the ring of debris surrounding [[Detritus]]. It orbited the planet for several centuries before falling to the surface when the [[acclivity ring]]s that held it afloat ran out of power.
 
 ## Appearance and Function
 
-One of the shipyard's primary purposes is to manufacture [[starfighter|starships]], however, its other major functions are unknown. The shipyard is made of steel,{{book ref|sky1|48}} rectangular,<!-- As Spensa describes half the shipyard as a cube, it seems reasonable to assume that the whole thing would resemble a rectangle--> and incredibly large. [[Spensa]] believes half the shipyard to be the size of a mountain, however, this may be exaggerated. The shipyard has, at some point, been broken into two halves leaving large gaping holes along its side. It likely does not have an AI computer system.{{book ref|sky1|25}}
+One of the shipyard's primary purposes is to manufacture [[starfighter|starships]], however, its other major functions are unknown. The shipyard is made of steel, rectangular,<!-- As Spensa describes half the shipyard as a cube, it seems reasonable to assume that the whole thing would resemble a rectangle--> and incredibly large. [[Spensa]] believes half the shipyard to be the size of a mountain, however, this may be exaggerated. The shipyard has, at some point, been broken into two halves leaving large gaping holes along its side. It likely does not have an AI computer system.
 
-{{sidequote
-|Those appear to be replicas made from pictures taken by pilots inside a real delver maze. They have no meaning that we’ve been able to interpret.
-| Description of the unknown writing that can be found in the shipyard, Delver mazes, and the caverns of [[Detritus]].{{book ref|sky2|23}}
-|side=right|size=450px
-}}
+> Those appear to be replicas made from pictures taken by pilots inside a real delver maze. They have no meaning that we’ve been able to interpret.
+> — Description of the unknown writing that can be found in the shipyard, Delver mazes, and the caverns of [[Detritus]].
 
-The inside of the shipyard contains cranes and other construction equipment. Working emergency lights can still be found throughout the vessel, despite loss of power to other essential functions.{{book ref|sky1|26}} A delver training facility has been added to the vessel and may make up large portions of the ship, and be accessible from the manufacturing floors.{{book ref|sky1|25}}{{book ref|sky2|23}} It shares similar aspects to delver maze tunnels, such as design and structure,{{book ref|sky2|23}} as well as a writing system made up of circular patterns that is unknown to the [[Defiant League|Defiant]] people.{{book ref|sky1|26}}{{book ref|sky2|23}} Similar writings can also be found near the old machinery in the outer [[United_Defiant_Caverns|Defiant Caverns]].{{book ref|sky1|26}}
+The inside of the shipyard contains cranes and other construction equipment. Working emergency lights can still be found throughout the vessel, despite loss of power to other essential functions. A delver training facility has been added to the vessel and may make up large portions of the ship, and be accessible from the manufacturing floors. It shares similar aspects to delver maze tunnels, such as design and structure, as well as a writing system made up of circular patterns that is unknown to the [[Defiant League|Defiant]] people. Similar writings can also be found near the old machinery in the outer [[United_Defiant_Caverns|Defiant Caverns]].
 
-The bottom of the shipyard is coated in hundreds of [[starfighter#Acclivity_ring|acclivity rings]] that keep it afloat. These rings begin running out of power in 83{{Detritus date|63}} causing the shipyard to fall from the atmosphere as it could no longer correct its orbit. The loss of power in the acclivity rings is gradual, allowing the shipyard to fall at a steady pace instead of hurtling straight towards the ground.{{book ref|sky1|25}}
+The bottom of the shipyard is coated in hundreds of [[starfighter#Acclivity_ring|acclivity rings]] that keep it afloat. These rings begin running out of power in 83 causing the shipyard to fall from the atmosphere as it could no longer correct its orbit. The loss of power in the acclivity rings is gradual, allowing the shipyard to fall at a steady pace instead of hurtling straight towards the ground.
 
 ## History
-The origins of the shipyard are unknown and likely predate the arrival of the Defiants by centuries. At some point it was broken into two halves, though it is unknown when or how this occurred.{{book ref|sky1|25}}
+The origins of the shipyard are unknown and likely predate the arrival of the Defiants by centuries. At some point it was broken into two halves, though it is unknown when or how this occurred.
 
-The first half of the shipyard fell to the surface partway through Spensa's time as a cadet, when [[Skyward Flight]] was sent on a routine training exercise to tag chunks of debris. The [[Varvax|Krell]] committed almost sixty ships,{{book ref|sky1|i|2}} a large number of their forces, to the attack, to ensure it crashed and to keep the [[DDF]] from being able to harvest it's acclivity rings.{{book ref|sky1|25}} 
+The first half of the shipyard fell to the surface partway through Spensa's time as a cadet, when [[Skyward Flight]] was sent on a routine training exercise to tag chunks of debris. The [[Varvax|Krell]] committed almost sixty ships, a large number of their forces, to the attack, to ensure it crashed and to keep the [[DDF]] from being able to harvest it's acclivity rings. 
 
-During the battle, [[Nedd]]'s brothers, [[Nightstorm_Flight|Nightstorm]] pilots [[Vent (Skyward)|six]] and [[Nightstorm pilot seven|seven]], picked up Krell tails and in a desperate attempt to lose them, flew into the shipyard.{{book ref|sky1|25}} Nedd and Spensa followed the Nightstorm pilots into the ship, to try and destroy their Krell tails and help them escape.{{book ref|sky1|26}} Unable to catch up to the Nightstorm pilots, Spensa and Nedd fled the ship just before it reached the planet surface. Nedd's brothers tragically died in the crash.{{book ref|sky1|26}}
+During the battle, [[Nedd]]'s brothers, [[Nightstorm_Flight|Nightstorm]] pilots [[Vent (Skyward)|six]] and [[Nightstorm pilot seven|seven]], picked up Krell tails and in a desperate attempt to lose them, flew into the shipyard. Nedd and Spensa followed the Nightstorm pilots into the ship, to try and destroy their Krell tails and help them escape. Unable to catch up to the Nightstorm pilots, Spensa and Nedd fled the ship just before it reached the planet surface. Nedd's brothers tragically died in the crash.
 
-As the DDF troops retreated, the Krell began firing on the ship's acclivity rings, as well as setting explosive charges on the top of the vessel in order to increase its descent. The Krell continued to fire upon the ship after it had crashed to ensure that the DDF would be unable to salvage anything useful from the wreckage.{{book ref|sky1|26}} The DDF lost fourteen ships from the encounter at the shipyard and fewer than a dozen acclivity rings were salvageable from the wreckage.{{book ref|sky1|i|2}}  
+As the DDF troops retreated, the Krell began firing on the ship's acclivity rings, as well as setting explosive charges on the top of the vessel in order to increase its descent. The Krell continued to fire upon the ship after it had crashed to ensure that the DDF would be unable to salvage anything useful from the wreckage. The DDF lost fourteen ships from the encounter at the shipyard and fewer than a dozen acclivity rings were salvageable from the wreckage.  
 
-The second half of the shipyard was first spotted in the low atmosphere of the planet, by [[FM]] during a salvage run with Nightmare Flight, shortly before [[flight school]] graduation. Krell were seen scouting the ship, and unlike the first vessel, this half had enough power to activate the defense mechanisms of the shipyard, creating a hostile environment for the Krell.{{book ref|sky1|46}} 
+The second half of the shipyard was first spotted in the low atmosphere of the planet, by [[FM]] during a salvage run with Nightmare Flight, shortly before [[flight school]] graduation. Krell were seen scouting the ship, and unlike the first vessel, this half had enough power to activate the defense mechanisms of the shipyard, creating a hostile environment for the Krell. 
 
-After the battle, the DDF sent a science ship to investigate and analyse the vessel, determining that the shipyard would run out of power and fall to the surface in a few days time.{{book ref|sky1|i|3}} In a desperate attempt to secure the acclivity rings, the DDF sent all active pilots to defend it from the Krell, believing that the enemy would try and destroy it.{{book ref|sky1|48}} Instead, the Krell used the shipyard as a ploy, sending a second wave of ships, including a [[lifebuster]], to attack [[Alta Base]] while it was left undefended.{{book ref|sky1|49}} The DDF disengaged their fighters from the battle to try and defend Alta Base, leaving the shipyard to be, presumably, destroyed by the remaining Krell.{{book ref|sky1|50}}
+After the battle, the DDF sent a science ship to investigate and analyse the vessel, determining that the shipyard would run out of power and fall to the surface in a few days time. In a desperate attempt to secure the acclivity rings, the DDF sent all active pilots to defend it from the Krell, believing that the enemy would try and destroy it. Instead, the Krell used the shipyard as a ploy, sending a second wave of ships, including a [[lifebuster]], to attack [[Alta Base]] while it was left undefended. The DDF disengaged their fighters from the battle to try and defend Alta Base, leaving the shipyard to be, presumably, destroyed by the remaining Krell.
 
 ==Notes==
 <references />
-{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 05:07, 22 February 2020 (UTC)}}
-{{Skyward}}

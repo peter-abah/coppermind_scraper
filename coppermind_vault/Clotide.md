@@ -1,15 +1,15 @@
 ---
-residence: "Elendel"
-world: "Scadrial"
-universe: "Cosmere"
-introduced: "Shadows of Self"
+source_file: Clotide.txt
+entity_type: character
+residence: Elendel
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[Shadows of Self]]'
 ---
 
 **Clotide** is a servant in [[Elendel]] on [[Scadrial]].
 
-During the celebration hosted by [[Jackstom Harms|Lord Harms]] after the [[Bleeder]] case, they exchange [[Wax]]'s cold cup of tea for a warm one.{{book ref|mb5|epilogue}}
+During the celebration hosted by [[Jackstom Harms|Lord Harms]] after the [[Bleeder]] case, they exchange [[Wax]]'s cold cup of tea for a warm one.
 
 ## Notes
 <references />
-{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 02:23, 7 March 2022 (UTC)}}
-{{Mistborn|era 2}}

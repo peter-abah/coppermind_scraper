@@ -1,3 +1,8 @@
+---
+source_file: MayalaranGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=250px caption="Official Artwork">
 Adolin's_Shardblade.png | <center><small>by [[Ben McSweeney]]</small></center> In [[Shallan's sketchbook]]

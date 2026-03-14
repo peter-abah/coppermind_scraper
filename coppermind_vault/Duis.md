@@ -1,15 +1,17 @@
-{{culture
-|era=Classical Scadrial
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 1]]
-}}
-**Duis** is a deity worshipped in [[Classical Scadrial]]. They are known to watch over weary travellers.{{book ref|mb2|19}}
+---
+source_file: Duis.txt
+entity_type: culture
+era: Classical Scadrial
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
+---
 
-Their religion is one known by [[Sazed]].{{book ref|mb2|19}}
+**Duis** is a deity worshipped in [[Classical Scadrial]]. They are known to watch over weary travellers.
+
+Their religion is one known by [[Sazed]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:01, 11 September 2018 (MST)}}
-{{Mistborn|Era 1}}
+
 [[Category: Religion]]

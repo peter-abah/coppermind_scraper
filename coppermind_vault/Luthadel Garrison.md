@@ -1,47 +1,46 @@
-{{group
-|type={{cat tag|armies|Army}}
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 1]]
-}}
-{{quote
-|Any way you look at it, Kell, that Garrison is going to be a tough stone to break.
-|[[Ham]] discussing the plans of the [[skaa rebellion]].{{book ref|mb1|6}} }}
+---
+source_file: Luthadel Garrison.txt
+entity_type: group
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
+---
 
-The **Luthadel Garrison** was a standing force of twenty thousand well-armed, well-trained troops. Its primary duty is to maintain order in [[Luthadel]].{{book ref|mb1|6}}
+> Any way you look at it, Kell, that Garrison is going to be a tough stone to break.
+> — [[Ham]] discussing the plans of the [[skaa rebellion]].
+
+The **Luthadel Garrison** was a standing force of twenty thousand well-armed, well-trained troops. Its primary duty is to maintain order in [[Luthadel]].
 
 ## Organization
-While stopping rebels is the sort of thing the Garrison was created to do, they were also responsible for guarding Luthadel's wall and gates. However, no one ever attacked Luthadel during the Final Empire.{{book ref|mb1|26}}
+While stopping rebels is the sort of thing the Garrison was created to do, they were also responsible for guarding Luthadel's wall and gates. However, no one ever attacked Luthadel during the Final Empire.
 
-Most soldiers in the Garrison are [[skaa]] who sold out to the [[Lord Ruler]] in exchange for a better life. They mostly recruited men outside mainstream society, and occasionally hired part-time soldiers when there were riots somewhere. Garrisoners are mercenaries, which means that they would attack friends and even relatives when ordered to. Their job requires that they keep up an intimidating face, which makes them not very well liked.{{book ref|mb1|24}}
-While doing patrols, they kicked at beggars to make sure they were truly invalid, harassed wandering workers when they weren't working, and made a general nuisance of themselves.{{book ref|mb1|10}}
+Most soldiers in the Garrison are [[skaa]] who sold out to the [[Lord Ruler]] in exchange for a better life. They mostly recruited men outside mainstream society, and occasionally hired part-time soldiers when there were riots somewhere. Garrisoners are mercenaries, which means that they would attack friends and even relatives when ordered to. Their job requires that they keep up an intimidating face, which makes them not very well liked.
+While doing patrols, they kicked at beggars to make sure they were truly invalid, harassed wandering workers when they weren't working, and made a general nuisance of themselves.
 
-The Garrison did nighttime patrols.{{book ref|mb1|7}}
+The Garrison did nighttime patrols.
 
-Garrisoners wore full armor, with breastplate, cap and black cloak.{{book ref|mb1|10}} Captains like [[Sertes]] bore a few extra stripes of color and gold-colored bits of metal on their shoulder.{{book ref|mb1|24}}
+Garrisoners wore full armor, with breastplate, cap and black cloak. Captains like [[Sertes]] bore a few extra stripes of color and gold-colored bits of metal on their shoulder.
 
-Their fortifications are close to the Steel Gate.{{map ref|Luthadel}} The complex had a defensive appearance and was guarded by hostile looking soldiers at the gates. Large spikes were mounted on the wall that ran around it, and the buildings within were bulky and fortified. During skaa riots in a city, malcontents generally hit the local garrison pretty hard, hence the fortifications.{{book ref|mb1|24}}
+Their fortifications are close to the Steel Gate. The complex had a defensive appearance and was guarded by hostile looking soldiers at the gates. Large spikes were mounted on the wall that ran around it, and the buildings within were bulky and fortified. During skaa riots in a city, malcontents generally hit the local garrison pretty hard, hence the fortifications.
 
 ## History
-When [[Yeden]] hired [[Kelsier's crew]] to assist the [[skaa rebellion]] in taking over Luthadel, the Luthadel Garrison was one of their major impediments, as they couldn't take the city while the Garrison was active.{{book ref|mb1|4}}{{book ref|mb1|6}}
+When [[Yeden]] hired [[Kelsier's crew]] to assist the [[skaa rebellion]] in taking over Luthadel, the Luthadel Garrison was one of their major impediments, as they couldn't take the city while the Garrison was active.
 
-[[Ham]] was a frequent visitor and often sparred with men of the Garrison. He once brought [[Vin]] along with him to show her some tricks in [[pewter]] [[Allomancy]]. However, they were occupied at that time and didn't have time for sparring.{{book ref|mb1|24}}
+[[Ham]] was a frequent visitor and often sparred with men of the Garrison. He once brought [[Vin]] along with him to show her some tricks in [[pewter]] [[Allomancy]]. However, they were occupied at that time and didn't have time for sparring.
 
-When Yeden ordered the skaa rebels in the [[Arguois caverns]] to attack the [[Holstep]] Garrison, the Luthadel Garrison and the [[Valtroux]] Garrison were sent to reinforce them.{{book ref|mb1|24}} By the time the Luthadel Garrison arrived there, the Valtroux Garrison had already taken care of most skaa rebels{{book ref|mb1|25}}, so the Luthadel Garrison relieved the Valtroux Garrison and stayed there to search for remaining rebels, but they dismissed the part-time soldiers like Ham.{{book ref|mb1|26}}
+When Yeden ordered the skaa rebels in the [[Arguois caverns]] to attack the [[Holstep]] Garrison, the Luthadel Garrison and the [[Valtroux]] Garrison were sent to reinforce them. By the time the Luthadel Garrison arrived there, the Valtroux Garrison had already taken care of most skaa rebels, so the Luthadel Garrison relieved the Valtroux Garrison and stayed there to search for remaining rebels, but they dismissed the part-time soldiers like Ham.
 
-During this time, only ten percent of the Garrison stayed behind to guard Luthadel{{book ref|mb1|26}}, which wasn't enough to prevent the [[Collapse]] from happening{{book ref|mb1|36}}.
+During this time, only ten percent of the Garrison stayed behind to guard Luthadel, which wasn't enough to prevent the [[Collapse]] from happening.
 
-In the [[New Empire]], the Luthadel Garrison served Elend.{{wob ref|3935}}
+In the [[New Empire]], the Luthadel Garrison served Elend.
 
 ## Known members
-* Captain [[Sertes]]{{book ref|mb1|24}}
-* [[Bevidon]]{{book ref|mb1|24}}
-* [[Ham]] (part-time soldier, actually spying for the skaa rebellion){{book ref|mb1|24}}{{book ref|mb1|26}}
-* [[Goradel]] ([[Kredik Shaw]] palace guard{{ref|text=The [[Mistborn (series)]] glossaries mention that Goradel was a soldier in the Luthadel Garrison. This may implicate that the palace guard was an independent division of the Garrison, but may also be an inconsistency.|group=note}})
+* Captain [[Sertes]]
+* [[Bevidon]]
+* [[Ham]] (part-time soldier, actually spying for the skaa rebellion)
+* [[Goradel]] ([[Kredik Shaw]] palace guard)
 
 ## Notes
 <references />
 ; Footnotes
 <references group=note/>
-{{complete}}
-{{Mistborn|Era 1}}

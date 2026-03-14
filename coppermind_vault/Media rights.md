@@ -1,3 +1,12 @@
+---
+source_file: Media rights.txt
+entity_type: url ref
+url: https://www.hollywoodreporter.com/movies/movie-news/brandon-sandersons-mistborn-stormlight-archive-movie-tv-1236487271/
+text: Brandon Sanderson’s Literary Fantasy Universe ‘Cosmere’ Picked Up by Apple TV
+site: The Hollywood Reporter
+date: '2026-02-28'
+---
+
 This page lists the current status of the various media rights for derivative works (such as films or games) based on Brandon's works. It includes only the current rights-holders (or most recent rights-holder in the event of a lapsed option that has not been re-sold). NOT included are rights-holders who once held an option that has since lapsed and been re-sold, for these please check the individual adaptation's article.
 
 Properties that are under option are highlighted in tan, properties in production/development in blue, and released works in green. Properties that have had their options lapse are highlighted in red.
@@ -18,65 +27,65 @@ Properties that are under option are highlighted in tan, properties in productio
 
 |-
 ! [[The Stormlight Archive]]
-| style="text-align:center; background-color:#F2F2CE"| Apple TV{{url ref|url=https://www.hollywoodreporter.com/movies/movie-news/brandon-sandersons-mistborn-stormlight-archive-movie-tv-1236487271/|text=Brandon Sanderson’s Literary Fantasy Universe ‘Cosmere’ Picked Up by Apple TV|site=The Hollywood Reporter|date=2026-02-28}}
+| style="text-align:center; background-color:#F2F2CE"| Apple TV
 | style="text-align:center; background-color:#F2F2CE"| Optioned
 | style="text-align:center; background-color:#F2F2CE"| 
 
 |-
 ! *[[The Emperor's Soul]]*
 | style="text-align:center; background-color:#F2CED4"| DMG Entertainment
-| style="text-align:center; background-color:#F2CED4"| Lapsed{{wob ref|14573}}
+| style="text-align:center; background-color:#F2CED4"| Lapsed
 | style="text-align:center; background-color:#F2CED4"| 
 
 |-
 ! *[[Warbreaker]]*
 | style="text-align:center; background-color:#F2CED4"| DMG Entertainment
-| style="text-align:center; background-color:#F2CED4"| Lapsed{{wob ref|14573}}
+| style="text-align:center; background-color:#F2CED4"| Lapsed
 | style="text-align:center; background-color:#F2CED4"| 
 |-
 ! *[[Elantris (book)|Elantris]]*
 | style="text-align:center; background-color:#F2CED4"| DMG Entertainment
-| style="text-align:center; background-color:#F2CED4"| Lapsed{{wob ref|14573}}
+| style="text-align:center; background-color:#F2CED4"| Lapsed
 | style="text-align:center; background-color:#F2CED4"| 
 
 |-
 ! [[The Reckoners]]
-| style="text-align:center; background-color:#F2CED4"| 21 Laps <small>(20th Century Fox)</small> <small>(Disney)</small>{{wob ref|13003}}
-| style="text-align:center; background-color:#F2CED4"| Lapsed{{wob ref|14573}}
+| style="text-align:center; background-color:#F2CED4"| 21 Laps <small>(20th Century Fox)</small> <small>(Disney)</small>
+| style="text-align:center; background-color:#F2CED4"| Lapsed
 | style="text-align:center; background-color:#F2CED4"| 
 
 |-
 ! [[Legion (series)|Legion]]
-| style="text-align:center; background-color:#F2F2CE"| [[Wikipedia:Cineflix|Cineflix]]{{wob ref|14573}}
+| style="text-align:center; background-color:#F2F2CE"| [[Wikipedia:Cineflix|Cineflix]]
 | style="text-align:center; background-color:#F2F2CE"| Optioned
 | style="text-align:center; background-color:#F2F2CE"| 
 
 |-
 ! *[[Snapshot]]*
-| style="text-align:center; background-color:#F2CED4"| MGM{{ref|name=snapshot}}
-| style="text-align:center; background-color:#F2CED4"| Lapsed{{wob ref|14573}}
+| style="text-align:center; background-color:#F2CED4"| MGM
+| style="text-align:center; background-color:#F2CED4"| Lapsed
 | style="text-align:center; background-color:#F2CED4"| 
 
 |-
 ! [[Dark One (franchise)|Dark One]]
-| style="text-align:center; background-color:#F2F2CE"| [[Wikipedia:Fremantle (company)|Fremantle North America]]/[[Wikipedia:Random House Studio|Random House Studio]]{{wob ref|12496}}
+| style="text-align:center; background-color:#F2F2CE"| [[Wikipedia:Fremantle (company)|Fremantle North America]]/[[Wikipedia:Random House Studio|Random House Studio]]
 | style="text-align:center; background-color:#F2F2CE"| Optioned
 | style="text-align:center; background-color:#F2F2CE"|
 
 |-
 ! [[Skyward (series)|Skyward]]
-| style="text-align:center; background-color:#F2F2CE"| [[Wikipedia:Universal Television|Universal Television]]{{wob ref|14573}}
+| style="text-align:center; background-color:#F2F2CE"| [[Wikipedia:Universal Television|Universal Television]]
 | style="text-align:center; background-color:#F2F2CE"| Optioned
 | style="text-align:center; background-color:#F2F2CE"|
 
 |-
 ! [[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]
-| style="text-align:center; background-color:#F2F2CE"| [[wikipedia:Gaumont Animation|Gaumont Animation]]{{wob ref|14573}}
+| style="text-align:center; background-color:#F2F2CE"| [[wikipedia:Gaumont Animation|Gaumont Animation]]
 | style="text-align:center; background-color:#F2F2CE"| Optioned
 | style="text-align:center; background-color:#F2F2CE"|
 
 |}
-In a summer 2022 livestream, Brandon mentioned that "basically all" of his movie/TV options had lapsed,{{wob ref|15744}} but he has not yet clarified which properties may still be under option.
+In a summer 2022 livestream, Brandon mentioned that "basically all" of his movie/TV options had lapsed, but he has not yet clarified which properties may still be under option.
 
 ## Game Rights
 ### Video Games
@@ -91,7 +100,7 @@ In a summer 2022 livestream, Brandon mentioned that "basically all" of his movie
 ! *[[Mistborn series]]*
 | style="text-align:center; background-color:#F2CED4"| Little Orbit
 | style="text-align:center; background-color:#F2CED4"| Lapsed
-| style="text-align:center; background-color:#F2CED4"| [[Mistborn: Birthright]]{{ref|name=birthright}}
+| style="text-align:center; background-color:#F2CED4"| [[Mistborn: Birthright]]
 
 |}
 
@@ -128,29 +137,29 @@ In a summer 2022 livestream, Brandon mentioned that "basically all" of his movie
 ! [[Cosmere]]
 | style="text-align:center; background-color:#CEECF2"| Brotherwise Games
 | style="text-align:center; background-color:#CEECF2"| Pre-Release
-| style="text-align:center; background-color:#CEECF2"| Shards of Creation{{wob ref|16444}}
+| style="text-align:center; background-color:#CEECF2"| Shards of Creation
 
 |-
 ! rowspan=2 |*[[Mistborn series]]*
 | style="text-align:center; background-color:#CEF2CE"| Crafty Games
 | style="text-align:center; background-color:#CEF2CE"| Released
-| style="text-align:center; background-color:#CEF2CE"| [[Mistborn: House War]]{{ref|name=mistboard}}
+| style="text-align:center; background-color:#CEF2CE"| [[Mistborn: House War]]
 |-
 | style="text-align:center; background-color:#CEECF2"| Brotherwise Games
 | style="text-align:center; background-color:#CEECF2"| Pre-Release
-| style="text-align:center; background-color:#CEECF2"| Mistborn® Deckbuilding Game{{wob ref|16443}}
+| style="text-align:center; background-color:#CEECF2"| Mistborn® Deckbuilding Game
 
 |-
 ! [[The Stormlight Archive]]
 | style="text-align:center; background-color:#CEF2CE"| Brotherwise Games
 | style="text-align:center; background-color:#CEF2CE"| Released
-| style="text-align:center; background-color:#CEF2CE"| [[Call to Adventure: The Stormlight Archive]]{{ref|name=CtAStormlight}}
+| style="text-align:center; background-color:#CEF2CE"| [[Call to Adventure: The Stormlight Archive]]
 
 |-
 ! [[The Reckoners]]
 | style="text-align:center; background-color:#CEF2CE"| Nauvoo Games
 | style="text-align:center; background-color:#CEF2CE"| Released
-| style="text-align:center; background-color:#CEF2CE"| [[The Reckoners (board game)]]{{ref|name=reckonersboard}}
+| style="text-align:center; background-color:#CEF2CE"| [[The Reckoners (board game)]]
 
 |}
 
@@ -166,24 +175,16 @@ In a summer 2022 livestream, Brandon mentioned that "basically all" of his movie
 ! *[[The Way of Kings]]*
 | style="text-align:center; background-color:#CEF2CE"| The Black Piper
 | style="text-align:center; background-color:#CEF2CE"| Released
-| style="text-align:center; background-color:#CEF2CE"| [[Kaladin (album)]]{{ref|name=kaladinalbum}}
+| style="text-align:center; background-color:#CEF2CE"| [[Kaladin (album)]]
 
 |}
 
 ## Notes
 <references>
 
-{{bws ref|name=birthright|announcing-the-mistborn-video-game|Mistborn: Birthright announcement|date= Mar 26th, 2012}}
-{{bws ref|name=snapshot|mgm-options-brandons-forthcoming-novella-snapshot|MGM options Brandon’s forthcoming novella Snapshot|date = Jan 19th, 2017}}
-
-{{url ref|name=mistboard|url=http://www.crafty-games.com/forum/index.php?topic=8183.msg157477|text= Mistborn board game prototype announcement|site=Crafty-Games.com|date= Jul 21st, 2015}}
-{{url ref|name=reckonersboard|url=http://www.nauvoogames.com/the_reckoners|text= *The Reckoners* board game license acquired announcement|site=NauvooGames.com|date= Jul 29th, 2016}}
-{{url ref|name=CtAStormlight|url=https://www.brotherwisegames.com/stormlight|text= The Stormlight Archive board game licensed to Brotherwise Games|site=brotherwisegames.com}}
-{{url ref|name=kaladinalbum|url=https://theblackpiper.com/album/1527700/kaladin|text= Official *Kaladin* album by The Black Piper|site=theblackpiper.com}}
 https://www.brotherwisegames.com/stormlight
 
 </references>
-{{meta/partial}}
-{{books|cats=}}
+
 [[Category: Media| ]]
 [[category: list articles]]

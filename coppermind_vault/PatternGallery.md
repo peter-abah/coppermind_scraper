@@ -1,3 +1,8 @@
+---
+source_file: PatternGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Pattern Animation.gif | <center><small>by [[Isaac Stewart]], [[User:Awesomeness]]</small></center> Various forms of Pattern

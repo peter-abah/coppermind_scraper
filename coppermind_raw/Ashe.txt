@@ -1,0 +1,29 @@
+{{character
+|image=Sarene_by_Bernardo_Curvello.jpg
+|abilities={{tag+|Splinter}} of [[Devotion]]
+|bonded=[[Sarene]], [[Sarene's mother]] <small>(formerly)</small>
+|species=Seon
+|world=Sel
+|universe=[[Cosmere]]
+|introduced=[[Elantris (book)|Elantris]]
+}}{{for|Aon#Ashe|the [[Aon]]|here}}
+'''Ashe''' is a [[seon]], a magical being on [[Sel]]. He is bonded to [[Sarene]].{{book ref|Elantris|2}}
+
+== Appearance and Personality ==
+{{image|Sarene Fencing by Elisgardor.jpg|side=left|width=300|With [[Sarene]]}}
+{{for|/Gallery|more images}}
+Like all seons, Ashe is a sentient, melon-sized ball of light. The glowing character [[Aon#Ashe|Aon Ashe]] forms the center of Ashe's body, although it is partially obscured by his light. He has a deep voice, always perfectly enunciating his words.{{book ref|Elantris|2}} 
+
+Ashe is reserved and cautious, and often displays displeasure when he perceives Sarene to be acting recklessly. He concerns himself with Sarene's safety above all and cares for her very much.{{book ref|Elantris|32}}
+
+He considers [[Teod]] his home,{{book ref|Elantris|62}} though he moves to [[Arelon]] with Sarene after her marriage to [[Raoden]]. He lived in Arelon for a brief time, long before being bound to Sarene.{{book ref|Elantris|2}}  
+
+== History ==
+Ashe plays a key role in Sarene's efforts to thwart [[Hrathen]]'s takeover of Arelon. Among other things, Ashe deduces that Raoden is the one truly in charge of [[Elantris (city)|Elantris]],{{book ref|Elantris|26}} saves Sarene from [[Iadon]]'s [[Jeskeri Mysteries|Jesker cultists]] by alerting [[Eondel]] of her whereabouts,{{book ref|Elantris|32}} acts as a courier between Sarene and [[Kiin]] while she is temporarily sequestered in Elantris,{{book ref|Elantris|44}} and gives Raoden the exact trajectory necessary for him to teleport to Teod and rescue Sarene from [[Dilaf]] and his [[Dakhor]] monks.{{book ref|Elantris|62}}
+
+== Notes ==
+<references />
+{{partial}}
+{{Elantris}}
+
+[[es:Ashe]]

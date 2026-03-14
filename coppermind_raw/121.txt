@@ -1,0 +1,22 @@
+{{character
+|abilities=[[Nahel bond]], [[Skybreaker]] magic, {{tag+|Splinter}}
+|bonded=[[Nale]]
+|species=Highspren
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Oathbringer]]
+}}
+{{update|sa3|sa4|sa5}}
+
+'''121''' is a [[highspren]] on [[Roshar]]. He is bonded to [[Nale]].{{book ref|sa5|86}}
+
+He does not approve of close relationships between spren and their [[Knights Radiant|Radiant]]; he thinks that these make the spren an "auxiliary" to human will. [[Auxiliary|12124]] likely derived his new name from that idea, as much of his treatment of [[Szeth]] was influenced by 121's such opinions.{{book ref|sa5|135}}
+
+121 and Nale have reached the Fifth Ideal of the Skybreakers.{{book ref|sa5|106}}
+
+When in [[shardblade]] form,{{rpg ref|slwg|144}}{{rpg ref|slsw|100}} he resembles Nale's "[[Glyphs/Index#Fundamental Glyphs|swordglyph]]".{{file ref|Herald Glyph Nalan.svg|Swordglyph Nalan}} Any relation between the two is unknown.
+==Notes==
+<references />
+{{partial}}
+{{stormlight}}
+[[category: Shardblades]]

@@ -1,3 +1,8 @@
+---
+source_file: Shallan DavarGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=200px>
 Whelan Stormlight Shallan.jpg | <center><small>by {{a|Michael Whelan}}</small></center>Shallan in the [[Shattered Plains]], *[[Words of Radiance]]* end pages

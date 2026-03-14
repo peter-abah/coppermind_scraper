@@ -1,17 +1,14 @@
 ---
-type: "{{cat tag|weapons|Sword"
+source_file: Kusu.txt
+entity_type: item
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
+A **kusu** is a type of sword used in [[Emul]] on [[Roshar]]. [[Adolin Kholin]] brings one with him to [[Shadesmar]] on the diplomatic mission to [[Lasting Integrity]].
 
-A **kusu** is a type of sword used in [[Emul]] on [[Roshar]]. [[Adolin Kholin]] brings one with him to [[Shadesmar]] on the diplomatic mission to [[Lasting Integrity]].{{book ref|sa4|21}}
-
-There are several situations for which this long, curved, easy-to-draw sword would be a good choice: when fighting against an unarmored opponent, when doing horseback charges that take one past one's opponent, and when a fight or fighting style calls for heavy use of slicing and cutting.{{book ref|sa4|21}}
+There are several situations for which this long, curved, easy-to-draw sword would be a good choice: when fighting against an unarmored opponent, when doing horseback charges that take one past one's opponent, and when a fight or fighting style calls for heavy use of slicing and cutting.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 01:07, 2 February 2021 (UTC)}}
-{{Stormlight}}

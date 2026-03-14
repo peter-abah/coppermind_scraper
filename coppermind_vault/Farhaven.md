@@ -1,14 +1,15 @@
 ---
-universe: "Cytoverse"
-books: "Skyward (series)"
+source_file: Farhaven.txt
+entity_type: location
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
-**Farhaven** is a planet that was destroyed by the [[Acumidian delver]] nearly two hundred years before the [[Battle of Alta Second]]. Every being on the planet was vaporized.{{book ref|sky2|21}}
+**Farhaven** is a planet that was destroyed by the [[Acumidian delver]] nearly two hundred years before the [[Battle of Alta Second]]. Every being on the planet was vaporized.
 
-Its destruction is recorded, and later used in a [[Superiority]] training program at [[Starsight (station)|Starsight]] to fight against the delvers.{{book ref|sky2|21}}
+Its destruction is recorded, and later used in a [[Superiority]] training program at [[Starsight (station)|Starsight]] to fight against the delvers.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 04:11, 31 January 2020 (UTC)}}
-{{Skyward}}
+
 [[Category:Celestial bodies]]

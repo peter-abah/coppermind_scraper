@@ -1,14 +1,15 @@
-{{settlement
-|map=Relanas locator.png
-|princedom=Roion
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Relanas** is a city in [[Roion princedom]] in northern [[Alethkar]] on [[Roshar]].{{map ref|Alethkar}} It is near the border to [[Aladar princedom]], and lies on a river that feeds into the [[Bay of Elibath]].
+---
+source_file: Relanas.txt
+entity_type: settlement
+map: Relanas locator.png
+princedom: Roion
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+**Relanas** is a city in [[Roion princedom]] in northern [[Alethkar]] on [[Roshar]]. It is near the border to [[Aladar princedom]], and lies on a river that feeds into the [[Bay of Elibath]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 15:55, 24 December 2016 (MST)}}
-{{Stormlight}}

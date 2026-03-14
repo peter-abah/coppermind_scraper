@@ -1,3 +1,8 @@
+---
+source_file: HrathenGallery.txt
+entity_type: article
+---
+
 ## Official Art
 <gallery heights=300px caption="Official Art" mode=packed>
 Elantris US cover art.jpg | On the US cover of *[[Elantris (book)|Elantris]]*

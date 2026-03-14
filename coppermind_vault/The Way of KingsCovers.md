@@ -1,4 +1,7 @@
-{{CoverToC|sa}}
+---
+source_file: The Way of KingsCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for covers of *[[The Way of Kings]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

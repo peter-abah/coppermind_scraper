@@ -1,13 +1,12 @@
 ---
-name: "Lorn"
-world: "Roshar"
-introduced: "Stonewalkers"
+source_file: Lorn (Roshar).txt
+entity_type: character
+name: Lorn
+world: Roshar
+introduced: '[[Stonewalkers]]'
 ---
 
-{{rpg-canon}}
-**Lorn** is a deserter and former bandit on [[Roshar]].{{rpg ref|slsw|14}} Previously a follower of the Bandit Queen operating out of Rathalas, he leaves after she was killed by [[Ylt]], planning to head to the [[Shattered Plains]] for work. On his way he runs into the companions of the late [[Taszo-son-Clutio]] and they exchange information.{{rpg ref|slsw|58}}
+**Lorn** is a deserter and former bandit on [[Roshar]]. Previously a follower of the Bandit Queen operating out of Rathalas, he leaves after she was killed by [[Ylt]], planning to head to the [[Shattered Plains]] for work. On his way he runs into the companions of the late [[Taszo-son-Clutio]] and they exchange information.
 
 ==Notes==
 <references />
-{{complete}}
-{{Stormlight}}

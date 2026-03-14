@@ -1,14 +1,13 @@
 ---
-residence: "Urithiru"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Wind and Truth"
+source_file: Mararin.txt
+entity_type: character
+residence: Urithiru
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-{{update|sa5}}
-**Mararin** is the nursemaid to [[Gavinor Kholin]] on [[Roshar]].{{book ref|sa5|15}}
+**Mararin** is the nursemaid to [[Gavinor Kholin]] on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{stormlight}}

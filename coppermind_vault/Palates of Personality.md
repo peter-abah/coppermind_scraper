@@ -1,16 +1,15 @@
 ---
-type: "{{cat tag|Literature"
+source_file: Palates of Personality.txt
+entity_type: item
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-***Palates of Personality*** is a book on [[Roshar]] that posits a link between a person's preferred foods and their personality traits.{{book ref|sa1|33}} [[Kabsal]] quotes the book to [[Shallan]] and assures her that it is real.{{book ref|sa1|33}}
+***Palates of Personality*** is a book on [[Roshar]] that posits a link between a person's preferred foods and their personality traits. [[Kabsal]] quotes the book to [[Shallan]] and assures her that it is real.
 
-{{quote|a fondness for [[simberry|simberries]] indicates a spontaneous, impulsive personality, ... and a love for the outdoors|[[Kabsal]] reading from *Palates of Personality*}}
+> a fondness for [[simberry|simberries]] indicates a spontaneous, impulsive personality, ... and a love for the outdoors
+> — [[Kabsal]] reading from *Palates of Personality*
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 15:48, 30 October 2019 (UTC)}}
-{{Stormlight}}

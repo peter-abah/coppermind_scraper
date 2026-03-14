@@ -1,29 +1,23 @@
 ---
-name: "Yazad"
-died: "{{tes ref|17"
+source_file: Yazad (Sel).txt
+entity_type: character
+name: Yazad
+titles: Emperor of the [[Rose Empire]]
+ethnicity: Grand
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[The Emperor''s Soul]]'
 ---
 
-|titles=Emperor of the [[Rose Empire]]
-|ethnicity=Grand
-|world=Sel
-|universe=[[Cosmere]]
-|books=[[The Emperor's Soul]]
-}}
 **Yazad** was the forty-eighth Emperor of the [[Rose Empire]] on [[Sel]].
 
-Near the end of his reign, he grew weak with sickness. After his death, [[Ashravan]] succeeded him as the emperor.{{tes ref|17}}
+Near the end of his reign, he grew weak with sickness. After his death, [[Ashravan]] succeeded him as the emperor.
 
 ## Trivia
-* Yazad may be named after the Zoroastrian concept of *[[wikipedia:yazata|yazata]]* (Avestan: 𐬫𐬀𐬰𐬀𐬙𐬀), which is known as *yazad* (𐭩𐭦𐭲𐭩‎) in Middle Persian; Brandon has noted that he was influenced by ancient Zoroastrian words for Rose Empire names.{{wob ref|2857}} Yazata is a word with various uses, but it is most often used to refer to divine beings that are worthy of worship.
+* Yazad may be named after the Zoroastrian concept of *[[wikipedia:yazata|yazata]]* (Avestan: 𐬫𐬀𐬰𐬀𐬙𐬀), which is known as *yazad* (𐭩𐭦𐭲𐭩‎) in Middle Persian; Brandon has noted that he was influenced by ancient Zoroastrian words for Rose Empire names. Yazata is a word with various uses, but it is most often used to refer to divine beings that are worthy of worship.
 
 ## Notes
-{{Holder
-|title=Emperor of the [[Rose Empire]]
-|prev=*unknown*
-|this=48th
-|next=[[Ashravan]]
-}}
+
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:39, 3 September 2016 (MST)}}
-{{The Emperor's Soul}}
+
 [[es:Yazad (Sel)]]

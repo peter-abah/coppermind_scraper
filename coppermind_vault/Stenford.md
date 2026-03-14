@@ -1,12 +1,12 @@
-{{settlement
-|ruler=Thegn
-|'nation=[[Weswara]]
-|earth=Frugal Wizard
-}}
-{{update|frugal}}
-**Stenford** is a small town, of which [[Ealstan]] is [[thegn]].{{book ref|frugal|12}}
+---
+source_file: Stenford.txt
+entity_type: settlement
+ruler: Thegn
+'''nation': '[[Weswara]]'
+earth: Frugal Wizard
+---
+
+**Stenford** is a small town, of which [[Ealstan]] is [[thegn]].
 
 ## Notes
 <references />
-{{stub}}
-{{Frugal Wizard}}

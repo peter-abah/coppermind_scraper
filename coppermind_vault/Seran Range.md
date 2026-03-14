@@ -1,17 +1,17 @@
-{{geography
-|type={{cat tag|Mountains}}
-|region=Elendel Basin
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-The **Seran Range** is a mountain range in the [[Elendel Basin]] on [[Scadrial]].{{map ref|Elendel Basin}} It is southeast of [[Elendel]] and is one of the mountain ranges that separates the basin from the [[Roughs]].
+---
+source_file: Seran Range.txt
+entity_type: geography
+region: Elendel Basin
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
 
-The [[Seran River]] cuts through the mountains, and a major railway line loosely follows the river's path.{{map ref|Elendel Basin}} The city of [[New Seran]] is also close to the foothills of the mountains.{{book ref|bom|10}}{{map ref|Elendel Basin}} The mountains have snow-capped peaks{{book ref|bom|10}} and are generally uninhabited due to their cold, stormy climate.{{book ref|bom|22}}
+The **Seran Range** is a mountain range in the [[Elendel Basin]] on [[Scadrial]]. It is southeast of [[Elendel]] and is one of the mountain ranges that separates the basin from the [[Roughs]].
 
-It is presumably named for the [[Conventical of Seran]], the sanctuary of the Steel Inquisitors during the [[Final Empire]], which was located far southeast of [[Luthadel]].{{map ref|Final Empire}}
+The [[Seran River]] cuts through the mountains, and a major railway line loosely follows the river's path. The city of [[New Seran]] is also close to the foothills of the mountains. The mountains have snow-capped peaks and are generally uninhabited due to their cold, stormy climate.
+
+It is presumably named for the [[Conventical of Seran]], the sanctuary of the Steel Inquisitors during the [[Final Empire]], which was located far southeast of [[Luthadel]].
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 13:02, 19 April 2019 (MST)}}
-{{Mistborn|Era 2}}

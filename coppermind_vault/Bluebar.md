@@ -1,19 +1,20 @@
-{{lifeform
-|type={{cat tag|Plants|Plant}}
-|use=Jam
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Bluebar** is a fruit which can be used to produce a jam on [[Roshar]].{{book ref|sa1|39}}
+---
+source_file: Bluebar.txt
+entity_type: lifeform
+use: Jam
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-According to the book [[Palates of Personality]],{{book ref|sa1|33}} people who enjoy bluebar jam are mysterious, reserved and thoughtful. {{book ref|sa1|39}}
+**Bluebar** is a fruit which can be used to produce a jam on [[Roshar]].
 
-In 1173, [[Kabsal]] sent Brightlady [[Shallan Davar]] some bread and a jar of bluebar jam to eat, as well as a note telling her what Palates of Personality claimed about those who like bluebar jam.{{book ref|sa1|39}}
+According to the book [[Palates of Personality]], people who enjoy bluebar jam are mysterious, reserved and thoughtful. 
+
+In 1173, [[Kabsal]] sent Brightlady [[Shallan Davar]] some bread and a jar of bluebar jam to eat, as well as a note telling her what Palates of Personality claimed about those who like bluebar jam.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 15:29, 20 December 2016 (MST)}}
-{{Stormlight}}
+
 [[Category:Food]]
 [[Category: Rosharan food]]

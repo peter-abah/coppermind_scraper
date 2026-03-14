@@ -1,13 +1,14 @@
-{{nation
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Bayala** is a historical nation on [[Roshar]] in the [[Era of Solitude]].{{epigraph ref|sa3|104}} It could be a predecessor of [[Tu Bayla]], given the similarity of Bayla and Bayala.{{map ref|Roshar}} 
+---
+source_file: Bayala.txt
+entity_type: nation
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-[[Hessi]]'s *[[Mythica]]* attributes the collapse of the dynasty in {{Rosharan date|480}} to the influence of the [[Unmade]] [[Ashertmarn]] on the court, who caused great debauchery.{{epigraph ref|sa3|104}}
+**Bayala** is a historical nation on [[Roshar]] in the [[Era of Solitude]]. It could be a predecessor of [[Tu Bayla]], given the similarity of Bayla and Bayala. 
+
+[[Hessi]]'s *[[Mythica]]* attributes the collapse of the dynasty in  to the influence of the [[Unmade]] [[Ashertmarn]] on the court, who caused great debauchery.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 23:37, 20 March 2019 (MST)}}
-{{Stormlight}}

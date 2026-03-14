@@ -1,31 +1,30 @@
-{{architecture
-|usage=Worship of [[Kalak]], custody of the [[Order of Willshapers|Willshaper]] [[Honorblade]]
-|region=Shinovar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{update|sa5}}
+---
+source_file: Willshaper monastery.txt
+entity_type: architecture
+usage: Worship of [[Kalak]], custody of the [[Order of Willshapers|Willshaper]] [[Honorblade]]
+region: Shinovar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
 The **Willshaper monastery** is a [[Monastery of Truth]] dedicated to the [[Herald]] [[Kalak]] and associated with the [[Order of Willshapers]].
 
 ## Location
-The Willshaper monastery is located in the south of [[Shinovar]], near [[Koring]].{{file ref|Map_of_Shin_Monasteries.jpg}}
+The Willshaper monastery is located in the south of [[Shinovar]], near [[Koring]].
 
 ## Structure
-The Willshaper monastery is built to function as a fortress and a watchtower. It was designed specifically to defend against coastal raiders, due to its proximity to the southern coast of Shinovar. It is constructed from stone and towers over the nearby landscape and city. It has large front gates that open to the great hall. The great hall is illuminated by gemstones, refilled in every [[highstorm]]. Towards the front of the hall is an altar, upon which is placed a ceremonial stone. The roof is made of a single large stone.{{book ref|sa5|45}}
+The Willshaper monastery is built to function as a fortress and a watchtower. It was designed specifically to defend against coastal raiders, due to its proximity to the southern coast of Shinovar. It is constructed from stone and towers over the nearby landscape and city. It has large front gates that open to the great hall. The great hall is illuminated by gemstones, refilled in every [[highstorm]]. Towards the front of the hall is an altar, upon which is placed a ceremonial stone. The roof is made of a single large stone.
 
 ## History
-[[Sivi-daughter-Sivi]] was the Willshaper [[Honorbearer]] when [[Szeth]] was selected as an acolyte of the [[Stone Shamanism|Shamans]].{{book ref|sa5|68}} She often traveled to [[Mokdown]] to visit [[Neturo-son-Vallano]], whom she was romantically involved with.{{book ref|sa5|73}} When Szeth went on his pilgrimage to become an Honorbearer, he went to the Willshaper monastery first. He trained there for some time.{{book ref|sa5|75}}
+[[Sivi-daughter-Sivi]] was the Willshaper [[Honorbearer]] when [[Szeth]] was selected as an acolyte of the [[Stone Shamanism|Shamans]]. She often traveled to [[Mokdown]] to visit [[Neturo-son-Vallano]], whom she was romantically involved with. When Szeth went on his pilgrimage to become an Honorbearer, he went to the Willshaper monastery first. He trained there for some time.
 
-When [[Ishar]] corrupted the Honorbearers and the people of Shinovar, Sivi resisted his influence. The people of the nearby region, remaining uncorrupted, gathered in Koring and fortified it. The monastery was boarded up and Sivi died inside, holding the Willshaper [[Honorblade]]. She carved the words "I will not bow to him" in the stone floor of the monastery before she died.{{book ref|sa5|45}}
+When [[Ishar]] corrupted the Honorbearers and the people of Shinovar, Sivi resisted his influence. The people of the nearby region, remaining uncorrupted, gathered in Koring and fortified it. The monastery was boarded up and Sivi died inside, holding the Willshaper [[Honorblade]]. She carved the words "I will not bow to him" in the stone floor of the monastery before she died.
 
-During Szeth's quest to [[Cleansing of Shinovar|cleanse Shinovar]], he came to the monastery and was surprised to find the people of Koring uncorrupted. He found the monastery boarded up and used [[Division]] to punch a hole in the roof. He and [[Kaladin]] found Sivi's corpse, which had been dead for some time, and read her message. Szeth destroyed the hinges on the front gate of the monastery, using the weight of the doors to break the boards nailed across it. Taking the Willshaper Honorblade, he and Kaladin left for the [[Elsecaller monastery]].{{book ref|sa5|45}}
+During Szeth's quest to [[Cleansing of Shinovar|cleanse Shinovar]], he came to the monastery and was surprised to find the people of Koring uncorrupted. He found the monastery boarded up and used [[Division]] to punch a hole in the roof. He and [[Kaladin]] found Sivi's corpse, which had been dead for some time, and read her message. Szeth destroyed the hinges on the front gate of the monastery, using the weight of the doors to break the boards nailed across it. Taking the Willshaper Honorblade, he and Kaladin left for the [[Elsecaller monastery]].
 
 ## Politics
-Szeth hears a rumor that the Willshaper acolytes and shamans are more lax than those in most monasteries. They do not train as much, and spend more time riding horses and drinking alcohol.{{book ref|sa5|73}}
+Szeth hears a rumor that the Willshaper acolytes and shamans are more lax than those in most monasteries. They do not train as much, and spend more time riding horses and drinking alcohol.
 
 ## Notes
 <references />
-{{partial}}
-{{Stormlight}}

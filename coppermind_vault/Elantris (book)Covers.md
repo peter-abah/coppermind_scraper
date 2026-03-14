@@ -1,3 +1,8 @@
+---
+source_file: Elantris (book)Covers.txt
+entity_type: article
+---
+
 This is a gallery for all known covers for *[[Elantris (book)|Elantris]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 
 ## Book covers

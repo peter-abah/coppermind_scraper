@@ -1,0 +1,33 @@
+{{lifeform
+|image=Ambition by ML Malandrino.jpg
+|sapient=Yes
+|world=Yolen
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]], [[Yumi and the Nightmare Painter]], [[The Sunlit Man]]
+}}
+
+The '''Sho Del''' are one of the three sapient species from [[Yolen]], alongside humans and [[Dragon (cosmere)|dragon]]s.{{wob ref|3768}}{{wob ref|9676}}
+
+== Appearance and Culture ==
+Sho Del are roughly humanoid in appearance; however, they possess four arms and reptilian eyes. They are tall and limber, and their skin and hair are both chalk-white, with the hair being broad and flat, more akin to blades of grass than human hair.{{book ref|mb7|epilogue|6}}{{book ref|yumi|30}} They are not a hive mind; in the [[fain]] ecosystem of Yolen, they fulfill the same ecological niche as humans do in a non-fain one.{{wob ref|14342}} Despite their connection to the fain, they are still able to venture out of it, and into the [[Cognitive Realm]].{{book ref|mb7|epilogue|6}}
+
+Very little is known of Sho Del culture. It seems that their names are always comprised of two parts, though it is unknown what, if anything, each half represents.{{wob ref|8933}} They have multiple gods, and possess some sort of supernatural connection to them. It is unclear how that connection manifests, but it apparently makes them good navigators; as such, they are in high demand as guides through the Cognitive Realm. However, they are very rare out there.{{book ref|mb7|epilogue|6}} It is unknown if this is due to most of them preferring to remain in their home lands, or if they are a small group overall.
+
+At some point, the planet [[UTol]] was settled by Sho Del. These people were eventually met by human explorers from its twin planet, [[Komashi]].{{book ref|yumi|30}}
+
+[[Hoid]] apparently has interesting relationships with several Sho Del, though the specifics of it are unknown.{{wob ref|8793}}
+
+== Known Sho Del ==
+* [[Uli Da]], the Vessel of the [[Shard]] [[Ambition]]{{wob ref|8933}}
+* [[Jan Ven]], a [[Shadesmar]] guide{{book ref|mb7|epilogue|6}}
+
+== Trivia ==
+* The Sho Del are one of the few elements of ''[[Dragonsteel Prime]]'' that are still part of the canon of the [[cosmere]].{{wob ref|14645}}
+* In ''Dragonsteel Prime'', the Sho Del used silver sheaths for their swords; Brandon wrote that "intentionally" and it will ''probably'' still be a thing when he writes the [[Dragonsteel (series)|Dragonsteel series]].{{wob ref|11425}}
+
+== Notes ==
+<References />
+{{complete}}
+{{cosmere}}
+[[Category: Dragonsteel]]
+[[es: Sho Del]]

@@ -1,3 +1,8 @@
+---
+source_file: Arcanum UnboundedCovers.txt
+entity_type: article
+---
+
 This is a gallery for all known covers for *[[Arcanum Unbounded]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. For covers specific to the *[[Edgedancer (novella)|Edgedancer]]* novella, see [[Edgedancer (novella)/Covers|here]]; for covers specific to *[[Mistborn: Secret History]]*, see [[Mistborn: Secret History/Covers|here]].
 
 <gallery widths=3000px heights=400px mode="packed">

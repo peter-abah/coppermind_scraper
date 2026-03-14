@@ -1,0 +1,5 @@
+#REDIRECT [[Vasher]]
+[[Category: Aliases]]
+[[Category: Stormlight Archive]]
+[[Category: Characters]]
+[[Category: Nominal redirects]]

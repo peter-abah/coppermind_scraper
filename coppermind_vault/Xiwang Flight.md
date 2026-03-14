@@ -1,17 +1,16 @@
-{{group
-|type={{cat tag|DDF Flights|DDF flight}}
-|hq=[[Alta Base]] (formerly), [[Platform Prime]]
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
+---
+source_file: Xiwang Flight.txt
+entity_type: group
+hq: '[[Alta Base]] (formerly), [[Platform Prime]]'
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
 
-**Xiwang Flight** is a [[DDF]] flight in service after the [[Battle of Alta Second]]. They engaged in a skirmish with the Superiority, which took place in space, beyond Detritus’ shells. After returning from the skirmish, they and [[Skyward Flight]] were ordered by [[Matthew Cobb|Cobb]] to dock at [[Platform Prime]].{{book ref|sky2|3}}
+**Xiwang Flight** is a [[DDF]] flight in service after the [[Battle of Alta Second]]. They engaged in a skirmish with the Superiority, which took place in space, beyond Detritus’ shells. After returning from the skirmish, they and [[Skyward Flight]] were ordered by [[Matthew Cobb|Cobb]] to dock at [[Platform Prime]].
 
 ## Trivia
-* Xiwang is a Mandarin Chinese word meaning "hope" and was intentionally chosen for the flight's name for this meaning.{{wob ref|15126}}
+* Xiwang is a Mandarin Chinese word meaning "hope" and was intentionally chosen for the flight's name for this meaning.
 
 ## Notes
 <references />
-{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 19:16, 5 March 2022 (UTC)}}
-{{Skyward}}

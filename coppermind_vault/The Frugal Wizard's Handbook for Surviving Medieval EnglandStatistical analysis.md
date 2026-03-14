@@ -1,3 +1,9 @@
+---
+source_file: The Frugal Wizard's Handbook for Surviving Medieval EnglandStatistical
+  analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[The Frugal Wizard's Handbook for Surviving Medieval England]]***.
 
 ### Chapter by Chapter Breakdown
@@ -253,7 +259,5 @@ This page contains a statistical analysis of ***[[The Frugal Wizard's Handbook f
 | align="right" | **100.00%**
 |}
 
-{{meta/done}}
-{{Frugal Wizard}}
 [[Category: Frugal Wizard|*]]
 [[category: statistics]]

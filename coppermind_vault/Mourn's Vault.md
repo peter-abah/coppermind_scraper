@@ -1,16 +1,17 @@
-{{settlement
-|map=Mourns Vault locator.png
-|princedom=Sadeas
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Mourn's Vault** is a settlement in the [[Sadeas princedom]] of [[Alethkar]] on [[Roshar]].{{map ref|Roshar}}{{map ref|Alethkar}} It is on the border of Alethkar and [[Herdaz]], and is northwest of [[Hearthstone]]. Mourn's Vault is not a pleasant area of Alethkar.{{wob ref|11158}}
+---
+source_file: Mourn's Vault.txt
+entity_type: settlement
+map: Mourns Vault locator.png
+princedom: Sadeas
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-[[Tarah]] moved to Mourn's Vault from Amaram's army to work as a scribe under Highprince [[Torol Sadeas]]'s house.{{book ref|sa3|112}} 
+**Mourn's Vault** is a settlement in the [[Sadeas princedom]] of [[Alethkar]] on [[Roshar]]. It is on the border of Alethkar and [[Herdaz]], and is northwest of [[Hearthstone]]. Mourn's Vault is not a pleasant area of Alethkar.
+
+[[Tarah]] moved to Mourn's Vault from Amaram's army to work as a scribe under Highprince [[Torol Sadeas]]'s house. 
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 07:41, 29 February 2020 (UTC)}}
-{{Stormlight}}

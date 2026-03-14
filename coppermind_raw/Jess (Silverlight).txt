@@ -1,0 +1,18 @@
+{{character|name=Jess
+|profession={{tag+|Arcanist}}
+|world=Silverlight
+|universe=[[Cosmere]]
+|introduced=[[Isles of the Emberdark]]
+}}
+{{spoilers|iote}}
+'''Jess''' is an [[arcanist]] working at the [[Silverlight]] university.{{book ref|iote|30}}
+
+Ed asks Starling's permission to show Jess, [[Argent]], and [[Huio]] the fourty-seventh count tapestry from the [[Iriali]] Long Trail record, that documents a map to [[First of the Sun]]'s [[perpendicularity]] to verify its authenticity. It is possible she knows Middle-old Iriali and/or Old Iriali.{{book ref|iote|30}}
+
+== Trivia ==
+* Jess is a tuckerization of Jessie Lake (LadyLameness), one of Brandon's beta readers, a Coppermind Keeper, and 17th Shard Staff Member.
+
+== Notes ==
+<references />
+{{complete}}
+{{Emberdark}}

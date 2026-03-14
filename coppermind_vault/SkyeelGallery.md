@@ -1,3 +1,8 @@
+---
+source_file: SkyeelGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=350px caption="Official artwork">
 Skyeel.jpg| <small><center>by {{a|Ben McSweeney}}</center></small>

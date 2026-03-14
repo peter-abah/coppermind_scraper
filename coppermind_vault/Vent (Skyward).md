@@ -1,18 +1,15 @@
 ---
-profession: "{{cat tag|DDF pilots"
+source_file: Vent (Skyward).txt
+entity_type: character
+died: ', initial [[C-137-KJM orbital shipyard]] skirmish'
+world: Detritus
+universe: '[[Cytoverse]]'
+introduced: '[[Skyward]]'
 ---
 
-|died={{Detritus date|83}}, initial [[C-137-KJM orbital shipyard]] skirmish{{book ref|Skyward|26}}
-|world=Detritus
-|universe=[[Cytoverse]]
-|introduced=[[Skyward]]
-}}
-{{for|Vent (Scadrial)|the Final Empire era skaa}}
-Callsign **Vent** is a member of [[Nightstorm Flight]] and is the brother of [[Nedd Strong|Nedd]] and [[Nightstorm pilot seven]].{{book ref|Sky1|19}} Vent flies a blue [[Sigo]]-class figher, his flight number is six and he is wingmates with his brother.{{book ref|Sky1|26}} 
+Callsign **Vent** is a member of [[Nightstorm Flight]] and is the brother of [[Nedd Strong|Nedd]] and [[Nightstorm pilot seven]]. Vent flies a blue [[Sigo]]-class figher, his flight number is six and he is wingmates with his brother. 
 
-Both of Nedd's brothers died in a fight around a falling old shipyard. Attempting to help his brothers, Nedd followed them inside the shipyard. Despite his efforts, both of Nedd's brothers were killed.{{book ref|Sky1|26}}
+Both of Nedd's brothers died in a fight around a falling old shipyard. Attempting to help his brothers, Nedd followed them inside the shipyard. Despite his efforts, both of Nedd's brothers were killed.
 
 ## Notes
 <references />
-{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 21:47, 30 March 2019 (MST)}}
-{{Skyward}}

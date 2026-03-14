@@ -1,15 +1,13 @@
 ---
-abilities: "{{tag+|squire|Order of Windrunners"
+source_file: Rowalan.txt
+entity_type: character
+abilities: squire
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-**Rowalan** is a [[Order of Windrunners|Windrunner]] [[squire]] to [[Sigzil]] on [[Roshar]].{{book ref|sa5|56}}
+**Rowalan** is a [[Order of Windrunners|Windrunner]] [[squire]] to [[Sigzil]] on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

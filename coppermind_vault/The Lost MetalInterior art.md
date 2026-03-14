@@ -1,4 +1,7 @@
-{{InteriorArtToC|mbe2}}
+---
+source_file: The Lost MetalInterior art.txt
+entity_type: interiorarttoc
+---
 
 This is a gallery of interior art for *[[The Lost Metal]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 
@@ -15,14 +18,14 @@ The Two Seasons broadsheet.jpg | <center><small>by {{a|Ben McSweeney}}</small></
 ### Leatherbound artwork
 * Endpapers by Brian Mark Taylor
 
-==== Art gallery ====
+#### Art gallery
 * US cover by Chris McGrath
 * UK cover by Sam Green
 * Dutch cover by Dominik Broniek
 * Ironeyes portrait, Ranette portrait by Maria Dimova
 * Map of Elendel, Map of the Elendel Basin by Isaac Stewart
 
-==== Interior illustrations ====
+#### Interior illustrations
 * "All Endless Things" by Jesse Ochse
 * "Trellium" by Marie Seeberger
 * "Marasi and the Ghostbloods" by Anna Steinbauer
@@ -32,6 +35,5 @@ The Two Seasons broadsheet.jpg | <center><small>by {{a|Ben McSweeney}}</small></
 
 <gallery widths=3000px heights=300px mode="packed" caption="Leatherbound artwork">
 </gallery>
-
 
 [[Category:Interior art]]

@@ -1,24 +1,20 @@
 ---
-died: "{{Detritus date|73"
+source_file: Sousa.txt
+entity_type: character
+died: ', [[Battle of Alta]]'
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
-, [[Battle of Alta]]{{book ref|Skyward|i|1}}
-|profession={{cat tag|DDF pilots}}
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-{{quote
-| I'm not sure I'd wish this command on them, not even the ones I hated.
-| [[Ironsides]] when asked by [[Cobb]] if she wished someone else had survived{{book ref|sky1|i|1}}
-}}
+> I'm not sure I'd wish this command on them, not even the ones I hated.
+> — [[Ironsides]] when asked by [[Cobb]] if she wished someone else had survived
+
 **Sousa** is a pilot in the [[DDF]] on [[Detritus]]. It is unclear whether Sousa is a callsign or this pilot's name.
 
-Sousa fought against the [[varvax|Krell]] in the [[Battle of Alta]] and did not survive the battle, however, if they did, they would be considered a [[First Citizen]]. It is unclear which flight Sousa belonged to or how they died, however, it is possible that they were a part of [[Hope Flight]].{{book ref|Skyward|i|1}}
+Sousa fought against the [[varvax|Krell]] in the [[Battle of Alta]] and did not survive the battle, however, if they did, they would be considered a [[First Citizen]]. It is unclear which flight Sousa belonged to or how they died, however, it is possible that they were a part of [[Hope Flight]].
 
-[[Ironsides]] may have greatly disliked Sousa, however, it is unclear.{{book ref|Skyward|i|1}}
+[[Ironsides]] may have greatly disliked Sousa, however, it is unclear.
 
 ## Notes
 <references />
-{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 11:52, 28 August 2019 (UTC)}}
-{{Skyward}}

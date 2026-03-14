@@ -1,12 +1,16 @@
-{{image|card_rafo.jpg|side=right|width=250px}}
+---
+source_file: RAFO.txt
+entity_type: wob ref
+---
+
 **RAFO** is a term [[Brandon Sanderson]] uses at signings as a non-answer for prying [[17thshard.com|17th Sharders]] and others. It means "Read and Find Out." When Brandon uses this, it is neutral, and neither means one is right or one is wrong. Many things are RAFO'd because they would spoil future books.
 
-Robert Jordan popularized this term in this genre, and Brandon "inherited" it, so to speak. Brandon feels bad for simply stating "No, I won't answer.", so he has the RAFO cards made physically. Instead of saying it, he hands out the cards to the fans, and as such it has become a sort of trophy hunt for them.{{wob ref|372}}
+Robert Jordan popularized this term in this genre, and Brandon "inherited" it, so to speak. Brandon feels bad for simply stating "No, I won't answer.", so he has the RAFO cards made physically. Instead of saying it, he hands out the cards to the fans, and as such it has become a sort of trophy hunt for them.
 
-RAFO can also be used as a response to questions that are meant to be discussed by fans or ones that will never be answered.{{wob ref|10573}}
+RAFO can also be used as a response to questions that are meant to be discussed by fans or ones that will never be answered.
 
 ## Notes
 <references />
-{{real world|partial}}
+
 [[es:RAFO]]
 [[uk:RAFO]]

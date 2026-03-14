@@ -1,4 +1,7 @@
-{{InteriorArtToC|mbe1}}
+---
+source_file: Mistborn The Final EmpireInterior art.txt
+entity_type: interiorarttoc
+---
 
 This is a gallery of interior art for *[[Mistborn: The Final Empire]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 

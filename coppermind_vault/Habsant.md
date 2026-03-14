@@ -1,19 +1,18 @@
 ---
-profession: "{{tag+|ardent"
+source_file: Habsant.txt
+entity_type: character
+profession: ardent
+religion: Vorinism
+groups: '[[Devotaries|Devotary of Insight]]'
+residence: Kharbranth
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|religion={{tag|Vorinism}}
-|groups=[[Devotaries|Devotary of Insight]]
-|residence=Kharbranth
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-Brother **Habsant** is an [[ardent]] in [[Kharbranth]] on [[Roshar]].{{book ref|sa1|33}}
+Brother **Habsant** is an [[ardent]] in [[Kharbranth]] on [[Roshar]].
 
-[[Kabsal]] mentioned Habsant when attempting to recruit [[Shallan]] to the [[Devotary of Insight]]. Habsant had a tendency to stare at people, unmoving. Kabsal jokingly told [[Shallan]] that ardents are not typically "stuffy", but Habsant might in fact be stuffed.{{book ref|sa1|33}}
+[[Kabsal]] mentioned Habsant when attempting to recruit [[Shallan]] to the [[Devotary of Insight]]. Habsant had a tendency to stare at people, unmoving. Kabsal jokingly told [[Shallan]] that ardents are not typically "stuffy", but Habsant might in fact be stuffed.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:18, 7 August 2020 (UTC)}}
-{{Stormlight}}

@@ -1,27 +1,26 @@
-{{for|Dark One: Forgotten|the audio drama}}
-{{lifeform
-|sapient=Yes
-|earth=Rithmatist
-|books=[[The Rithmatist]]
-}}
-{{quote
-|"What the dusts is a Forgotten!" Joel said. <br />
+---
+source_file: Forgotten.txt
+entity_type: lifeform
+sapient: 'Yes'
+earth: Rithmatist
+books: '[[The Rithmatist]]'
+---
+
+> "What the dusts is a Forgotten!" Joel said. <br />
 "A creature of Nebrask," Fitch said. "They lead the wild chalklings."
-|Discussion between [[Joel Saxon]] and Professor [[Fitch]]{{book ref|Rithmatist|24}}
-}}
+> — Discussion between [[Joel Saxon]] and Professor [[Fitch]]
+
 **Forgotten** are unearthly beings that lead the [[Chalkling#Wild Chalklings|wild chalklings]] at the [[Tower of Nebrask]].
 
 ## Attributes and Abilities
-Unlike chalklings, which are made of chalk, the Forgotten appear to be made of charcoal and look like shadows.{{book ref|Rithmatist|16}} However, they can still be destroyed by acid.{{book ref|Rithmatist|24}} They have the ability to bind with a person and grant [[Rithmatics|Rithmatic]] powers much like a [[Shadowblaze]], though this ability was unknown to humans until a Forgotten bound itself to Inspector [[Harding]].{{book ref|Rithmatist|25}} Joel theorizes that Forgotten can also kill the person outright and take over their body and that that is what happened to [[Andrew Nalizar|Nalizar]].
+Unlike chalklings, which are made of chalk, the Forgotten appear to be made of charcoal and look like shadows. However, they can still be destroyed by acid. They have the ability to bind with a person and grant [[Rithmatics|Rithmatic]] powers much like a [[Shadowblaze]], though this ability was unknown to humans until a Forgotten bound itself to Inspector [[Harding]]. Joel theorizes that Forgotten can also kill the person outright and take over their body and that that is what happened to [[Andrew Nalizar|Nalizar]].
 
 Further separating them from chalklings, Forgotten appear to be sentient beings and are capable of successfully imitating humans whom they take over.
 
-Chalklings under a Forgotten's control can consume Rithmatists instead of just killing them. When this happens, the Rithmatists are turned into further chalklings that can then be used to attack and consume more people, with the added benefit of being able to reform after being destroyed by acid or Rithmatics.{{book ref|rithmatist|23}} However, they revert to human form if the Forgotten is killed.
+Chalklings under a Forgotten's control can consume Rithmatists instead of just killing them. When this happens, the Rithmatists are turned into further chalklings that can then be used to attack and consume more people, with the added benefit of being able to reform after being destroyed by acid or Rithmatics. However, they revert to human form if the Forgotten is killed.
 
 ## Trivia
-* Before *[[The Rithmatist]]* was taken out of the [[cosmere]], Forgotten were [[Spiritual Realm]] entities that got pulled into the [[Physical Realm]]. This was the origin of their fear of time, as the Spiritual Realm does not have linear time.{{wob ref|1619}}
+* Before *[[The Rithmatist]]* was taken out of the [[cosmere]], Forgotten were [[Spiritual Realm]] entities that got pulled into the [[Physical Realm]]. This was the origin of their fear of time, as the Spiritual Realm does not have linear time.
 
 ## Notes
 <references/>
-{{complete}}
-{{Rithmatist}}

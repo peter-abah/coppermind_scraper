@@ -1,15 +1,13 @@
 ---
-name: "Fathom"
-abilities: "{{tag+|Epic"
+source_file: Fathom (Epic).txt
+entity_type: character
+name: Fathom
+abilities: Epic
+earth: Reckoners
+books: '[[The Reckoners]]'
 ---
 
-|earth=Reckoners
-|books=[[The Reckoners]]
-}}
-{{for|Motivator#Fathom|the [[motivator]] with the same name}}
-**Fathom** is an [[Epic]]. He has the power to see every aspect of whatever or whomever he looks at. [[Dean Knighthawk|Knighthawk]] gathers a sample of his DNA to use for a [[fathom radar|surveillance related motivator]].{{book ref|lux|11}}
+**Fathom** is an [[Epic]]. He has the power to see every aspect of whatever or whomever he looks at. [[Dean Knighthawk|Knighthawk]] gathers a sample of his DNA to use for a [[fathom radar|surveillance related motivator]].
 
 ## Notes
 <references />
-{{complete}}
-{{Reckoners}}

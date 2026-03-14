@@ -1,3 +1,8 @@
+---
+source_file: Navani KholinGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=200px>
 Fervent Prayer by Antti Hakosaari.jpg | <center><small>by {{a|Antti Hakosaari}}</small></center> Burning the Justice [[glyphward]], from *[[Call to Adventure: The Stormlight Archive]]*

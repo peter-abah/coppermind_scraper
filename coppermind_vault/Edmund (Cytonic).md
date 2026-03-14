@@ -1,11 +1,12 @@
 ---
-abilities: "{{tag+|cytonics"
+source_file: Edmund (Cytonic).txt
+entity_type: character
+abilities: cytonics
+universe: '[[Cytoverse]]'
+introduced: '[[Defending Elysium]]'
 ---
 
-|universe=[[Cytoverse]]
-|introduced=[[Defending Elysium]]
-}}
-**Edmund** was a user of [[cytonics]].{{book ref|Elysium}}
+**Edmund** was a user of [[cytonics]].
 
 He captured and threatened [[Jason Write]] in an attempt to discover how Jason could presumably read minds, something thought to be impossible through the use of cytonics.
 
@@ -13,5 +14,3 @@ Edmund was a [[Varvax]] dissident. He was an outcast from [[Varvax]] civilizatio
 
 ## Notes
 <references />
-{{stub}}
-{{skyward|de}}

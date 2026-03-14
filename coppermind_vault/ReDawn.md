@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: ReDawn.txt
+entity_type: disambig
+---
 
 **ReDawn** may refer to two things related to the [[Cytoverse]]:
 * [[ReDawn (planet)]], the homeworld of the [[UrDail]]

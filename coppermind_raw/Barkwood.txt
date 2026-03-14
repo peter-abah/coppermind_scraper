@@ -1,0 +1,11 @@
+{{lifeform
+|world=ReDawn
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+'''Barkwood''' is a type of wood on [[ReDawn (planet)|ReDawn]]. [[Rinakin]] has a wide barkwood table in his study in the [[Council]] tree.{{book ref|sf2|19}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:01, 31 January 2022 (UTC)}}
+{{Skyward}}

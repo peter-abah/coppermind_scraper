@@ -1,21 +1,21 @@
 ---
-occupation: "Head maid"
-nation: "Arelon"
-residence: "Kae"
-world: "Sel"
-universe: "Cosmere"
-introduced: "Elantris (book)|Elantris"
+source_file: Meala.txt
+entity_type: character
+occupation: Head maid
+nation: Arelon
+residence: Kae
+world: Sel
+universe: '[[Cosmere]]'
+introduced: '[[Elantris (book)|Elantris]]'
 ---
 
-**Meala** is the head maid of [[Iadon]]'s palace in [[Arelon]] on [[Sel]].{{glossary ref|Elantris|M}}{{book ref|elantris|20}}
+**Meala** is the head maid of [[Iadon]]'s palace in [[Arelon]] on [[Sel]].
 
 ==Appearance and Personality==
-She is young and thin, and very polite.{{book ref|elantris|20}} Sarene thinks she looks more like an accountant than a maid.{{book ref|elantris|20}}
+She is young and thin, and very polite. Sarene thinks she looks more like an accountant than a maid.
 
 ==History==
-[[Sarene]] questioned Meala about why her room was not being cleaned regularly.{{book ref|elantris|20}} Meala told her that maids had been suddenly disappearing for no apparent reason.{{book ref|elantris|20}} This was one of several factors that made Sarene suspicious of Iadon, and ultimately led to her discovery that he was a follower of the [[Jeskeri Mysteries]] and had been ritually sacrificing the missing maids.{{book ref|Elantris|32}}
+[[Sarene]] questioned Meala about why her room was not being cleaned regularly. Meala told her that maids had been suddenly disappearing for no apparent reason. This was one of several factors that made Sarene suspicious of Iadon, and ultimately led to her discovery that he was a follower of the [[Jeskeri Mysteries]] and had been ritually sacrificing the missing maids.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 12:55, 18 April 2019 (MST)}}
-{{Elantris}}

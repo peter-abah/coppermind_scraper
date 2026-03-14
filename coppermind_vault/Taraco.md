@@ -1,17 +1,17 @@
 ---
-profession: "Bandit"
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 2"
+source_file: Taraco.txt
+entity_type: character
+profession: Bandit
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-**Taraco** was a bandit in the [[Roughs]], considered to be one of the greatest bandits of the age.{{book ref|mb4|9}}
+**Taraco** was a bandit in the [[Roughs]], considered to be one of the greatest bandits of the age.
 
-[[Waxillium Ladrian]] captured Taraco because he had robbed a cobbler a few days earlier, and Wax hoped to get a new pair of boots out of it.{{book ref|mb4|9}} It was commonly thought that Wax went after Taraco because Taraco had shot a lawkeeper in [[Faradana]] the week before. In truth, Wax did not hear of the lawkeeper's death until he had brought Taraco in to face justice.
+[[Waxillium Ladrian]] captured Taraco because he had robbed a cobbler a few days earlier, and Wax hoped to get a new pair of boots out of it. It was commonly thought that Wax went after Taraco because Taraco had shot a lawkeeper in [[Faradana]] the week before. In truth, Wax did not hear of the lawkeeper's death until he had brought Taraco in to face justice.
 
-Wax tells the truth behind his capture of Taraco to convince [[Marasi Colms]] that his heroics look different from his perspective.{{book ref|mb4|9}}
+Wax tells the truth behind his capture of Taraco to convince [[Marasi Colms]] that his heroics look different from his perspective.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 15:07, 18 March 2016 (MDT)}}
-{{Mistborn|Era 2}}

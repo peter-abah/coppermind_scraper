@@ -1,0 +1,14 @@
+{{item
+|type={{cat tag|drugs|Drug}}
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Larmic mucus''' is a substance with antiseptic properties on [[Roshar]]. It is less expensive than [[lister's oil]] or [[knobweed]] sap, but also less effective. It has a foul smell.{{book ref|sa1|17}}
+
+When [[Kaladin]] tried to acquire antiseptics for [[Bridge Four]] on the [[Shattered Plains]], the apothecary suggested larmic mucus instead of the more powerful (and more expensive) antiseptics, but a small jar of mucus still cost ten days pay for a [[bridgeman]].{{book ref|sa1|17}} Seeing the high cost of antiseptics inspired Kaladin's plan to harvest knobweed sap so that he could use some of it and sell the surplus.{{book ref|sa1|27}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 08:51, 3 June 2017 (MST)}}
+{{Stormlight}}

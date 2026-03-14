@@ -1,22 +1,22 @@
 ---
-nation: "Purelake"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Words of Radiance"
+source_file: Gu.txt
+entity_type: character
+nation: Purelake
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Words of Radiance]]'
 ---
 
-**Gu** is a flotilla guide in the [[Reshi Sea]] on [[Roshar]].{{book ref|sa2|i|3}}
+**Gu** is a flotilla guide in the [[Reshi Sea]] on [[Roshar]].
 
 ==Appearance and Personality==
-He has leathery skin, long limbs, and dark hair. He almost always maintains a relaxed posture. [[Rysn]] assumes that he is a [[Purelake]]r, despite the fact that he does not mention [[Vun Makak]].{{book ref|sa2|i|3}} He is very easygoing, and is apathetic towards punctuality and schedules, like most Purelakers.{{book ref|sa2|i|3}}{{book ref|twok|i|1}}
+He has leathery skin, long limbs, and dark hair. He almost always maintains a relaxed posture. [[Rysn]] assumes that he is a [[Purelake]]r, despite the fact that he does not mention [[Vun Makak]]. He is very easygoing, and is apathetic towards punctuality and schedules, like most Purelakers.
 
 ==Attributes and Attributes==
-Gu is able to speak [[Thaylen]] well.{{book ref|sa2|i|3}} He also speaks at least a small amount of [[Reshi]],{{book ref|sa2|i|3}} which is in the same language family as Purelake dialects.{{wob ref|3977}} He is able to skillfully navigate the waters of the Reshi Sea without hitting any dangerous underwater trees. He paddles slowly, always on one side of the boat, yet he can keep it moving straight. He believes that the Tai-na are sapient.{{book ref|sa2|i|3}}
+Gu is able to speak [[Thaylen]] well. He also speaks at least a small amount of [[Reshi]], which is in the same language family as Purelake dialects. He is able to skillfully navigate the waters of the Reshi Sea without hitting any dangerous underwater trees. He paddles slowly, always on one side of the boat, yet he can keep it moving straight. He believes that the Tai-na are sapient.
 
 ==History==
-He guided a convoy containing [[Vstim]]'s crew (including Rysn, [[Kylrm]], and [[Nlent]]) to a Reshi island, riding in Rysn's boat. He noted that the islands had been harder to find recently, as they were moving in unexpected ways. He was amused when Rysn realized that the island they were visiting was actually a massive [[greatshell]], a [[Tai-na]] known as [[Relu-na]]. He also laughed when Rysn was embarrassed after realizing that many of the island's residents were nudists. He explained to Rysn that it was too dangerous to dock boats to a Tai-na, and that crews slept on the open ocean and simply found the island in the morning.{{book ref|sa2|i|3}}
+He guided a convoy containing [[Vstim]]'s crew (including Rysn, [[Kylrm]], and [[Nlent]]) to a Reshi island, riding in Rysn's boat. He noted that the islands had been harder to find recently, as they were moving in unexpected ways. He was amused when Rysn realized that the island they were visiting was actually a massive [[greatshell]], a [[Tai-na]] known as [[Relu-na]]. He also laughed when Rysn was embarrassed after realizing that many of the island's residents were nudists. He explained to Rysn that it was too dangerous to dock boats to a Tai-na, and that crews slept on the open ocean and simply found the island in the morning.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 16:40, 16 May 2019 (MST)}}
-{{Stormlight}}

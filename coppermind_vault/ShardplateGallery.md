@@ -1,3 +1,8 @@
+---
+source_file: ShardplateGallery.txt
+entity_type: article
+---
+
 ## Official art
 <gallery mode="packed" heights=200px caption="Cover and interior art">
 Shardplate.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> [[Shallan]]'s sketches of Plate, *[[Words of Radiance]]* interior art

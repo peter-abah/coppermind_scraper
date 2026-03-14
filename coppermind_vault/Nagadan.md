@@ -1,20 +1,21 @@
-{{nation
-|world=Komashi
-|universe=[[Cosmere]]
-|books=[[Yumi and the Nightmare Painter]]
-}}
-{{update|yumi}}
+---
+source_file: Nagadan.txt
+entity_type: nation
+world: Komashi
+universe: '[[Cosmere]]'
+books: '[[Yumi and the Nightmare Painter]]'
+---
 
-**Nagadan** is the most powerful nation on [[Komashi]], established by the descendants of nomads on the outskirts of [[Torio]] in the centuries that followed the activation of the [[father machine]].{{book ref|yumi|39}}
+**Nagadan** is the most powerful nation on [[Komashi]], established by the descendants of nomads on the outskirts of [[Torio]] in the centuries that followed the activation of the [[father machine]].
 
 ## Geography
 
-Nagadan is less than fifty Rosharan miles across, and only a few miles away from where Torio was.{{book ref|yumi|34}} The nation includes a few different cities as well as some smaller towns,{{book ref|yumi|15}} connected by hion lines that open paths in the [[Shroud]].{{book ref|yumi|1}} At least some of the cities border oceans.{{book ref|yumi|30}} 
+Nagadan is less than fifty Rosharan miles across, and only a few miles away from where Torio was. The nation includes a few different cities as well as some smaller towns, connected by hion lines that open paths in the [[Shroud]]. At least some of the cities border oceans. 
 
 ## People
-The people of Nagadan look similar to the [[Jah Keved|Veden]] people, with similar features and the same dark hair, though they have paler skin than an ordinary Veden.{{book ref|yumi|1}} The "similar features" mentioned likely refer to the presence of epicanthic folds.{{wob ref|4079}}
+The people of Nagadan look similar to the [[Jah Keved|Veden]] people, with similar features and the same dark hair, though they have paler skin than an ordinary Veden. The "similar features" mentioned likely refer to the presence of epicanthic folds.
 
-Beards are rarely seen amongst their people, though it is unclear if this is purely cultural or has a genetic component.{{book ref|yumi|10}}
+Beards are rarely seen amongst their people, though it is unclear if this is purely cultural or has a genetic component.
 
 They are descended from nomads that lived at the edge of [[Torio]]. 
 
@@ -26,8 +27,6 @@ They are descended from nomads that lived at the edge of [[Torio]].
 
 ## Notes
 <references />
-{{stub}}
-{{yumi}}
 
 <!--
 10 dresses typically sleek and tight. Dresses for formal occasions similar to those worn in Torio.
@@ -52,10 +51,8 @@ They are descended from nomads that lived at the edge of [[Torio]].
 30? has oceans and a few cities are on the edges of them, big enough that they can take an entire day to cross by hion-line boat
 31? about a dozen smaller nations
 
-
 5 dramas on hion viewer (first part of drama is always a recap)
 11 hion viewer description and info on programming (re-runs) - Glass affixed to the wall. Knob turns it on, lines behind the glass. Actual viewer is some boxes on the side which manipulate the shape of the lines. Glass is to keep people from touching them. A new program every hours all day. Reruns late at night nad early morning. 
-
 
 Samday and Ashday in Culture section
 -->

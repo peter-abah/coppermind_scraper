@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Lorn.txt
+entity_type: disambig
+---
 
 **Lorn** is the name of two distinct characters in Brandon's works:
 * [[Lorn (Skyward)]], the commander of [[Surehold]]

@@ -1,0 +1,13 @@
+{{character
+|species=Kitsen
+|world=Evershore
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+{{update|sky4}}
+'''Tosura''' is a [[kitsen]] science officer on the ''[[Swims Upstream]]''.{{book ref|sky4|35}}
+
+== Notes ==
+<references />
+{{stub}}
+{{Skyward}}

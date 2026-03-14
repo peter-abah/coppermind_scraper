@@ -1,4 +1,7 @@
-{{CoverToC|legion}}
+---
+source_file: Legion Skin DeepCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[Legion: Skin Deep]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

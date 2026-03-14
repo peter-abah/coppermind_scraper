@@ -1,18 +1,17 @@
 ---
-map: "Nexus of Imagination locator.png"
-world: "Shadesmar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Nexus of Imagination.txt
+entity_type: location
+map: Nexus of Imagination locator.png
+world: Shadesmar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-{{update|sa4}}
-The **Nexus of Imagination** is a location in [[Shadesmar]]. It is bordered by the [[Sea of Souls]] and the [[Sea of Lost Lights]].{{map ref|Shadesmar}} In the [[Physical Realm]], the Nexus of Imagination corresponds to the [[Southern Depths]].{{map ref|Roshar}}
+The **Nexus of Imagination** is a location in [[Shadesmar]]. It is bordered by the [[Sea of Souls]] and the [[Sea of Lost Lights]]. In the [[Physical Realm]], the Nexus of Imagination corresponds to the [[Southern Depths]].
 
-Near the start of the [[True Desolation]], [[Voidspren]] sailing in warships appeared west of the Nexus of Imagination, near [[Marat]] or [[Tukar]] in the Physical Realm.{{book ref|sa3|102}} The Voidspren then traveled northeast and captured [[Cultivation's Perpendicularity]].
+Near the start of the [[True Desolation]], [[Voidspren]] sailing in warships appeared west of the Nexus of Imagination, near [[Marat]] or [[Tukar]] in the Physical Realm. The Voidspren then traveled northeast and captured [[Cultivation's Perpendicularity]].
 
 ## Notes
 <references />
-{{partial}}
-{{demoted|sa4}}
-{{stormlight}}
+
 [[es:Nexo de la Imaginación]]

@@ -1,0 +1,52 @@
+{{character
+|abilities={{tag|Aetherbound}}, {{tag+|worldhopping}}
+|species=
+|world=Dhatri
+|universe=[[Cosmere]]
+|introduced=[[Isles of the Emberdark]]
+}}
+{{spoilers|IotE}}
+{{update|iote}}
+'''Aditil''' is an [[aetherbound]] and the engineer of the [[Dynamic]].{{book ref|iote|22}} Her [[aether]] is dead, which is considered by Dhatrians to be terrible luck.{{book ref|iote|28}}
+
+== Appearance and Personality ==
+=== Appearance ===
+Aditil has brown skin with light tan—almost golden—undertones.{{book ref|iote|22}} She has black hair. {{book ref|iote|22}} In her right hand, the center of the palm is replaced with a transparent aether the color of the sky.{{book ref|iote|22}}
+
+== Attributes and Abilities ==
+=== Aetherbound ===
+She completed the apprenticeship required to become a full [[Aetherbound]] but at an unknown point in time, her aether broke leaving her unable to perform the normal abilities of an aetherbound. However, she is still able to talk to spores.{{book ref|iote|22}} This lets her vitalize them{{book ref|iote|22}} as well as put them to sleep.{{book ref|iote|42}}
+
+=== Engineering ===
+She is the engineer aboard the [[Dynamic]].{{book ref|iote|22}}
+
+==== Lodestar ====
+Her [[Lodestar_(technology)|lodestar]] is around ten inches wide and six inches tall.{{book ref|iote|22}} It can be pulled apart into two pieces. Hers is modern with smooth grips and felt like a controller to a game system.{{book ref|iote|22}}
+
+== History ==
+Her parents didn't want her to leave, saying she was too young even though she had completed the full training to become an [[Aetherbound]]. But after her aether bud cracked, she couldn't stand to stay on [[Dhatri]] and made a deal to work for passage off-world.{{book ref|iote|22}}
+
+=== Onboard the Dynamic ===
+When she starts working as the engineer for the dynamic, she is frequently homesick and falls down on her job.{{book ref|iote|22}}
+
+During the rescue of some [[Iriali]], she was skilled, pre-empting [[ZeetZi]]'s request and keeping the ship running at top speed {{book ref|iote|26}}. Afterwards, she commends the crew for their mutiny against [[Crow]].{{book ref|iote|28}}  
+
+She is a key part of the first plan for the Dynamic to escape from [[Dajer]], using her ability to talk to [[aether]] to put the Scadrian's engines to sleep.{{book ref|iote|42}}  
+
+She then comes up with a key part of their new escape plan using [[Nazh]] {{book ref|iote|53}} and is the one to actually set him free.{{book ref|iote|60}}
+
+== Relationships ==
+=== Starling ===
+While initially somewhat standoffish from [[Starling]], when Starling asks about Aditil's family she shows her, opening up even more when Starling gives her a ticket to [[Dhatri]].{{book ref|iote|22}}
+
+After the mutiny, she decides to stay with Starling and the Dynamic for longer before she goes home.{{book ref|iote|28}}
+
+After escaping, she commits to help Starling get her manacles off, even giving back the ticket she was given.{{book ref|iote|epilogue}}
+
+=== Family ===
+Her family with seven children of which she is the oldest.{{book ref|iote|22}} She keeps 4 photos of them all smiling with her that she looks at when homesick.{{book ref|iote|22}}
+
+== Notes ==
+<references />
+{{partial}}
+{{Emberdark}}

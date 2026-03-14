@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Shadow.txt
+entity_type: disambig
+---
 
 The term **Shadow** is used on multiple planets in the [[cosmere]]. It can refer to either:
 

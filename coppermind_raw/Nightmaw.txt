@@ -1,0 +1,39 @@
+{{lifeform
+|image=IotE ch icon fig 38.png
+|native=[[Patji (island)|Patji]]
+|type=Animal
+|world=First of the Sun
+|universe=[[Cosmere]]
+}}
+{{spoilers|IotE}}
+{{quote
+| How do you escape them? You don't draw their attention in the first place!
+| Sixth reflects on his uncle's training{{book ref|iote|16}}
+}}
+
+'''Nightmaws''' are enormous bird-like predators native to the island [[Patji (island)|Patji]] in the [[Pantheon]] on [[First of the Sun]]. A group of nightmaws is called a flock.{{book ref|iote|16}}
+
+== Appearance ==
+{{quote
+|It looked like a bird -- in the same way that a wolf looked like a lapdog.
+| [[Sixth of the Dusk]]{{book ref|iote|16}}
+}}
+Nightmaws are bipedal quadrupeds, standing on powerful back legs that bear most of their weight;{{book ref|iote|16}} they look somewhat similar to feathered dinosaurs or giant birds.{{wob ref|11633}} They have long necks and would be as tall as a tree if they stood upright, but they instead lean forward in a predatory posture. Despite their large size, the nightmaws are also very fast. A nightmaw's two clawed forelegs hanging low, tearing up the ground when they move. They have a gruesome head with a razor sharp beak that is as tall as a door. A nightmaw's skin is leathery and bumpy, like a plucked bird.{{book ref|iote|16}}
+
+== Behavior and Abilities ==
+Nightmaws are nocturnal.{{book ref|iote|10}} Many of a nightmaw's normal senses are relatively dull, as they are almost completely deaf and blind; however, their sense of smell is incredible, and they have the ability to track minds by detecting the Cognitive activity of their prey.{{book ref|iote|10}} This makes them extremely dangerous predators. They are also clever, for beasts; in fact, some think nightmaws have begun to realize that humans make use of the mind-shielding Aviar and can only be tracked by scent.{{book ref|iote|16}} Like other birds, nightmaws make nests, in which they lay their eggs.{{book ref|iote|15}}
+
+When out at night, a trapper's only options are to avoid them or die. Nightmaws' thick skin is nearly impervious to regular bladed weapons, although it is vulnerable to larger gunpowder-based weapons such as [[Vathi]]'s spear cannon.{{book ref|iote|16}} The nightmaw's skill at hunting makes it the apex predator on at least Patji, although it is uncertain if they exist on any of the other islands of the Pantheon.{{book ref|iote|12}}
+
+Nightmaws call out with a horrible screech when they detect prey or are attempting to scare their prey.{{book ref|iote|10}} Some herbivores have been known to sleep beneath [[Aviar]] nests to keep their minds hidden from the nightmaws. A nightmaw's screech can scare away the nesting Aviar, revealing the locations of the sleeping nell.{{book ref|iote|12}} A dying nightmaw may also screech in a different way, quieter but more horrible and chilling, which may call other nearby nightmaws.{{book ref|iote|16}}
+
+== History ==
+When [[Vathi]] and [[Sixth of the Dusk]] crossed Patji at night to prevent employees of the [[Northern Interests Trading Company]] from engaging the machine from the [[Ones Above]], a nightmaw came across their trail. It followed them, bursting out of the trees and surprising them.{{book ref|iote|14}} However, Vathi shot it with her spear cannon, mortally wounding it. In its death throes, its call attracted other nightmaws from across the island.{{book ref|iote|16}} Dusk and Vathi fled up the canyon to [[Patji's Eye]], pursued by several other nightmaws. Trapped in the pool, Vathi and Sixth lashed one of the blooming flowers from [[Cakoban's finger]]s to a spear and fired it from the gun. As the flowers mimic Cognitive activity, the nightmaws were distracted by the flower and followed it away, allowing Dusk and Vathi to escape.{{book ref|iote|18}}
+
+The Eelakin hoped to house nightmaws inside one of their parks in their capital city. They even built an enclosure for them, although Sixth of the Dusk told them that it was not fit to house nightmaws.{{book ref|iote|1}} There was also a nightmaw located in the [[Dakwara's island|cavern on the island]] home to the [[Dakwara]].{{book ref|iote|57}}
+
+== Notes ==
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 23:20, 17 February 2018 (MST)}}
+{{Emberdark}}
+[[es:Quijanoche]]

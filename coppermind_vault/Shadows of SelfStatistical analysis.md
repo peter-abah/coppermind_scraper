@@ -1,3 +1,8 @@
+---
+source_file: Shadows of SelfStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains some statistical analysis of ***[[Shadows of Self]]***, the second book in the [[Mistborn (series)|Wax and Wayne series]].
 
 For a full series overview see [[Mistborn/Statistical analysis]], and for other books in the series see [[The Alloy of Law/Statistical analysis]], [[The Bands of Mourning/Statistical analysis]], and [[The Lost Metal/Statistical analysis]].
@@ -189,8 +194,6 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 
 |}
 
-{{meta/done}}
-{{Mistborn|Era 2}}
 [[category: Mistborn|*e2.2e]]
 [[category: Mistborn Era 2|*2e]]
 [[category: statistics]]

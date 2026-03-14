@@ -1,11 +1,11 @@
 ---
-earth: "Legion"
-introduced: "Legion: Skin Deep"
+source_file: Glen.txt
+entity_type: character
+earth: Legion
+introduced: '[[Legion: Skin Deep]]'
 ---
 
-**Glen** is a paparazzi journalist for the *Mag*. He picked up [[Sylvia]] from her blind date with [[Stephen Leeds]] wearing a suit and an antiquated fedora. When he saw that Stephen was watching him usher Sylvia into his car, he shrugged at Stephen and tipped his hat.{{book ref|legion2|2}}
+**Glen** is a paparazzi journalist for the *Mag*. He picked up [[Sylvia]] from her blind date with [[Stephen Leeds]] wearing a suit and an antiquated fedora. When he saw that Stephen was watching him usher Sylvia into his car, he shrugged at Stephen and tipped his hat.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 01:34, 11 June 2022 (UTC)}}
-{{Legion}}

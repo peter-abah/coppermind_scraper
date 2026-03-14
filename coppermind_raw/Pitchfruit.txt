@@ -1,0 +1,12 @@
+{{food
+|taste=Crunchy and sweet
+|world=ReDawn
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+'''Pitchfruit''' is a type of fruit from [[ReDawn (planet)|ReDawn]]. [[Alanik]] compares a fruit eaten on [[Detritus]] to it, noting that both have a satisfying crush, though the fruit from Detritus has more of a brisk taste and is nowhere near as sweet as pitchfruit.{{book ref|sf2|5}}
+
+== Notes ==
+<references />
+{{complete|--[[User:Stargazer|Stargazer]] ([[User talk:Stargazer|talk]]) 03:52, 27 October 2021 (UTC)}}
+{{Skyward}}

@@ -1,56 +1,52 @@
-{{magic
-|related=[[Connection]], [[Singer]]s
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{update|sa4}}
-{{quote
-|Without the rhythms, men needed help understanding one another.
-|[[Rlain]]{{book ref|sa3|55}}
-}}
+---
+source_file: Rhythm.txt
+entity_type: magic
+related: '[[Connection]], [[Singer]]s'
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-**Rhythms** are a [[cosmere]]-wide phenomenon that manifests most clearly on [[Roshar]].{{wob ref|7414}} They're a variety of beats or melodies that change in regular ways over time.{{book ref|sa2|i|4}} They are not normally audible; [[singer]]s, humans, and [[larkin]] are the only known species able to hear the rhythms, though others exist throughout the cosmere.{{wob ref|3662}}{{book ref|sa4|i|8}}
+> Without the rhythms, men needed help understanding one another.
+> — [[Rlain]]
+
+**Rhythms** are a [[cosmere]]-wide phenomenon that manifests most clearly on [[Roshar]]. They're a variety of beats or melodies that change in regular ways over time. They are not normally audible; [[singer]]s, humans, and [[larkin]] are the only known species able to hear the rhythms, though others exist throughout the cosmere.
 
 ## Behavior
-Rhythms are ever-present, though most beings in the cosmere cannot hear them.{{wob ref|3662}} Every rhythm changes, albeit in regular ways; a rhythm can be divided into movements, which are stable enough to measure time by.{{book ref|sa2|i|4}} They're tied to emotions; a person capable of hearing the rhythms will naturally attune to one matching their mood, or try to start feeling in a specific way by attuning to a specific mood.{{book ref|sa2|i|4}} Some rhythms seem to be tied to other aspects of the world, however; the Rhythm of Winds, for example, can be used to predict [[highstorm]]s.{{book ref|sa2|i|4}}
+Rhythms are ever-present, though most beings in the cosmere cannot hear them. Every rhythm changes, albeit in regular ways; a rhythm can be divided into movements, which are stable enough to measure time by. They're tied to emotions; a person capable of hearing the rhythms will naturally attune to one matching their mood, or try to start feeling in a specific way by attuning to a specific mood. Some rhythms seem to be tied to other aspects of the world, however; the Rhythm of Winds, for example, can be used to predict [[highstorm]]s.
 
-It's unclear where precisely rhythms come from, or what makes them. They appear to be tied to planets, with each world having its own "songs".{{wob ref|13451}} [[Roshar]] seems to have particularly strong or powerful rhythms; a [[bronze]] [[Allomancer]] would be able to hear them there.{{wob ref|2031}} Each Shard also has its own rhythm and, as they Invest in a planet, their rhythm becomes part of that world.{{book ref|sa4|83}} A Shard changing Vessels will slightly alter the Rhythm of a Shard.{{book ref|sa5|18}}{{book ref|sa5|20}} Other rhythms may be tied to a [[Shard]]; there are several rhythms similar to the ones that a singer would normally hear, but with a more passionate or aggressive feeling, that are considered to be of [[Odium]].{{book ref|sa3|i|7}}{{book ref|sa4|51}} Odium, at least, also seems to be able to craft or grant rhythms for a specific person.{{book ref|sa4|41}}
+It's unclear where precisely rhythms come from, or what makes them. They appear to be tied to planets, with each world having its own "songs". [[Roshar]] seems to have particularly strong or powerful rhythms; a [[bronze]] [[Allomancer]] would be able to hear them there. Each Shard also has its own rhythm and, as they Invest in a planet, their rhythm becomes part of that world. A Shard changing Vessels will slightly alter the Rhythm of a Shard. Other rhythms may be tied to a [[Shard]]; there are several rhythms similar to the ones that a singer would normally hear, but with a more passionate or aggressive feeling, that are considered to be of [[Odium]]. Odium, at least, also seems to be able to craft or grant rhythms for a specific person.
 
-Hearing the rhythms is tied to the phenomenon of [[Connection]]; whatever the precise nature of the rhythms, they can be Connected to, which is how any being is able to hear them. A creature capable of hearing the rhythms can pick up what another person's attuned to from just a few spoken words, which is something an unconnected person wouldn't be able to do, even though the rhythms can be written down as sheet music.{{wob ref|13451}} Each rhythm carries with it an innate understanding of its meaning.{{book ref|sa4|76}}
+Hearing the rhythms is tied to the phenomenon of [[Connection]]; whatever the precise nature of the rhythms, they can be Connected to, which is how any being is able to hear them. A creature capable of hearing the rhythms can pick up what another person's attuned to from just a few spoken words, which is something an unconnected person wouldn't be able to do, even though the rhythms can be written down as sheet music. Each rhythm carries with it an innate understanding of its meaning.
 
 ## Users
-{{image|Parshendi Fighting Pair by stinkypanda.jpg|side=right|width=300px|[[Singer]]s are [[Connection|Connected]] to each other by the rhythms}}
 
 ### Singers
-{{quote
-|They could feel the rhythm, hear it. All were in tune, all were in rhythm with one another. Perfection.
-|[[Eshonai]]{{book ref|sa2|i|8}}
-}}
 
-[[Singer]]s speak to rhythms to express their feelings or to assign their words specific meaning.{{book ref|sa2|i|1}} When not paying attention, singers will attune to the rhythm that corresponds to their mood, but they can attune to another rhythm in order to fit with their message. Not all [[Singer#Forms|forms]] can hear the rhythms equally; dullforms hear them only partially, while singers in slaveform cannot hear them at all.{{book ref|sa3|55}} The rhythms Connect the singers, and the various singer songs are sung to different rhythms.{{wob ref|9937}}{{wob ref|6482}}
+> They could feel the rhythm, hear it. All were in tune, all were in rhythm with one another. Perfection.
+> — [[Eshonai]]
+
+[[Singer]]s speak to rhythms to express their feelings or to assign their words specific meaning. When not paying attention, singers will attune to the rhythm that corresponds to their mood, but they can attune to another rhythm in order to fit with their message. Not all [[Singer#Forms|forms]] can hear the rhythms equally; dullforms hear them only partially, while singers in slaveform cannot hear them at all. The rhythms Connect the singers, and the various singer songs are sung to different rhythms.
 
 ### Larkin
-{{quote
-|Chiri-Chiri did not always understand the mouth noises of the soft ones. They did not click, and there was no rhythm to them. So the sounds were sometimes just noises.
-|[[Chiri-Chiri]]{{book ref|sa4|i|8}}
-}}
 
-[[Rysn|Rysn's]] [[larkin]] [[Chiri-Chiri]] seems to be able to hear rhythms, including the Rhythm of Contentment, though whether larkin hear the same rhythms as the singers is unknown.{{book ref|sa4|i|8}}
+> Chiri-Chiri did not always understand the mouth noises of the soft ones. They did not click, and there was no rhythm to them. So the sounds were sometimes just noises.
+> — [[Chiri-Chiri]]
+
+[[Rysn|Rysn's]] [[larkin]] [[Chiri-Chiri]] seems to be able to hear rhythms, including the Rhythm of Contentment, though whether larkin hear the same rhythms as the singers is unknown.
 
 ### Others
-{{quote
-|Perhaps it was his imagination, but it seemed that sometimes [humans] responded to certain rhythms.
-|[[Rlain]]{{book ref|sa3|55}}
-}}
-Apart from singers and larkin, humans also seem to have limited capability to hear rhythms. Although [[Navani]] was able to hear them after some measure of concentration, she was also able to sing the tone of Honor as well. Humans with singer ancestry, such as [[Unkalaki]], can occasionally catch them, albeit very faintly.{{book ref|sa3|37}} A [[Feruchemy|Feruchemical]] [[Connection]] medallion would be able to interpret the rhythms, albeit not very accurately.{{wob ref|753}} [[Allomancer]]s capable of burning [[bronze]] would be able to hear them on [[Roshar]];{{wob ref|2031}} conversely, if a singer were to become a Seeker or Mistborn, they'd find bronze pulses familiar, though strange.{{wob ref|11606}}
 
-There are also other species in the [[cosmere]] capable of hearing the rhythms, but what they are is currently unknown.{{wob ref|3662}}
+> Perhaps it was his imagination, but it seemed that sometimes [humans] responded to certain rhythms.
+> — [[Rlain]]
+
+Apart from singers and larkin, humans also seem to have limited capability to hear rhythms. Although [[Navani]] was able to hear them after some measure of concentration, she was also able to sing the tone of Honor as well. Humans with singer ancestry, such as [[Unkalaki]], can occasionally catch them, albeit very faintly. A [[Feruchemy|Feruchemical]] [[Connection]] medallion would be able to interpret the rhythms, albeit not very accurately. [[Allomancer]]s capable of burning [[bronze]] would be able to hear them on [[Roshar]]; conversely, if a singer were to become a Seeker or Mistborn, they'd find bronze pulses familiar, though strange.
+
+There are also other species in the [[cosmere]] capable of hearing the rhythms, but what they are is currently unknown.
 
 ## Known Rhythms
 ### Normal Rhythms
 Most rhythms appear to be natural phenomena, unrelated to the [[Shard]]s. Singers hear these beats when not in [[Regal]] Forms.
 
-{{columns|
 * Rhythm of Amusement{{book ref|sa2|i|1}}
 * Rhythm of Annoyance{{book ref|sa2|i|4}}
 * Rhythm of Anticipation{{book ref|sa2|i|13}}
@@ -94,17 +90,13 @@ Most rhythms appear to be natural phenomena, unrelated to the [[Shard]]s. Singer
 * Rhythm of Winds - used for predicting [[highstorm]]s{{book ref|sa2|i|4}} and as an instruction to follow.{{book ref|sa4|115}} Hummed to indicate respect for a highstorm occurring.{{book ref|sa4|57}}
 * Rhythm of Wisdom - possibly metaphorical{{ref|text=The rhythm is referred to in dialogue ("they attuned Wisdom, not Betrayal, in their actions"{{book ref|sa4|73}}), but it has not been known to actually be attuned or hummed.}}
 
-}}
-
 ### Odium's Rhythms
-{{quote
-|That song! That **song**. It is death.
-|[[Rlain]]{{book ref|sa2|81}}
-}}
 
-These are the rhythms that those with [[Connection]] to [[Odium]], such as the [[Fused]], Regals, and [[Enlightened]] [[Knights Radiant|Radiants]] can attune to.{{book ref|sa3|i|12}}{{book ref|sa5|30}} In most cases, being able to hear the new rhythms precludes one from hearing the old ones. These Rhythms of Power sound and feel different to the more well known rhythms of similar emotions.{{wob ref|1682}} In many cases, though, they express similar things, albeit in a more violent and hostile manner.{{book ref|sa2|i|11}}
+> That song! That **song**. It is death.
+> — [[Rlain]]
 
-{{columns|
+These are the rhythms that those with [[Connection]] to [[Odium]], such as the [[Fused]], Regals, and [[Enlightened]] [[Knights Radiant|Radiants]] can attune to. In most cases, being able to hear the new rhythms precludes one from hearing the old ones. These Rhythms of Power sound and feel different to the more well known rhythms of similar emotions. In many cases, though, they express similar things, albeit in a more violent and hostile manner.
+
 * Rhythm of Abashment{{book ref|sa3|i|12}}
 * Rhythm of Agony{{book ref|sa3|120}} - counterpart to Anxiety{{book ref|sa4|14}}
 * Rhythm of Command - a more powerful version of Appreciation{{book ref|sa3|i|3}}
@@ -126,29 +118,26 @@ These are the rhythms that those with [[Connection]] to [[Odium]], such as the [
 * Rhythm of Tribute{{book ref|sa4|51}}
 * Rhythm of Withdrawal - one of the few calm Odium rhythms{{book ref|sa3|i|12}}; counterpart to Resignation{{rpg ref|slwg|79}}
 * Song of Prayer - a rhythm used to draw [[Voidlight]] into the [[Physical Realm]]{{book ref|sa4|67}}
-}}
 
 ### The Pure Tones and Shardic Rhythms
-Each of the [[Shard]]s Invested in Roshar has its own note, called a pure tone, which can be heard and sung by any [[singer]], and even humans, if taught to do so.{{book ref|sa4|68}}{{book ref|sa4|76}} The [[Light]] corresponding to each of these Shards both react to and produce the corresponding pure tone, and closer hearing reveals a faint rhythm unique to each Light.{{book ref|sa4|76}} A slight alteration of the pure tone combined with precise alignment of the Rhythms allows for harmonization between pairs of tone and rhythms. This harmonization is essential in creation of hybrid [[Lights]].{{book ref|sa4|76}}{{book ref|sa4|110}}
+Each of the [[Shard]]s Invested in Roshar has its own note, called a pure tone, which can be heard and sung by any [[singer]], and even humans, if taught to do so. The [[Light]] corresponding to each of these Shards both react to and produce the corresponding pure tone, and closer hearing reveals a faint rhythm unique to each Light. A slight alteration of the pure tone combined with precise alignment of the Rhythms allows for harmonization between pairs of tone and rhythms. This harmonization is essential in creation of hybrid [[Lights]].
 
-* Rhythm of [[Honor]] – a vibrant beat, stately and controlled.{{book ref|sa4|76}}
-* Rhythm of [[Cultivation]] – stark and staccato, building up.{{book ref|sa4|76}} When used in the presence of plants, lifespren will transfer Stormlight from gems into the growing plants.{{rpg ref|slwg|6}}
-* Rhythm of [[Odium]] – violent, chaotic rhythm that becomes more logical over time.{{book ref|sa4|76}}
-* Rhythm of War – a mix of Honor's and Odium's rhythms; a combination of chaotic notes and steady pulse.{{book ref|sa4|76}} Following the formation of [[Retribution]], the [[Well of Control]] vibrates with this rhythm.{{book ref|sa5|146}}
-* Rhythm of the Tower – a mix of Honor and Cultivation's rhythms; a mix of boundless energy and structure.{{book ref|sa4|110}}
-* A mix of Odium and Cultivation's rhythms; attuned once by [[Venli]] but as of yet unnamed.{{book ref|sa4|83}}
-* The pulsing which comes from the [[Well of Ascension]] is a pure tone of [[Scadrial]].{{wob ref|14586}}
+* Rhythm of [[Honor]] – a vibrant beat, stately and controlled.
+* Rhythm of [[Cultivation]] – stark and staccato, building up. When used in the presence of plants, lifespren will transfer Stormlight from gems into the growing plants.
+* Rhythm of [[Odium]] – violent, chaotic rhythm that becomes more logical over time.
+* Rhythm of War – a mix of Honor's and Odium's rhythms; a combination of chaotic notes and steady pulse. Following the formation of [[Retribution]], the [[Well of Control]] vibrates with this rhythm.
+* Rhythm of the Tower – a mix of Honor and Cultivation's rhythms; a mix of boundless energy and structure.
+* A mix of Odium and Cultivation's rhythms; attuned once by [[Venli]] but as of yet unnamed.
+* The pulsing which comes from the [[Well of Ascension]] is a pure tone of [[Scadrial]].
 
 ## Trivia
-* The rhythms, and the connections they afford to the singers, were based on the works of [[wikipedia:Carl Jung|Carl Jung]].{{wob ref|4051}}
-* Brandon based his mental image of speaking to rhythms on Hindu chants.{{wob ref|1646}}
-* Striking a chime or bell made of a [[God Metal]] would not necessarily produce a similar note to that God Metal's corresponding Rhythm.{{wob ref|15275}}
-* Brandon once joked that if a singer were to attune the rhythm of [[wikipedia:Barry White|Barry White]], they'd immediately enter [[mateform]].{{wob ref|6333}}
-* In her last moments as a [[Cognitive Shadow]], [[Eshonai]] believed that nobody could understand the Rhythms without seeing the entire continent first.{{book ref|sa4|117}}
+* The rhythms, and the connections they afford to the singers, were based on the works of [[wikipedia:Carl Jung|Carl Jung]].
+* Brandon based his mental image of speaking to rhythms on Hindu chants.
+* Striking a chime or bell made of a [[God Metal]] would not necessarily produce a similar note to that God Metal's corresponding Rhythm.
+* Brandon once joked that if a singer were to attune the rhythm of [[wikipedia:Barry White|Barry White]], they'd immediately enter [[mateform]].
+* In her last moments as a [[Cognitive Shadow]], [[Eshonai]] believed that nobody could understand the Rhythms without seeing the entire continent first.
 
 ## Notes
 <references />
-{{partial}}
-{{stormlight}}
-{{cosmere}}
+
 [[es:Ritmo]]

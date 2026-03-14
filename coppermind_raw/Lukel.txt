@@ -1,0 +1,85 @@
+{{character
+|image=Lukel by King Oreo.png
+|family=[[Teo Royal Family]]
+|parents=[[Daora]], [[Kiin]]
+|spouse=[[Jalla]]
+|siblings=[[Adien]], [[Kaise]], [[Daorn]]
+|nation=Arelon
+|world=Sel
+|universe=[[Cosmere]]
+|introduced=[[Elantris (book)|Elantris]]
+}}
+'''Lukel''' is an [[Arelene]] merchant from [[Sel]]. He is [[Kiin]]´s stepson.
+
+== Appearance and Personality ==
+{{image|Kiin family.jpg|side=right|width=250px|With his half-siblings}}
+Lukel is of average Arelene height with a lean build and a strikingly handsome hawkish face. His hair is parted in the center and flopped down on either side of his face.{{book ref|Elantris|5}}  He likes to wear customarily fashionable outfits, like a gold-embroidered blue vest and tan trousers.{{book ref|Elantris|32}}
+
+He has a good and loving relationship with his family.{{book ref|Elantris|5}} Lukel likes to quip and constantly teases his family and friends.{{book ref|Elantris|8}}
+
+Lukel is a very good merchant; when he closes a good deal, he becomes proud, jovial and makes even more jokes.{{book ref|Elantris|26}}
+
+== Attributes and Abilities ==
+He is a remarkably good merchant; one of the most successful ones in the city which grants him open invitation to the court.{{book ref|Elantris|8}}
+
+== History ==
+Lukel is [[Daora]]´s son from a previous marriage. He and his full brother [[Adien]] were adopted by Kiin who takes full parental responsibility.{{book ref|Elantris|5}} 
+
+He studied at [[Svordish University]], where he met his future wife [[Jalla]].{{book ref|Elantris|5}} 
+
+He was part of Raoden’s group who opposed the King and his policies. After Raoden’s supposed death, he continued to participate in the meetings, but was disappointed to see a low participation rate . He shared this information with Sarene, who asked to join the meetings. He helped her have a seat in the meetings where he participated and suggested caution. He agreed with moving forward with planning.{{book ref|Elantris|11}}
+
+Lukel decided to see [[Sarene]]´s fencing lesson to the women of the court. As always, he teased her, but was an encouraging support for her.{{book ref|Elantris|17}} 
+
+As part of the plans for changing [[Iadon]]’s policies, he follows closely the king’s income figures. He is the one to confirm that it was due to his earnings in Teod and some taxes that he barely made it. The plan was to have both countries allied and resist the [[gyorn]] named [[Hrathen]] who wanted to convert all Arelon´s people to [[Shu-Dereth]].{{book ref|Elantris|26}}
+
+He continues with the group’s planning even after Iadon’s death, Sarene’s illness and unexplained recuperation, and the appointment of Telrii as the new king.{{book ref|Elantris|38}}
+
+When Raoden came back into Arelon, he immediately kneeled and recognized him as the legitimate king and accepted the plan to do the same in public.{{book ref|Elantris|53}}{{book ref|Elantris|56}}
+
+Daora and the children huddled in the basement under Lukel’s care when Dilaf first attacked.{{book ref|Elantris|59}} They were later herded with the rest of the Arelenes from Kae into Elantris to be burned to death. At first he didn’t resist, hugging his family and knowing the were being taken to their death.{{book ref|Elantris|60}}  
+
+As [[Shuden]] started his dance to fight, he took the leg of a table and hit his foe. He managed to fight and stay alive by running and hiding much. His aid came from [[Sarene]]´s fencing students. Still after some time, one of the soldiers hit a long gash on his thigh and didn’t bother to finish him off. Jalla pulled him in with the other captives and tried to stop the blood. Lukel was feeling hopeless when Raoden managed to restore Elantris. As soon as he noticed and realized it was true, he fainted.{{book ref|Elantris|61}} He was healed by Raoden after the fight ended.{{book ref|Elantris|62}}  
+
+In this fight, the regular guy surrounded by mages, heroes, and politicians gets to be a bit of a hero himself.{{wob ref|2210}}
+
+== Relationships ==
+=== Kiin ===
+[[Kiin]] is Lukel’s stepfather. Although they aren’t related through blood, Lukel says that Kiin is still his father and still responsible for him. Lukel also has a close relationship with his siblings, both from his biological father and Kiin.
+=== Raoden ===
+He's good friends with [[Raoden]], and considered him his best friend. Upon becoming Elantrian, Raoden lamented the fact he wouldn't get to know Lukel's wife or children.{{book ref|Elantris|4}}
+
+On the other side, Lukel referred to Raoden as “The greatest man I have ever known.”{{book ref|Elantris|8}}
+
+=== Sarene ===
+Lukel and Sarene become fond of each other fast. He enjoys teasing her including talking about her painting talents. {{book ref|Elantris|8}}
+He was one of the first to explain politics in [[Arelon]] to [[Sarene]]; for example how lands were taken and servants were very close to becoming property or how [[Iadon]] got the throne. He got her into the meeting with Raoden’s most loyal followers. {{book ref|Elantris|8}}
+
+=== Jalla ===
+He met his Svordish wife [[Jalla]] at school and married her a month before Sarene’s arrival to Arelon.{{book ref|Elantris|5}}
+She is a  fierce bargainer and helps Lukel with his trades. He does acknowledge her as brilliant and beautiful.{{book ref|Elantris|8}}
+He asked her to bargain when they were sent to Elantris claiming her Svordish blood, but she refused to leave them behind.{{book ref|Elantris|60}}
+
+== Quotes ==
+
+{{quote
+|Cousin, what did we ever do without you? Life was so boring before you decided to sail over and mess it all up for us.
+|Lukel to Sarene on her yelling to Iadon{{book ref|Elantris|29}}
+}}
+
+{{quote
+|You know, you could have left a scar. I had to go through an awful lot to get that wound—you should have seen how courageous I was. My grandchildren are going to be disappointed that I don’t have any scars to show them.
+|Lukel to Raoden after he healed his leg wound{{book ref|Elantris|62}}
+}}
+
+== Trivia ==
+* Lukel doesn't really have much part in the plot, but he's always there to throw in a nice quip or two.{{wob ref|2089}}
+
+* Lukel isn't there simply to entertain the reader, he's there to show a different side of human reaction.{{wob ref|2227}}
+
+== Notes ==
+<references /><!-- 4, 5, 8, 11, 13, 14, 17, 20, 25, 26, 29, 32, 35, 38, 47, 53, 56, 58-63 -->
+{{partial}}
+{{Elantris}}
+[[category: viewpoint characters]]
+[[es:Lukel]]

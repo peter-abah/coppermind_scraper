@@ -1,0 +1,17 @@
+{{character
+|relatives=Highprince [[Hatham]]
+|titles=Highlord
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{for|Rine|the [[Fused]] with the same given name|pre=This article contains information about the Alethi highlord|post=For the Alethi highprince, see [[Hatham]].}}
+Highlord '''Rine Hatham''' is a [[lighteyes]] living in [[Alethkar]] on [[Roshar]]. He is presumably related to Highprince [[Hatham]].{{book ref|sa4|prologue}}
+
+King [[Gavilar Kholin]] promised Rine that he would have an audience during his [[Assassination of Gavilar|feast]] to discuss a border dispute involving some misdrawn maps, but Gavilar was busy and did not make time to meet with him before it was too late.{{book ref|sa4|prologue}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 07:35, 2 June 2022 (UTC)}}
+{{Stormlight}}

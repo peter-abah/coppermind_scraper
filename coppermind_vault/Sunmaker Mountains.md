@@ -1,18 +1,18 @@
-{{geography
-|map=Sunmaker Mountains.png
-|type={{cat tag|Mountains}}
-|region=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-The **Sunmaker Mountains** are a mountain range in [[Alethkar]].{{map ref|Alethkar}} The range cuts across central Alethkar, adjacent to the princedoms of [[Kholin princedom|Kholin]], [[Ruthar princedom|Ruthar]], [[Thanadal princedom|Thanadal]] and [[Hatham princedom|Hatham]].{{map ref|Alethkar}} They are named after the [[Sunmaker]], an Alethi king that united the highprinces and helped to overthrow the [[Hierocracy]].{{book ref|sa1|24}}
+---
+source_file: Sunmaker Mountains.txt
+entity_type: geography
+map: Sunmaker Mountains.png
+region: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-In the [[Cognitive Realm]], the reflection of the Sunmaker Mountains is a body of water called the [[Salavashi Trench]].{{map ref|Sea of Lost Lights}} After the occupation of Alethkar, Alethi resistance fighters banded together and fought the Fused occupiers in the Sunmaker Mountains.{{rpg ref|slwg|151}}
+The **Sunmaker Mountains** are a mountain range in [[Alethkar]]. The range cuts across central Alethkar, adjacent to the princedoms of [[Kholin princedom|Kholin]], [[Ruthar princedom|Ruthar]], [[Thanadal princedom|Thanadal]] and [[Hatham princedom|Hatham]]. They are named after the [[Sunmaker]], an Alethi king that united the highprinces and helped to overthrow the [[Hierocracy]].
 
-It is possible that some of the peaks in the Sunmaker Mountains are above the top of the [[highstorm]]s.{{book ref|sa3|60}} [[Koron]] accents come from a place near the Sunmaker Mountains, in central Alethkar.{{book ref|sa3|16}}
+In the [[Cognitive Realm]], the reflection of the Sunmaker Mountains is a body of water called the [[Salavashi Trench]]. After the occupation of Alethkar, Alethi resistance fighters banded together and fought the Fused occupiers in the Sunmaker Mountains.
+
+It is possible that some of the peaks in the Sunmaker Mountains are above the top of the [[highstorm]]s. [[Koron]] accents come from a place near the Sunmaker Mountains, in central Alethkar.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 00:35, 31 March 2019 (MST)}}
-{{Stormlight}}

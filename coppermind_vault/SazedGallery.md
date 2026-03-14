@@ -1,3 +1,8 @@
+---
+source_file: SazedGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Sazed.png | <center><small>by [[Ben McSweeney]]</small></center> From the *[[Mistborn Adventure Game]]*

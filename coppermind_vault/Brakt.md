@@ -1,14 +1,13 @@
 ---
-profession: "Patent official"
-nation: "Thaylen"
-world: "Roshar"
-universe: "Cosmere"
+source_file: Brakt.txt
+entity_type: character
+profession: Patent official
+nation: Thaylen
+world: Roshar
+universe: '[[Cosmere]]'
 ---
 
-{{update|sa5}}
-**Brakt** is a [[Thaylen]] patent official on [[Roshar]].{{book ref|sa5|i|15}}
+**Brakt** is a [[Thaylen]] patent official on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

@@ -1,0 +1,62 @@
+{{event 
+|image=Harmony (Connor Chamberlain).jpg
+|participants=[[Sazed]]
+|effects=Remaking of [[Scadrial]]
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn (series)]]
+}}
+The '''Catacendre''', or '''Final Ascension''', also known as the '''Ice Death''' to the [[Southern Scadrian| Southern Scadrians]],{{book ref|mb6|22}} is a major event on [[Scadrial]] and in the [[cosmere]] as a whole. It marked the merging of [[Ruin]] and [[Preservation]] into a single [[Shard]], [[Harmony]], and the return of Scadrial to a state similar to before the Lord Ruler's Ascension.
+
+== Lead-up ==
+Scadrial was created by Ruin and Preservation, modeled after the non-fain aspects of Yolen.{{au ref|scadrial}} The planet was highly hospitable with a large amount of fauna and flora diversity.{{cite}} 
+The Terris people prophesied of the [[Hero of Ages]], who would facilitate the Catacendre and save the world from Ruin.
+
+=== The Age of Ash ===
+Upon his brief Ascension, Rashek, using the Well of Ascension, moved Scadrial closer to the sun, increasing heat in order to burn away the mist. In order to cool it down from the increased heat, he caused various [[Ashmounts]] across the planet to release large amounts of ash, filling the air and blocking out much of the light and heat.{{epigraph ref|mb3|4}} He also modified human biology to be capable of effectively surviving in the world.{{book ref|mb3|82}} Geography was also heavily modified, with mountains being created and flattened, and the crust being shifted.{{wob ref|8042}} All of this together made the world highly inhospitable and many animals went extinct.{{book ref|mb3|82}}
+
+Rashek would lead an empire covering most of the still-inhabited world for a thousand years, waiting for the Well of Ascension to fill once more so he could return the planet back to its former state.{{msh ref|1|2}} However, he was defeated by a rebellion in {{date|1022|fe}}, around a year before the Well would have been refilled.{{msh ref|1|2}}{{book ref|mb1|38}} Once the power refilled, [[Vin]] was drawn to the Well and, manipulated by [[Ruin]] her whole life and made to believe that releasing the power within it was the best thing for the world, did so. This action released the Shard [[Ruin]] from his prison.
+
+=== Ruin's Freedom ===
+With Ruin released upon the world and [[Preservation]]'s [[Shard#Vessel|Vessel]] [[Leras]] weakening day-by-day, an endless fall of ash, intensifying earthquakes, and erupting Ashmounts threatened the very existence of [[Scadrial]] and its people.{{epigraph ref|mb3|48}}
+
+After his final conversation with [[Elend]], Leras finally died, leaving [[Preservation]] without a Vessel.{{book ref|mb3|55}}{{epigraph ref|mb3|56}} It would have quickly been absorbed by Vin, who was specially attuned to Preservation's power, except for the fact that she was still wearing her [[Vin's earring|earring]], which was [[Hemalurgy|Hemalurgically charged]], acting as a repulsive factor.{{epigraph ref|mb3|79}}{{epigraph ref|mb3|epilogue}} The [[Cognitive Shadow]] of [[Kelsier]] was able to partially absorb the power of Preservation, helping to delay Ruin's destruction of the world and preventing Ruin from Splintering the former Shard after he finished killing [[Leras]]. However Kelsier could not effectively wield its power due to the fact that his Connection to the power was artificial, made by the [[Ire's orb]].{{msh ref|6|4}} 
+
+During Vin's final battle with all of Ruin's [[Feruchemy|Feruchemically enhanced]] [[Steel Inquisitors]] above [[Kredik Shaw]] in the abandoned [[Luthadel]], [[Marsh]] tore out Vin's earring, with Kelsier using all of his strength to distract Ruin and help push Marsh's last vestige of Humanity to rebel. As he was both a [[Cognitive Shadow]] and well-[[Connection|Connected]] to Ruin, Kelsier could not use the entirety of Preservation's power. Therefore he relinquished the Shard to Vin after the spike was removed.{{msh ref|6|4}}{{msh ref|6|7}} Her body broken under the assault, Vin finally drew in the full power of Preservation. She obliterated all of the Inquisitors -- save for Marsh -- and flattened Kredik Shaw with a single, immensely powerful Push. Then she fully Ascended.{{book ref|mb3|73}} 
+
+Ruin initially allowed Vin, who was now Preservation, to flail about with her newfound power, knowing she would make mistakes. By clearing the air of ash, she allowed the too-near sun to bake the world in its deadly heat. Rotating the planet into night to protect people from the sun's rays, she caused a massive tsunami, wiping out the coastline. As she reached to stop the tsunami, realizing she must be more subtle, Ruin stepped in to block her, taunting her failures. However, Preservation soon realized the two were at an impasse, as their abilities were too evenly matched.{{book ref|mb3|76}} This was because a part of Ruin's "body", his connection to the physical world in the form of [[atium]], had been hidden away by the [[Lord Ruler]] and the [[kandra]]. It was hidden in the secret [[kandra Homeland]] adjacent to the [[Pits of Hathsin]], kept secret in the [[Trustwarren]], hidden from Ruin's senses. But the two were still able to easily influence those who wielded their [[Investiture]]: [[Allomancy]] and Hemalurgy, without being easily countered by the other. This allowed Ruin to discover the secret cache by taking control of [[KanPaar]] following his coup of the [[First Generation]] and breaking of the [[First Contract]] and the [[Resolution]]. However, most of the kandra remained loyal when Ruin began to take hold and carried out the Resolution, removing their [[Blessing]]s and sacrificing their sentience.{{book ref|mb3|75}}{{book ref|mb3|79}}{{epigraph ref|mb3|80}}
+
+Ruin sent his massive [[koloss]] army to attack the Pits, but Preservation was able to reach Elend, direct him to the Pits, and help him realize the truth behind the [[Mistfallen]] battalion: they were [[Seer]]s, [[Misting]]s able to burn atium. Thus began the [[Battle of Hathsin]]. Vin as Preservation watched as Elend and most of his men were slaughtered, holding off the koloss army, as they burned away the remaining atium in their sacrifice. This caused Ruin a terrible wound and caused him to lose his temper, his biggest plan frustrated and biggest advantage destroyed. With Elend dead, Vin had nothing left to live for and assaulted Ruin with all of her power, knowing Ruin's counterstroke would kill both of their Vessels. She and [[Ati]] fell dead near Elend, outside the Pits, as [[Sazed]] watched, leaving the Shards of both Ruin and Preservation vacant and the remaining, uncontrolled koloss to rampage madly among themselves.{{book ref|mb3|81}}
+
+== The Final Ascension ==
+After Ati and Vin had perished, both Ruin and Preservation were left without their Vessels. Sazed, grieving over the bodies of both Elend and Vin -- the latter of whom he assumed would be their savior -- noticed the black and white mists emanating from the bodies of the previous Vessels. With a sudden realization, he understood that he was the one who fit the prophecies of the [[Hero of Ages]] and absorbed the power of the two Shards. The two merged together under a single Vessel and became known as [[Harmony]], and with their power Sazed set about fixing the world.{{book ref|mb3|82}}{{book ref|mb5|7}}
+
+== Repercussions ==
+The primary repercussion of the Final Ascension was the reforming of Scadrial. The two Shards, working in harmony together, were able to reform Scadrial back to a nearly identical world as it was before the [[Ascension of the Lord Ruler]]. Sazed had the ability to do this better than most, because of his duties as a [[Keeper]] and thus the knowledge stored in his [[metalmind]]s, which he tapped as he drew in the power of Harmony. The religions he had studied and rejected due to inconsistencies each held some truths about the past world, including cartography, geology, astronomy, anatomy, zoology, and artwork depicting the world's beauty.{{book ref|mb3|82}} With the power of Harmony he was also able to access the imprints of these features that were left in the Spiritual Realm where his metalminds were not enough.{{wob ref|15277}} The main exception was the region of [[Elendel Basin]], which replaced the area where Hathsin once was and was designed to be a fertile cradle for civilization's renewal.{{book ref|mb5|7}}
+
+In addition to correcting the position of the planet and reforming the landmasses, he returned the various lifeforms which had been lost and restored mankind's physiology to how it had been, before they had needed to survive ashfalls and had been transformed by [[Rashek]] into altered [[skaa]] and [[noble|nobility]]. He moved all of the survivors, who had moved underground for protection, to the new location of Elendel Basin, and left behind the [[Words of Founding]], books chronicling the events leading up to the Catacendre to be remembered by the population as well as a collection retaining the complete knowledge that had been collected by the Keepers.{{book ref|mb3|82}}{{book ref|mb3|epilogue}}
+
+At Kelsier's behest, Sazed endowed [[Spook]] with the abilities of a moderately powerful [[Allomancy|Mistborn]]. Unable to restore to life those that had passed on, he left the restored bodies of Vin and Elend for the survivors to honor. He also left Spook a cryptic message suggesting that there were two Allomantic metals that were yet to be discovered.{{book ref|mb3|epilogue}} In the centuries that passed, an additional four metals, [[nicrosil]], [[chromium]], [[cadmium]], and [[bendalloy]], were found to have [[Allomantic]] and [[Feruchemical]] attributes.
+
+== Trivia ==
+* 'Cata' is a common Greek prefix which roughly translates to 'down' or 'reversal'. 'Cendre' is a French word for cinder or ash. Thus Catacendre can roughly translate both to an ashfall and/or the undoing of ash. Both meanings fit rather well for the events of the Catacendre, and it was later confirmed by Brandon to mean "the end of the ash".{{wob ref|1273}}
+
+== See Also ==
+* [[Scadrial#History]]
+* [[Southern Scadrian#History]]
+
+== Notes ==
+{{history
+|title=History of [[Scadrial]]
+|prev=[[Battle of Hathsin]]
+|next=Remaking of [[Scadrial]]
+}}
+{{history
+|prev=Death of [[Ati]] and [[Vin]]
+|next=Remaking of [[Scadrial]]
+}}
+<references />
+{{partial}}
+{{Mistborn}}
+{{cosmere}}
+[[es:Catacendro]]

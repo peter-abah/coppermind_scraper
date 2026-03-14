@@ -1,3 +1,8 @@
+---
+source_file: TanavastGallery.txt
+entity_type: article
+---
+
 == Official artwork==
 <gallery mode="packed" heights=300px caption="Official artwork">
 Honor Endsheet.jpeg | <center><small>by {{a|Donato Giancola}}</small></center> On one of the endsheets of *[[Wind and Truth]]*

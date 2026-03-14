@@ -1,14 +1,16 @@
-{{noble house|name=Haught
-|era=[[Final Empire]]
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[The Final Empire]]
-}}
+---
+source_file: House Haught.txt
+entity_type: noble house
+name: Haught
+era: '[[Final Empire]]'
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[The Final Empire]]'
+---
+
 **House Haught** is a noble house on [[Scadrial]] during the [[Final Empire]].
 
-It is one of the ten Great Houses of [[Luthadel]], and was the eighth most powerful just before the [[skaa rebellion]].{{book ref|mb1|9}}
+It is one of the ten Great Houses of [[Luthadel]], and was the eighth most powerful just before the [[skaa rebellion]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:13, 17 September 2018 (MST)}}
-{{Mistborn|Era 1}}

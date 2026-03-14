@@ -1,44 +1,44 @@
-{{nation
-|map=SK Natanatan locator.png
-|capital=[[Stormseat]]{{book ref|sa2|60}}
-|ethnicity={{cat tag|Natan}}
-|era=Heraldic Epochs
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{update|sa5}}
-**Natanatan** was one of the [[Silver Kingdoms]] on [[Roshar]] during the [[Heraldic Epochs]].{{map ref|Silver Kingdoms}}
+---
+source_file: Natanatan.txt
+entity_type: nation
+map: SK Natanatan locator.png
+capital: '[[Stormseat]]'
+era: Heraldic Epochs
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+**Natanatan** was one of the [[Silver Kingdoms]] on [[Roshar]] during the [[Heraldic Epochs]].
 
 ==Geography==
 ===Silver Kingdom===
-Natanatan encompassed the southeast corner of the Rosharan continent. It bordered [[Alethela]] to the north, with the border running through a prominent mountain range to the [[Sea of Spears]]. It bordered [[Thalath]] to the west, and had a long coastline to the south and east.{{map ref|Silver Kingdoms}} The capital was the city of [[Stormseat]],{{book ref|sa2|60}} which contained an [[Oathgate]].{{book ref|sa2|83}}
+Natanatan encompassed the southeast corner of the Rosharan continent. It bordered [[Alethela]] to the north, with the border running through a prominent mountain range to the [[Sea of Spears]]. It bordered [[Thalath]] to the west, and had a long coastline to the south and east. The capital was the city of [[Stormseat]], which contained an [[Oathgate]].
 ===Modern Roshar===
-In current-day Roshar, the land that formerly comprised Natanatan now includes the [[Unclaimed Hills]], the [[Shattered Plains]], the [[Eastern Crownlands]] of [[Alethkar]], and the eastern [[Frostlands]].{{map ref|Silver Kingdoms}}{{map ref|Roshar}}
-The name "Natanatan" is still commonly used to describe the former nation's lands, which remain largely unexplored by both humans and [[listener]]s.{{book ref|sa1|45}} A few settlements remain; the ruins of Stormseat were repurposed as Narak by listeners, the city-state of [[New Natanan]] is the last remnant of the former kingdom,{{book ref|sa3|96}} and [[Dawn's Shadow]] and The [[Shallow Crypts]] lie on the coast.{{map ref|Roshar}} Native Natans also live scattered throughout their former nation.{{book ref|sa1|36}}
+In current-day Roshar, the land that formerly comprised Natanatan now includes the [[Unclaimed Hills]], the [[Shattered Plains]], the [[Eastern Crownlands]] of [[Alethkar]], and the eastern [[Frostlands]].
+The name "Natanatan" is still commonly used to describe the former nation's lands, which remain largely unexplored by both humans and [[listener]]s. A few settlements remain; the ruins of Stormseat were repurposed as Narak by listeners, the city-state of [[New Natanan]] is the last remnant of the former kingdom, and [[Dawn's Shadow]] and The [[Shallow Crypts]] lie on the coast. Native Natans also live scattered throughout their former nation.
 
-Natanatan's former territory is generally thought of as an "empty wasteland"{{book ref|sa3|67}} with many forests and jungles.{{book ref|sa2|i|4}} [[Gavilar]] and [[Eshonai]] each recall expeditions into the Unclaimed Hills in their youth.{{book ref|sa1|36}}{{book ref|sa2|i|4}} The strength of the highstorms makes sailing the east coast of Natanatan in the [[Ocean of Origins]] extremely dangerous,{{book ref|sa1|16}} although not unheard of.{{book ref|sa3|105}}
+Natanatan's former territory is generally thought of as an "empty wasteland" with many forests and jungles. [[Gavilar]] and [[Eshonai]] each recall expeditions into the Unclaimed Hills in their youth. The strength of the highstorms makes sailing the east coast of Natanatan in the [[Ocean of Origins]] extremely dangerous, although not unheard of.
 
 ==History==
-As one of the Silver Kingdoms, Natanatan played a prominent role in the history of Roshar, but many of the details about it have been lost.{{book ref|sa1|33}} Natanatan was the last of the Silver Kingdoms to be established, and its Oathgate the tenth to be built.{{book ref|sa5|60}} One of [[Dalinar]]'s first visions, in which he fights off [[Re-Shephir]]'s [[Midnight Essence]] alongside the [[Knights Radiant]], takes place in Natanatan during the Eighth Epoch.{{book ref|sa1|19}}
+As one of the Silver Kingdoms, Natanatan played a prominent role in the history of Roshar, but many of the details about it have been lost. Natanatan was the last of the Silver Kingdoms to be established, and its Oathgate the tenth to be built. One of [[Dalinar]]'s first visions, in which he fights off [[Re-Shephir]]'s [[Midnight Essence]] alongside the [[Knights Radiant]], takes place in Natanatan during the Eighth Epoch.
 
-It is thought that Stormseat was destroyed during the [[Last Desolation]] (Aharietiam), thousands of years ago.{{book ref|sa2|60}} Vorin tradition holds that the nation of Natanatan persisted despite the loss of its capital and later allied with [[Thaylenah]], [[Alethkar]], [[Jah Keved]], and [[Kharbranth]] as the "five Vorin kingdoms" after the [[Day of Recreance]].{{book ref|sa1|8}} Natanatan was presumably still part of this coalition during the [[Hierocracy]] and the [[War of Loss]].{{book ref|sa3|59}} Despite this alliance, the kingdom fell several hundred years ago{{book ref|sa1|19}} under unknown circumstances.
+It is thought that Stormseat was destroyed during the [[Last Desolation]] (Aharietiam), thousands of years ago. Vorin tradition holds that the nation of Natanatan persisted despite the loss of its capital and later allied with [[Thaylenah]], [[Alethkar]], [[Jah Keved]], and [[Kharbranth]] as the "five Vorin kingdoms" after the [[Day of Recreance]]. Natanatan was presumably still part of this coalition during the [[Hierocracy]] and the [[War of Loss]]. Despite this alliance, the kingdom fell several hundred years ago under unknown circumstances.
 
-In the present day, a Natan lighthouse keeper named [[Puuli]] ponders whether the [[Everstorm]] heralds the time that his grandfather had warned of, "the time of changes, when the men from the hidden island of the Origin at last come to reclaim Natanatan."{{book ref|sa3|i|1}}
+In the present day, a Natan lighthouse keeper named [[Puuli]] ponders whether the [[Everstorm]] heralds the time that his grandfather had warned of, "the time of changes, when the men from the hidden island of the Origin at last come to reclaim Natanatan."
 
 ==Culture==
-Natan people have pale blue skin, wide noses, and wool-like white hair.{{book ref|sa1|36}} Natans view the moons of Roshar as deities, and revere the blue moon [[Nomon]] in particular. [[Hoid]] tells a folk tale about Nomon conceiving a child with the Natan Queen [[Tsa]], resulting in blue-skinned descendants who were blessed with poise and beauty.{{book ref|sa3|67}} However, it is heavily implied that Natans are actually human-[[Siah Aimian]] hybrids,{{wob ref|457}}{{wob ref|10842}} giving them their blue skin and an increased lifespan.{{wob ref|10757}} How or why these cultures came together is unknown.
+Natan people have pale blue skin, wide noses, and wool-like white hair. Natans view the moons of Roshar as deities, and revere the blue moon [[Nomon]] in particular. [[Hoid]] tells a folk tale about Nomon conceiving a child with the Natan Queen [[Tsa]], resulting in blue-skinned descendants who were blessed with poise and beauty. However, it is heavily implied that Natans are actually human-[[Siah Aimian]] hybrids, giving them their blue skin and an increased lifespan. How or why these cultures came together is unknown.
 
-Natanatan was nicknamed the "Granite Kingdom".{{book ref|sa1|58}} Hoid's tale describes the kingdom as having a rich culture and fine architecture.{{book ref|sa3|67}} The historicity of his story is unclear, but Hoid was alive during the Heraldic Epochs, and stories of a civilized Natanatan persist on modern-day Roshar.{{book ref|sa1|58}}
+Natanatan was nicknamed the "Granite Kingdom". Hoid's tale describes the kingdom as having a rich culture and fine architecture. The historicity of his story is unclear, but Hoid was alive during the Heraldic Epochs, and stories of a civilized Natanatan persist on modern-day Roshar.
 
-[[Highstorm]]s are particularly strong in eastern Roshar,{{book ref|sa1|58}} and many people believe that this is due to its proximity to the [[Origin]].{{wob ref|7224}}{{book ref|sa1|16}} Natans adapted to life with the storms, devising ways to farm the area by using low-profile crops.{{book ref|sa2|55}} The Origin features prominently in at least one folk tale told by modern Natans.{{book ref|sa3|i|1}}
+[[Highstorm]]s are particularly strong in eastern Roshar, and many people believe that this is due to its proximity to the [[Origin]]. Natans adapted to life with the storms, devising ways to farm the area by using low-profile crops. The Origin features prominently in at least one folk tale told by modern Natans.
 
 ==New Natanan==
-{{for|New Natanan}}
-The city-state of New Natanan, located on the easternmost coast of Roshar, is all that remains of the former Natan government. It functions as a sovereign nation, with a few smaller settlements as protectorates.{{book ref|sa3|96}} Despite its geographical isolation, New Natanan appears to retain influence in the Vorin church.{{book ref|sa3|50}} New Natanan has diplomatic relationships with other nations, and often communicates with them by [[spanreed]].{{book ref|sa3|50}}{{book ref|sa3|12}} Dalinar includes New Natanan in his meetings in [[Urithiru]] when he attempts to form a coalition to fight the [[Voidbringer]]s.{{book ref|sa3|96}} The Natans are appreciative of Dalinar's efforts, but are primarily concerned with reclaiming their homeland and its Oathgate.{{book ref|sa3|122}}
+
+The city-state of New Natanan, located on the easternmost coast of Roshar, is all that remains of the former Natan government. It functions as a sovereign nation, with a few smaller settlements as protectorates. Despite its geographical isolation, New Natanan appears to retain influence in the Vorin church. New Natanan has diplomatic relationships with other nations, and often communicates with them by [[spanreed]]. Dalinar includes New Natanan in his meetings in [[Urithiru]] when he attempts to form a coalition to fight the [[Voidbringer]]s. The Natans are appreciative of Dalinar's efforts, but are primarily concerned with reclaiming their homeland and its Oathgate.
 
 ## Notes
 <references />
-{{partial}}
-{{stormlight}}
+
 [[category: Silver Kingdoms]]

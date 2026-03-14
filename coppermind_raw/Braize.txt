@@ -1,0 +1,61 @@
+{{Shardworld
+|map=Braize.png
+|shards=[[Odium]]
+|system=[[Rosharan system]]{{map ref|Roshar system}}
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{update|sa4|sa5}}
+{{quote
+|The place is barren, devoid of life, merely a dark sky, endless windswept crags, and a broken landscape. And a lot of souls, a lot of not particularly sane souls.
+|[[Raboniel]] to [[Navani]] about Braize.{{book ref|sa4|89}}
+}}
+'''Braize''' is a [[Cosmere#Planets|planet]] in the [[Rosharan system]].{{wob ref|9847}} It is the third planet from the sun, after [[Ashyn]] and [[Roshar]].
+
+== Etymology ==
+Braize is named after [[Rayse]].{{book ref|sa5|120}} Further details of its derivation are currently unknown.
+
+== Ecology and Geography ==
+{{sidequote
+|Of course, I would need to send them back to Braize anyway. The planet had its strange properties, attracting souls, but I needed them to … act as a lock, so to speak. Their souls worked after the fashion of my own—which trapped Odium in this system—upon the Fused. This was a wonderful solution. It let them experience, in a small way, what it was to be divine.
+|[[Tanavast]] on Braize and the Oathpact{{book ref|sa5|122}}
+|side=right|size=300px
+}}
+
+Braize is a cold, barren and inhospitable world that is farther out from the sun than Roshar. It contains no biological life on its surface.{{book ref|sa4|89}} Though it is habitable, albeit barely.{{book ref|sa5|100}} Instead, the planet is full of nothing more than a broken, rocky landscape full of crags and chasms with no sources of light available. Even the sky is described as being dark at all times.{{book ref|sa4|89}}{{book ref|sa4|80}} During [[Kaladin]]'s vision of the planet he experiences strong winds as well as flashes of light, potentially lightning strikes, but it is unclear how much of this was accurate and how much was added by [[Odium]] to frighten him.{{book ref|sa4|80}} The planet does contain an atmosphere, albeit a weak one.{{book ref|sa4|89}}{{book ref|sa4|80}}
+
+Due to the extreme nature of its landscape the only life on the planet is that of self-aware [[spren]], as well as the [[Fused]].{{book ref|sa4|89}}{{au ref|Roshar}} Despite this however only Odium's spren are welcomed; for those not aligned with him visiting is both difficult and dangerous.{{au ref|Roshar}}{{wob ref|2577}} One such danger that [[Raboniel]] spoke of while discouraging [[Navani]] of ever visiting was that of a "storm" that apparently surrounds the planet in [[Shadesmar]], though it is unclear however what she meant by this.{{book ref|sa4|89}}
+
+Braize possesses a metallic core, and the metal at its core inherently attracts Investiture and souls to itself.{{book ref|sa5|122}}{{book ref|sa5|100}}{{book ref|sa5|104}}{{book ref|sa5|77}}{{book ref|sa5|64}} Through this attractive force applied to Investiture and souls, it is stated to create a "well of souls."{{book ref|sa5|64}} This was a key aspect of why it was chosen as the place to seal away the Fused, as it is able to attract them to the planet.{{book ref|sa5|122}}{{book ref|sa5|77}} Even Vessels, with their increased knowledge and understanding of reality, find its properties strange and fascinating.{{book ref|sa5|120}}{{book ref|sa5|122}}
+
+== History ==
+Prior to the [[Shattering]], Braize was formed in the [[Rosharan system]] by [[Adonalsium]].{{epigraph ref|sa2|66}}{{wob ref|9283}} For the majority of its history the planet was inhospitable and uninhabited.
+
+Honor showed great interest in the planet when he arrived at the Rosharan system, intrigued by the Investiture-attracting properties of its metallic core.{{book ref|sa5|100}} 
+
+It was during the initial clashes between [[Honor]] and [[Odium]] on its closest neighbor, [[Roshar]], that its first inhabitants would arrive to Braize. As part of an effort to halt the rival [[Shard]], Honor deliberately bound Odium to the planet in order to stop his conquest of the [[Cosmere]].{{wob ref|8560}}{{book ref|sa3|38}}{{book ref|sa4|14}} As part of this the [[Oathpact]] was formed which also bound the [[Herald|Heralds]] and [[Fused]] to the planet. As per the pact so long as the Heralds did not choose to leave the planet the Fused would also be unable to escape; however, once even a single Herald broke and chose to return to Roshar the Fused would follow suit causing a [[Desolation]] on Roshar.{{book ref|sa3|38}}{{book ref|sa4|14}} After many years of torture the Heralds began losing their sanity and decided to abandon the Oathpact at the [[Last Desolation]], leaving only [[Taln]] behind.{{book ref|sa1|part=prelude}} This exile from Roshar lasted 4500 years{{wob ref|14215}} before the [[True Desolation]] began -- allowing the Fused to permanently live on Roshar.
+
+Braize primarily served as a prison planet for the Fused and holds no inhabitants besides them;{{au ref|roshar}}{{wob ref|660}} this makes it the third of the three planets in the Rosharan system to hold sentient life.{{wob ref|7948}} The only type of [[spren]] that are welcomed on world are Voidspren.{{wob ref|2577}} Because of its inhabitants and the presence of Odium the world is considered unsafe by outsiders.{{au ref|roshar}} Despite the native population being bound on Braize they can still influence Roshar and [[Ashyn]] due to their proximity and the way [[Connection]] and [[Identity]] works between the three worlds.{{wob ref|1043}}{{wob ref|14144}}
+
+== Prison ==
+{{for|Oathpact|more information on Braize's role as a prison}}
+Braize's most important function is that of a prison.{{wob ref|660}}{{book ref|sa5|77}}{{book ref|sa5|122}} After every [[Desolation]], the [[Fused]] are forced to return to Braize, and are locked into it through the process of Isolation.{{book ref|sa4|14}} They are kept sealed by the presence of the [[Herald]]s, who are able to create a "lock" exploiting their strong [[Connection]] to Odium.{{book ref|sa5|122}}{{book ref|sa5|77}}{{wob ref|6819}} As long as the Heralds remain on Braize, Odium's forces cannot travel to [[Roshar]]. To counteract this, Fused hunt them down and torture them until at least one gives up, restarting the cycle. Because of this, [[Talenel]] has spent the past four and a half thousand years there.{{book ref|sa3|38}} Dead [[Knights Radiant]], on the other hand, do not go to Braize.{{wob ref|8942}}
+
+Even following a Herald breaking, departing from Braize is difficult, and grows more so the more Invested the prisoner is. Some smaller [[voidspren]], like [[Ulim]], are capable of sneaking out even while the torture remains ongoing; the [[Fused]] and [[thunderclast]]s can only come out once the Heralds leave; and Odium's most powerful servants take a long time to cross over even after a Desolation is already in full swing.{{book ref|sa3|i|3}}{{book ref|sa3|i|12}}
+
+== Culture ==
+In the [[Vorin]] religion, Braize is known as [[Damnation]], although it is referred to by its proper name in older songs.{{book ref|sa2|32}} Those who have committed particularly grave sins are supposed to go there after death.{{book ref|sa2|41}} It's unclear how much it figures into other Rosharan cultures -- the Shin know about it, but the [[Iri|Iriali]] Long Trail does not include it.{{book ref|sa3|121}}{{wob ref|7953}}
+
+Unlike the rest of [[Rosharan system]], Braize is based around the number nine rather than ten.{{wob ref|2745}} Like all other planets in the cosmere, it has a representation in [[Shadesmar]], although its nature is unknown.{{wob ref|2576}}
+<!--Braize is unlikely to get its own books, but scenes from [[The Stormlight Archive]] will be set on Braize. - need more WoB digging before that can be proven-->
+
+== Trivia ==
+* Some people on Roshar believe that Braize is inhabited with people.{{wob ref|10308}}
+* The Iriali never visited Braize.{{wob ref|7953}}
+
+== Notes ==
+<references />
+{{partial}}
+{{cosmere}}
+[[Category: Braize| ]]
+[[es:Braize]]

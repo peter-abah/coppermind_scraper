@@ -1,17 +1,14 @@
 ---
-species: "Taynix"
-abilities: "{{tag+|cytonics"
+source_file: Snide.txt
+entity_type: character
+species: Taynix
+abilities: cytonics, mimicry
+world: Detritus
+universe: '[[Cytoverse]]'
+introduced: '[[ReDawn (novella)|ReDawn]]'
 ---
 
-, mimicry
-|world=Detritus
-|universe=[[Cytoverse]]
-|introduced=[[ReDawn (novella)|ReDawn]]
-}}
-{{update|sf2|sf3}}
-**Snide** is a [[taynix]] found on [[Detritus]].{{book ref|sf2|21}}
+**Snide** is a [[taynix]] found on [[Detritus]].
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

@@ -1,15 +1,14 @@
 ---
-#profession: "soldier"
-nation: "Azir"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Wind and Truth"
+source_file: Gamma.txt
+entity_type: character
+'#profession': soldier
+nation: Azir
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-{{update|sa5}}
-**Gamma** is an [[Azish]] soldier on [[Roshar]].{{book ref|sa5|63}}
+**Gamma** is an [[Azish]] soldier on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{stormlight}}

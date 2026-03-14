@@ -1,25 +1,23 @@
 ---
-image: "Contemplation.jpg"
-titles: "Contemplation{{book ref|tsm|19"
+source_file: Contemplation.txt
+entity_type: character
+image: Contemplation.jpg
+titles: Contemplation
+groups: '[[Greater Good]]'
+ethnicity: Threnodite
+residence: Beacon
+world: Canticle
+universe: '[[Cosmere]]'
+introduced: '[[The Sunlit Man]]'
 ---
 
-|groups=[[Greater Good]]
-|ethnicity=Threnodite
-|residence=Beacon
-|world=Canticle
-|universe=[[Cosmere]]
-|introduced=[[The Sunlit Man]]
-}}
-{{update|tsm}}
-**Contemplation** is one of the [[Greater Good]] among the [[Beacon]]ites on [[Canticle]].{{book ref|tsm|8}}
+**Contemplation** is one of the [[Greater Good]] among the [[Beacon]]ites on [[Canticle]].
 
 ## Abilities and Attributes
-Contemplation would hunt when she was younger, making her an excellent shot.{{book ref|tsm|18}}
+Contemplation would hunt when she was younger, making her an excellent shot.
 
 ## Trivia
-* Contemplation was inspired by [[Brandon]]'s grandmother, Mary Beth Sanderson.{{wob ref|16541}}{{book ref|tsm|20}}
+* Contemplation was inspired by [[Brandon]]'s grandmother, Mary Beth Sanderson.
 
 ## Notes
 <references />
-{{stub}}
-{{Sunlit Man}}

@@ -1,3 +1,8 @@
+---
+source_file: Steris HarmsGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 BoM US Cover Art.jpg | <center><small>by [[Chris McGrath]]</small></center> On US *[[Bands of Mourning]]* cover

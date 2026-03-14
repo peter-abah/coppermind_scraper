@@ -1,15 +1,15 @@
 ---
-ethnicity: "Noble"
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 1"
+source_file: Flavine.txt
+entity_type: character
+ethnicity: Noble
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
 ---
 
 Lady **Flavine** was a [[noble]] in the [[Final Empire]] on [[Scadrial]].
 
-[[Valette Renoux]] was invited to attend lunch with her prior to the [[Collapse]].{{book ref|mb1|20}} Though [[Vin]] wanted to leave with [[Kelsier]] for various tasks with the [[skaa rebellion]], Vin knew she needed to stay in [[Luthadel]] for social engagements, like attending lunch with Lady Flavine.
+[[Valette Renoux]] was invited to attend lunch with her prior to the [[Collapse]]. Though [[Vin]] wanted to leave with [[Kelsier]] for various tasks with the [[skaa rebellion]], Vin knew she needed to stay in [[Luthadel]] for social engagements, like attending lunch with Lady Flavine.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 21:41, 30 March 2019 (MST)}}
-{{Mistborn|Era 1}}

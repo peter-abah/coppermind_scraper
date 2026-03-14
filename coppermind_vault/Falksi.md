@@ -1,19 +1,19 @@
 ---
-profession: "Handmaiden"
-ethnicity: "Azish"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "The Way of Kings"
+source_file: Falksi.txt
+entity_type: character
+profession: Handmaiden
+ethnicity: Azish
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[The Way of Kings]]'
 ---
 
-**Falksi** is a darkeyed Azish woman on [[Roshar]].{{book ref|sa1|18}}
+**Falksi** is a darkeyed Azish woman on [[Roshar]].
 
 ## History
-Falksi was Brightlady [[Janala Lustow]]'s handmaiden.{{book ref|sa1|18}} During Brightlord [[Adolin Kholin]]'s date with Janala, she waited with [[Tibon]] and [[Marks (Roshar)|Marks]], two members of the [[Cobalt Guard]], while Adolin and Janala were inside the leather-working shop, speaking with [[Yis]] and [[Avaran]].
+Falksi was Brightlady [[Janala Lustow]]'s handmaiden. During Brightlord [[Adolin Kholin]]'s date with Janala, she waited with [[Tibon]] and [[Marks (Roshar)|Marks]], two members of the [[Cobalt Guard]], while Adolin and Janala were inside the leather-working shop, speaking with [[Yis]] and [[Avaran]].
 
-When Janala and Adolin exited the shop, Falksi was annoyed that Adolin had not arranged for a palanquin to carry Janala.{{book ref|sa1|18}}
+When Janala and Adolin exited the shop, Falksi was annoyed that Adolin had not arranged for a palanquin to carry Janala.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 17:50, 19 May 2016 (MDT)}}
-{{Stormlight}}

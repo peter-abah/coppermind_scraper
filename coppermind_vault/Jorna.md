@@ -1,20 +1,20 @@
 ---
-merge-family: "y|parents=Loats"
-profession: "Conscripted into {{tag+|army|Amaram's"
+source_file: Jorna.txt
+entity_type: character
+merge-family: y
+parents: '[[Loats]]'
+profession: Conscripted into army
+groups: army
+residence: Hearthstone
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|groups={{tag+|army|Amaram's}}
-|residence=Hearthstone
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Jorna** was a youth of [[Hearthstone]] in [[Alethkar]] on [[Roshar]].{{book ref|sa1|44}}
+**Jorna** was a youth of [[Hearthstone]] in [[Alethkar]] on [[Roshar]].
 
-Jorna was born to a man named [[Loats]].{{book ref|sa1|44}} In {{Rosharan date|1168|missing-date=y}}, when Highmarshal [[Meridas Amaram]] visited Hearthstone to recruit men for his army, Citylord [[Roshone]] chose Jorna to be one of the men conscripted, along with [[Agil]], [[Caull]], [[Habrin]], and [[Tien]].
+Jorna was born to a man named [[Loats]]. In , when Highmarshal [[Meridas Amaram]] visited Hearthstone to recruit men for his army, Citylord [[Roshone]] chose Jorna to be one of the men conscripted, along with [[Agil]], [[Caull]], [[Habrin]], and [[Tien]].
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 10:53, 3 August 2018 (MST)}}
-{{Stormlight}}

@@ -1,16 +1,13 @@
-{{DISPLAYTITLE:*{{FULLPAGENAME}}*}}
-{{literature
-|type=Play
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-***The Den of the Survivor*** is a historical play in post-[[Catacendre]] [[Scadrial]], starring  [[Javier DaLeuc]] and [[Penelope Portreau]].{{file ref|New Ascendancy broadsheet.jpg|*The New Ascendancy* broadsheet}} 
+---
+source_file: The Den of the Survivor.txt
+entity_type: displaytitle:''{{fullpagename}}''
+---
 
-A performance at [[Uptown Trio Theater]] was advertised in *[[The New Ascendancy]]* on the 8th of Cladence, {{date|342|PC}}, and was set to run until the end of the following month. The play is presumably a dramatization of [[Kelsier's crew]] rebelling against the [[Final Empire]].{{file ref|New Ascendancy broadsheet.jpg|*The New Ascendancy* broadsheet}} 
+***The Den of the Survivor*** is a historical play in post-[[Catacendre]] [[Scadrial]], starring  [[Javier DaLeuc]] and [[Penelope Portreau]]. 
+
+A performance at [[Uptown Trio Theater]] was advertised in *[[The New Ascendancy]]* on the 8th of Cladence, , and was set to run until the end of the following month. The play is presumably a dramatization of [[Kelsier's crew]] rebelling against the [[Final Empire]]. 
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:31, 30 March 2022 (UTC)}}
-{{Mistborn|era 2}}
+
 [[es:La guarida del Superviviente]]

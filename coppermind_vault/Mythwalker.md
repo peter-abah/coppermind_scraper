@@ -1,12 +1,12 @@
-{{book
-|released=Not applicable
-}}
+---
+source_file: Mythwalker.txt
+entity_type: book
+released: Not applicable
+---
 
-{{unpublished|book=mythwalker}}
+***Mythwalker*** is the ninth novel [[Brandon]] ever wrote, though it was unfinished. Elements of it were cannibalized for the [[Mistborn (series)|*Mistborn* sequence]], *[[The Way of Kings]]*, and *[[Warbreaker]]*, including the characters [[Vivenna|Vivenna]] and [[Sisirinah|Siri]], who became two of *Warbreaker's* main characters. It's sometimes referred to as **Warbreaker Prime**.
 
-***Mythwalker*** is the ninth novel [[Brandon]] ever wrote, though it was unfinished. Elements of it were cannibalized for the [[Mistborn (series)|*Mistborn* sequence]], *[[The Way of Kings]]*, and *[[Warbreaker]]*, including the characters [[Vivenna|Vivenna]] and [[Sisirinah|Siri]], who became two of *Warbreaker's* main characters.{{wob ref|6023}} It's sometimes referred to as **Warbreaker Prime**.{{url ref|url=https://www.brandonsanderson.com/warbreaker-prime-mythwalker-prologue/|text=Warbreaker Prime: Mythwalker|site=brandonsanderson.com}}
-
-Brandon claims *Mythwalker* is the only book he has ever given up writing.{{url ref|url=https://web.archive.org/web/20190819053100/https://brandonsanderson.com/euology-my-history-as-a-writer/|text=EUOLogy: My history as a writer|site=https://brandonsanderson.com}} All Brandon wrote of it has been posted online at [http://brandonsanderson.com/warbreaker-prime-mythwalker-prologue/ his blog], along with commentary by Brandon's assistant, [[Peter Ahlstrom]]. According to Peter, *Mythwalker* and its magic system contributed to the creation of [[Sanderson's Laws of Magic#Sanderson's Second Law|Sanderson's Second Law]].{{url ref|url=https://brandonsanderson.com/warbreaker-prime-mythwalker-chapter-twenty-two/|text=Warbreaker Prime: Mythwalker Chapter Twenty-Two|site=https://brandonsanderson.com}}
+Brandon claims *Mythwalker* is the only book he has ever given up writing. All Brandon wrote of it has been posted online at [http://brandonsanderson.com/warbreaker-prime-mythwalker-prologue/ his blog], along with commentary by Brandon's assistant, [[Peter Ahlstrom]]. According to Peter, *Mythwalker* and its magic system contributed to the creation of [[Sanderson's Laws of Magic#Sanderson's Second Law|Sanderson's Second Law]].
 
 ## Summary
 Many centuries ago, an unknown peasant boy rose to prominence as a Hero against a villainous Dark One, the Demon King. After many trials, the Hero faced the Demon King in battle, and though the rules of the story suggested the Hero is sure to win, this time, something went very wrong.
@@ -34,11 +34,11 @@ After a successful attack on a carriage, Devin receives a message from Sarn agre
 Devin mourns Hine and declares that he intends to overthrow the entire church, including the Emperor. As his group considers their next actions, Ralan reveals that rather than an Eruntu with two powers, he's Kkoloss from house Ddoven who's been hiding out among the Sserin Guards. He promises that if the rebels can get to the mainland, he can find them allies among his kin.
 
 ## Magic system
-The *Mythwalker* magic system is called the Kkell powers. Every Kkoloss bloodline has its own magic, different for men and women.{{url ref| url=https://brandonsanderson.com/warbreaker-prime-mythwalker-chapter-two/|text=Warbreaker Prime: Mythwalker Chapter Two|site=https://brandonsanderson.com}} A single bloodline has a limited sum total of power, meaning that as the family grows larger, the power becomes more spread out. By contrast, if there are few members of the family, they will become extremely powerful. However, the power doesn't spread evenly - the Kkoloss families are divided into Septs, and each Sept holds less Kkell power than the one above it. The Sept one belongs to appears to be based on the proximity to the King or Queen, the leaders - and, by extension, most powerful members - of the house. Should a powerful member of the family die, those of lower Septs will gain more power.{{url ref|url=https://brandonsanderson.com/warbreaker-prime-mythwalker-chapter-five/|text=Warbreaker Prime: Mythwalker Chapter Five|site=https://brandonsanderson.com}}
+The *Mythwalker* magic system is called the Kkell powers. Every Kkoloss bloodline has its own magic, different for men and women. A single bloodline has a limited sum total of power, meaning that as the family grows larger, the power becomes more spread out. By contrast, if there are few members of the family, they will become extremely powerful. However, the power doesn't spread evenly - the Kkoloss families are divided into Septs, and each Sept holds less Kkell power than the one above it. The Sept one belongs to appears to be based on the proximity to the King or Queen, the leaders - and, by extension, most powerful members - of the house. Should a powerful member of the family die, those of lower Septs will gain more power.
 
-Kkell powers can be bestowed without a blood relation. An archpriest can adopt a person into another house, giving them access to a bloodline; should a King or Queen be adopted, their new house gains their Kkell power. Coversely, by rejecting Hess, a Kkoloss can rid themselves of the power. While they have no power of their own, the Eruntu can take a Kkell Oath, which grants them the power of the Kkoloss house they swore it to, at the cost of forbidding them from ever striking a member of said house. The power gained in this way cannot be discarded.{{url ref|url=https://brandonsanderson.com/warbreaker-prime-mythwalker-chapter-twenty-one/|text=Warbreaker Prime: Mythwalker Chapter Twenty-One|site=https://brandonsanderson.com}}
+Kkell powers can be bestowed without a blood relation. An archpriest can adopt a person into another house, giving them access to a bloodline; should a King or Queen be adopted, their new house gains their Kkell power. Coversely, by rejecting Hess, a Kkoloss can rid themselves of the power. While they have no power of their own, the Eruntu can take a Kkell Oath, which grants them the power of the Kkoloss house they swore it to, at the cost of forbidding them from ever striking a member of said house. The power gained in this way cannot be discarded.
 
-There are few limitations to the Kkell power: the user's Sept sets the maximum strength with which it can be used, and the power cannot be used while unconscious.{{url ref| url=https://brandonsanderson.com/warbreaker-prime-mythwalker-chapter-eleven/|text=Warbreaker Prime: Mythwalker Chapter Eleven|site=https://brandonsanderson.com}}
+There are few limitations to the Kkell power: the user's Sept sets the maximum strength with which it can be used, and the power cannot be used while unconscious.
 
 Known Kkell powers are:
 * **Male Sserin**: Strength - grants its bearer superhuman strength; causes the wielders to become taller and more muscular
@@ -76,12 +76,12 @@ It's been speculated that the Emperor has some kind of Kkell power allowing him,
 * The shadowlings look and function very similarly to the [[Midnight Essence]],
 * The Sept system of ranking nobility might've been turned into the [[Dahn]] system, albeit without Septs' supernatural connotations,
 * Flying variants of typically aquatic animals  (fish-like lills vs. eel-like [[Skyeel]]s)
-* The title of Mythwalker was used as one of Hoid's titles in *[[Wind and Truth]]*.{{book ref|sa5|i|15}}
+* The title of Mythwalker was used as one of Hoid's titles in *[[Wind and Truth]]*.
 
 ### In *[[Warbreaker]]*
 * [[Siri]]'s plotline has been reworked into the main axis of *Warbreaker*, and the pacing of it was greatly improved,
 * Vvenna became [[Vivenna]], and her plot was changed to make her a more active character,
-* The Emperor became [[Susebron]], and other than the changes brought about by a different magic system, his personality apparently remained the same,{{wob ref|7819}}
+* The Emperor became [[Susebron]], and other than the changes brought about by a different magic system, his personality apparently remained the same,
 * The pattern of double consonants in names, although in *Warbreaker* it was altered to make it easier to read (ex. Vvenna vs. Vivenna),
 * The dwelling place of the most powerful being physically separated from the rest of the world (the Holy Island vs. [[Court of Gods]]),
 * The small seizures that Devin suffers whenever he acquires a new skill are the very similar to the seizures caused by suddenly acquiring a lot of [[Breath]],
@@ -92,6 +92,5 @@ It's been speculated that the Emperor has some kind of Kkell power allowing him,
 
 ## Notes
 <references/>
-{{meta/partial}}
-{{books}}
+
 [[Category:Unpublished]]

@@ -1,52 +1,50 @@
-{{magic
-|image=InvestedSunheart.png
-|related=[[Charred]]
-|type=[[Investiture]]
-|world=Canticle
-|universe=[[Cosmere]]
-|books=[[The Sunlit Man]]
-}}
-{{update|tsm}}
-{{quote
-|I need to understand your power sources. These sunhearts . . . they aren’t quite like anything I’ve seen on any other planet.
-|[[Nomad]]{{book ref|tsm|20}}
-}}
+---
+source_file: Sunheart.txt
+entity_type: magic
+image: InvestedSunheart.png
+related: '[[Charred]]'
+type: '[[Investiture]]'
+world: Canticle
+universe: '[[Cosmere]]'
+books: '[[The Sunlit Man]]'
+---
+
+> I need to understand your power sources. These sunhearts . . . they aren’t quite like anything I’ve seen on any other planet.
+> — [[Nomad]]
 
 **Sunhearts**, known as **cinderhearts** when corrupted, are a form of Investiture on [[Canticle]].
 
 ## Acquisition and Properties
-Sunhearts are made from people who are condensed into power cells while being between [[Canticle]]'s sun and the core of the planet.{{book ref|tsm|12}}{{book ref|tsm|40}} How much energy a sunheart is made with depends on how [[Investiture|Invested]] the person was, but most of the energy comes from the superheated energy of Canticle's sun transferring to the planet's core and the person's soul resisting that energy.{{book ref|tsm|16}}{{book ref|tsm|21}}{{book ref|tsm|24}}{{book ref|tsm|40}}{{book ref|tsm|45}} Those made from [[Threnodite]]s on Canticle are made with at least two hundred [[BioChromatic Breath|Breath Equivalent Unit]]s.{{book ref|tsm|24}} A normal Threnodite from [[Canticle]] has only one BEU,{{book ref|tsm|23}} which suggest that for every one BEU a person has, two hundred BEUs of Investiture from the sun fills the sunheart.
+Sunhearts are made from people who are condensed into power cells while being between [[Canticle]]'s sun and the core of the planet. How much energy a sunheart is made with depends on how [[Investiture|Invested]] the person was, but most of the energy comes from the superheated energy of Canticle's sun transferring to the planet's core and the person's soul resisting that energy. Those made from [[Threnodite]]s on Canticle are made with at least two hundred [[BioChromatic Breath|Breath Equivalent Unit]]s. A normal Threnodite from [[Canticle]] has only one BEU, which suggest that for every one BEU a person has, two hundred BEUs of Investiture from the sun fills the sunheart.
 
-If a person had an [[Invested Art]] before being made into a sunheart, it would be possible to charge a [[Hemalurgy|Hemalurgic]] spike with the Invested Art.{{wob ref|16725}}
+If a person had an [[Invested Art]] before being made into a sunheart, it would be possible to charge a [[Hemalurgy|Hemalurgic]] spike with the Invested Art.
 
-Sunhearts are cylindrical lumps of what appears to be smokestone eight inches (~20.5 cm) tall and a few in diameter, and feel like glass.{{book ref|tsm|20}} They emit a deep red light.{{book ref|tsm|24}} Sunhearts can be broken apart like resin and each piece will continue to glow.{{book ref|tsm|24}} Once depleted, they resemble dark glass or gemstones, with bumps on their surface.{{book ref|tsm|8}} Some sections can resemble a screaming face.{{book ref|tsm|20}} Despite their condensed heat, they can be carried safely.{{book ref|tsm|8}} They will float to the top of magma.{{book ref|tsm|13}} Charged sunhearts are considered alive by the reckoning of Investiture.{{book ref|tsm|23}}
+Sunhearts are cylindrical lumps of what appears to be smokestone eight inches (~20.5 cm) tall and a few in diameter, and feel like glass. They emit a deep red light. Sunhearts can be broken apart like resin and each piece will continue to glow. Once depleted, they resemble dark glass or gemstones, with bumps on their surface. Some sections can resemble a screaming face. Despite their condensed heat, they can be carried safely. They will float to the top of magma. Charged sunhearts are considered alive by the reckoning of Investiture.
 
 ## Energy
-{{image|UninvestedSunheart.png|side=right|width=300px|height=300px|An uninvested sunheart}}
-Sunhearts are stable forms of condensed energy and are able to act as batteries or fuel.{{book ref|tsm|8}} This can be strong enough to power entire cities.{{book ref|tsm|11}}{{book ref|tsm|19}} Once all of the energy has been expended, the core will dim.{{book ref|tsm|8}}
 
-Heat and Investiture can be transferred in or out of a sunheart, though a [[Connection]] to the person who made it is required to transfer energy into it.{{book ref|tsm|33}}{{book ref|tsm|24}}{{book ref|tsm|36}} When taking in Investiture, sunhearts will filter and purify it and will take corrupted or undesired Investiture first.{{book ref|tsm|24}}{{book ref|tsm|36}}{{book ref|tsm|37}}
+Sunhearts are stable forms of condensed energy and are able to act as batteries or fuel. This can be strong enough to power entire cities. Once all of the energy has been expended, the core will dim.
+
+Heat and Investiture can be transferred in or out of a sunheart, though a [[Connection]] to the person who made it is required to transfer energy into it. When taking in Investiture, sunhearts will filter and purify it and will take corrupted or undesired Investiture first.
 
 ### Recharging
-{{quote
-|Bold one on the threshold of death, take into your sunheart my heat, that I may bless those who still live.
-|[[Rebeke]] reciting the prayer to transfer Investiture into a sunheart{{book ref|tsm|47}}
-}}
 
-If not depleted, sunhearts can be given a small amount of Investiture, but this normally doesn't give it a substantial amount of Investiture.{{book ref|tsm|21}}{{book ref|tsm|23}} If a depleted sunheart is left back into the sun of Canticle, it will not recharge as the Investiture just passes through the sunheart, instead of being captured by it.{{book ref|tsm|22}}{{book ref|tsm|45}} If there is still Investiture in them, sunhearts can be recharged in the sun, since the soul is resisting the Investiture, causing it to flare and be captured in the sunheart.{{book ref|tsm|45}}{{book ref|tsm|47}}
+> Bold one on the threshold of death, take into your sunheart my heat, that I may bless those who still live.
+> — [[Rebeke]] reciting the prayer to transfer Investiture into a sunheart
+
+If not depleted, sunhearts can be given a small amount of Investiture, but this normally doesn't give it a substantial amount of Investiture. If a depleted sunheart is left back into the sun of Canticle, it will not recharge as the Investiture just passes through the sunheart, instead of being captured by it. If there is still Investiture in them, sunhearts can be recharged in the sun, since the soul is resisting the Investiture, causing it to flare and be captured in the sunheart.
 
 ## Cinderhearts
-Cinderhearts are corrupted sunhearts made from a "[[hemalurgy|special Investiture]]".{{wob ref|17072}}{{book ref|tsm|45}} These can be used to create [[Charred]] by stabbing a person in the chest with it.{{book ref|tsm|45}}{{book ref|tsm|24}} Once the cinderheart is inserted heat will begin to flare, causing sparks and flames to spray out as the body is burned.{{book ref|tsm|50}} The person's pectorals, rib cage, and heart will burn away, leaving seared and blackened skin.{{book ref|tsm|1}} The cinderheart will then radiate from the center of the cavity.{{book ref|tsm|50}}{{book ref|tsm|25}} Through their cinderhearts, all Charred are Connected, and can feel the presence of other Charred.{{book ref|tsm|50}} Cinderhearts devour the Charred's [[Identity]] and [[Connection]] in a manner similar to [[Yelig-Nar]].{{wob ref|16297}}
+Cinderhearts are corrupted sunhearts made from a "[[hemalurgy|special Investiture]]". These can be used to create [[Charred]] by stabbing a person in the chest with it. Once the cinderheart is inserted heat will begin to flare, causing sparks and flames to spray out as the body is burned. The person's pectorals, rib cage, and heart will burn away, leaving seared and blackened skin. The cinderheart will then radiate from the center of the cavity. Through their cinderhearts, all Charred are Connected, and can feel the presence of other Charred. Cinderhearts devour the Charred's [[Identity]] and [[Connection]] in a manner similar to [[Yelig-Nar]].
 
-Cinderhearts resemble a glowing ember that emits a bright light.{{book ref|tsm|4}} If the corruption is removed from a cinderheart, they will glow a soft red-orange.{{book ref|tsm|29}} When a cinderheart burns something, it will continue to smolder for a long time.{{book ref|tsm|42}}
+Cinderhearts resemble a glowing ember that emits a bright light. If the corruption is removed from a cinderheart, they will glow a soft red-orange. When a cinderheart burns something, it will continue to smolder for a long time.
 
 ## Usage
-Sunhearts are used by the people of [[Canticle]] to power their cities and to an extent, all their individual ships.{{book ref|tsm|11}} It’s also likely they use sunhearts to power their guns. Sunhearts can also be used as explosives, which can be strong enough to destroy a ship.{{book ref|tsm|42}}
+Sunhearts are used by the people of [[Canticle]] to power their cities and to an extent, all their individual ships. It’s also likely they use sunhearts to power their guns. Sunhearts can also be used as explosives, which can be strong enough to destroy a ship.
 
-Sunhearts can have slivers shaved off, which keep some Investiture and can still be used as a power source.{{book ref|tsm|24}}{{book ref|tsm|48}} Charred can use sunhearts to store a little bit of their Investiture, making them more independent and able to think logically.{{book ref|tsm|24}} Sunhearts can charge batteries, enough to power a small hovercycle for an hour.{{book ref|tsm|13}}
+Sunhearts can have slivers shaved off, which keep some Investiture and can still be used as a power source. Charred can use sunhearts to store a little bit of their Investiture, making them more independent and able to think logically. Sunhearts can charge batteries, enough to power a small hovercycle for an hour.
 
 ## Notes
 <references />
-{{partial}}
-{{Sunlit Man}}
+
 [[category: magic]]

@@ -1,0 +1,14 @@
+{{lifeform
+|image=Markel.jpg
+|type=Tree
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+The '''markel''' tree is a type of plant on [[Roshar]].{{book ref|sa1|16}} It can be found in [[Jah Keved]]{{rpg ref|wtr|7}} and northwestern [[Alethkar]].{{book ref|sa1|16}}
+
+It grows up to sixteen feet high and has large, clam-shaped leaves that can open and close.{{file ref|Plants.jpg|Plants from Shallan's sketchbook}} Some Vedens cultivate dwarf varieties of the tree.{{rpg ref|wtr|7}} It has bark coated in stone and branches as "thick as a man's leg".{{book ref|sa1|16}} [[Snarlbrush]] grows in dense thickets around markel trees.{{book ref|sa1|16}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 13:47, 6 March 2019 (MST)}}
+{{Stormlight}}

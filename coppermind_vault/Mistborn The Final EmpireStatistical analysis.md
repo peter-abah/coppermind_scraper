@@ -1,3 +1,8 @@
+---
+source_file: Mistborn The Final EmpireStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains some statistical analysis of ***[[Mistborn: The Final Empire]]***, the first book in the [[Mistborn (series)|first Mistborn trilogy]].
 
 For a full series overview see [[Mistborn/Statistical analysis]], and for other books in the series see [[The Well of Ascension/Statistical analysis]] and [[The Hero of Ages/Statistical analysis]].
@@ -253,8 +258,6 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 
 |}
 
-{{meta/done}}
-{{Mistborn|Era 1}}
 [[category: Mistborn|*e1.1e]]
 [[category: Mistborn Era 1|*1e]]
 [[category: statistics]]

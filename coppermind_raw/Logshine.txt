@@ -1,0 +1,13 @@
+{{food
+|type=Alcohol
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+
+'''Logshine''' is a type of beer from [[Scadrial]]. It is typically brewed in the [[Roughs]], but at least one liquor store in [[Bilming]] stocks it. After accidentally sending a truck tire through the window of the store, [[Wax]] bought two bottles of Logshine, which he considered the best beer there was, and brought them to share with [[Wayne]], who hadn't had any in years and greatly appreciated the gesture.{{book ref|mb7|55}}
+
+== Notes ==
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 20:22, 12 December 2022 (UTC)}}
+{{Mistborn|Era 2}}

@@ -1,53 +1,51 @@
-{{settlement|name=Elantris
-|map=Elantris-Kae Map.jpg
-|nation=Arelon
-|region=Opelon
-|world=Sel
-|universe=[[Cosmere]]
-|books=[[Elantris (book)|Elantris]]
-}}{{exemplary|date=2017-06-05}}
-{{quote
-|Elantris was beautiful, once. It was called the city of the gods: a place of power, radiance, and magic. Visitors say that the very stones glowed with an inner light, and that the city contained wondrous arcane marvels. At night, Elantris shone like a great silvery fire, visible even from a great distance.
-|[[Elantris/Summary#Prologue|Elantris Prologue]]{{book ref|Elantris|prologue}}
-}}
-The **City of Elantris** is a city in [[Arelon]] on the continent of [[Opelon]] on [[Sel]]. Prior to the [[Reod]] and following the [[Invasion of Arelon]], it served as the capital of Arelon. It is surrounded by four smaller cities in each of the cardinal directions, including [[Kae]]. It is accounted as one of the most beautiful cities on Sel, particularly by sculptors, who heaped countless praises on the city's sculptures.{{book ref|Elantris|16}} Its name incorporates [[Aon#Ela|Aon Ela]], which means "center".
+---
+source_file: Elantris (city).txt
+entity_type: settlement
+name: Elantris
+map: Elantris-Kae Map.jpg
+nation: Arelon
+region: Opelon
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
+---
+
+> Elantris was beautiful, once. It was called the city of the gods: a place of power, radiance, and magic. Visitors say that the very stones glowed with an inner light, and that the city contained wondrous arcane marvels. At night, Elantris shone like a great silvery fire, visible even from a great distance.
+> — [[Elantris/Summary#Prologue|Elantris Prologue]]
+
+The **City of Elantris** is a city in [[Arelon]] on the continent of [[Opelon]] on [[Sel]]. Prior to the [[Reod]] and following the [[Invasion of Arelon]], it served as the capital of Arelon. It is surrounded by four smaller cities in each of the cardinal directions, including [[Kae]]. It is accounted as one of the most beautiful cities on Sel, particularly by sculptors, who heaped countless praises on the city's sculptures. Its name incorporates [[Aon#Ela|Aon Ela]], which means "center".
 
 ## History
-{{image|Elantris by Geoff Shupe.jpg|side=right|width=250px|Elantris}}
-{{image|Elantris_Gate_by_AutomaticMoon.jpg|side=right|width=250px|Elantris Gates}}
+
 ### Construction
-The actual origins of the city are unknown. It was constructed "hundreds of years if not over a thousand years" before the [[Reod]],{{wob ref|4638}} likely before the [[Splinter]]ing of [[Devotion]] and [[Dominion]].{{wob ref|14651}} The people who built it possessed a keen understanding of [[AonDor]], as the Elantrian metropolitan area, comprising Elantris and its four outer cities, forms a massive [[Aon#Rao|Aon Rao]], which acts as a power amplifier for the Elantrians. Additionally, the streets of the city are laid out to form [[Aon#Ela|Aon Ela]], though it is unclear whether this Aon has any magical affects or if it was just chosen for aesthetic reasons.{{wob ref|852}} Its builders were themselves Elantrians, as only they would have been able to make the Aons formed by the city work.{{wob ref|2230}}
+The actual origins of the city are unknown. It was constructed "hundreds of years if not over a thousand years" before the [[Reod]], likely before the [[Splinter]]ing of [[Devotion]] and [[Dominion]]. The people who built it possessed a keen understanding of [[AonDor]], as the Elantrian metropolitan area, comprising Elantris and its four outer cities, forms a massive [[Aon#Rao|Aon Rao]], which acts as a power amplifier for the Elantrians. Additionally, the streets of the city are laid out to form [[Aon#Ela|Aon Ela]], though it is unclear whether this Aon has any magical affects or if it was just chosen for aesthetic reasons. Its builders were themselves Elantrians, as only they would have been able to make the Aons formed by the city work.
 
 ### Discovery
-When the [[Aonic]] peoples migrated to Arelon, they found Elantris empty and abandoned. Initially, the city was viewed with superstition; people believed it was haunted. King Rhashm, who renamed himself [[Raoshem]], strove to overcome the fears of his people and settled Elantris as the center of his kingdom. Several decades later, people started being taken by the [[Shaod]], becoming Elantrians.{{wob ref|7592}}
+When the [[Aonic]] peoples migrated to Arelon, they found Elantris empty and abandoned. Initially, the city was viewed with superstition; people believed it was haunted. King Rhashm, who renamed himself [[Raoshem]], strove to overcome the fears of his people and settled Elantris as the center of his kingdom. Several decades later, people started being taken by the [[Shaod]], becoming Elantrians.
 
 ### Capital of Arelon
-It was during the [[Sel#Middle Era|Middle Era]] on Sel that Elantris's sphere of influence greatly expanded, coinciding with the development of Arelon as a nation-state.{{wob ref|7594}}
-
-{{image|Elantris Shuravf.jpg|side=left|width=250px|Elantris after the Reod}}
+It was during the [[Sel#Middle Era|Middle Era]] on Sel that Elantris's sphere of influence greatly expanded, coinciding with the development of Arelon as a nation-state.
 
 ### The Reod
-{{quote
-|Every surface&mdash;from the walls of the buildings to the numerous cracks in the cobblestones&mdash;was coated with a patina of grime. The slick, oily substance had a equalizing effect on Elantris's colors, blending them all into a single, depressing hue&mdash;a color that mixed the pessimism of black with polluted greens and browns of sewage.
-|[[Elantris/Summary#Chapter 1|Elantris Chapter One]]{{book ref|Elantris|1}}
-}}
+
+> Every surface&mdash;from the walls of the buildings to the numerous cracks in the cobblestones&mdash;was coated with a patina of grime. The slick, oily substance had a equalizing effect on Elantris's colors, blending them all into a single, depressing hue&mdash;a color that mixed the pessimism of black with polluted greens and browns of sewage.
+> — [[Elantris/Summary#Chapter 1|Elantris Chapter One]]
 
 Ten years prior to the [[Fjordell]] [[invasion of Arelon]], a large earthquake occurred in the south of Arelon, causing a significant crack in the ground, later referred to as the [[Chasm]]. This caused an event that came to be called the Reod from [[Aon#Reo|Aon Reo]], which means punishment and retribution. The creation of the Chasm was a large enough change in the geography of Arelon that the Aons used across Elantris, such as the massive Aon Rao formed by the Elantrian Metropolitan Area, became incomplete. Elantris, and the Elantrians that called it home, "fell" because of this. The city, which had glowed with an inner light, grew dark and a greasy slime started to cover every surface. The Elantrians themselves were likewise diminished. Their silvery skin turned grey and was covered in dark splotches and their brilliant white hair began to fall out, along with other, less readily apparent, changes, such as their hearts ceasing to beat and their wounds refusing to heal. The strongest and most powerful Elantrians were also placed under extreme pressure from the [[Dor]], which ached for release, leaving them effectively immobilized through cyclical "attacks".
 
-The fall of Elantris had a profound effect on the rest of Arelon as well. The Elantrians and their use of AonDor had served as the lynchpin of the Arelene economy for centuries. Their ability to cheaply create large amounts of food had supported massive urban populations. Its sudden absence, along with several other factors, caused the destabilization of Arelene society, which prompted an uprising against their former leaders. The majority of the Elantrians were killed by their former servants.{{book ref|Elantris|5}} [[Iadon]], formerly a successful merchant, came to power and eventually became king. He moved most of the population to [[Arelon#Plantations|plantations]], leaving Kae, the new capital, as the only occupied outer city. Elantris itself was placed under quarantine; those taken by the Shaod were forced to relocate to the city, from which no one was permitted to leave. The only food that entered the city was a small pouch given to each Elantrian as they entered, which was part of the funereal practices of [[Shu-Korath]].{{book ref|Elantris|1}}
+The fall of Elantris had a profound effect on the rest of Arelon as well. The Elantrians and their use of AonDor had served as the lynchpin of the Arelene economy for centuries. Their ability to cheaply create large amounts of food had supported massive urban populations. Its sudden absence, along with several other factors, caused the destabilization of Arelene society, which prompted an uprising against their former leaders. The majority of the Elantrians were killed by their former servants. [[Iadon]], formerly a successful merchant, came to power and eventually became king. He moved most of the population to [[Arelon#Plantations|plantations]], leaving Kae, the new capital, as the only occupied outer city. Elantris itself was placed under quarantine; those taken by the Shaod were forced to relocate to the city, from which no one was permitted to leave. The only food that entered the city was a small pouch given to each Elantrian as they entered, which was part of the funereal practices of [[Shu-Korath]].
 
-Inside Elantris, conditions continued to deteriorate. Elantris had been constructed using AonDor, and, without the Dor sustaining it, the city began to rot and decay. The stones themselves started to crumble. Since the Elantrians could no longer heal nor die from their wounds or starvation, the pain they felt from each injury eventually grew to the point where it drove them mad, forcing them to retreat deep inside themselves. Afterwards their only interaction with the outside world would be a phrase, unique to each person, that they would repeat over and over again as if in a trance. These Elantrians came to be known as the [[Hoed]].{{book ref|Elantris|4}}
+Inside Elantris, conditions continued to deteriorate. Elantris had been constructed using AonDor, and, without the Dor sustaining it, the city began to rot and decay. The stones themselves started to crumble. Since the Elantrians could no longer heal nor die from their wounds or starvation, the pain they felt from each injury eventually grew to the point where it drove them mad, forcing them to retreat deep inside themselves. Afterwards their only interaction with the outside world would be a phrase, unique to each person, that they would repeat over and over again as if in a trance. These Elantrians came to be known as the [[Hoed]].
 
-Some Elantrians who had not yet succumbed and become Hoed formed gangs that would steal the funeral offerings of food from new entrants to the city in an effort to satiate their ravenous hunger. At a point ten years following the Reod there were three gangs, led by [[Karata]], [[Aanden]], and [[Shaor]]. Karata's gang resided in the Royal Palace and cared for the children residing in the city.{{book ref|Elantris|13}} Aanden and his followers took residence in the university, using the bindings of its books as a food source. Shaor's followers, a brutal, sub-human horde, worshipped Shaor, who was, in reality, a capricious, petulant little girl, because she was thrown into Elantris wearing her wig, giving her the appearance of a miraculous being who had retained her hair when all other Elantrians had lost theirs. Shaor's gang's base was in the bank.{{book ref|Elantris|4}}{{book ref|Elantris|22}}
+Some Elantrians who had not yet succumbed and become Hoed formed gangs that would steal the funeral offerings of food from new entrants to the city in an effort to satiate their ravenous hunger. At a point ten years following the Reod there were three gangs, led by [[Karata]], [[Aanden]], and [[Shaor]]. Karata's gang resided in the Royal Palace and cared for the children residing in the city. Aanden and his followers took residence in the university, using the bindings of its books as a food source. Shaor's followers, a brutal, sub-human horde, worshipped Shaor, who was, in reality, a capricious, petulant little girl, because she was thrown into Elantris wearing her wig, giving her the appearance of a miraculous being who had retained her hair when all other Elantrians had lost theirs. Shaor's gang's base was in the bank.
 
 ### New Elantris
-{{image|Hopeless of Elantris.png|side=right|height=250px|Elantrians suffering after the Reod}}
 
-Ten years after the Reod, [[Raoden]], the crown prince of Arelon, was taken by the Shaod and secretly exiled to Elantris. Under the pseudonym "Spirit", he acquired a number of followers while attempting to improve conditions in the city. He and his followers settled in the area around what had once been a Korathi church and cleaned every surface, even the streets, of the ever-present slime.{{book ref|Elantris|10}} This resettlement eventually came to be known as "New Elantris". Over time, he was able to gain the support of both Karata and Aanden, who returned to his original name of Taan, and most of their supporters.{{book ref|Elantris|13}} He and his followers also made an effort to collect the Hoed from the streets and alleyways and care for them.
+Ten years after the Reod, [[Raoden]], the crown prince of Arelon, was taken by the Shaod and secretly exiled to Elantris. Under the pseudonym "Spirit", he acquired a number of followers while attempting to improve conditions in the city. He and his followers settled in the area around what had once been a Korathi church and cleaned every surface, even the streets, of the ever-present slime. This resettlement eventually came to be known as "New Elantris". Over time, he was able to gain the support of both Karata and Aanden, who returned to his original name of Taan, and most of their supporters. He and his followers also made an effort to collect the Hoed from the streets and alleyways and care for them.
 
 The resettlement was supported in part by the [[Widow's Trial]] of [[Sarene]], Raoden's "widow", which supplied the city with much-needed food and supplies. Due to her initial distrust of "Spirit", she attempted to thwart his plans by obeying the letter but not the spirit of his requests. This forced the Elantrians to be creative with the materials and contributed to the unique culture of New Elantris, such as the garish clothing prompted by Sarene's choice of fabric colors.
 
-Around this time, Raoden, along with [[Galladon]] and Karata, discovered that at least one of the Hoed had been an Elantrian since before the fall. This shocked them, as all the original Elantrians were believed to have been killed in the chaos following the Reod. This Hoed led them to a hidden library containing books on AonDor, among other subjects, as well as a passage to [[Devotion's Perpendicularity|a small pool]] where it appeared Elantrians could go to die. In the library, Raoden was able to gain an understanding of certain aspects of the fall of Elantris. The omnipresent slime, for example, was the result of the decomposition of a microorganism that had thrived on the light given off by the city. When the city fell dark, the organisms died. The microorganism was a type of fungus or mold that thrived on the light and grew as a thin translucent film on everything where it added an enhanced radiance to the already glowing city walls. The mold fungus did not make any mess and was practically imperceptible until it died and rotted into brown slime.{{book ref|elantris|34}} He also discovered the tie between AonDor and the geography of Arelon, and was able to take his first step towards "fixing" AonDor, with the addition of the Chasm line to the Aons.
+Around this time, Raoden, along with [[Galladon]] and Karata, discovered that at least one of the Hoed had been an Elantrian since before the fall. This shocked them, as all the original Elantrians were believed to have been killed in the chaos following the Reod. This Hoed led them to a hidden library containing books on AonDor, among other subjects, as well as a passage to [[Devotion's Perpendicularity|a small pool]] where it appeared Elantrians could go to die. In the library, Raoden was able to gain an understanding of certain aspects of the fall of Elantris. The omnipresent slime, for example, was the result of the decomposition of a microorganism that had thrived on the light given off by the city. When the city fell dark, the organisms died. The microorganism was a type of fungus or mold that thrived on the light and grew as a thin translucent film on everything where it added an enhanced radiance to the already glowing city walls. The mold fungus did not make any mess and was practically imperceptible until it died and rotted into brown slime. He also discovered the tie between AonDor and the geography of Arelon, and was able to take his first step towards "fixing" AonDor, with the addition of the Chasm line to the Aons.
 
 ### The Restoration of Elantris
 During the events of the Invasion of Arelon by [[Dakhor]] monks, Raoden was critically injured and became one of the Hoed. Galladon and Karata, keeping a promise they had made to Raoden, brought him to the lake in order to end his suffering. On the way, Raoden subconsciously noticed that Elantris was itself a broken Aon. After refusing the peace offered by the Lake, he added the Chasm line to the Elantrian Metropolitan District while avoiding capture by the enemy. Karata died protecting him. Once the Chasm line was added, Elantris became a completed Aon and the Elantrians, once stuck in their incomplete state, were transformed into full Elantrians.
@@ -55,76 +53,70 @@ During the events of the Invasion of Arelon by [[Dakhor]] monks, Raoden was crit
 Following Raoden's coronation, Elantris was reinstated as the Arelene capital.
 
 ## Landmarks
-{{image|Elantris Concept Art 2 by Robin Costet.jpg|side=right|width=400px|Bird's eye view of the city of Elantris}}
 
-{{for|/Gallery|images of the city}}
 ### Outer Cities
-Four separate smaller cities surround Elantris, bordered by low walls. Collectively, they are referred to as the outer cities.{{book ref|elantris|8}}{{book ref|elantris|25}}{{book ref|elantris|60}} These four cities, plus Elantris, create Aon Rao.{{book ref|elantris|21}} The cities are named after the Aons for the four cardinal directions: Ake (west), Ato (north), [[Kae]] (east),{{file ref|Elantris-Kae Map.jpg}} and Toa (south).{{book ref|elantris|61}} The cities are dense enough when populated that they require magical support from Elantris to survive; after the Reod, Iadon conscripts the inhabitants as laborers for his new government, and all cities are left abandoned,{{book ref|elantris|25}} except for Kae, which he makes the capital of Arelon.{{book ref|elantris|2}}
+Four separate smaller cities surround Elantris, bordered by low walls. Collectively, they are referred to as the outer cities. These four cities, plus Elantris, create Aon Rao. The cities are named after the Aons for the four cardinal directions: Ake (west), Ato (north), [[Kae]] (east), and Toa (south). The cities are dense enough when populated that they require magical support from Elantris to survive; after the Reod, Iadon conscripts the inhabitants as laborers for his new government, and all cities are left abandoned, except for Kae, which he makes the capital of Arelon.
 
 ### Royal Palace
-Located at the exact center of Elantris, the palace is one of the largest buildings in the city, large enough to retain its magnificence even during the city's time of decay. It has five wings with domes topped with spires. The center spire, the only one to remain standing at the time of Raoden's arrival, has steps winding around it that allowed those who climbed it to have an unparalleled view of the surrounding city.{{book ref|Elantris|4}} It served as the meeting place for the council, elected by the Elantrian elders, that ruled over the city and the lands under its control.{{book ref|Elantris|13}}
+Located at the exact center of Elantris, the palace is one of the largest buildings in the city, large enough to retain its magnificence even during the city's time of decay. It has five wings with domes topped with spires. The center spire, the only one to remain standing at the time of Raoden's arrival, has steps winding around it that allowed those who climbed it to have an unparalleled view of the surrounding city. It served as the meeting place for the council, elected by the Elantrian elders, that ruled over the city and the lands under its control.
 
-The palace served as the base of operations for Karata's gang.{{book ref|Elantris|4}}
+The palace served as the base of operations for Karata's gang.
 
 ### University
-The university borders the palace. It consists of five or six long buildings, with open spaces between them.{{book ref|Elantris|4}}
+The university borders the palace. It consists of five or six long buildings, with open spaces between them.
 
-The university served as the base of operations for Aanden's gang. He utilized the university's extensive library as a food source for his followers.{{book ref|Elantris|4}}
+The university served as the base of operations for Aanden's gang. He utilized the university's extensive library as a food source for his followers.
 
 ### Hidden Library
-The hidden library is located below an Elantrian meetinghouse. Its entrance is marked by an [[Aon#Tae| Aon Tae]], which, when pressed, opened the entryway. Although it is marked by an Aon, the door itself works through a system of gears and is devoid of any magical effects. It was considered a holy place by the Elantrians and AonDor was forbidden there; the reasons why are unknown. As a result, the library was the only part of Elantris not covered in the ever-present slime.{{book ref|Elantris|25}}
+The hidden library is located below an Elantrian meetinghouse. Its entrance is marked by an [[Aon#Tae| Aon Tae]], which, when pressed, opened the entryway. Although it is marked by an Aon, the door itself works through a system of gears and is devoid of any magical effects. It was considered a holy place by the Elantrians and AonDor was forbidden there; the reasons why are unknown. As a result, the library was the only part of Elantris not covered in the ever-present slime.
 
-In addition to the extensive collection of books, both on AonDor and other subjects, the library held numerous murals depicting scenes important to the Elantrians. One of the murals, in a place of importance, is of an Elantrian facing a "mirror-like blue oval," believed to represent [[Devotion's Perpendicularity|the lake]] in the mountains. The mural is actually sideways, as the Elantrian is actually falling towards the oval. On the other side of the oval is a white sphere of unknown meaning.{{book ref|Elantris|25}}
+In addition to the extensive collection of books, both on AonDor and other subjects, the library held numerous murals depicting scenes important to the Elantrians. One of the murals, in a place of importance, is of an Elantrian facing a "mirror-like blue oval," believed to represent [[Devotion's Perpendicularity|the lake]] in the mountains. The mural is actually sideways, as the Elantrian is actually falling towards the oval. On the other side of the oval is a white sphere of unknown meaning.
 
-During the Invasion of Arelon, the hidden library was where [[Ashe]] took the Elantrian children for safekeeping.{{book ref|thoe}} 
+During the Invasion of Arelon, the hidden library was where [[Ashe]] took the Elantrian children for safekeeping. 
 
-The hidden library also held a secret passage to the Lake.{{book ref|Elantris|25}}
+The hidden library also held a secret passage to the Lake.
 
-{{image|Elantris TW 1st cover art.jpg|side=right|height=300px|The walls of Elantris}}
 ### Bank
-Elantris's bank is located in the market district, which, before the Reod, was a gathering place for merchants from across Opelon.{{book ref|Elantris|4}}
+Elantris's bank is located in the market district, which, before the Reod, was a gathering place for merchants from across Opelon.
 
-The bank served as the base of operations for Shaor's gang.{{book ref|Elantris|22}}
+The bank served as the base of operations for Shaor's gang.
 
 ### Korathi Church
-The Elantrians built the Korathi church as a sign of friendship to the people of Teod, the center of Shu-Korath. It is said to be "the most beautiful of its kind". The fact that the Elantrians, themselves viewed as gods before the Reod, allowed another religion to have a place of worship in their city is somewhat surprising to most.{{book ref|Elantris|10}}
+The Elantrians built the Korathi church as a sign of friendship to the people of Teod, the center of Shu-Korath. It is said to be "the most beautiful of its kind". The fact that the Elantrians, themselves viewed as gods before the Reod, allowed another religion to have a place of worship in their city is somewhat surprising to most.
 
 The Korathi Church served as the center and main meeting place of the New Elantris settlement.
 
 ### The Roost
-Located in close proximity to the Korathi church, and so inside the bounds of the New Elantris settlement, the Roost serves as a home for over fifty Elantrian children and their caregiver [[Matisse]]. The proximity to the main meeting place ensures that the adults of New Elantris are never too far away from the children. The intricate carvings of birds on the outside are what give the building its name. It is a rather large, open-windowed building.{{book ref|thoe}}
+Located in close proximity to the Korathi church, and so inside the bounds of the New Elantris settlement, the Roost serves as a home for over fifty Elantrian children and their caregiver [[Matisse]]. The proximity to the main meeting place ensures that the adults of New Elantris are never too far away from the children. The intricate carvings of birds on the outside are what give the building its name. It is a rather large, open-windowed building.
 
 ## AonDor
-{{image|Aon_Rao.svg|side=right|width=250px|Aon Rao, the Aon upon which the Elantrian Metropolitan District is based}}
+
 The City of Elantris has a strong link with the practice of AonDor. Not only are its inhabitants, the Elantrians, the only known practitioners of the art, but the city itself is powered by it. In turn, the city acts as a focus, amplifying the strength of AonDor greatly in its vicinity.
 
 ### Elantrians
-{{for|Elantrian|more info}}
-{{quote
-|Yet, as magnificent as Elantris was, its inhabitants were more so. Their hair a brilliant white, their skin an almost metallic silver, the Elantrians seemed to shine like the city itself. Legends claim that they were immortal, or at least nearly so. Their bodies healed quickly, and they were blessed with great strength, insight, and speed. They could perform magics with a bare wave of the hand... They were divinities. <br/>And anyone could become one.
-|[[Elantris/Summary#Prologue|Elantris Prologue]]{{book ref|Elantris|prologue}}
-}}
+
+> Yet, as magnificent as Elantris was, its inhabitants were more so. Their hair a brilliant white, their skin an almost metallic silver, the Elantrians seemed to shine like the city itself. Legends claim that they were immortal, or at least nearly so. Their bodies healed quickly, and they were blessed with great strength, insight, and speed. They could perform magics with a bare wave of the hand... They were divinities. <br/>And anyone could become one.
+> — [[Elantris/Summary#Prologue|Elantris Prologue]]
+
 The Elantrians are those who have gone through the Shaod, and can afterward practice AonDor. The Elantrians were the rulers of Elantris and Arelon prior to the Reod. They are marked by their pure white hair and silver skin.
 
 ### The Shaod
-{{quote
-|The Shaod, it was called. The Transformation. It struck randomly&mdash;usually at night, during the mysterious hours when life slowed to rest. The Shaod could take beggar, craftsman, nobleman, or warrior.
-|[[Elantris/Summary#Prologue|Elantris Prologue]]{{book ref|Elantris|prologue}}
-}}
-The Shaod is the process by which ordinary people become Elantrians. The only restrictions are that the individual must be of Aonic descent and be within area of the Elantris effect. [[Aon#Mea|Aon Mea]] describes the area in which the Shaod can occur.{{wob ref|5946}}
+
+> The Shaod, it was called. The Transformation. It struck randomly&mdash;usually at night, during the mysterious hours when life slowed to rest. The Shaod could take beggar, craftsman, nobleman, or warrior.
+> — [[Elantris/Summary#Prologue|Elantris Prologue]]
+
+The Shaod is the process by which ordinary people become Elantrians. The only restrictions are that the individual must be of Aonic descent and be within area of the Elantris effect. [[Aon#Mea|Aon Mea]] describes the area in which the Shaod can occur.
 
 ### Power Amplification
-In AonDor, Aon Rao acts as a power amplifier, increasing the strength of Aon equations that incorporate it. The Elantrian Metropolitan District is a massive Aon Rao that magnifies the strength of Aons drawn by the Elantrians in close proximity to it.{{wob ref|2230}}
+In AonDor, Aon Rao acts as a power amplifier, increasing the strength of Aon equations that incorporate it. The Elantrian Metropolitan District is a massive Aon Rao that magnifies the strength of Aons drawn by the Elantrians in close proximity to it.
 
-The streets of Elantris form an enormous Aon Ela, which does not currently have any effect.{{wob ref|852}}
+The streets of Elantris form an enormous Aon Ela, which does not currently have any effect.
 
 ### Minor Uses
-Most rooms within Elantris have metal plates inscribed with [[Aon#Ashe|Aon Ashe]] that provide illumination.{{book ref|Elantris|7}} There are also metal plates inscribed with [[Aon#Tia|Aon Tia]] that allow for instantaneous travel from plate to plate within the city.{{book ref|Elantris|19}}
+Most rooms within Elantris have metal plates inscribed with [[Aon#Ashe|Aon Ashe]] that provide illumination. There are also metal plates inscribed with [[Aon#Tia|Aon Tia]] that allow for instantaneous travel from plate to plate within the city.
 
 ## Notable Residents
-{{image|Elantrians by Shuravf.jpeg|side=left|width=250px|Elantrians}}
-{{for|:Category:Residents of Elantris|a full list see}}
-{{columns|
+
 *[[Raoden]]
 *[[Galladon]]
 *[[Saolin]]
@@ -134,16 +126,13 @@ Most rooms within Elantris have metal plates inscribed with [[Aon#Ashe|Aon Ashe]
 *[[Idotris]]
 *[[Matisse]]
 *[[Shaor]]
-}}
-
 
 ## Trivia
-* In the original draft of the novel that eventually became Elantris, the city was known as "Adonis". Brandon changed the name of the city after preliminary readers pointed out Adonis was the name of a figure from Greek mythology.{{wob ref|1881}}
-* Brandon designed the three gangs who hold sway over Elantris at the time of Raoden's arrival to represent the three aspects the Elantrians had to overcome. Karata's gang, with its isolationist policies, represents their solitude. Aanden's, or rather Taan's, self-imposed madness represents their self-pity. Shaor's gang of "wildmen" represents their pain.{{wob ref|1966}}
-* The wall was not [[Soulcast]] but was constructed by local magic.{{wob ref|10824}}
+* In the original draft of the novel that eventually became Elantris, the city was known as "Adonis". Brandon changed the name of the city after preliminary readers pointed out Adonis was the name of a figure from Greek mythology.
+* Brandon designed the three gangs who hold sway over Elantris at the time of Raoden's arrival to represent the three aspects the Elantrians had to overcome. Karata's gang, with its isolationist policies, represents their solitude. Aanden's, or rather Taan's, self-imposed madness represents their self-pity. Shaor's gang of "wildmen" represents their pain.
+* The wall was not [[Soulcast]] but was constructed by local magic.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 08:49, 3 June 2017 (MST)}}
-{{Elantris}}
+
 [[es:Elantris (ciudad)]]

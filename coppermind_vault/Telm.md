@@ -1,13 +1,14 @@
-{{lifeform
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Telm** is a creature on [[Roshar]].{{book ref|sa2|17}}
+---
+source_file: Telm.txt
+entity_type: lifeform
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+**Telm** is a creature on [[Roshar]].
 
 It is a higher prize than mink to most game hunters.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 10:31, 7 December 2017 (MST)}}
-{{Stormlight}}

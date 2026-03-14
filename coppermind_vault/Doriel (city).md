@@ -1,16 +1,17 @@
-{{settlement
-|region=Elendel Basin
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-**Doriel** is a city in the [[Elendel Basin]].{{map ref|Elendel Basin}} It is southeast of [[Elendel]].
+---
+source_file: Doriel (city).txt
+entity_type: settlement
+region: Elendel Basin
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
 
-It shares the name of the [[Ashmount]] Doriel, and is in fact in the same place as that Ashmount used to be before the [[Catacendre]].{{map ref|Final Empire|the Final Empire}}
+**Doriel** is a city in the [[Elendel Basin]]. It is southeast of [[Elendel]].
 
-Doriel is the only city in the Elendel Basin outside of Elendel itself that has a railway interchange.{{book ref|mb6|5}} All other rail traffic must flow through Elendel. The Doriel interchange has a branch that leads to [[Tarier]].{{map ref|Elendel Basin}}
+It shares the name of the [[Ashmount]] Doriel, and is in fact in the same place as that Ashmount used to be before the [[Catacendre]].
+
+Doriel is the only city in the Elendel Basin outside of Elendel itself that has a railway interchange. All other rail traffic must flow through Elendel. The Doriel interchange has a branch that leads to [[Tarier]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:21, 26 December 2016 (MST)}}
-{{Mistborn|Era 2}}

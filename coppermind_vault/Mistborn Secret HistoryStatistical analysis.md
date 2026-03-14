@@ -1,3 +1,8 @@
+---
+source_file: Mistborn Secret HistoryStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains some statistical analysis of ***[[Mistborn: Secret History]]***.
 
 For a full series overview see [[Mistborn/Statistical analysis]].
@@ -92,8 +97,6 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 
 |}
 
-{{meta/done}}
-{{Mistborn|Era 1}}
 [[category: Mistborn|*e1.4e]]
 [[category: Mistborn Era 1|*1e]]
 [[category: statistics]]

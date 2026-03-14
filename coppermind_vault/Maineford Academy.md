@@ -1,11 +1,14 @@
-{{architecture
-|usage={{cat tag|Academic institutions|Academy}} of {{tag|Rithmatics}}
-|earth=Rithmatist|nation=United Isles of America|state=Maineford
-|books=[[The Rithmatist]]
-}}
-**Maineford Academy** is one of the eight schools that teach [[Rithmatics]]. It is located on [[Maineford]].{{map ref|united isles|the United Isles}}
+---
+source_file: Maineford Academy.txt
+entity_type: architecture
+usage: of Rithmatics
+earth: Rithmatist
+nation: United Isles of America
+state: Maineford
+books: '[[The Rithmatist]]'
+---
+
+**Maineford Academy** is one of the eight schools that teach [[Rithmatics]]. It is located on [[Maineford]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 17:42, 25 December 2016 (MST)}}
-{{Rithmatist}}

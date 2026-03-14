@@ -1,0 +1,31 @@
+{{shard info
+|image=Whimsy by zoethatcher art.jpg
+|vessel=''Unknown''
+|slivers=''Unknown''
+|splinters=''Unknown''
+|status=Whole{{epigraph ref|sa4|25}}
+|residence=''Unknown''
+|books=[[The Stormlight Archive]], [[Mistborn Era 2]]
+}}
+
+'''Whimsy''' is a [[Shard]] of [[Adonalsium]] that has not been [[Splinter#Formation|Splintered]] and whose Vessel is unknown.{{epigraph ref|sa4|25}}
+
+== Intent ==
+Very little is known about Whimsy's Intent, outside it not being congruous with intense planning and ambitions.{{book ref|mb7|35}} It is also not calculating nor deliberate.{{wob ref|14494}}
+
+== History ==
+Like all Shards, Whimsy was created at the [[Shattering]] of [[Adonalsium]], and picked up by an unknown Vessel.{{msh ref|3|2}} It is not known what Whimsy did directly after their Ascension, or where they settled, if they settled at all.
+
+Some time around the [[True Desolation]], [[Harmony]], by [[Hoid]]'s request, reached out to Whimsy about the threat posed by [[Odium]], but their exchange left him with the impression that Whimsy would not be particularly useful.{{epigraph ref|sa4|22}}{{epigraph ref|sa4|25}} Members of the [[Set]] were aware of the existence of Whimsy.{{book ref|mb7|35}}
+
+== Trivia ==
+* [[Hoid]] would not be happy to take up the Whimsy Shard.{{wob ref|14494}}
+* Whimsy is the most dangerous Shard to a person's sense of decorum and self-worth.{{wob ref|15829}}
+* In ''[[wikipedia:Magic: The Gathering|Magic: The Gathering]]'' colors, Whimsy would be mono-red.{{wob ref|16025}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:58, 5 September 2023 (UTC)}}
+{{cosmere}}
+[[es:Capricho]]
+[[uk:Примха]]

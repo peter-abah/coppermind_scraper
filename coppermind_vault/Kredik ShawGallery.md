@@ -1,3 +1,8 @@
+---
+source_file: Kredik ShawGallery.txt
+entity_type: article
+---
+
 ## Maps
 <gallery mode="packed" heights=250px caption="Official artwork">
 Luthadel.png | <center><small>by [[Isaac Stewart]]</small></center> Map of [[Luthadel]], including Kredik Shaw
@@ -7,9 +12,6 @@ MAG cover artwork.jpg | <center><small>by [[Ben McSweeney]]</small></center> On 
 TFE US 2023 Cover Art.png | <center><small>by {{a|Danny Schlitz}}</small></center> *[[Mistborn: The Final Empire]]* cover (US, 2023) 
 WOA US 2023 Cover Art.jpg | <small><center>by {{a|Danny Schlitz}}</center></small> *[[The Well of Ascension]]* (2023) 
 Luthadel by Geoff Shupe.jpg | <center><small>by {{a|Geoff Shupe}}</small></center> Year of the Sanderson postcard
-
-
-
 
 </gallery>
 

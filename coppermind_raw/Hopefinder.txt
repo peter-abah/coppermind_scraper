@@ -1,0 +1,40 @@
+{{character
+|titles=Hopefinder the Just, God of Innocence and Beauty
+|abilities={{tag|Returned}}, {{tag+|Cognitive Shadow}}
+|nation=Hallandren
+|residence=T'Telir
+|world=Nalthis
+|universe=[[Cosmere]]
+|introduced=[[Warbreaker]]
+}}
+'''Hopefinder the Just''', god of innocence and beauty, was a [[Returned]] from [[Hallandren]] on [[Nalthis]]. 
+
+== Appearance and Personality ==
+Hopefinder became a Returned eleven years before the [[Pahn Kahl rebellion]]. His body died at the age of two, and he now appears to be an unusually strong thirteen year old. However his voice and maturity rapidly progressed, to the point where [[Lightsong]] describes him as "a boy trying to imitate his father". His first few years as a Returned were marked by his ability to think and act like an adult, despite his apparent age. . His colors are violet and silver.<!-- This has been updated to reflect the Warbreaker leatherbound. Older versions list Hopefinder's colors as lavender and silver-->  He is the fifth oldest Returned in the court,{{book ref|wb|30}} though he physically appears as the youngest in age.{{wob ref|6966}}
+
+His apparent age is also inconsistent with his formal disposition. He is unaffected by [[Blushweaver]]'s flirtatious personality and seems to authentically care for those who bring their petitions to him. During his conversation with Lightsong and Blushweaver, Hopefinder even admits he's considered relinquishing his [[divine Breath]] in order to heal someone else.{{book ref|wb|30}}
+{{sidequote
+|Your vote is all the influence you have. It isn't flashy, but it is potent.
+|Hopefinder{{book ref|wb|30}}
+|side=right|size=225px
+}}
+Hopefinder's objective is to have a substantial impact on the government. Responsible for a quarter of the city's [[Lifeless]] soldiers, he expresses his frustration and boredom with the little sway he has in the [[Court of Gods]] during peacetime. He is also confident that the troubles in the city will blow over, especially since he believes [[Siri]] and [[Susebron]] are well on their way to producing an heir. Indeed, he seems to be well informed of events both inside the God King's palace and outside the city's walls. For these reasons, he agrees to exchange the pass code for his share of the lifeless soldiers for Blushweaver's vote on the council of social ills. His code for his [[Lifeless]] soldiers is "A candle by which to see," which is a famous poem in Hallandren. After sharing his code phrase, Blushweaver is instructed to begin voting for the reformist arguments. This suggests that he is not only well informed of the current political situation but also eager to begin exercising his newfound influence.{{book ref|wb|30}}
+
+== Attributes and Abilities ==
+As a [[Returned]], Hopefinder has a [[divine Breath]] which gives him the benefits of being on the [[Fifth Heightening]]. This includes:
+* Aura Recognition - allows him to assess the number of Breaths a person possesses. 
+* Perfect Pitch
+* Perfect Color Recognition - allows him to instantly and instinctively determine exact shades of colors and their hue harmonics.
+* Perfect Life Sense - allows him to sense people around him.
+* Agelessness - makes him immune to most toxins and physical ailments, as well as making him functionally immortal.
+
+Hopefinder is one of the Returned with the duty and responsibility of holding the security phrases to control ten thousand Lifeless, a quarter of Hallandren's army. {{book ref |wb |30}}
+
+== Trivia ==
+*Because a god's appearance is based on what that individual believes a god should look like, Brandon chose to use this character to show gods of various ages. Since most of the present Court of the Gods are young, manipulative, and majestically beautiful, Hopefinder's age and maturity are an intentional contrast.{{wob ref|6966}}
+* In the 10th Anniversary leatherbound edition of ''Warbreaker'' Hopefinder's colors were changed from lavender and silver to violet and silver.
+
+== Notes ==
+<references /><!-- 30, 34, 38, annotation 30 -->
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 19:23, 28 May 2022 (UTC)}}
+{{Warbreaker}}

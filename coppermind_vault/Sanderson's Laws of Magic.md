@@ -1,4 +1,9 @@
-[[Brandon]] has so far written three articles pertaining to the usage of magic in writing. They aren't hard rules, but rather guidelines Brandon uses when writing. They can also be used for writing in general, not just for magic systems.{{wob ref|19}}{{wob ref|6227}}{{wob ref|4791}}
+---
+source_file: Sanderson's Laws of Magic.txt
+entity_type: wob ref
+---
+
+[[Brandon]] has so far written three articles pertaining to the usage of magic in writing. They aren't hard rules, but rather guidelines Brandon uses when writing. They can also be used for writing in general, not just for magic systems.
 
 ## [[bws: sandersons-first-law|Sanderson's First Law]]
 
@@ -52,11 +57,11 @@ Remember, however, not to streamline too far as that will make the single cultur
 
     **Err on the side of AWESOME.**
 
-Brandon has, in his online lectures, described his ultimate rule as that of making magic "awesome" (in the colloquial sense), and further implied that said "awesomeness" takes precedence over exact obedience to the other three laws.{{wob ref|6227}} This rule is primarily to be understood in the sense of beginning with an interesting (i.e. "awesome") idea, and building the magic system or fantastical technology upon said idea from there, rather than to simply disregarding the previously mentioned laws - rather, those laws should bend to the "awesomeness" of the idea, and not take priority over it, thus keeping the idea behind the magic system "awesome".{{wob ref|7077}}
+Brandon has, in his online lectures, described his ultimate rule as that of making magic "awesome" (in the colloquial sense), and further implied that said "awesomeness" takes precedence over exact obedience to the other three laws. This rule is primarily to be understood in the sense of beginning with an interesting (i.e. "awesome") idea, and building the magic system or fantastical technology upon said idea from there, rather than to simply disregarding the previously mentioned laws - rather, those laws should bend to the "awesomeness" of the idea, and not take priority over it, thus keeping the idea behind the magic system "awesome".
 
 The naming of this law is a reference to Isaac Asimov's Zeroth Law of his Three Laws of Robotics.
 
 ## Notes
 <references />
-{{real world|partial}}
+
 [[es:Leyes de la magia de Sanderson]]

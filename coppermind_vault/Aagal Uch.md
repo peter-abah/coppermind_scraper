@@ -1,3 +1,8 @@
+---
+source_file: Aagal Uch.txt
+entity_type: article
+---
+
 #REDIRECT [[Scadrian system]]
 [[Category: Subsection redirects]]
 [[Category: Cosmere]]

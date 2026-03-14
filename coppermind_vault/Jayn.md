@@ -1,18 +1,17 @@
 ---
-abilities: "{{tag+|lightweaver"
+source_file: Jayn.txt
+entity_type: character
+abilities: lightweaver
+groups: Knights Radiant <small>([[Order of Lightweavers|Lightweavers]])</small>, Unseen
+  Court
+residence: Urithiru
+nation: Rira
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|groups={{tag|Knights Radiant}} <small>([[Order of Lightweavers|Lightweavers]])</small>, {{tag|Unseen Court}}
-|residence=Urithiru
-|nation=Rira
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-**Jayn** is a member of the [[Unseen Court]] on [[Roshar]].{{book ref|sa5|21}}
+**Jayn** is a member of the [[Unseen Court]] on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{stormlight}}

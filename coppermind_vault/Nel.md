@@ -1,13 +1,13 @@
 ---
-residence: "Alethi warcamps"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Stormlight World Guide"
+source_file: Nel.txt
+entity_type: character
+residence: Alethi warcamps
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Stormlight World Guide]]'
 ---
 
-**Nel** is a [[Bavland]]er spy living in the [[Aladar]] warcamp on the [[Shattered Plains]] of [[Roshar]]. She is the owner of the notorious [[Red Rockbud]], a gambling den.{{rpg ref|slwg|164}} She is ambitious, cunning and unassuming, aiming to acquire information to sell. She appears dark-eyed with pale skin and stringy black hair. She sometimes wears a green cloak and breeches, and her [[safehand]] is often exposed. Nel doesn’t care for Vorin traditions, her eyes are set on greater things and she came to the [[Shattered Plains]] in search of opportunity. The [[Alethi]] in the warcamps underestimate her talents, dismissing her as a backwater rube. She plays up her hapless persona to draw information and [[sphere]]s out of her targets, selling whatever she learns to the highest bidder.{{rpg ref|slsw|42}} Nel is said to be very well connected, and her only friends are the people who she owes favors to.{{rpg ref|slsw|41}}
+**Nel** is a [[Bavland]]er spy living in the [[Aladar]] warcamp on the [[Shattered Plains]] of [[Roshar]]. She is the owner of the notorious [[Red Rockbud]], a gambling den. She is ambitious, cunning and unassuming, aiming to acquire information to sell. She appears dark-eyed with pale skin and stringy black hair. She sometimes wears a green cloak and breeches, and her [[safehand]] is often exposed. Nel doesn’t care for Vorin traditions, her eyes are set on greater things and she came to the [[Shattered Plains]] in search of opportunity. The [[Alethi]] in the warcamps underestimate her talents, dismissing her as a backwater rube. She plays up her hapless persona to draw information and [[sphere]]s out of her targets, selling whatever she learns to the highest bidder. Nel is said to be very well connected, and her only friends are the people who she owes favors to.
 
 ## Notes
 <references />
-{{complete}}
-{{Stormlight}}

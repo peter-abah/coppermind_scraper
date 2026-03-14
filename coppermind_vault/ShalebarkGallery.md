@@ -1,3 +1,8 @@
+---
+source_file: ShalebarkGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=400px caption="Official artwork">
 Shalebark.jpg| <small><center>by {{a|Ben McSweeney}}</center></small>

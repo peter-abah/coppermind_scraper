@@ -1,14 +1,15 @@
-{{architecture
-|nation=Final Empire
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[The Final Empire]]
-}}
-**Conway Canal** is the main canal into the [[Western Dominance]] of the [[Final Empire]].{{book ref|mb3|25}}
+---
+source_file: Conway Canal.txt
+entity_type: architecture
+nation: Final Empire
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[The Final Empire]]'
+---
+
+**Conway Canal** is the main canal into the [[Western Dominance]] of the [[Final Empire]].
 
 It runs nearby [[Fadrex City]] before turning to the northwest, presumably towards [[Tremredare]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 10:55, 11 September 2018 (MST)}}
-{{Mistborn|Era 1}}

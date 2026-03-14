@@ -1,0 +1,12 @@
+{{culture
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+
+A '''luckmerch''' is a type of traveling merchant on Roshar that sells [[glyphward]]s and other charms. Most people aren’t afraid of luckmerches or hold superstitious beliefs about the sellers themselves, though some such as [[Kaladin]] dislike them, since they don’t actually help anyone in a valuable way.{{book ref|twok|25}} There are several of them in [[Torol Sadeas|Sadeas’s]] warcamp, among other businesses that aren’t reputable enough to have a place in [[Urithiru]].{{book ref|row|2}} 
+
+== Notes ==
+<references />
+{{complete|[[User:Jofwu|Jofwu]] ([[User talk:Jofwu|talk]]) 21:12, 24 January 2022 (UTC)}}
+{{Stormlight}}

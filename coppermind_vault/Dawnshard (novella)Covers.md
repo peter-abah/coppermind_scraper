@@ -1,4 +1,7 @@
-{{CoverToC|sa}}
+---
+source_file: Dawnshard (novella)Covers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[Dawnshard (novella)|Dawnshard]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

@@ -1,0 +1,557 @@
+This page contains a statistical analysis of '''''[[Warbreaker]]'''''.
+
+Information used for this page is located [https://docs.google.com/spreadsheets/d/1iodY8VsGcahpzx5SFZcE-QIV7Wj8rV9-n7uIt0HdD_A/edit#gid=684717550 here].
+
+=== Chapter by Chapter Breakdown ===
+{| class="wikitable sortable"
+!Chapter
+!Character
+!Word Count
+!Percentage
+|-
+| [[Warbreaker/Summary#Prologue|Prologue]]
+| [[Vasher]]
+| align="right" | 3,248
+| align="right" | 1.66%
+|-
+|  rowspan="2" | [[Warbreaker/Summary#Chapter 1|Chapter 1]]
+| [[Siri]]
+| align="right" | 1,665
+| align="right" | 0.85%
+|-
+| [[Dedelin]]
+| align="right" | 2,056
+| align="right" | 1.05%
+|-
+|  rowspan="4" | [[Warbreaker/Summary#Chapter 2|Chapter 2]]
+| [[Siri]]
+| align="right" | 411
+| align="right" | 0.21%
+|-
+| [[Vivenna]]
+| align="right" | 902
+| align="right" | 0.46%
+|-
+| [[Siri]]
+| align="right" | 638
+| align="right" | 0.33%
+|-
+| [[Vivenna]]
+| align="right" | 692
+| align="right" | 0.35%
+|-
+| [[Warbreaker/Summary#Chapter 3|Chapter 3]]
+| [[Lightsong]]
+| align="right" | 3,558
+| align="right" | 1.82%
+|-
+| [[Warbreaker/Summary#Chapter 4|Chapter 4]]
+| [[Siri]]
+| align="right" | 1,848
+| align="right" | 0.94%
+|-
+|  rowspan="2" | [[Warbreaker/Summary#Chapter 5|Chapter 5]]
+| [[Vasher]]
+| align="right" | 2,169
+| align="right" | 1.11%
+|-
+| [[Lightsong]]
+| align="right" | 1,236
+| align="right" | 0.63%
+|-
+| [[Warbreaker/Summary#Chapter 6|Chapter 6]]
+| [[Siri]]
+| align="right" | 4,280
+| align="right" | 2.18%
+|-
+|  rowspan="2" | [[Warbreaker/Summary#Chapter 7|Chapter 7]]
+| [[Siri]]
+| align="right" | 964
+| align="right" | 0.49%
+|-
+| [[Lightsong]]
+| align="right" | 2,696
+| align="right" | 1.38%
+|-
+| [[Warbreaker/Summary#Chapter 8|Chapter 8]]
+| [[Siri]]
+| align="right" | 2,948
+| align="right" | 1.50%
+|-
+| [[Warbreaker/Summary#Chapter 9|Chapter 9]]
+| [[Vivenna]]
+| align="right" | 3,386
+| align="right" | 1.73%
+|-
+| [[Warbreaker/Summary#Chapter 10|Chapter 10]]
+| [[Vivenna]]
+| align="right" | 2,524
+| align="right" | 1.29%
+|-
+| [[Warbreaker/Summary#Chapter 11|Chapter 11]]
+| [[Siri]]
+| align="right" | 2,694
+| align="right" | 1.37%
+|-
+|  rowspan="2" | [[Warbreaker/Summary#Chapter 12|Chapter 12]]
+| [[Lightsong]]
+| align="right" | 2,805
+| align="right" | 1.43%
+|-
+| [[Siri]]
+| align="right" | 248
+| align="right" | 0.13%
+|-
+|  rowspan="2" | [[Warbreaker/Summary#Chapter 13|Chapter 13]]
+| [[Vivenna]]
+| align="right" | 2,456
+| align="right" | 1.25%
+|-
+| [[Siri]]
+| align="right" | 589
+| align="right" | 0.30%
+|-
+|  rowspan="4" | [[Warbreaker/Summary#Chapter 14|Chapter 14]]
+| [[Lightsong]]
+| align="right" | 1,621
+| align="right" | 0.83%
+|-
+| [[Siri]]
+| align="right" | 960
+| align="right" | 0.49%
+|-
+| [[Vivenna]]
+| align="right" | 1,628
+| align="right" | 0.83%
+|-
+| [[Siri]]
+| align="right" | 164
+| align="right" | 0.08%
+|-
+|  rowspan="4" | [[Warbreaker/Summary#Chapter 15|Chapter 15]]
+| [[Siri]]
+| align="right" | 233
+| align="right" | 0.12%
+|-
+| [[Lightsong]]
+| align="right" | 189
+| align="right" | 0.10%
+|-
+| [[Siri]]
+| align="right" | 1,535
+| align="right" | 0.78%
+|-
+| [[Vivenna]]
+| align="right" | 191
+| align="right" | 0.10%
+|-
+|  rowspan="3" | [[Warbreaker/Summary#Chapter 16|Chapter 16]]
+| [[Lightsong]]
+| align="right" | 1,294
+| align="right" | 0.66%
+|-
+| [[Siri]]
+| align="right" | 896
+| align="right" | 0.46%
+|-
+| [[Lightsong]]
+| align="right" | 1,255
+| align="right" | 0.64%
+|-
+| [[Warbreaker/Summary#Chapter 17|Chapter 17]]
+| [[Vivenna]]
+| align="right" | 2,893
+| align="right" | 1.48%
+|-
+|  rowspan="2" | [[Warbreaker/Summary#Chapter 18|Chapter 18]]
+| [[Siri]]
+| align="right" | 1,453
+| align="right" | 0.74%
+|-
+| [[Lightsong]]
+| align="right" | 1,206
+| align="right" | 0.62%
+|-
+| [[Warbreaker/Summary#Chapter 19|Chapter 19]]
+| [[Vivenna]]
+| align="right" | 3,698
+| align="right" | 1.89%
+|-
+| [[Warbreaker/Summary#Chapter 20|Chapter 20]]
+| [[Siri]]
+| align="right" | 1,956
+| align="right" | 1.0%
+|-
+| [[Warbreaker/Summary#Chapter 21|Chapter 21]]
+| [[Vasher]]
+| align="right" | 2,344
+| align="right" | 1.20%
+|-
+|  rowspan="2" | [[Warbreaker/Summary#Chapter 22|Chapter 22]]
+| [[Lightsong]]
+| align="right" | 2,259
+| align="right" | 1.15%
+|-
+| [[Vivenna]]
+| align="right" | 6,936
+| align="right" | 3.54%
+|-
+| [[Warbreaker/Summary#Chapter 23|Chapter 23]]
+| [[Lightsong]]
+| align="right" | 3,684
+| align="right" | 1.88%
+|-
+| [[Warbreaker/Summary#Chapter 24|Chapter 24]]
+| [[Siri]]
+| align="right" | 2,916
+| align="right" | 1.49%
+|-
+| [[Warbreaker/Summary#Chapter 25|Chapter 25]]
+| [[Vivenna]]
+| align="right" | 3,384
+| align="right" | 1.73%
+|-
+| [[Warbreaker/Summary#Chapter 26|Chapter 26]]
+| [[Lightsong]]
+| align="right" | 5,174
+| align="right" | 2.64%
+|-
+| [[Warbreaker/Summary#Chapter 27|Chapter 27]]
+| [[Siri]]
+| align="right" | 4,265
+| align="right" | 2.18%
+|-
+| [[Warbreaker/Summary#Chapter 28|Chapter 28]]
+| [[Vivenna]]
+| align="right" | 3,832
+| align="right" | 1.95%
+|-
+|  rowspan="3" | [[Warbreaker/Summary#Chapter 29|Chapter 29]]
+| [[Siri]]
+| align="right" | 2,511
+| align="right" | 1.28%
+|-
+| [[Vivenna]]
+| align="right" | 652
+| align="right" | 0.33%
+|-
+| [[Vasher]]
+| align="right" | 307
+| align="right" | 0.16%
+|-
+| [[Warbreaker/Summary#Chapter 30|Chapter 30]]
+| [[Lightsong]]
+| align="right" | 3,548
+| align="right" | 1.81%
+|-
+| [[Warbreaker/Summary#Chapter 31|Chapter 31]]
+| [[Vivenna]]
+| align="right" | 4,037
+| align="right" | 2.06%
+|-
+| [[Warbreaker/Summary#Chapter 32|Chapter 32]]
+| [[Siri]]
+| align="right" | 5,116
+| align="right" | 2.61%
+|-
+| [[Warbreaker/Summary#Chapter 33|Chapter 33]]
+| [[Vivenna]]
+| align="right" | 3,039
+| align="right" | 1.55%
+|-
+|  rowspan="2" | [[Warbreaker/Summary#Chapter 34|Chapter 34]]
+| [[Lightsong]]
+| align="right" | 1,591
+| align="right" | 0.81%
+|-
+| [[Siri]]
+| align="right" | 2,227
+| align="right" | 1.14%
+|-
+| [[Warbreaker/Summary#Chapter 35|Chapter 35]]
+| [[Vivenna]]
+| align="right" | 4,293
+| align="right" | 2.19%
+|-
+| [[Warbreaker/Summary#Chapter 36|Chapter 36]]
+| [[Siri]]
+| align="right" | 3,159
+| align="right" | 1.61%
+|-
+| [[Warbreaker/Summary#Chapter 37|Chapter 37]]
+| [[Vivenna]]
+| align="right" | 1,557
+| align="right" | 0.79%
+|-
+| [[Warbreaker/Summary#Chapter 38|Chapter 38]]
+| [[Lightsong]]
+| align="right" | 2,621
+| align="right" | 1.34%
+|-
+| [[Warbreaker/Summary#Chapter 39|Chapter 39]]
+| [[Vivenna]]
+| align="right" | 1,527
+| align="right" | 0.78%
+|-
+| [[Warbreaker/Summary#Chapter 40|Chapter 40]]
+| [[Siri]]
+| align="right" | 2,519
+| align="right" | 1.29%
+|-
+| [[Warbreaker/Summary#Chapter 41|Chapter 41]]
+| [[Vivenna]]
+| align="right" | 1,608
+| align="right" | 0.82%
+|-
+| [[Warbreaker/Summary#Chapter 42|Chapter 42]]
+| [[Lightsong]]
+| align="right" | 2,265
+| align="right" | 1.16%
+|-
+| [[Warbreaker/Summary#Chapter 43|Chapter 43]]
+| [[Vivenna]]
+| align="right" | 5,382
+| align="right" | 2.75%
+|-
+| [[Warbreaker/Summary#Chapter 44|Chapter 44]]
+| [[Siri]]
+| align="right" | 2,480
+| align="right" | 1.27%
+|-
+| [[Warbreaker/Summary#Chapter 45|Chapter 45]]
+| [[Lightsong]]
+| align="right" | 30
+| align="right" | 0.02%
+|-
+| [[Warbreaker/Summary#Chapter 46|Chapter 46]]
+| [[Vivenna]]
+| align="right" | 4,337
+| align="right" | 2.21%
+|-
+| [[Warbreaker/Summary#Chapter 47|Chapter 47]]
+| [[Lightsong]]
+| align="right" | 2,251
+| align="right" | 1.15%
+|-
+| [[Warbreaker/Summary#Chapter 48|Chapter 48]]
+| [[Siri]]
+| align="right" | 1,562
+| align="right" | 0.80%
+|-
+|  rowspan="2" | [[Warbreaker/Summary#Chapter 49|Chapter 49]]
+| [[Vasher]]
+| align="right" | 509
+| align="right" | 0.26%
+|-
+| [[Vivenna]]
+| align="right" | 5,094
+| align="right" | 2.60%
+|-
+|  rowspan="4" | [[Warbreaker/Summary#Chapter 50|Chapter 50]]
+| [[Lightsong]]
+| align="right" | 1,603
+| align="right" | 0.82%
+|-
+| [[Siri]]
+| align="right" | 705
+| align="right" | 0.36%
+|-
+| [[Vivenna]]
+| align="right" | 1,261
+| align="right" | 0.64%
+|-
+| [[Lightsong]]
+| align="right" | 754
+| align="right" | 0.38%
+|-
+| [[Warbreaker/Summary#Chapter 51|Chapter 51]]
+| [[Vasher]]
+| align="right" | 2,916
+| align="right" | 1.49%
+|-
+|  rowspan="3" | [[Warbreaker/Summary#Chapter 52|Chapter 52]]
+| [[Lightsong]]
+| align="right" | 963
+| align="right" | 0.49%
+|-
+| [[Siri]]
+| align="right" | 305
+| align="right" | 0.16%
+|-
+| [[Lightsong]]
+| align="right" | 2,348
+| align="right" | 1.20%
+|-
+|  rowspan="6" | [[Warbreaker/Summary#Chapter 53|Chapter 53]]
+| [[Vivenna]]
+| align="right" | 261
+| align="right" | 0.13%
+|-
+| [[Siri]]
+| align="right" | 220
+| align="right" | 0.11%
+|-
+| [[Chapps]]
+| align="right" | 464
+| align="right" | 0.24%
+|-
+| [[Vasher]]
+| align="right" | 506
+| align="right" | 0.26%
+|-
+| [[Vivenna]]
+| align="right" | 559
+| align="right" | 0.29%
+|-
+| [[Lightsong]]
+| align="right" | 1,200
+| align="right" | 0.61%
+|-
+|  rowspan="5" | [[Warbreaker/Summary#Chapter 54|Chapter 54]]
+| [[Vivenna]]
+| align="right" | 288
+| align="right" | 0.15%
+|-
+| [[Vasher]]
+| align="right" | 183
+| align="right" | 0.09%
+|-
+| [[Siri]]
+| align="right" | 1,359
+| align="right" | 0.69%
+|-
+| [[Vivenna]]
+| align="right" | 602
+| align="right" | 0.31%
+|-
+| [[Lightsong]]
+| align="right" | 555
+| align="right" | 0.28%
+|-
+|  rowspan="4" | [[Warbreaker/Summary#Chapter 55|Chapter 55]]
+| [[Siri]]
+| align="right" | 1,014
+| align="right" | 0.52%
+|-
+| [[Vivenna]]
+| align="right" | 1,105
+| align="right" | 0.56%
+|-
+| [[Lightsong]]
+| align="right" | 250
+| align="right" | 0.13%
+|-
+| [[Siri]]
+| align="right" | 1,127
+| align="right" | 0.57%
+|-
+|  rowspan="2" | [[Warbreaker/Summary#Chapter 56|Chapter 56]]
+| [[Vivenna]]
+| align="right" | 1,528
+| align="right" | 0.78%
+|-
+| [[Vasher]]
+| align="right" | 1,222
+| align="right" | 0.62%
+|-
+|  rowspan="7" | [[Warbreaker/Summary#Chapter 57|Chapter 57]]
+| [[Siri]]
+| align="right" | 205
+| align="right" | 0.10%
+|-
+| [[Lightsong]]
+| align="right" | 78
+| align="right" | 0.04%
+|-
+| [[Vasher]]
+| align="right" | 236
+| align="right" | 0.12%
+|-
+| [[Siri]]
+| align="right" | 376
+| align="right" | 0.19%
+|-
+| [[Lightsong]]
+| align="right" | 1,245
+| align="right" | 0.64%
+|-
+| [[Vasher]]
+| align="right" | 483
+| align="right" | 0.25%
+|-
+| [[Siri]]
+| align="right" | 603
+| align="right" | 0.31%
+|-
+|  rowspan="5" | [[Warbreaker/Summary#Chapter 58|Chapter 58]]
+| [[Vivenna]]
+| align="right" | 294
+| align="right" | 0.15%
+|-
+| [[Siri]]
+| align="right" | 424
+| align="right" | 0.22%
+|-
+| [[Vasher]]
+| align="right" | 929
+| align="right" | 0.47%
+|-
+| [[Siri]]
+| align="right" | 914
+| align="right" | 0.47%
+|-
+| [[Vivenna]]
+| align="right" | 1,163
+| align="right" | 0.59%
+|-
+| [[Warbreaker/Summary#Epilogue|Epilogue]]
+| [[Vivenna]]
+| align="right" | 1,565
+| align="right" | 0.80%
+|}
+
+=== Unique POV Breakdown ===
+{| class="wikitable sortable"
+! Character (6) !! # of POVs (110) !! % of Total POVs !! Word Count (196,014) !! % of Word Count
+|-
+| [[Vivenna]]
+| align="right" | 32
+| align="right" | 29.09%
+| align="right" | 72,674
+| align="right" | 37.08%
+|-
+| [[Siri]]
+| align="right" | 37
+| align="right" | 33.64%
+| align="right" | 57,489
+| align="right" | 29.33%
+|-
+| [[Lightsong]]
+| align="right" | 27
+| align="right" | 24.55%
+| align="right" | 48,279
+| align="right" | 24.63%
+|-
+| [[Vasher]]
+| align="right" | 12
+| align="right" | 10.91%
+| align="right" | 15,052
+| align="right" | 7.68%
+|-
+| [[Dedelin]]
+| align="right" | 1
+| align="right" | 0.91%
+| align="right" | 2,056
+| align="right" | 1.05%
+|-
+| [[Chapps]]
+| align="right" | 1
+| align="right" | 0.91%
+| align="right" | 464
+| align="right" | 0.24%
+|}
+
+{{meta/done}}
+{{Warbreaker}}
+[[Category: Warbreaker|*]]
+[[category: statistics]]

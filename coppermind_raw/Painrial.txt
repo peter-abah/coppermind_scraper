@@ -1,0 +1,19 @@
+{{fabrial
+|image=Navani1.jpg
+}}
+A '''painrial''' is a type of [[fabrial]] used to decrease and even eliminate the pain felt by someone while allowing them to maintain feeling, or alternatively to create and increase pain to excruciating levels.{{book ref|sa1|60}}{{book ref|sa3|118}}{{book ref|sa4|105}} Navani's notebook appears to state the primary gemstone is a ruby.
+
+== Diminishers ==
+The [[artifabrian]] [[Longshadow]] designed a painrial that was quite large, about the size of a fist,{{book ref|twok|22}} and had a set of claw-like legs which were wrapped around the pained area and locked in place with a clip.{{book ref|twok|60}} That particular painrial was powered by a ruby and made of polished brass.{{book ref|twok|22}} [[Navani Kholin]] later refined its design.{{book ref|twok|60}} She hoped to eventually to refine the design to be less bulky. Navani saw it being used by surgeons so they could operate without fear of causing pain to their patients. While it did not heal the wounds, Navani hoped that the painrial was a step in the right direction.
+
+Navani also integrated a painrial device into her [[:file: vambrace.jpg|vambrace]] timepieces which she made for herself and [[Dalinar]].{{book ref|sa3|16}}{{book ref|sa3|104}} They offered some light pain relief and also could act as a defense mechanism, by releasing shocks into someone rather than taking their pain away. This function seemed to be toggled between using a switch made of gems.{{book ref|sa3|118}}{{file ref|vambrace.jpg|Navani's notebook: Vambrace}}
+
+== Augmenters ==
+Augmenter painrials are most notably utilized by Navani to act as an equalizing force in otherwise hopeless situations. The first such usage was to disable some of [[Amaram]]'s soldiers, who, possessed by the [[Thrill]], would otherwise have killed her, [[Kmakl]], and [[Fen]].{{book ref|sa3|118}} The next such use was to incapacitate [[Raboniel]] to give Navani the second she needed to stab her with a [[raysium]] knife.{{book ref|sa4|105}} In both situations, however, they were uncontrollable and affected the user as well as the victim.
+
+Pain knives are a type of painrial that avoid such a drawback by utilizing a conventional weapon as well. Containing three retractable knives that can be set to four different lengths to vary the pain felt, they pierce an attacker's clothing, increasing the pain from the wounds to unimaginable levels. They have a removable cover for easy infusion of [[Stormlight]].{{file ref|Navani1.jpg|Navani's Notebook: One}} 
+
+== Notes ==
+<references />
+{{partial}}
+{{Stormlight}}

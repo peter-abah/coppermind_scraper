@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Krell.txt
+entity_type: disambig
+---
 
 ==Cytoverse==
 *[[Varvax]]: a species often called "Krell" by the people of [[Detritus]].

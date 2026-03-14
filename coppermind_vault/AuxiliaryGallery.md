@@ -1,3 +1,8 @@
+---
+source_file: AuxiliaryGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=280px caption="Official artwork">
 Highspren plushie.jpg | <small><center>by Anna Earley</center></small> Auxiliary plushie

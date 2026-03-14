@@ -1,17 +1,13 @@
 ---
-profession: "{{cat tag|Soldiers|Swordmaster"
+source_file: Gonda-son-Darias.txt
+entity_type: character
+nation: Shinovar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|nation=Shinovar
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-
-**Gonda-son-Darias** is a swordmaster at the [[Elsecaller monastery]] in [[Shinovar]] on [[Roshar]].{{book ref|sa5|73}}
+**Gonda-son-Darias** is a swordmaster at the [[Elsecaller monastery]] in [[Shinovar]] on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

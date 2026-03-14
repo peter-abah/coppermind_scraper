@@ -1,10 +1,13 @@
-{{book
-|series=[[Infinity Blade]]
-|cover=Infinity blade.jpg
-|released=October 4, 2011
-|publisher=Epic Games
-|sequel=Infinity Blade: Redemption
-}}
+---
+source_file: Infinity Blade Awakening.txt
+entity_type: book
+series: '[[Infinity Blade]]'
+cover: Infinity blade.jpg
+released: October 4, 2011
+publisher: Epic Games
+sequel: 'Infinity Blade: Redemption'
+---
+
 ***Infinity Blade: Awakening*** is a novella by [[Brandon Sanderson]] that is a tie-in to an iOS game, [[Infinity Blade]] (made by [[Wikipedia:Epic Games|Epic Games]]). *Awakening* is set between Infinity Blade and Infinity Blade 2. It was released electronically only on October 4, 2011.
 
 ## Summary
@@ -61,10 +64,8 @@ Transubstantive Entity, Lower-class. A golem-like creature that can create body 
 One of the Deathless, an information broker.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Infinity Blade}}
 
 ## Notes
 <references />
-{{meta/partial}}
-{{books}}
+
 [[Category:Infinity Blade| 1]]

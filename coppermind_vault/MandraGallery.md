@@ -1,3 +1,8 @@
+---
+source_file: MandraGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=200px caption="Official artwork">
 Mandras.jpg| <small><center>by {{a|Ben McSweeney}}</center></small>

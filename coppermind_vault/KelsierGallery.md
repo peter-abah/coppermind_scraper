@@ -1,3 +1,8 @@
+---
+source_file: KelsierGallery.txt
+entity_type: article
+---
+
 ==Official artwork==
 <gallery mode="packed" heights=280px caption="Official artwork">
 Cognitive Shadow Kelsier.jpg|<center><small>by [[Miranda Meeks]]</small></center>As a [[Cognitive Shadow]], from *[[Mistborn: Secret History]]* cover

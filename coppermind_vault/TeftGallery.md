@@ -1,3 +1,8 @@
+---
+source_file: TeftGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 WOKLB - Part4 End by Steve Argyle.jpg | <center><small>by {{a|Steve Argyle}}</small></center> Behind [[Dalinar]] as he trades away [[Oathbringer]], from *[[The Way of Kings]]* leatherbound interior art

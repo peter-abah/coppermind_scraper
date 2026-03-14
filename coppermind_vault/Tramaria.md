@@ -1,16 +1,17 @@
-{{disease
-|symptoms=Dizziness, dementia
-|world=Nalthis
-|universe=[[Cosmere]]
-|books=[[Warbreaker]]
-}}
-**Tramaria** is a disease on [[Nalthis]]. It causes dizziness{{wob ref|7329}} and dementia.{{book ref|wb|43}}
+---
+source_file: Tramaria.txt
+entity_type: disease
+symptoms: Dizziness, dementia
+world: Nalthis
+universe: '[[Cosmere]]'
+books: '[[Warbreaker]]'
+---
 
-[[Vivenna]] contracts it at some point after becoming a [[Drab]] in the streets of [[Hallandren]], as her immune system was weakened after she Invested her [[BioChromatic Breath]]s in a shawl for safekeeping.{{wob ref|7329}} [[Vasher]] eventually finds her, and after Vivenna takes the Breaths back from her shawl, she is healed by the [[Heightening#Third Heightening|Third Heightening]].{{book ref|wb|43}}
+**Tramaria** is a disease on [[Nalthis]]. It causes dizziness and dementia.
 
-It is spread by biting insects which do not live in the highlands.{{book ref|wb|43}}
+[[Vivenna]] contracts it at some point after becoming a [[Drab]] in the streets of [[Hallandren]], as her immune system was weakened after she Invested her [[BioChromatic Breath]]s in a shawl for safekeeping. [[Vasher]] eventually finds her, and after Vivenna takes the Breaths back from her shawl, she is healed by the [[Heightening#Third Heightening|Third Heightening]].
+
+It is spread by biting insects which do not live in the highlands.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 19:45, 21 June 2019 (MST)}}
-{{Warbreaker}}

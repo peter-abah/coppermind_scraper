@@ -1,3 +1,8 @@
+---
+source_file: Nomon.txt
+entity_type: article
+---
+
 #REDIRECT [[Roshar#Planetary System]]
 [[Category: locations]]
 [[Category: Stormlight Archive]]

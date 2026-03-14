@@ -1,4 +1,7 @@
-{{Template:Disambig}}
+---
+source_file: Burl.txt
+entity_type: template:disambig
+---
 
 Burl may refer to a character within the [[cosmere]] or a species in the [[Cytoverse]]
 *[[Burl (character)]] - A [[seeker]] who works for [[Kelesina Shores]] on [[Scadrial]]

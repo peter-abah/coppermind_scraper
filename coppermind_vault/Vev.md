@@ -1,4 +1,9 @@
-{{disambig}}<br/>
+---
+source_file: Vev.txt
+entity_type: disambig
+---
+
+<br/>
 
 **Vev** can refer to multiple things:
 * One of the names used for the [[Herald]] [[Vedel]].

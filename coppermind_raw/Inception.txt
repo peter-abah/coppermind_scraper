@@ -1,0 +1,16 @@
+{{culture
+|type=Ceremony
+|world=Earth (Rithmatist)
+|books=[[The Rithmatist]]
+}}
+'''Inception''' is the testing and induction ceremony which creates [[Rithmatics|Rithmatist]]s.
+
+Inception is a religious ceremony of the [[Church of the Monarch]] and takes place in a Monarchical chapel. On the Fourth of July every year, all the 8-year-olds in the fifty isles are "incepted". Holy water is sprinkled on their heads, and they are blessed and told to enter the chamber of inception.{{book ref|rithmatist|22}} A [[Shadowblaze]] is bound to a small and seemingly random portion of the children that go through the Room of Inception, making them [[Rithmatics|Rithmatist]]s.{{book ref|rithmatist|12}} [[Joel Saxon]] is one of the very few to have been incepted well after his inception age, as his previous inception was done incorrectly.
+
+; See Also
+* [[Shadowblaze]]{{book ref|Rithmatist|25}}
+
+== Notes ==
+<references /><!-- chapters 5, 6, 12, 13, 14, 17, 18, 19, 20, 21, 22, 23, 25 -->
+{{partial}}
+{{Rithmatist}}

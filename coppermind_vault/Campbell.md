@@ -1,15 +1,13 @@
 ---
-powers: "{{tag+|Rithmatist"
+source_file: Campbell.txt
+entity_type: character
+powers: Rithmatist
+residence: Armedius Academy
+earth: Rithmatist
+introduced: '[[The Rithmatist]]'
 ---
 
-|profession={{cat tag|Armedius Academy Faculty|Professor}}
-|residence=Armedius Academy 
-|earth=Rithmatist
-|introduced=[[The Rithmatist]]
-}}
-**Professor Campbell** is a professor at [[Armedius Academy]].{{book ref|Rithmatist|25}}
+**Professor Campbell** is a professor at [[Armedius Academy]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 21:26, 21 December 2016 (MST)}}
-{{Rithmatist}}

@@ -1,0 +1,19 @@
+{{settlement
+|dominance=Western
+|nation=Final Empire
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+'''Tremredare''' is a large city in the [[Western Dominance]] of the [[Final Empire]]. It is one of [[Scadrial]]'s major cultural centers before the [[Collapse]].{{book ref|mb3|25}}
+
+It is located in the southwest portion of the Dominance, west of [[Morag]] and near the base of a mountain range.{{map ref|Final Empire}} A river or canal connects Tremredare to [[Lake Tyrian]] via [[Chardees]] and [[Fadrex City]]. Another arm of the same waterway connects to the [[River Channerel]].{{map ref|final empire 1021|the Final Empire (1021)}}
+
+Tremredare served as the capital of the Western Dominance until [[Ashweather Cett]] seized power in the area and moved the capital to Fadrex City since it was smaller and more defensible.{{book ref|mb3|25}}
+
+It is unclear if anything remains in Tremredare's former location after the [[Catacendre]].{{map ref|Scadrial}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:59, 15 June 2019 (MST)}}
+{{Mistborn|Era 1}}

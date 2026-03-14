@@ -1,4 +1,7 @@
-{{CoverToC|mbe2}}
+---
+source_file: The Alloy of LawCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[The Alloy of Law]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

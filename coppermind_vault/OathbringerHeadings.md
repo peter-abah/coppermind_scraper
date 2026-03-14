@@ -1,148 +1,16 @@
-The start of each chapter of *Oathbringer* features a symbol that represents one of the major point-of-view characters for that chapter as well as an archway that includes depictions of one to four [[Herald]]s (or [[Hoid]]). A Herald appearing in the archway for a chapter may indicate that the Herald themself is mentioned or appears, an object associated with that Herald (such as their [[Honorblade]]) appears, a member of that Herald's associated order of the [[Knights Radiant]] appears, a character in the chapter does something that exemplifies or subverts one of that Herald's Divine Attributes, someone or something in the chapter exemplifies a concept or role associated with that Herald, or the [[Ten Essences|Essence]] or [[polestone]] associated with that Herald is relevant to the chapter.{{wob ref|8892}}
+---
+source_file: OathbringerHeadings.txt
+entity_type: wob ref
+---
+
+The start of each chapter of *Oathbringer* features a symbol that represents one of the major point-of-view characters for that chapter as well as an archway that includes depictions of one to four [[Herald]]s (or [[Hoid]]). A Herald appearing in the archway for a chapter may indicate that the Herald themself is mentioned or appears, an object associated with that Herald (such as their [[Honorblade]]) appears, a member of that Herald's associated order of the [[Knights Radiant]] appears, a character in the chapter does something that exemplifies or subverts one of that Herald's Divine Attributes, someone or something in the chapter exemplifies a concept or role associated with that Herald, or the [[Ten Essences|Essence]] or [[polestone]] associated with that Herald is relevant to the chapter.
 
 The herald icons are listed in order from left to right.
 
 {| class="infobox sortable" align=center width=100%
 |- class=title
 ! Chapter !! Chapter Title !! Symbol !! Herald Name 1 !! Herald Name 2 !! Herald Name 3 !! Herald Name 4
-{{Stormlight Headers Row|sa3|chaptertype=Prologue|Prologue|To Weep|[[Eshonai]]|2}}
-{{Stormlight Headers Row|sa3|1|Broken and Divided|[[House Kholin|Kholin Crest]]|3}}
-{{Stormlight Headers Row|sa3|2|One Problem Solved|[[Adolin]]|10}}
-{{Stormlight Headers Row|sa3|3|Momentum|Kholin Crest (inverted)|9}}
-{{Stormlight Headers Row|sa3|4|Oaths|[[House Kholin|Kholin Crest]]|10}}
-{{Stormlight Headers Row|sa3|5|Hearthstone|[[Kaladin]]|9}}
-{{Stormlight Headers Row|sa3|6|Four Lifetimes|[[Kaladin]]|4|9|3|1}}
-{{Stormlight Headers Row|sa3|7|A Watcher at the Rim|[[Kaladin]]|1}}
-{{Stormlight Headers Row|sa3|8|A Powerful Lie|[[Shallan]]|6}}
-{{Stormlight Headers Row|sa3|9|The Threads of a Screw|[[Shallan]]|3}}
-{{Stormlight Headers Row|sa3|10|Distractions|[[Kaladin]]|5}}
-{{Stormlight Headers Row|sa3|11|The Rift|Kholin Crest (inverted)|2}}
-{{Stormlight Headers Row|sa3|12|Negotiations|[[House Kholin|Kholin Crest]]|1}}
-{{Stormlight Headers Row|sa3|13|Chaperone|[[Shallan]]|10}}
-{{Stormlight Headers Row|sa3|14|Squires Can't Capture|[[Kaladin]]|9}}
-{{Stormlight Headers Row|sa3|15|Brightness Radiant|[[Shallan]]|3}}
-{{Stormlight Headers Row|sa3|16|Wrapped Three Times|[[House Kholin|Kholin Crest]]|10}}
-{{Stormlight Headers Row|sa3|17|Trapped in Shadows|[[Kaladin]]|1}}
-{{Stormlight Headers Row|sa3|18|Double Vision|[[Shallan]]|6}}
-{{Stormlight Headers Row|sa3|19|The Subtle Art of Diplomacy|Kholin Crest (inverted)|3}}
-{{Stormlight Headers Row|sa3|20|Cords to Bind|[[Kaladin]]|4}}
-{{Stormlight Headers Row|sa3|21|Set Up to Fail|[[Shallan]]|3}}
-{{Stormlight Headers Row|sa3|22|The Darkness Within|[[Shallan]]|5}}
-{{Stormlight Headers Row|sa3|23|Storming Strange|[[Kaladin]]|9}}
-{{Stormlight Headers Row|sa3|24|Men of Blood and Sorrow|[[House Kholin|Kholin Crest]]|3|7|7|10}}
-{{Stormlight Headers Row|sa3|25|The Girl Who Looked Up|[[Shallan]]|11|6}}
-{{Stormlight Headers Row|sa3|26|Blackthorn Unleashed|Kholin Crest (inverted)|2}}
-{{Stormlight Headers Row|sa3|27|Playing Pretend|[[Shallan]]|6}}
-{{Stormlight Headers Row|sa3|28|Another Option|[[House Kholin|Kholin Crest]]|2|1}}
-{{Stormlight Headers Row|sa3|29|No Backing Down|[[Shallan]]|5|6}}
-{{Stormlight Headers Row|sa3|30|Mother of Lies|[[Shallan]]|6}}
-{{Stormlight Headers Row|sa3|31|Demands of the Storm|[[Kaladin]]|1}}
-{{Stormlight Headers Row|sa3|32|Company|[[Shallan]]|7}}
-{{Stormlight Headers Row|sa3|chaptertype=i|1|[[Puuli]]|Five Swords|3}}
-{{Stormlight Headers Row|sa3|chaptertype=i|2|Ellista|Five Swords|5}}
-{{Stormlight Headers Row|sa3|chaptertype=i|3|The Rhythm of the Lost|[[Venli]]|7}}
-{{Stormlight Headers Row|sa3|33|A Lecture|[[Shallan]]|4}}
-{{Stormlight Headers Row|sa3|34|Resistance|[[House Kholin|Kholin Crest]]|3|2}}
-{{Stormlight Headers Row|sa3|35|First into the Sky|[[Bridge Four]]|11|8}}
-{{Stormlight Headers Row|sa3|36|Hero|Kholin Crest (inverted)|4|2}}
-{{Stormlight Headers Row|sa3|37|The Last Time We March|[[Bridge Four]]|9|4}}
-{{Stormlight Headers Row|sa3|38|Broken People|[[House Kholin|Kholin Crest]]|3|10}}
-{{Stormlight Headers Row|sa3|39|Notes|[[Shallan]]|2|7}}
-{{Stormlight Headers Row|sa3|40|Questions, Peeks, and Inferences|[[Shallan]]|6|2}}
-{{Stormlight Headers Row|sa3|41|On the Ground Looking Up|[[Bridge Four]]|1}}
-{{Stormlight Headers Row|sa3|42|Consequences|[[House Kholin|Kholin Crest]]|4|1}}
-{{Stormlight Headers Row|sa3|43|Spearman|Patchless|3}}
-{{Stormlight Headers Row|sa3|44|The Bright Side|[[Shallan]]|7}}
-{{Stormlight Headers Row|sa3|45|A Revelation|Patchless|4}}
-{{Stormlight Headers Row|sa3|46|When the Dream Dies|[[Bridge Four]]|7|9}}
-{{Stormlight Headers Row|sa3|47|So Much Is Lost|[[Shadesmar]]|7|9}}
-{{Stormlight Headers Row|sa3|48|Rhythm of Work|Patchless|8}}
-{{Stormlight Headers Row|sa3|49|Born unto Light|Kholin Crest (inverted)|1}}
-{{Stormlight Headers Row|sa3|50|Shash Thirty-Seven|[[House Kholin|Kholin Crest]]|9}}
-{{Stormlight Headers Row|sa3|51|Full Circle|Patchless|6}}
-{{Stormlight Headers Row|sa3|52|After His Father|Kholin Crest (inverted)|9}}
-{{Stormlight Headers Row|sa3|53|Such a Twisted Cut|[[Shadesmar]]|5}}
-{{Stormlight Headers Row|sa3|54|An Ancient Singer's Name|Patchless|1}}
-{{Stormlight Headers Row|sa3|55|Alone Together|[[Bridge Four]]|8}}
-{{Stormlight Headers Row|sa3|56|Always With You|[[House Kholin|Kholin Crest]]|1|9}}
-{{Stormlight Headers Row|sa3|57|Passion|[[House Kholin|Kholin Crest]]|4|3}}
-{{Stormlight Headers Row|sa3|chaptertype=i|4|Kaza|Five Swords|2}}
-{{Stormlight Headers Row|sa3|chaptertype=i|5|Taravangian|Five Swords|10|5}}
-{{Stormlight Headers Row|sa3|chaptertype=i|6|This One Is Mine|[[Venli]]|8|7}}
-{{Stormlight Headers Row|sa3|58|Burdens|[[House Kholin|Kholin Crest]]|9}}
-{{Stormlight Headers Row|sa3|59|Bondsmith|[[House Kholin|Kholin Crest]]|8}}
-{{Stormlight Headers Row|sa3|60|Winds and Oaths|[[Kaladin]]|1}}
-{{Stormlight Headers Row|sa3|61|Nightmare Made Manifest|[[Kaladin]]|6}}
-{{Stormlight Headers Row|sa3|62|Research|[[Shallan]]|4|6}}
-{{Stormlight Headers Row|sa3|63|Within the Mirror|[[Shallan]]|5}}
-{{Stormlight Headers Row|sa3|64|Binder of Gods|[[House Kholin|Kholin Crest]]|10|1}}
-{{Stormlight Headers Row|sa3|65|Verdict|[[House Kholin|Kholin Crest]]|4|5}}
-{{Stormlight Headers Row|sa3|66|Strategist|Kholin Crest (inverted)|3}}
-{{Stormlight Headers Row|sa3|67|Mishim|[[Shallan]]|5}}
-{{Stormlight Headers Row|sa3|68|Aim for the Sun|[[Shallan]]|11}}
-{{Stormlight Headers Row|sa3|69|Free Meal, No Strings|[[Kaladin]]|9}}
-{{Stormlight Headers Row|sa3|70|Highmarshal Azure|[[Kaladin]]|3}}
-{{Stormlight Headers Row|sa3|71|A Sign of Humanity|Kholin Crest (inverted)|7}}
-{{Stormlight Headers Row|sa3|72|Rockfall|[[Shallan]]|5}}
-{{Stormlight Headers Row|sa3|73|Telling Which Stories|[[Kaladin]]|9|7}}
-{{Stormlight Headers Row|sa3|74|Swiftspren|[[Shallan]]|1|5}}
-{{Stormlight Headers Row|sa3|75|Only Red|Kholin Crest (inverted)|2|9}}
-{{Stormlight Headers Row|sa3|76|An Animal|Kholin Crest (inverted)|3|2}}
-{{Stormlight Headers Row|sa3|77|Stormshelter|[[Kaladin]]|6}}
-{{Stormlight Headers Row|sa3|78|The Revel|[[Shallan]]|7|1}}
-{{Stormlight Headers Row|sa3|79|Echoes of Thunder|[[Kaladin]]|1}}
-{{Stormlight Headers Row|sa3|80|Oblivious|[[Shallan]]|10}}
-{{Stormlight Headers Row|sa3|81|Ithi and Her Sister|[[Kaladin]]|8|7}}
-{{Stormlight Headers Row|sa3|82|The Girl Who Stood Up|[[Shallan]]|11|9}}
-{{Stormlight Headers Row|sa3|83|Crimson to Break|[[Adolin]]|7|3}}
-{{Stormlight Headers Row|sa3|84|The One You Can Save|[[Kaladin]]|6|1}}
-{{Stormlight Headers Row|sa3|85|Grieve Later|[[Adolin]]|5}}
-{{Stormlight Headers Row|sa3|86|That Others May Stand|[[House Kholin|Kholin Crest]]|3|2}}
-{{Stormlight Headers Row|sa3|87|This Place|[[Adolin]]|1|6|4|3}}
-{{Stormlight Headers Row|sa3|chaptertype=i|7|Envoy|[[Venli]]|8|4}}
-{{Stormlight Headers Row|sa3|chaptertype=i|8|Mem|Five Swords|3|6|3|6}}
-{{Stormlight Headers Row|sa3|chaptertype=i|9|True Labor Begins|[[Venli]]|1}}
-{{Stormlight Headers Row|sa3|chaptertype=i|10|Sheler|Five Swords|2|9}}
-{{Stormlight Headers Row|sa3|chaptertype=i|11|Her Reward|[[Venli]]|8}}
-{{Stormlight Headers Row|sa3|88|Voices|Kholin Crest (inverted)|1}}
-{{Stormlight Headers Row|sa3|89|Damnation|[[Adolin]]|9|7}}
-{{Stormlight Headers Row|sa3|90|Reborn|[[Szeth]]|3}}
-{{Stormlight Headers Row|sa3|91|Why He Froze|[[Kaladin]]|3}}
-{{Stormlight Headers Row|sa3|92|Water Warm as Blood|[[Szeth]]|2|6}}
-{{Stormlight Headers Row|sa3|93|Kata|[[Adolin]]|9|10}}
-{{Stormlight Headers Row|sa3|94|A Small Bottle|Kholin Crest (inverted)|5}}
-{{Stormlight Headers Row|sa3|95|Inescapable Void|[[Kaladin]]|1|4}}
-{{Stormlight Headers Row|sa3|96|Pieces of a Fabrial|[[Navani]]|5}}
-{{Stormlight Headers Row|sa3|97|Riino|[[Kaladin]]|8}}
-{{Stormlight Headers Row|sa3|98|Loopholes|[[Szeth]]|2|9}}
-{{Stormlight Headers Row|sa3|99|Reachers|[[Kaladin]]|8|6}}
-{{Stormlight Headers Row|sa3|100|An Old Friend|[[House Kholin|Kholin Crest]]|10|3}}
-{{Stormlight Headers Row|sa3|101|Deadeye|[[Adolin]]|4|6}}
-{{Stormlight Headers Row|sa3|102|Celebrant|[[Shallan]]|3}}
-{{Stormlight Headers Row|sa3|103|Hypocrite|[[House Kholin|Kholin Crest]]|1}}
-{{Stormlight Headers Row|sa3|104|Strength|[[Navani]]|5}}
-{{Stormlight Headers Row|sa3|105|Spirit, Mind and Body|Kholin Crest (inverted)|1}}
-{{Stormlight Headers Row|sa3|106|Law Is Light|[[Szeth]]|2}}
-{{Stormlight Headers Row|sa3|107|The First Step|[[House Kholin|Kholin Crest]]|3|7}}
-{{Stormlight Headers Row|sa3|108|Honor's Path|[[Shallan]]|1|2}}
-{{Stormlight Headers Row|sa3|109|Neshua Kadal|[[Venli]]|8|10}}
-{{Stormlight Headers Row|sa3|110|A Million Stars|[[Shallan]]|1}}
-{{Stormlight Headers Row|sa3|111|Eila Stele|[[House Kholin|Kholin Crest]]|7}}
-{{Stormlight Headers Row|sa3|112|For the Living|[[Kaladin]]|3|6}}
-{{Stormlight Headers Row|sa3|113|The Thing Men Do Best|[[House Kholin|Kholin Crest]]|9}}
-{{Stormlight Headers Row|sa3|chaptertype=i|12|Rhythm of Withdrawal|[[Venli]]|7}}
-{{Stormlight Headers Row|sa3|chaptertype=i|13|Rysn|Five Swords|5|3}}
-{{Stormlight Headers Row|sa3|chaptertype=i|14|Teft|[[Bridge Four]]|2|1}}
-{{Stormlight Headers Row|sa3|114|The Cost|Kholin Crest (inverted)|4|5|6|7}}
-{{Stormlight Headers Row|sa3|115|The Wrong Passion|Five Swords|9|3}}
-{{Stormlight Headers Row|sa3|116|Alone|Five Swords|1|3|5|6}}
-{{Stormlight Headers Row|sa3|117|Champion with Nine Shadows|Five Swords|4|6|7|8}}
-{{Stormlight Headers Row|sa3|118|The Weight of It All|Five Swords|5|2|2|7}}
-{{Stormlight Headers Row|sa3|119|Unity|Five Swords|10}}
-{{Stormlight Headers Row|sa3|120|The Spear That Would Not Break|Five Swords|1|2|9|10}}
-{{Stormlight Headers Row|sa3|121|Ideals|Patchless|8|2|4|1}}
-{{Stormlight Headers Row|sa3|122|A Debt Repaid|[[House Kholin|Kholin Crest]]|7|1|5|4}}
-{{Stormlight Headers Row|sa3|chaptertype=Epilogue|Epilogue|Great Art|Five Swords|11|6}}
+
 |}
 
 ## Key
@@ -150,15 +18,12 @@ The herald icons are listed in order from left to right.
 ### Symbols
 
 {| class=infobox
-{{row|Eshonai|[[File:Eshonai Chapters.svg|100px]]|Kholin Crest|[[File:Kholin Crest.svg|100px]]|Adolin|[[File:Adolin Chapters.svg|100px]]|Kholin Crest (inverted)|[[File:Dalinar Flashback Chapters.svg|100px]]}}
-{{row|Kaladin|[[File:Kaladin's Chapters.svg|100px]]|Shallan|[[File:Shallan Flashback Chapters Inverted.svg|100px]]|Five Swords|[[File:Stormlight Decal Swords.svg|100px]]|Venli|[[File:Venli Chapters.svg|100px]]}}
-{{row|Bridge Four|[[File:Bridge Four Chapters.svg|100px]]|Patchless|[[File:Moash Chapters.svg|100px]]|Shadesmar|[[File:Shallan's Chapters.svg|100px]]|Szeth|[[File:Szeth's Chapters.svg|100px]]}}
-{{row|Navani|[[File:Navani Chapters.svg|100px]]}}
+
 |}
 
 ## Notes
 <references />
-{{meta/done}}
+
 [[Category: Stormlight Archive|*3h]]
 [[Category: Epigraphs|sa3]]
 [[category: meta]]

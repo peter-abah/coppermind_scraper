@@ -1,17 +1,18 @@
-{{food
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-**Kurdi** mushrooms are an edible fungus which grows in the subterranean cave systems of [[Detritus]].{{book ref|Skyward|3}}
+---
+source_file: Kurdi.txt
+entity_type: food
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
 
-Rats like eating kurdi mushrooms, which [[Spensa]] uses to her advantage while hunting, using them to lure the creatures into traps.{{book ref|Skyward|3}} They taste unpleasant.{{book ref|sky1|3}}
+**Kurdi** mushrooms are an edible fungus which grows in the subterranean cave systems of [[Detritus]].
 
-As M-Bot likes to catalogue mushrooms{{book ref|sky1|17}} it is possible that he has information on kurdi mushrooms in his database.
+Rats like eating kurdi mushrooms, which [[Spensa]] uses to her advantage while hunting, using them to lure the creatures into traps. They taste unpleasant.
+
+As M-Bot likes to catalogue mushrooms it is possible that he has information on kurdi mushrooms in his database.
 
 Spensa may have eaten kurdi mushrooms while she lived in M-Bot's cave during her time at Flight School. 
 
 ## Notes
 <references />
-{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 23:26, 20 July 2019 (MST)}}
-{{Skyward}}

@@ -1,4 +1,7 @@
-{{CoverToC|mbe2}}
+---
+source_file: The Bands of MourningCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[The Bands of Mourning]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

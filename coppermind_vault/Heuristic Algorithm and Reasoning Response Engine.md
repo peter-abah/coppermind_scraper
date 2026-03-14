@@ -1,12 +1,14 @@
-{{book
-|cover=
-|setting = *Standalone*
-|released = March 27, 2012
-|collaborators=[[Ethan Skarstedt]]
-|publisher = Baen Books
-|ISBN = 978-1451638172
-|word-count = 8,869
-}}
+---
+source_file: Heuristic Algorithm and Reasoning Response Engine.txt
+entity_type: book
+setting: '''''Standalone'''''
+released: March 27, 2012
+collaborators: '[[Ethan Skarstedt]]'
+publisher: Baen Books
+isbn: 978-1451638172
+word-count: 8,869
+---
+
 ***Heuristic Algorithm and Reasoning Response Engine*** is a non-cosmere military science fiction story co-written by [[Brandon Sanderson]] and [[Ethan Skarstedt]] for the *[http://www.johnjosephadams.com/armored/ Armored]* anthology, edited by [[Wikipedia: John Joseph Adams|John Joseph Adams]]. It is set in the far future when humankind has expanded out in the stars, met alien races, and developed technology like [[mechanized infantry unit]]s, [[AI|artificial intelligence]], and [[smart velcro]]. It tells the story of [[Karith Marvudi]], [[Nicolette Shepard]], and the AI [[HARRE]] responding to a [[Self-Replicating Machine Infestation]] on a planet occupied by their allies.
 
 ## Main Characters
@@ -16,8 +18,5 @@
 
 ## Notes
 <references />
-{{meta/stub}}
-{{HARRE}}
-{{Books}}
 
 [[es:Heuristic Algorithm and Reasoning Response Engine]]

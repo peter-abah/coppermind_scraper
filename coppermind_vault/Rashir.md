@@ -1,16 +1,17 @@
-{{settlement
-|map=Rashir locator.png
-|princedom=Sebarial
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Rashir** is a city in [[Alethkar]] in [[Sebarial princedom]] on [[Roshar]].{{map ref|Alethkar}} It is east of the princedom of [[Bethab]]. Rasher serves as a key center for trade in the Sebarial princedom. After the occupation, Rashir lies far from constant Fused influence which has led to the local singers being given latitude in administration. This in turn led to the city being governed by an elected council of singers and humans.{{rpg ref|slwg|152}}
+---
+source_file: Rashir.txt
+entity_type: settlement
+map: Rashir locator.png
+princedom: Sebarial
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-Rashir is home to a number of rumours regarding dark, shadowy monsters menacing nearby settlements. In truth, these creatures are [[Midnight Essence]] spawned by [[Re-Shephir]] after she fled [[Urithiru]].{{rpg ref|slwg|152}}
+**Rashir** is a city in [[Alethkar]] in [[Sebarial princedom]] on [[Roshar]]. It is east of the princedom of [[Bethab]]. Rasher serves as a key center for trade in the Sebarial princedom. After the occupation, Rashir lies far from constant Fused influence which has led to the local singers being given latitude in administration. This in turn led to the city being governed by an elected council of singers and humans.
+
+Rashir is home to a number of rumours regarding dark, shadowy monsters menacing nearby settlements. In truth, these creatures are [[Midnight Essence]] spawned by [[Re-Shephir]] after she fled [[Urithiru]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 15:17, 25 December 2016 (MST)}}
-{{Stormlight}}

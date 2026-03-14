@@ -1,3 +1,8 @@
+---
+source_file: Rebeke SalvageGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=250px caption="Gallery">
 Ambush by Ernanda Souza.jpg | <center><small>by {{a|Ernanda Souza}}</small></center> With [[Nomad]]

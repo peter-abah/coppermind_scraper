@@ -1,3 +1,8 @@
+---
+source_file: ThunderclastGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Oathbringer full cover art.jpg| <center><small>by {{a|Michael Whelan}}</small></center> On the cover of *[[Oathbringer]]*

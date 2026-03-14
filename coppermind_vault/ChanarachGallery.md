@@ -1,3 +1,8 @@
+---
+source_file: ChanarachGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Herald Glyph Chanarach.svg| <small><center>by {{a|Isaac Stewart}}</center></small>Chana's [[glyph]]

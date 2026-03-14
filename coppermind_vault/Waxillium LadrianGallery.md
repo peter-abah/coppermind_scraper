@@ -1,3 +1,8 @@
+---
+source_file: Waxillium LadrianGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=200px name="Official Artwork">
 Wax by Maria Dimova.jpg | <center><small>by {{a|Maria Dimova}}<center></small> Portrait in the *[[Alloy of Law]]* leatherbound

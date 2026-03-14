@@ -1,19 +1,18 @@
 ---
-died: "ca {{rosharan date|1176"
+source_file: Vratim.txt
+entity_type: character
+died: ca
+abilities: windrunner
+bonded: '[[Yunfah]]'
+groups: '[[Knight Radiant]] <small>([[Order of Windrunners|Windrunners]])</small>'
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|abilities={{tag+|windrunner}}
-|bonded=[[Yunfah]]
-|groups=[[Knight Radiant]] <small>([[Order of Windrunners|Windrunners]])</small>
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Vratim** is a [[Windrunner]] on [[Roshar]].{{book ref|sa4|10}}
+**Vratim** is a [[Windrunner]] on [[Roshar]].
 
-After Vratim's death during a battle several months before the evacuation of [[Hearthstone]], their spren, [[Yunfah]], was the only [[honorspren]] left that was willing to bond a [[Knights Radiant|Radiant]] but did not have a bond yet.{{book ref|sa4|10}}
+After Vratim's death during a battle several months before the evacuation of [[Hearthstone]], their spren, [[Yunfah]], was the only [[honorspren]] left that was willing to bond a [[Knights Radiant|Radiant]] but did not have a bond yet.
 
 ## Notes
 <references />
-{{complete|[[User:Rasarr|Rasarr]] ([[User talk:Rasarr|talk]]) 22:03, 29 November 2020 (UTC)}}
-{{Stormlight}}

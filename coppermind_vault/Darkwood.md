@@ -1,17 +1,18 @@
-{{lifeform
-|use=Furniture
-|type=Tree
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Darkwood** is a type of tree native to [[Roshar]].{{book ref|sa1|37}}
+---
+source_file: Darkwood.txt
+entity_type: lifeform
+use: Furniture
+type: Tree
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-It is used in furniture, such as tables.{{book ref|sa1|37}} Citylord [[Roshone]] has a darkwood table in the dining room of his manor in [[Hearthstone]].
+**Darkwood** is a type of tree native to [[Roshar]].
 
-[[Dalinar]] describes [[Cultivation]]'s skin as the color of darkwood bark.{{book ref|sa3|114}}
+It is used in furniture, such as tables. Citylord [[Roshone]] has a darkwood table in the dining room of his manor in [[Hearthstone]].
+
+[[Dalinar]] describes [[Cultivation]]'s skin as the color of darkwood bark.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 04:24, 29 December 2017 (MST)}}
-{{Stormlight}}

@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Dragonsteel.txt
+entity_type: disambig
+---
 
 The term **dragonsteel** may refer to several distinct things:
 * [[Dragonsteel (series)|*Dragonsteel* (series)]], an unpublished [[cosmere]] series set around the Shattering of Adonalsium

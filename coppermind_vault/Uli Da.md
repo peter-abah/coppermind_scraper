@@ -1,32 +1,26 @@
 ---
-image: "Uli Da by Marie Seeberger.jpg"
-abilities: "{{tag+|shard|Ambition"
+source_file: Uli Da.txt
+entity_type: character
+image: Uli Da by Marie Seeberger.jpg
+abilities: shard
+titles: '[[Ambition]]'
+died: Killed by [[Odium]]
+species: sho del
+world: Yolen
+universe: '[[Cosmere]]'
+introduced: '[[Oathbringer]]'
 ---
 
-|titles=[[Ambition]]
-|died=Killed by [[Odium]]{{au ref|threnodite}}{{book ref|sa5|104}}
-|species=sho del
-|world=Yolen
-|universe=[[Cosmere]]
-|introduced=[[Oathbringer]]
-}}
-**Uli Da** is the original [[Vessel]] of the [[Shard]] [[Ambition]].{{book ref|sa5|104}} She is referred to as female in the [[Letters#First_Oathbringer_Letter|first *Oathbringer* letter]] sent to [[Hoid]].{{epigraph ref|sa3|40}} She is a [[Sho Del]], one of three races on [[Yolen]].{{wob ref|8933}}
+**Uli Da** is the original [[Vessel]] of the [[Shard]] [[Ambition]]. She is referred to as female in the [[Letters#First_Oathbringer_Letter|first *Oathbringer* letter]] sent to [[Hoid]]. She is a [[Sho Del]], one of three races on [[Yolen]].
 
 ## History
-{{image|Ambition by zoethatcher.jpg|side=left|width=200px}}Nothing is known about Uli Da's origins and life prior to the [[Shattering]], other than that she came from Yolen.{{wob ref|7939}}{{wob ref|10749}} For unknown reasons, she and a group of others broke the [[cosmere]]'s creator deity, [[Adonalsium]], into sixteen pieces.{{msh ref|3|2}}{{wob ref|11602}} Of those sixteen, she took up [[Ambition]], and then made her way to the [[Threnodite]] system.{{au ref|threnodite}} Some of her fellow Shards immediately felt that she would be a "problem".{{book ref|sa5|104}}{{book ref|sa3|40}} These concerns seem to have originated primarily with her Shard's [[Intent]].{{wob ref|1550}}
-{{for|Ambition#History|subsequent events}}
-Uli Da was mortally wounded by [[Odium]] ([[Rayse]]) in a battle near Threnody.{{au ref|threnody}}{{book ref|sa4|27}} Ambition's power was then [[Splinter]]ed in an unknown location.{{au ref|threnody}} The specifics of Uli Da's death and Ambition's destruction are not known, but these events had wide-ranging effects in the Threnodite system and across the cosmere.{{book ref|sa4|27}}{{book ref|sa5|115}}{{book ref|sa5|147}}{{wob ref|16333}}
+Nothing is known about Uli Da's origins and life prior to the [[Shattering]], other than that she came from Yolen. For unknown reasons, she and a group of others broke the [[cosmere]]'s creator deity, [[Adonalsium]], into sixteen pieces. Of those sixteen, she took up [[Ambition]], and then made her way to the [[Threnodite]] system. Some of her fellow Shards immediately felt that she would be a "problem". These concerns seem to have originated primarily with her Shard's [[Intent]].
+
+Uli Da was mortally wounded by [[Odium]] ([[Rayse]]) in a battle near Threnody. Ambition's power was then [[Splinter]]ed in an unknown location. The specifics of Uli Da's death and Ambition's destruction are not known, but these events had wide-ranging effects in the Threnodite system and across the cosmere.
 
 ## Notes
-{{holder
-|title= Vessel of<br>[[Ambition]]
-|prev=None
-|this=
-|next=Splintered
-}}
+
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 19:35, 20 November 2025 (UTC)}}
-{{Shadows for Silence}}
-{{cosmere}}
+
 [[es:Uli Da]]
 [[uk:Улі Да]]

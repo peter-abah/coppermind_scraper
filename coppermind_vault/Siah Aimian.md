@@ -1,44 +1,45 @@
-{{lifeform
-|image=Axies Shuravf.jpg
-|native=Aimia
-|world=Roshar
-|universe=[[Cosmere]]
-}}
-{{update|sa5}}
-**Siah Aimians** are a non-human race of beings that originated in the [[Silver Kingdoms|Silver Kingdom]] of [[Aimia]] on [[Roshar]].{{wob ref|9640}}
+---
+source_file: Siah Aimian.txt
+entity_type: lifeform
+image: Axies Shuravf.jpg
+native: Aimia
+world: Roshar
+universe: '[[Cosmere]]'
+---
+
+**Siah Aimians** are a non-human race of beings that originated in the [[Silver Kingdoms|Silver Kingdom]] of [[Aimia]] on [[Roshar]].
 
 ==Characteristics==
-The only known Siah Aimian is [[Axies]] the Collector. Based on his description and viewpoint, Siah Aimians look nearly human but usually have pale white (nearly blue) skin, deep blue nails and "crystalline" blue eyes.{{book ref|sa2|i|3}}{{book ref|sa1|i|5}} However, their "true" form is unclear as they are able to sculpt their bodies at will; Axies uses this ability to temporarily suppress his sense of smell and to heal from both a hangover and some physical bruising.{{book ref|sa1|i|5}} They can pose as human,{{book ref|sa2.5|18}} likely using a combination of a disguise and their abilities. Siah Aimians can also create intricate tattoo-like markings on their skin; Axies uses this ability to take notes that cannot be stolen.{{book ref|sa1|i|5}}
+The only known Siah Aimian is [[Axies]] the Collector. Based on his description and viewpoint, Siah Aimians look nearly human but usually have pale white (nearly blue) skin, deep blue nails and "crystalline" blue eyes. However, their "true" form is unclear as they are able to sculpt their bodies at will; Axies uses this ability to temporarily suppress his sense of smell and to heal from both a hangover and some physical bruising. They can pose as human, likely using a combination of a disguise and their abilities. Siah Aimians can also create intricate tattoo-like markings on their skin; Axies uses this ability to take notes that cannot be stolen.
 
-Axies also notes that humans may notice him because he casts a shadow in the wrong direction (towards light).{{book ref|sa1|i|5}} This stems from a connection to the [[Cognitive Realm]].{{wob ref|467}} [[Rysn]], perhaps influenced by local legends, refers to this as a "[[Voidbringer]] shadow".{{book ref|sa2|i|3}}
+Axies also notes that humans may notice him because he casts a shadow in the wrong direction (towards light). This stems from a connection to the [[Cognitive Realm]]. [[Rysn]], perhaps influenced by local legends, refers to this as a "[[Voidbringer]] shadow".
 
-Siah Aimians are characterized as "extremely long-lived".{{wob ref|3666}} Although the specifics of their magical abilities have not been revealed, they are functionally immortal.{{wob ref|3666}}{{wob ref|1784}} Axies is flippant about being beaten, robbed, imprisoned, and tied upside down to part of a [[Tai-na]]. He sees pain and blackouts as minor inconveniences and does not appear to have any fear of permanent injury or death.{{book ref|sa2|i|3}}{{book ref|sa1|i|5}}
+Siah Aimians are characterized as "extremely long-lived". Although the specifics of their magical abilities have not been revealed, they are functionally immortal. Axies is flippant about being beaten, robbed, imprisoned, and tied upside down to part of a [[Tai-na]]. He sees pain and blackouts as minor inconveniences and does not appear to have any fear of permanent injury or death.
 
-Likely due to their long life, Siah appear to be able to speak multiple languages of Roshar, although they may have an unusual accent.{{book ref|sa2|i|3}}
+Likely due to their long life, Siah appear to be able to speak multiple languages of Roshar, although they may have an unusual accent.
 
 ==History==
-Siah Aimians and the [[Sleepless]] (also known as Dysian Aimians) both lived in Aimia prior to the [[scouring of Aimia]], which has been characterized by [[Hessi]] as "total destruction".{{epigraph ref|sa3|113}} The two races are not related.{{wob ref|5479}} Although Axies thinks it has not been long since the scouring, he later considers "a few centuries" to be a relatively short amount of time. Little is known about the current state of Aimia.
+Siah Aimians and the [[Sleepless]] (also known as Dysian Aimians) both lived in Aimia prior to the [[scouring of Aimia]], which has been characterized by [[Hessi]] as "total destruction". The two races are not related. Although Axies thinks it has not been long since the scouring, he later considers "a few centuries" to be a relatively short amount of time. Little is known about the current state of Aimia.
 
-The etymology of "Siah" and "Dysian" is not known. Both races of Aimians still reside on Roshar and have been seen in various parts of the continent.{{wob ref|9640}} 
+The etymology of "Siah" and "Dysian" is not known. Both races of Aimians still reside on Roshar and have been seen in various parts of the continent. 
 
-Axies refers to his bad luck that is a result of the "[[Curse of Kind]]", but it is not clear what the curse is or whether it affects all Siah.{{book ref|sa1|i|5}}
+Axies refers to his bad luck that is a result of the "[[Curse of Kind]]", but it is not clear what the curse is or whether it affects all Siah.
 
 ==Relationships with Other Races==
 
 ===Humans===
-At some point in history, Siah Aimians and humans created hybrid offspring,{{wob ref|457}} possibly reflected in the blue skin of the people of [[Natanatan]]{{book ref|sa1|36}} or the prominent blue veins of the women of [[Babatharnam]].{{book ref|sa1|46}} Human-Siah hybrids have shadows that are unusual in some way.{{wob ref|11883}}
+At some point in history, Siah Aimians and humans created hybrid offspring, possibly reflected in the blue skin of the people of [[Natanatan]] or the prominent blue veins of the women of [[Babatharnam]]. Human-Siah hybrids have shadows that are unusual in some way.
 
-Most cultures on Roshar remain aware of Siah Aimians through legends and limited interaction, but the reaction to them varies from curiosity and unease to outright disgust. Rysn believes that Aimians are bad luck, [[Kylrm]] believes they bring curses onto people, and [[Nlent]] believes they can remove their limbs and skin because they are evil in human form.{{book ref|sa2|i|3}}
+Most cultures on Roshar remain aware of Siah Aimians through legends and limited interaction, but the reaction to them varies from curiosity and unease to outright disgust. Rysn believes that Aimians are bad luck, [[Kylrm]] believes they bring curses onto people, and [[Nlent]] believes they can remove their limbs and skin because they are evil in human form.
 
-According to a report from [[Jasnah Kholin]] to [[Vstim]], there are a few Aimians of the variety that Rysn saw moving among the people of Roshar.{{book ref|sa3.5|9}}
+According to a report from [[Jasnah Kholin]] to [[Vstim]], there are a few Aimians of the variety that Rysn saw moving among the people of Roshar.
 
 ===Sleepless===
-The past and present relationship between the two races of Aimians is unclear. Both races are functionally immortal; although the timeline of Aimia is not well-defined, it is likely that most individuals coexisted on Aimia for many thousands of years before the scouring. A Sleepless named [[Arclo]] refers to his ability to imitate humans almost as well as a Siah and mentions Axies in a familiar manner.{{book ref|sa2.5|18}} After the scouring, some of the Sleepless continue to protect secrets in the Aimian capital of [[Akinah]],{{book ref|sa3|i|4}} but it is not known if Siah Aimians are involved.
+The past and present relationship between the two races of Aimians is unclear. Both races are functionally immortal; although the timeline of Aimia is not well-defined, it is likely that most individuals coexisted on Aimia for many thousands of years before the scouring. A Sleepless named [[Arclo]] refers to his ability to imitate humans almost as well as a Siah and mentions Axies in a familiar manner. After the scouring, some of the Sleepless continue to protect secrets in the Aimian capital of [[Akinah]], but it is not known if Siah Aimians are involved.
 
-While in [[Kasitor]], Axies noted that "Aimians&mdash;even Siah Aimians&mdash;were rare" at the time, implying that Siah Aimians have historically outnumbered Sleepless on the Rosharan mainland.{{book ref|sa1|i|5}} However, this does not provide much insight regarding the population of Siah Aimians, as only twenty-four Sleepless swarms are known to have lived on Roshar.{{book ref|sa3.5|6}}
+While in [[Kasitor]], Axies noted that "Aimians&mdash;even Siah Aimians&mdash;were rare" at the time, implying that Siah Aimians have historically outnumbered Sleepless on the Rosharan mainland. However, this does not provide much insight regarding the population of Siah Aimians, as only twenty-four Sleepless swarms are known to have lived on Roshar.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:45, 20 August 2020 (UTC)}}
-{{stormlight}}
+
 [[es:Siah aimiano]]

@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Inkwell.txt
+entity_type: disambig
+---
 
 **Inkwell** can refer to several different things:
 *[[Inkwell (town)]] - A town in [[Alethkar]].

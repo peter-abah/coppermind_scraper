@@ -1,20 +1,21 @@
-{{book|title=*White Sand*|display-title=*White Sand* (prose)
-|released=Unpublished
-}}
-{{for|White Sand|the canonical graphic novel|pre=This article deals with the unpublished, prose re-write of Brandon's first novel|post= For the original version, see [[White Sand Prime|*White Sand* Prime]].}}
+---
+source_file: White Sand (prose).txt
+entity_type: book
+title: '''''White Sand'''''
+display-title: '''''White Sand'''' (prose)'
+released: Unpublished
+---
 
-***White Sand* (prose)** is an unpublished [[Cosmere]] novel written by [[Brandon Sanderson]]. It is his eighth novel, being a complete re-write of [[White Sand Prime|*White Sand* Prime]], the very first novel that he ever wrote. It serves as the basis for a canonical [[White Sand|trilogy of graphic novels]] of the same name.{{url ref|name=dynamite|url=https://www.dynamite.com/htmlfiles/pressrelshow.html?display=PR05281436121|text=*White Sand* Graphic Novel Press release|site=Dynamite|date=May 29th, 2014}}
+***White Sand* (prose)** is an unpublished [[Cosmere]] novel written by [[Brandon Sanderson]]. It is his eighth novel, being a complete re-write of [[White Sand Prime|*White Sand* Prime]], the very first novel that he ever wrote. It serves as the basis for a canonical [[White Sand|trilogy of graphic novels]] of the same name.
 
-Although Brandon no longer sends copies of this version of *White Sand* to people who request it via email, it is provided via a link in the newsletter to subscribers.{{url ref|name=contact|url=https://brandonsanderson.com/contact/|text=Requesting *White Sand* or *Aether of Night*|site=brandonsanderson.com|date=Accessed September 10th, 2018}} He requests that they do not share it or discuss it in a public forum.{{tweet ref|505565133242761216|I read that you said you'll send copies of White Sand to people who request it?|date=Aug 30th, 2014}}
+Although Brandon no longer sends copies of this version of *White Sand* to people who request it via email, it is provided via a link in the newsletter to subscribers. He requests that they do not share it or discuss it in a public forum.
 
 The opening sequence of "White Sand" was officially published in the "[[Arcanum Unbounded]]" anthology.
 
 ## Development
 This version of *White Sand*, along with Brandon's two preceding books, *[[Elantris (book)|Elantris]]* and [[Dragonsteel Prime|*Dragonsteel* Prime]], marks the start of Brandon working on the [[cosmere]] in earnest.
 
-According to [[Isaac Stewart]], this version of *White Sand* helped Brandon get the attention of his agent, [[Joshua Bilmes]].{{wob ref|9259}} Brandon is considering revising the prose and releasing it as a canon novel{{wob ref|14220}}{{wob ref|16493}}{{wob ref|16431}} with a planned length of 200k words.{{wob ref|16496}} This has been described as the definitive version of the White Sand story.{{wob ref|16431}}
+According to [[Isaac Stewart]], this version of *White Sand* helped Brandon get the attention of his agent, [[Joshua Bilmes]]. Brandon is considering revising the prose and releasing it as a canon novel with a planned length of 200k words. This has been described as the definitive version of the White Sand story.
 
 ## Notes
 <references />
-{{meta/partial}}
-{{books}}

@@ -1,0 +1,65 @@
+{{magic system
+|related=[[Devotion]], [[Dominion]]{{wob ref|9830}}{{wob ref|4090}}
+|type=End-Positive{{wob ref|7114}}
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[The Emperor's Soul]]
+}}
+{{quote
+|There was no subtlety to what the Bloodsealer did; they didn’t traffic in subtlety. Instead of skill or artistry, they used tricks and blood. However, their craft was effective.
+|[[Wan ShaiLu]] on Bloodsealing{{tes ref|3}}
+}}
+'''Bloodsealing''' is a manifestation of [[Investiture]] practiced by the '''Bloodsealers''' of [[Dzhamar]] on the planet [[Sel]].{{tes ref|42}} Much like the better known [[Forgery]], Bloodsealing makes use of stamps to create Bloodseals,{{tes ref|76}} runes powered by the Investiture of the [[Dor]] which can create a range of magical effects.{{tes ref|3}} However, that is where the similarities end. Instead of the conventional organic inks of Forgery, Bloodsealers make use of human blood as the ink in their stamp.
+
+== Process ==
+In order for a Bloodsealer to access the [[Dor]] a few things have to occur. It appears that Bloodsealers have to be [[Dzhamarian]]. The specific processes and restrictions of Bloodsealing, as well as any limits to its capabilities, are so far unknown but a few constants and hints appear. The use of a stamp seems to be required, as well as the blood of a human being which is being sealed.{{tes ref|3}}{{wob ref|12557}}  The Bloodseals themselves do not necessarily have to be made from bones, but that is their typical material.{{wob ref|12555}} The type of bone as well as the location that it comes from can be relevant to the Bloodseal, but it is not strictly necessary.{{wob ref|12556}} In addition, while human blood has always been used so far, it is also unknown if the blood of an animal will suffice to create a Bloodseal. Another rule is that the blood being used must be fresh, harvested from the person within the past twenty-four hours.{{tes ref|98}} After this time period, the blood grows stale and fresh blood must be used in order to perform additional Bloodsealing.{{tes ref|5}} Right before the stamp loses power, it will begin to dim,{{tes ref|17}} before pulsing and eventually vanishing.{{tes ref|98}}
+
+From here, evidence of Bloodsealing is based more on hearsay and rumor than actual evidence. There is some talk of the usefulness of a man's hair, nails, and personal effects in Bloodsealing.{{tes ref|97}} [[Shai]] claims that they would not be terribly helpful in Bloodsealing and there is no mention of their function or how they would be put to use. In addition to this, there are indications that the skeletons of specific people may be more useful than others in crafting [[skeletal]]s, although again how and why are unknown.{{tes ref|3}}
+
+Bloodsealers have been seen moving in an unnaturally lithe way.{{tes ref|3}} However, it is uncertain if this is a result of their magic or simply the unnerving effect their presence tends to have on others. It should be noted that the pale skin and hair are not a result of being a Bloodsealer, they are simply the characteristics of the Dzhamarian race.{{tes ref|76}} It is as of yet unknown whether the red eyes are a result of being a Bloodsealer or another Dzhamarian trait.
+
+It is likely that when crafting a Bloodseal a symbolic representation of the shape of Dzhamar, homeland of the Bloodsealers, is necessary.
+
+== Uses ==
+=== Wards ===
+One of the primary uses of Bloodsealing is to craft wards used to imprison a specific person.{{tes ref|3}} The rune this process requires looks very similar to an eye. When inked with someone's blood, and placed on a door, the symbol begins to glow with a red light. The person whose blood was used also feels a brief sharp pain. If that person leaves the room in which they are imprisoned or attempts to alter the rune on the door, the Bloodsealer that placed it will know. The blood used to craft the Bloodseal must belong to the person who the ward imprisons.{{wob ref|12557}} As time goes on, the Bloodseal will begin to fail.{{tes ref|98}} The rune's glow will fade,{{tes ref|17}} pulse, and then eventually vanish altogether if it is not renewed.{{tes ref|98}}
+
+Another, perhaps unintentional impact of a ward created by Bloodsealing is to render an object [[Forgery|unForgeable]].{{tes ref|76}} Just as [[ralkalest]] is incapable of being Forged, a Soulstamp will not take on any object with a Bloodseal upon it. Whether this also works the other way is unknown, but seems probable.
+
+=== Skeletals ===
+The other known tools of a Bloodsealer are skeletals, which are skeletons{{tes ref|3}} that have been reanimated by a Bloodseal on their forehead.{{tes ref|98}} While commonly crafted from human bones,{{tes ref|98}} they may also be made from animal bones, although these may be less capable of following certain commands.{{wob ref|12560}} The specifics for creating these creatures, as well as where the blood used in their Bloodseals comes from, are unknown. Skeletals have the ability to track a person if they are given blood that was taken within the past twenty-four hours. The skeleton of the skeletal must be intact and if pivotal bones are damaged or removed it will cease to function. In addition, sometimes the bones may be sharpened, such as the vertebrae. This makes them even harder to destroy, as they will hurt the person attempting to disassemble them. Repairs can be made to the skeleton with wooden replacement bones and while their stamps must be periodically renewed, they do not need to be refreshed as regularly as the Bloodseal wards.{{wob ref|12559}} Skeletals are as feared as they are deadly.{{tes ref|3}}{{tes ref|98}} 
+
+== Relationship To Dzhamar ==
+Bloodsealing has a specific tie to the land of Dzhamar. Like all [[Sel]]ish magic, Bloodsealing will decrease in power the further from Dzhamar the user gets.{{wob ref|8617}}{{wob ref|4680}}
+
+== Culture ==
+=== Within the Rose Empire ===
+{{quote
+|There are . . . times when one must accept the aid of darkness in order to contain a greater darkness.
+|[[Gaotona]] on Bloodsealing{{tes ref|3}}
+}}
+Among the Dhazmarians the art of Bloodsealing is steeped in tradition.{{wob ref|12556}} They have a number of specific beliefs that impact the way they practice Bloodsealing, including their insistance on using bone for the stamps themselves, and their beliefs about the significance of the origins of the bones. While some of this ritual has impact on the magic system, not all of their traditions have an actual effect on the Bloodseals themselves.
+
+As a whole, Bloodsealing seems to be a controversial art elsewhere in the [[Rose Empire]]. It is only known to be practiced in Dzhamar, who have not been mentioned to have any issues with its use. The [[Grand]]s, ruling class of the empire, seem to have a certain distaste for the [[Investiture]], but have displayed their willingness to make use of it over Forgery.{{tes ref|3}} Both the [[MaiPon]] and the [[Mulla'dil]] or [[Striker]]s have a strong and lasting hatred for Bloodsealers and their magic. MaiPon see it as twisted and unnatural.{{tes ref|3}}{{tes ref|76}} The mountainous homeland of the Strikers borders Dzhamar, so there is also a lasting enmity between the two peoples.{{tes ref|42}} For their part, the Bloodsealers also fear and hate the Forgers of MaiPon.{{tes ref|76}}
+
+=== Teod and Beyond ===
+On a global scale, as of the [[Late Era]] of Sel, Bloodsealing appears to be relatively unknown beyond the borders of the Rose Empire. It is uncertain what if any attitudes there is towards Bloodsealing in [[Teod]] or the nations of [[Opelon]]. It is possible that this is due to the diminishing returns on power often associated with moving beyond the borders of an Investiture's homeland.{{wob ref|4680}}
+
+== Parallels with other Invested Arts ==
+=== Relationship to Forgery ===
+Like all forms of Investiture on Sel, Bloodsealing uses patterns and shapes to draw upon the power of the Dor.{{wob ref|9831}} However, Bloodsealing and Forgery bear a striking resemblance to one another in the method.{{wob ref|9835}} While the creation of magical seals is something they have in common,{{tes ref|3}}{{tes ref|12}} what the two systems seem capable of is vastly different. The whole idea behind a Forgery is to build a plausible lie,{{tes ref|30}} in order to make both the [[Cognitive Realm|Cognitive]] aspect of an object{{tes ref|12}} as well as other people{{tes ref|3}} believe an untruth. However, this idea has nothing to do with the two previously outlined contexts in which we have seen Bloodsealing used. Skeletals in particular, being walking skeletons devoid of any muscle or flesh,{{tes ref|98}} seem to very directly contradict the plausibility requirement necessary for a successful Forgery. These two systems at first glance appear very like one another but upon closer analysis they are still distinct, albeit closely related systems.{{wob ref|9829}}
+
+=== Similarities to Awakening ===
+There are several notable similarities between Bloodsealing and the Investiture of [[Awakening]] on [[Nalthis]]. The most overt comparisons can be drawn between skeletals and the Type II BioChromatic entities known as [[Lifeless]]. Both involve the reanimation of corpses to serve the living.{{tes ref|3}}{{book ref|warbreaker|46}} Both Investitures cease to function if the body they work on is heavily damaged.{{tes ref|98}}{{book ref|warbreaker|33}} In Awakening, this twisted resurrection is fueled by [[BioChromatic Breath]]{{book ref|warbreaker|21}} instead of the Dor, but there is no denying that they are similar. It is, however, important to note, that while it is possible to reanimate a skeleton with Breath, it requires much more Breath and it would be much simpler to simply Awaken a full corpse rather than simply a skeleton.{{book ref|warbreaker|46}} Indeed, the two processes are very similar in how they function, drawing upon an external source of Investiture to cause the body to believe it lives again.{{wob ref|12558}} The primary difference between the two is that the creation of a Lifeless uses a part of the body's own soul, whereas a skeletal does not. The bones themselves are very important in the creating of the skeletal. The comparison with Lifeless raises an interesting possibility. It may offer an insight into how a skeletal is created. Lifeless are returned to life and given a Command, which is a combination of a spoken order and a Cognitive concept of what the Awakened object is to do.{{book ref|warbreaker|46}} If skeletals need a similar Cognitive concept, it would appear the Bloodseal on the forehead serves this same function.
+
+Bloodsealing's other notable similarity to Awakening is based on a lie that Shai tells. She tells the Strikers that the Bloodsealer guarding her has been stealing bits of hair and fingernail from them to use in some ritual.{{tes ref|97}} While she claims that the Bloodsealer would be able to do little with only those bits, the possibility remains that those pieces too can be used in Bloodsealing in some manner. If this is true, then there exists another notable parallel with Awakening. As per the law of BioChromatic Parallelism, the number of Breaths required to Awaken things is reduced when an object being Awakened is made closer to the form of life,{{book ref|warbreaker|46}} such as when blood, nails, or hair are used in its creation.{{book ref|warbreaker|prologue}}{{wob ref|6017}} If there is any truth to Shai's lie, this is another fascinating parallel between the two Investitures.
+
+== Known Bloodsealers ==
+*[[Weedfingers]]{{tes ref|3}}{{tes ref|98}}
+
+== Notes ==
+<references>
+</references>
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 14:26, 18 March 2016 (MDT)}}
+{{The Emperor's Soul}}
+[[es:Sellado de sangre]]

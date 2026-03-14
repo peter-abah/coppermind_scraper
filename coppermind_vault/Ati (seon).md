@@ -1,22 +1,19 @@
 ---
-name: "Ati"
-image: "Aon_Ati.svg"
-abilities: "{{tag+|Splinter"
+source_file: Ati (seon).txt
+entity_type: character
+name: Ati
+image: Aon_Ati.svg
+abilities: Splinter of [[Devotion]]
+bonded: '[[Dashe]]'
+species: Seon
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
 ---
 
-of [[Devotion]]
-|bonded=[[Dashe]]
-|species=Seon
-|world=Sel
-|universe=[[Cosmere]]
-|books=[[Elantris (book)|Elantris]]
-}}
-{{for|Ati|the original Vessel of [[Ruin]]}}
-**Ati** is a [[seon]] on [[Sel]] who is bonded with [[Dashe]].{{book ref|thoe}} They are named after [[Aon#Ati|Aon Ati]], which means hope.{{book ref|elantris|part=ars}}
+**Ati** is a [[seon]] on [[Sel]] who is bonded with [[Dashe]]. They are named after [[Aon#Ati|Aon Ati]], which means hope.
 
-Ati was bonded with an [[Elantrian]] at the time of the [[Reod]] and therefore lost their sapience until [[Elantris (city)|Elantris]] was restored. By that point, the person they had been bonded with was dead, so they approached [[Raoden]] to ask for a new master. Raoden gave them, as well as the seon [[Aeo]], to [[Dashe]], who bonded with Ati and gave Aeo to [[Matisse]].{{book ref|thoe}}
+Ati was bonded with an [[Elantrian]] at the time of the [[Reod]] and therefore lost their sapience until [[Elantris (city)|Elantris]] was restored. By that point, the person they had been bonded with was dead, so they approached [[Raoden]] to ask for a new master. Raoden gave them, as well as the seon [[Aeo]], to [[Dashe]], who bonded with Ati and gave Aeo to [[Matisse]].
 
 ## Notes
 <references />
-{{complete|--[[User:Stargazer|Stargazer]] ([[User talk:Stargazer|talk]]) 19:08, 7 June 2021 (UTC)}}
-{{Elantris}}

@@ -1,15 +1,14 @@
 ---
-residence: "Ildithia"
-earth: "Reckoners"
-introduced: "Calamity"
+source_file: Rose (Reckoners).txt
+entity_type: character
+residence: Ildithia
+earth: Reckoners
+introduced: '[[Calamity]]'
 ---
 
-{{for|Rose (Rithmatist)|the student at [[Armedius Academy]]}}
 **Rose** is a baker employed at [[Sharp Tower]].
 
-She is decorating cupcakes nervously when [[David]] and [[Megan Tarash|Megan]] arrive, and is sent away at their arrival.{{book ref|Calamity|26}} Her fear comes from [[Loophole]] having very exacting standards on her cupcakes, having killed three pastry chefs due to their mistakes.
+She is decorating cupcakes nervously when [[David]] and [[Megan Tarash|Megan]] arrive, and is sent away at their arrival. Her fear comes from [[Loophole]] having very exacting standards on her cupcakes, having killed three pastry chefs due to their mistakes.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 13:02, 3 July 2018 (MST)}}
-{{Reckoners}}

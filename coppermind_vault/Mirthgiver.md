@@ -1,18 +1,18 @@
 ---
-abilities: "{{tag|Returned"
+source_file: Mirthgiver.txt
+entity_type: character
+abilities: Returned, Cognitive Shadow
+titles: God of Laughter
+nation: Hallandren
+residence: T'Telir
+world: Nalthis
+universe: '[[Cosmere]]'
+books: '[[Warbreaker]]'
 ---
 
-, {{tag+|Cognitive Shadow}}
-|titles=God of Laughter
-|nation=Hallandren
-|residence=T'Telir
-|world=Nalthis
-|universe=[[Cosmere]]
-|books=[[Warbreaker]]
-}}
-**Mirthgiver** is a [[Returned]] from [[Hallandren]] on [[Nalthis]] around the year 327.{{book ref|wb|16}} 
+**Mirthgiver** is a [[Returned]] from [[Hallandren]] on [[Nalthis]] around the year 327. 
 
-Mirthgiver was known as the god of laughter. In a conversation with [[Siri]], [[Lightsong]] flippantly described Mirthgiver as poorly suited to the position since he is "dull as a rock and twice as ugly".{{book ref|wb|16}}
+Mirthgiver was known as the god of laughter. In a conversation with [[Siri]], [[Lightsong]] flippantly described Mirthgiver as poorly suited to the position since he is "dull as a rock and twice as ugly".
 
 ## Attributes and Abilities
 As a [[Returned]], Mirthgiver has a [[divine Breath]] which gives him the benefits of being on the [[Fifth Heightening]]. This includes:
@@ -24,5 +24,3 @@ As a [[Returned]], Mirthgiver has a [[divine Breath]] which gives him the benefi
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 18:46, 28 March 2020 (UTC)}}
-{{Warbreaker}}

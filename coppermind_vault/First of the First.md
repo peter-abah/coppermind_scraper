@@ -1,3 +1,8 @@
+---
+source_file: First of the First.txt
+entity_type: article
+---
+
 #REDIRECT [[First of the Sun]]
 [[Category: Locations]]
 [[Category: Isles of the Emberdark]]

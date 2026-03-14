@@ -1,16 +1,17 @@
-{{lifeform
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
+---
+source_file: Stardragon.txt
+entity_type: lifeform
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
 
-**Stardragons** are a potentially fictitious species known to the peoples of [[Detritus]].{{book ref|Skyward|prologue}}
+**Stardragons** are a potentially fictitious species known to the peoples of [[Detritus]].
 
-[[Spensa]] believed she had the "heart of a stardragon", an idiom of courage,{{book ref|Skyward|prologue}} and Spensa and [[Rig]] often played together as children, pretending to slay stardragons.{{book ref|Skyward|22}}
+[[Spensa]] believed she had the "heart of a stardragon", an idiom of courage, and Spensa and [[Rig]] often played together as children, pretending to slay stardragons.
 
-There is a [[Stardragon Flight]] in the [[DDF]], and two of the pilots were present in the dorms when Spensa sneaks in.{{book ref|Skyward|27}}
+There is a [[Stardragon Flight]] in the [[DDF]], and two of the pilots were present in the dorms when Spensa sneaks in.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 23:27, 20 July 2019 (MST)}}
-{{Skyward}}
+
 [[Category:Myths and Legends]]

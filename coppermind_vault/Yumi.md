@@ -1,87 +1,80 @@
 ---
-|image: "Yumi (From Learning to Stack) by Aliya Chen.png"
-titles: "Chosen, Honored One, Girl of commanding primal spirits"
-abilities: "{{tag|Yoki-hijo"
+source_file: Yumi.txt
+entity_type: character
+image: Yumi (From Learning to Stack) by Aliya Chen.png
+titles: Chosen, Honored One, Girl of commanding primal spirits
+abilities: Yoki-hijo, Cognitive Shadow
+'#profession': yoki-hijo
+nation: Torio
+world: Komashi
+universe: '[[Cosmere]]'
+introduced: '[[Yumi and the Nightmare Painter]]'
 ---
 
-, {{tag+|Cognitive Shadow}}{{book ref|yumi|17}}{{book ref|yumi|39}}{{wob ref|16164}}
-|#profession=yoki-hijo
-|nation=Torio
-|world=Komashi
-|universe=[[Cosmere]]
-|introduced=[[Yumi and the Nightmare Painter]]
-}}
-{{update|yumi}}
-
-**Yumi** is a [[yoki-hijo]] from [[Torio]] who escaped from her prison and freed the [[hijo]] from the [[father machine]].{{book ref|yumi|39}}
+**Yumi** is a [[yoki-hijo]] from [[Torio]] who escaped from her prison and freed the [[hijo]] from the [[father machine]].
 
 ## Appearance and Personality
-{{for|/Gallery|more images}}
 
-{{image|Yumi by FelCandy.jpg|height=250px|side=left|Yumi holding a stone}}
-She has the appearance of a twenty-one year old woman{{ref|group=fn|text=While described as nineteen, the years given are translated for the Rosharan audience the story is being told to.{{book ref|yumi|1}}{{book ref|yumi|2}} Rosharan years are 1.1x the length of the standard cosmere year,{{wob ref|8086}}{{au ref|Rosharan}} which would make her twenty-one, which is also a member in the [[Artist's sequence of progress]].}} with light skin and dark hair which comes down to her waist. 
+She has the appearance of a twenty-one year old woman with light skin and dark hair which comes down to her waist. 
 
-She is not exactly happy about her life and wishes for something more, but forces herself to accept it, and all the rules accompanied with it, without question. This faith ultimately left her utterly distraught upon learning that it was merely traditionalism, instead of the explicit will of the hijo. Though she eventually did come to question why she is so devoted, and if she could possibly do something more with her life, though she hates herself for the thought.{{book ref|yumi|2}}{{book ref|yumi|4}} This conflict between her wish for more, and her devotion to tradition, defines her relationship with the role of the yoki-hijo, and her life as a whole. 
+She is not exactly happy about her life and wishes for something more, but forces herself to accept it, and all the rules accompanied with it, without question. This faith ultimately left her utterly distraught upon learning that it was merely traditionalism, instead of the explicit will of the hijo. Though she eventually did come to question why she is so devoted, and if she could possibly do something more with her life, though she hates herself for the thought. This conflict between her wish for more, and her devotion to tradition, defines her relationship with the role of the yoki-hijo, and her life as a whole. 
 
-She is rather prudish with the display of her skin and form, preferring to dress in clothing that hid her form and covered any skin. Her strictness with this began to relax as she allowed herself to express herself more.{{book ref|yumi|15}} 
+She is rather prudish with the display of her skin and form, preferring to dress in clothing that hid her form and covered any skin. Her strictness with this began to relax as she allowed herself to express herself more. 
 
-When she is stressed or anxious, she has a tendency to try to stack nearby objects as a way to assuage her anxiety.{{book ref|yumi|11}} She also has a tendency to stack objects in general, even for just entertainment.{{book ref|yumi|part=anotherepilogue}} 
+When she is stressed or anxious, she has a tendency to try to stack nearby objects as a way to assuage her anxiety. She also has a tendency to stack objects in general, even for just entertainment. 
 
-She has a deep hatred for lies, and sees them as bad in all circumstances, deeply judging those who partake in such untruths.{{book ref|yumi|11}} This comes from her being taught over her whole life about the evils of lying. 
+She has a deep hatred for lies, and sees them as bad in all circumstances, deeply judging those who partake in such untruths. This comes from her being taught over her whole life about the evils of lying. 
 
-She is potentially bisexual, consistently describing how attractive [[Akane]] is, and even gasped in awe when first meeting her, likening her to a goddess.{{book ref|yumi|11}} She also shows a focus on her figure and on that of [[Design]].{{book ref|yumi|11}} However, this is not explicitly confirmed.
+She is potentially bisexual, consistently describing how attractive [[Akane]] is, and even gasped in awe when first meeting her, likening her to a goddess. She also shows a focus on her figure and on that of [[Design]]. However, this is not explicitly confirmed.
 
-She speaks with an accent that is strange to the ears of the Nagadan people, due to being raised in the Torio tongue.{{book ref|yumi|part=anotherepilogue}}
+She speaks with an accent that is strange to the ears of the Nagadan people, due to being raised in the Torio tongue.
 
-{{image|Thirty Seven Spirits by Aliya Chen.jpg|width=300px|side=right|Yumi passed out after a day of summoning}}
 ## Attributes and Abilities
-As a yoki-hijo, she has the ability to summon forth hijo through a process of ritualistic stone stacking, and upon summoning them she can have them take on the shape of various tools to help the denizens of Torio.{{book ref|yumi|2}} She is very heavily Invested, more than a [[Returned]] and comparable to an [[Elantrian]].{{book ref|yumi|17}}{{book ref|yumi|32}}
+As a yoki-hijo, she has the ability to summon forth hijo through a process of ritualistic stone stacking, and upon summoning them she can have them take on the shape of various tools to help the denizens of Torio. She is very heavily Invested, more than a [[Returned]] and comparable to an [[Elantrian]].
 
 Her experience in the stacking ritual is immense, with the practice from every day over nearly two-thousand years crossing over, despite her loss of memory.
 
-As a Cognitive Shadow with a great deal of Investiture, she cannot die of old age, although her perception of herself causes her to age.{{wob ref|16164}} Strangely, despite her Investiture, she is capable of traveling off-world.{{wob ref|16402}}
+As a Cognitive Shadow with a great deal of Investiture, she cannot die of old age, although her perception of herself causes her to age. Strangely, despite her Investiture, she is capable of traveling off-world.
 
 ## History
-{{image|Yumi by Gabsternaut.jpg|side=left|width=300px}}
-She was born under a falling star, which was seen as an omen of her powers as a yoki-hijo. Thus, she was taken from her parents and raised as one her whole life{{book ref|yumi|2}}, and eventually became renowned for her abilities. This, however, only lasted until the [[father machine]] was activated in an attempt to replace the position, as it was perceived as more efficient. The activation was a disaster however, and nearly everyone on the planet had their souls consumed by the machine, with her being one of the only survivors. 
 
-The machine, threatened, decided to hide her away in a simulation of her former life, hidden away in the [[shroud]], in order to keep her complacent. At the end of every day, she would have her memory of the day erased, so that she would live through it again. This happened for one-thousand seven-hundred and sixty-three years,{{book ref|yumi|38}} until one day her ritual reached its apex, summoning thirty-seven hijo at once, and managed to pull one spirit from the grasp of the machine. Shortly after pulling them out, she passed out in exhaustion.{{book ref|yumi|2}}{{book ref|yumi|39}}
+She was born under a falling star, which was seen as an omen of her powers as a yoki-hijo. Thus, she was taken from her parents and raised as one her whole life, and eventually became renowned for her abilities. This, however, only lasted until the [[father machine]] was activated in an attempt to replace the position, as it was perceived as more efficient. The activation was a disaster however, and nearly everyone on the planet had their souls consumed by the machine, with her being one of the only survivors. 
 
-After she awoke, the spirit begged her to save them, but did little else until it followed Liyun, as a nightmare, into [[Kilahito]], where it found [[Nikaro|Painter]] and [[Connection|Connected]] them, in an attempt to protect her from having her memories erased. This worked, but had the unintended consequence of making them switch bodies, with Painter waking up in her body, and her waking up without a physical form.{{book ref|yumi|40}} This was not an intentional side-effect, but simply a consequence of messing with Connection.{{book ref|yumi|40}}
+The machine, threatened, decided to hide her away in a simulation of her former life, hidden away in the [[shroud]], in order to keep her complacent. At the end of every day, she would have her memory of the day erased, so that she would live through it again. This happened for one-thousand seven-hundred and sixty-three years, until one day her ritual reached its apex, summoning thirty-seven hijo at once, and managed to pull one spirit from the grasp of the machine. Shortly after pulling them out, she passed out in exhaustion.
 
-Painter took on Yumi's form, though Yumi could only see his true form. She quickly became stressed and humiliated as Painter showed a blatant disregard for any ritual. She came to assume that the spirits were in some way trying to punish her. This humiliation and desperation quickly turned into ire, and she exploded into a violent harangue.{{book ref|yumi|8}}{{book ref|yumi|9}} In response to her diatribe, Painter explained that he was a person, and she quickly theorized that the spirits sent him to her to help her save them.{{book ref|yumi|9}}
+After she awoke, the spirit begged her to save them, but did little else until it followed Liyun, as a nightmare, into [[Kilahito]], where it found [[Nikaro|Painter]] and [[Connection|Connected]] them, in an attempt to protect her from having her memories erased. This worked, but had the unintended consequence of making them switch bodies, with Painter waking up in her body, and her waking up without a physical form. This was not an intentional side-effect, but simply a consequence of messing with Connection.
 
-Upon her soul going into Painter's body, her high levels of Investiture caused the body to quickly morph to match her Cognitive aspect, causing it to match her own body.{{book ref|yumi|11}}{{book ref|yumi|17}} She was not aware of this at first, believing it was an instance similar to Painter in her body, wherein they simply saw themselves as themselves, while everyone who saw them saw the other. This was proven wrong when she answered the door to Foreman [[Sukishi]], and he reacted with shock seeing a woman in Painter's room. Under Painter's direction, she informed him that he was sick, and of the stable [[nightmare]] he found before his first switch.{{book ref|yumi|11}}
+Painter took on Yumi's form, though Yumi could only see his true form. She quickly became stressed and humiliated as Painter showed a blatant disregard for any ritual. She came to assume that the spirits were in some way trying to punish her. This humiliation and desperation quickly turned into ire, and she exploded into a violent harangue. In response to her diatribe, Painter explained that he was a person, and she quickly theorized that the spirits sent him to her to help her save them.
 
-Shortly after the foreman left, Akane left her room and she was taken in by her beauty. Shortly after seeing her, Akane saw her and asked if she was a friend of Painter. She lied, via the urging of Painter, that she was his sister, which Akane instantly bought.{{book ref|yumi|11}} Their conversation began cordially until she misunderstood her relationship to Painter, assuming her one of his concubines, a misunderstanding she quickly corrected.{{book ref|yumi|11}} This correction led her to question what Painter has been telling her, causing her to confront him on if he was telling lies. His confirmation of her suspicions caused her to have a panic attack.{{book ref|yumi|11}}
+Upon her soul going into Painter's body, her high levels of Investiture caused the body to quickly morph to match her Cognitive aspect, causing it to match her own body. She was not aware of this at first, believing it was an instance similar to Painter in her body, wherein they simply saw themselves as themselves, while everyone who saw them saw the other. This was proven wrong when she answered the door to Foreman [[Sukishi]], and he reacted with shock seeing a woman in Painter's room. Under Painter's direction, she informed him that he was sick, and of the stable [[nightmare]] he found before his first switch.
 
-After calming herself down by stacking books, eating, and discovering the wonders of television, she became very tired and fell asleep, waking back up in her prison.{{book ref|yumi|11}} She and Painter followed the normal morning routine, until Liyun entered to confront him about the previous day. Painter attempted to give an explanation, but Yumi stopped him and made him repeat her exact words, speaking to Liyun through him.{{book ref|yumi|12}} She believed his words, and they went on their way to the kimomakkin.{{book ref|yumi|12}}
+Shortly after the foreman left, Akane left her room and she was taken in by her beauty. Shortly after seeing her, Akane saw her and asked if she was a friend of Painter. She lied, via the urging of Painter, that she was his sister, which Akane instantly bought. Their conversation began cordially until she misunderstood her relationship to Painter, assuming her one of his concubines, a misunderstanding she quickly corrected. This correction led her to question what Painter has been telling her, causing her to confront him on if he was telling lies. His confirmation of her suspicions caused her to have a panic attack.
 
-{{image|Yumi Returns by botanicaxu.jpg|side=right|width=300px|Yumi being brought back to life by Nikaro}}
+After calming herself down by stacking books, eating, and discovering the wonders of television, she became very tired and fell asleep, waking back up in her prison. She and Painter followed the normal morning routine, until Liyun entered to confront him about the previous day. Painter attempted to give an explanation, but Yumi stopped him and made him repeat her exact words, speaking to Liyun through him. She believed his words, and they went on their way to the kimomakkin.
 
 ## Relationships
 ### Akane
-Despite getting off on a bad start in assuming that she was one of Painter's concubines,{{book ref|yumi|11}} she and [[Akane]] quickly became good friends, and she helped her to learn how to be more free to be herself and express herself as she feels.{{book ref|yumi|15}} At the start of their relationship she was under the misapprehension (due to a mistruth) that she was Painter's sister from another city.{{book ref|yumi|11}}
+Despite getting off on a bad start in assuming that she was one of Painter's concubines, she and [[Akane]] quickly became good friends, and she helped her to learn how to be more free to be herself and express herself as she feels. At the start of their relationship she was under the misapprehension (due to a mistruth) that she was Painter's sister from another city.
 
-She appears to be attracted to her, consistently describing her as beautiful and gorgeous, even gasping in awe upon seeing her and likening her to a goddess, along with being drawn to her physical features.{{book ref|yumi|11}} This, however, is not confirmed and can only be inferred.  
+She appears to be attracted to her, consistently describing her as beautiful and gorgeous, even gasping in awe upon seeing her and likening her to a goddess, along with being drawn to her physical features. This, however, is not confirmed and can only be inferred.  
 
 ### Liyun
-She has a complex relationship with [[Liyun]], a sense of respect and admiration for how she helped her across her life and was essentially the woman who raised her, mixed with a feeling of betrayal and frustration at the information she kept from her.{{book ref|yumi|22}} Even after learning that she was kept in the dark her whole life, she still held a respect for her and was deeply hurt by the disappointed and aggressive tone she took with her when confronted on the issue.{{book ref|yumi|23}} 
+She has a complex relationship with [[Liyun]], a sense of respect and admiration for how she helped her across her life and was essentially the woman who raised her, mixed with a feeling of betrayal and frustration at the information she kept from her. Even after learning that she was kept in the dark her whole life, she still held a respect for her and was deeply hurt by the disappointed and aggressive tone she took with her when confronted on the issue. 
 
 ### Painter
-{{image|Yumi Nikaro clothing swap by Botanicaxu.jpeg|height=300px|side=left|Yumi and Nikaro with clothing swapped}}
+
 She began on very bad terms with [[Nikaro|Painter]], seeing him as a liar that is doing everything in his power to humiliate her. Her disappointment and frustration were only furthered by how much she had to rely upon him to save the hijo, her expectations that he would be a great hero like that of legends, and by the negative effects he was having on her public image and her relationship with her kihomaban and her attendants. 
 
 Over time, they began to see each other more clearly and grow close, eventually falling in love.
 
 ### Chaeyung
-[[Chaeyung]] was one of Yumi's attendants under [[Liyun]]. She helps out Yumi by feeding, bathing and dressing her, as well as anything else Yumi might need. Chaeyung also seemed to have a talent for combing the tangles out of Yumi's hair without hurting her.{{book ref|yumi|19}} Yumi seemed to care about her attendants, but also could never really talk to them because of her station. Later she started to interact with them a little more, and realized that Chaeyung, along with [[Hwanji]], seemed excited to talk with her.{{book ref|yumi|31}} 
+[[Chaeyung]] was one of Yumi's attendants under [[Liyun]]. She helps out Yumi by feeding, bathing and dressing her, as well as anything else Yumi might need. Chaeyung also seemed to have a talent for combing the tangles out of Yumi's hair without hurting her. Yumi seemed to care about her attendants, but also could never really talk to them because of her station. Later she started to interact with them a little more, and realized that Chaeyung, along with [[Hwanji]], seemed excited to talk with her. 
 
 ### Hwanji
-[[Hwanji]] was Yumi's second attendant also under Liyun, and also helps out Yumi by feeding, bathing and dressing her. Hwanji is from a village in [[Torio]] and used to be an attendant under the yoki-hijo [[Dwookim]] until Dwookim retired. Hwanji likes to hum while helping Yumi and worries that she would be blamed by Liyun when Nikaro (as Yumi) started acting more rebellious, though Yumi assured her she would tell Liyun it wasn't her fault. Hwanji informed Yumi about the reform movement.{{book ref|yumi|22}}
+[[Hwanji]] was Yumi's second attendant also under Liyun, and also helps out Yumi by feeding, bathing and dressing her. Hwanji is from a village in [[Torio]] and used to be an attendant under the yoki-hijo [[Dwookim]] until Dwookim retired. Hwanji likes to hum while helping Yumi and worries that she would be blamed by Liyun when Nikaro (as Yumi) started acting more rebellious, though Yumi assured her she would tell Liyun it wasn't her fault. Hwanji informed Yumi about the reform movement.
 
 ## Trivia
-* Her name is derived from Yuna, one of the main protagonists of *[[wikipedia:Final Fantasy X|Final Fantasy X]]*, one of Brandon Sanderson's favorite games, and an inspiration behind the story.{{wob ref|15474}} Additionally, [[wikipedia:Yumi Hotta|Yumi Hotta]] is the author of *[[wikipedia:Hikaru no Go|Hikaru no Go]]*, a manga that helped spark the idea for the novel.{{book ref|yumi|part=postscript}} 
+* Her name is derived from Yuna, one of the main protagonists of *[[wikipedia:Final Fantasy X|Final Fantasy X]]*, one of Brandon Sanderson's favorite games, and an inspiration behind the story. Additionally, [[wikipedia:Yumi Hotta|Yumi Hotta]] is the author of *[[wikipedia:Hikaru no Go|Hikaru no Go]]*, a manga that helped spark the idea for the novel. 
  
 ## Notes
 ;Footnotes
@@ -89,8 +82,6 @@ Over time, they began to see each other more clearly and grow close, eventually 
 ;References
 <references>
 </references>
-{{partial}}
-{{yumi}}
 
 <!--
 2 omen at birth, a falling star, chosen by spirits

@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Rithmatist.txt
+entity_type: disambig
+---
 
 **Rithmatist** can refer to multiple things:
 

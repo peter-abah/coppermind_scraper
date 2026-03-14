@@ -1,27 +1,26 @@
-{{book
-|cover=Snapshot Dragonsteel edition.jpg
-|released= February 17, 2017
-|word-count=23,564
-}}
+---
+source_file: Snapshot.txt
+entity_type: book
+cover: Snapshot Dragonsteel edition.jpg
+released: February 17, 2017
+word-count: 23,564
+---
 
-{{for|Snapshot (event)| the construct itself that is the setting of the novella|pre= This article is about the novella|Snapshot (event)}}
-
-***Snapshot*** is a non-[[cosmere]] science fiction novella by Brandon Sanderson.{{wob ref|13977}}
+***Snapshot*** is a non-[[cosmere]] science fiction novella by Brandon Sanderson.
 
 ## Synopsis
-{{quote
-|If you could re-create a day, what dark secrets would you uncover?
+
+> If you could re-create a day, what dark secrets would you uncover?
 
 From New York Times #1 bestselling author Brandon Sanderson comes a detective thriller in a police beat like no other. Anthony Davis and his partner Chaz are the only real people in a city of 20 million, sent there by court order to find out what happened in the real world 10 days ago so that hidden evidence can be brought to light and located in the real city today.
 
 Within the re-created Snapshot of May 1st, Davis and Chaz are the ultimate authorities. Flashing their badges will get them past any obstruction and overrule any civil right of the dupes around them. But the crimes the detectives are sent to investigate seem like drudgery—until they stumble upon the grisly results of a mass killing that the precinct headquarters orders them not to investigate. That’s one order they have to refuse.
 
 The hunt is on. And though the dupes in the replica city have no future once the Snapshot is turned off, that doesn’t mean that both Davis and Chaz will walk out of it alive tonight.
-|Summary from Brandon's website{{ref|name=summary}}
-}}
+> — Summary from Brandon's website
 
 ## Summary
-{{for|/Summary|a chapter by chapter summary}}
+
 [[Anthony Davis]] and his partner [[Chaz]] enter a [[Snapshot (event)|Snapshot]] to investigate two crimes. The first is a murder that had occurred in the morning. They first eat breakfast in a diner, where Davis sees an attractive lady, from whom he eventually gets her phone number on a slip of paper. They then go to the location of the murder and follow [[Enrique Estevez]] as he flees the scene. They see him dump his gun in a sewer, so Davis contacts the Snapshot liaison, [[Maria]], where in the real world (IRL) the police retrieve the gun, providing vital evidence for the murder case.
 
 The second crime is not until that evening. They are to simply witness who hit first in a domestic disturbance case. Chaz doesn't even want to bother, but Davis convinces him to check out a mysterious police call that was never reported. They investigate an apartment building and find eight dead bodies in a swimming pool. They decide to investigate further, so they go to the police station to talk to Maria. After flashing their reality badge, she shows them the case file of a serial killer nicknamed the Photographer. He kills several people at a time then hides the evidence in a way that makes it difficult to investigate in Snapshots.
@@ -33,31 +32,24 @@ The Photographer returns, and they follow him back to his residence, which happe
 Later, Chaz and Davis leave the Photographer's house after sharing a drink and are confronted by the woman from the diner and another man. They are there in a Snapshot of a Snapshot to investigate Davis's murder of his partner, which really did happen in the original Snapshot. In this Snapshot, Davis was a Deviation, caused by the woman detective giving him her phone number. Davis demands to see the reality badge, and his life winks out as the detectives turn off the Snapshot.
 
 ==Development==
-The initial draft of *Snapshot* was written during March 2016 during a trip to Dubai.{{ref|name=branannounce}}{{wob ref|1616}}
+The initial draft of *Snapshot* was written during March 2016 during a trip to Dubai.
 
 ==Publication History==
-;Limited Hardcover Edition:2017 - Vault Books{{ref|name=branannounce}}
-;Ebook Edition:2017 - Dragonsteel Entertainment{{ref|name=branannounce}}
-;Con-Exclusive Hardcover Edition (possibly with *[[Dreamer]]*):2017 - Dragonsteel Entertainment{{ref|name=branannounce}}
+;Limited Hardcover Edition:2017 - Vault Books
+;Ebook Edition:2017 - Dragonsteel Entertainment
+;Con-Exclusive Hardcover Edition (possibly with *[[Dreamer]]*):2017 - Dragonsteel Entertainment
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Snapshot}}
 
 ==Trivia==
-*Snapshot* was originally set in a [[Reckoners Multiverse|Core Possibility]] in the universe of [[The Reckoners]],{{wob ref|9227}} but [[Brandon]] changed his mind and removed it from the universe because the film rights of the series and the novella are owned by different companies.{{wob ref|2959}}
+*Snapshot* was originally set in a [[Reckoners Multiverse|Core Possibility]] in the universe of [[The Reckoners]], but [[Brandon]] changed his mind and removed it from the universe because the film rights of the series and the novella are owned by different companies.
 
-"Snapshot" is a piece that Emily Sanderson is not a fan of, as it is a little brutal for her. {{wob ref|13807}}
+"Snapshot" is a piece that Emily Sanderson is not a fan of, as it is a little brutal for her. 
 
 ==Notes==
 <References>
 
-{{bws ref|name=branannounce|limited-edition-of-new-novella-now-up-for-preorder|Brandon's Limited Edition *Snapshot* Pre-order announcement|date=Jul 22nd, 2016}}
-
-{{url ref|name=summary|url=https://www.brandonsanderson.com/pages/short-fiction-non-cosmere#SNAPSHOT|text=Summary from Brandon's website|site=brandonsanderson.com}}
-
 </References>
-{{meta/partial}}
-{{Snapshot}}
-{{books}}
+
 [[category: list articles]]
 [[category: Snapshot| ]]

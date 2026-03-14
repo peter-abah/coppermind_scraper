@@ -1,3 +1,8 @@
+---
+source_file: Elantris (city)Gallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Elantris-Kae Map.jpg| <small><center>by {{a|Isaac Stewart}}</center></small>

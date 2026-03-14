@@ -1,0 +1,14 @@
+{{settlement
+|region=Sea of Souls
+|world=Shadesmar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Brilliance Eternal''' is a settlement in the [[Sea of Souls]], part of the [[Shadesmar|Rosharan subastral]] of the [[Cognitive Realm]]. It is south of the [[Astral Banks]], and is along a road that goes from the [[Expanse of Vibrance]] to [[Lasting Integrity]] and [[Nameless]].{{map ref|Sea of Souls}}
+
+Brilliance Eternal's name and proximity to [[Lasting Integrity]] may suggest the place is under [[honorspren]] control.{{map ref|Sea of Souls}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 23:05, 19 November 2020 (UTC)}}
+{{Stormlight}}

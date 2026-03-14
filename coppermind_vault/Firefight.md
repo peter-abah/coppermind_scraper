@@ -1,19 +1,23 @@
-{{book
-|cover = Firefight.jpg
-|series=[[The Reckoners]]|prequel=Steelheart|sequel=Calamity
-|setting=[[Babylon Restored]], [[Earth (Reckoners)|Alternate Earth]]
-|released=January 6, 2015
-|publisher=Delacorte Press
-|ISBN=978-0-3857-4358-7
-|page-count=416
-|word-count=[[/Statistical_analysis|104,132]]
-}}{{for|Firefight (Epic)|the [[Epic]] of the same name|pre= This article is about the novel|Firefight}}
-***Firefight*** is the second book in *[[The Reckoners]]* series by [[Brandon Sanderson]].{{sots ref|2013}} As such it is not part of the [[cosmere]].
+---
+source_file: Firefight.txt
+entity_type: book
+cover: Firefight.jpg
+series: '[[The Reckoners]]'
+prequel: Steelheart
+sequel: Calamity
+setting: '[[Babylon Restored]], [[Earth (Reckoners)|Alternate Earth]]'
+released: January 6, 2015
+publisher: Delacorte Press
+isbn: 978-0-3857-4358-7
+page-count: '416'
+word-count: '[[/Statistical_analysis|104,132]]'
+---
+
+***Firefight*** is the second book in *[[The Reckoners]]* series by [[Brandon Sanderson]]. As such it is not part of the [[cosmere]].
 
 It is set in [[Babylon Restored]].
 
 ## Summary
-{{for|Firefight/Summary|a chapter by chapter summary}}
 
 The book begins in the middle of a fight against [[Sourcefield]], an [[Epic]] with powers of electricity and teleportation. Her weakness is revealed to be [[Wikipedia: Kool-Aid| Kool-Aid]], which the [[Reckoners]] use to negate her powers. By throwing water balloons filled with Kool-Aid at her, the Reckoners are able to weaken her powers, but not negate them completely. She is defeated when lured into a trap where she is locked in a bathroom as it fills with Kool-Aid from above. As soon as the Kool-Aid gets in her mouth, her powers are completely negated. David shoots her, but is haunted by her look of complete desperation and fear.
 
@@ -40,13 +44,12 @@ David practices using the spyril, a device based on Epic powers that is essentia
 *Note: this summary is incomplete. It only covers the first half of the book.*
 
 ## Development
-In July 2013 Brandon said that his next major project would be *Firefight*.{{sots ref|2013}} He initially wanted to have the first draft completed well before the end of the year, however he ended up needing the first three months of 2014 to finish it up.{{sots ref|2014}}
+In July 2013 Brandon said that his next major project would be *Firefight*. He initially wanted to have the first draft completed well before the end of the year, however he ended up needing the first three months of 2014 to finish it up.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Firefight}}
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Firefight* consists of one prologue, fifty-one chapters, and one epilogue, reaching a total 104,132 word count.
 
 {|class="wikitable"
@@ -67,7 +70,5 @@ In July 2013 Brandon said that his next major project would be *Firefight*.{{sot
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Reckoners}}
-{{books}}
+
 [[category: The Reckoners| 2]]

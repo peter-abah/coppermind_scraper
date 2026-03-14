@@ -1,3 +1,8 @@
+---
+source_file: Dark One Book 1Covers.txt
+entity_type: article
+---
+
 This is a gallery for all known covers for *[[Dark One Book 1]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 
 <gallery widths=3000px heights=400px mode="packed">

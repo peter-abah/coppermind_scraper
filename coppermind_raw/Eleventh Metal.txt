@@ -1,0 +1,2 @@
+#redirect[[Malatium]]
+[[category: aliases]]

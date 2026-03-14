@@ -1,15 +1,16 @@
 ---
-image: "The Stick of Resolve by Ari Ibarra.jpg"
-world: "Roshar"
+source_file: Stick.txt
+entity_type: item
+image: The Stick of Resolve by Ari Ibarra.jpg
+world: Roshar
 ---
 
-{{quote
-|I am a stick
-|Stick{{book ref|sa2|11}}
-}}
-**Stick** is an ordinary stick.{{wob ref|13527}}
+> I am a stick
+> — Stick
 
-[[Shallan]] tried to [[Soulcast]] Stick after escaping the *[[Wind's Pleasure]]*, but was unable to convince it to change.{{book ref|sa2|11}} During the [[Battle of Thaylen Field]], Shallan thought back to her encounter with Stick.{{book ref|sa3|120}}
+**Stick** is an ordinary stick.
+
+[[Shallan]] tried to [[Soulcast]] Stick after escaping the *[[Wind's Pleasure]]*, but was unable to convince it to change. During the [[Battle of Thaylen Field]], Shallan thought back to her encounter with Stick.
 
 ## Trivia
 * After *[[Words of Radiance]]* was released, members of the [[17thshard.com|17th Shard fansite]] latched on to Stick and turned it into an in-joke. On April Fools Day in 2014, [[Brandon Sanderson|Brandon]] released a "deleted interlude" from Stick's perspective, which can be read [[bws:words-of-radiance-deleted-interlude-stick|here]].
@@ -19,5 +20,3 @@ world: "Roshar"
 
 ## Notes
 <references />
-{{complete}}
-{{Stormlight}}

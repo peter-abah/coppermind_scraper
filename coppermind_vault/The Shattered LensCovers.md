@@ -1,4 +1,7 @@
-{{CoverToC|alcatraz}}
+---
+source_file: The Shattered LensCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[The Shattered Lens]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

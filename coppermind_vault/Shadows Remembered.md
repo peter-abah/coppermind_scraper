@@ -1,20 +1,20 @@
-{{Literature
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{quote
-|'They lived out in the wilds, always awaiting the Desolation--or sometimes, a foolish child who took no heed for the night’s darkness.'<br>
-A child's tale, yes, but this quote from Shadows Remembered seems to hint at the truth I seek. See page 82, the fourth tale.|=
-| excerpt from the journal of Jasnah Kholin{{epigraph ref|sa1|43}}
-}}
-***Shadows Remembered*** was a book on [[Roshar]] full of children's tales about the [[Voidbringers]].{{book ref|sa1|33}} The unnamed female author had been curious about the folktales of the [[darkeyes]] and had spent years collecting them.{{book ref|sa1|33}}
+---
+source_file: Shadows Remembered.txt
+entity_type: literature
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-It was a thin, red book with a hogshide cover.{{book ref|sa1|29}} It is likely an older work, as a copy is kept in the [[Palanaeum]], shelved in the same room as *[[Dialogues]]*.{{book ref|sa1|33}}
+> 'They lived out in the wilds, always awaiting the Desolation--or sometimes, a foolish child who took no heed for the night’s darkness.'<br>
+A child's tale, yes, but this quote from Shadows Remembered seems to hint at the truth I seek. See page 82, the fourth tale.
+> — excerpt from the journal of Jasnah Kholin
 
-[[Shallan Davar]] noticed that [[Jasnah Kholin]] had been reading the book, piquing her interest; Shallan later visited the Palanaeum to look for it because she thought it would probably be a philosophical work about a historical murder.{{book ref|sa1|33}} After finding the book, Shallan was disappointed by its seemingly mundane content.{{book ref|sa1|33}} However, Jasnah's notes indicate that she did not dismiss any mythology about the Voidbringers, as there was always a possibility that folktales could contain elements of truth.{{epigraph ref|sa1|43}}
+***Shadows Remembered*** was a book on [[Roshar]] full of children's tales about the [[Voidbringers]]. The unnamed female author had been curious about the folktales of the [[darkeyes]] and had spent years collecting them.
+
+It was a thin, red book with a hogshide cover. It is likely an older work, as a copy is kept in the [[Palanaeum]], shelved in the same room as *[[Dialogues]]*.
+
+[[Shallan Davar]] noticed that [[Jasnah Kholin]] had been reading the book, piquing her interest; Shallan later visited the Palanaeum to look for it because she thought it would probably be a philosophical work about a historical murder. After finding the book, Shallan was disappointed by its seemingly mundane content. However, Jasnah's notes indicate that she did not dismiss any mythology about the Voidbringers, as there was always a possibility that folktales could contain elements of truth.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 13:17, 19 March 2019 (MST)}}
-{{Stormlight}}

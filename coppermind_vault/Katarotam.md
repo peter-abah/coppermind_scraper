@@ -1,14 +1,14 @@
 ---
-world: "Roshar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Katarotam.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
 **Katarotam** is a [[lighteyes]] on [[Roshar]].
 
-Katarotam has owned several slaves, including [[Kaladin]], and sometimes beat them. During Kaladin's time as a slave in [[Alethkar]], he killed some of Kaladin's friends and cheated Kaladin out of food and clothing, reinforcing Kaladin's belief that the lighteyes are "corrupt to the core."{{book ref|sa1|4}}{{wob ref|2119}}
+Katarotam has owned several slaves, including [[Kaladin]], and sometimes beat them. During Kaladin's time as a slave in [[Alethkar]], he killed some of Kaladin's friends and cheated Kaladin out of food and clothing, reinforcing Kaladin's belief that the lighteyes are "corrupt to the core."
 
 ## Notes
 <references />
-{{complete|[[User:Jofwu|Jofwu]] ([[User talk:Jofwu|talk]]) 11:55, 17 September 2018 (MST)}}
-{{Stormlight}}

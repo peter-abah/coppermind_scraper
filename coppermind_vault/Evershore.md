@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Evershore.txt
+entity_type: disambig
+---
 
 **Evershore** may refer to two things related to the [[Cytoverse]]:
 * [[Evershore (planet)]], the homeworld of the [[kitsen]]

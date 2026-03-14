@@ -1,0 +1,42 @@
+{{character
+|family=[[House Entrone]]
+|ancestors=[[Charrs Entrone]]
+|relatives=[[Valette Entrone]]
+|abilities={{tag+|Hemalurgist}}{{book ref|mb7|59}}
+|groups={{tag|Set}}
+|birthplace=New Seran
+|religion=[[Survivorism]]
+|residence=Bilming
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Bands of Mourning]]
+}}
+{{update|mb7}}
+Lord '''Gave Entrone''' is an amateur archaeologist in [[New Seran]] and, later, the mayor of [[Bilming]].{{book ref|mb7|27}} He is a member of the [[Set]].
+
+== Appearance and Personality ==
+Characterized by an ubiquitous smug smile, Gave sports a sharp chin and black hair, which he wears slicked back. He dresses for his job in formalwear and diamond cufflinks.{{book ref|mb7|27}} He has a reputation for being dynamic and is overall well-regarded before his tenure as mayor.{{book ref|mb6|12}}
+
+== Attributes and Abilities ==
+Gave is a [[Hemalurgy|Hemalurgist]], granting him the power of a [[iron|Lurcher]], [[steel|Coinshot]], [[pewter|Pewterarm]], and [[gold|Bloodmaker]].{{book ref|mb7|41}}{{book ref|mb7|60}}
+
+== History ==
+Gave was born and raised in [[New Seran]].{{book ref|mb7|27}} He got into textiles and at one point did some business with [[House Ladrian]].{{book ref|mb6|12}} In {{date|342|PC}}, he bought a few of the medallions recovered from the [[Southern Scadrian]] airship ''[[Brunstell]]''.{{book ref|mb6|13}}
+
+The same year, Gave attended [[Kelesina Shores]]' [[Kelesina Shores' party|party]]. [[Waxillium Ladrian]] wished to avoid him since he once dated Gave's cousin, [[Valette Entrone]], but [[Steris]] pointed out that Gave was one of their best options to talk to, as he was on a list of people possibly connected to the [[Bands of Mourning]] in [[ReLuur]]'s notebook. When Wax began asking him about archaeology, Gave insulted Wax in order to provoke a reaction and get an excuse to leave the conversation. After that didn't work, he instead insulted Steris, which caused Wax to snap in anger and instinctively reach for his gun.{{book ref|mb6|12}}
+
+He was elected mayor of [[Bilming]] in {{date|346|PC}} and became a figurehead for the Outer Cities. During his tenure, the city grew incredibly in terms of size and was remodeled.{{book ref|mb7|27}} He moved to ban [[noseball]], but the ban was not enforced by the local constables.{{file ref|The Two Seasons broadsheet.jpg|''The Two Seasons'' Broadsheet}}
+
+Although Gave was an ally to the [[Set]]'s presence in the city, he enacted a plan to take [[Telsin]]'s place should she fail to take control of the Basin as proof to [[Autonomy]] that she could rule Scadrial. He kidnapped people in Bilming who opposed his politics, including [[Kyndlip Ternavyl]] and [[Pielle Fromed]], and performed [[Hemalurgy|Hemalurgic]] experiments on them in an attempt to find a way to create Metalborn in large numbers.{{book ref|mb7|47}}{{book ref|mb7|50}} When Autonomy's [[men of gold and red|army]] began to appear, he ordered an end to the project and retreated to the [[Community]] with those loyal to him.{{book ref|mb7|47}} However, the [[Ghostbloods]] and [[Marasi]] rescued the captives, and several likely gave evidence against him at a later date.{{book ref|mb7|50}}{{book ref|mb7|epilogue|1}}
+
+== Notes ==
+{{holder
+|title=Mayor of [[Bilming]]
+|this=
+|prev=[[Bastien Severington]]
+|next=''unknown''
+}}
+
+<references />
+{{partial}}
+{{Mistborn|Era 2}}

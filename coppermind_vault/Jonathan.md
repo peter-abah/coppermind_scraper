@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Jonathan.txt
+entity_type: disambig
+---
 
 **Jonathan** is the name of two separate characters:
 * [[Jonathan Phaedrus]], the founder and leader of the [[Reckoners]]

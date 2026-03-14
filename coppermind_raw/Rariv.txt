@@ -1,0 +1,15 @@
+{{character
+|occupation=Servant
+|nation=Hallandren
+|world=Nalthis
+|universe=[[Cosmere]]
+|introduced=[[Warbreaker]]
+}}
+'''Rariv''' is a servant at [[Mercystar]]'s palace in [[Hallandren]] on [[Nalthis]] circa 327.{{book ref|wb|26}}
+
+When [[Vasher]] infiltrates the palace, he encounters a group of four servants in the hallway. Vasher disables [[Taff]] with an [[Awakening|Awakened]] rope and throws [[Nightblood]] (in his sheath) at the group. [[Lolan]] picks up the sword while Rariv and another servant run for help.{{book ref|wb|26}} Taff ends up dead; Rariv, Lolan, and the third surviving servant recount their version of the events to [[Lightsong]] when he decides to investigate.{{book ref|wb|26}} 
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 15:16, 25 December 2016 (MST)}}
+{{Warbreaker}}

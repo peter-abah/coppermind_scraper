@@ -1,0 +1,14 @@
+{{event
+|participants=[[Feotora]]
+|effects=Culling of [[drull]], discovery of [[Dark One (title)|Dark One]].
+|nation=Blackened Lands
+|world=Mirandus
+|books=[[Dark One (franchise)|Dark One]]
+}}
+
+The '''Long Hunt''' was a culling of the [[drull]] that was initiated by Princess [[Feotora]] after [[Illarion]] the White Wizard brought word of the rise of the latest [[Dark One (title)|Dark One]].{{book ref|do1|1}} As commander of the ''Long Hunt'', the princess set forth into the [[Blackened Lands]] to meet drull and their beasts with steel, before the [[Destined One]] would have to face the Dark One. During the hunt, Princess Feotora found the Dark One, [[Paul Tanasin]], and attempted to slay him. She was defeated and left went back to the [[Kingdoms of Light]] to take word of what she had discovered.{{book ref|do1|2}}
+
+== Notes ==
+<references />
+{{partial}}
+{{Dark One}}

@@ -1,0 +1,14 @@
+{{character
+|residence=Alethi warcamps
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Stine''' is a senior member of [[Meridas Amaram]]'s staff on the [[Shattered Plains]] of [[Roshar]].{{book ref|sa2|52}}
+
+While [[Shallan Davar]], in the guise of the maid [[Telesh]], was searching Amaram's house for the [[Ghostbloods]], she was ordered by the cook to find Stine. He was in Amaram's study cleaning the Highlord's collection of flutes, and had been looking for someone to polish the mirrors in the house. Shallan disobeyed the cook's order and never saw Stine.{{book ref|sa2|52}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 17:55, 10 November 2017 (MST)}}
+{{Stormlight}}

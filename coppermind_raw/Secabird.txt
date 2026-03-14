@@ -1,0 +1,14 @@
+{{lifeform
+|native=Duladel
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[Elantris (book)|Elantris]]
+}}
+The '''secabird''' is a bird with bright plumage that is native to the lowlands of [[Duladel]] on [[Sel]].{{glossary ref|Elantris|S}}
+
+[[Raoden]] compared the colors of the clothing worn by the inhabitants of [[New Elantris]], made from cloth supplied by [[Sarene]] as part of her [[Widow's Trial]], to those of secabirds.{{book ref|Elantris|41}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 18:10, 24 December 2016 (MST)}}
+{{Elantris}}

@@ -1,52 +1,51 @@
-{{culture
-|related=[[Shinovar]]
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{update|sa5}}
+---
+source_file: Stone Shamanism.txt
+entity_type: culture
+related: '[[Shinovar]]'
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-**Stone Shamanism** is a [[Shin]] religion on [[Roshar]] during the [[Era of Solitude]] and the [[True Desolation]].{{book ref|sa1|i|6}}{{book ref|sa3|16}}
+**Stone Shamanism** is a [[Shin]] religion on [[Roshar]] during the [[Era of Solitude]] and the [[True Desolation]].
 
 ## Organization
-Stone Shamanism is the only known religion practiced in Shinovar. It is led by a group of Stone Shamans, also known as the Shamanate.{{book ref|sa1|i|6}}{{book ref|sa2|i|10}} The shamans are thought to be able to communicate with the spirits of stones.{{book ref|sa2|i|10}} 
+Stone Shamanism is the only known religion practiced in Shinovar. It is led by a group of Stone Shamans, also known as the Shamanate. The shamans are thought to be able to communicate with the spirits of stones. 
 
-[[Taravangian]] considers the Shamanate to be the leaders of Shinovar{{book ref|sa2|88}} and their word is law.{{book ref|sa2|i|10}} They are able to name people [[Truthless]] and banish them.{{book ref|sa2|88}}{{book ref|sa4|i|7}}
+[[Taravangian]] considers the Shamanate to be the leaders of Shinovar and their word is law. They are able to name people [[Truthless]] and banish them.
 
-There are two principal paths available to shaman acolytes: warrior elite and ministering shaman.{{book ref|sa5|73}}
+There are two principal paths available to shaman acolytes: warrior elite and ministering shaman.
 
 ## Tenets
-The gods of Stone Shamanism are the spirits of stones and mountains, along with the spirits of other aspects of the natural world such as the sun and stars.{{book ref|sa2|88}} The sun is referred to as the "god of gods".{{book ref|sa1|71}} Szeth believes the Vorin people lack adequate reverence for the spirits of living things around them.{{book ref|sa1|i|6}} Accordingly, the Shin are uninterested in using [[fabrial]]s.{{book ref|sa1|i|4}} Fields and farm villages in Shinovar are also considered holy. Foreigners are not allowed near them, and farmers have an elevated level of respect in their culture.{{book ref|sa2|88}} According to [[Nale]], the Shin actually revere the [[spren]] related to natural objects like stones, rather than the stones themselves.{{book ref|sa2|88}} The Shin believe that their gods directly watch over them, except during the darkest period of night called the "hateful hour",{{book ref|sa1|i|6}} and may try to physically hide their faces from the gods if they are ashamed of something.{{book ref|sa1|71}} The religion includes the concepts of sin and forgiveness, and killing someone is considered the greatest sin.{{book ref|sa1|prologue}}
+The gods of Stone Shamanism are the spirits of stones and mountains, along with the spirits of other aspects of the natural world such as the sun and stars. The sun is referred to as the "god of gods". Szeth believes the Vorin people lack adequate reverence for the spirits of living things around them. Accordingly, the Shin are uninterested in using [[fabrial]]s. Fields and farm villages in Shinovar are also considered holy. Foreigners are not allowed near them, and farmers have an elevated level of respect in their culture. According to [[Nale]], the Shin actually revere the [[spren]] related to natural objects like stones, rather than the stones themselves. The Shin believe that their gods directly watch over them, except during the darkest period of night called the "hateful hour", and may try to physically hide their faces from the gods if they are ashamed of something. The religion includes the concepts of sin and forgiveness, and killing someone is considered the greatest sin.
 
-The followers of Stone Shamanism believe that stone is holy and it is profane to set foot on it.{{book ref|sa1|prologue}} This is possible in Shinovar because the ground is covered in soil rather than rock, unlike most of the Rosharan continent.{{book ref|sa1|i|4}}{{book ref|sa1|i|6}} The only exception to this rule is [[Urithiru]], where the stones are not cursed because the entire site is considered holy.{{book ref|sa2|i|10}} This reverence for stone dates back to humanity’s flight from [[Ashyn]], when many refugees carried statues and stone carvings to remember their lost homeworld. Over millennia, as memories faded, those cherished heirlooms became holy relics.{{rpg ref|slwg|103}} These restrictions result in the Shin people rarely leaving their lands;{{book ref|sa2|41}} outsiders are referred to as "stonewalkers".{{book ref|sa1|prologue}} Mining is considered a sacrilege, and they only use [[Soulcast]] metal. Merchants such as [[Vstim]] are therefore able to make very profitable trades with the Shin using small amounts of Soulcast metal, although the trader must prove that the metal is not sullied by rock.{{book ref|sa1|i|4}}
+The followers of Stone Shamanism believe that stone is holy and it is profane to set foot on it. This is possible in Shinovar because the ground is covered in soil rather than rock, unlike most of the Rosharan continent. The only exception to this rule is [[Urithiru]], where the stones are not cursed because the entire site is considered holy. This reverence for stone dates back to humanity’s flight from [[Ashyn]], when many refugees carried statues and stone carvings to remember their lost homeworld. Over millennia, as memories faded, those cherished heirlooms became holy relics. These restrictions result in the Shin people rarely leaving their lands; outsiders are referred to as "stonewalkers". Mining is considered a sacrilege, and they only use [[Soulcast]] metal. Merchants such as [[Vstim]] are therefore able to make very profitable trades with the Shin using small amounts of Soulcast metal, although the trader must prove that the metal is not sullied by rock.
 
-The Shin also consider [[Stormlight]] and associated magic, such as [[Honorblade]]s and [[Shardblade]]s, to be holy.{{book ref|sa1|prologue}}{{book ref|sa3|92}} In Shinovar, only holy places such as the Monasteries of Truth are illuminated with gemstones,{{book ref|sa5|45}}{{book ref|sa5|40}}{{book ref|sa5|90}} while homesteads are generally illuminated with fire, such as from a hearth.{{book ref|sa5|27}} [[Szeth]] finds the [[Vorin]] peoples' casual use of Stormlight illumination to be vulgar.{{book ref|sa1|i|6}} 
+The Shin also consider [[Stormlight]] and associated magic, such as [[Honorblade]]s and [[Shardblade]]s, to be holy. In Shinovar, only holy places such as the Monasteries of Truth are illuminated with gemstones, while homesteads are generally illuminated with fire, such as from a hearth. [[Szeth]] finds the [[Vorin]] peoples' casual use of Stormlight illumination to be vulgar. 
 
-Following from their worship of the spren of natural features of Roshar, they believe mountains, and likely other geographical features, to have something referred to as a spirit-soul.{{book ref|sa2|i|10}} They believe these to be great spren, and refer to them with the honorific *aboshi* as a sign of deep respect.{{book ref|sa3|106}}
+Following from their worship of the spren of natural features of Roshar, they believe mountains, and likely other geographical features, to have something referred to as a spirit-soul. They believe these to be great spren, and refer to them with the honorific *aboshi* as a sign of deep respect.
 
-They believe in a figure known as the God of Gods, who is thought to be the soul of the sun.{{book ref|sa1|71}}{{book ref|sa2|i|10}}
+They believe in a figure known as the God of Gods, who is thought to be the soul of the sun.
 
 ===Truthless===
-{{for|Truthless}}
-Stone Shamanism appears to be related to the centuries-old Shin concept of the Truthless.{{book ref|sa4|i|7}} Telling the truth seems to be paramount in Shin society, as the end of truth would signify the 'End of All Things'.{{book ref|sa2|i|10}} The Shamanate has the power to deem someone Truthless and banish them from Shinovar. However, the shamans are fallible and have made mistakes in the past.{{book ref|sa2|88}}{{book ref|sa4|i|7}}
+
+Stone Shamanism appears to be related to the centuries-old Shin concept of the Truthless. Telling the truth seems to be paramount in Shin society, as the end of truth would signify the 'End of All Things'. The Shamanate has the power to deem someone Truthless and banish them from Shinovar. However, the shamans are fallible and have made mistakes in the past.
 
 ### Death and Afterlife
-When people who follow Stone Shamanism die, they believe that their souls continue to exist and are 'given to the stones'. This includes those who are Truthless, although their sins are not absolved and their souls are subjected to eternal punishment.{{book ref|sa1|71}}
+When people who follow Stone Shamanism die, they believe that their souls continue to exist and are 'given to the stones'. This includes those who are Truthless, although their sins are not absolved and their souls are subjected to eternal punishment.
 
 ## History
-[[Szeth]] and his father [[Neturo]] believed in Stone Shamanism.{{book ref|sa1|prologue}}{{book ref|sa4|111}} After Szeth became Truthless and left Shinovar, he began to question many of his beliefs.{{book ref|sa1|i|6}}{{book ref|sa1|i|9}} He eventually concluded that the Shamanate was wrong and he had never actually been Truthless.{{book ref|sa4|16}}
+[[Szeth]] and his father [[Neturo]] believed in Stone Shamanism. After Szeth became Truthless and left Shinovar, he began to question many of his beliefs. He eventually concluded that the Shamanate was wrong and he had never actually been Truthless.
 
-Stone Shamanism was known in other parts of Roshar, although some followers of [[Vorinism]] dismissed it as pagan superstition.{{book ref|sa3|16}}
+Stone Shamanism was known in other parts of Roshar, although some followers of [[Vorinism]] dismissed it as pagan superstition.
 
 ===Honorblades===
-The Shin took responsibility for nine of the [[Honorblade]]s after the [[Last Desolation]].{{book ref|sa3|38}}{{book ref|sa4|17}} They trained and experimented with the powers of the Blades and assigned individual people to carry them.{{book ref|sa3|98}}{{book ref|sa4|17}} The bearers of the Blades may have been conscripted rather than asked,{{book ref|sa4|i|7}} and this assignment could persist even if they became Truthless.{{book ref|sa1|prologue}} The Stone Shamans played a role in the stewardship of the Blades, and were responsible for recovering them from other parts of Roshar if they were lost.{{book ref|sa1|i|6}} Their methods kept the Honorblades safe for millenia,{{book ref|sa2|88}} and they were even used in attempted invasions of other nations.{{wob ref|12700}}
+The Shin took responsibility for nine of the [[Honorblade]]s after the [[Last Desolation]]. They trained and experimented with the powers of the Blades and assigned individual people to carry them. The bearers of the Blades may have been conscripted rather than asked, and this assignment could persist even if they became Truthless. The Stone Shamans played a role in the stewardship of the Blades, and were responsible for recovering them from other parts of Roshar if they were lost. Their methods kept the Honorblades safe for millenia, and they were even used in attempted invasions of other nations.
 
-However, the Shamanate eventually lost control of at least three of the Honorblades; two [[Herald]]s ([[Nale]] and [[Ishar]]) reclaimed their Blades{{book ref|sa3|106}}{{book ref|sa4|i|7}} while [[Jezrien]]'s Blade was won by [[Kaladin]] and ended up with [[Vyre]].{{book ref|sa2|87}}{{book ref|sa3|122}} Szeth claimed that the Shin would not have given the Heralds back their Honorblades willingly,{{book ref|sa4|111}} but the Shamanate is not known to have made any attempts at recovering the lost Blades. Ishar told Szeth that he took back his Honorblade while saving the Shin after they tried to accept the [[Unmade]] as their gods.{{book ref|sa4|111}} However, Ishar is known to be insane and the veracity of his claim is unclear. The remaining six Honorblades are thought to remain under the protection of the Stone Shamans, but even well-informed people such as [[Mraize]] have had difficulty tracking them during the True Desolation.{{book ref|sa4|78}}
+However, the Shamanate eventually lost control of at least three of the Honorblades; two [[Herald]]s ([[Nale]] and [[Ishar]]) reclaimed their Blades while [[Jezrien]]'s Blade was won by [[Kaladin]] and ended up with [[Vyre]]. Szeth claimed that the Shin would not have given the Heralds back their Honorblades willingly, but the Shamanate is not known to have made any attempts at recovering the lost Blades. Ishar told Szeth that he took back his Honorblade while saving the Shin after they tried to accept the [[Unmade]] as their gods. However, Ishar is known to be insane and the veracity of his claim is unclear. The remaining six Honorblades are thought to remain under the protection of the Stone Shamans, but even well-informed people such as [[Mraize]] have had difficulty tracking them during the True Desolation.
 
 ## Notes
 <references />
-{{partial}}
-{{demoted|sa5}}
-{{Stormlight}}
+
 [[category: religion]]
 [[es:Chamanismo de la piedra]]

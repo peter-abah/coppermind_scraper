@@ -1,0 +1,64 @@
+{{character
+|image=Dilaf Shuravf.jpg
+|spouse=[[Seala]]
+|died=Killed by [[Hrathen]]{{book ref|Elantris|62}}
+|abilities=[[Dakhor]]
+|profession=[[Derethi]] {{tag+|gragdet}}
+|nation=Fjorden
+|world=Sel
+|universe=[[Cosmere]]
+|introduced=[[Elantris (book)|Elantris]]
+}}
+'''Dilaf''' is the [[Shu Dereth#Chain_to_Jaddeth|gragdet]] of the [[Shu Dereth#Monasteries|Dakhor]] monastery leading up to the [[invasion of Arelon]].
+
+Some time during his life as a Dakhor monk, he was assigned to act as a spy in [[Arelon]], and had his physical characteristics altered to appear like a young [[Arelene]].{{book ref|elantris|60}} Some time after this transformation, he met and fell in love with a woman from Arelon. When she died in spite of [[Elantrian]] aid, his hatred of [[Elantris (city)|Elantris]] congealed into something that drove him to the point of madness. After leading the assaults on both [[Kae]] and [[Teod]], he was killed by [[Hrathen]], who could not tolerate his genocidal tendencies.
+
+== Appearance and Personality ==
+Dilaf, once a tall Derethi man,{{book ref|Elantris|60}} now bears the appearance of a short Arelene{{book ref|Elantris|12}} with blond hair,{{book ref|Elantris|56}} looking no older than twenty-five,{{book ref|Elantris|24}} though his real age is nearly seventy.{{book ref|Elantris|60}} His eyes often burn with passion and he rarely cares to conceal his emotions, ranging from religious fervor to deep hatred. He is incapable of getting along with people.{{wob ref|13933}} He usually wears the red robes of a Derethi priest.{{book ref|Elantris|38}}
+
+Much like other [[Dakhor]] monks, Dilaf's body has been twisted by the magic of their order. His arms are akin to knotted tree branches, skin pulled tight over strange ridges and symbols formed of bone.{{book ref|Elantris|57}} Bulging intricate patterns of lines and curves twist like veins beneath the skin.{{book ref|Elantris|58}}{{book ref|Elantris|62}}
+
+He wields a "wicked-looking sword" during the [[Battle of Teoras]].
+
+== Attributes and Abilities ==
+Dilaf is a charismatic speaker, able to sway large crowds his way. His zealotry is very effective at converting others to his perspective on [[Shu-Dereth]] and hatred of the Elantrians.{{book ref|elantris|12}}
+
+As a Dakhor monk, Dilaf's bones are twisted into shapes that grant him access to the power of the Dor.{{book ref|elantris|58}} Dakhor grants him extreme speed, strength{{book ref|elantris|58}} and nearly indestructible bones.{{book ref|elantris|62}} Due to the fact that Dakhor is tied to Fjordell, Dilaf's powers decreased the further he was away from Fjorden, although its weakness due to distance is not to as extreme a degree as other Selish arcana like AonDor are weakened.{{wob ref|5190}}{{wob ref|6157}} As the gragdet of Dakhor, Dilaf has access to some powers that other lesser Dakhor monks lack.{{book ref|elantris|62}} His appearance and aging process were altered to make him look younger and Aonic.{{book ref|elantris|60}} He has the ability to cancel Aons{{book ref|elantris|56}} and is immune to direct attacks with the Dor.{{book ref|elantris|62}} It required the sacrifice of fifty lives to grant Dilaf this ability. Likewise, Dilaf's Dakhor powers allow him to appear much younger than his actual age. This proved useful during Dilaf's infiltration and subsequent invasion of Arelon.
+
+Dilaf is very capable with the sword and wielded it very effectively in combination with the enhanced speed of his Dakhor powers.{{book ref|elantris|62}}
+
+== History ==
+=== Early Life ===
+Very little is known about Dilaf's early life. He had an early ardor for [[Shu Dereth]], as evidenced by his early acceptance into Dakhor monastery. By the time he was ten, Dilaf had entered the monastery. Rather than pursue the priesthood, Dilaf elected to continue in the monastery, becoming one of the dedicated Dakhor monks.
+
+By the time he reached middle age, Dilaf had risen to the rank of gragdet, the head of the monastery. Dilaf's intensity was only amplified by his elevation, and he began putting plans in place for the destruction of Elantris. An essential part of his plans involved his insertion in a long running undercover operation. It was also during this period that Dilaf gained the bone structure that allowed him to cancel out the Elantrian use of [[AonDor]], a transformation that cost the lives of fifty Dakhor monks.
+
+Just before his insertion was to take place, Dilaf began training a young Hrathen. Three months after Hrathen entered the monastery, Dilaf required one of the monks under his command to sacrifice himself to transport Dilaf to [[Wulfden the Fourth]]'s chambers, a distance easily walked. Although Dilaf did not assign particular importance to this event, it would lay the groundwork of his eventual death.
+
+=== Infiltration of Arelon ===
+Shortly after Hrathen left Dakhor monastery, Dilaf underwent a painful physical change to appear to be of Arelene descent. It appears that this transformation also changed the aging process, as the rest of his life (he would live to be nearly 70 years old), Dilaf appeared physically quite young. Immediately after arriving in Arelon, Dilaf set about integrating himself into Arelene culture.  At first, it seemed that everything was going according to his plans. Then, unexpectedly, Dilaf fell in love.
+
+Very little is known about Seala, Dilaf's wife. Dilaf is unhinged by the time he reveals most of it, so what is known, is suspect. Dilaf was over fifty when they met, and no one was as surprised as he was when he fell in love. He was left even more surprised when she returned his love, despite his physical 'deformity' of looking like an Arelene.
+
+Seala eventually became sick, but the art of Dakhor cannot heal. In desperation, Dilaf turned to the Elantrians to heal Seala. Unfortunately, the [[Aon]] that should have healed her instead performed a partial transformation, not unlike the [[Reod]], leaving her in pain and unable to die. Dilaf, however, believed that this tragic accident was a malicious attack, and began nursing a hatred that would ultimately drive him insane.{{book ref|elantris|60}} He retreated to the outlying city of [[Naen]], and began his infiltration in earnest, taking the role of an Arelene who had converted to Shu Dereth.{{book ref|elantris|3}}
+
+=== Invasion of Kae ===
+Dilaf worked secretly for years towards Wyrn's true goal: The genocide of all Arelenes, and eventually all people of [[Aonic]] descent. This was a goal Dilaf strongly supported, as the extinction of the Aonic bloodline would bring with it the end of the Elantrians.{{book ref|elantris|59}} When he heard of the construction of a Derethi chapel in Kae, he traveled there with his converts from Naen; upon his arrival, the arteth Fjon was impressed with his diligence and purported to appoint him an arteth, though arteths lack the authority to name other arteths.{{book ref|elantris|3}}
+
+Shortly before the culmination of this plan, Wyrn sent a gyorn named [[Hrathen]] as a decoy to distract anyone who might oppose Dilaf.{{book ref|elantris|58}} Dilaf introduced himself to Hrathen in his role as a teacher and impressed him with his religious zeal and knowledge of Shu-Dereth. Hrathen then properly appointed Dilaf to the rank of arteth and swore him as his [[odiv]], though as Dilaf was secretly a gragdet, those promotions were actually without force.{{book ref|elantris|3}} Despite their bond, Dilaf and Hrathen's relationship quickly became hostile as Hrathen grew increasingly concerned about Dilaf's hatred of Elantris. In the following two months, the two plotted against each other. While Hrathen tried to convert Arelon, Dilaf prepared his invasion. When the last of Hrathen's plans failed and [[Raoden]] was crowned king, Dilaf began the invasion, revealing himself as the gragdet of Dakhor Monastery. His warrior-monks began the invasion by revealing they'd been smuggled into the country. When Hrathen realized Dilaf's superior rank, he acquiesced to Dilaf's control.{{book ref|elantris|58}}
+
+Dilaf captured Raoden, used him as bait to capture [[Sarene]], then stabbed Raoden and took Hrathen and Sarene along with several of the Dakhor monks to Teod via human-sacrifice-fueled teleportation. The remaining Derethi warriors in Arelon rounded up all surviving Elantrians and Arelenes into Elantris to kill them. In [[Teod]], Dilaf prepared to kill Sarene in front of her unsuspecting father, King [[Eventeo]], when Hrathen, his basic beliefs overpowering his strict training, leapt to defend her and attacked Dilaf. Hrathen broke Dilaf's nose, and Hrathen and Sarene fled. Dilaf ordered the Dakhor monks to search for Hrathen and Sarene. The two got separated, and Sarene was cornered by monks on Teod's docks.{{book ref|elantris|62}}
+
+Raoden, followed by a host of newly-healed Elantrians, appeared on the docks using AonDor-powered teleportation, and the Elantrians engaged the monks as Raoden and Sarene ducked down an alley. Dilaf followed them and tried to kill them when Hrathen re-appeared. He revealed Dakhor-powered strength, and killed Dilaf before succumbing to his own wounds.{{book ref|elantris|62}}
+
+The Elantrians repelled the invasion, both in Teod and Arelon.
+
+== Trivia ==
+* In the original edition of ''[[Elantris (book)|Elantris]]'' a speech by Dilaf was incorrectly attributed to a Dakhor monk named Mal.{{book ref|Elantris|58}}
+
+== Notes ==
+<references /><!-- chapters: Elantris 3, 6, 9, 12, 18, 21, 24, 27, 30, 32, 36, 42, 51, 56-63 -->
+{{partial}}
+{{Elantris}}
+[[category: viewpoint characters]]
+[[es:Dilaf]]

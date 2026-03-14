@@ -1,0 +1,10 @@
+This is a gallery for all known covers for ''[[Yumi and the Nightmare Painter]]''. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
+
+<gallery widths=3000px heights=400px mode="packed">
+Yumi Prerelease Cover.png | <center>Kickstarter Prerelease</center> (Dragonsteel)
+Yumi US Cover.jpg | <center>United States</center> (Dragonsteel)
+Yumi US Tor Cover.jpg | <center>United States</center> (Tor)
+Yumi FR Cover.jpg | <center>France</center> (Le Livre de Poche)
+</gallery> 
+
+[[Category:Cover Galleries]]

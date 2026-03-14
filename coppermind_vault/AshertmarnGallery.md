@@ -1,3 +1,8 @@
+---
+source_file: AshertmarnGallery.txt
+entity_type: article
+---
+
 ## Gallery
 <gallery mode="packed" heights=250px caption="Images of Ashertmarn">
 Unmade Influence by Soph Peralta.jpeg| <small><center>by {{a|Soph Peralta}}</center></small>With [[Aesudan]]

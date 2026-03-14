@@ -1,44 +1,42 @@
 ---
-type: "{{tag|Lifeless"
+source_file: Kalad's Phantoms.txt
+entity_type: item
+type: Lifeless encased in stone
+creator: Vasher
+world: Nalthis
+universe: '[[Cosmere]]'
+books: '[[Warbreaker]]'
 ---
 
-encased in stone
-|function={{cat tag|Weapons}}
-|creator=Vasher
-|world=Nalthis
-|universe=[[Cosmere]]
-|books=[[Warbreaker]]
-}}
-**Kalad's Phantoms** are an army of unconventional [[Lifeless]] created by [[Vasher]] (then known as Kalad the Usurper){{book ref|wb|7}} during the [[Manywar]] on [[Nalthis]].{{book ref|wb|58}} They were later hidden in plain sight as statues known as the **D'Denir Celabrin**.{{book ref|wb|58}} 
+**Kalad's Phantoms** are an army of unconventional [[Lifeless]] created by [[Vasher]] (then known as Kalad the Usurper) during the [[Manywar]] on [[Nalthis]]. They were later hidden in plain sight as statues known as the **D'Denir Celabrin**. 
 
 ==Characteristics==
-Kalad's Phantoms are a version of Lifeless made of [[Awakening|Awakened]] human bones encased in stone, in the form of massive warriors.{{book ref|wb|58}} Their stone bodies are larger than a human's,{{book ref|wb|28}} and they are faster and sturdier than other Lifeless.{{book ref|wb|58}} Most of them also have stone weapons and armor.{{book ref|wb|9}}{{book ref|wb|17}}{{book ref|wb|28}} They are very strong in order to move their stone bodies, and conventional weapons are virtually useless against them.{{book ref|wb|58}}
+Kalad's Phantoms are a version of Lifeless made of [[Awakening|Awakened]] human bones encased in stone, in the form of massive warriors. Their stone bodies are larger than a human's, and they are faster and sturdier than other Lifeless. Most of them also have stone weapons and armor. They are very strong in order to move their stone bodies, and conventional weapons are virtually useless against them.
 
-The Phantoms can be placed in stasis by leaving the bones [[Investiture|Invested]] with just enough [[Breath]] to hold them together.{{wob ref|4500}} Since they do not consume [[ichor-alcohol]] like other Lifeless, they can remain in this state indefinitely, and Vasher designed them to last a very long time.{{book ref|wb|58}} A significant influx of additional Breath is needed to animate them.{{wob ref|4500}} 
+The Phantoms can be placed in stasis by leaving the bones [[Investiture|Invested]] with just enough [[Breath]] to hold them together. Since they do not consume [[ichor-alcohol]] like other Lifeless, they can remain in this state indefinitely, and Vasher designed them to last a very long time. A significant influx of additional Breath is needed to animate them. 
 
 ==History==
 ===Creation and the Manywar===
-Vasher invented the Phantoms sometime during the [[Manywar]].{{wob ref|7477}} During this period, Awakening was still a relatively new concept and the [[Five Scholars]] were regularly making significant breakthroughs that contributed to the beginning of the Manywar.{{book ref|wb|32}} Discoveries by [[Yesteel]] and [[Shashara]] led to nations building up huge fighting forces made of both humans and Lifeless.{{book ref|wb|32}} However, Vasher's Phantoms were so powerful that they could destroy larger armies while sustaining almost no losses.{{wob ref|7479}}
+Vasher invented the Phantoms sometime during the [[Manywar]]. During this period, Awakening was still a relatively new concept and the [[Five Scholars]] were regularly making significant breakthroughs that contributed to the beginning of the Manywar. Discoveries by [[Yesteel]] and [[Shashara]] led to nations building up huge fighting forces made of both humans and Lifeless. However, Vasher's Phantoms were so powerful that they could destroy larger armies while sustaining almost no losses.
 
-The research of the Five Scholars eventually led to Shashara's creation of [[Nightblood]], his "horrifying" use in the Battle of Twilight Falls, and Shashara's death at Vasher's hand to prevent her from sharing the secrets of Nightblood's creation.{{wob ref|6954}} Vasher subsequently recalled the Phantoms from battle (presumably in [[Kuth]] and [[Huth]]){{book ref|wb|32}} back to Hallandren.{{book ref|wb|58}} The presence of the Phantoms effectively ended the Manywar, and Vasher came to be known as "Peacegiver the Blessed".{{book ref|wb|28}}{{book ref|wb|epilogue}}
+The research of the Five Scholars eventually led to Shashara's creation of [[Nightblood]], his "horrifying" use in the Battle of Twilight Falls, and Shashara's death at Vasher's hand to prevent her from sharing the secrets of Nightblood's creation. Vasher subsequently recalled the Phantoms from battle (presumably in [[Kuth]] and [[Huth]]) back to Hallandren. The presence of the Phantoms effectively ended the Manywar, and Vasher came to be known as "Peacegiver the Blessed".
 
 ===Stasis===
-After peace was restored, Vasher put the Phantoms into an inanimate state so that they appeared to be warrior statues.{{wob ref|4500}} Hallandren lore holds that Peacegiver "commissioned" a large number of these statues known as the D'Denir Celabrin,{{book ref|wb|9}} ostensibly as memorials{{book ref|wb|28}} and reminders not to go to war.{{book ref|wb|epilogue}} The oldest D'Denir–those created by Vasher–are in the [[D'Denir garden]].{{book ref|wb|28}} The [[Returned]] continue to build more statues each year throughout the city to honor Peacegiver's tradition, although these are not Phantoms.{{book ref|wb|9}} The people of [[T'Telir]] often put colorful clothing on the statues for fun.{{book ref|wb|9}}{{book ref|wb|28}} Some statues, particularly those located in the [[Idris|Idrian]] slums, have been defaced or broken.{{book ref|wb|49}} 
-{{quote
-|D’Denir statues stood in a solemn line, arms upraised, weapons at the ready, as if in defense of the people.
-|Vivenna, visiting the D'Denir garden{{book ref|wb|25}}
-}}
-Modern citizens of Hallandren did not know that Kalad and Peacegiver were the same person,{{book ref|wb|7}} as the records from that era were all destroyed.{{book ref|wb|32}} Kalad was thought of as power-hungry and dangerous,{{book ref|wb|7}} while Peacegiver was believed to have defeated Kalad{{book ref|wb|15}} and ended the Manywar through diplomacy and negotiation, saving the city.{{book ref|wb|28}}{{book ref|wb|58}} [[Hoid]] showed up in Hallandren, knowing more about the true nature of Kalad than most, but even he did not know all of the specifics.{{wob ref|6973}} Local legends reflected the destructive power of the Phantoms{{book ref|wb|32}}{{book ref|wb|15}} and although they were mostly thought of as mythical,{{book ref|wb|54}} some people still believed that they were real.{{book ref|wb|43}}{{book ref|wb|55}} At some point, the phrase "Kalad's Phantoms" entered the vernacular as a curse.{{book ref|wb|30}}
+After peace was restored, Vasher put the Phantoms into an inanimate state so that they appeared to be warrior statues. Hallandren lore holds that Peacegiver "commissioned" a large number of these statues known as the D'Denir Celabrin, ostensibly as memorials and reminders not to go to war. The oldest D'Denir–those created by Vasher–are in the [[D'Denir garden]]. The [[Returned]] continue to build more statues each year throughout the city to honor Peacegiver's tradition, although these are not Phantoms. The people of [[T'Telir]] often put colorful clothing on the statues for fun. Some statues, particularly those located in the [[Idris|Idrian]] slums, have been defaced or broken. 
+
+> D’Denir statues stood in a solemn line, arms upraised, weapons at the ready, as if in defense of the people.
+> — Vivenna, visiting the D'Denir garden
+
+Modern citizens of Hallandren did not know that Kalad and Peacegiver were the same person, as the records from that era were all destroyed. Kalad was thought of as power-hungry and dangerous, while Peacegiver was believed to have defeated Kalad and ended the Manywar through diplomacy and negotiation, saving the city. [[Hoid]] showed up in Hallandren, knowing more about the true nature of Kalad than most, but even he did not know all of the specifics. Local legends reflected the destructive power of the Phantoms and although they were mostly thought of as mythical, some people still believed that they were real. At some point, the phrase "Kalad's Phantoms" entered the vernacular as a curse.
 
 ===Return===
-{{quote
-|"There are some thousand original D’Denir in the city, and most of them should still function, even still. I created them to last.”
-|Vasher{{book ref|wb|58}}
-}}
-After [[Bluefingers]] betrayed Hallandren and co-opted the Lifeless army, Vasher revealed his true nature to [[Siri]], [[Vivenna]], and [[Susebron]].{{book ref|wb|58}} He told them that at least one thousand of the oldest D'Denir Statues were actually his Phantoms, and, at Vivenna's urging, gave Susebron his security phrase.{{book ref|wb|58}} As [[God King]], Susebron had over fifty thousand Breaths{{book ref|wb|55}} and was able to reanimate all of the Phantoms, sending them to stop the Lifeless army from marching on Idris.{{book ref|wb|epilogue}} The Phantoms easily destroyed the army, and they remained in Siri and Susebron's control.{{wob ref|7479}} Vasher was left feeling cynical about reactivating a weapon like the Phantoms.{{book ref|wb|epilogue}}
+
+> "There are some thousand original D’Denir in the city, and most of them should still function, even still. I created them to last.”
+> — Vasher
+
+After [[Bluefingers]] betrayed Hallandren and co-opted the Lifeless army, Vasher revealed his true nature to [[Siri]], [[Vivenna]], and [[Susebron]]. He told them that at least one thousand of the oldest D'Denir Statues were actually his Phantoms, and, at Vivenna's urging, gave Susebron his security phrase. As [[God King]], Susebron had over fifty thousand Breaths and was able to reanimate all of the Phantoms, sending them to stop the Lifeless army from marching on Idris. The Phantoms easily destroyed the army, and they remained in Siri and Susebron's control. Vasher was left feeling cynical about reactivating a weapon like the Phantoms.
 
 ## Notes
 <references /><!-- 5, 16, 25, 32, 58, epilogue -->
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:16, 22 April 2019 (MST)}}
-{{Warbreaker}}
+
 [[es:Fantasmas de Kalad]]

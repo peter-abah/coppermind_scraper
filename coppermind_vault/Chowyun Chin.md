@@ -1,13 +1,14 @@
-{{aspect
-|profession=Computer expert
-}}
-**Chowyun  Chin**{{book ref|legion3|3}} is one of [[Stephen Leeds]]' [[aspect]]s.
+---
+source_file: Chowyun Chin.txt
+entity_type: aspect
+profession: Computer expert
+---
 
-He is a computer expert, and helped [[Ivans]] talk Stephen through fixing a large computer system during the [[Longway Incident]].{{book ref|legion|7}} He always wears sunglasses, even while inside or when the sun isn't out. He helps Stephen to create and maintain some of the high-tech programs he keeps on his phone.{{book ref|legion3|3}} 
+**Chowyun  Chin** is one of [[Stephen Leeds]]' [[aspect]]s.
 
-Just after [[Armando]] turned into a nightmare, Chin hung out in the game room of [[Stephen Leeds' mansion|Stephen's mansion]].{{book ref|legion3|4}} Later, Stephen asked Chin to run a sketch through facial recognition, but Chin declined, saying he already knew that the face belonged to [[Kyle Walters]].{{book ref|legion3|8}} While infiltrating [[Wode|Walters and Ostman Detention Enterprises]], Stephen calls Chin for help exploiting the security system, which he provides.{{book ref|legion3|9}} When Stephen is in the simulation of the mob raid, Chin speaks directly into Stephen's ear and helps him to trap the WODE employees in with him. Moments later, he dies or goes nightmare, along with all of the other remaining aspects but [[Jenny]].{{book ref|legion3|13}}
+He is a computer expert, and helped [[Ivans]] talk Stephen through fixing a large computer system during the [[Longway Incident]]. He always wears sunglasses, even while inside or when the sun isn't out. He helps Stephen to create and maintain some of the high-tech programs he keeps on his phone. 
+
+Just after [[Armando]] turned into a nightmare, Chin hung out in the game room of [[Stephen Leeds' mansion|Stephen's mansion]]. Later, Stephen asked Chin to run a sketch through facial recognition, but Chin declined, saying he already knew that the face belonged to [[Kyle Walters]]. While infiltrating [[Wode|Walters and Ostman Detention Enterprises]], Stephen calls Chin for help exploiting the security system, which he provides. When Stephen is in the simulation of the mob raid, Chin speaks directly into Stephen's ear and helps him to trap the WODE employees in with him. Moments later, he dies or goes nightmare, along with all of the other remaining aspects but [[Jenny]].
 
 ## Notes
 <references />
-{{complete}}
-{{Legion}}

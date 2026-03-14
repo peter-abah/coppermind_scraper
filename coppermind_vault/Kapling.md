@@ -1,12 +1,11 @@
 ---
-universe: "Cytoverse"
-introduced: "Defiant (book)|Defiant"
+source_file: Kapling.txt
+entity_type: character
+universe: '[[Cytoverse]]'
+introduced: '[[Defiant (book)|Defiant]]'
 ---
 
-{{update|sky4}}
-**Kapling** is a [[Superiority]] soldier.{{book ref|sky4|23}}
+**Kapling** is a [[Superiority]] soldier.
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

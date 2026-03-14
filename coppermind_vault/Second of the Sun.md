@@ -1,3 +1,8 @@
+---
+source_file: Second of the Sun.txt
+entity_type: article
+---
+
 #REDIRECT [[Drominad system]]
 [[Category: Celestial bodies]]
 [[Category: Cosmere celestial bodies]]

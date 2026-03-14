@@ -1,3 +1,8 @@
+---
+source_file: Alcatraz Versus the Evil LibrariansStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Alcatraz Versus the Evil Librarians]]***.
 
 For other books in the series see [[The Scrivener's Bones/Statistical analysis]], [[The Knights of Crystallia/Statistical analysis]], [[The Shattered Lens/Statistical analysis]] and [[The Dark Talent/Statistical analysis]].
@@ -101,7 +106,5 @@ For other books in the series see [[The Scrivener's Bones/Statistical analysis]]
 | align="right" | **100.00%**
 |}
 
-{{meta/done}}
-{{Alcatraz}}
 [[Category: Alcatraz|*]]
 [[category: statistics]]

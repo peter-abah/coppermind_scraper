@@ -1,0 +1,49 @@
+{{event
+|date=c. Doxil, {{date|341|PC}}{{ref|group=fn|text=The wedding occurs shortly after the [[Vanishers]] increase their activities,{{book ref|mb4|2}} and the approximate date can be inferred from an article covering the Vanishers in an issue of the ''[[Elendel Daily]]''.{{file ref|Elendel_Daily_broadsheet.png|''The Elendel Daily'' broadsheet}}}}
+|era=Post-Catacendre
+|participants=[[Joshin Yomen]], [[Mi'chelle Ostlin]]<br />The [[Vanishers]], [[Waxillium Ladrian]], [[Wayne]]
+|effects=[[Steris Harms]] taken hostage by the Vanishers
+|city=Elendel
+|location=[[Yomen Manor]]
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+The '''Yomen-Ostlin wedding dinner''' is the reception following the wedding of [[Joshin Yomen]] and [[Mi'chelle Ostlin]] in [[Elendel]] on [[Scadrial]].{{book ref|mb4|4}}
+
+==Background==
+The wedding between two [[noble]]s from well-connected houses was a significant event in Elendel high society. Nearly the entirety of the upper class was invited to the dinner. [[House Yomen]] intentionally excluded some of their political enemies in an attempt to relegate them to outsider status; some unlikable people such as Lord [[Shewrman]] were invited solely to maximize the insult to those who were not.{{book ref|mb4|4}}
+
+Wax and [[Steris Harms]] attended as the official start of their relationship.{{book ref|mb4|2}} [[Jackstom Harms]] and [[Marasi]] both accompanied Steris, while [[Wayne]] gatecrashed as a waiter.{{book ref|mb4|4}} [[Hoid]] appeared at the dinner dressed as a beggar;{{book ref|mb4|4}} he was there simply to congratulate friends.{{wob ref|3546}}
+
+==History==
+The event was held in the grand ballroom of [[Yomen Manor]]; it was filled with over a hundred tables. The attendees were dressed in their finest clothes and jewelry. Wax made some awkward conversation with Marasi and embarrassed Steris in front of Lord Harms. He talked with Marasi and Wayne about the Vanishers, and they realized that the dinner could be a prime target for a robbery since wealthy people with noble blood had become scared of taking trains.{{book ref|mb4|4}} Just as Wax and Wayne made this realization, heavily armed [[Vanishers]] invaded the ballroom, stealing many valuables from attendees.{{book ref|mb4|5}} They also attempted to kidnap women with [[Allomantic]] heritage on behalf of the [[Set]], including Steris and Marasi.{{book ref|mb4|5}}{{book ref|mb4|7}} 
+
+Wax and Wayne initially laid low, hoping to avoid bloodshed. However, Lord [[Peterus]] loudly stood up to the bandits, and he was shot and killed by [[Miles Hundredlives]].{{book ref|mb4|5}}{{book ref|mb4|11}} Lord Peterus's death prompted chaos in the ballroom, forcing Wax and Wayne into action. Using a [[bendalloy]] speed bubble, they planned and executed a counter-attack, rescuing Marasi and forcing the Vanishers into retreat. Twenty-five bandits were killed and another six were captured. Wayne was seriously injured and Wax was forced to come to his aid, and some of the bandits were able to escape with Steris.{{book ref|mb4|5}} The constabulary arrived and berated Wax for his vigilante efforts, despite the fact that he saved numerous lives without causing further casualties.{{book ref|mb4|6}}
+
+==Aftermath==
+The events of the dinner were a turning point for many of the attendees. It was the first time that Marasi was in a real fight,{{book ref|mb4|18}} and it resulted in her working closely with Wax and Wayne. Steris was kidnapped but ultimately saved by Wax, leading her to become more affectionate towards him.{{book ref|mb4|20}} The dinner was also when Wax began to suspect that Miles was involved with the Vanishers. His investigation culminated in the discovery of an insurance fraud scheme by [[Edwarn Ladrian]];{{book ref|mb4|epilogue}} he later learned about the full extent of the kidnapping scheme and the existence of the [[Community]].{{book ref|mb7|56}}
+
+== List of Notable Attendees ==
+{{columns|
+*[[Waxillium Ladrian]]
+*[[Wayne]]
+*[[Steris Harms]]
+*[[Jackstom Harms]]
+*[[Marasi Colms]]
+*[[Hoid]]
+*Lord [[Peterus]]
+*Lord [[Shewrman]]
+*Lord [[Alernath]]
+}}
+== Trivia ==
+* The names of the characters who were marrying are a cameo appearance for Josh & Mi'ch Walker, the owners of [[17thshard.com]].{{wob ref|4537}}
+* Hoid is present to congratulate the bride and groom, but Brandon has not explained how he would have befriended them.{{wob ref|3546}}
+
+== Notes ==
+;Footnotes
+<references group=fn/>
+;References
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:37, 1 October 2025 (UTC)}}
+{{Mistborn|Era 2}}

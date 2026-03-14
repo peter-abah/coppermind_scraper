@@ -1,19 +1,19 @@
 ---
-spouse: "Jor"
-residence: "Urithiru"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Rhythm of War"
+source_file: Kryst.txt
+entity_type: character
+spouse: '[[Jor]]'
+residence: Urithiru
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Rhythm of War]]'
 ---
 
-**Kryst** is a woman who is married to [[Jor]] on [[Roshar]].{{book ref|sa4|12}}
+**Kryst** is a woman who is married to [[Jor]] on [[Roshar]].
 
-Jor and Kryst hold a wedding party at [[Jez's Duty]], where Jor works as a bouncer, when they get married. [[Adolin]], [[Shallan]], and [[Kaladin]] attend the party, and Jor brings Kryst over to their table to introduce her to them.{{book ref|sa4|12}}
+Jor and Kryst hold a wedding party at [[Jez's Duty]], where Jor works as a bouncer, when they get married. [[Adolin]], [[Shallan]], and [[Kaladin]] attend the party, and Jor brings Kryst over to their table to introduce her to them.
 
 ## Trivia
-* Kryst is based on a woman who married one of the series' beta readers (inserted into the book as [[Jor]]) between *[[Oathbringer]]* and *[[Rhythm of War]]*.{{url ref|url=https://www.tor.com/2020/09/22/rhythm-of-war-read-along-discussion-chapter-twelve/|site=Tor.com|text=Rhythm of War Read-Along Discussion: Chapter 12}}
+* Kryst is based on a woman who married one of the series' beta readers (inserted into the book as [[Jor]]) between *[[Oathbringer]]* and *[[Rhythm of War]]*.
 
 ## Notes
 <references/>
-{{complete|[[User:Rasarr|Rasarr]] ([[User talk:Rasarr|talk]]) 14:41, 31 December 2020 (UTC)}}
-{{stormlight}}

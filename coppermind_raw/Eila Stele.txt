@@ -1,0 +1,38 @@
+{{literature
+|language=[[Dawnchant]]
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{spoiler|sa5}}
+{{copyright}}
+{{for|Eila|the city in [[Iri]]}}
+The '''Eila Stele''' is the oldest known text on [[Roshar]], written in [[Dawnchant]].{{book ref|sa3|111}} It contains several key pieces of information about the planet's history.
+
+==History==
+The Eila Stele is believed by historians to be the oldest extant document on Roshar. It is in the form of a carving, presumably on a stone [[Wikipedia:stele|stele]]. It was first thought to predate the first [[Desolation]]s, and possibly be written by the [[Herald]]s.{{book ref|sa3|111}} Dawnchant became a dead language over time,{{book ref|sa2|47}} and the meaning of the Eila Stele was lost. However, [[Navani Kholin]] realized that fragments of the Dawnchant could be recovered from [[Dalinar's visions]].{{book ref|sa1|60}} This resulted in a spate of translation breakthroughs by Navani and [[ardent]]s at the [[Palanaeum]]{{book ref|sa3|50}} and the [[Jokasha Monastery]].{{book ref|sa3|i|2}} Jasnah and the [[Veristitalian]]s also took an interest,{{book ref|sa3|53}} as did [[Taravangian]] and the [[Diagram (group)|Diagram]].{{book ref|sa3|107}}  
+
+Through the efforts of these groups, the Dawnchant was eventually cracked, allowing the Eila Stele to be translated.{{book ref|sa3|111}}
+
+==Contents and Revelations==
+After the Eila Stele was translated, it was revealed that the author was not a Herald but a [[Dawnsingers|Dawnsinger]].{{book ref|sa3|111}} Dawnsingers were ancient ancestors of the [[singers]] native to Roshar; they were not [[spren]], as theorized by the [[Vorin]] church.{{book ref|sa3|111}} The text further revealed that the first people known as [[Voidbringers]] were actually humans, who were not native to Roshar.{{book ref|sa3|111}} This contradicted Vorin doctrine regarding the [[Expulsion]], which held that mankind fought ''against'' the Voidbringers to reclaim the [[Tranquiline Halls]].{{book ref|sa1|15}} 
+
+The Eila Stele indicated that humans destroyed [[Ashyn|their own world]].{{epigraph ref|sa3|115}} Most of the humans fled to Roshar and were taken in out of pity by the Dawnsingers and their gods.{{epigraph ref|sa3|115}}{{epigraph ref|sa3|116}} The humans were given land known as current-day [[Shinovar]], explaining that region's unique flora and fauna.{{book ref|sa3|113}} They later used their Surgebinding powers to conquer most of Roshar.{{book ref|sa3|113}}
+ 
+== Cosmere Significance ==
+The Eila Stele was the key to the refounded [[Knights Radiant]] learning of the abandonment of the planet [[Ashyn]].{{wob ref|8243}} Ashyn neighbors Roshar in its solar system,{{map ref|Roshar system}} and it was almost destroyed through mankind's use of [[Surgebinding]] granted by [[Odium]] and [[Honor]].{{book ref|sa3|113}}{{book ref|sa5|107}}{{book ref|sa4|111}}{{wob ref|9464}}{{book ref|sa4|111}} The Heralds, sans Talenel, who was later born on Roshar, were among the humans who abandoned Ashyn.{{book ref|sa5|46}}{{book ref|sa5|107}}{{book ref|sa5|65}}
+
+The [[Stormfather]] tells Dalinar that during the [[False Desolation]], the original Knights Radiant learned of Ashyn's fate, leading them to question the use of Surgebinding powers.{{book ref|sa3|113}} They were urged on by [[Honor]], but after [[Aharietiam]], Honor was dying and no longer cogent, which led to the events of the [[Day of Recreance]].{{book ref|sa3|113}}
+
+The information in the stele directly refutes several aspects of Vorin doctrine regarding the history of humanity.{{wob ref|8496}}{{book ref|sa4|17}} Further interaction with the Heralds and [[Fused]] have led both humans and singers to gain a better understanding of the [[Rosharan system]] and the relationship between Roshar, Ashyn, and [[Braize]].{{book ref|sa4|14}}{{book ref|sa4|17}}{{book ref|sa4|89}} Some Rosharans have had to reexamine their belief system in light of this information, as Vorin concepts such as the Expulsion, Voidbringers, [[Damnation]], and the Tranquiline Halls have proven to be incorrect or only loosely based in fact.{{book ref|sa4|17}}{{book ref|sa4|89}}
+
+== Known text ==
+{{quote
+|They came from another world, using powers that we have been forbidden to touch. Dangerous powers, of spren and Surges. They destroyed their lands and have come to us begging. We took them in, as commanded by the gods. What else could we do? They were a people forlorn, without a home. Our pity destroyed us. For their betrayal extended even to our gods: to spren, stone, and wind. Beware the otherworlders. The traitors. Those with tongues of sweetness, but with minds that lust for blood. Do not take them in. Do not give them succor. Well were they named Voidbringers, for they brought the void. The empty pit that sucks in emotion. A new god. Their god. These Voidbringers know no songs. They cannot hear Roshar, and where they go, they bring silence. They look soft, with no shell, but they are hard. They have but one heart, and it cannot ever live.
+|Eila Stele{{book ref|sa3|111}}
+}}
+
+== Notes ==
+<references />
+{{partial}}
+{{Stormlight}}

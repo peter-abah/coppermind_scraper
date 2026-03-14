@@ -1,14 +1,14 @@
 ---
-name: "Moash"
-species: "Singer"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Wind and Truth"
+source_file: Moash (singer).txt
+entity_type: character
+name: Moash
+species: Singer
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-**Moash** was a [[singer]] on [[Roshar]]. He, along with a few others, was chasing a small group of thieves who had stolen their [[Chull]]s. Upon cresting the [[Misted Mountains]] and recapturing their animals, they were surprised by the arrival of humanity on Roshar. While exploring the past in the [[Spiritual Realm]], [[Dalinar Kholin]] took the place of Moash and saw the arrival of humanity on Roshar.{{book ref|sa5|43}}
+**Moash** was a [[singer]] on [[Roshar]]. He, along with a few others, was chasing a small group of thieves who had stolen their [[Chull]]s. Upon cresting the [[Misted Mountains]] and recapturing their animals, they were surprised by the arrival of humanity on Roshar. While exploring the past in the [[Spiritual Realm]], [[Dalinar Kholin]] took the place of Moash and saw the arrival of humanity on Roshar.
 
 ## Notes
 <references />
-{{complete}}
-{{Stormlight}}

@@ -1,3 +1,8 @@
+---
+source_file: The Shattered LensStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[The Shattered Lens]]***.
 
 For other books in the series see [[Alcatraz_Versus_the_Evil_Librarians/Statistical analysis]], [[The Scrivener's Bones/Statistical analysis]], [[The Knights of Crystallia/Statistical analysis]] and [[The Dark Talent/Statistical analysis]].
@@ -105,7 +110,5 @@ For other books in the series see [[Alcatraz_Versus_the_Evil_Librarians/Statisti
 | align="right" | **100.00%**
 |}
 
-{{meta/done}}
-{{Alcatraz}}
 [[Category: Alcatraz|*]]
 [[category: statistics]]

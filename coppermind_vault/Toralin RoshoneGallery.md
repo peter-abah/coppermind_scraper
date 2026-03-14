@@ -1,3 +1,8 @@
+---
+source_file: Toralin RoshoneGallery.txt
+entity_type: article
+---
+
 ## Fanworks
 <gallery mode="packed" heights=250px caption="Fanworks">
 Roshone_and_Laral_by_Marie_Seeberger.jpg| <center><small>by {{a|Marie Seeberger}}</small></center> [[Roshone]] and [[Laral]]

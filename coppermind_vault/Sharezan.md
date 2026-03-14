@@ -1,11 +1,18 @@
+---
+source_file: Sharezan.txt
+entity_type: book ref
+review: 'yes'
+---
+
 **Sharezan** is a crime lord in [[Lossand]].
 
-He is hunted by [[Ais]], who believes that he is the Lord Beggar [[Nilto]].{{book ref|ws|5|review=yes}}
+He is hunted by [[Ais]], who believes that he is the Lord Beggar [[Nilto]].
 
 ## Spoiler Warning
 The following link contains major spoilers for the *[[White Sand]]* series. Please be very sure you have either read the graphic novels or are happy to be spoiled on some major points of the story.
 
-<div style='font-size: large; text-align: center;'>[[Tain|<span style='color: red;' title="SPOILERS AHEAD">SPOILERS AHEAD</span>]]</div>
+> [!WARNING] Info
+> [[Tain|**SPOILERS AHEAD**]]
 
 [[Category: Spoiler redirects]]
 [[Category: Aliases]]

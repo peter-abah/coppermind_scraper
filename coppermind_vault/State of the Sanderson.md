@@ -1,3 +1,8 @@
+---
+source_file: State of the Sanderson.txt
+entity_type: real world
+---
+
 The **State of the Sanderson** is a yearly post on [[Brandon]]'s blog dedicated to summarising the past years activities and outlining future projects. It is often a source of potentially new stories and also updates on what order things are going to be published.
 
 * [[bws: blogs/blog/4787-2 | 2013]] <small>([https://wob.coppermind.net/events/363 on Arcanum])</small>
@@ -16,5 +21,5 @@ The **State of the Sanderson** is a yearly post on [[Brandon]]'s blog dedicated 
 
 ## Notes
 <references />
-{{real world|stub}}
+
 [[category: list articles]]

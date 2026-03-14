@@ -1,12 +1,13 @@
-{{settlement
-|nation=Tukar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Riqu Mar** is a town in southern [[Tukar]] on [[Roshar]], located along the coast of the [[Southern Depths]]. It is west of [[Linder Mar]].{{map ref|Eastern Makabak}} 
+---
+source_file: Riqu Mar.txt
+entity_type: settlement
+nation: Tukar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+**Riqu Mar** is a town in southern [[Tukar]] on [[Roshar]], located along the coast of the [[Southern Depths]]. It is west of [[Linder Mar]]. 
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 23:23, 19 November 2020 (UTC)}}
-{{Stormlight}}

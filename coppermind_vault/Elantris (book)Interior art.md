@@ -1,3 +1,8 @@
+---
+source_file: Elantris (book)Interior art.txt
+entity_type: article
+---
+
 This is a gallery of interior art for *[[Elantris (book)|Elantris]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 
 ## Original artwork

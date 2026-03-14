@@ -1,4 +1,7 @@
-{{CoverToC|alcatraz}}
+---
+source_file: The Dark TalentCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[The Dark Talent]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

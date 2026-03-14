@@ -1,20 +1,18 @@
 ---
-profession: "{{cat tag|soldiers|Officer"
+source_file: Tashlin.txt
+entity_type: character
+profession: in army
+groups: army
+titles: Companylord
+died: '1168'
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-in {{tag+|army|Amaram's}}
-|groups={{tag+|army|Amaram's}}
-|titles=Companylord
-|died=1168
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-[[Brightlord]] **Tashlin** was a [[lighteyes]] on [[Roshar]].{{book ref|sa1|67}}
+[[Brightlord]] **Tashlin** was a [[lighteyes]] on [[Roshar]].
 
-Tashlin was a companylord in [[Amaram]]'s army, and Kaladin was in his company.{{book ref|sa1|67}} Kaladin reported that the entire squad was killed, and a lighteyes responded that it was the third report that Tashlin had fallen.
+Tashlin was a companylord in [[Amaram]]'s army, and Kaladin was in his company. Kaladin reported that the entire squad was killed, and a lighteyes responded that it was the third report that Tashlin had fallen.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 03:01, 3 April 2017 (MST)}}
-{{Stormlight}}

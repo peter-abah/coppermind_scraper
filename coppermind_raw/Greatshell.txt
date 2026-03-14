@@ -1,0 +1,32 @@
+{{lifeform
+|image=Chasmfiend Hunt by Randy Vargas.jpg
+|type=Animal family
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+{{update|sa3|sa4|sa5}}
+'''Greatshell''' is a term used to describe various large crustaceans native to [[Roshar]]. The family includes numerous related species,{{wob ref|12183}} among them [[chasmfiend]]s, [[Tai-na]], [[Yu-nerig]], and the extinct [[lanceryn]].{{book ref|sa1|36}}{{book ref|sa1|12}}{{book ref|sa2|i|3}}
+
+== Appearance and Anatomy ==
+Greatshells consist of a variety of creatures both aquatic and land-bound. Their appearance varies widely, but they share a number of physical characteristics. They are massive, vastly larger than a human; the largest creatures on the planet, both on land and in the water, are greatshells.{{book ref|sa2|i|3}} They possess an exoskeleton and multiple legs.{{file ref|Chasmfiend.jpeg|text=Shallan's sketch: Chasmfiend}} Their exoskeletons are chitinous, and known species have carapace armor that is extremely difficult to penetrate.{{book ref|sa1|13}} They have no tongue, and a complex set of jaws;{{book ref|sa1|15}} though it's unclear if they're all carnivorous, it is unlikely. Their blood is violet, and has a musty, moldy smell.{{book ref|sa1|26}}
+
+Greatshells breed slowly, and for most species, their populations are generally small. They all reproduce the same way: an adult greatshell transforms (pupates) into a chrysalis, which eventually produces a number of young.{{book ref|sa2|49}} They do not seem to have a singular biome they thrive in; they can be found as far east as the [[Shattered Plains]], as far west as [[Aimia]], and as far north as the [[Reshi Isles]].{{book ref|sa2|i|3}}{{book ref|sa1|36}} Their sheer size makes domesticating most species unfeasible, although there are stories of greatshell riders in places like [[Kadrix]].{{book ref|sa1|36}}
+
+=== Gemhearts and Spren Bonds ===
+The greatshells maintain their enormous size through [[Nahel bond]]s with [[mandra]]s, a type of [[spren]] also known as 'luckspren'.{{wob ref|1227}} Mandras decrease the animal's weight, allowing them to exist and move their bulk in defiance of the [[wikipedia:square-cube law|square-cube law]].{{book ref|sa3|99}} To facilitate this bond, greatshells possess [[gemheart]]s, massive gemstones, within their bodies that the spren can enter.{{book ref|sa3|i|13}} The type of [[polestone]] may vary in some species, while it is consistent in others.{{wob ref|3772}} The size of the gemheart scales up with the size of the animal.{{wob ref|756}} Due to the buoyancy of water, the largest greatshells are aquatic,{{wob ref|1499}} and it is possible that some aquatic greatshells can survive without a spren bond.{{wob ref|6498}}
+
+Gemhearts hold great value, and greatshells are often hunted; some species, like the [[lanceryn]] and [[chasmfiend]]s, have been hunted down to extinction or near-extinction over their gemhearts.{{book ref|sa1|36}}
+
+== Known greatshell species ==
+*[[Chasmfiend]]
+*[[Lanceryn]]
+*[[Tai-na]]
+*[[Yu-nerig]]
+*[[Yu-thorak]]
+*[[Santhid]]s are known to be in the same family,{{wob ref|7450}} although they are not explicitly named as greatshells.
+
+== Notes ==
+<references />
+{{partial}}
+{{Stormlight}}
+[[es:Grancaparazón]]

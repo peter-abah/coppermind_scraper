@@ -1,0 +1,32 @@
+{{item
+|type={{cat tag|Fabrials|Fabrial}}
+|owners=[[Lin Davar]], [[Ghostbloods]]
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{uncanonical}}
+The '''Davar Soulcaster''' is a [[Soulcasting]] [[fabrial]] formerly in the possession of [[House Davar]].
+
+The provenance of the Soulcaster is unknown, but it was considered illicit in [[Jah Keved]] since it was presumed to be stolen from [[Alethkar]].{{book ref|sa1|29}} It was loaned to [[Lin Davar]] by [[Luesh]] or one of his [[Ghostblood]] associates circa {{Rosharan date|1172}}.{{book ref|sa1|29}}
+
+==Appearance and Function==
+It is similar in appearance to other Soulcasting fabrials; it is worn on the wrist with two rings, a bracelet, and chains that loop around the fingers and connect a triangular setting for three gemstones.{{book ref|sa1|5}} At least one of the gemstones is a smokestone{{book ref|sa1|36}} and it likely that it also has a topaz since the fabrial would have been attuned to the [[Ten Essences|Essence]] of Talus in order to create marble, jade, and opal deposits.{{book ref|sa1|33}} It looks exactly like [[Jasnah's Soulcaster|Jasnah's "Soulcaster"]], although the gemstones are not quite as large.{{book ref|sa1|5}} After the Davar Soulcaster was damaged, one of the chains and one of the stone settings were expertly repaired, but the device no longer functioned and the gemstones were removed.{{book ref|sa1|33}}
+
+==History==
+After Luesh joined the Davar household as its steward, he worked with Lin and a surveyor to "discover" valuable new mineral deposits on Davar lands, returning the family to prominence after it had nearly gone bankrupt.{{book ref|sa1|7}} In fact, Luesh was trained in using the Soulcaster to create marble and other minerals. He declined to show anyone else how to use it.{{book ref|sa1|39}} The Ghostbloods were presumably putting Lin in their debt with the hopes that he could supplant [[Valam]] as [[highprince]].{{book ref|sa1|74}}
+
+Despite the wealth provided by the mineral deposits, Lin continued his slide into violence and instability, and the Soulcaster was damaged in a brutal fight between Lin and his son [[Balat]].{{book ref|sa2|73}} After Lin died, his children found the Soulcaster and some strange maps.{{book ref|sa1|5}}{{book ref|sa1|8}}
+
+The Davar children tried to hide Lin's death, but it quickly became clear that they would go broke without a working Soulcaster. Shallan and her brothers came up with a plan for Shallan to switch their Soulcaster out with one known to be in Jasnah Kholin's possession. After Shallan left for [[Kharbranth]], Luesh died mysteriously, and a few weeks later a group of Ghostbloods visited House Davar asking for their Soulcaster back. Shallan hoped to take Jasnah's fabrial, somehow use it to create more minerals, and then give it to the Ghostbloods to replace the one that was broken.{{book ref|sa1|29}}
+
+Shallan traveled to Kharbranth, was taken on as Jasnah's ward, and managed to swap the broken Soulcaster with Jasnah's.{{book ref|sa1|29}}{{book ref|sa1|36}} Jasnah wore the Davar Soulcaster for some time, not realizing it was broken since her own Soulcaster was a decoy.{{book ref|sa1|42}} Shallan eventually revealed to Jasnah that she had swapped the fabrials after she was poisoned by the ardent [[Kabsal]].{{book ref|sa1|48}} After Jasnah was able to save her anyway, Shallan finally realized that both she and Jasnah could manipulate the [[Surge]] of [[Transformation]] and didn't need the fabrials at all.{{book ref|sa1|70}}
+
+Jasnah told Shallan that [[Navani]] might be able to fully repair the Davar Soulcaster.{{book ref|sa2|1}} However, Shallan lost it to the ocean during the sinking of the ''[[Wind's Pleasure]]''.{{book ref|sa2|13}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 22:43, 2 October 2021 (UTC)}}
+{{Stormlight}}
+[[category: possessive articles]]
+[[es:Moldeador de almas Davar]]

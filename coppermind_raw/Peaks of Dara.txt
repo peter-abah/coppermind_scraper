@@ -1,0 +1,1 @@
+#REDIRECT [[Myth of Parasaphi and Nadris]]

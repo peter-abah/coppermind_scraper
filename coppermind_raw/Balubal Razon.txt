@@ -1,0 +1,24 @@
+{{character
+|occupation=Inventor
+|died=Murdered{{book ref|legion|7}}
+|earth=Legion
+|introduced=[[Legion (book)|Legion]]
+}}
+{{quote
+|A man seeking to meld science and faith, the first person—perhaps in the history of mankind—to actually find a way to apply science to the ultimate truths of religion.
+|[[Tobias]] speaking about Balubal Razon{{book ref|legion|5}}
+}}
+'''Balubal Razon''' is an inventor on Earth.{{book ref|legion|4}}
+
+== Appearance and Personality ==
+He is abrasive, argumentative, and very protective when it comes to his equipment.{{book ref|legion|6}} His parents were both ethnically Filipino, but he is a second-generation American. He is both a scientist and a deeply religious Catholic.{{book ref|legion|4}} 
+
+== History ==
+He went to the University of Maine and received a PhD in physics, without honors. He invented a camera that could take pictures of the past. He convinced [[Azari Laboratories]] to fund the development of a prototype. After eighteen months, he finally developed a working prototype, which he promptly stole.{{book ref|legion|4}}
+
+He took the camera to Israel to fulfill his goal: learning the truth about Christianity and the resurrection. He was kidnapped by [[Salic]], a member of the terrorist organization [[wikipedia: Abu Sayyaf|Abu Sayyaf]], who wanted to use the device to disprove Christianity, thus destabilizing the region.{{book ref|legion|7}} The terrorists originally pretended to be Christian fundamentalists to gain his trust, but imprisoned and tortured him after he discovered their true identities. He chose to die rather than give up the secrets of the camera.{{book ref|legion|7}}
+
+== Notes ==
+<references />
+{{complete}}
+{{Legion}}

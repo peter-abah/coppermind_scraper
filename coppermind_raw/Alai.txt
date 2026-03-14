@@ -1,0 +1,16 @@
+{{character
+|occupation={{cat tag|Scholars|Scholar}}
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+'''Alai''' is a scholar who lives on [[Roshar]] during the [[Era of Solitude]] and studies [[spren]].{{book ref|sa2|6}}
+
+Alai claims that spren are fragments of the [[Shard|powers of creation]], which is a common opinion among scholars.{{book ref|sa2|3}} She also studies spren that have gained sentience, such as the [[Nightwatcher]]. Alai claims that the Nightwatcher is one of these, and that she is definitely female, contrary to [[Alethi]] folktales.{{book ref|sa2|6}}
+
+[[Shallan Davar]] reads some of Alai's work while studying sentient spren.{{book ref|sa2|6}}{{book ref|sa2|3}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 20:59, 20 March 2019 (MST)}}
+{{Stormlight}}

@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Yazad.txt
+entity_type: disambig
+---
 
 **Yazad** is the name of two distinct characters in Brandon's works:
 * [[Yazad (Sel)]], the Emperor of the [[Rose Empire]] before [[Ashravan]]

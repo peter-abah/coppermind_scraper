@@ -1,3 +1,8 @@
+---
+source_file: PaalmGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=200px caption="Official artwork">
 Paalm-MotP.png  | <center><small>by [[Ben McSweeney]]</small></center> Paalm as depicted in the *Mistborn Adventure Game*

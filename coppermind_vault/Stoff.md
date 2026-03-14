@@ -1,16 +1,14 @@
 ---
-titles: "Vice Admiral <small>(formerly)</small>{{book ref|sf3|epilogue"
+source_file: Stoff.txt
+entity_type: character
+titles: Vice Admiral <small>(formerly)</small>
+groups: '[[DDF]]'
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
-|groups=[[DDF]]
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-{{update|sf3}}
-Vice Admiral **Stoff** is an officer in the [[Defiant Defense Force]].{{book ref|sf1|1}}
+Vice Admiral **Stoff** is an officer in the [[Defiant Defense Force]].
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

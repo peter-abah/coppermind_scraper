@@ -1,15 +1,18 @@
-{{book
-|cover=IotE US Cover.webp
-|setting=[[First of the Sun]], [[Cosmere]]
-|released=July 1st, 2025{{url ref|url=https://www.backerkit.com/c/projects/dragonsteel/words-of-radiance-leatherbound/updates/24174|text=Backerkit Announcement|site=Backerkit|name=BK}}
-|page-count=465
-|word-count=[[/Statistical_analysis|128,904]]
-}}
-***Isles of the Emberdark*** is a [[Cosmere]] novel which incorporates and expands upon the story in the novella *[[Sixth of the Dusk (novella)|Sixth of the Dusk]]*.{{wob ref|16506}}{{wob ref|16511}}
+---
+source_file: Isles of the Emberdark.txt
+entity_type: book
+cover: IotE US Cover.webp
+setting: '[[First of the Sun]], [[Cosmere]]'
+released: July 1st, 2025
+page-count: '465'
+word-count: '[[/Statistical_analysis|128,904]]'
+---
+
+***Isles of the Emberdark*** is a [[Cosmere]] novel which incorporates and expands upon the story in the novella *[[Sixth of the Dusk (novella)|Sixth of the Dusk]]*.
 
 ## Synopsis
-{{quote|
-All his life, [[Sixth of the Dusk (character)|Sixth of the Dusk]] has been a traditional [[trapper]] of [[Aviar]]—the supernatural birds his people bond with—on the deadly island of [[Patji (island)|Patji]]. Then one fateful night he propels [[Eelakin|his people]] into a race to modernize before they can be conquered by the [[Ones Above]], invaders from the stars who want to exploit the Aviar.
+
+> All his life, [[Sixth of the Dusk (character)|Sixth of the Dusk]] has been a traditional [[trapper]] of [[Aviar]]—the supernatural birds his people bond with—on the deadly island of [[Patji (island)|Patji]]. Then one fateful night he propels [[Eelakin|his people]] into a race to modernize before they can be conquered by the [[Ones Above]], invaders from the stars who want to exploit the Aviar.
 
 But it’s a race they’re losing, and Dusk fears his people will lose themselves in the effort. When a chance comes to sail into the expanse of the [[Cognitive Realm#Emberdark|Emberdark]] beyond [[Patji's Eye|a mystical portal]], Dusk sets off to find his people’s salvation with only a canoe, his birds, and all the grit and canniness of a Patji trapper.
 
@@ -18,11 +21,9 @@ Elsewhere in the Emberdark is a young [[Dragon (cosmere)|dragon]] chained in hum
 These unlikely allies might just be the solution to each other’s crisis. In their search for independence, Dusk and Starling face perilous bargains, poisonous politics, and the destructive echo of a dead god.
 
 Sanderson expands his thrilling novella “[[Sixth of the Dusk (novella)|Sixth of the Dusk]]” into a mythic novel of legends, lore, and warring galactic superpowers.
-|Book Summary on BackerKit{{url ref|url=https://www.backerkit.com/c/projects/dragonsteel/words-of-radiance-leatherbound/updates/4524|text=Project Update: Brandon Reveals the New Secret Project Title: A Synopsis and Reading!|site=BackerKit|date=2024-03<!--BackerKit only shows the post as "X months ago," so no date-->}}
-}}
+> — Book Summary on BackerKit
 
 ==Summary==
-{{for|/Summary|a detailed summary}}
 
 ## Main Characters
 *[[Dusk]]
@@ -43,25 +44,23 @@ Sanderson expands his thrilling novella “[[Sixth of the Dusk (novella)|Sixth o
 *The [[Dakwara]]
 
 ## Early Development
-Brandon initially stated that he had no plans to write a sequel to *Sixth of the Dusk*,{{wob ref|3052}}{{wob ref|5012}} but later came up with an idea he liked that involved [[Sixth of the Dusk (character)|Dusk]] going into the [[Cognitive Realm]] and wrote an outline and the first chapter for that story.{{wob ref|8769}} He was hesitant about writing more and releasing the novella, however, because it would include extensive spoilers for the space age of the cosmere.{{wob ref|14340}}{{wob ref|13615}}
+Brandon initially stated that he had no plans to write a sequel to *Sixth of the Dusk*, but later came up with an idea he liked that involved [[Sixth of the Dusk (character)|Dusk]] going into the [[Cognitive Realm]] and wrote an outline and the first chapter for that story. He was hesitant about writing more and releasing the novella, however, because it would include extensive spoilers for the space age of the cosmere.
 
-At the virtual release party for *[[Rhythm of War]]* he read an excerpt from what he had already written; a transcript of the reading can be found [[wob:14408|here]]. In that reading, the story takes place about six years after the events of *Sixth of the Dusk*. The Ones Above are starting to grow impatient and want to build an installation to breed and collect Aviar on one of [[First of the Sun]]'s islands. [[Vathi]] and Dusk are trying to figure out how to delay their progress and are also dealing with people from another world, likely [[Roshar]]. Dusk realizes that the people of First of the Sun are hopelessly outmatched and decides to go through [[Patji's Eye]], the [[perpendicularity]] on the [[Patji (island)|island Patji]], to try to enlist help.{{wob ref|14408}}
+At the virtual release party for *[[Rhythm of War]]* he read an excerpt from what he had already written; a transcript of the reading can be found [[wob:14408|here]]. In that reading, the story takes place about six years after the events of *Sixth of the Dusk*. The Ones Above are starting to grow impatient and want to build an installation to breed and collect Aviar on one of [[First of the Sun]]'s islands. [[Vathi]] and Dusk are trying to figure out how to delay their progress and are also dealing with people from another world, likely [[Roshar]]. Dusk realizes that the people of First of the Sun are hopelessly outmatched and decides to go through [[Patji's Eye]], the [[perpendicularity]] on the [[Patji (island)|island Patji]], to try to enlist help.
 
 ==Later Development==
-After writing chapters intermittently over several years, Brandon added the character Starling to the story, who is one of [[Hoid|Hoid's]] apprentices that he had been trying to find a place for in his works for many years. Giving the novel a dual narrative between Starling and Dusk allowed it to build momentum and "really come together".{{wob ref|16519}}
+After writing chapters intermittently over several years, Brandon added the character Starling to the story, who is one of [[Hoid|Hoid's]] apprentices that he had been trying to find a place for in his works for many years. Giving the novel a dual narrative between Starling and Dusk allowed it to build momentum and "really come together".
 
 In the revised narrative, the dragon Starling is exiled from Yolen twelve years before the events of the story, and eventually becomes lieutenant of a ship that flies in the [[Cognitive Realm]] and is owned by [[Xisis]].
 
-The popular Disney film *Moana* - which also features a Polynesian culture and shows their indigenous form of navigation - released between the publication of *Sixth* and Brandon's update of it to *Emberdark*. His team pointed out these similarities, which led to some adjustments to the narrative so that it would not seem to be trying to exploit the film's themes.{{url ref|url=https://www.instagram.com/p/DM8pqjmSyN1/|text=Isles of the Emberdark fun fact!|site=Instagram|date=2025-08-04}}
+The popular Disney film *Moana* - which also features a Polynesian culture and shows their indigenous form of navigation - released between the publication of *Sixth* and Brandon's update of it to *Emberdark*. His team pointed out these similarities, which led to some adjustments to the narrative so that it would not seem to be trying to exploit the film's themes.
 
 ==Cover Gallery==
-{{for|/Covers|a cover gallery of Isles of the Emberdark}}
 
 ==Interior Art==
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Isles of the Emberdark* consists of sixty-one chapters, one prologue, and one epilogue. It has a total word count of 128,904. 
 
 {|class="wikitable"
@@ -81,7 +80,5 @@ The popular Disney film *Moana* - which also features a Polynesian culture and s
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Sixth of the Dusk}}
-{{books}}
+
 [[es:Isles of the Emberdark]]

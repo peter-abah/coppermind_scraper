@@ -1,0 +1,2 @@
+#redirect[[Shalash]]
+[[Category: Aliases]]

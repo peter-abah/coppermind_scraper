@@ -1,0 +1,45 @@
+{{lifeform
+|use={{cat tag|Drugs|Anti-inflammatory and recreational drug}} 
+|type=Moss
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{quote
+| Rubbing firemoss was said to make a man’s mind more receptive to thoughts and ideas. The one time Szeth had tried it, it had given him a headache and two blistered fingers.
+| [[Szeth]] on firemoss{{book ref|twok|i|6}}
+}}
+'''Firemoss''', sometimes referred to simply as '''moss''',{{book ref|sa1|41}} is a plant native to [[Roshar]]. It has a psychotropic effect on humans and can be a highly addictive drug.{{book ref|sa1|38}}
+
+== Ecology ==
+Firemoss is red-brown in color, and it has a distinct smell when dried.{{book ref|sa3|49}}{{book ref|sa1|41}} It is known to grow on [[rockbud]]s in [[Alethkar]]. During summer, the moss dries out and can spontaneously combust, burning the rockbuds and drawing [[flamespren]].{{book ref|sa3|49}} It is presumably uncommon in some parts of Roshar, as [[Shallan Davar]] had never seen it before she traveled to the [[Shattered Plains]].{{book ref|sa2|31}} 
+
+== Uses ==
+Firemoss has several effects on the human body. It can be used medicinally for pain relief and to reduce extreme cases of [https://en.wikipedia.org/wiki/Cerebral_edema cerebral edema], although under what exact etiology is unclear. It should only be used as a last resort when [[fathom tree|fathom]] bark is not effective, as there is a high risk of the patient developing an addiction; [[Lirin]] hates using it.{{book ref|sa1|38}}{{book ref|sa2|76}}
+
+When used recreationally, the user rubs the moss between the thumb and forefinger. This triggers a reaction that results in a visible glow resembling an ember. The moss then produces wisps of smoke and a crackling sound similar to a knife scratching bone.{{book ref|sa1|41}} Inhaling the smoke makes the user feel relaxed and euphoric, ignoring any stresses in their life and altering their perceptions to become more receptive to new ideas. The body adapts to the drug, as the psychotropic effects decrease with regular use, often leading to addiction.{{book ref|sa1|i|6}}{{book ref|sa3|41}}{{book ref|sa3|49}} The heat of the moss may cause finger blistering until calluses are built up; even experienced users may get blisters if they use too much moss.{{book ref|sa1|i|6}}{{book ref|sa1|41}} In some, firemoss use can induce headaches.{{book ref|twok|i|6}} Recreational use is sometimes referred to as "grinding" moss.{{book ref|sa3|46}}
+
+Frequent use of moss in large quantities can cause the wasting of one's body, and can cause one's eyes to become glazed over.{{book ref|sa4|63}}
+
+During withdrawal, some firemoss users have seizures, and its aftereffects can still reappear after years of stopping consumption.{{book ref|sa4|39}}
+
+== Economy and Legality ==
+Firemoss is commonly used in disreputable locations such as gambling dens and wrestling dens.{{book ref|sa1|i|6}}{{book ref|sa3|49}} The Alethi consider public intoxication on firemoss to be a crime.{{book ref|sa3|104}} Some members of the nobility such as [[Gavilar]] and [[Toh]] have obvious contempt for firemoss use.{{book ref|sa3|49}} Although firemoss grows in the wild, there is a market for dried moss in cities and in the warcamps.{{book ref|sa3|41}}{{book ref|sa3|49}} Sellers of firemoss often operate from inconspicuous locations that never close, staffed by unsavory characters. These locations presumably sell firemoss at a premium price, as people who are addicted to moss can go bankrupt buying it.{{book ref|sa3|41}}
+
+== History ==
+After the unification of [[Alethkar]], [[Dalinar Kholin]] used firemoss recreationally when he didn't want to think about politics or war. He noted that the effects of firemoss were not as strong as what he felt from the [[Thrill]].{{book ref|sa3|49}}
+
+[[Szeth]] once tried firemoss but did not experience any mental effects other than a headache, and never tried it again.{{book ref|sa1|i|6}}
+
+When [[Kaladin]] was recovering from the fight with a [[chasmfiend]] and wandering in the chasms, he was offered firemoss as a pain reliever. He refused it because he knew firemoss was addictive and remembered that his father hated using it.{{book ref|sa2|76}}
+
+[[Shallan]] once noticed her brother [[Jushu]] rubbing a plant between his fingers, although she did not know what it was at the time.{{book ref|sa2|73}} [[Tyn]] later openly used firemoss in front of Shallan.{{book ref|sa2|31}}
+
+[[Teft]] developed an addiction to firemoss when he was in the [[Sadeas princedom|Sadeas]] army, but never could get in too much trouble due to a lack of money. Shortly after Shallan's encounter with [[Re-Shephir]] in [[Urithiru]], it became obvious that he had relapsed. He was physically addicted to firemoss, as he no longer experienced euphoria and had to use the drug just to feel normal. His powerlessness to resist the drug made him feel ashamed, and he rejected the [[honorspren]] trying to bond him because of it.{{book ref|sa3|41}} Eventually, Teft was arrested for public intoxication on firemoss, though the [[Highprince of Information]], [[Aladar]], quietly had [[Navani Kholin|Navani]] issue orders to release him.{{book ref|sa3|104}} After he swore the [[Order of Windrunners#The Third Ideal|the Third Ideal of the Windrunners]] during the [[Battle of Thaylen Field]], he discovered that the Ideals did not make his addiction go away, but [[Kaladin]] promised to help him.{{book ref|sa3|121}} When he fell unconscious during the occupation of Urithiru, Kaladin thought that Teft had used firemoss lately and was having withdrawal symptoms or aftereffects.{{book ref|row|39}} When he woke from his coma during the occupation of Urithiru, he assumed he had used firemoss. When he realized he had not, he prided himself on have not been using firemoss for nearly seven months.{{book ref|sa4|91}}
+
+During the occupation of [[Kholinar]], a thriving firemoss trade sprung up among the humans. A bullish [[Fused|Focused One]] was tasked with stopping it however, and he pressed a few people into investigating. The investigation uncovered that a group of humans were processing the addictive moss in an abandoned temple, then using the proceeds to smuggle dissident singers and humans, including one [[Knights Radiant|Radiant]] out of Kholinar.{{rpg ref|slwg|154}}
+
+== Notes ==
+<references />
+{{complete}}
+{{Stormlight}}

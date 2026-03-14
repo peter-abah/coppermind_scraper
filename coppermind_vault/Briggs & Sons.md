@@ -1,15 +1,16 @@
-{{business
-|services=Metallurgy
-|city=[[Elendel]]
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-**Briggs &#38; Sons** is a licensed metallurgy business in [[Elendel]] on [[Scadrial]]. They are located in the 6th Octant at 3217 Smelter's Row.{{file ref|Elendel_Daily_broadsheet.png|*The Elendel Daily* broadsheet}}
+---
+source_file: Briggs & Sons.txt
+entity_type: business
+services: Metallurgy
+city: '[[Elendel]]'
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
 
-In {{date|341|PC}}, they placed an advertisement in *[[The Elendel Daily]]* looking to buy scrap metal of any purity.{{file ref|Elendel_Daily_broadsheet.png|*The Elendel Daily* broadsheet}}
+**Briggs &#38; Sons** is a licensed metallurgy business in [[Elendel]] on [[Scadrial]]. They are located in the 6th Octant at 3217 Smelter's Row.
+
+In , they placed an advertisement in *[[The Elendel Daily]]* looking to buy scrap metal of any purity.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 00:33, 4 June 2021 (UTC)}}
-{{Mistborn|Era 2}}

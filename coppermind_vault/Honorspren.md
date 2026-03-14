@@ -1,84 +1,80 @@
-{{lifeform
-|image=Shallan's Sketchbook - Honorspren.jpg
-|abilities=[[Nahel bond]], [[Windrunner]] magic, {{tag+|Splinter}}s of [[Honor]]
-|type={{cat tag|Spren}} 
-|world=Roshar
-|universe=[[Cosmere]]
-}}
-{{update|sa4|sa5}}
-{{quote
-|We're each a bit of power made manifest. We honorspren mimic Honor himself.
-|[[Syl]]{{book ref|sa3|97}}
-}}
-**Honorspren** are a type of sapient [[spren]] capable of forming a [[Nahel bond]].{{book ref|sa1|67}}
+---
+source_file: Honorspren.txt
+entity_type: lifeform
+image: Shallan's Sketchbook - Honorspren.jpg
+abilities: '[[Nahel bond]], [[Windrunner]] magic, Splinters of [[Honor]]'
+world: Roshar
+universe: '[[Cosmere]]'
+---
 
-They are [[Splinter]]s of [[Honor]] and [[Cultivation]], though they are almost entirely of Honor.{{wob ref|3017}}{{book ref|sa3|108}}{{book ref|sa5|104}} Bonding with one makes someone a [[Knight Radiant]] of the [[Order of Windrunners]].
+> We're each a bit of power made manifest. We honorspren mimic Honor himself.
+> — [[Syl]]
+
+**Honorspren** are a type of sapient [[spren]] capable of forming a [[Nahel bond]].
+
+They are [[Splinter]]s of [[Honor]] and [[Cultivation]], though they are almost entirely of Honor. Bonding with one makes someone a [[Knight Radiant]] of the [[Order of Windrunners]].
 
 ## Appearance
-{{for|Sylphrena/Gallery|more images of Syl in particular}}
-{{image|Honorspren by ms-marz.jpg|side=right|width=300px}}
+
 ### Physical Realm
-In the Physical Realm, honorspren look like [[windspren]].{{book ref|sa1|2}} They can change their appearance, including forms like fire or clouds, although they always glow (but not illuminate), and are typically white-blue.{{book ref|sa1|40}}{{book ref|sa1|27}}{{book ref|sa4|38}} This being said, they generally seem to prefer a humanoid form, as it takes effort to change and maintain a form different from how they appear in the Cognitive Realm.{{book ref|sa5|10}} Usually, they appear very small -- only about a handspan tall -- but if need be, a honorspren can make themselves as tall as a regular person.{{book ref|sa1|2}}{{book ref|sa3|37}} They could fill an entire room, though the bigger they are, the more effort it takes to maintain.{{book ref|sa5|1}}{{book ref|sa5|2}}
+In the Physical Realm, honorspren look like [[windspren]]. They can change their appearance, including forms like fire or clouds, although they always glow (but not illuminate), and are typically white-blue. This being said, they generally seem to prefer a humanoid form, as it takes effort to change and maintain a form different from how they appear in the Cognitive Realm. Usually, they appear very small -- only about a handspan tall -- but if need be, a honorspren can make themselves as tall as a regular person. They could fill an entire room, though the bigger they are, the more effort it takes to maintain.
 
-The more powerful their bond becomes, the stronger their variety, details, and hues of the form can be.{{book ref|sa4|38}}{{book ref|sa5|1}} This includes being able to change their clothes to different colors, such as green or red.{{book ref|sa4|55}}{{book ref|sa4|58}}
+The more powerful their bond becomes, the stronger their variety, details, and hues of the form can be. This includes being able to change their clothes to different colors, such as green or red.
 
-When their cognitive bodies are forced into the Physical Realm and they die, honorspren appear as a human with very pale skin and a blue cast to them.{{book ref|sa4|111}}
+When their cognitive bodies are forced into the Physical Realm and they die, honorspren appear as a human with very pale skin and a blue cast to them.
 
 ### Cognitive Realm
-In the [[Cognitive Realm]], honorspren are blue-white and as large as humans.{{book ref|sa3|89}} They appear to be wearing clothes, but the clothes are part of their essence and cannot be changed without [[Stormlight]].{{book ref|sa5|10}} Their clothing tend to range from military uniforms to flowing robes.{{file ref|Shallan's Sketchbook - Honorspren.jpg|Shallan's Sketchbook - Honorspren}} Their clothing style tends to correlate with their personal beliefs. Some honorspren buy physical clothes to wear instead.{{book ref|sa3|102}} Their hair, skin, and clothing all feel roughly the same as a human would.{{file ref|Shallan's Sketchbook - Honorspren.jpg|Shallan's Sketchbook - Honorspren}} 
+In the [[Cognitive Realm]], honorspren are blue-white and as large as humans. They appear to be wearing clothes, but the clothes are part of their essence and cannot be changed without [[Stormlight]]. Their clothing tend to range from military uniforms to flowing robes. Their clothing style tends to correlate with their personal beliefs. Some honorspren buy physical clothes to wear instead. Their hair, skin, and clothing all feel roughly the same as a human would. 
 
-Honorspren may also buy real weapons to use.{{book ref|sa4|36}}{{file ref|Shallan's Sketchbook - Honorspren.jpg|Shallan's Sketchbook - Honorspren}} They cannot vanish, or shape-shift.{{book ref|sa3|97}} They can make their form appear crystalline.{{book ref|sa5|33}}
+Honorspren may also buy real weapons to use. They cannot vanish, or shape-shift. They can make their form appear crystalline.
 
 ## Abilities
-Honorspren have the ability to sense an upcoming [[highstorm]] days before it arrives.{{book ref|sa3|20}} This is likely related to their origins as Stormfather's children. They also have strong internal clocks.{{book ref|sa4|55}}{{book ref|sa4|63}}
+Honorspren have the ability to sense an upcoming [[highstorm]] days before it arrives. This is likely related to their origins as Stormfather's children. They also have strong internal clocks.
 
-In the Physical Realm, they can use [[Adhesion]] to stick small, light objects together,{{book ref|sa3|77}} and give pinches of energy or move small objects.{{book ref|sa1|6}}{{book ref|sa4|23}} With a stronger Nahel bond, they are able to lift objects as heavy as a brick or grab people with full force.{{book ref|sa5|66}}{{book ref|sa5|82}} They can also shape-shift while there, and choose who can and cannot see and hear them,{{book ref|sa5|71}} although they cannot hide from their bonded Surgebinder, a [[Sighted]],{{book ref|sa1|21}} or [[Lift]].{{book ref|sa4|i|1}} Due to their ability to change size, honorspren can squeeze through small spaces, such as shutters or keyholes.{{book ref|sa4|i|1}}{{book ref|sa4|49}}
+In the Physical Realm, they can use [[Adhesion]] to stick small, light objects together, and give pinches of energy or move small objects. With a stronger Nahel bond, they are able to lift objects as heavy as a brick or grab people with full force. They can also shape-shift while there, and choose who can and cannot see and hear them, although they cannot hide from their bonded Surgebinder, a [[Sighted]], or [[Lift]]. Due to their ability to change size, honorspren can squeeze through small spaces, such as shutters or keyholes.
 
 ### Nahel bond
-They can form a [[Nahel bond]] with humans, turning them into [[Surgebinder]]s with the powers of Adhesion and [[Gravitation]]. In return, they gain the ability to think and act like their Shadesmar selves in the Physical Realm.{{book ref|sa1|57}} Among the honorspren, the bond is considered extremely intimate, as it involves the mixing of souls.{{book ref|sa3|108}} Honorspren are always able to sense where their Surgebinder is, even if they are not awake.{{book ref|sa4|25}}{{book ref|sa4|i|1}} They can also hear them over loud noises, such as rushing wind.{{book ref|sa4|10}} 
+They can form a [[Nahel bond]] with humans, turning them into [[Surgebinder]]s with the powers of Adhesion and [[Gravitation]]. In return, they gain the ability to think and act like their Shadesmar selves in the Physical Realm. Among the honorspren, the bond is considered extremely intimate, as it involves the mixing of souls. Honorspren are always able to sense where their Surgebinder is, even if they are not awake. They can also hear them over loud noises, such as rushing wind. 
 
-With a powerful enough bond, honorspren and their Surgebinder are able to sense each others emotions, as well as communicate with their minds.{{book ref|sa3|108}}{{book ref|sa4|55}} When an honorspren is a Shardblade, their awareness overlaps with their Radiants.{{book ref|sa5|72}} Honorspren can also gain memories of their Surgebinder from before their bond via their Connection to the winds and its Connection to Honor.{{book ref|sa3|6}}
+With a powerful enough bond, honorspren and their Surgebinder are able to sense each others emotions, as well as communicate with their minds. When an honorspren is a Shardblade, their awareness overlaps with their Radiants. Honorspren can also gain memories of their Surgebinder from before their bond via their Connection to the winds and its Connection to Honor.
 
 ## Culture
-{{image|Syl by Noblesgal.jpg|side=right|width=280px|An honorspren fighting [[deathspren]]}}
-{{quote
-|Oh! She says she would rather trade with honorspren than take another trip to the perpendicularity. I think this is an insult.
-|[[Pattern]], translating for an [[ashspren]]{{book ref|sa3|102}}
-}}
 
-Honorspren are generally warlike and oath-bound, with a strong military tradition.{{book ref|sa3|47}} While fairly isolationist, they are willing to let other spren live alongside them, though it seems a non-honorspren cannot attain a high rank in their society. They believe themselves to be oathbound to follow Honor's path and serve what they think to be his interests. However, they are also highly respectful of the [[Bondsmith]]s, and the [[Stormfather]] Bondsmith in particular. The latter is likely due to many of them seeing the Stormfather as their parent or progenitor.{{book ref|sa3|108}}
+> Oh! She says she would rather trade with honorspren than take another trip to the perpendicularity. I think this is an insult.
+> — [[Pattern]], translating for an [[ashspren]]
 
-Honorspren follow morality instead of a system of laws, and are stubborn in upholding their particular interpretation of it. It is difficult to change their mind with logic, as they focus on what they feel more than what they think.{{book ref|sa3|108}}{{book ref|sa4|21}} Obedience, hierarchy, and order are highly valued in their society, and they're willing to put up bounties for their rebellious kinsmen.{{book ref|sa3|37}}{{book ref|sa3|102}}{{book ref|sa4|90}} This being said, honorspren pride themselves on not being as uptight as the [[highspren]], and can be flexible when necessary.{{book ref|sa3|108}} For the newer generation, many of their names relate to the wind and storms.{{rpg ref|slhb|201}} The older generation share names with ancient nobility.
+Honorspren are generally warlike and oath-bound, with a strong military tradition. While fairly isolationist, they are willing to let other spren live alongside them, though it seems a non-honorspren cannot attain a high rank in their society. They believe themselves to be oathbound to follow Honor's path and serve what they think to be his interests. However, they are also highly respectful of the [[Bondsmith]]s, and the [[Stormfather]] Bondsmith in particular. The latter is likely due to many of them seeing the Stormfather as their parent or progenitor.
 
-Of all spren, honorspren are noted to have the most human mannerisms.{{book ref|sa3|108}}{{file ref|Shallan's Sketchbook - Honorspren.jpg|Shallan's Sketchbook - Honorspren}} They sometimes engage in grand hunts, tracking down and slaying other creatures of Shadesmar, like gloomspren.{{book ref|sa3|5}} Some honorspren believe that because [[singer]]s are the rightful heirs of Roshar, the honorspren should side with the [[Fused]] and [[Odium]].{{rpg ref|slwg|172}}
+Honorspren follow morality instead of a system of laws, and are stubborn in upholding their particular interpretation of it. It is difficult to change their mind with logic, as they focus on what they feel more than what they think. Obedience, hierarchy, and order are highly valued in their society, and they're willing to put up bounties for their rebellious kinsmen. This being said, honorspren pride themselves on not being as uptight as the [[highspren]], and can be flexible when necessary. For the newer generation, many of their names relate to the wind and storms. The older generation share names with ancient nobility.
 
-Honorspren are not liked by other types of sapient spren, and seem to avoid them in turn. In [[Celebrant]], there are none on the streets.{{book ref|sa3|102}} Rather, they have their own cities, forming a grand nation with the capital in [[Lasting Integrity]]. They have several strongholds, including [[Unyielding Fidelity]], in the region of [[Shadesmar]] corresponding to [[Kharbranth]].{{book ref|sa3|102}}
+Of all spren, honorspren are noted to have the most human mannerisms. They sometimes engage in grand hunts, tracking down and slaying other creatures of Shadesmar, like gloomspren. Some honorspren believe that because [[singer]]s are the rightful heirs of Roshar, the honorspren should side with the [[Fused]] and [[Odium]].
 
-According to Syl, while honorspren hate [[inkspren]] and highspren, they merely distrust [[Cryptic]]s.{{book ref|sa4|20}}
+Honorspren are not liked by other types of sapient spren, and seem to avoid them in turn. In [[Celebrant]], there are none on the streets. Rather, they have their own cities, forming a grand nation with the capital in [[Lasting Integrity]]. They have several strongholds, including [[Unyielding Fidelity]], in the region of [[Shadesmar]] corresponding to [[Kharbranth]].
+
+According to Syl, while honorspren hate [[inkspren]] and highspren, they merely distrust [[Cryptic]]s.
 
 ### Legal Proceedings
-The honorspren have a complex legal code that they require all parties involved to understand to at least a basic extent. Defendants are expected to carry their own case, and although they may receive legal counsel outside of the courtroom, lawyers are not employed by honorspren during trials.{{book ref|sa4|78}}
+The honorspren have a complex legal code that they require all parties involved to understand to at least a basic extent. Defendants are expected to carry their own case, and although they may receive legal counsel outside of the courtroom, lawyers are not employed by honorspren during trials.
 
-Defendants are permitted to talk during the trial, and during witness testimony, however, the judge can order them gagged at his or her discretion.{{book ref|sa4|87}} When permitted, the audience is allowed to ask questions of the defendant, but cannot make statements.{{book ref|sa4|90}} If a witness has been called who is too young or cannot be traditionally examined, the High Judge has the authority to question the defendant and speak on the witness’ behalf.{{book ref|sa4|94}} Proceedings are overseen by a High Judge, who is accompanied by a group of honorspren officials.{{book ref|sa4|90}} If the High Judge is unavailable, one of these officials can adjudicate in the High Judge’s place.{{book ref|sa4|94}}
+Defendants are permitted to talk during the trial, and during witness testimony, however, the judge can order them gagged at his or her discretion. When permitted, the audience is allowed to ask questions of the defendant, but cannot make statements. If a witness has been called who is too young or cannot be traditionally examined, the High Judge has the authority to question the defendant and speak on the witness’ behalf. Proceedings are overseen by a High Judge, who is accompanied by a group of honorspren officials. If the High Judge is unavailable, one of these officials can adjudicate in the High Judge’s place.
 
-==== Trial by Witness ====
-A particular type of trial that is available under honorspren law is **trial by witness**. It is rarely used as it heavily favors the prosecution. This type of trial must be requested and approved by the judge preceding over the case. If the request is accepted, the trial is held in three parts, each on its own day, where multiple witnesses are brought forward by the prosecution, and the defendant is also allowed to present their case. On the first trial day, the prosecution will call three witnesses to speak against the defendant.{{book ref|sa4|78}} The second day of trial is for the accused to plead their case and the audience may ask them questions. On the third day, the prosecution can bring forth a final witness, whom the defendant can question, before judgement is made.{{book ref|sa4|78}}{{book ref|sa4|90}}
+#### Trial by Witness
+A particular type of trial that is available under honorspren law is **trial by witness**. It is rarely used as it heavily favors the prosecution. This type of trial must be requested and approved by the judge preceding over the case. If the request is accepted, the trial is held in three parts, each on its own day, where multiple witnesses are brought forward by the prosecution, and the defendant is also allowed to present their case. On the first trial day, the prosecution will call three witnesses to speak against the defendant. The second day of trial is for the accused to plead their case and the audience may ask them questions. On the third day, the prosecution can bring forth a final witness, whom the defendant can question, before judgement is made.
 
 ## History
-{{quote
-|We decided to form ten varieties. Ten because my power loved the symmetry. Ten, because Kor loved me, and knew this made me happy. We started with the first seven, then one variety was born of Kor alone. In counterpoint, and at her urging, I created one variety almost entirely on my own. My angels of Honor.
-|[[Honor]]{{book ref|sa5|104}}
-}}
 
-During the [[Heraldic Epochs]], honorspren were created by [[Honor]] with [[Cultivation]]'s help.{{book ref|sa5|104}} At some point, inspired by the [[Herald]]s and their [[Honorblade]]s, the honorspren, along with nine other types of sapient spren, began forming [[Nahel bond]]s with humans, giving rise to the [[Order of Windrunners]].{{book ref|sa2|87}} Back then, they had a reputation for being discerning in their choice of who to bond with, more so than many other spren.{{book ref|sa1|60}}
+> We decided to form ten varieties. Ten because my power loved the symmetry. Ten, because Kor loved me, and knew this made me happy. We started with the first seven, then one variety was born of Kor alone. In counterpoint, and at her urging, I created one variety almost entirely on my own. My angels of Honor.
+> — [[Honor]]
 
-As his death approached, Honor passed the responsibility of creating honorspren to the [[Stormfather]]. The great spren made a few of them, including [[Sylphrena]], yet soon the [[Recreance]] arrived and the vast majority of honorspren became [[deadeye]]s. Syl was the only survivor among the Stormfather's children, as she was slumbering at the time. Her fate wasn't known, though, and Stormfather didn't create any new honorspren for centuries. Eventually, he made ten. Those ten created more honorspren, with their children creating more and so on.{{book ref|sa3|108}}
+During the [[Heraldic Epochs]], honorspren were created by [[Honor]] with [[Cultivation]]'s help. At some point, inspired by the [[Herald]]s and their [[Honorblade]]s, the honorspren, along with nine other types of sapient spren, began forming [[Nahel bond]]s with humans, giving rise to the [[Order of Windrunners]]. Back then, they had a reputation for being discerning in their choice of who to bond with, more so than many other spren.
 
-Eventually, the honorspren grew into a large nation once more. Sometime in the recent past, they tried to conquer all of [[Shadesmar]] -- a failed attempt that left them with poor reputation among other sapient spren.{{book ref|sa3|47}} As a result, these days the honorspren keep to themselves, and it's dangerous for them to travel Shadesmar alone.{{book ref|sa3|99}}
+As his death approached, Honor passed the responsibility of creating honorspren to the [[Stormfather]]. The great spren made a few of them, including [[Sylphrena]], yet soon the [[Recreance]] arrived and the vast majority of honorspren became [[deadeye]]s. Syl was the only survivor among the Stormfather's children, as she was slumbering at the time. Her fate wasn't known, though, and Stormfather didn't create any new honorspren for centuries. Eventually, he made ten. Those ten created more honorspren, with their children creating more and so on.
 
-Recently, Sylphrena was rediscovered, and brought back to the other honorspren. When she realized a new Desolation was coming, she escaped, leaving the city she's been staying at to enter the [[Physical Realm]] and find someone to bond with.{{book ref|sa3|95}}{{book ref|sa3|108}} This caused the honorspren to post a huge reward for her return.{{book ref|sa3|102}}
+Eventually, the honorspren grew into a large nation once more. Sometime in the recent past, they tried to conquer all of [[Shadesmar]] -- a failed attempt that left them with poor reputation among other sapient spren. As a result, these days the honorspren keep to themselves, and it's dangerous for them to travel Shadesmar alone.
 
-After the [[True Desolation]] began, however, other honorspren started bonding with humans.{{book ref|sa3|37}} Some honorspren came to believe that because [[singer]]s are the rightful heirs of Roshar, the honorspren should follow the example of the [[highspren]] and side with the [[Fused]] and [[Odium]].{{rpg ref|slwg|172}}
+Recently, Sylphrena was rediscovered, and brought back to the other honorspren. When she realized a new Desolation was coming, she escaped, leaving the city she's been staying at to enter the [[Physical Realm]] and find someone to bond with. This caused the honorspren to post a huge reward for her return.
+
+After the [[True Desolation]] began, however, other honorspren started bonding with humans. Some honorspren came to believe that because [[singer]]s are the rightful heirs of Roshar, the honorspren should follow the example of the [[highspren]] and side with the [[Fused]] and [[Odium]].
 
 ## Notable Honorspren
 * [[Sylphrena]] (bonded to [[Kaladin]])
@@ -86,7 +82,7 @@ After the [[True Desolation]] began, however, other honorspren started bonding w
 * [[Notum]]
 * [[Borea]]
 * [[Rua]] (bonded to [[Lopen]])
-* [[Caelinora]] (bonded to [[Huio]]){{book ref|sa3.5|7}}
+* [[Caelinora]] (bonded to [[Huio]])
 * [[Vienta]] (previously bonded to [[Sigzil]])
 * [[Riah]]
 * [[Sekeir]]
@@ -94,10 +90,9 @@ After the [[True Desolation]] began, however, other honorspren started bonding w
 
 ## Trivia
 * Several honorspren have names derived from wind-related myths and legends -- for example, Sylphrena is named after [[wikipedia:Sylph|sylphs]], wind spirits, while Notum and Borea's names come from [[wikipedia:Notus|Notus]] and [[wikipedia:Boreas|Boreas]], the Greek gods of South and North wind respectively. Vaiu seems similarly named after [[wikipedia:Vayu|Vayu]], a Hindu deity of winds.
-* Brandon developed honorspren from windspren. Originally, there were only four windspren that could bond people, each corresponding to one of the four cardinal directions (for example, Syl was initially called the East Wind). Over time, as the spren developed, honorspren were created and made distinctive from windspren.{{wob ref|5324}}
+* Brandon developed honorspren from windspren. Originally, there were only four windspren that could bond people, each corresponding to one of the four cardinal directions (for example, Syl was initially called the East Wind). Over time, as the spren developed, honorspren were created and made distinctive from windspren.
 
 ## Notes
 <references />
-{{partial}}
-{{Stormlight}}
+
 [[es: Honorspren]]

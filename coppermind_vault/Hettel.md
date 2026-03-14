@@ -1,18 +1,17 @@
 ---
-groups: "{{tag|Luthadel Assembly"
+source_file: Hettel.txt
+entity_type: character
+groups: Luthadel Assembly
+ethnicity: Skaa
+residence: Luthadel
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Well of Ascension]]'
 ---
 
-|ethnicity=Skaa
-|residence=Luthadel
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[The Well of Ascension]]
-}}
-**Hettel** is a forge worker and member of the [[Luthadel Assembly]].{{book ref|mb2|31}}
+**Hettel** is a forge worker and member of the [[Luthadel Assembly]].
 
 He is the first to accept [[Elend Venture]]'s nomination of [[Penrod]] for the chancellor of the Assembly, after Elend is deposed as king.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:36, 11 September 2018 (MST)}}
-{{Mistborn|Era 1}}

@@ -1,0 +1,70 @@
+{{character
+|image=Silence portrait.jpg
+|profession=Bounty Hunter & Innkeeper
+|aliases=White Fox
+|family=[[Forescout]]
+|ancestors=[[Silence's grandmother|Grandmother]], [[Silence's grandfather|Grandfather]]
+|spouse=[[William Montane]]
+|children=[[William Ann Montane]], [[Sebruki]] (adopted)
+|residence=Forests of Hell
+|world=Threnody
+|universe=[[Cosmere]]
+|introduced=[[Shadows for Silence in the Forests of Hell]]
+}}
+{{quote
+|Better to marry a stone than Silence Montane. A stone showed more affection.
+|[[Daggon]] on Silence Montane{{book ref|sfs}}
+}}
+'''Silence Montane,''' or '''Silence Forescout,''' is a woman who owns a [[Silence's waystop|waystop]] in the [[Forests of Hell]] on the planet of [[Threnody]]. She is a bounty hunter, using the bounties from criminals that come to her waystop to keep her silver supply up. Over time, her success creates the legend of the White Fox, a fearless bounty hunter.{{book ref|sfs}}
+
+== Appearance & Personality ==
+{{image|Silence by Elisgardor.jpg|side=left|width=300px}}
+{{for|/Gallery|more images}}
+Silence is a stout woman who walks with a noticeable limp. She is also shorter than her daughter, William Ann, much to her joy. When Silence gets very nervous, her fingers start shaking uncontrollably.{{book ref|sfs}}
+
+Silence commonly wears a scowl, although [[Daggon]] believes that it is simply the way that Silence greets people.{{book ref|sfs}} Daggon and Silence seem to have some sort of connection, as Silence often gives him an extra slice of venison and scowls at him less than she does at others. Silence is a tough woman, who is said to show less affection than a stone.
+
+== Attributes and Abilities ==
+Silence is an extremely experienced and skilled bounty hunter, aware of ways to circumvent the [[Simple Rules]] in killing her targets. She also commonly exploits them, setting traps that light fires to enrage the shades at those whom she would want dead. Silence uses the waystop as a front to host, and then follow and kill, criminals that stop there.{{book ref|sfs}}
+
+== History ==
+===Background===
+Silence was raised primarily by her [[Silence's grandmother|grandmother]], a tough Forescout woman who was very strict and hard on her. After her grandmother's death, Silence trapped her [[shade]] within a shrine dedicated to the [[God Beyond]]. Silence was once married, but her husband, [[William Montane|William]], became a shade, and was rumored to guard the waystop. Silence gave birth to a single daughter, [[William Ann Montane]], who helped her run the waystop. Her recently-adopted daughter [[Sebruki]] often tended to the pigs out back. Silence employed the man [[Dob]] as a stable hand as well.{{book ref|sfs}}
+
+===Hunt for Chesterton Divide===
+Silence kept a book of wanted posters and bounties, containing images of wanted men and women that she could capture for a bounty of silver, to ward off shades. One night, Silence noticed that a group of men in her waystop were [[Chesterton Divide]] and his accomplices, a wanted group of murderers who were worth enough silver to pay for her waystop's supply needs for a year or two. While determining how she would track Chesterton after he left, Theopolis interrupted her and gave her a writ that stated if she did not pay her due taxes within the next few days, Theopolis would come to claim the waystop as the fort's. Silence decided to use [[fenweed]] to drug Chesterton and his men, making them drowsy and groggy. She also drugged their horses' water with [[wetleek]] sap, which loosened the horses' bladders and gave Silence a trail to follow back to Chesterton's camp. Before she left, Silence found Sebruki inside with a crossbow in her lap, having recognized Chesterton as her family's killer. Silence deescalates the situation, but in doing so Sebruki dropped the crossbow and it fired its silver tipped bolt out the window into the Forests. Silence comforted the girl and put her to sleep upstairs with a drought. Silence returned downstairs to find William Ann packing as well. They argued for a moment, before Silence begrudgingly agreed to let William Ann join her on her mission to catch Chesterton. They set out, and they eventually found Chesterton's camp, with one man on watch and the rest sleeping, illuminated by a jar of glow paste. Silence quietly killed the watchman without enraging the shades, but before she could kill the rest, one man woke up and struggled while Silence choked him out. This drew the attention of some nearby shades, but not enough to enrage them. Before Silence could move to kill Chesterton, he woke and tried to escape, but was killed by Silence and William Ann before any shades are enraged.{{book ref|sfs}}
+
+===Journey Back Home===
+{{image|Silence Shuravf.jpg|side=right|width=300px|In the Forests with [[William Ann]]}}
+As Silence and William Ann prepared to trek back to the waystop with Chesterton's body, [[Red Young]] and other fortfolk interrupted them. They took Chesterton's corpse, and thus his bounty, for themselves. Red agreed to give Silence a quarter of the bounty, as she actually killed Chesterton, and he and his men left. Silence and William Ann took an alternate route towards the waystop, hoping to cut Red off before they got too far. Silence rigged a small keg of gunpowder to detonate as their horses walked by, hoping to cause enough chaos from the explosion and enraged shades to take back Chesterton's corpse. The trap worked perfectly, and Silence and William Ann escaped with the body while shades ravaged Red and his men. Silence used her grandmother's knife to fight off a few shades that drew near, and as a result, Silence's arm became badly withered. Luckily, William Ann came to her aid and used some silver powder to restore her arm. The pair made their way all the way back to Old Bridge, a sign that they were close to the waystop. As Silence rested for a moment, Red appeared, face half withered, and grabbed William Ann, holding a knife to her throat. Because of the incredible threat that drawing blood posed, Silence complied with Red's demands, until a padded crossbow bolt struck Red from the dark. As Red dropped, his knife slipped and nicked William Ann's throat, instantly enraging the shades. William Ann was pushed through a shade as she fell, badly withering much of her body. In the chaos, Silence decided to leave Chesterton's corpse and try to escape with William Ann. The shades grew too numerous, however, forcing Silence to use her last bit of silver powder to make a protective circle around her and William Ann. Before the shades could break through, however, Silence noticed the silver-tipped bolt lying nearby, having been shot from the crossbow hours earlier. Silence hoisted William Ann up, grabbed the crossbow bolt, and used it to push through the shades towards home.{{book ref|sfs}}
+
+===Aftermath===
+Silence managed to fight her way back to the way stop, though she and William Ann were withered almost to death. Silence struggled to focus but was able to use some emergency silver to restore herself and William Ann, though Ann's body would permanently look greyed. Silence took her upstairs to rest before sitting alone in the back room for the rest of the night. The morning arrived, and Silence rose to start tending to her waystop duties, until Theopolis entered. He started with his usual belittling jibes, but this time, Silence countered, realizing that Theopolis must have been the one to tell Red about Chesterton and Silence's plan, as well as the one that shot the crossbow that hit Red. This progressed until Theopolis slapped Silence, drawing a small drop of blood. Theopolis waved this off, as there would typically be no risk of breaking the Simple Rules in a safe zone, but he was proven wrong, as Silence opened the door to the shrine to the God Beyond, which contained her grandmother's now-enraged shade. The shade quickly consumed Theopolis, but, as it always had, left Silence alone. Silence locked her grandmother's shade back in the shrine and placed Theopolis' body in a freezer. Later, Silence managed to find Theopolis' hidden lair, which contained some protective silver, as well as Chesterton's corpse, which she places with Theopolis', until she could find someone else to turn in the bounty to.{{book ref|sfs}}
+
+== The White Fox ==
+
+{{quote
+|The one you have to watch for is the White Fox. They say he shook hands with the [[Evil]] itself, that he visited the [[Fallen World]] and came back with strange powers. He can kindle fire on even the deepest of nights, and no shade will dare come for his soul. Yes, the White Fox. Meanest bastard in these parts for sure. Pray he doesn’t set his eyes on you, friend. If he does, you’re dead.
+|Daggon on the White Fox{{book ref|sfs}}
+}}
+
+The '''White Fox''' is a legendary bounty hunter and the secret identity of Silence Montane.{{book ref|sfs}}
+
+Silence, as the White Fox, has been active for around ten years and has turned in hundreds of bounties to the forts, all without revealing her identity to the general populace by killing everyone to have seen her face.{{book ref|sfs}} He is said to not be interested in small time bounties, always bringing in more difficult and valuable targets.{{book ref|sfs}}
+
+Being such a prolific bounty hunter, rumors about the White Fox's exploits have grown up and he is a favorite topic of storytellers. He is rumored to have strange powers, to have visited the [[Evil]], and to be able to break the [[Simple Rules]] because he does not fear shades. Silence uses the stories about the White Fox to deflect suspicion from herself, as many wouldn't expect a middle-aged waystop owner to be a feared and extremely dangerous bounty hunter.{{book ref|sfs}}
+
+The White Fox is rumored to have captured [[Makepeace Hapshire]].{{book ref|sfs}}
+
+Silence ultimately decides to pin the White Fox's identity on [[Theopolis]] after his death so that she can claim the bounty for Chesterton Divide and explain Theopolis' death without directing suspicion towards herself.{{book ref|sfs}}
+
+== Trivia ==
+* At the midnight release/book signing for [[Shadows of Self]], a scavenger hunt-style "Wanted" poster labeled Silence as a member of the 17th shard. This was not in any way a canonical event, merely a way of getting the [[17thshard.com]] booth involved in the festivities.
+
+== Notes ==
+<references>
+</references>
+{{partial}}
+{{Shadows for Silence}}
+[[category: viewpoint characters]]
+[[es:Silencio Montane]]

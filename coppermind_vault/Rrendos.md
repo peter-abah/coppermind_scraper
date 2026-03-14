@@ -1,3 +1,8 @@
+---
+source_file: Rrendos.txt
+entity_type: article
+---
+
 #REDIRECT [[Nalthis]]
 [[Category: Locations]]
 [[Category: Warbreaker]]

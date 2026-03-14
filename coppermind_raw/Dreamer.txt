@@ -1,0 +1,68 @@
+{{book
+|cover=Cover_Dreamer.jpg
+|setting = ''Standalone''
+|released = April 1, 2014
+|publisher = Ace Books
+|ISBN = 978-0425256879
+|word-count = 4,323
+}}{{for|Dreamer (character)|the viewpoint character of this story|pre=This page is about the short horror story}}
+'''''Dreamer''''' is a non-cosmere short horror story by [[Brandon Sanderson]] that first appeared in the ''[http://tonikelner.wordpress.com/2013/07/28/games-creatures-play/ Games Creatures Play]'' anthology, edited by [[Wikipedia: Charlaine Harris|Charlaine Harris]] and [[Wikipedia: Toni Kelner|Toni Kelner]]. It is set on Earth and told from the first person perspective of [[Dreamer (character)|the eponymous character]], who is part of a group of dead gamers, [[Poltergeist|poltergeists]] that must possess the bodies of living people. They use their abilities to play extreme, real-life versions of games like "capture the flag" and "cops and robbers," showing little regard for collateral damage among the living.
+
+== Synopsis ==
+{{quote|In ''New York Times'' #1 bestselling author Brandon Sanderson's "Dreamer," a game of cops and robbers is a new challenge when the players are able to switch bodies at will.|''Games Creatures Play'' inside flap}}
+
+== Summary ==
+
+Dreamer is engaged in a game of cops and robbers in Manhattan with his fellow gamer poltergeists. In the game, Dreamer and his team of four other players are trying to protect [[Longshot]] from being captured by [[Phi]], who is playing as the criminal. Each player is allowed to possess only a limited number of bodies and to use whatever means necessary, including deadly force, to win.
+
+During the game, Dreamer is pursuing Phi, who manages to kill the person Dreamer had possessed, using a body with a gun. In the ensuing panic among the living, Dreamer possesses the body of an old woman, alerts his teammates, and then [[Bolting|Bolts]] into the body of [[Lorenzo|a responding police officer]]. Dreamer finds Phi again and fires his gun indiscriminately into the crowd of onlookers in an attempt to kill him. As the crowd scatters in horror, [[Marks (Dreamer)|another police officer]] shoots and kills the body Phi was possessing. Phi then promptly possesses the body of the second police officer and runs after Longshot.
+
+Dreamer pursues Phi to the top of a building and tackles him off before he can reach Longshot. Both police officers die in the fall, leaving Dreamer with no bodies left to use. In poltergeist form, he holds Phi back from possessing his final body long enough for [[Rabies]] to take it into custody, causing Phi to lose the game. Phi complains that Dreamer cheated by firing into the crowd and Longshot says that they should ban guns. The group decides to meet up in New Jersey to get away from the carnage they caused in Manhattan. Dreamer agrees to a footrace with Phi as their rivalry continues.{{book ref|dreamer}}
+
+== Main Characters ==
+;[[Dreamer (character)|Dreamer]]* :Part of a group of poltergeists that play games by possessing the living. He is determined to catch and beat his older brother Phi as the "detective" in a game of cops and robbers since Phi always seems to get the best of him.
+;[[Phi]] :Dreamer's older brother. Even before they died and became poltergeists, Phi was competitive, disliked losing, and could always slip away from difficult situations. He brags to the gaming group of poltergeists that he could take them all on himself, leading them to play a 1-on-5 game of cops and robbers.
+;[[Longshot]] :The member of Dreamer's team that Phi was hunting. She acted as a relay point for messages and coordination between the team members.
+;[[Icer]] :Sets up on top of a building to track Phi and later is killed before she can stop him going after Longshot.
+;[[Rabies]] :"Killed" early on in the game but manages to capture Phi in his last body after being held back by Dreamer. 
+;[[TheGannon]] :Assigned to guard Longshot, but has an argument with her in the middle of the game and leaves.
+
+== Setting ==
+The standalone setting for ''Dreamer'' is Manhattan, on Earth in the early 21st century. There are no apparent differences from the real Earth except for the existence of poltergeists.
+
+== Development ==
+When Charlaine Harris approached Brandon about writing a short story for ''Games Creatures Play'', he immediately wanted to be a part of the project after hearing the concept. He had never written a horror story before, so he thought of the scariest thing he could imagine, which was the kids who play Xbox having control over real peoples' lives. This concept became the seed for ''Dreamer'', which Brandon considers different from any of his other writing.{{url ref|url=https://brandonsanderson.com/games-creatures-play-is-out-this-week/|text=Games Creatures Play is Out This Week|site=Brandon Sanderson Blog|date=2014-4-3}}{{wob ref|3138}} He has mentioned that he likes detective stories, which is why ''Dreamer'' has its roots in the genre, along with ''[[Snapshot]]'' and [[Legion (series)|Legion]].{{book ref|snapshot|part=Postscript}}
+
+== Publication History ==
+;''Games Creatures Play'':April 1, 2014 - Ace Books (Hardback & US Paperback)
+:April 3, 2014 - Jo Fletcher Books (UK Paperback){{url ref|url=https://www.quercusbooks.co.uk/books/detail.page?isbn=9781780872605|text=Charlaine Harris - Games Creatures Play - Quercus|site=Quercus Books}}
+:2014 - Brilliance Audio (Audiobook read by Kate Rudd and Todd Haberkorn){{url ref|url=https://www.brillianceaudio.com/product?i=6622|text=Games Creatures Play: Charlaine Harris|site=Brilliance Audio}}
+;''The Year's Best Dark Fantasy & Horror 2015'':June 23, 2015 - Prime Books{{ref|name=yearsbest}}
+;First Electronic Edition (distributed in the Brandon Sanderson Humble Book Bundle):April 2017 - Dragonsteel Entertainment{{url ref|url=https://brandonsanderson.com/the-brandon-sanderson-humble-book-bundle/|text=The Brandon Sanderson Humble Book Bundle|site=Brandon Sanderson Blog|date=2017-4-14}}
+;Con-Exclusive Hardcover Edition (bundled with ''[[Snapshot]]''):2017 - Dragonsteel Entertainment{{url ref|url=http://store.brandonsanderson.com/snapshot-dreamer-hardcover/|text=Snapshot/Dreamer Hardcover|site=Brandon Sanderson Store}}
+
+== Cover Gallery ==
+{{for|/Covers|a cover gallery of Dreamer}}
+
+== Trivia ==
+* As of December 2017, ''Dreamer'' had no options out for film or TV adaptations.{{wob ref|8873}}
+* Brandon has said that he occasionally thinks about going back to the setting of ''Dreamer'', but that he hasn't found the right thing to do with it because it's so different from the rest of his writing.{{wob ref|8761}}
+* In August of 2013, Brandon released [[bws:short-fiction-non-cosmere/#DREAMER|an excerpt of ''Dreamer'']] on his website.
+
+== Notes ==
+<references>
+
+{{url ref
+|name=yearsbest
+|url=http://paulaguran.com/toc-for-years-best-dark-fantasy-horror-finally/
+|text=ToC for Year's Best Dark Horror and Fantasy
+|site=Paula Guran's blog
+|date=2015-03-18
+}}
+
+</references>
+{{meta/done}}
+{{Dreamer}}
+{{books}}
+[[category: Dreamer]]
+[[category: list articles]]

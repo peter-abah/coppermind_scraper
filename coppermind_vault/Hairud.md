@@ -1,14 +1,15 @@
 ---
-'residence: "Stenford"
-earth: "Frugal Wizard"
-introduced: "The Frugal Wizard's Handbook for Surviving Medieval England"
+source_file: Hairud.txt
+entity_type: character
+'''residence': '[[Stenford]]'
+earth: Frugal Wizard
+introduced: '[[The Frugal Wizard''s Handbook for Surviving Medieval England]]'
 ---
 
-{{quote|Fetch Hairud. I'll speak to her, then Oswald's mother, and tell them both of his heroism - and his passing.|[[Rowena]] to a guard{{book ref|fwh|8}}}}
+> Fetch Hairud. I'll speak to her, then Oswald's mother, and tell them both of his heroism - and his passing.
+> — [[Rowena]] to a guard
 
-**Hairud** is a resident of [[Stenford]]. After [[Oswald]] was killed by [[Ulric Stromfin]], [[Rowena]] sent a guard to fetch Hairud. Rowena wanted to speak with both her and Oswald's mother about Oswald's heroism.{{book ref|frugal|8}}
+**Hairud** is a resident of [[Stenford]]. After [[Oswald]] was killed by [[Ulric Stromfin]], [[Rowena]] sent a guard to fetch Hairud. Rowena wanted to speak with both her and Oswald's mother about Oswald's heroism.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 17:32, 13 February 2024 (UTC)}}
-{{Frugal Wizard}}

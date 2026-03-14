@@ -1,14 +1,15 @@
-{{settlement
-|region=Sea of Lost Lights
-|world=Shadesmar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Caretaker of Laughter** is some sort of settlement in the [[Sea of Lost Lights]] in [[Shadesmar]].{{map ref|Sea of Lost Lights}} It is near the [[Luminous Shallows]].
+---
+source_file: Caretaker of Laughter.txt
+entity_type: settlement
+region: Sea of Lost Lights
+world: Shadesmar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-[[Nazh]] remarks that it should be avoided at all costs.{{map ref|Sea of Lost Lights}}
+**Caretaker of Laughter** is some sort of settlement in the [[Sea of Lost Lights]] in [[Shadesmar]]. It is near the [[Luminous Shallows]].
+
+[[Nazh]] remarks that it should be avoided at all costs.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 21:35, 3 July 2018 (MST)}}
-{{Stormlight}}

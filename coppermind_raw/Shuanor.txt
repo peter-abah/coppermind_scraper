@@ -1,0 +1,15 @@
+{{character
+|#profession=Soldier
+|residence=Urithiru
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Rhythm of War]]
+}}
+'''Shuanor''' is a military officer in the [[coalition of monarchs]] on [[Roshar]]. 
+
+Shuanor's soldiers were stationed on the upper floors of [[Urithiru]] when [[Raboniel]] compromised the tower's defenses and the [[singer]] forces invaded. He was one of the few officers present in the command center when Queen [[Navani]] and Battalionlord [[Teofil]] were deciding on the best course of action. After Navani decided to focus on an incursion into the crystal pillar room, Teofil directed Shuanor and [[Gavri]] to withdraw their troops to safer locations while [[Radathavian]] led a harrying force to cover their retreat.{{book ref|sa4|40}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 18:05, 22 January 2021 (UTC)}}
+{{stormlight}}

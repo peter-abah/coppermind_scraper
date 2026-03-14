@@ -1,29 +1,31 @@
-{{magic system
-|image=Incarnate Wheel.png
-|related=[[Silimatic]]
-|prereq=Belonging to [[House Smedry]]
-|world=Earth (Alcatraz)
-|books=[[Alcatraz Versus the Evil Librarians (series)]]
-}}
-A **Smedry Talent** is a form of magic where the user changes the world in strange ways. The only people known to possess such Talents are members of [[House Smedry]] and their spouses.{{book ref|a1|2}} The Talents are notoriously hard to control and are known to 'get away' from their users, often to dramatic and hilarious effect.
+---
+source_file: Smedry Talent.txt
+entity_type: magic system
+image: Incarnate Wheel.png
+related: '[[Silimatic]]'
+prereq: Belonging to [[House Smedry]]
+world: Earth (Alcatraz)
+books: '[[Alcatraz Versus the Evil Librarians (series)]]'
+---
+
+A **Smedry Talent** is a form of magic where the user changes the world in strange ways. The only people known to possess such Talents are members of [[House Smedry]] and their spouses. The Talents are notoriously hard to control and are known to 'get away' from their users, often to dramatic and hilarious effect.
 
 ## Talents
-* [[Allekatrase]] and [[Alcatraz Smedry|Alcatraz]] can break things{{book ref|a2|14}}{{book ref|a1|3}}. This is known as the **Dark Talent** as it is very dangerous and hard to control{{book ref|a2|14}}.
-* [[Leavenworth Smedry|Grandpa Smedry]], Alcatraz's grandfather, has the power to arrive late to appointments. As such, he is always running behind the clock. But his power also allows him to arrive late to other things, like bullets, which always miss him,{{book ref|a1|4}} and his blood can arrive late to wounds so that he doesn't bleed to death.{{book ref|a1|16}} In his own words "I've been arriving late to my own death for years now." However, as seen in [[The Shattered Lens]], he only needs to think that he will be late. Alcatraz tells him that he needs to be at [[Tuki Tuki]] by midnight or the war will be lost. Leavenworth Smedry, interpreting that as a deadline to arrive late to, speeds up tremendously in order to arrive at the battle by 12:30.{{book ref|shattered lens|???}}
-* [[Sing Sing Smedry|Sing]] can trip and fall to the ground.{{book ref|a1|4}} His tripping is often an early-warning sign of danger and can also be used to create diversions.{{book ref|a1|7}}
-* [[Australia Smedry|Australia]] can wake up looking incredibly ugly.{{book ref|a2|2}} In practical terms this means that she wakes up as a doppelganger of whomever she goes to sleep thinking about.{{book ref|a2|8}}
-* [[Quentin Smedry|Quentin]] can speak gibberish or nonsensical phrases. His Talent was beneficial after being captured by the Librarians, as they could not understand him and thus could not gain important information from him, even through torture.{{book ref|a1|16}} His gibberish can also be used to predict future events if interpreted properly.{{book ref|a1|18}}
-* [[Kazan Smedry|Kaz]] can get lost very easily.{{book ref|a2|2}} He is able to teleport incredible distances instantaneously while he is lost.{{book ref|a2|6}}
-* [[Attica Smedry|Attica]] and [[Shasta Smedry|Shasta]] can lose things.{{book ref|a1|10}}{{book ref|a2|12}} One use of this talent is that they can put an object in a pocket, have it disappear, and then have it reappear in an entirely different set of clothes.
-* [[Pattywagon Smedry|Pattywagon]] can say inappropriate things at awkward moments.{{book ref|a3|4}}
-* [[Folsom Smedry|Folsom]] and [[Himalaya Smedry|Himalaya]] can dance really poorly. The dancing most often appears to take the form of violent fighting.{{book ref|a3|16}}
-* [[Aydee Ecks Smedry|Aydee]] is really bad at math. The catch is that the universe warps to fit her bad math. If she thinks there's four of something and there's really only three, then another one will appear. This is a space talent, not a matter talent; she moves the "new" objects from somewhere else in the world to where she currently is.{{book ref|a4|Four Teens and a Pickle}}
+* [[Allekatrase]] and [[Alcatraz Smedry|Alcatraz]] can break things. This is known as the **Dark Talent** as it is very dangerous and hard to control.
+* [[Leavenworth Smedry|Grandpa Smedry]], Alcatraz's grandfather, has the power to arrive late to appointments. As such, he is always running behind the clock. But his power also allows him to arrive late to other things, like bullets, which always miss him, and his blood can arrive late to wounds so that he doesn't bleed to death. In his own words "I've been arriving late to my own death for years now." However, as seen in [[The Shattered Lens]], he only needs to think that he will be late. Alcatraz tells him that he needs to be at [[Tuki Tuki]] by midnight or the war will be lost. Leavenworth Smedry, interpreting that as a deadline to arrive late to, speeds up tremendously in order to arrive at the battle by 12:30.
+* [[Sing Sing Smedry|Sing]] can trip and fall to the ground. His tripping is often an early-warning sign of danger and can also be used to create diversions.
+* [[Australia Smedry|Australia]] can wake up looking incredibly ugly. In practical terms this means that she wakes up as a doppelganger of whomever she goes to sleep thinking about.
+* [[Quentin Smedry|Quentin]] can speak gibberish or nonsensical phrases. His Talent was beneficial after being captured by the Librarians, as they could not understand him and thus could not gain important information from him, even through torture. His gibberish can also be used to predict future events if interpreted properly.
+* [[Kazan Smedry|Kaz]] can get lost very easily. He is able to teleport incredible distances instantaneously while he is lost.
+* [[Attica Smedry|Attica]] and [[Shasta Smedry|Shasta]] can lose things. One use of this talent is that they can put an object in a pocket, have it disappear, and then have it reappear in an entirely different set of clothes.
+* [[Pattywagon Smedry|Pattywagon]] can say inappropriate things at awkward moments.
+* [[Folsom Smedry|Folsom]] and [[Himalaya Smedry|Himalaya]] can dance really poorly. The dancing most often appears to take the form of violent fighting.
+* [[Aydee Ecks Smedry|Aydee]] is really bad at math. The catch is that the universe warps to fit her bad math. If she thinks there's four of something and there's really only three, then another one will appear. This is a space talent, not a matter talent; she moves the "new" objects from somewhere else in the world to where she currently is.
 * [[Alcatraz Smedry VII|Alcatraz VII]] can make annoying noises at inappropriate times. This causes distraction, allowing him to win many [[Oculator]] duels.
 * [[Libby Smedry|Libby]] can spill copious amounts of water on the floor when she is washing the dishes. She allegedly "single-handedly ended  the drought of Kabreeze during the fourth-third century- and she did it while keeping all their dishware sparkling clean."
 
 ## The Incarnate Wheel
-{{image|Futhark Wheel.png|side=right|width=200px|<center>The depiction of the Incarnate Wheel in [[Allekatrase]]'s tomb</center>}}
-{{image|Allekatrase Wheel.png|side=right|width=200px|<center>The translation of the Incarnate Wheel in [[Allekatrase]]'s tomb</center>}}
+
 The Incarnate wheel is a way of breaking the talents up into groups. Our first introduction to it is when Kaz explains it to Alcatraz in the second book. It's basically a circle divided into four quadrants for the different talents--Time, Space, Physical-World, and Knowledge. 
 
 A time talent is something like Grandpa Smedry's ability to arrive late to things. A space talent is like Kaz's ability to "get lost" and then get found again somewhere else (teleportation). A physical-world talent is like Australia's ability to change her appearance. A knowledge talent is like Sing's ability to trip when there's going to be danger. 
@@ -38,19 +40,18 @@ Alcatraz speculates that each talent is an offshoot of the Dark Talent.
 
 ## Lenses
 Parallels have been made between [[Silimatic]] [[Glass]], [[Lens]]es, and the different Talents the Smedry family has. For example:
-* [[Aydee Ecks Smedry|Aydee]]'s talents are similar to [[Transporter's Glass]]{{book ref|a4|Four Teens and a Pickle}}
-* [[Australia Smedry|Australia]]'s talent has a similar function to [[Disguiser's Lenses]]{{book ref|a4|Four Teens and a Pickle}}
-* [[Alcatraz]]'s talent is similar to the [[Shatterer's Lenses]]{{book ref|a4|Four Teens and a Pickle}}
-* [[Kaz]]'s talent has a function similar to the [[Traveler's Lenses]]{{book ref|a4|Four Teens and a Pickle}}
-* [[Leavenworth Smedry]]'s talent does something similar to the [[Educator's Lenses]]{{book ref|a4|Four Teens and a Pickle}}
+* [[Aydee Ecks Smedry|Aydee]]'s talents are similar to [[Transporter's Glass]]
+* [[Australia Smedry|Australia]]'s talent has a similar function to [[Disguiser's Lenses]]
+* [[Alcatraz]]'s talent is similar to the [[Shatterer's Lenses]]
+* [[Kaz]]'s talent has a function similar to the [[Traveler's Lenses]]
+* [[Leavenworth Smedry]]'s talent does something similar to the [[Educator's Lenses]]
 * [[Quentin Smedry]]'s talent is similar to the [[Oracle's Lenses]], as they are both confusing, but each tells the future
 *[[Folsom]] and [[Himalaya]]'s talents may be connected with the [[Warrior's Lenses]]
 
-The [[Incarna]] created the [[Smedry]] line as a power source for their glass and culture. The Smedrys can charge any kind of glass with this power inside them. How Talents are similar to Lenses is not a coincidence, and might be a way to funnel off a Smedry's energy. Once the Talents left, the Smedry Power had nowhere to go, eventually building up to the point where every piece of glass touched by a Smedry was over-energized. How the Incarna people gave out Smedry Talents is still unknown, but likely involves the [[Worldspire]].{{book ref|dark talent|18}}
+The [[Incarna]] created the [[Smedry]] line as a power source for their glass and culture. The Smedrys can charge any kind of glass with this power inside them. How Talents are similar to Lenses is not a coincidence, and might be a way to funnel off a Smedry's energy. Once the Talents left, the Smedry Power had nowhere to go, eventually building up to the point where every piece of glass touched by a Smedry was over-energized. How the Incarna people gave out Smedry Talents is still unknown, but likely involves the [[Worldspire]].
 
 ## Notes
 <references />
-{{partial}}
-{{Alcatraz}}
+
 [[category: magic]]
 [[category: Silimatics]]

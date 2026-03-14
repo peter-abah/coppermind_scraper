@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Deo.txt
+entity_type: disambig
+---
 
 The word **Deo** is related to several different things in [[Arelon]]
 * For the Aon, see [[Aon#Dio]].

@@ -1,0 +1,101 @@
+{{character
+|image=Honor Endsheet.jpeg
+|died=Splintering of Honor,{{wob ref|9810}} killed by Odium{{book ref|sa1|75}}
+|abilities={{tag+|shard|Honor}} <small>(formerly)</small>, [[Sliver]]
+|titles=[[Honor]], The Almighty, God 
+|aliases= Elithanathile,{{book ref|sa1|7}} Tavast,{{file ref|Alethi Glyphs Page 2.jpg}} Tanner <small>(by Rayse)</small>{{book ref|sa5|104}}
+|world=Yolen
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+{{update|sa4|sa5}}
+{{quote
+|Tanavast was a fine enough fellow - bought me drinks once - but he was '''not''' God.
+|[[Hoid]] on Tanavast{{book ref|sa2|epilogue}}
+}}
+'''Tanavast''' was the original Vessel of the [[Shard]] [[Honor]].{{book ref|sa5|100}}{{wob ref|4229}} Before his Ascension, he was a [[Yolen|Yolish]] tanner.{{book ref|sa5|104}}
+
+== Appearance and Personality ==
+{{image|Honor_by_Kyle_Pearson.jpg|side=left|width=150px}}
+{{for|/Gallery|more images}}
+{{quote
+|He loved humankind. He died defending you.
+|The Stormfather on Tanavast{{book ref|sa3|111}}
+}}
+=== Appearance ===
+Nothing is known of how Tanavast really looked back when he was still a mortal, and he is known to have amplified and changed some of his features when he became a shard. After ascending, Tanavast appeared to humans as a stately man with rich umber skin, white hair that fell past his shoulders, and a tall, muscular build. A golden cropped coat and billowing trousers added to his grandeur.{{rpg ref|slwg|86}}
+
+=== Personality ===
+==== Mortal ====
+Little is known about Tanavast as a person, before he became a Vessel, but the people who met him have an excellent opinion of him. He seems to be the only original Vessel with whom [[Hoid]] has a good relationship, and is, aside from [[Ati]], the only one Hoid ever praises, calling him a decent person.{{book ref|sa2|epilogue}} 
+
+Tanavast was fond of dogs, and this love would continue even after his Ascension.{{book ref|sa5|49}} 
+
+He was not prejudiced against [[Dragon (cosmere)|dragons]], taking [[Koravellium Avast]], a dragon, as his lover following his Ascension.{{wob ref|2786}}{{wob ref|14564}}{{book ref|sa4|114}}{{book ref|sa4|80}}
+
+He believed that Adonalsium needed to be Shattered for its own good, this belief was strong enough he would eventually join in the conspiracy to Shatter it.{{book ref|sa5|100}} In time, Tanavast came to see his, and the other Vessel's, decision to Shatter Adonalsium as a terrible one.{{book ref|sa5|122}} His personality was not well aligned with the Shard of Honor, which he would come to take up.{{book ref|sa5|113}} 
+
+==== Vessel ====
+After becoming a Vessel, his personality was strongly in opposition to the Intent of his Shard, though, over time, his personality was warped to come more in alignment with the Intent of Honor, he became more fixated upon honor, oaths, and allegiance. Though it also led him to care less about the meaning of the oaths, but rather simply upon the oath itself.{{book ref|sa3|111}}{{book ref|sa5|113}} However, he would continue to fight against it even as it warped him, and this would eventually lead to the Shard abandoning him.{{cite}}
+
+He appears to have loved mankind from the start, convincing the [[Dawnsingers]] to give mankind a home after they fled from Ashyn following its destruction.{{cite}} For unknown reasons, he even turned against the Singers, becoming the god of humanity and abandoning his former followers.{{book ref|sa4|10}}{{book ref|sa4|11}} The [[Stormfather]] insists that Tanavast did love mankind, even dying to defend them.{{book ref|sa3|111}} Tanavast himself seems to have been highly dedicated to his role as a deity and protective of humanity, even apologizing in visions for getting himself killed.{{book ref|sa1|75}}
+
+Whenever mankind discovered the truth of the Desolations, he would comfort them and convince them that their fight was still justified. Arguing that it doesn't matter what their ancestors did, only that they were defending themselves against a present enemy.{{book ref|sa3|113}} 
+
+Late in his life, as his death grew near, he began to go insane, raving about how humanity was like unto Dawnshards and telling them that they would destroy Roshar like they destroyed Ashyn before.{{book ref|sa3|113}}{{book ref|sa5|87}} He also came to care more about oaths themselves, rather than the meaning behind it.{{book ref|sa3|111}} This insanity directly led to the [[Recreance]].{{cite}} Yet, despite his madness, he died defending humanity.{{book ref|sa3|111}}
+{{sidequote
+| 1={{small caps|I, God, found a world unmanaged.}}
+| 2=[[Honor]]{{book ref|sa5|100}}
+|side=right|size=200px
+}}
+
+He came to love the mathematics and equations intrinsic in nature, finding Honor in them.{{book ref|sa5|100}}{{book ref|sa5|104}} Much like nature, he believed that oaths were also expressible as equations.{{book ref|sa5|104}}
+
+After Ascension, he quickly came to view himself as God, beginning to do so shortly after the Shattering. and he tried to supplant himself as the god of the Singers upon arriving at Roshar, and over time, this belief in his Godhood became increasingly engrained in his psyche.{{book ref|sa5|100}}{{book ref|sa5|113}} Despite this, he knew deep within himself he was ultimately the same person as he had always been.{{book ref|sa5|113}}{{book ref|sa5|122}}
+
+He is shown to believe in a singular universal Truth to the [[cosmere]]. What this Truth is, and whether it actually exists or is merely part of a philosophical structure, is currently unknown.{{book ref|sa5|77}}
+
+== Attributes and Abilities ==
+As a Vessel, Tanavast originally held as much power as his peers.{{wob ref|1081}} At some point, however, he was weakened enough that, even with [[Cultivation]]'s assistance, [[Odium]] was able to kill him.{{wob ref|2729}} Like other [[Vessel]]s, he had Shardic future sight, though it was not as strong as that of Cultivation.{{book ref|sa1|75}}
+
+{{image|Tanavast by Diego López.jpg|side=right|width=200px}}
+
+== History ==
+=== Before the Shattering ===
+Tanavast was born and spent his early life on Yolen over ten-thousand years before the [[Night of Sorrows]].{{book ref|sa5|100}}{{wob ref|7939}}{{wob ref|4736}} He was a regular mortal before he Ascended.{{wob ref|14172}}
+
+On Yolen, he lived his life as a tanner, and at some point made a belt for [[Rayse]].{{book ref|sa5|104}} As a mortal, he also developed a fondness for dogs.{{book ref|sa5|49}} He and Rayse would come to become rivals in their mortal lives.{{book ref|sa5|104}}
+
+At some point in the past, likely prior to the [[Shattering]], Tanavast met [[Hoid]], and left a good impression on him.{{book ref|sa2|epilogue}} Prior to the Shattering, he came to believe that Adonalsium needed to be Shattered for its own good. This belief was strong enough that he would eventually join in a conspiracy to kill the entity.{{book ref|sa5|100}}
+
+=== The Shattering ===
+Tanavast was one of the seventeen people who shattered [[Adonalsium]], after which he Ascended as the Shard of Honor.{{msh ref|3|2}}{{wob ref|4229}} After the Shattering, Tanavast and his lover, Koravellium Avast,{{wob ref|2786}} moved to [[Roshar]],{{wob ref|1169}} and both Shards Invested equally in the planet.{{wob ref|12038}}
+
+{{for|Honor#History|subsequent events}}
+
+== Relationships ==
+=== The Vessels ===
+==== Aona ====
+Aona always treated Tanavast with great kindness, thus he felt an attachment to her and was deeply hurt by her death.{{book ref|sa5|113}}
+
+==== Koravellium Avast ====
+He claims to have loved Koravellium Avast even as a mortal, and lamented that they could never truly be together.{{book ref|sa5|100}}{{expand}}
+
+==== Rayse ====
+Tanavast and Rayse were rivals in their mortal life, this rivalry would continue after their Ascension. Their opinions for each other were such that Tanavast despised Rayse.{{book ref|sa5|104}}{{expand}}
+
+=== The Wind ===
+The [[Wind]] deeply resonated with his soul and sung to him, leading him to feel a deep connection to it, though he didn't understand why.{{book ref|sa5|100}}
+
+== Notes ==
+<div data-nosnippet>{{holder
+|title= Vessel of<br />[[Honor]]
+|prev=''None''
+|this=
+|next=[[Dalinar Kholin]]}}</div>
+<references />
+{{partial}}
+{{Stormlight}}
+{{Cosmere}}
+[[es:Tanavast]]
+[[category: viewpoint characters]]

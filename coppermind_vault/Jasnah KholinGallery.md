@@ -1,3 +1,8 @@
+---
+source_file: Jasnah KholinGallery.txt
+entity_type: article
+---
+
 ## Official Art
 <gallery mode="packed" heights=200px>
 Oathbringer full cover art.jpg | <center><small>by {{a|Michael Whelan}}</small></center>On *[[Oathbringer]]* cover

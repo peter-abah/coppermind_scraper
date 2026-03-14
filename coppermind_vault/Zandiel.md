@@ -1,13 +1,13 @@
 ---
-species: "Singer"
-world: "Roshar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Zandiel.txt
+entity_type: character
+species: Singer
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-**Zandiel** is a [[singer]] on [[Roshar]]. In {{Rosharan date|1175}}, [[Leshwi]] had Zandiel provide sketches of the *[[Fourth Bridge]]* to the [[Fused#Culture|Nine]].{{book ref|sa4|14}}
+**Zandiel** is a [[singer]] on [[Roshar]]. In , [[Leshwi]] had Zandiel provide sketches of the *[[Fourth Bridge]]* to the [[Fused#Culture|Nine]].
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 02:14, 2 November 2021 (UTC)}}
-{{stormlight}}

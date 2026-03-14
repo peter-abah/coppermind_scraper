@@ -1,20 +1,19 @@
 ---
-type: "Rock"
-world: "Roshar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Slickrock.txt
+entity_type: item
+type: Rock
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-{{for|Battle of Slickrock|the battle}}
-**Slickrock** is a type of rock on [[Roshar]].{{book ref|sa1|1}}
+**Slickrock** is a type of rock on [[Roshar]].
 
 ==Characteristics==
-It is exceptionally smooth, flat, and even, with only a few [[rockbud]]s typically able to grow on its surface. Large fields of nearly unbroken slickrock can be found in [[Alethkar]]{{book ref|sa1|1}} and possibly in [[Jah Keved]].{{book ref|sa3|100}}
+It is exceptionally smooth, flat, and even, with only a few [[rockbud]]s typically able to grow on its surface. Large fields of nearly unbroken slickrock can be found in [[Alethkar]] and possibly in [[Jah Keved]].
 
 ==History==
-Because slickrock fields provide a large amount of open space with an easily traversable surface, they have served as the setting of several large battles. [[Dalinar]] and [[Nalanar]] once fought a tightly contested strategic battle referred to as "[[Battle of Slickrock|Slickrock]]", likely near the Veden-Alethi border.{{book ref|sa3|100}} In [[Kaladin]]'s final battle with [[Amaram]]'s army, the battlefield was described as a large, flat expanse of slickrock.{{book ref|sa1|1}}
+Because slickrock fields provide a large amount of open space with an easily traversable surface, they have served as the setting of several large battles. [[Dalinar]] and [[Nalanar]] once fought a tightly contested strategic battle referred to as "[[Battle of Slickrock|Slickrock]]", likely near the Veden-Alethi border. In [[Kaladin]]'s final battle with [[Amaram]]'s army, the battlefield was described as a large, flat expanse of slickrock.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 19:06, 31 August 2020 (UTC)}}
-{{Stormlight}}

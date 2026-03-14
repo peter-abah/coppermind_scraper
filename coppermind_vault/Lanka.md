@@ -1,16 +1,18 @@
-{{lifeform
-|type=Animal
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
+---
+source_file: Lanka.txt
+entity_type: lifeform
+type: Animal
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
 The **lanka** is a species of crustacean on [[Roshar]].
 
-The claws are edible. Lanka claws cooked in a savory broth were included in the men's meal during the feast when [[Dalinar]] first met [[Evi]]. Dalinar crushed the shells with his mug to get at the meat inside.{{book ref|sa3|19}}
+The claws are edible. Lanka claws cooked in a savory broth were included in the men's meal during the feast when [[Dalinar]] first met [[Evi]]. Dalinar crushed the shells with his mug to get at the meat inside.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:59, 20 August 2020 (UTC)}}
-{{Stormlight}}
+
 [[Category:Food]]
 [[Category:Rosharan food]]

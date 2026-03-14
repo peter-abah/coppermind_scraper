@@ -1,137 +1,128 @@
-{{group
-|image=First Ideal poster.jpg
-|world=Roshar
-|universe=[[Cosmere]]
-}}
-{{spoilers|IotE}}
-{{update|sa3|sa4|yumi|tsm|sa5}}
-{{quote
-|"I'm not some glorious knight of ancient days. I'm a broken man. Do you hear me, Syl? *I'm broken*."<br />She zipped up to him and whispered, "That’s what they all were, silly"
-|[[Kaladin]] and [[Syl]] on what the Knights Radiant were like.{{book ref|sa2|68}}
-}}
+---
+source_file: Knights Radiant.txt
+entity_type: group
+image: First Ideal poster.jpg
+world: Roshar
+universe: '[[Cosmere]]'
+---
 
-The **Knights Radiant** (Listener: *Neshua Kadal*){{book ref|sa1|67}}{{book ref|sa1|68}} were an organization of [[Surgebinding|Surgebinders]] on [[Roshar]]. Their Orders were centered at [[Urithiru]], but they lived all across [[Alethela]], the [[Silver Kingdoms|Silver Kingdom]] who had to maintain the arts of war. They considered it their duty and privilege to stay vigilant for [[Desolation|Desolations]].{{book ref|sa1|49}} It is commonly believed that they betrayed mankind on the [[Day of Recreance]], and were then referred to as the **Lost Radiants**.{{book ref|sa1|43}} Their symbol was a golden hourglass shape, of eight spheres connected with two at the center.
+> "I'm not some glorious knight of ancient days. I'm a broken man. Do you hear me, Syl? *I'm broken*."<br />She zipped up to him and whispered, "That’s what they all were, silly"
+> — [[Kaladin]] and [[Syl]] on what the Knights Radiant were like.
+
+The **Knights Radiant** (Listener: *Neshua Kadal*) were an organization of [[Surgebinding|Surgebinders]] on [[Roshar]]. Their Orders were centered at [[Urithiru]], but they lived all across [[Alethela]], the [[Silver Kingdoms|Silver Kingdom]] who had to maintain the arts of war. They considered it their duty and privilege to stay vigilant for [[Desolation|Desolations]]. It is commonly believed that they betrayed mankind on the [[Day of Recreance]], and were then referred to as the **Lost Radiants**. Their symbol was a golden hourglass shape, of eight spheres connected with two at the center.
 
 == Radiant Orders and Powers==
-{{image|TWoK_Front_Endsheet.jpg|height=350px|Symbols of the Ten Radiant Orders and their Surges|side=right}}
 
 The Knights Radiant comprised ten different Orders, some of which had several hundred members. Each Order had two [[Surge]]s associated with it, and each Surge was used by two different Orders. Scholars associated the ten Orders with the [[Ten Essences]] as well.
 
-Each order corresponded to a Herald, and all of them except the Bondsmiths roughly correspond to an [[Unmade]], though it is not entirely a one to one relationship.{{wob ref|8598}}
+Each order corresponded to a Herald, and all of them except the Bondsmiths roughly correspond to an [[Unmade]], though it is not entirely a one to one relationship.
 
 ;[[Order of Windrunners]]
-:Windrunners bond with [[honorspren]], which gives them the ability to use the Surges of [[Adhesion]] and [[Gravitation]].{{book ref|sa2|part=ars}} The combination of these two Surges results in the powers known as the [[Lashing|Three Lashings]].{{book ref|sa1|prologue}} Windrunners are associated with the sapphire polestone, the essence of Zephyr, and the Herald [[Jezrien]]. 
+:Windrunners bond with [[honorspren]], which gives them the ability to use the Surges of [[Adhesion]] and [[Gravitation]]. The combination of these two Surges results in the powers known as the [[Lashing|Three Lashings]]. Windrunners are associated with the sapphire polestone, the essence of Zephyr, and the Herald [[Jezrien]]. 
 
 ;[[Order of Skybreakers]]
-:Skybreakers bond with [[highspren]], which gives them the ability to use the Surges of [[Gravitation]] and [[Division]].{{book ref|sa2|part=ars}} Skybreakers are associated with the smokestone polestone, the essence of Vapor, and the Herald [[Nale]].
+:Skybreakers bond with [[highspren]], which gives them the ability to use the Surges of [[Gravitation]] and [[Division]]. Skybreakers are associated with the smokestone polestone, the essence of Vapor, and the Herald [[Nale]].
 
 ;[[Order of Dustbringers]]
-:Dustbringers - or as they prefer, Releasers - bond with [[ashspren]], which gives them the ability to use the Surges of Division and [[Abrasion]].{{book ref|sa2|part=ars}} Their powers tend to be destructive.{{book ref|sa1|part=prelude}} Dustbringers are associated with the ruby polestone, the essence of Spark, and the Herald [[Chanarach]].
+:Dustbringers - or as they prefer, Releasers - bond with [[ashspren]], which gives them the ability to use the Surges of Division and [[Abrasion]]. Their powers tend to be destructive. Dustbringers are associated with the ruby polestone, the essence of Spark, and the Herald [[Chanarach]].
 
 ;[[Order of Edgedancers]]
-:Edgedancers bond with [[cultivationspren]], which gives them the ability to use the Surges of Abrasion and [[Progression]].{{book ref|sa2|part=ars}} Edgedancers are associated with the diamond polestone, the essence of Lucentia, and the Herald [[Vedel]].
+:Edgedancers bond with [[cultivationspren]], which gives them the ability to use the Surges of Abrasion and [[Progression]]. Edgedancers are associated with the diamond polestone, the essence of Lucentia, and the Herald [[Vedel]].
 
 ;[[Order of Truthwatchers]]
-:Truthwatchers bond with [[mistspren]], gaining the ability to use the Surges of Progression and [[Illumination]].{{book ref|sa2|part=ars}} The surge of Progression grants the Truthwatchers the power of regrowth, which allows them to heal people{{book ref|wor|i|2}}, and at least two Truthwatchers have demonstrated the ability to foresee future events{{epigraph ref|Oathbringer|85}}{{book ref|wor|85}}. Truthwatchers are associated with the emerald polestone, the essence of Pulp, and the Herald [[Pralla]].
+:Truthwatchers bond with [[mistspren]], gaining the ability to use the Surges of Progression and [[Illumination]]. The surge of Progression grants the Truthwatchers the power of regrowth, which allows them to heal people, and at least two Truthwatchers have demonstrated the ability to foresee future events. Truthwatchers are associated with the emerald polestone, the essence of Pulp, and the Herald [[Pralla]].
 
 ;[[Order of Lightweavers]]
-:Lightweavers bond with [[Cryptic]]s, or liespren, which gives them the ability to use the Surges of Illumination and [[Transformation]].{{book ref|sa2|part=ars}} They can create illusions and have the inherent ability to [[Soulcast]].{{book ref|sa1|72}} Lightweavers are associated with the garnet polestone, the essence of Blood, and the Herald [[Shalash]].
+:Lightweavers bond with [[Cryptic]]s, or liespren, which gives them the ability to use the Surges of Illumination and [[Transformation]]. They can create illusions and have the inherent ability to [[Soulcast]]. Lightweavers are associated with the garnet polestone, the essence of Blood, and the Herald [[Shalash]].
 
 ;[[Order of Elsecallers]]
-:Elsecallers bond with [[inkspren]], which gives them the ability to use the Surges of Transformation and [[Transportation]].{{book ref|sa2|part=ars}} They have the inherent ability to [[Soulcast]].{{book ref|sa1|72}} They have the closest affiliation with [[Shadesmar]] out of all the orders. Elsecallers are associated with the zircon polestone, the essence of Tallow, and the Herald [[Battar]]. 
+:Elsecallers bond with [[inkspren]], which gives them the ability to use the Surges of Transformation and [[Transportation]]. They have the inherent ability to [[Soulcast]]. They have the closest affiliation with [[Shadesmar]] out of all the orders. Elsecallers are associated with the zircon polestone, the essence of Tallow, and the Herald [[Battar]]. 
 
 ;[[Order of Willshapers]]
-:Willshapers bond with [[Reacher]]s, also known as lightspren, which gives them the ability to use the Surges of Transportation and [[Cohesion]].{{book ref|sa2|part=ars}} Willshapers are associated with the amethyst polestone, the essence of Foil, and the Herald [[Kalak]].
+:Willshapers bond with [[Reacher]]s, also known as lightspren, which gives them the ability to use the Surges of Transportation and [[Cohesion]]. Willshapers are associated with the amethyst polestone, the essence of Foil, and the Herald [[Kalak]].
 
 ;[[Order of Stonewards]]
-:Stonewards bond with [[peakspren]], gaining the ability to use the Surges of Cohesion and [[Tension]].{{book ref|sa2|part=ars}} Stonewards are associated with the topaz polestone, the essence of Talus, and the Herald [[Talenel]].
+:Stonewards bond with [[peakspren]], gaining the ability to use the Surges of Cohesion and [[Tension]]. Stonewards are associated with the topaz polestone, the essence of Talus, and the Herald [[Talenel]].
 
 ;[[Order of Bondsmiths]]
-:Bondsmiths bond with three unique spren&mdash;the [[Stormfather]], the [[Sibling]], and the [[Nightwatcher]]&mdash;which gives them the ability to use the Surges of Tension and Adhesion.{{book ref|sa2|part=ars}} Bondsmiths are associated with the heliodor polestone, the essence of Sinew, and the Herald [[Ishar]]. 
+:Bondsmiths bond with three unique spren&mdash;the [[Stormfather]], the [[Sibling]], and the [[Nightwatcher]]&mdash;which gives them the ability to use the Surges of Tension and Adhesion. Bondsmiths are associated with the heliodor polestone, the essence of Sinew, and the Herald [[Ishar]]. 
 
 The Knights Radiant also used [[Shardblade]]s and [[Shardplate]], which were etched with glyphs and glowed a different color according to the Order they were a part of. Not all Radiants have access to Shards and many Orders don't receive them until they have sworn the higher Ideals.
 
 ## Squires
 Many orders of the knights are able to grant the ability to use [[Stormlight]] and some of their [[Surgebinding|Surges]] to people, possibly those capable of becoming knights themselves. It appears that potential squires must have a mindset that matches at least partly with the requirements of the order. For [[Order of Windrunners|Windrunners]] this appears to be a mental state geared to protection. Many squires recite the First Ideal before gaining Surgebinding, but this is not required. Each order follows a path and with a Knight willing to help the first steps can be taken before Bonding a [[spren]] themselves. This shows the spren what people are good candidates for each order, and reducing the chance that a spren will die from failed oaths. Time as a Squire also allows a person to practice Surgebinding before gaining a Nahel bond.
 
-It is possible for a person to remain a squire their whole life, or to be a squire of one order and bond a spren from another.{{wob ref|11443}} Using a mix of other [[Investiture]] (such as [[Feruchemy]] and [[Hemalurgy]]), a Surgebinder could hack the magic and be a squire of multiple Orders at once.{{wob ref|12917}} Squires hold Stormlight less efficiently than Knights Radiant do, though some believe their abilities in this area grow as they spend more time with the Knights Radiant they follow.{{rpg ref|slwg|258}}
+It is possible for a person to remain a squire their whole life, or to be a squire of one order and bond a spren from another. Using a mix of other [[Investiture]] (such as [[Feruchemy]] and [[Hemalurgy]]), a Surgebinder could hack the magic and be a squire of multiple Orders at once. Squires hold Stormlight less efficiently than Knights Radiant do, though some believe their abilities in this area grow as they spend more time with the Knights Radiant they follow.
 
-The powers of a squire are tied to a particular Radiant and their spren, and without their presence, a squire cannot draw in Stormlight to Surgebind, even if another full Knight of the same order is present.{{book ref|sa3|120}} Squires must be within approximately fifty miles of their Radiant to use their powers, although they begin to weaken once they are separated by thirty miles or more.{{book ref|sa3|55}}{{rpg ref|slwg|258}} If their Radiant were to suddenly separate from them, such as by using an [[Oathgate]], a squire's powers would last between one to two hours.{{book ref|sa3|55}}
+The powers of a squire are tied to a particular Radiant and their spren, and without their presence, a squire cannot draw in Stormlight to Surgebind, even if another full Knight of the same order is present. Squires must be within approximately fifty miles of their Radiant to use their powers, although they begin to weaken once they are separated by thirty miles or more. If their Radiant were to suddenly separate from them, such as by using an [[Oathgate]], a squire's powers would last between one to two hours.
 
-While it has been said that some orders may not have squires,{{wob ref|6740}} the [[Order of Windrunners|Windrunners]],{{book ref|sa3|2}} [[Order of Skybreakers|Skybreakers]],{{book ref|sa3|90}} [[Order of Dustbringers|Dustbringers]],{{book ref|sa2|4}} [[Order of Lightweavers|Lightweavers]],{{book ref|sa3|77}} [[Order of Willshapers|Willshapers]],{{book ref|sa4|67}} [[Order of Stonewards|Stonewards]],{{wob ref|15204}}{{rpg ref|slwg|258}} and [[Order of Bondsmiths|Bondsmiths]]{{book ref|sa4|69}}{{wob ref|13781}} are known to have squires. Skybreakers can only take squires if they complete the Fourth Ideal and become masters.{{rpg ref|slwg|258}}
+While it has been said that some orders may not have squires, the [[Order of Windrunners|Windrunners]], [[Order of Skybreakers|Skybreakers]], [[Order of Dustbringers|Dustbringers]], [[Order of Lightweavers|Lightweavers]], [[Order of Willshapers|Willshapers]], [[Order of Stonewards|Stonewards]], and [[Order of Bondsmiths|Bondsmiths]] are known to have squires. Skybreakers can only take squires if they complete the Fourth Ideal and become masters.
 
 ## Immortal Words
-{{for|/Immortal Words|a full list of all the Ideals}}
-{{quote
-|Life before death. Strength before weakness. Journey before destination.
-|The First Ideal of the Knights Radiant
-}}
-{{image|Knights-Radiant-antti.jpg|side=right|height=350px|Knights Radiant heading into battle}}
 
-The Ideals of the Knights Radiant, known as the **Immortal Words**, serve as a guide for the Radiants' actions and lives.{{book ref|sa1|59}} Each order of Radiants has five Ideals, though different Radiants from the same order may swear an ideal with slightly different words and Lightweavers and Elsecallers discover more individualized personal truths or aspirations instead of ideals.{{wob ref|2674}}{{rpg ref|slhb|148}}{{rpg ref|slhb|156}} The wording of the First Ideal, however, is exact and is used by all orders, including the Lightweavers and Elsecallers.{{wob ref|9709}}{{book ref|sa2|87}} It appears that it is not necessary to speak the First Ideal as a complete uninterrupted phrase, as when [[Navani Kholin]] spoke them to bond the [[Sibling]], she spread the three sentences throughout the length of a conversation, and though he was unable to complete the Ideal before being killed, [[Elhokar Kholin]] stuttered and repeated its words.{{book ref|sa4|110}}{{book ref|sa3|84}} The First Ideal acts as a motto and guide for the Radiants as a whole,{{book ref|sa1|59}} and is known as the Ideal of Radiance by the Skybreakers,{{book ref|sa3|90}} who may have carried the name over from the ancient Radiants. 
+> Life before death. Strength before weakness. Journey before destination.
+> — The First Ideal of the Knights Radiant
 
-The unique Ideals of each order are designed as a progression that develops a Radiant's character toward the central concepts of their order.{{wob ref|2711}} Many Radiants only swear up to the Third Ideal, as they become increasingly more demanding and exceptional.{{rpg ref|slwg|109}} Swearing the Fifth Ideal is generally not necessary to be considered a full Knight Radiant and is such a difficult process that the Order of the Skybreakers has not had someone swear the Fifth Ideal for centuries.{{book ref|sa3|90}} 
+The Ideals of the Knights Radiant, known as the **Immortal Words**, serve as a guide for the Radiants' actions and lives. Each order of Radiants has five Ideals, though different Radiants from the same order may swear an ideal with slightly different words and Lightweavers and Elsecallers discover more individualized personal truths or aspirations instead of ideals. The wording of the First Ideal, however, is exact and is used by all orders, including the Lightweavers and Elsecallers. It appears that it is not necessary to speak the First Ideal as a complete uninterrupted phrase, as when [[Navani Kholin]] spoke them to bond the [[Sibling]], she spread the three sentences throughout the length of a conversation, and though he was unable to complete the Ideal before being killed, [[Elhokar Kholin]] stuttered and repeated its words. The First Ideal acts as a motto and guide for the Radiants as a whole, and is known as the Ideal of Radiance by the Skybreakers, who may have carried the name over from the ancient Radiants. 
 
-The oaths were created by Honor, with some help from Ishar, to maximize the Radiant's abilities.{{book ref|sa5|120}} The [[Stormfather]] and [[Cultivation]] have some discretion in deciding whether or not a Radiant has progressed enough that their oath can be accepted,{{book ref|sa3|121}}{{book ref|sa4|60}} though this discretion appears to be limited.{{book ref|sa2|84}} It is unclear whether or not the Stormfather had this ability prior to Tanavast's death, but it seems likely it was instead Honor's decision at this time. A Bondsmith may also be able to accept the oaths of other orders.{{book ref|sa4|108}}
+The unique Ideals of each order are designed as a progression that develops a Radiant's character toward the central concepts of their order. Many Radiants only swear up to the Third Ideal, as they become increasingly more demanding and exceptional. Swearing the Fifth Ideal is generally not necessary to be considered a full Knight Radiant and is such a difficult process that the Order of the Skybreakers has not had someone swear the Fifth Ideal for centuries. 
 
-It was thought that Ideals must be sworn in order, even if a Radiant is ready to swear a higher ideal than the one they cannot currently swear, however Szeth was able to swear his Fifth Ideal before completing the quest associated with his Fourth.{{wob ref|15259}}{{book ref|sa5|133}} Radiants must also be ready to swear the ideals, and cannot just say the words to advance.{{book ref|sa4|107}}{{book ref|sa3.5|17}}
+The oaths were created by Honor, with some help from Ishar, to maximize the Radiant's abilities. The [[Stormfather]] and [[Cultivation]] have some discretion in deciding whether or not a Radiant has progressed enough that their oath can be accepted, though this discretion appears to be limited. It is unclear whether or not the Stormfather had this ability prior to Tanavast's death, but it seems likely it was instead Honor's decision at this time. A Bondsmith may also be able to accept the oaths of other orders.
+
+It was thought that Ideals must be sworn in order, even if a Radiant is ready to swear a higher ideal than the one they cannot currently swear, however Szeth was able to swear his Fifth Ideal before completing the quest associated with his Fourth. Radiants must also be ready to swear the ideals, and cannot just say the words to advance.
 
 ### Effects of the Ideals
-As a Radiant swears additional Ideals, they gain their Shardblade and Shardplate and become more efficient in their use of Stormlight.{{book ref|sa1|59}}{{book ref|sa2|84}}{{book ref|sa4|110}} Additionally, some orders cannot use one of their Surges until they swear a higher Ideal.{{book ref|sa3|121}}{{wob ref|13774}} Swearing the Fifth Ideal, also known as the Final Ideal, makes the Nahel bond between Radiant and spren so strong that it can only be broken by death; until that point, there are apparently safe ways to break the bond.{{book ref|sa3|108}} Highspren do not "die" if their Radiant renounces their oaths, as they do not typically allow their bond to become strong enough to hurt them, leaving them safe from becoming a deadeye even at the Fifth Ideal.{{book ref|sa5|95}}{{book ref|sa5|135}}
+As a Radiant swears additional Ideals, they gain their Shardblade and Shardplate and become more efficient in their use of Stormlight. Additionally, some orders cannot use one of their Surges until they swear a higher Ideal. Swearing the Fifth Ideal, also known as the Final Ideal, makes the Nahel bond between Radiant and spren so strong that it can only be broken by death; until that point, there are apparently safe ways to break the bond. Highspren do not "die" if their Radiant renounces their oaths, as they do not typically allow their bond to become strong enough to hurt them, leaving them safe from becoming a deadeye even at the Fifth Ideal.
 
-Whenever a Radiant swears an Ideal, they Connect to their spren and to the Spiritual Realm, creating a miniature perpendicularity and allowing them to take in an influx of Investiture from the Spiritual Realm.{{book ref|sa4|111}}{{book ref|sa5|129}} This moment is described as a confluence of power and Intent, along with an alignment of self.{{book ref|sa5|129}} Each Ideal a Radiants swears further aligns them with the will of Honor, which allows them to heal and Surgebind more efficiently,{{book ref|sa3|98}}{{book ref|sa5|41}}{{book ref|sa5|29}} and to better hold Stormlight in their body.{{book ref|sa3|98}}{{book ref|sa5|29}}{{book ref|sa5|41}}
+Whenever a Radiant swears an Ideal, they Connect to their spren and to the Spiritual Realm, creating a miniature perpendicularity and allowing them to take in an influx of Investiture from the Spiritual Realm. This moment is described as a confluence of power and Intent, along with an alignment of self. Each Ideal a Radiants swears further aligns them with the will of Honor, which allows them to heal and Surgebind more efficiently, and to better hold Stormlight in their body.
 
-Swearing an Ideal releases a large amount of light, proportional to what numbered Ideal it is.{{book ref|sa5|134}} This is likely related to the perpendicularity produced by swearing the Ideal.{{book ref|sa5|129}} The perpendicularity and its light is capable of restoring the sanity of a nearby Herald,{{book ref|sa4|111}}{{book ref|sa5|129}} though countermeasures can be made to prevent this.{{book ref|sa5|134}}
+Swearing an Ideal releases a large amount of light, proportional to what numbered Ideal it is. This is likely related to the perpendicularity produced by swearing the Ideal. The perpendicularity and its light is capable of restoring the sanity of a nearby Herald, though countermeasures can be made to prevent this.
 
 ## Vorinism
-In [[Vorinism]], the fall of the Knights Radiant was called the [[Day of Recreance]]. They are taught to be evil people who turned against humanity, and are thus given the moniker "Lost Radiants."{{book ref|sa1|43}}
+In [[Vorinism]], the fall of the Knights Radiant was called the [[Day of Recreance]]. They are taught to be evil people who turned against humanity, and are thus given the moniker "Lost Radiants."
 
 Vorinism taught that the Knights Radiant betrayed the people. It was taught that their powers were not real, but elaborate tricks, and that they only pretended to have a holy calling. The "evidence" for this was that the powers could not be reproduced.
 
-There are legends that teach about the souls of the Knights Radiant arriving during highstorms in order to steal spheres left out to be infused. This was used as a way to explain both spheres being stolen by thieves in the dark, and how the winds of the highstorm often tore baskets off their posts and flung them into the distance.{{book ref|sa1|11}}
+There are legends that teach about the souls of the Knights Radiant arriving during highstorms in order to steal spheres left out to be infused. This was used as a way to explain both spheres being stolen by thieves in the dark, and how the winds of the highstorm often tore baskets off their posts and flung them into the distance.
 
 ## History
-{{sidequote
-|They were a solution, a way to offset the destruction of the Desolations. Ten orders of knights, founded with the purpose of helping men fight, then rebuild.
-|[[Dalinar's visions]]{{book ref|sa2|4}}
-|side=right|size=200px
-}}
 
-The Knights Radiant have a long history, dating back to before the Sixth Epoch.{{wob ref|16437}} 
+> They were a solution, a way to offset the destruction of the Desolations. Ten orders of knights, founded with the purpose of helping men fight, then rebuild.
+> — [[Dalinar's visions]]
+
+The Knights Radiant have a long history, dating back to before the Sixth Epoch. 
 
 ### Forming of the Knights Radiant
-The spren formed bonds with the mankind to give them [[Surgebinding]] abilities.{{book ref|sa2|4}} Honor was surprised by their coming, because he hadn't taught it to his Heralds.{{book ref|sa2|4}} While he did not consciously choose his Knights, with them being chosen by spren, he did, alongside [[Cultivation]] and the advice of [[Ishar]], formulate their system of oaths.{{book ref|sa5|120}} 
+The spren formed bonds with the mankind to give them [[Surgebinding]] abilities. Honor was surprised by their coming, because he hadn't taught it to his Heralds. While he did not consciously choose his Knights, with them being chosen by spren, he did, alongside [[Cultivation]] and the advice of [[Ishar]], formulate their system of oaths. 
 
-These Surgebinders were later formed into the ten orders of the Knights Radiant by the Herald [[Ishar|Ishi'Elin]], for the purpose of watching for the coming Desolations, and helping men fight, then rebuild the society from the destruction of the Desolations, and they adopted the city of Urithiru as their center of power.{{book ref|sa1|60}} They likely adopted the city after the creation of the [[Sibling]], around six thousand years before the Night of Sorrows.{{book ref|sa5|21}}
+These Surgebinders were later formed into the ten orders of the Knights Radiant by the Herald [[Ishar|Ishi'Elin]], for the purpose of watching for the coming Desolations, and helping men fight, then rebuild the society from the destruction of the Desolations, and they adopted the city of Urithiru as their center of power. They likely adopted the city after the creation of the [[Sibling]], around six thousand years before the Night of Sorrows.
 
-In the early era of the Knights Radiant, the Bondsmiths did not bond to the three modern Bondsmith spren, but rather to the [[Wind]], [[Stone]], and [[Night]].{{book ref|sa5|21}} Though, as new spren were created from them over time, the Bondsmiths would come to bond to the [[Stormfather]], the [[Sibling]], and the [[Nightwatcher]].{{book ref|sa5|21}} 
+In the early era of the Knights Radiant, the Bondsmiths did not bond to the three modern Bondsmith spren, but rather to the [[Wind]], [[Stone]], and [[Night]]. Though, as new spren were created from them over time, the Bondsmiths would come to bond to the [[Stormfather]], the [[Sibling]], and the [[Nightwatcher]]. 
 
-This formalized system was in place by at least the Sixth Epoch, Year 31.{{wob ref|16437}} The founding also occurred after the creation of the Unmade.{{book ref|sa5|120}}
+This formalized system was in place by at least the Sixth Epoch, Year 31. The founding also occurred after the creation of the Unmade.
 
 ### The False Desolation
-{{for|False Desolation}} 
-For a long time, they maintained their duty, fighting against flare-ups from the various Unmade who remained on Roshar,{{book ref|sa5|80}} until around two thousands years before the Night of Sorrows, when a group of singers were Connected to [[Ba-Ado-Mishram]] and pushed into a war with humanity.{{book ref|sa3|56}}
+ 
+For a long time, they maintained their duty, fighting against flare-ups from the various Unmade who remained on Roshar, until around two thousands years before the Night of Sorrows, when a group of singers were Connected to [[Ba-Ado-Mishram]] and pushed into a war with humanity.
 
-Around the end of the conflict, [[Honor]] and the Bondsmith [[Melishi]] joined together in order to seal Ba-Ado-Mishram away, so that they could cripple her army and stop the war. Melishi, with a group of other Knights, would attract Ba-Ado-Mishram with promises and peace and treaty. These were, however, lies, and Melishi, with Honor's help, sealed Ba-Ado-Mishram away into a perfect Heliodor, and fled into the [[Spiritual Realm]] in order to further seal her away.{{book ref|sa5|87}}
+Around the end of the conflict, [[Honor]] and the Bondsmith [[Melishi]] joined together in order to seal Ba-Ado-Mishram away, so that they could cripple her army and stop the war. Melishi, with a group of other Knights, would attract Ba-Ado-Mishram with promises and peace and treaty. These were, however, lies, and Melishi, with Honor's help, sealed Ba-Ado-Mishram away into a perfect Heliodor, and fled into the [[Spiritual Realm]] in order to further seal her away.
 
-This betrayal caused many spren to die, their [[Shardblade|corpses]] becoming tools of destruction, and as a result they stopped granting humanity Surgebinding.{{book ref|sa2|3}} Furthermore, they fundamentally wounded Roshar,{{book ref|sa5|87}} and would directly lead to Honor's abandonment of its Vessel, [[Tanavast]]. Before Tanavast was abandoned by Honor, he revealed to the Knights Radiant the destruction they had the capacity to inflict on the world.{{book ref|sa5|124}}
+This betrayal caused many spren to die, their [[Shardblade|corpses]] becoming tools of destruction, and as a result they stopped granting humanity Surgebinding. Furthermore, they fundamentally wounded Roshar, and would directly lead to Honor's abandonment of its Vessel, [[Tanavast]]. Before Tanavast was abandoned by Honor, he revealed to the Knights Radiant the destruction they had the capacity to inflict on the world.
 
 ### The Recreance
-{{for|Recreance}} 
-Due to the revelation of the destruction they could bring to Roshar, the creation of Slaveform, and the wounding of the spren, the majority of the Knights Radiant decided to turn their back on their duties and renouncing their oaths. This event came to be known as the Recreance.{{book ref|sa5|124}}
+ 
+Due to the revelation of the destruction they could bring to Roshar, the creation of Slaveform, and the wounding of the spren, the majority of the Knights Radiant decided to turn their back on their duties and renouncing their oaths. This event came to be known as the Recreance.
 
 ### The Restitution
-Around the year 1167, sensing an impending danger, the spren started returning to mankind as an act of self-preservation.{{book ref|sa2|1}} People all over Roshar started gaining Surgebinding powers by forming Nahel bonds with the spren in the following years. At the beginning of the year 1174, Urithiru was reclaimed, and the Knights Radiant were re-founded with initially four members; [[Kaladin]], [[Shallan Davar]], [[Dalinar Kholin]], and [[Renarin Kholin]].{{book ref|sa2|89}}
+Around the year 1167, sensing an impending danger, the spren started returning to mankind as an act of self-preservation. People all over Roshar started gaining Surgebinding powers by forming Nahel bonds with the spren in the following years. At the beginning of the year 1174, Urithiru was reclaimed, and the Knights Radiant were re-founded with initially four members; [[Kaladin]], [[Shallan Davar]], [[Dalinar Kholin]], and [[Renarin Kholin]].
 
 ### True Desolation
-{{for|True Desolation}} 
-{{for|Night of Sorrows}} 
-Following the [[Night of Sorrows]] and the start of the [[True Desolation]] on {{rosharan date|1175|5|2|5}}, the Knights Radiant lost all access to Stormlight. This left them only capable of using Surgebinding within Urithiru, where they were able to use the [[Sibling]]'s Towerlight.{{book ref|sa5|147}}{{expand}}
+ 
+ 
+Following the [[Night of Sorrows]] and the start of the [[True Desolation]] on , the Knights Radiant lost all access to Stormlight. This left them only capable of using Surgebinding within Urithiru, where they were able to use the [[Sibling]]'s Towerlight.
 
 ## Notable Knights Radiant
-{{for|:Category:Knights Radiant|all Knights Radiant}}
 
-{{columns|count=2|
 * [[Kaladin]] (Windrunner, bonded with [[Sylphrena]])
 * [[Sigzil]] (Windrunner, bonded with [[Vienta]], then Skybreaker bonded with [[Auxiliary]])
 * [[Nale]] (Skybreaker, bonded with [[121]]; also Skybreaker Herald)
@@ -147,15 +138,13 @@ Following the [[Night of Sorrows]] and the start of the [[True Desolation]] on {
 * [[Dalinar Kholin]] (Bondsmith, previously bonded with the [[Stormfather]])
 * [[Melishi]] (Bondsmith, previously bonded with the [[Sibling]])
 * [[Navani Kholin]] (Bondsmith, bonded with the [[Sibling]])
-}}
 
 ## Trivia
-* Brandon intended for sets of Ideals across Orders (e.g. the Third Ideal) to have a theme, though not all oaths will follow the pattern.{{wob ref|12012}}
+* Brandon intended for sets of Ideals across Orders (e.g. the Third Ideal) to have a theme, though not all oaths will follow the pattern.
 
 ## Notes
 <references />
-{{partial}}
-{{Stormlight}}
+
 [[Category: Knights Radiant| ]]
 [[Category: Surgebinding]]
 [[category: list articles]]

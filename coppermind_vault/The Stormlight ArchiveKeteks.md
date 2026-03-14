@@ -1,11 +1,14 @@
+---
+source_file: The Stormlight ArchiveKeteks.txt
+entity_type: book ref
+---
+
 In each book of [[The Stormlight Archive]], the titles of the five parts form a [[ketek]] which is revealed with context as the book's endnote.
 
 ==The Way of Kings==
 
-{{quote
-|Above silence, the illuminating storms&mdash;dying storms&mdash;illuminate the silence above.
-|A ketek by an illiterate dying [[Herdazian]], collected by the [[Silent Gatherer]]s{{book ref|sa1|endnote}}
-}}
+> Above silence, the illuminating storms&mdash;dying storms&mdash;illuminate the silence above.
+> — A ketek by an illiterate dying [[Herdazian]], collected by the [[Silent Gatherer]]s
 
 {| class="wikitable"
 |-
@@ -24,10 +27,8 @@ In each book of [[The Stormlight Archive]], the titles of the five parts form a 
 
 ==Words of Radiance==
 
-{{quote
-|Alight, winds approach deadly approaching winds alight.
-|A ketek by [[Navani Kholin]] describing the meeting of the [[Everstorm]] with a [[highstorm]], collected by [[Nazh]]{{book ref|sa2|endnote}}
-}}
+> Alight, winds approach deadly approaching winds alight.
+> — A ketek by [[Navani Kholin]] describing the meeting of the [[Everstorm]] with a [[highstorm]], collected by [[Nazh]]
 
 [[File:WoR Endnote.jpg|500px]]
 
@@ -48,10 +49,8 @@ In each book of [[The Stormlight Archive]], the titles of the five parts form a 
 
 ==Oathbringer==
 
-{{quote
-|United, new beginnings sing: "Defying truth, love. Truth defy!" Sing beginnings, new unity.
-|A ketek written by [[Jasnah Kholin]] for [[Shallan Davar]]'s wedding celebration.{{book ref|sa3|endnote}}
-}}
+> United, new beginnings sing: "Defying truth, love. Truth defy!" Sing beginnings, new unity.
+> — A ketek written by [[Jasnah Kholin]] for [[Shallan Davar]]'s wedding celebration.
 
 [[File:OB Endnote.jpg|500px]]
 
@@ -72,10 +71,8 @@ In each book of [[The Stormlight Archive]], the titles of the five parts form a 
 
 ==Rhythm of War==
 
-{{quote
-|Burdens, Our Calling. Songs of Home, a knowledge: Knowing a Home of Songs, called our burden.
-|Ketek written by [[El]], [[Fused]] scholar of human art forms, to commemorate the restoration of the [[Sibling]]{{book ref|sa4|endnote}}
-}}
+> Burdens, Our Calling. Songs of Home, a knowledge: Knowing a Home of Songs, called our burden.
+> — Ketek written by [[El]], [[Fused]] scholar of human art forms, to commemorate the restoration of the [[Sibling]]
 
 {| class="wikitable"
 |-

@@ -1,3 +1,8 @@
+---
+source_file: NikaroGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=200px name="Official Artwork">
 Yumi US Cover.jpg | <center><small>by {{a|Aliya Chen}}</small></center> *[[Yumi and the Nightmare Painter]]* Dragonsteel Cover

@@ -1,0 +1,30 @@
+{{character
+|abilities={{tag+|Worldhopping}}
+|groups={{tag|Ghostbloods}}
+|nation=Jah Keved
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Wind and Truth]]
+}}
+{{quote
+|How does chasing down some ancient spren further Master [[Thaidakar]]'s orders to provide him a renewable source of [[Investiture]]?
+|Icy Tongue{{book ref|sa5|25}}
+}}
+
+'''Icy Tongue''' is a member of the [[Ghostbloods]] on [[Roshar]]. She is known only by her nickname, presumably given to her by [[Mraize]].{{book ref|sa5|25}} 
+
+She speaks with a [[Veden]] accent, and her true identity is unknown; she was not one of the Ghostbloods on Roshar that [[Hoid]] was able to identify and sketch.{{book ref|sa5|16}}{{book ref|sa5|25}} 
+
+== Appearance and Personality ==
+She appears to be intelligent, careful, and pragmatic, and she is not afraid to question Mraize's plans.{{book ref|sa5|25}}
+
+== Attributes and Abilities ==
+Icy Tongue displays a high level of [[cosmere]] awareness, including an understanding of [[Identity]] and [[Investiture]]. She is also able to identify a [[Thaylen]] hand ballista on sight.{{book ref|sa5|25}}
+
+== History ==
+Sometime during the year before the arrival of the Everstorm, the Ghostbloods, including Icy Tongue, were briefed about this new storm coming. In {{Rosharan date|1175}}, Icy Tongue was present at the meeting in the Ghostblood safehouse that was infiltrated by [[Shallan]]. Icy Tongue questioned the reason for the meeting while she observed Mraize testing his [[Anti-Stormlight]] weapon. Mraize gave an update that [[Thaidakar]] wanted he and [[Iyatil]] to track down [[Ba-Ado-Mishram]]'s prison in the [[Spiritual Realm]], and Icy Tongue questioned how this would advance their goals. Mraize declined to elaborate, violating the 'no secrets' policy of the Ghostbloods. Icy Tongue and seven other Ghostbloods were left to lead the Rosharan cell, with [[Zora]] in charge.{{book ref|sa5|25}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:34, 22 October 2025 (UTC)}}
+{{Stormlight}}

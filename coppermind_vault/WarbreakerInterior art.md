@@ -1,3 +1,8 @@
+---
+source_file: WarbreakerInterior art.txt
+entity_type: article
+---
+
 This is a gallery of interior art for *[[Warbreaker]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 
 ## Original art
@@ -31,7 +36,6 @@ First Glimpse of the God King by Howard Lyon.jpg | <center><small>by {{a|Howard 
 Nightblood by Dan dos Santos.png | <center><small>by {{a|Dan dos Santos}}</small></center> *Nightblood*
 Blushweaver and Lightsong by Miranda Meeks.jpg| <small><center>by {{a|Miranda Meeks}}</center></small> *Blushweaver and Lightsong*
 </gallery>
-
 
 <gallery mode="packed" widths=3000px heights=200px caption="Drop Caps">
 A.jpg | <center><small>by {{a|Jian Guo}}</small></center>

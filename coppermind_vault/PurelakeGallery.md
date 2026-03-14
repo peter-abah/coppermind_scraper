@@ -1,3 +1,8 @@
+---
+source_file: PurelakeGallery.txt
+entity_type: article
+---
+
 ## Fanworks
 <gallery mode="packed" heights=250px caption="Fanworks">
 File:Map_Purelake.png | <center><small>by [[User: Otto didact|Otto Didact]] </small></center> Map of the [[Purelake]]
@@ -6,7 +11,5 @@ File:Skybreakers_Purelake.jpeg | <center><small>by {{a|botanicaxu}}</small></cen
 File:Purelake_1.jpeg | <center><small>by {{a|Bonnie Johnson}}</small></center> Scenery of the Purelake
 File:Purelake_2.jpeg | <center><small>by {{a|Bonnie Johnson}}</small></center> Scenery of the Purelake
 </gallery>
-
-
 
 [[Category:Gallery Subpages]]

@@ -1,3 +1,8 @@
+---
+source_file: GallantGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=350px>
 Shallan's Sketchbook - Musicspren.jpg | <center><small>by {{a|Ben McSweeney}}</small></center>With musicspren, [[Shallan's sketchbook]]

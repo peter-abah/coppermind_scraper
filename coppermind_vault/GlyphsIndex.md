@@ -1,3 +1,9 @@
+---
+source_file: GlyphsIndex.txt
+entity_type: ref
+name: TWoK-Endsheet1
+---
+
 This page is an index of [[glyphs]] used on [[Roshar]].
 
 ## Glyphs
@@ -18,80 +24,80 @@ The Fundamental Glyphs are associated with the [[Ten Essences]], the [[Herald]]s
 ! [[File: LesserWindrunners.svg|80px]]
 | *Jeseh*
 | Zephyr, [[Jezrien]], [[Windrunners]]
-| {{ref|name=TWoK-Endsheet1}}
-| style="vertical-align:top" | {{anchor|Jeseh}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Skybreakers glyph.svg|80px]]
 !  [[File :Herald Glyph Nalan.svg|x120px]]
 ! [[File: LesserSkybreakers.svg|80px]]
 | *Nan*
 | Vapor, [[Nale]], [[Skybreakers]]
-| {{ref|name=TWoK-Endsheet1}}
-| style="vertical-align:top" | {{anchor|Nan}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Dustbringers glyph.svg|80px]]
 ! [[File: Herald Glyph Chanarach.svg|x120px]]
 ! [[File: LesserDustbringers.svg|80px]]
 | *Chach*
 | Spark, [[Chanarach]], [[Dustbringers]]
-| {{ref|name=TWoK-Endsheet1}}
-| style="vertical-align:top" | {{anchor|Chach}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Edgedancers glyph.svg|80px]]
 ! [[File: Herald Glyph Vedel.svg|x120px]]
 ! [[File: LesserEdgedancers.svg|80px]]
 | *Vev*
 | Lucentia, [[Vedel]], [[Edgedancers]]
-| {{ref|name=TWoK-Endsheet1}}
-| style="vertical-align:top" | {{anchor|Vev}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Truthwatchers glyph.svg|80px]]
 ! [[File: Herald Glyph Palah.svg|x120px]]
 ! [[File: LesserTruthwatchers.svg|80px]]
 | *Palah*
 | Pulp, [[Pralla]], [[Truthwatchers]]
-| {{ref|name=TWoK-Endsheet1}}
-| style="vertical-align:top" | {{anchor|Palah}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Shash glyph.svg|80px]]
 ! [[File: Herald Glyph Shalash.svg|x120px]]
 ! [[File: LesserLightweavers.svg|80px]]
 | *Shash*
 | Blood, [[Shalash]], [[Order of Lightweavers|Lightweavers]]
-| {{ref|name=TWoK-Endsheet1}}
-| style="vertical-align:top" | {{anchor|Shash_(Lightweaver)}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Beteb glyph.svg|80px]]
 ! [[File: Herald Glyph Betab.svg|x120px]]
 ! [[File: LesserElsecallers.svg|80px]]
 | *Beteb*
 | Tallow, [[Battar]], [[Elsecallers]]
-| {{ref|name=TWoK-Endsheet1}}
-| style="vertical-align:top" | {{anchor|Beteb}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Willshapers glyph.svg|80px]]
 ! [[File: Herald Glyph Kalak.svg|x120px]]
 ! [[File: LesserWillshapers.svg|80px]]
 | *Kak*
 | Foil, [[Kalak]], [[Willshapers]]
-| {{ref|name=TWoK-Endsheet1}}
-| style="vertical-align:top" | {{anchor|Kak}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Stonewards glyph.svg|80px]]
 ! [[File: Herald Glyph Taln.svg|x120px]]
 ! [[File: LesserStonewards.svg|80px]]
 | *Tanat*
 | Talus, [[Talenel]], [[Stonewards]]
-| {{ref|name=TWoK-Endsheet1}}
-| style="vertical-align:top" | {{anchor|Tanat}}
+| 
+| style="vertical-align:top" | 
 |-
 !  [[File: Ishi glyph.svg|80px]]
 !  [[File: Herald Glyph Ishi.svg|x120px]]
 ! [[File: LesserBondsmiths.svg|80px]]
 | *Ishi*
 | Sinew, [[Ishar]], [[Bondsmiths]] 
-| {{ref|name=TWoK-Endsheet1}}
-| style="vertical-align:top" | {{anchor|Ishi}}
+| 
+| style="vertical-align:top" | 
 |-
 |}
 
@@ -108,57 +114,57 @@ Glyphs of the ten Surges associated with [[Surgebinding]].
 ! [[File: Adhesion Surge-glyph.svg|40px]]
 | *unknown*
 | Surge of [[Adhesion]]
-| {{ref|name=TWoK-Endsheet1}}, It has internal mirror symmetry with the Abrasion glyph.{{reddit ref|Stormlight_Archive|1etn1wz|text=Cracking the 'Voidbinding' Chart: 10 years in the making|date=August 16th, 2024}}
+| , It has internal mirror symmetry with the Abrasion glyph.
 |-
 ! [[File: Gravitation Surge-glyph.svg|40px]]
 | *unknown*
 | Surge of [[Gravitation]]
-| {{ref|name=TWoK-Endsheet1}}, It has internal mirror symmetry with the Transportation glyph.{{reddit ref|Stormlight_Archive|1etn1wz|text=Cracking the 'Voidbinding' Chart: 10 years in the making|date=August 16th, 2024}}
+| , It has internal mirror symmetry with the Transportation glyph.
 |-
 ! [[File: Division Surge-glyph.svg|40px]]
 | *unknown*
 | Surge of [[Division]]
-| {{ref|name=TWoK-Endsheet1}}
+| 
 |-
 ! [[File: Abrasion Surge-glyph.svg|40px]]
 | *unknown*
 | Surge of [[Abrasion]]
-| {{ref|name=TWoK-Endsheet1}}, It has internal mirror symmetry with the Adhesion glyph.{{reddit ref|Stormlight_Archive|1etn1wz|text=Cracking the 'Voidbinding' Chart: 10 years in the making|date=August 16th, 2024}}
+| , It has internal mirror symmetry with the Adhesion glyph.
 |-
 ! [[File: Progression Surge-glyph.svg|40px]]
 | *unknown*
 | Surge of [[Progression]]
-| {{ref|name=TWoK-Endsheet1}}
+| 
 |-
 ! [[File: Illumination Surge-glyph.svg|40px]]
 | *unknown*
 | Surge of [[Illumination]]
-| {{ref|name=TWoK-Endsheet1}}
+| 
 |-
 !  [[File: Transformation Surge-glyph.svg|40px]]
 | *unknown*
 | Surge of [[Transformation]]
-| {{ref|name=TWoK-Endsheet1}}
+| 
 |-
 ! [[File: Transportation Surge-glyph.svg|40px]]
 | *unknown*
 | Surge of [[Transportation]]
-| {{ref|name=TWoK-Endsheet1}}, It has internal mirror symmetry with the Gravitation glyph.{{reddit ref|Stormlight_Archive|1etn1wz|text=Cracking the 'Voidbinding' Chart: 10 years in the making|date=August 16th, 2024}}
+| , It has internal mirror symmetry with the Gravitation glyph.
 |-
 ! [[File: Cohesion Surge-glyph.svg|40px]]
 | *unknown*
 | Surge of [[Cohesion]]
-| {{ref|name=TWoK-Endsheet1}}
+| 
 |-
 !  [[File: Tension Surge-glyph.svg|40px]]
 | *unknown*
 | Surge of [[Tension]]
-| {{ref|name=TWoK-Endsheet1}}
+| 
 |-
 |}
 
 ### Voidbinding Chart Major Glyphs
-The following glyphs, from the [[Voidbinding]] [[:File: TWoK Rear Endsheet.jpg|chart]], are analogous to the Fundamental Glyphs on the [[Surgebinding]] [[:File: TWoK Front Endsheet.jpg|chart]]. If assumed to have undergone a polar transformation, undoing this distortion results in some of the flattened glyphs bearing resemblance to the glyphs for the ten Surges. {{reddit ref|Stormlight_Archive|1etn1wz|text=Cracking the 'Voidbinding' Chart: 10 years in the making|date=August 16th, 2024}}
+The following glyphs, from the [[Voidbinding]] [[:File: TWoK Rear Endsheet.jpg|chart]], are analogous to the Fundamental Glyphs on the [[Surgebinding]] [[:File: TWoK Front Endsheet.jpg|chart]]. If assumed to have undergone a polar transformation, undoing this distortion results in some of the flattened glyphs bearing resemblance to the glyphs for the ten Surges. 
 
 {| class='infobox sortable center-col-2 center-col-3' align=center width=100%
 |- class=title
@@ -170,52 +176,52 @@ The following glyphs, from the [[Voidbinding]] [[:File: TWoK Rear Endsheet.jpg|c
 ! [[File: Voidbinding Glyph 1.svg|80px]]
 | *unknown*
 | *unknown*
-| Location corresponds to *jeseh* glyph on the Surgebinding chart.{{ref|name=TWoK-Endsheet2}} Polar transformed version of the [[Adhesion]] glyph.
+| Location corresponds to *jeseh* glyph on the Surgebinding chart. Polar transformed version of the [[Adhesion]] glyph.
 |-
 ! [[File: Voidbinding Glyph 2.svg|80px]]
 | *unknown*
 | *unknown*
-| Location corresponds to *nan* glyph on the Surgebinding chart.{{ref|name=TWoK-Endsheet2}} Polar transformed version of the [[Tension]] glyph.
+| Location corresponds to *nan* glyph on the Surgebinding chart. Polar transformed version of the [[Tension]] glyph.
 |-
 ! [[File: Voidbinding Glyph 3.svg|80px]]
 | *unknown*
 | *unknown*
-| Location corresponds to *chach* glyph on the Surgebinding chart.{{ref|name=TWoK-Endsheet2}} Polar transformed version of the [[Illumination]] glyph. Appears in [[:File:Kharbranth.jpg]]
+| Location corresponds to *chach* glyph on the Surgebinding chart. Polar transformed version of the [[Illumination]] glyph. Appears in [[:File:Kharbranth.jpg]]
 |-
 ! [[File: Voidbinding Glyph 4.svg|80px]]
 | *unknown*
 | *unknown*
-| Location corresponds to *vev* glyph on the Surgebinding chart.{{ref|name=TWoK-Endsheet2}} Polar transformed version of the [[Transportation]] glyph.
+| Location corresponds to *vev* glyph on the Surgebinding chart. Polar transformed version of the [[Transportation]] glyph.
 |-
 ! [[File: Voidbinding Glyph 5.svg|80px]]
 | *unknown*
 | *unknown*
-| Location corresponds to *palah* glyph on the Surgebinding chart.{{ref|name=TWoK-Endsheet2}} Bears significant resemblance to [[:File:Roshar Glyph.png]].
+| Location corresponds to *palah* glyph on the Surgebinding chart. Bears significant resemblance to [[:File:Roshar Glyph.png]].
 |-
 ! [[File: Voidbinding Glyph 6.svg|80px]]
 | *unknown*
 | *unknown*
-| Location corresponds to *shash* glyph on the Surgebinding chart.{{ref|name=TWoK-Endsheet2}} Polar transformed version of the [[Abrasion]] glyph.
+| Location corresponds to *shash* glyph on the Surgebinding chart. Polar transformed version of the [[Abrasion]] glyph.
 |-
 ! [[File: Voidbinding Glyph 7.svg|80px]]
 | *unknown*
 | *unknown*
-| Location corresponds to *beteb* glyph on the Surgebinding chart.{{ref|name=TWoK-Endsheet2}} Polar transformed version of the [[Transformation]] glyph.
+| Location corresponds to *beteb* glyph on the Surgebinding chart. Polar transformed version of the [[Transformation]] glyph.
 |-
 ! [[File: Voidbinding Glyph 8.svg|80px]]
 | *unknown*
 | *unknown*
-| Location corresponds to *kak* glyph on the Surgebinding chart.{{ref|name=TWoK-Endsheet2}} Polar transformed version of the [[Cohesion]] glyph.
+| Location corresponds to *kak* glyph on the Surgebinding chart. Polar transformed version of the [[Cohesion]] glyph.
 |-
 ! [[File: Voidbinding Glyph 9.svg|80px]]
 | *unknown*
 | *unknown*
-| Location corresponds to *tanat* glyph on the Surgebinding chart.{{ref|name=TWoK-Endsheet2}} Polar transformed version of the [[Gravitation]] glyph.
+| Location corresponds to *tanat* glyph on the Surgebinding chart. Polar transformed version of the [[Gravitation]] glyph.
 |-
 ! [[File: Voidbinding Glyph 10.svg|80px]]
 | *unknown*
 | *unknown*
-| Location corresponds to *ishi* glyph on the Surgebinding chart.{{ref|name=TWoK-Endsheet2}} Polar transformed version of the [[Progression]] glyph.
+| Location corresponds to *ishi* glyph on the Surgebinding chart. Polar transformed version of the [[Progression]] glyph.
 |-
 |}
 
@@ -232,52 +238,52 @@ The following glyphs, from the [[Voidbinding]] [[:File: TWoK Rear Endsheet.jpg|c
 ! [[File: Adhesion Void-glyph.svg|40px]]
 | *unknown*
 | *unknown*
-| Rotationally symmetrical version of the [[Adhesion]] glyph.{{ref|name=TWoK-Endsheet2}}
+| Rotationally symmetrical version of the [[Adhesion]] glyph.
 |-
 ! [[File: Gravitation Void-glyph.svg|40px]]
 | *unknown*
 | *unknown*
-| Rotationally symmetrical version of the [[Gravitation]] glyph.{{ref|name=TWoK-Endsheet2}}
+| Rotationally symmetrical version of the [[Gravitation]] glyph.
 |-
 ! [[File: Division Void-glyph.svg|40px]]
 | *unknown*
 | *unknown*
-| Rotationally symmetrical version of the [[Division]] glyph.{{ref|name=TWoK-Endsheet2}}
+| Rotationally symmetrical version of the [[Division]] glyph.
 |-
 ! [[File: Abrasion Void-glyph.svg|40px]]
 | *unknown*
 | *unknown*
-| Rotationally symmetrical version of the [[Abrasion]] glyph.{{ref|name=TWoK-Endsheet2}}
+| Rotationally symmetrical version of the [[Abrasion]] glyph.
 |-
 ! [[File: Progression Void-glyph.svg|40px]]
 | *unknown*
 | *unknown*
-| Rotationally symmetrical version of the [[Progression]] glyph.{{ref|name=TWoK-Endsheet2}}
+| Rotationally symmetrical version of the [[Progression]] glyph.
 |-
 ! [[File: Illumination Void-glyph.svg|40px]]
 | *unknown*
 | *unknown*
-| Rotationally symmetrical version of the [[Illumination]] glyph.{{ref|name=TWoK-Endsheet2}}
+| Rotationally symmetrical version of the [[Illumination]] glyph.
 |-
 !  [[File: Transformation Void-glyph.svg|40px]]
 | *unknown*
 | *unknown*
-| Rotationally symmetrical version of the [[Transformation]] glyph.{{ref|name=TWoK-Endsheet2}}
+| Rotationally symmetrical version of the [[Transformation]] glyph.
 |-
 ! [[File: Transportation Void-glyph.svg|40px]]
 | *unknown*
 | *unknown*
-| Rotationally symmetrical version of the [[Transportation]] glyph.{{ref|name=TWoK-Endsheet2}}
+| Rotationally symmetrical version of the [[Transportation]] glyph.
 |-
 ! [[File: Cohesion Void-glyph.svg|40px]]
 | *unknown*
 | *unknown*
-| Rotationally symmetrical version of the [[Cohesion]] glyph.{{ref|name=TWoK-Endsheet2}}
+| Rotationally symmetrical version of the [[Cohesion]] glyph.
 |-
 !  [[File: Tension Void-glyph.svg|40px]]
 | *unknown*
 | *unknown*
-| Rotationally symmetrical version of the [[Tension]] glyph.{{ref|name=TWoK-Endsheet2}}
+| Rotationally symmetrical version of the [[Tension]] glyph.
 |-
 |}
 
@@ -292,43 +298,43 @@ The following glyphs are associated with the [[Alethi]] [[highprince]]s.
 |-
 !  [[File: Glyph-Aladar.svg|80px]]
 | Highprince [[Aladar]]
-| {{ref|name=highprinces}}
+| 
 |-
 !  [[File: Glyph-Bethab.svg|80px]]
 | Highprince [[Bethab]]
-| {{ref|name=highprinces}}
+| 
 |-
 !  [[File: Glyph-Hatham.svg|80px]]
 | Highprince [[Hatham]]
-| {{ref|name=highprinces}}
+| 
 |-
 !  [[File: Glyph-Kholin.svg|80px]]
 | Highprince [[Dalinar Kholin]]
-| {{ref|name=highprinces}} Rendered in the [[Bridge Four]] tattoo as [[:File:Kholin.svg]].
+|  Rendered in the [[Bridge Four]] tattoo as [[:File:Kholin.svg]].
 |-
 !  [[File: Glyph-Roion.svg|80px]]
 | Highprince [[Roion]]
-| {{ref|name=highprinces}}
+| 
 |-
 !  [[File: Glyph-Ruthar.svg|80px]]
 | Highprince [[Ruthar]]
-| {{ref|name=highprinces}}
+| 
 |-
 !  [[File: Glyph-Sadeas.svg|80px]]
 | Highprince [[Torol Sadeas]]
-| {{ref|name=highprinces}}
+| 
 |-
 !  [[File: Glyph-Sebarial.svg|80px]]
 | Highprince [[Sebarial]]
-| {{ref|name=highprinces}}
+| 
 |-
 !  [[File: Glyph-Thanadal.svg|80px]]
 | Highprince [[Thanadal]]
-| Thanadal was originally named Yankler, and the glyph is constructed with those phonemes.{{ref|name=highprinces}}
+| Thanadal was originally named Yankler, and the glyph is constructed with those phonemes.
 |-
 !  [[File: Glyph-Vamah.svg|80px]]
 | Highprince [[Vamah]]
-| {{ref|name=highprinces}}
+| 
 |-
 |}
 
@@ -345,339 +351,339 @@ Other known glyphs are listed below in alphabetical order.
 ! [[File: Abara.svg|80px]]
 | *Abara*
 | Family
-| Presented by Isaac Stewart in 2018 as an example of the design of glyphs based on feelings.{{ref|name=JordanCon}} Later appeared in the "wedding invitation" advertisements for the 2024 Worldhopper Ball.{{ref|name=wedding_invitation}}
-| style="vertical-align:top" | {{anchor|Abara}}
+| Presented by Isaac Stewart in 2018 as an example of the design of glyphs based on feelings. Later appeared in the "wedding invitation" advertisements for the 2024 Worldhopper Ball.
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Adoda*
 | Light
-| Used in [[Adolin Kholin]]'s name.{{book ref|sa3|49}}
-| style="vertical-align:top" | {{anchor|Adoda}}
+| Used in [[Adolin Kholin]]'s name.
+| style="vertical-align:top" | 
 |-
 ! [[File: Amaya.svg|80px]]
 | *Amaya*
 | Days
-| {{ref|name=Brotherwise_1}}
-| style="vertical-align:top" | {{anchor|Amaya}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Bakhash.svg|80px]]
 | *Bakhash*
 | Seek
-| {{ref|name=Brotherwise_1}}
-| style="vertical-align:top" | {{anchor|Bakhash}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Glyph-Ben.svg|80px]]
 | *Benabe/Beneba*
-| Sigil of [[Ardent]] Benabe/Beneba{{wob ref|15070}}
-| The spelling of the name is uncertain. The character is named after [[Ben McSweeney]].{{file ref|Sadeas_bridges.jpg|Sadeas's bridges artwork}}
-| style="vertical-align:top" | {{anchor|Benabe}}
+| Sigil of [[Ardent]] Benabe/Beneba
+| The spelling of the name is uncertain. The character is named after [[Ben McSweeney]].
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Dah*
 | *unknown*
-| Name of [[Navani]]'s [[stormform]] [[Mizthla|guard]] during the occupation of [[Urithiru]].{{book ref|sa4|89}}
-| style="vertical-align:top" | {{anchor|Dah}}
+| Name of [[Navani]]'s [[stormform]] [[Mizthla|guard]] during the occupation of [[Urithiru]].
+| style="vertical-align:top" | 
 |-
 ! [[File: Gesheh.svg|80px]]
 | *Gesheh*
 | Bridge
-| {{wob ref|6461}}
-| style="vertical-align:top" | {{anchor|Gesheh}}
+| 
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Idi*
 | *unknown*
-| Used along with *parap* and *shenesh* to represent "[[Parshendi]]" in [[Stormwarden script]].{{book ref|sa2|52}}
-| style="vertical-align:top" | {{anchor|Idi}}
+| Used along with *parap* and *shenesh* to represent "[[Parshendi]]" in [[Stormwarden script]].
+| style="vertical-align:top" | 
 |-
 ! [[File: Javani.svg|80px]]
 | *Javani*
 | Life
-| {{ref|name=glyph-page-1}}
-| style="vertical-align:top" | {{anchor|Javani}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Kadulek.svg|80px]]
 | *Kadulek*
 | Weakness
-| {{ref|name=glyph-page-1}}
-| style="vertical-align:top" | {{anchor|Kadulek}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Kalak.svg|80px]]
 | *Kalak*
 | Eternal
-| {{ref|name=glyph-page-1}} Note: *kalad* on the Alethi Glyphs page is a typo.{{ref|name=JordanCon}}
-| style="vertical-align:top" | {{anchor|Kalak}}
+|  Note: *kalad* on the Alethi Glyphs page is a typo.
+| style="vertical-align:top" | 
 |-
 ! [[File: Katef.svg|80px]]
 | *Katef*
 | Strength
-| {{ref|name=glyph-page-1}}
-| style="vertical-align:top" | {{anchor|Katef}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Kecheh.svg|80px]]
 | *Kecheh*
 | High
-| {{ref|name=glyph-page-1}}
-| style="vertical-align:top" | {{anchor|Kecheh}}
+| 
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Kejeh*
 | Affirmative
-| Used by [[Syl]] to communicate silently with [[Kaladin]].{{book ref|sa4|44}}
-| style="vertical-align:top" | {{anchor|Kejeh}}
+| Used by [[Syl]] to communicate silently with [[Kaladin]].
+| style="vertical-align:top" | 
 |-
 ! [[File: Khakh (glyph).svg|80px]]
 | *Khakh*
 | Determination
-| Used with *merem* in [[Amaram]]'s glyphpair.{{book ref|sa1|47}}{{ref|name=JordanCon}}
-| style="vertical-align:top" | {{anchor|Khakh}}
+| Used with *merem* in [[Amaram]]'s glyphpair.
+| style="vertical-align:top" | 
 |-
 ! [[File: Khokh.svg|80px]]
 | *Khokh*
 | *unknown*
-| Shown here in the shape of a tower, as used in [[Dalinar Kholin]]'s glyphpair.{{book ref|sa1|28}} [[Elhokar Kholin]] uses the glyph [[:File:Khokh2.svg|stylized as a sword]].{{book ref|sa1|4}} Note: the descriptions of *khokh* and *linil* in some editions of *The Way of Kings* chapter 28 are mixed up.{{17s ref|post|626135|The Way of Kings Typos List|date=2017-10-26}}
-| style="vertical-align:top" | {{anchor|Khokh}}
+| Shown here in the shape of a tower, as used in [[Dalinar Kholin]]'s glyphpair. [[Elhokar Kholin]] uses the glyph [[:File:Khokh2.svg|stylized as a sword]]. Note: the descriptions of *khokh* and *linil* in some editions of *The Way of Kings* chapter 28 are mixed up.
+| style="vertical-align:top" | 
 |-
 ! [[File: Markhazh.svg|80px]]
 | *Markhazh*
 | Center
-| {{ref|name=Brotherwise_1}}
-| style="vertical-align:top" | {{anchor|Markhazh}}
+| 
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Laial*
 | *unknown*
-| Used with *sebes* in [[Sebarial]]'s glyphpair.{{book ref|sa2|40}}
-| style="vertical-align:top" | {{anchor|Laial}}
+| Used with *sebes* in [[Sebarial]]'s glyphpair.
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Lerel*
 | *unknown*
-| Used with *shesh* in [[Sheler]]'s glyphpair.{{book ref|sa1|67}}
-| style="vertical-align:top" | {{anchor|Lerel}}
+| Used with *shesh* in [[Sheler]]'s glyphpair.
+| style="vertical-align:top" | 
 |-
 !  [[File: Linil.svg|80px]]
 | *Linil*
 | *unknown*
-| Shown here in the shape of a crown, as used in [[Dalinar Kholin]]'s glyphpair.{{book ref|sa1|28}} Note: the descriptions of *khokh* and *linil* in some editions of *The Way of Kings* chapter 28 are mixed up.{{17s ref|post|626135|The Way of Kings Typos List|date=2017-10-26}}
-| style="vertical-align:top" | {{anchor|Linil}}
+| Shown here in the shape of a crown, as used in [[Dalinar Kholin]]'s glyphpair. Note: the descriptions of *khokh* and *linil* in some editions of *The Way of Kings* chapter 28 are mixed up.
+| style="vertical-align:top" | 
 |-
 ! [[File: Mehlak.svg|80px]]
 | *Mehlak*
 | Journey
-| {{ref|name=glyph-page-1}}
-| style="vertical-align:top" | {{anchor|Mehlak}}
+| 
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Merem*
 | Honor
-| Used with *khakh* in [[Amaram]]'s glyphpair.{{book ref|sa1|47}}
-| style="vertical-align:top" | {{anchor|Merem}}
+| Used with *khakh* in [[Amaram]]'s glyphpair.
+| style="vertical-align:top" | 
 |-
 ! [[File: Mevizh.svg|80px]]
 | *Mevizh*
 | Destination
-| {{ref|name=glyph-page-1}}
-| style="vertical-align:top" | {{anchor|Mevizh}}
+| 
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Morom*
 | *unknown*
-| {{book ref|sa1|2}}
-| style="vertical-align:top" | {{anchor|Morom}}
+| 
+| style="vertical-align:top" | 
 |-
 !  [[File: Nahn.svg|80px]]
 | *Nahn*
 | *unknown*
-| {{book ref|sa1|51}} Not related to the [[nahn]] caste.{{17s ref|post|577569|Slave Brands|date=2017-07-02}}
-| style="vertical-align:top" | {{anchor|Nahn}}
+|  Not related to the [[nahn]] caste.
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Oroho*
 | Peace
-| Used in [[Oroden]]'s name.{{wob ref|14672}}
-| style="vertical-align:top" | {{anchor|Oroho}}
+| Used in [[Oroden]]'s name.
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Parap*
 | *unknown*
-| Used along with *shenesh* and *idi* to represent "[[Parshendi]]" in [[Stormwarden script]].{{book ref|sa2|52}}
-| style="vertical-align:top" | {{anchor|Parap}}
+| Used along with *shenesh* and *idi* to represent "[[Parshendi]]" in [[Stormwarden script]].
+| style="vertical-align:top" | 
 |-
 !  [[File: Roshar_glyph.svg|80px]]
 | *Roshar*
 | [[Roshar]]
-| An ancient glyph for Roshar.{{file ref|Alethi_Glyphs_Page_2.jpg|Alethi Glyphs Page 2}}
-| style="vertical-align:top" | {{anchor|Roshar}}
+| An ancient glyph for Roshar.
+| style="vertical-align:top" | 
 |-
 !  [[File: Sas.svg|80px]]
 | *Sas*
 | *unknown*
-| Presumably indicative of [[Sadeas princedom]].{{book ref|sa1|51}}
-| style="vertical-align:top" | {{anchor|Sas}}
+| Presumably indicative of [[Sadeas princedom]].
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Sebes*
 | *unknown*
-| Used with *laial* in [[Sebarial]]'s glyphpair.{{book ref|sa1|40}}
-| style="vertical-align:top" | {{anchor|Sebes}}
+| Used with *laial* in [[Sebarial]]'s glyphpair.
+| style="vertical-align:top" | 
 |-
 !  [[File: Shash.svg|80px]]
 | *Shash*
 | Dangerous
-| One of [[Kaladin]]'s owners branded him with this glyph after he attempted to escape with twenty armed slaves.{{book ref|sa1|2}}. Slaves with a shash brand are more difficult to sell and less valuable due to their trouble.{{book ref|sa1|4}} Shash is also a letter on [[Nalthis]], however the two are not related.{{wob ref|5185}}
-| style="vertical-align:top" | {{anchor|Shash_(dangerous)}}
+| One of [[Kaladin]]'s owners branded him with this glyph after he attempted to escape with twenty armed slaves.. Slaves with a shash brand are more difficult to sell and less valuable due to their trouble. Shash is also a letter on [[Nalthis]], however the two are not related.
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Shenesh*
 | *unknown*
-| Used along with *parap* and *idi* to represent "[[Parshendi]]" in [[Stormwarden script]].{{book ref|sa2|52}}
-| style="vertical-align:top" | {{anchor|Shenesh}}
+| Used along with *parap* and *idi* to represent "[[Parshendi]]" in [[Stormwarden script]].
+| style="vertical-align:top" | 
 |-
 ! ***unknown***
 | *Shesh*
 | *unknown*
-| Used with *lerel* in [[Sheler]]'s glyphpair.{{book ref|sa1|67}}
-| style="vertical-align:top" | {{anchor|Shesh}}
+| Used with *lerel* in [[Sheler]]'s glyphpair.
+| style="vertical-align:top" | 
 |-
 ! [[File: Tafar.svg|80px]]
 | *Tafar*
 | Physician
-|{{ref|name=JordanCon}}
-| style="vertical-align:top" | {{anchor|Tafar}}
+|
+| style="vertical-align:top" | 
 |-
 ! [[File: Tebel.svg|80px]]
 | *Tebel*
 | Before
-| {{ref|name=glyph-page-1}}
-| style="vertical-align:top" | {{anchor|Tebel}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Thath.svg|80px]]
 | *Thath*
 | Justice
-| Noted as being particularly complex.{{book ref|sa1|69}}
-| style="vertical-align:top" | {{anchor|Thath}}
+| Noted as being particularly complex.
+| style="vertical-align:top" | 
 |-
 ! [[File: Tsameth.svg|80px]]
 | *Tsameth*
 | Death
-| {{ref|name=glyph-page-1}}
-| style="vertical-align:top" | {{anchor|Tsameth}}
+| 
+| style="vertical-align:top" | 
 |-
 ! [[File: Zatalef.svg|80px]]
 | *Zatalef*
 | [[Zatalef]]
-| A bat-like cephalopod native to [[Akak]].{{ref|name=glyph-page-1}}
-| style="vertical-align:top" | {{anchor|Zatalef}}
+| A bat-like cephalopod native to [[Akak]].
+| style="vertical-align:top" | 
 |-
 ! [[File: Zeradoreh_glyph.svg|80px]]
 | *Zeradoreh*
 | [[Stormlight]]
-| The glyph for Stormlight. The phonemes say "tavodovast," meaning "[[Tanavast|Tavast]]'s light".{{file ref|Alethi_Glyphs_Page_2.jpg|Alethi Glyphs Page 2}}
-| style="vertical-align:top" | {{anchor|Zeradoreh}}
+| The glyph for Stormlight. The phonemes say "tavodovast," meaning "[[Tanavast|Tavast]]'s light".
+| style="vertical-align:top" | 
 |-
 ! [[File: Modern zeras.svg|80px]]
 | *Zeras*
 | Storm
-| The modern glyph for *zeras*.{{ref|name=glyph-page-1}} Earlier versions of *zeras* include: [[:File:Old zeras.svg|Old]] and [[:File:Middle zeras.svg|Middle]].
-| style="vertical-align:top" | {{anchor|Zeras}}
+| The modern glyph for *zeras*. Earlier versions of *zeras* include: [[:File:Old zeras.svg|Old]] and [[:File:Middle zeras.svg|Middle]].
+| style="vertical-align:top" | 
 |-
 ! [[File: Braid Glyph.svg|80px]]
 | *unknown*
 | Braid
-| {{ref|name=JordanCon}}
+| 
 |-
 ! [[File: Chouta - Glyph.png|x100px]]
 | *unknown*
 | [[Chouta]]
-| {{rpg ref|slwg|47}}
+| 
 |-
 ! [[File: Cobalt Guard Glyph.svg|80px]]
 | *unknown*
 | [[Cobalt Guard]]
-| {{bws ref|the-hero-of-ages-leather-bound-cyber-monday-sale-audible-sale|Cobalt Guard Patch|date=2018-11-21}}
+| 
 |-
 ! [[File: Diamond Glyph.svg|80px]]
 | *unknown*
 | Diamond
-| {{ref|name=JordanCon}}
+| 
 |-
 ! [[File: Finish Glyph.svg|80px]]
 | *unknown*
 | Finish
-| {{file ref|Scroll of Stances.jpeg|Scroll of Stances}}{{ref|name=JordanCon}}
+| 
 |-
 ! [[File: Freedom.svg|80px]]
 | *unknown*
 | Freedom
-| As used in [[Bridge Four]]'s tattoo.{{book ref|sa2|2}}
+| As used in [[Bridge Four]]'s tattoo.
 |-
 ! [[File: Iron Glyph.svg|80px]]
 | *unknown*
 | Iron
-| {{file ref|Scroll of Stances.jpeg|Scroll of Stances}}{{ref|name=JordanCon}}
+| 
 |-
 ! [[File: Koradaros_glyph.svg|80px]]
 | *unknown*
 | [[Lifelight]]
-| An unknown glyph. The phonemes say "koradaros," meaning "[[Koravellium Avast|Koravari]]'s light" (presumably referring to Lifelight).{{file ref|Alethi_Glyphs_Page_2.jpg|Alethi Glyphs Page 2}}
-| style="vertical-align:top" | {{anchor|Koradaros}}
+| An unknown glyph. The phonemes say "koradaros," meaning "[[Koravellium Avast|Koravari]]'s light" (presumably referring to Lifelight).
+| style="vertical-align:top" | 
 |-
 ! [[File: Lure Glyph.svg|80px]]
 | *unknown*
 | Lure
-| {{file ref|Scroll of Stances.jpeg|Scroll of Stances}}{{ref|name=JordanCon}}
+| 
 |-
 ! [[File: Stance Glyph.svg|80px]]
 | *unknown*
 | Stance
-| {{file ref|Scroll of Stances.jpeg|Scroll of Stances}}{{ref|name=JordanCon}}
+| 
 |-
 ! [[File: Trap Glyph.svg|80px]]
 | *unknown*
 | Trap
-| {{file ref|Scroll of Stances.jpeg|Scroll of Stances}}{{ref|name=JordanCon}}
+| 
 |-
 ! [[File: Rasodonar_glyph.svg|80px]]
 | *unknown*
 | [[Voidlight]]
-| An unknown glyph. The phonemes say "rasodonar," meaning "[[Rayse|Rasan]]'s light" (presumably referring to Voidlight).{{file ref|Alethi_Glyphs_Page_2.jpg|Alethi Glyphs Page 2}}
-| style="vertical-align:top" | {{anchor|Koradaros}}
+| An unknown glyph. The phonemes say "rasodonar," meaning "[[Rayse|Rasan]]'s light" (presumably referring to Voidlight).
+| style="vertical-align:top" | 
 |-
 ! [[File: Calligraphers Guild.svg|80px]]
 | *unknown*
 | Symbol of the [[Calligraphers Guild]]
-| Comprised of the glyph phonemes in [[Isaac Stewart|Isaac]]'s name.{{file ref|Scroll of Stances.jpeg|Scroll of Stances}}{{wob ref|10211}}
+| Comprised of the glyph phonemes in [[Isaac Stewart|Isaac]]'s name.
 |-
 ! [[File: Davar.svg|80px]]
 | *unknown*
 | Davar (likely)
-| The pairing with the *Kholin* glyph suggests this is the glyph of the [[House Davar|Davar]] family.{{ref|name=wedding_invitation}}
+| The pairing with the *Kholin* glyph suggests this is the glyph of the [[House Davar|Davar]] family.
 |-
 ! [[File: Roshar Glyph.png|80px]]
 | *unknown*
 | Roshar (likely)
-| Found along the borders of several maps and compass roses.{{file ref|Roshar.jpg|Map of Roshar}} Context and phonemes suggest the word (and meaning) is "Roshar".
+| Found along the borders of several maps and compass roses. Context and phonemes suggest the word (and meaning) is "Roshar".
 |-
 ! [[File: Mysterious Symbol.png|80px]]
 | *unknown*
 | *unknown*
-| Mysterious glyph related in some way to the [[:File: Calligraphers Guild.svg|Calligraphers Guild glyph]].{{wob ref|10211}}
+| Mysterious glyph related in some way to the [[:File: Calligraphers Guild.svg|Calligraphers Guild glyph]].
 |-
 ! ***unknown***
 | *unknown*
 | Wind
-| {{book ref|sa1|62}}
+| 
 |-
 ! ***unknown***
 | *unknown*
 | Protection
-| {{book ref|sa1|62}}
+| 
 |-
 ! ***unknown***
 | *unknown*
 | Beloved
-| {{book ref|sa1|62}}
+| 
 |-
 |}
 
@@ -694,53 +700,53 @@ The following is a list of all known glyphpairs:
 ![[File: Khokh.svg|40px]][[File: Linil.svg|40px]]
 |*khokh  linil*
 |[[House Kholin]]
-|Stylized as a tower and crown for most of House Kholin.{{book ref|sa1|28}}
+|Stylized as a tower and crown for most of House Kholin.
 |-
 ![[File: Khokh2.svg|30px]][[File: Linil.svg|40px]]
 |*khokh  linil*
 |[[Elhokar Kholin]]
-|Stylized as a sword and crown.{{book ref|sa1|28}}{{book ref|sa1|4}}
+|Stylized as a sword and crown.
 |-
 !***--***   ***--***
 |*merem khakh*
 |[[Meridas Amaram]]
-|Stylized as a [[whitespine]].{{book ref|sa1|47}}
+|Stylized as a [[whitespine]].
 |-
 ![[File: Sas.svg|40px]]   ***--***
 |*sas  morom*
 |Likely refers to a district in [[Sadeas princedom]]
-|A slave brand.{{book ref|sa1|2}}
+|A slave brand.
 |-
 ![[File: Sas.svg|40px]][[File: Nahn.svg|40px]]
 |*sas  nahn*
 |Likely refers to a district in [[Sadeas princedom]]
-|Kaladin's slave brand.{{book ref|sa1|51}}
+|Kaladin's slave brand.
 |-
 !***--***   ***--***
 |*sebes laial* 
 |[[Turinad Sebarial]]
-|Stylized as a [[skyeel]].{{book ref|sa2|40}}
+|Stylized as a [[skyeel]].
 |-
 !***--***   ***--***
 |*shesh lerel*
 |[[Sheler]]
-|{{book ref|sa1|67}}
+|
 |-
 !***--***   ***--***
 |*unknown*
 |[[Torol Sadeas]]
-|Stylized as a tower and hammer.{{book ref|sa1|6}}
+|Stylized as a tower and hammer.
 |-
 !***--***   ***--***
 |*unknown*
 |[[Meridas Amaram]] (as Highprince Sadeas)
-|Stylized as a tower (more elongated than Torol's) and axe.{{book ref|sa3|64}}
+|Stylized as a tower (more elongated than Torol's) and axe.
 |-
 |}
 
 ## Glyph Phonemes
 
-The glyph phonemes are illustrated in a letter from [[Nazh]] concerning his investigation of the [[Calligraphers Guild]].{{ref|name=glyph-page-1}}{{ref|name=glyph-page-2}}
+The glyph phonemes are illustrated in a letter from [[Nazh]] concerning his investigation of the [[Calligraphers Guild]].
 
 {| class=infobox width=100%
 |-
@@ -974,16 +980,9 @@ Known numeral glyphs include the following:
 
 ## Notes
 <references>
-{{file ref|name=TWoK-Endsheet1|TWoK Front Endsheet.jpg|Surgebinding chart}}
-{{file ref|name=TWoK-Endsheet2|TWoK Rear Endsheet.jpg|Voidbinding chart}}
-{{file ref|name=glyph-page-1|Alethi Glyphs Page 1.jpg|First Page of Alethi glyphs}}
-{{file ref|name=glyph-page-2|Alethi Glyphs Page 2.jpg|Second Page of Alethi glyphs}}
-{{17s ref|name=JordanCon|topic|68873|Creating Stormlight Glyphs: A JordanCon Workshop with Isaac Stewart|date=2018-05-04}}
-{{17s ref|name=highprinces|post|705283|Highprince Glyph Confirmations|date=2018-05-16}}
-{{url ref|name=Brotherwise_1|url=https://www.youtube.com/watch?v=pL0WxdMtZaI|text=Brotherwise Games Interview 30:34|site=YouTube|date=2020-04-29}}
-{{url ref|name=wedding_invitation|url=https://www.youtube.com/watch?v=8F9fhLHBYF4|text=Worldhopper Ball 2024 wedding invitation|site=YouTube|date=2024-07-19}}
+
 </references>
-{{meta/partial}}
+
 [[category: subpages]]
 [[category: list articles]]
 [[category: indices]]

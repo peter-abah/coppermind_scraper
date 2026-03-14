@@ -1,0 +1,46 @@
+{{character
+|titles=Undermastrell
+|died=Killed by [[Kenton]]{{book ref|ws|18|review=yes}}
+|groups={{tag|Diem}}
+|abilities={{tag+|sandmaster}}
+|'residence=[[Kezare]]
+|ethnicity=Daysider
+|nationality=Lossandin
+|world=Taldain
+|universe=[[Cosmere]]
+|introduced=[[White Sand]]
+}}
+Undermastrell '''Elorin''' is a [[Lossand]]in [[sand mastery|sand master]] on the Dayside of [[Taldain]]. Elorin serves as an assistant to [[Taishin#The Lord Mastrell|Lord Mastrell]]s [[Praxton]] and [[Kenton]].
+
+== Appearance and Personality ==
+Elorin has yellow eyebrows, green eyes, and a bald head.{{book ref|ws|2|review=yes}} He wears the standard uniform of a sand master with a yellow sash. Elorin is deferential to his superiors--especially Lord Mastrell Praxton.
+
+== Attributes and Abilities ==
+Although towards the end of his life he refuses to use his powers, Elorin is a [[sand mastery|sand master]]. As such he can manipulate [[Investiture|Invested]] sand to form telekinetic ribbons and walls of sand.{{book ref|ws|2|review=yes}}
+
+== History ==
+Elorin joined the Sand Masters at an early age as an acolyte and eventually achieved the rank of undermastrell and became an assistant to [[Praxton]]. Eventually the [[Sand Lord]] appeared before Elorin as a towering figure of sand, after he saw this Elorin converted to the [[Ker'reen]] faith, in addition to this he resigned his position as head of acolents and quitely stopped using his powers without the other sand masters noticing. He considered resigning from the Diem entirely but the [[A'kar]] ordered him to stay in position in order to plot the Diem's downfall from within.{{book ref|ws|18|review=yes}}
+
+Five months{{ref|text=six months before the end of volume three is about five months before the ceremony in the Kerla}} later Elorin sponsored [[Kenton]]'s attempt at running the [[Mastrell's Path]] in the [[Kerla]]. He was reluctant to do so and attempted to dissuade Kenton from the task pointing to the Path's difficulty and Kenton's weakness but ultimately he relented and inducted Kenton to begin the path.{{book ref|ws|1|review=yes}} Elorin expressed concern over Kenton's safety during the trial and yelled to Kenton that he had to ask for help in order to receive assistance. When Kenton refused, he asked Praxton to intervene, but was compliant when the Lord Mastrell denied his request.{{book ref|ws|1|review=yes}} Elorin was one of the first individuals to rush to Kenton after the test, calling for water, and was present when Kenton woke up the next day.{{book ref|ws|2|review=yes}} Elorin encouraged Kenton not to attend the advancement ceremony, ostensibly because the Lord Mastrell was displeased with Kenton's actions,{{book ref|ws|2|review=yes}} but in truth he wanted him to stay away because he knew the [[Kerztian]]s were going to attack the Diem that day, and wanted to protect his friend from the oncoming massacre.{{book ref|ws|18|review=yes}} Despite his wish Kenton insisted on going to the ceremony.
+
+{{sidequote
+|The Sand Lord appeared to me. When your god commands, Lord Mastrell, you listen.
+|Elorin to Kenton shortly before his death.{{book ref|ws|18|review=yes}}
+|side=right|size=250px
+}}
+
+Prior to the advancement ceremony Elorin poisoned the ceremonial water bowl with [[KaDo]]. This bowl was, as per tradition, passed around to every sand master to drink from which poisoned the entire Diem. The only individual who escaped this faith was [[Drile]] who refused to drink from the bowl. After this Elorin continued the ceremony as normal, waiting for the Kerztian to attack. A large number of the [[DaiKeen|warrior-priests]] arrived and attacked the assembled sand masters as per Elorin's plan. Unused to combat and quickly becoming dehydrated due to Elorin's poison, the Sand Masters quickly dehydrated and [[Overmastery|overmastered]] leading to their deaths and the destruction of most of the Diem.{{book ref|ws|2|review=yes}}{{book ref|ws|18|review=yes}}
+
+After the attack Elorin returned to his home village but found that he no longer fit in their anymore and went back to travelling around Dayside. Upon hearing that the Diem had reformed he returned and met the new Lord Mastrell Kenton. In order to hide his true nature Elorin lied and claimed to have overmastered and lost his powers rather than admit his treachery to Kenton. At Kenton's suggestion Elorin accepted to take up his duties as an assistant again and he agreed, while fulfilling these duties he also coordinated attacks by Kerztian assassins against Kenton and Drile.{{book ref|ws|8|review=yes}}{{book ref|ws|18|review=yes}} Later, at [[Khriss]]' suggestion, Kenton tasked Elorin, alongside [[Dirin]], with running all of the Diem's day to day functions. Kenton told all sand masters with questions to ask Elorin instead of him.{{book ref|ws|13|review=yes}}
+
+Elorin presided over Kenton's duel with Drile and made each of them drink from separate ceremonial bowls. Elorin used KaDo to poison [[Drile]]'s bowl in a plot to ensure a weak leader would rule the [[Diem]]. His plot succeeded and Kenton defeated the more powerful Drile.{{book ref|ws|17|review=yes}} After the fight Kenton and Drile realized that something was wrong during their fight, Drile said that he felt the same weakness he felt that day in the Kerla. Kenton was surprised because he had thought Drile was the one who had betrayed the Diem in the Kerla. Together they quickly surmised that it must have been Elorin who betrayed them. Kenton confronted Elorin, and Elorin admitted to have been working to cause the Diem's downfall for the past six months. Elorin said that two days had passed since his last attempt and he was allowed to try again. He raised his [[zinkall]] towards Kenton and fired a [[terken]] dart at the same time that Kenton sent a ribbon of sand towards him. Elorin missed and Kenton's ribbon went through his heart, killing him.{{book ref|ws|18|review=yes}}
+
+== Relationships ==
+Before his conversion, Elorin was close friends with Kenton, and repeatedly tries to save his life.{{book ref|ws|2|review=yes}}
+
+== Notes ==
+<references />
+{{complete}}
+{{White Sand}}
+[[Category: Taldaini]]
+[[Category: Residents of Kezare]]

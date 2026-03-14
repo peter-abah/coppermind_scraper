@@ -1,17 +1,14 @@
 ---
-abilities: "{{tag+|Worldhopping"
+source_file: Aleen.txt
+entity_type: character
+abilities: Worldhopping
+groups: Ghostbloods
+'''world': Unknown
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|groups={{tag|Ghostbloods}}
-|'world=Unknown
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-
-**Aleen** is a member of the [[Ghostbloods]].{{book ref|sa5|26}}
+**Aleen** is a member of the [[Ghostbloods]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

@@ -1,267 +1,82 @@
-{{AlphaToC}} __NOTOC__
+---
+source_file: Elantris (book)glossary.txt
+entity_type: alphatoc
+---
+
+__NOTOC__
 This glossary is available on [[bws:elantris-glossary|Brandon's website]]. Some of the terms on the website were changed for the tenth anniversary edition of *Elantris*, and the current canonicity of the website list is unclear.
 
 ## A - G
-{{anchor|A}}
-{{gld|Aanden|(A) An Elantrian. One of the three gang leaders. He has control over the university section of the city, and claims to have been a earl on the outside. He is rumored to be slightly insane.}}
-{{gld|Aberteen|(F) A type of flower favored in Fjordell and northern Arelon.}}
-{{gld|Adien|Second son of Daora and adopted son of Kiin. Adien is autistic, and spends most of his time at home mumbling numbers. His favorite thing to do is count how many steps it would take to travel from one place to another.}}}
-{{gld|Adolis|A form of tea{{book ref|Elantris|25}}}}
-{{gld|Ahan|(A) A Earl of Arelon. He is overweight, jovial, and prone to argument with Duke Roial.}}
-{{gld|Lake Alonoe|(A) A lake in the very center of Arelon. One of the largest lakes on the continent.}}
-{{gld|Aon|(A) Name for an ancient Aonic rune. The Aons formed a logographic alphabet used in Arelon and Teod until the development of a phonetic alphabet.}}
-{{gld|AonDor|(A) Ancient form of magic practiced by the Elantrians. It}}
-{{gld|Aonic|(A) 1) A language spoken in Arelon and Teod. It was originally based on the Aons. 2) A racial group that originated in Teod. People of Aonic descent are characterized by blonde hair and tall frames. Most people in Teod are pure Aonic, while those in Arelon have intermixed more with the eastern nations.}}
-{{gld|Aredel River|(A) A river that runs from Lake Alonoe, beneath Elantris, through the city of Kae, and finally to the ocean.}}
-{{gld|Arelene|(A) A person from Arelon.}}
-{{gld|Arelish|(A) An adjective to describe an Arelene.}}{{ref|group=nb|name=Arelish|text=In the original edition of *Elantris*, the demonym and toponym for Arelon was "Arelish". In the anniversary edition, this was replaced with "Arelene," except in these glossary entries.}}
-{{gld|Arteth|(F) A full Derethi priest. The lowest rank of priest in the Derethi priesthood that can lead a chapel on his own.}}
-{{gld|Ashgress|(F) The Fjordell ambassador to Teod.}}
-{{gld|Atad Mountains|(A) The Aonic word for the mountains separating Arelon and Fjordell. (See also [[#D|Dathreki Mountains]])}}
-{{gld|Atara|(A) Duke Telrii's wife.}}
-{{gld|Atsuko|A [[JinDo]] artist who visited the [[Rose Empire]]{{tes ref|76}}}}
-{{anchor|C}}
-{{gld|Chamrav|A famous artisan in the [[Rose Empire]]{{tes ref|12}}}}
+
+}
+
 ;*Chay*: (J) A piece in the game of ShinDa. An ambiguous piece, the Chay piece moves differently depending on what other piece is closest to it.
-{{gld|ChayShan|(J) An ancient Jindoeese martial art based on slow movements that build in speed. Rumored to have mystical applications. Many Jindoeese people who are not warriors practice ChayShan as a means of focusing the mind and toning the body.}}
-{{gld|Crosswood|tree with flowers{{book ref|Elantris|32}}}}
-{{anchor|D}}
+
 ;[[Dreok Crushthroat|Crushthroat, Dreok]]: (A) A pirate who pillaged the Sea of Fjorden. About fifteen years before he tried to capture the throne of Teod for himself, but was defeated.
-{{gld|Dahad|(A) An Elantrian.}}
-{{gld|Dakhor|(F) The most mysterious of Fjorden's monasteries. The specialized monasteries each train their monks in one expertise or another, but no spies have been able to determine what sort of training Dakhor imparts. Many enter as initiates, and most are never seen again.}}
-{{gld|Daora|(A) Kiin's wife. Has the Arelish title of Kimess.}}{{ref|group=nb|name=Arelish}}
-{{gld|Daorn|(A) Kiin and Daora's son.}}
-{{gld|Dashe|(A) An Elantrian. Karata's second in command, a good warrior who is known to be hot-headed.}}
-{{gld|Dathreki Mountains|(F) Fjordell name for the mountains separating Arelon and Fjorden. (See also Atad.)}}
-{{gld|Day of Empire|A day prophesied by [[Wulfden the Fourth]] where [[Jaddeth]] would return to [[Sel]]{{book ref|Elantris|3}}}}
-{{gld|DeHwo|(J) The original [[JinDo]] name for the man named Dereth in Fjordell. He was a student of Keseg, and originally founded the Derethi religion.}}
-{{gld|Delbahad| relatively new holiday {{tes ref|17}}}}
-;*DeluseDoo*: (D) A word that loosely translates as 'angered for being insulted.'{{book ref|Elantris|16}}
-;*Dendo*: (D) A common name for a Duladen commoner, alias used by [[Galladon]]{{book ref|Elantris|52}}
+
+;*DeluseDoo*: (D) A word that loosely translates as 'angered for being insulted.'
+;*Dendo*: (D) A common name for a Duladen commoner, alias used by [[Galladon]]
 ;Deo
 :# A [[Deo Plantation|plantation]] in northwestern Arelon.
 :# The [[Arelon#Deo|basic coin]] in Arelon.
-{{gld|Dereth|(F) The founder of Shu-Dereth. He believed that all mankind must someday be united under the leadership of one nation. (See also DeHwo.)}}
-{{gld|Derethi|(F) The Adjective for Shu-Dereth. Usually refers to the Derethi religion.}}
-{{gld|Diren|An Elantrian.}}{{ref|group=nb|text=Spelled as "Dieren" on the website.}}
-{{gld|Dilaf|(F) A young Derethi priest serving in Kae. He has a Fjordell name, but is of Aonic descent. He is short, passionate, and hates Elantris violently.}}
-{{gld|Dio|King Eventeo's Seon.}}
-{{gld|Diolen|(A) An baron in Arelon.}}
-{{gld|Dion| (A) A young Elantrian}}
-{{gld|Dionia|(A) Influenza.}}
+
 ;*Do*: (J) Book. <!-- It's the word "book" in general, not a specific one.-->
-{{gld|Do-Kando|(J) The holy book of Shu-Keseg. It was from this book that Dereth and Korath developed their separate beliefs.}}
+
 ;*DoMin*: (J) The [[JinDo]] word for Domi, or god.
 ;*Doloken*: (D) Hell
-{{gld|Domi| (A) The God of the Korathi religion. The religion claims that he is a loving parent of humankind.}}
-{{gld|Dor|(D) Loosely translated as 'overspirit,' the Dor is a mystical force the Jesker religion controls the world. It is a force, not a being, but is what guides nature—and those who understand it—toward harmony. The term has also been adopted by the Jeskeri Mysteries, who treat it more like fate. The Mysteries teach that the Dor can be influenced to bring fortune or folly upon certain individuals, but only through the performance of proper rituals.}}
-{{gld|Dorven| (F) The lowest level of Derethi priest.}}
-{{gld|Dothgen|(A) A Derethi priest serving in Kae. He was trained at [[Rathbore Monastery]].}}
-{{gld|Dreok| (A) See Crushthroat, Draok.[*sic*]}}
-{{gld|Dula| (D) A word for those who are from Duladel.}}
-{{gld|Duladel|(D) A country to the southeast of Arelon. Duladel is racially mixed, its people having heritage from all across the continent. Up until recent times, Duladel was ruled over by a republic, and all men were free. Duladen citizens tended to be of Aonic decent, while commoners tended to have the dark skin of Jindos. The division was not perfect, however. Dulas are known for their carefree lifestyle and their flamboyant dress. The country itself consists of steppes and highlands—it provides the only safe passes through the Atad/Dathreki mountains.}}
-{{gld|Duladen| (D) An adverb to describe people or things from Duladel.}}
-{{anchor|E}}
-{{gld|Edan|(A) The baron of Tii plantation. A man known for his wastefulness, Edan has recently run into financial problems.}}
-{{gld|Elantrian| (A) The name for one who has been taken by the Shaod. One who lives in Elantris.}}
-{{gld|Elantris (city)|(A) Historical city of mystery and capital of Arelon. Up until ten years ago, Elantris was a place of power and magic. Its occupants, the Elantrians, were magical beings who healed quickly, had silvery shinning skin, and could use the magic of AonDor. Ten years ago, Elantris fell for some unknown reason. It's people lost their ability to perform magic, and instead of being silver-skinned gold-like beings, they became sickly-looking wretches. Modern Elantrians need not eat or breath—though they may do either if they wish. Any wound they incur will continue to hurt them until, eventually, their collected pains drives them insane.}}
-{{gld|Elao|(A) A maid in King Iadon's palace.}}
-{{gld|Eoden|(A) A duke in Teod.}}
-{{gld|Eoldess|(A) Duke Roial's deceased wife.}}
-{{gld|Eondel|(A) A earl in Arelon. Eondel was a soldier before the Reod, and runs the most elite personal fighting force in Arelon.}}
-{{gld|Eonic|(A) An Elantrian. He was a blacksmith before the Shaod took him.{{book ref|Elantris|25}}}}
-{{gld|Eostek| (A) Sixth month of the Aonic year.}}
-{{gld|Eshen|(A) King Iadon's second wife. Queen of Arelon.}}
-{{gld|Eventeo|(A) King of Teod; Sarene's father.}}
-{{anchor|F}}
-{{gld|Ferrin|(J) A bird common to the [[JinDo]] marshes.}}
-{{gld|Fjeldor Monastery|(F) A Derethi monastery that trains spies.}}
-{{gld|Fjon|(F) Head Arteth in Kae's Derethi monastery.}}
-{{gld|Fjordell| (F) A word for a person from Fjorden. Also the adverb to describe such. Fjordell's tend to have dark black hair and are very wide of build. Many rival even Teos when it comes to height.}}
-{{gld|Fjorden|(F) Strict and militaristic, Fjorden is the dominant country of the continent. Over three hundred years ago, Fjorden nearly conquered all of Sycla/Opelon—only Arelon, with the help of Elantrian magic, stood against it. The Old Empire, or First Empire, fell because of administrative problems—it conquered more than it could hold. Just after its fall, Wyrn Wulfden the First converted to the Derethi religion, and within a generation all of Fjorden had done likewise. Now, instead of sending troops across the continent, Fjorden sends priests. It is said that the conversions obtained—or forced—by these priests have granted Fjorden more power than even the First Empire once held.}}
-{{gld|Forton|(F) An alchemist in Hrovell.}}
-{{anchor|G}}
-{{gld|Galladon|(D) An Elantrian. Before the Shaod took him, he was from Duladel.}}
-{{gld|Garha|(F) A caffeine rich drink from Fjorden.}}
-{{gld|Gatrii|(A) One of prince [[Eton]]'s top generals.{{bws ref|the-mad-prince|The Mad Prince|post=&nbsp;- *[[Elantris (book)|Elantris]]* deleted scene|date=Aug 12, 2013}}}}
-{{gld|Gorndel|(S) A common tuber grown throughout Sycla/Opelon.}}
-{{gld|Graeo|(A) A Teois nobleman. Once betrothed to Sarene.}}
-{{gld|Grador| (F) The rank in the Derethi priesthood directly above Arteth. Generally, they lead chapels in large cities.}}
-{{gld|Gragdet| (F) A special rank in the Derethi priesthood. The title is given to those who lead monasteries in Fjorden. Their rank in relation to the rest of the priesthood depends on the importance of their monastery. The three most important Gragdets—the ones who lead Rathbore, Dakhor, and Fjeldor monasteries—out-rank even Gyorns.}}
-{{gld|Gretgor|(F) Mythical sword of Wyrn, founder of Fjorden.}}
-{{gld|Grondkest|(F) A famous Derethi philosopher.}}
-{{gld|Gurish|a breed of horse? {{tes ref|2}}}}
-{{gld|Gyorn| (F) The highest sequential rank in the Derethi priesthood. Gyorns are only subject to the will of Wyrn and, occasionally, Gragdets. The Gyorns are amongst the most powerful people on the content—in Derethi nations, Kings are required to bow before them. Gyorns often serve to oversee the Derethi faithful in an entire nation, though they are also given special political duties, such as serving as Wyrn's personal emissary. Their blood-red ceremonial armor gives them an imposing aura, an aura enhanced by their reputation. It is said that Gyorns are the most politically savvy, and the most heartless, people under Wyrn's control. Political unrest often follows in their wake, and where they are displeased Kings are often found assassinated.}}
 
 ## H - M
-{{anchor|H}}
-{{gld|HaiKo|(J) A [[JinDo]] shrimp dish. Often cooked with crayfish from the JinDo marshes instead.}}
+
 ;*Hama*: (D) Grandmother
-{{gld|Haona| (A) An Elantrian woman.{{ref|group=nb|name=onlyGlossary|text=Only mentioned in the glossary}}}}
-{{gld|Hoed|(A) Elantrians who lost their mind, succumbed to pain and agony.}}
-{{gld|Horen|(A) A nervous Elantrian man.}}
-{{gld|Hraggen|(F) A small country to the southeast of Fjorden. It has long been under Fjorden's control, and is known for its fine cuisine.}}
-{{gld|Hraggish| (F) An adjective to describe something or someone from Hraggen.}}
-{{gld|Hrathen|(F) One of the most infamous Derethi Gyorns. Forty-two years old, Hrathen has been serving the Derethi church in one capacity or another since his childhood. In recent times, it is rumored that he was behind the collapse of the Duladen republic.}}
-{{gld|Hroden|(F) 'Master' or 'Lord.' It is half of the two-part Derethi oath bond. (See also Odiv.)}}
-{{gld|Hrovell|(F) A backwater country to the far southeast. Its people speak Fjordell with a harsh accent, and they have little knowledge of what is happening in the rest of the world. Hrovell claims Derethi as its state religion, but most people practice a jumbled combination of the Jeskeri Mysteries, Derethi, and shamanism.}}
-{{gld|Hroven| (F) A word to describe someone or something from Hrovell.}}
+
 ;*Hruggath*: (F) An obscene oath in Fjordell; often used with 'Ja,' the shortened, vulgar word for Jaddeth.
-{{anchor|I}}
-{{gld|Iadon|(A) King of Arelon. Before the Reod, he was a well-respected merchant known for his straight-forwardness. He has a strong temper, and a slight paranoia of assassins.}}
-{{gld|Iald|(A) A port city in [[Ial Plantation]].}}
-{{gld|Idan|(A) A minor nobleman in Arelon.}}
+
 ;*Idos*: (A) Merciful. Often used when calling on Domi's name.
-{{gld|Idotris|An older teen who is given the task of looking after children{{book ref|thoe}}}}
+
 ;Iir: (A) The Aon for "Strength."
-{{anchor|J}}
+
 ;*Ja*: (F) The Vulgar version of 'Jaddeth,' God of the Derethi religion.
-{{gld|Jaador|(F) A nation to the east. Its people are racially [[JinDo]], but religiously Derethi. They are fond of dueling.}}
-{{gld|Jaadorian| (F) A word to describe someone or something from Jaador.}}
-{{gld|Jaddeth| (F) The historical Fjordell god of the underworld. Upon Wulfden the First's adoption of Shu-Dereth as the official state religion, Jaddeth was adapted to become the official god of the religion. Hold-overs from the ancient pantheistic Jaddeth still exist, however, such as the tradition that Jaddeth's Kingdom lies beneath the earth, not in the heavens.}}
-{{gld|Jalla|(S) Lukel's Svordish wife.}}
-{{gld|Jedaver| (F) The Jaadorian word for a fencing sword.}}
-{{gld|Jesker|(D) The Duladen religion. It is the oldest theological system still practiced in the modern world. Historically, Jesker is a peaceful religion suited to the Duladen light-hearted lifestyle. It teaches that all men must bring themselves in harmony with the 'Dor,' thereby living in harmony with nature. The Jeskeri Mysteries have taken many precepts from Jesker and, according to strict Jesker believers, vulgarized them into a horrid approximation of the religion's true teachings. (See also 'Dor,' 'Jeskeri Mysteries.'}}
-{{gld|Jeskeri Mysteries|(D) A descendant of the original Jesker religion, the Mysteries combine traditional Jesker beliefs with new tenets. While Jesker teaches one to bring oneself in harmony with the Dor, the Mysteries teach that the better way is to try and influence the Dor—or fate—in one's favor. Through secret rites focusing on the creation and destruction of life, Jeskeri followers believe they can bring good fortune to themselves or downfall to their enemies. Because many of these rites involve fertility rites, sexual practices, and live sacrifices, most people fear or hate Jeskeri. The religion is most hated by the country where it found birth—Duladen. Despite its unpopular practices, the Mysteries continue to be a force in most nations. Many monarchs have tried, unsuccessfully, to stamp the religion out. Popular times for Jeskeri rites are during times of celestial import—such as the full moon or eclipses. Some Jeskeri sects are known to practice human sacrifice, but these are quickly stamped out when monarchs learn of them.}}
-{{gld|JinDo|(J) A country directly east of Duladel. JinDo is the birthplace of both Shu-Dereth and Shu-Korath. An unassuming people with dark brown skin and fine features, the JinDo are soft-spoken and uncombative. About a century ago, JinDo finally submitted to allow Derethi priests past its borders. Not long after, the country officially converted—its people believe that to submit is better than to waste energy resisting.}}
-{{anchor|K}}
+
 ;Kaa: (A)
 :# The [[Aon]] for "plants."
 :# A [[Kaa Plantation|plantation]] in southern Arelon, currently held by baron [[Shuden]].
-{{gld|Kae|(A) The current capital of Arelon. Before the Reod, Kae was one of the four smaller cities that surrounded Elantris. It was populated by wealthy merchants and craftsmen who pandered to the Elantrians. After the Reod, Kae became King Iadon's seat of power. The other three cities were quickly depopulated—not only did Iadon need people to man the plantations, without Elantris's magic, the country was not able to provide food for so many people living in one place.}}
-{{gld|Kahar|(A) An elderly Elantrian man.}}
-{{gld|Kaise|(A) Kiin and Daora's daughter.}}
-{{gld|Kalomo River|}} (D) The river that marks the border between Arelon and Duladel.
-{{gld|Kaloo| (D) A common Duladen name.}}
-{{gld|Karata|(A) An Elantrian woman. One of the three gang leaders in Elantris, Karata holds the palace section of the city.}}
-{{gld|Kathari|(F) A large pink fruit grown in Hraggen.}}
+
+ (D) The river that marks the border between Arelon and Duladel.
+
 ;*Kayana*: (D) Insane.
-{{gld|KeHwo|(J) The honorific name given to Keshu to signify his status as a great teacher.}}
-{{gld|Keseg|(F) The Fjordell name for Keshu.}}
-{{gld|Keshu|(J) Keshu was an elderly [[JinDo]] philosopher who ended up spawning two of the most powerful religions in the world. Keshu was a revolutionary thinker who combined traditional JinDo ideas—such as the power of unity—with such concepts as a single, omnipotent god and an organized ministry. Keseg didn't see himself as a revolutionary; his teachings were meant to clarify what the JinDo already believed. His two disciples, however, collected his teachings in the Do-Keseg, then carried them through the world.}}
-{{gld|Ketathum|(F) A Hraggish pork dish.}}
+
 ;Kie: (A)
 :# The [[Aon]] for "circle."
 :# A [[Arelon#Plantations|plantation]] in the middle of Arelon.
-{{gld|Kike|(S) A common fish found in the Sea of Fjorden.}}{{ref|group=nb|text=Changed to "trike" in the anniversary edition}}
-{{gld|Kiin|King Eventeo of Teod's brother. Estranged from his brother for some unknown reason, Kiin now lives in Arelon with his wife Daora, his two children, Daorn and Kaise, and his adopted children Maiben and Lukel. Kiin is tall, like many Teos, and has a sizable girth. His voice is scratchy, though it is uncertain if the state was caused by aging or some sort of disease.}}
-{{gld|Kimeon| (A) A lowly Arelis noble title.}}
-{{gld|Kimess| (A) The feminine version of Kimeon.}}
-{{gld|Kmeer| (D) The Duladen name for a fencing sword.}}
-{{gld|KoHwo|(J) The [[JinDo]] name of Korath. One of Keseg's two disciples, Korath carried his teachings to Teod.}}
+
 ;*Kolo*: (D) A tag question commonly used in Duladen, especially amongst the commoners. It means 'Isn't that right?' or 'Don't you think?'
-{{gld|Korath|(F) One of Keseg's two disciples. Korath believed that all men would be unified by love. His teachings found root in Teod, which is where his religion originated. The name they use for him, ironically, is his Fjordell one.}}
-{{gld|Korathi| (F) An adjective used for Shu-Korath. Usually refers to the Korathi religion.}}
-{{gld|Krondet| (F) Half of the Derethi oath-bond. Krondet is similar to Odiv, but far less binding. (See Odiv.)}}
-; *KuNuKam*: Mulla'dil word {{tes ref|97}}
-{{anchor|L}}
-{{gld|Laio quarry|{{tes ref|2}}}}
-{{gld|Leky stick|(S) A Svordish game popular in many nations.}}
-{{gld|Loren|(A) An Elantrian man.}}
-{{gld|Lukel|(A) A merchant, oldest son of Daora, and adopted son of Kiin. Lukel just finished studies in the Svordish university, where he married a Fjordell named Jalla. He was Raoden's best friend when the two of them were growing up.}}
-{{anchor|M}}
-{{gld|Maare|(A) An Elantrian woman.}}
-{{gld|MaeDal| (A) Second day of the week according to the Aonic calendar.}}
-{{gld|Maipon sticks| (J) Eating utensils used in [[JinDo]].}}
-{{gld|Mareshe|(A) An Elantrian. Before the Shaod took him, he was a jeweler.}}
-{{gld|Meala|(A) Head maid in Iadon's castle.}}
+
+; *KuNuKam*: Mulla'dil word 
 
 ## N - R
-{{anchor|N}}
-{{gld|Naolen|A [[Teo]] official{{book ref|Elantris|2}}}}
-{{gld|Neoden|(A) The aging wife of an Arelis earl.}}
-{{anchor|O}}
-{{gld|Odiv| (F) Half of the Derethi oath-bond. Derethi society is stratified in a way that each person is linked back to Jaddeth. Common people swear an oath bond to their priests, who in turn swear an oath bond to the priest higher than them, who swear to those higher than them. Eventually, it all ends with Wyrn. There are two types of oaths: Odiv-Hroden and Krondet-Hroden. In both cases, the Hroden is the lord and the other is the servant. Odiv—the oath usually sworn by priests—is far more binding than Krondet. If one swears to be another's Odiv, then their spiritual salvation depends on how well they serve their Hroden. They are required to do whatever their Hroden commands, even if it is against their own conscience or will.}}
-{{gld|Omin| (A) Head priest of Shu-Korath in Arelon.}}
-{{gld|Opais|(A) Young daughter of a guard in Iadon's palace.}}
+
 ;Iir: (A) The Aon for "Nation."
-{{gld|OpeDal| (A) Sixth day of the week according to the Aonic calendar.}}
-{{gld|Opelon|(A) The Aonic word for the continent containing Arelon, Fjorden, [[JinDo]], and all of the other nations except Teod. (See also Sycla.)}}
-{{gld|Overspirit|(D) Another word for the Dor.}}
-{{anchor|R}}
-{{gld|Ragnat| (F) Rank in the Derethi priesthood directly below Gyorn. They usually oversee a region of Derethi worshipers.}}
-{{gld|RaiDel|(J) A spicy peper favored in [[JinDo]].{{book ref|Elantris|47}}}}
-{{gld|RaiDomo Mai|(J) 'Meat with a fiery skin.' A [[JinDo]] delicacy.{{book ref|Elantris|47}}}}
-{{gld|Rain|[[Arelene]] town{{book ref|Elantris|3}}}}{{ref|group=nb|text=Changed to "Naen" in the anniversary edition}}
-{{gld|Ralkalest|A metal which cannot be [[Forgery|Forged]]{{tes ref|2}}}}
-{{gld|Ramear|(A) A young Arelis noble of lesser rank.}}
-{{gld|Raoden|(A) Crown Prince of Arelon}}
-{{gld|Raoden's mother| }}
-{{gld|Rathbore Monastery|(F) One of the most influential Fjordell monasteries. It trains assassins.}}
-{{gld|Redeem|A lord who falls in [[Roial]]'s pond{{book ref|Elantris|32}}}}{{ref|group=nb|text=Changed to "Redeen" in the anniversary edition}}
-{{gld|Reod|(A) The name given to the fall of Elantris. No one knows what caused the Reod. It happened instantaneously; before it, the Elantrians were god-like individuals with incredible power. After the Reod, they were pathetic creatures barely alive. The Reod's effect was felt throughout Arelon; it caused riots in Kae and the surrounding cities, it caused the collapse of the Arelene religion. It was even said to have caused physical cataclysms in the land itself, instigating a massive earthquake that opened an enormous crack in the ground just south of lake Alonoe.}}
-{{gld|Revertiss| (F) A famous food dish.}}
-{{gld|Riil|(A) An Elantrian man. Before the Shaod took him, he was a bricklayer.}}
-{{gld|Rivercrawler|(J) A type of [[JinDo]] crawfish.}}
-{{gld|Roial|(A) An elderly Arelis Duke. Roial is one of the richest, and most influential, men in Arelon. His wealth is only matched by Duke Telrii. Roial is known for his fondness of political games—which he wins more often than not.}}
+
 ;*Ruda*: (D) Feminine of Rulo.
 ;*Rulo*: (D) A word that loosely translates as 'unfortunate one.'
 
 ## S - U
-{{anchor|S}}
-{{gld|Saolin|(A) An Elantrian man. Before the Shaod took him, he was a warrior in Eondel's legion.}}
-{{gld|Sarene|(A) Only daughter of King Eventeo of Teod. Sarene is twenty-five years old and unmarried. She is fond of politics, and has served for the last five years in her fathers diplomatic corps. Recently, she entered into a political betrothal with Prince Raoden of Arelon.}}{{ref|group=nb|text=Spelled as "Sarane" on the website.}}
-{{gld|Savery|(S) A precious rock. Green in color, it can only be found in caverns far beneath the earth.}}
-{{gld|Seaden|(A) Earl Ahan's portly wife.}}
-{{gld|Seala|(A) A young Arelene girl who died nearly twenty years ago.}}
-{{gld|Secabird|(D) A brightly-colored bird native to the Duladen lowlands.}}
-{{gld|Seinalan|(A) Patriarch of the Korathi Religion. He lives in Teod and is said to be a fashionable dresser.}}
-{{gld|Seon|(A) Mystical sentient floating balls of light connected to Elantris. Each seon bears an Aon at its center, which glows and causes the seon's light. Seons are autonomous, intelligent beings who have given themselves to the service of mankind. It is assumed that they were somehow constructed by the Elantrians, but no one knows how. There are only two ways a seon can die. The first is if its master gets taken by the Shaod. It is unknown why this kills seons—it did not kill them before the Reod. The other way a seon can die is if it releases its Aon. If it does so, the Aon will let loose its power, as if it were drawn by AonDor. However, the seon will cease to exist.}}
-{{gld|Seor|(A) An ancient Elantrian scholar.}}
-{{gld|Seraven|(S) The capital of Svorden.}}
-{{gld|Shaod| (A) 'The transformation.' This is the name for the mystical event that changes a regular person into an Elantrian. The Shaod takes only minutes, and it is irreversible. It chooses people with apparent randomness, though it does follow a couple of rules. It only takes people who live in Arelon or northwestern Duladel, and it only takes people of Aonic blood—meaning either Teos, Arelenes, or Dulas. Before the Reod, the Shaod transformed a person into a glowing, quick-healing being with god-like powers. After the Reod, the Shaod instead began to change people into corpse-like creatures with blotchy skin.}}
-{{gld|Shaor|(A) An Elantrian. One of the three gang leaders of Elantris, Shaor controls the market section of the city.}}
-{{gld|ShinDa|(J) A popular board-game that originated in [[JinDo]].}}
+
 ;*Shu*: (J) 'Path of.'
-{{gld|Shu-Dereth|(J/F) The name given to the religion founded by Dereth. Shu-Dereth interpreted Keseg's teachings to mean that all men must be united beneath the rule of one nation. Dereth taught that once all men bow before a single monarch, proving their unified nature, God would come to live amongst them. Though Dereth's ideas were originally rejected in his native [[JinDo]], they were embraced by the Fjordell. Wyrn Wulfden the First converted, and so, therefore, did most of his people. Since that time, Shu-Dereth has been the official religion of Fjorden, and has spread to all of the eastern nations. Fjorden's militaristic society stratified and organized Dereth's teachings into an almost martial level.}}
-{{gld|Shuden|(J) A young baron in Arelon. Though Shuden is racially [[JinDo]], he is nationally Arelene, where he holds lands and a title. Both were given to his father by King Iadon in exchange for opening a caravan route from [[JinDo]] to Kae.}}
-{{gld|Soine|(A) Youngest daughter of Duke Telrii. She died when she was very young, though it is rumored she was actually taken by the Shaod.}}{{ref|group=nb|text=Originally listed as "Sorii" in earlier editions, this entry no longer appears on the website.}}
-{{gld|Stonelark|A beach bird which digs holes in wet sand{{book ref|Elantris|47}}}}
-{{gld|Sourmelon|A delicious fruit that will only grow in the Duladen highlands.}}
+
 ;*Sule*: (D) Friend.
-{{gld|Svorden|(S) Easternmost nation in Sycla. Svorden is a political alley of Fjorden. However, unlike most nations to the east, Svorden has been able to maintain a strong national identity, despite Derethi encroachment. It is the only eastern nation besides [[JinDo]] that has maintained its own language, and it is the second most politically important eastern nation. It is known for its university, its culture, and its naval prowess.}}
-{{gld|Svordish| (S) A word for someone, or something, from Svorden.}}
-{{gld|Svrakiss|(S) A Svordish concept integrated into the Derethi Religion. The Svrakiss are beings forbidden entrance to heaven. They are forced to wander the world, preying on the living. They are half-ghost, half-demon, in the Derethi religion, and are often used to represent all that is evil.}}
-{{gld|Sweetsands|A form of perfume{{book ref|Elantris|51}}}}
-{{gld|Sycla|(F) The Fjordell word for the continent which includes every nation but Teod. (See also Opelon.)}}
-{{gld|Syclan| (F) Of or relating to the continent of Sycla.}}
-{{gld|Syre| (F) The Fjordell word for a fencing sword.}}
-{{anchor|T}}
-{{gld|Taan|(A) An Elantrian. Before the Shaod took him, he was a stonecarver.}}
-{{gld|Tao|A [[Forger]] that teaches [[Wan ShaiLu]]{{tes ref|42}}}}
-{{gld|Telrii|(A) An Arelis Duke. Along with Roial and Iadon, he is one of the richest and most powerful men in Arelon.}}
-{{gld|Tenrao|(A) An Elantrian man.}}
-{{gld|Teod|(A) Nation that comprises the northern peninsula, the only part of the northern continent that is habitable. It is a relatively cold land, but not insufferably so.}}
-{{gld|Teoin|(A) Capital of Teod.}}{{ref|group=nb|name=TeodCapital|text=In the original edition of *Elantris*, Teoin was the capital of Teod and Teoras was a city to the east. In the anniversary edition, Teoras is the capital and is in the same location that Teoin was in the original edition; there are no references to Teoin. It is unclear if the largest Korathi temple in Teod is still in Teoras}}
-{{gld|Teois| (A) An adjective referring to Teod.}}
-{{gld|Teoras|(A) A city just east of Teoin. It houses the Largest Korathi temple in Teod.}}{{ref|group=nb|name=TeodCapital}}
-{{gld|Teoren|The name [[Raoden]] calls at [[Mareshe]] on his entry to [[Elantris (city)|Elantris]], it is a common [[Aonic]] name{{book ref|Elantris|7}}}}
-{{gld|Teorn|(A) Son of King Eventeo of Teod. Crown prince and brother of Sarene.}}
+
 ;Tii: (A)
 :# The [[Aon]] for "green."
 :# A [[Arelon#Plantations|plantation]] in the middle of Arelon.
-{{gld|Tooledoo|(D) A card game that originated in Duladel.}}
-{{gld|Torena|(A) Daughter of Earl Ahan. She is slight of frame and somewhat quiet.}}
-{{gld|Tore| (A) A very minor noble title in Arelon.{{ref|group=nb|name=onlyGlossary}}}}
 
 ## V - Z
-{{anchor|V}}
-; The {{gl|Velding}}: Somewhere in [[Svorden]] worth spying on{{book ref|Elantris|17}}
-{{gld|Ven Kartah|A [[Fjorden]] city{{bws ref|Elantris-map-progression|Elantris map progression (map 7)|date=Dec 3, 2007}}}}
-{{gld|Vivare|dynasty of art? {{tes ref|12}}}}
-{{anchor|W}}
-{{gld|Waren|(A) A young noble in Arelon, known for his white hair and piety.}}
-{{gld|Weedfingers| insult used for the bloodsealer {{tes ref|97}}}}
-{{gld|Widor|(F) The capital of Fjorden.}}
-{{gld|Wulfden| (F) A common name for Fjordell Wyrns. Wulfden the First was the one who instigated Derethi as the state religion of Fjorden.}}
-{{gld|Wyrn (title)|(F) Title of the Fjordell emperor. It is also a religious title, indicating the highest priest in the Derethi religion. His official title is 'Regent of all Creation,' referring to his state of rulership until Jaddeth rises to build his Empire.}}
-{{gld|Wyrning| [[Fjorden]] gold currency{{book ref|Elantris|15}}{{book ref|Elantris|45}}{{ref|group=nb|text=Spelled as "Wyrnig" on the website.}}}}
-{{anchor|Z}}
-{{gld|Zigareth|(F) Name for the Fjordell palace in Widor, where Wyrn lives.}}
+
+; The : Somewhere in [[Svorden]] worth spying on
 
 ## Notes
 <references />
 ; Footnotes
 <references group=nb />
-{{indices|done|date=?}}
+
 [[Category:Glossary Subpages]]

@@ -1,8 +1,11 @@
-{{culture
-|earth=Alcatraz
-|books=[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]
-}}
-The **Incarna** were an ancient people that existed possibly around the time of the ancient Egyptians (judging by [[Allekatrase|Alcatraz the First]]'s sarcophagus).{{book ref|a1|3}}
+---
+source_file: Incarna.txt
+entity_type: culture
+earth: Alcatraz
+books: '[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]'
+---
+
+The **Incarna** were an ancient people that existed possibly around the time of the ancient Egyptians (judging by [[Allekatrase|Alcatraz the First]]'s sarcophagus).
 
 They created the [[Smedry Talent]]s by some unknown process. They fell victim to a terrible calamity that was related to the Talents. Alcatraz the First broke his people's language so that no future generations could use the knowledge to bring destruction to themselves.
 
@@ -12,5 +15,3 @@ In the fourth book, *[[Alcatraz Versus the Shattered Lens]]*, it is revealed tha
 
 ## Notes
 <references />
-{{partial}}
-{{Alcatraz}}

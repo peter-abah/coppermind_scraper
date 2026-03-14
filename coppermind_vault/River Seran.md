@@ -1,16 +1,15 @@
-{{geography
-|type={{cat tag|Water body|River}}
-|region=Eastern Dominance
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 1]]
-}}
-{{for|Seran River|the post-[[Catacendre]] river}}
-The **River Seran** is a river at the edge of the [[Eastern Dominance]] of the [[Final Empire]].{{map ref|Final Empire|the Final Empire}} It connects the two Serans, [[North Seran]] and [[South Seran]], and is near the [[Conventical of Seran]]. It is unclear if the lakes were named Seran first, or the Conventical, or some other city.
+---
+source_file: River Seran.txt
+entity_type: geography
+region: Eastern Dominance
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
+---
 
-There is at least one settlement or plantation on the River Seran.{{book ref|mb6|15}}
+The **River Seran** is a river at the edge of the [[Eastern Dominance]] of the [[Final Empire]]. It connects the two Serans, [[North Seran]] and [[South Seran]], and is near the [[Conventical of Seran]]. It is unclear if the lakes were named Seran first, or the Conventical, or some other city.
+
+There is at least one settlement or plantation on the River Seran.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:58, 25 December 2016 (MST)}}
-{{Mistborn|Era 1}}

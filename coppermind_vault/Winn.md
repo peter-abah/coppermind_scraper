@@ -1,16 +1,15 @@
 ---
-titles: "General"
-#profession: "soldier"
-nation: "Alethkar"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Wind and Truth"
+source_file: Winn.txt
+entity_type: character
+titles: General
+'#profession': soldier
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-{{update|sa5}}
-**Winn** is an [[Alethi]] general on [[Roshar]].{{book ref|sa5|47}}
+**Winn** is an [[Alethi]] general on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{stormlight}}

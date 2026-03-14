@@ -1,0 +1,2 @@
+#redirect[[Moash]]
+[[category: aliases]]

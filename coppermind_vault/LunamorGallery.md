@@ -1,3 +1,8 @@
+---
+source_file: LunamorGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Bridge 4 poster without text.jpg | <center><small> by Zack Stella </small></center> With the other members of [[Bridge Four]], *[[The Way of Kings]]* kickstarter art

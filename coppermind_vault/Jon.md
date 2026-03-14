@@ -1,4 +1,7 @@
-{{Template:Disambig}}
+---
+source_file: Jon.txt
+entity_type: template:disambig
+---
 
 The name **Jon** may refer to several distinct people:
 *[[Jon Acron]] - A professor and anthropologist from [[Darkside]] who accompanies [[Khriss]] to [[Dayside]]. 

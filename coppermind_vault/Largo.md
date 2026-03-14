@@ -1,17 +1,17 @@
-{{vehicle
-|image=Largo_Ship_Design.jpeg
-|type={{cat tag|Spacecraft}}, {{cat tag|DDF Ships}}
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-The **Largo** is a [[starfighter]] used by the [[DDF]]. It is a heavy fighter ship that armed with destructors and IMP missiles. It is a bulky ship that is unable to out manoeuvre or outrun [[varvax|Krell]] ships.{{book ref|Skyward|44}} The fuselage of a Largo is only a little narrower than that of the two-person [[Dulo]].{{book ref|sf1|9}}
+---
+source_file: Largo.txt
+entity_type: vehicle
+image: Largo_Ship_Design.jpeg
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
 
-[[Cobb]] believes that [[Jorgen]] would do well flying a Largo.{{book ref|Skyward|44}}
+The **Largo** is a [[starfighter]] used by the [[DDF]]. It is a heavy fighter ship that armed with destructors and IMP missiles. It is a bulky ship that is unable to out manoeuvre or outrun [[varvax|Krell]] ships. The fuselage of a Largo is only a little narrower than that of the two-person [[Dulo]].
 
-[[Spensa]] trained on a Largo during flight school. She thought it was inferior to [[M-Bot]], and found it to be slow and commonplace.{{book ref|Skyward|44}}
+[[Cobb]] believes that [[Jorgen]] would do well flying a Largo.
+
+[[Spensa]] trained on a Largo during flight school. She thought it was inferior to [[M-Bot]], and found it to be slow and commonplace.
 
 ## Notes
 <references />
-{{complete|--[[User:Stargazer|Stargazer]] ([[User talk:Stargazer|talk]]) 18:06, 28 September 2021 (UTC)}}
-{{Skyward}}

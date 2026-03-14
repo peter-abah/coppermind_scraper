@@ -1,4 +1,7 @@
-{{CoverToC|reckoners}}
+---
+source_file: SteelheartCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[Steelheart]]*. For more information, including what other editions used any particular cover, visit each image's file page.
 

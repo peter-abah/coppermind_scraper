@@ -1,15 +1,14 @@
 ---
-groups: "{{tag+|Reckoner"
+source_file: Jori.txt
+entity_type: character
+groups: Reckoner
+earth: Reckoners
+books: '[[Firefight]]'
 ---
 
-|earth=Reckoners
-|books=[[Firefight]]
-}}
 **Jori** is a [[lorist]] for the [[Reckoners]].
 
-He sent [[Tia]] some of his data on an [[Epic]] named [[Sourcefield]], including some information that [[David Charleston]] did not have in his files. David requested the rest of Jori's file{{book ref|Firefight|8}} and presumably used it to help figure out Sourcefield's Epic weakness.{{book ref|Firefight|26}}
+He sent [[Tia]] some of his data on an [[Epic]] named [[Sourcefield]], including some information that [[David Charleston]] did not have in his files. David requested the rest of Jori's file and presumably used it to help figure out Sourcefield's Epic weakness.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:34, 17 December 2019 (UTC)}}
-{{Reckoners}}

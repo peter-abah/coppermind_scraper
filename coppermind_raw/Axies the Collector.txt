@@ -1,0 +1,2 @@
+#REDIRECT [[Axies]]
+[[Category: Aliases]]

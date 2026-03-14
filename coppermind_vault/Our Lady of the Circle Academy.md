@@ -1,11 +1,14 @@
-{{architecture
-|usage={{cat tag|Academic institutions|Academy}} of {{tag|Rithmatics}}
-|earth=Rithmatist|nation=United Isles of America|state=Kokomo
-|books=[[The Rithmatist]]
-}}
-**Our Lady of the Circle Academy** is one of the eight schools that teach [[Rithmatics]] in the [[United Isles of America]]. It is located on [[Kokomo]].{{map ref|united isles|the United Isles}}
+---
+source_file: Our Lady of the Circle Academy.txt
+entity_type: architecture
+usage: of Rithmatics
+earth: Rithmatist
+nation: United Isles of America
+state: Kokomo
+books: '[[The Rithmatist]]'
+---
+
+**Our Lady of the Circle Academy** is one of the eight schools that teach [[Rithmatics]] in the [[United Isles of America]]. It is located on [[Kokomo]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 15:08, 25 December 2016 (MST)}}
-{{Rithmatist}}

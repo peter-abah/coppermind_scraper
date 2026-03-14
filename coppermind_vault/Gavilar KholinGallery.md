@@ -1,3 +1,8 @@
+---
+source_file: Gavilar KholinGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Gavilar firestorm.jpg | <center><small>by [[Ben McSweeney]]</small></center> Gavilar with Firestorm

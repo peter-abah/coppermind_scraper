@@ -1,0 +1,16 @@
+{{character
+|profession={{tag+|ardent}}
+|residence=Urithiru
+|nation=Alethkar
+|world=Roshar
+|books=[[The Stormlight Archive]]
+}}
+{{for|Ishnah|the [[Order of Lightweavers|Lightweaver]]}}
+'''Insah''' is an [[ardent]] on [[Roshar]]. She served in the monastery at the [[House Kholin|Kholin]] warcamp on the [[Shattered Plains]] during the [[War of Reckoning]]. Her [[Devotary]] is not known, though it is not the same as [[Kadash]]'s.{{book ref|sa3|50}}
+
+While investigating [[Taln]]'s disappearance, [[Dalinar]] visited the monastery and asked Kadash for information. Checking his ledgers, Kadash found that Taln had been under Insah's care in room thirty-seven of the prisonlike [[Glyphs#Numbers|Shash]] building where mentally ill patients were held. He pointed Dalinar to her office, noting that she likely left the warcamp hurriedly after the [[Battle of Narak]] (presumably for [[Urithiru]]). In the office, Dalinar found a hole in the wall cut out with a [[Shardblade]] and a [[blackbane]]-tipped dart, reinforcing his belief that Taln disappeared because he really was a Herald. Dalinar also found a locked safe that he opened with [[Kaladin]]'s help. He found Insah's records on Taln's treatment and later delivered them to [[Navani]].{{book ref|sa3|50}}
+
+== Notes ==
+<references />
+{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 06:22, 4 July 2018 (MST)}}
+{{Stormlight}}

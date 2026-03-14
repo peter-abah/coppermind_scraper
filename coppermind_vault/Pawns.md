@@ -1,14 +1,14 @@
-{{culture
-|type={{cat tag|games|Game}}
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
+---
+source_file: Pawns.txt
+entity_type: culture
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
 **Pawns** is a game played on [[Roshar]].
 
-[[Dalinar]] once beat [[Tanalan]] in a game of pawns, and the bet was settled with a hundred flakes of ruby each glowing and placed in a different bottle of wine.{{book ref|sa3|11}} 
+[[Dalinar]] once beat [[Tanalan]] in a game of pawns, and the bet was settled with a hundred flakes of ruby each glowing and placed in a different bottle of wine. 
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 10:47, 26 December 2017 (MST)}}
-{{Stormlight}}

@@ -1,0 +1,51 @@
+{{character
+|abilities={{tag+|Lightweaver}}, {{tag+|worldhopping}}
+|bonded=[[Cluster]]
+|profession=Artist, Traveloguer
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=Chasmfiend<span style="font-style: normal;"> Vol 1</span>
+}}
+
+'''Dulac''' is a [[Scadrian]] [[worldhop]]per bonded to the [[cryptic]] [[Cluster]].{{rpg ref|cfm1|14-15}}
+
+==Attributes and Abilities==
+Having bonded a cryptic, Dulac has access to the [[surges]] of [[Illumination]] and [[Transformation]]. They use these to good effect in their line of work to sneak into restricted areas and keep themselves well provisioned while traveling through [[Shadesmar]].
+
+== History ==
+Dulac was commissioned by anonymous patrons to produce a travelogue about [[Roshar]]. They arrived a few years before [[Vorin|1174]]{{rpg ref|cfm1|14-15}} and during their time visited [[Azimir]],{{rpg ref|slwg|38-39}} [[Herdaz]],{{rpg ref|slwg|45}} [[Vedenar]],{{rpg ref|slwg|54-55}} [[Thaylen City]],{{rpg ref|slwg|72-73}} occupied [[Kholinar]],{{rpg ref|slwg|153}} [[Rall Elorim]],{{rpg ref|slwg|156-157}} occupied [[Narak]],{{rpg ref|slwg|159}} the [[Alethi]] [[warcamp]]s,{{rpg ref|slwg|167}} and [[Celebrant]].{{rpg ref|slwg|174}} By [[Catacendre|349 PC]] they were back on Scadrial.{{rpg ref|cfm2|28-29}}
+
+==Travelogue==
+{{copyright}}
+
+===Roshar===
+{{quote
+|Receiving a commission for an illustrated travelogue is usually the kind of job an artist can only dream about. It delights me that my wealthy patrons (who remain anonymous at their request) considered me worthy of this task. Though not native to Roshar, I have spent years immersing myself in its peoples, histories, and environments, and I even managed to bond a Cryptic along the way. I hope my outsider's perspective proves valuable to any worldhopping adventurers daring to explore this war-torn, storm-washed world. Adventurous you must be, if you want to visit! The current political climate across the continent is especially volatile, and an aura of imminent, sweeping change permeates the air.<br />Yet as always, fortune favors the bold. The opportunity to experience the planet's rich variety of cultures, majestic cities, and unique ﬂora and fauna is worth any risk: from the roaring Stormfalls of the City of Shadows in the Northwest to the frigid Thaylen Sea in the Southeast. The newly reopened Oathgates make traveling the continent more accessible than ever.<br />My Lightweaving has proved immeasurably useful, not only for blending in among the locals, but also for sneaking unnoticed into territories under Odium's control, like occupied Kholinar and various locations in Shadesmar.<br />I oﬀer my immense gratitude to my patrons and the many local guides and travel companions who helped me in capturing these glimpses of this vast and fascinating world.
+|Dulac, Shashishev 1174{{rpg ref|cfm1|14-15}}
+}}
+
+<gallery widths=250px heights=375px caption=Pages>
+SLWG Travelogue Herdaz.png|Travelogue page featuring a farmstead in [[Herdaz]]
+SLWG Travelogue Rall Elorim.png|Travelogue page featuring [[Rall Elorim]]
+SLWG Travelogue Warcamps.png|Travelogue page featuring an [[Alethi]] [[warcamp]]
+SLWG Travelogue Celebrant.png|Travelogue page featuring the [[Shadesmar]] city [[Celebrant]]
+</gallery>
+
+===Scadrial===
+{{quote
+|Returning to Scadrial after all these years feels both nostalgic and surreal. Who would have thought I'd miss the storms? The ways the cities of the Elendel Basin and beyond have transformed in the last few years dazzle the eye and boggle the mind. The leaps in innovation have been trickling out even into the more remote areas of the Roughs. Electricity, telecommunications, motorcars, train lines, and airships are making the world feel both smaller and larger at the same time, and the cultural impacts at every level of society have been fascinating to witness.<br />But rediscovering once-familiar locales is not the only task my patrons have given me. In addition to depictions of the current states of the northern Scadrian societies, they have also requested reimaginings of the Anteverdant Age and the Final Empire. Researching the details of life during the time of the Ascendant Warrior--depicting those cultures with the same vitality and specificity as the life witnessed with my own eyes--was a painstaking process. But with the help of some contacts old and new, I hope to create something satisfying to both my sponsors and our dear readers alike. Luckily, this planet is home to individuals and societies that place great value on the preservation of history.
+|Dulac, 349 PC{{rpg ref|cfm2|28-29}}
+}}
+
+<gallery widths=250px heights=375px caption=Pages>
+MBWG Travelogue Final Empire.webp|Travelogue page featuring a reimagined [[Central Dominance]] during the [[Final Empire]]
+MBWG Travelogue Terris Dominance.png|Travelogue page featuring a reimagined [[Terris Dominance]] during the [[Final Empire]]
+MBWG Travelogue Elendel.png|Travelogue page featuring the city of [[Elendel]]
+</gallery>
+
+==Trivia==
+Dulac's travelogues are illustrated by {{a|Marie Seeberger}} who envisions the character as a [[copper]] [[ferring]] born in the Outer Cities of the [[Elendel Basin]] but studied in [[Elendel]] before moving to the [[Northern Roughs]] to be a landscape artist prior to becoming a worldhopper.
+
+==Notes==
+<references />
+{{partial}}

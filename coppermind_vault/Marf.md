@@ -1,17 +1,18 @@
 ---
-merge-family: "y|children=Agil"
-residence: "Hearthstone"
-nation: "Alethkar"
-world: "Roshar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Marf.txt
+entity_type: character
+merge-family: y
+children: '[[Agil]]'
+residence: Hearthstone
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-**Marf** is a resident of [[Hearthstone]] on [[Roshar]].{{book ref|sa1|44}}
+**Marf** is a resident of [[Hearthstone]] on [[Roshar]].
 
-In {{Rosharan date|1168|missing-date=y}}, when Highmarshal [[Meridas Amaram]] visited to Hearthstone to recruit men for his army, Citylord [[Roshone]] chooses Marf's son [[Agil]] to be one of the men conscripted, along with [[Caull]], [[Habrin]], [[Jorna]] and [[Tien]].
+In , when Highmarshal [[Meridas Amaram]] visited to Hearthstone to recruit men for his army, Citylord [[Roshone]] chooses Marf's son [[Agil]] to be one of the men conscripted, along with [[Caull]], [[Habrin]], [[Jorna]] and [[Tien]].
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 10:57, 3 August 2018 (MST)}}
-{{Stormlight}}

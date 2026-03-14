@@ -1,15 +1,18 @@
 ---
-merge-family: "y|siblings=Dreamer (character)|Dreamer"
-died: "~2010s"
-powers: "Possession of the living, Bolting"
-'species: "Poltergeist (formerly human)"
-'residence: "Wikipedia: New York City|New York City"
-'nation: "Wikipedia: United States|United States of America"
-earth: "Dreamer"
-introduced: "Dreamer"
+source_file: Phi.txt
+entity_type: character
+merge-family: y
+siblings: '[[Dreamer (character)|Dreamer]]'
+died: ~2010s
+powers: Possession of the living, [[Bolting]]
+'''species': '[[Poltergeist]] (formerly human)'
+'''residence': '[[Wikipedia: New York City|New York City]]'
+'''nation': '[[Wikipedia: United States|United States of America]]'
+earth: Dreamer
+introduced: '[[Dreamer]]'
 ---
 
-**Phi** is a [[Poltergeist|poltergeist]], the spirit of a dead young man who must possess the bodies of living people. He is part of a group of gamer poltergeists that play games like "capture the flag" and "cops and robbers," using living bodies like "lives" in a video game.{{book ref|dreamer}}
+**Phi** is a [[Poltergeist|poltergeist]], the spirit of a dead young man who must possess the bodies of living people. He is part of a group of gamer poltergeists that play games like "capture the flag" and "cops and robbers," using living bodies like "lives" in a video game.
 
 <!-- 
 ## History
@@ -19,5 +22,3 @@ Phi bragged to the group that he could beat them all even if they teamed up agai
 
 ## Notes
 <references />
-{{stub}}
-{{Dreamer}}

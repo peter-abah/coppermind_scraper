@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Epigraphs.txt
+entity_type: disambig
+---
 
 Several of [[Brandon Sanderson|Brandon's]] books have [[wikipedia:Epigraph (literature)|epigraphs]] before the start of each chapter. Subject to the terms of [[Coppermind:Copyrights|our copyright policy]], the Coppermind has collected them on the wiki.
 
@@ -8,7 +11,7 @@ Several of [[Brandon Sanderson|Brandon's]] books have [[wikipedia:Epigraph (lite
 * **[[The Hero of Ages/Epigraphs|*The Hero of Ages* epigraphs]]** come from the [[Words of Founding]].
 
 ### The Stormlight Archive
-==== *[[The Way of Kings]]* ====
+#### *[[The Way of Kings]]*
 **[[The Way of Kings/Epigraphs|*The Way of Kings* epigraphs]]** come from several different sources:
 * The **[[The Way of Kings/Epigraphs#Death Rattle Quotes|Part One epigraphs]]** are [[Death Rattle]]s collected by the [[Silent Gatherer]]s.
 * The **[[The Way of Kings/Epigraphs#The Letter|Part Two epigraphs]]** form a [[Letters|letter]] from [[Hoid]] to [[Frost]].
@@ -16,7 +19,7 @@ Several of [[Brandon Sanderson|Brandon's]] books have [[wikipedia:Epigraph (lite
 * The **[[The Way of Kings/Epigraphs#Death Rattle Quotes|Part Four epigraphs]]** are [[Death Rattle]]s collected by the [[Silent Gatherer]]s.
 * Part Five has no epigraphs
 
-==== *[[Words of Radiance]]* ====
+#### *[[Words of Radiance]]*
 The **[[Words of Radiance/Epigraphs|*Words of Radiance* epigraphs]]** come from several different sources:
 * The **[[Words of Radiance/Epigraphs#Navani's Journal|Part One epigraphs]]** are excerpts from [[Navani Kholin]]'s [[Navani's journal|journal]].
 * The **[[Words of Radiance/Epigraphs#The Listener Songs|Part Two epigraphs]]** are verses from several [[listener]] songs.
@@ -24,7 +27,7 @@ The **[[Words of Radiance/Epigraphs|*Words of Radiance* epigraphs]]** come from 
 * The **[[Words of Radiance/Epigraphs#The Second Letter|Part Four epigraphs]]** form a reply from Frost to Hoid in response to the letter from *The Way of Kings* Part Two epigraphs.
 * The **[[Words of Radiance/Epigraphs#The Diagram|Part Five epigraphs]]** are excerpts from [[Taravangian]]'s [[Diagram (literature)|Diagram]].
 
-==== *[[Oathbringer]]* ====
+#### *[[Oathbringer]]*
 The **[[Oathbringer/Epigraphs|*Oathbringer* epigraphs]]** come from several different sources:
 * The **[[Oathbringer/Epigraphs#Preface to Oathbringer|Part One epigraphs]]** are excerpts from the preface to the in-world *[[Oathbringer (in-world)|Oathbringer]]*, the book [[Dalinar Kholin]] writes after the [[Battle of Thaylen Field]].
 * The **[[Oathbringer/Epigraphs#Letters|Part Two epigraphs]]** are letters from the [[Shard]]s [[Endowment]] (chapters 33-41), [[Autonomy]] (via its avatar [[Patji (being)|Patji]]; chapters 42-51), and [[Harmony]] (chapters 53-57) to Hoid, likely in response to a letter similar to the one he sent Frost.
@@ -32,7 +35,7 @@ The **[[Oathbringer/Epigraphs|*Oathbringer* epigraphs]]** come from several diff
 * The **[[Oathbringer/Epigraphs#Hessi's Mythica|Part Four epigraphs]]** are excerpts from the in-world book by [[Hessi]], *[[Mythica]]*, which attempts to catalogue the [[Unmade]].
 * The **[[Oathbringer/Epigraphs#Eila Stele and The Way of Kings Postscript|Part Five epigraphs]]** are excerpts from the *[[Eila Stele]]*, a document written by a [[singer]] around the time of the first [[Desolation]] (chapters 115-118), and from the postscript to the in-world *[[The Way of Kings (in-world)|Way of Kings]]*, the book written by [[Nohadon]] about his journeys (chapters 119-122).
 
-==== *[[Rhythm of War]]* ====
+#### *[[Rhythm of War]]*
 The **[[Rhythm of War/Epigraphs|*Rhythm of War* epigraphs]]** come from several different sources:
 * The **[[Rhythm of War/Epigraphs#Lecture on fabrial mechanics|Part One epigraphs]]** are a transcript of a lecture on [[fabrial]] mechanics presented to the [[coalition of monarchs]] by [[Navani Kholin]].
 * The **[[Rhythm of War/Epigraphs#The Letter|Part Two epigraphs]]** are a letter from the [[Shard]] [[Harmony]] to Hoid, continuing their earlier correspondence.
@@ -40,7 +43,7 @@ The **[[Rhythm of War/Epigraphs|*Rhythm of War* epigraphs]]** come from several 
 * The **[[Rhythm of War/Epigraphs#Kalak's journal|Part Four epigraphs]]** are excerpts from [[Kalak]]'s journal, reflecting on his nature as a [[Herald]].
 * The **[[Rhythm of War/Epigraphs#Musings of El|Part Five epigraphs]]** are excerpts from the musings of [[El]], a [[Fused]] scholar of human art forms, on the first of the Final Ten Days.
 
-==== *[[Wind and Truth]]* ====
+#### *[[Wind and Truth]]*
 The **[[Wind and Truth/Epigraphs|*Wind and Truth* epigraphs]]** come from several different sources:
 * The **[[Wind and Truth/Epigraphs#Knights of Wind and Truth|Day One epigraphs]]** are excerpts from the in-world book *[[Knights of Wind and Truth]]*, an account of the cleansing of [[Shinovar]] written by [[Masha-daughter-Shaliv]].
 * The **[[Wind and Truth/Epigraphs#The Way of Kings, Fourth Parable|Day Two epigraphs]]** are the fourth parable from the in-world *[[The Way of Kings (in-world)|Way of Kings]]*, the book written by [[Nohadon]] about his journeys.

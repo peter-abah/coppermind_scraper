@@ -1,14 +1,13 @@
 ---
-#profession: "Soldier"
-nation: "Shin"
-world: "Roshar"
-universe: "Cosmere"
+source_file: Visk-daughter-Brador.txt
+entity_type: character
+'#profession': Soldier
+nation: Shin
+world: Roshar
+universe: '[[Cosmere]]'
 ---
 
-{{update|sa5}}
-**Visk-daughter-Brador** is a [[Shin]] woman on [[Roshar]]. She serves as an officer in [[Szeth]]'s army during his rebellion against the other [[Honorbearer]]s.{{book ref|sa5|106}}
+**Visk-daughter-Brador** is a [[Shin]] woman on [[Roshar]]. She serves as an officer in [[Szeth]]'s army during his rebellion against the other [[Honorbearer]]s.
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

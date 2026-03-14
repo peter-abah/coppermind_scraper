@@ -1,10 +1,10 @@
 ---
-books: "Dark One (franchise)|Dark One"
+source_file: Mirandus.txt
+entity_type: location
+books: '[[Dark One (franchise)|Dark One]]'
 ---
 
-{{update|do1}}
-
-**Mirandus** is an alternate world connected to [[Earth (Dark One)|Earth]]. It contains the [[Kingdoms of Light]] and the [[Blackened Lands]].{{map ref|Mirandus}} Mirandus is described as a dream, with Earth being the echo of it.{{book ref|do1|4}}
+**Mirandus** is an alternate world connected to [[Earth (Dark One)|Earth]]. It contains the [[Kingdoms of Light]] and the [[Blackened Lands]]. Mirandus is described as a dream, with Earth being the echo of it.
 
 ## Map
 
@@ -13,20 +13,16 @@ books: "Dark One (franchise)|Dark One"
 ## Culture and Society
 
 ### Nations
-{{for|:Category:Mirandus|a list of locations on Mirandus}}
 
-Mirandus is primarily split into two nations, the Kingdoms of Light, and the Blackened Lands, each the primary home of different beings.{{book ref|do1|1}}{{book ref|do1|2}} The Kingdoms of Light is home to a race of pre-industrial humans, whilst the Blackened Lands are the lands of the [[drull]], human-like beings born grown from the soils of Mirandus.{{book ref|do1|3}}
+Mirandus is primarily split into two nations, the Kingdoms of Light, and the Blackened Lands, each the primary home of different beings. The Kingdoms of Light is home to a race of pre-industrial humans, whilst the Blackened Lands are the lands of the [[drull]], human-like beings born grown from the soils of Mirandus.
 
 ### Time
 
-Time works differently on Mirandus to Earth, with the people of Mirandus not understanding the concept of an hour.{{book ref|do1|2}}{{book ref|do1|3}} A day and night cycle is observed, though it is said there are no days on Mirandus.{{book ref|do1|3}} The [[Narrative]] outlines a repeating story that keeps occurring with the continuous rise of a [[Dark One (title)|Dark One]] and an opposing [[Destined One]].{{book ref|do1|3}}{{book ref|do1|1}}
+Time works differently on Mirandus to Earth, with the people of Mirandus not understanding the concept of an hour. A day and night cycle is observed, though it is said there are no days on Mirandus. The [[Narrative]] outlines a repeating story that keeps occurring with the continuous rise of a [[Dark One (title)|Dark One]] and an opposing [[Destined One]].
 
 ### Narrative
-{{for|Narrative|more information}}
 
-The Narrative is fundamental to Mirandus and the beliefs of both the humans and drull that live there.{{book ref|do1|2}}{{book ref|do1|3}} It outlines the rise of a Dark One, and a Destined One to oppose and defeat them.{{book ref|do1|2}}
+The Narrative is fundamental to Mirandus and the beliefs of both the humans and drull that live there. It outlines the rise of a Dark One, and a Destined One to oppose and defeat them.
 
 ## Notes
 <references />
-{{partial}}
-{{Dark One}}

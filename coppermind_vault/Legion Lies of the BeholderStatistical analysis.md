@@ -1,3 +1,8 @@
+---
+source_file: Legion Lies of the BeholderStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Legion: Lies of the Beholder|Legion: Lies of the Beholder]]***.
 
 ### Chapter by Chapter Breakdown
@@ -71,7 +76,5 @@ This page contains a statistical analysis of ***[[Legion: Lies of the Beholder|L
 | align="right" | **100.00%**
 |}
 
-{{meta/done}}
-{{Legion}}
 [[Category: Legion|*]]
 [[category: statistics]]

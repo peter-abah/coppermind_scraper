@@ -1,17 +1,17 @@
 ---
-nation: "Alethkar"
-world: "Roshar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Velinar.txt
+entity_type: character
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-**Velinar** is a historical figure on [[Roshar]].{{book ref|sa4|34}}
+**Velinar** is a historical figure on [[Roshar]].
 
-Velinar was a [[lighteyes]] that lived during the reign of [[Sadees]], presumably in [[Alethkar]]. He wielded an [[ulius]] during a famous duel for honor with [[Gulastis]].{{book ref|sa4|34}}
+Velinar was a [[lighteyes]] that lived during the reign of [[Sadees]], presumably in [[Alethkar]]. He wielded an [[ulius]] during a famous duel for honor with [[Gulastis]].
 
-When [[Adolin Kholin]] was fourteen, he misguidedly bought an antique ulius used in the Velinar/Gulastis duel as a gift for [[Idani]]. He kept the sword for himself, which had a nick in it from the duel.{{book ref|sa4|34}}
+When [[Adolin Kholin]] was fourteen, he misguidedly bought an antique ulius used in the Velinar/Gulastis duel as a gift for [[Idani]]. He kept the sword for himself, which had a nick in it from the duel.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:41, 12 April 2021 (UTC)}}
-{{stormlight}}

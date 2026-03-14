@@ -1,13 +1,15 @@
 ---
-family: "House Dartmoor"
-parents: "Brig Dartmoor|Brig, Draulin"
-siblings: "Angola Dartmoor|Angola, Bastille"
-earth: "Alcatraz"
-nation: "Nalhalla"
-introduced: "The Knights of Crystallia"
+source_file: Rikers Dartmoor.txt
+entity_type: character
+family: '[[House Dartmoor]]'
+parents: '[[Brig Dartmoor|Brig]], [[Draulin]]'
+siblings: '[[Angola Dartmoor|Angola]], [[Bastille]]'
+earth: Alcatraz
+nation: Nalhalla
+introduced: '[[The Knights of Crystallia]]'
 ---
 
-**Rikers Dartmoor** is the crown prince of [[Nalhalla]].{{book ref|a3|7}} He is in his thirties, wears lavish royal blue and silver robes, a baseball cap, and has a short red beard. He likes to throw exclusive lunch parties and writes fictitious stories about [[Alcatraz Smedry]], including a novel called Alcatraz Smedry and the Mechanic's Wrench.
+**Rikers Dartmoor** is the crown prince of [[Nalhalla]]. He is in his thirties, wears lavish royal blue and silver robes, a baseball cap, and has a short red beard. He likes to throw exclusive lunch parties and writes fictitious stories about [[Alcatraz Smedry]], including a novel called Alcatraz Smedry and the Mechanic's Wrench.
 
 ==History==
 
@@ -16,9 +18,7 @@ Although Prince Rikers had written fictional novels about Alcatraz, he met the f
 He does not like Folsom Smedry because he pans <!--what is this supposed to be? I can't make any sense of this--> his silly fantasy books about Alcatraz flying around on vacuum cleaners.
 
 ## Trivia
-* His last name is a reference to the [[wikipedia:HM_Prison_Dartmoor|HM Prison Dartmoor]] in England. His first name is a reference to [[wikipedia:Rikers_Island|Riker's Island]] prison.{{wob ref|13678}}
+* His last name is a reference to the [[wikipedia:HM_Prison_Dartmoor|HM Prison Dartmoor]] in England. His first name is a reference to [[wikipedia:Rikers_Island|Riker's Island]] prison.
 
 ## Notes
 <references />
-{{partial}}
-{{Alcatraz}}

@@ -1,38 +1,40 @@
 ---
-family: "Teo Royal Family"
-spouse: "Sarene's mother"
-siblings: "Kiin"
-children: "Teorn, Sarene"
-relatives: "Kaise, Daorn"
-bonded: "Dio"
-titles: "King of Teod"
-nation: "Teod"
-world: "Sel"
-universe: "Cosmere"
-introduced: "Elantris (book)|Elantris"
+source_file: Eventeo.txt
+entity_type: character
+family: '[[Teo Royal Family]]'
+spouse: '[[Sarene''s mother]]'
+siblings: '[[Kiin]]'
+children: '[[Teorn]], [[Sarene]]'
+relatives: '[[Kaise]], [[Daorn]]'
+bonded: '[[Dio]]'
+titles: King of [[Teod]]
+nation: Teod
+world: Sel
+universe: '[[Cosmere]]'
+introduced: '[[Elantris (book)|Elantris]]'
 ---
 
-King **Eventeo** is the ruler of [[Teod]] on [[Sel]] and [[Sarene]]'s father.{{book ref|Elantris|2}}
+King **Eventeo** is the ruler of [[Teod]] on [[Sel]] and [[Sarene]]'s father.
 
 ## Appearance and Personality
-{{quote
-|A king's duty is to protect his people. When faced with the choice of conversion or letting my people be destroyed, I think I would have to choose conversion.
-|Eventeo to Sarene on taking action if Arelon fell to Fjordell{{book ref|Elantris|17}}
-}}
-King Eventeo is an honest man who keeps his promises.{{book ref|Elantris|47}} He is religious and follows [[Shu-Korath]], but is very loyal to his people and was willing to convert in order to save them.{{book ref|Elantris|17}}
 
-He is smart and politically savvy,{{book ref|Elantris|17}} but is an absolutely horrible businessman and keeps a fleet of accountants to manage the royal finances.{{book ref|Elantris|20}}
+> A king's duty is to protect his people. When faced with the choice of conversion or letting my people be destroyed, I think I would have to choose conversion.
+> — Eventeo to Sarene on taking action if Arelon fell to Fjordell
 
-He is married to a smart woman which is different from the traditional men in Teod. He has two children [[Sarene]] and her older brother [[Teorn]] who gave him grandchildren.{{book ref|Elantris|17}} He has a brother, [[Kiin]].{{book ref|Elantris|11}}
+King Eventeo is an honest man who keeps his promises. He is religious and follows [[Shu-Korath]], but is very loyal to his people and was willing to convert in order to save them.
 
-To [[Sarene]], Eventeo is a loving father who values his daughter more than traditions and contracts. With her, he does display concern, but also a sense of humor and he would talk sarcastically to on her plans with the court or making jokes on telling her mother of her killing Raoden.{{book ref|Elantris|2}}
+He is smart and politically savvy, but is an absolutely horrible businessman and keeps a fleet of accountants to manage the royal finances.
 
-Though nowhere as large&mdash;in either muscle or fat&mdash;as his brother [[Kiin]], he was more portly than he was stocky. He owns green royal robes.{{book ref|Elantris|62}}
+He is married to a smart woman which is different from the traditional men in Teod. He has two children [[Sarene]] and her older brother [[Teorn]] who gave him grandchildren. He has a brother, [[Kiin]].
 
-He is not only a traditionalist, but a scholar himself. He is well aware of the ancient meaning of the Aon, and has remarked on occasion that he finds the choice particularly accurate when applied to his daughter.{{wob ref|7594}}
+To [[Sarene]], Eventeo is a loving father who values his daughter more than traditions and contracts. With her, he does display concern, but also a sense of humor and he would talk sarcastically to on her plans with the court or making jokes on telling her mother of her killing Raoden.
+
+Though nowhere as large&mdash;in either muscle or fat&mdash;as his brother [[Kiin]], he was more portly than he was stocky. He owns green royal robes.
+
+He is not only a traditionalist, but a scholar himself. He is well aware of the ancient meaning of the Aon, and has remarked on occasion that he finds the choice particularly accurate when applied to his daughter.
 
 ## Attributes and Abilities
-He is an honest man, smart and politically saavy,{{book ref|Elantris|17}} but he was an absolutely horrible businessman; he kept a fleet of accountants to manage the royal finances.{{book ref|Elantris|20}} He is a better king than his brother would have been.{{wob ref|2194}} He has a Seon named Dio.
+He is an honest man, smart and politically saavy, but he was an absolutely horrible businessman; he kept a fleet of accountants to manage the royal finances. He is a better king than his brother would have been. He has a Seon named Dio.
 
 ## History
 ### Path towards becoming King of Teod
@@ -42,41 +44,39 @@ Some minor crisis arrived at the same time as their father died, and Eventeo&mda
 
 Kiin was popular with the military men, however, because of the heroic figure he cut. He was the adventuring sailor, while Eventeo was a scholarly bureaucrat. Over the next few years, Kiin managed to gather a naval force from pirates, deserters from Eventeo's armies, and mercenary forces. It was during this time he nearly died to the accident that crushed his throat. He took the name "Dreok," after Aon Reo, and sailed against Teod, trying to take the throne by force.
 
-Eventeo won the battle, though only barely. Kiin barely escaped with his life, and went to Arelon to recoup and plan his next invasion. However, he fell in love with [[Daora]], and slowly began to loose his hard edge.{{wob ref|2194}}
+Eventeo won the battle, though only barely. Kiin barely escaped with his life, and went to Arelon to recoup and plan his next invasion. However, he fell in love with [[Daora]], and slowly began to loose his hard edge.
 
 ### Restoration of Elantris
 King Eventeo of Teod supported his daughter [[Sarene]] who, in an attempt to re-establish diplomatic relations with [[Arelon]], arranges her political marriage with [[Raoden|Prince Raoden]].
 
-With the rise of the [[Fjordell Empire]] putting pressure on Teod and [[Arelon]], the alliance between the two empires was important enough to let her daughter stay there after she found Raoden had died.{{book ref|Elantris|2}}
+With the rise of the [[Fjordell Empire]] putting pressure on Teod and [[Arelon]], the alliance between the two empires was important enough to let her daughter stay there after she found Raoden had died.
 
-This however was not enough to make things easier in [[Teod]]. Not only he had to put down Mystery cultists, but received direct offense of Fjordell when [[Ashgress]], their Ambassador, left Teod. The Fjordell borders started closing to Teo merchants north and south, and their ambassadors and spies began to disappear. He started to consider religious conversion if Arelon fell to the Fjordell.{{book ref|Elantris|17}}
+This however was not enough to make things easier in [[Teod]]. Not only he had to put down Mystery cultists, but received direct offense of Fjordell when [[Ashgress]], their Ambassador, left Teod. The Fjordell borders started closing to Teo merchants north and south, and their ambassadors and spies began to disappear. He started to consider religious conversion if Arelon fell to the Fjordell.
 
-He and [[Iadon]], the King of Arelon, tried to strike back at Fjordell by uniting economically. Though Iadon got the best of the pact, Sarene was convinced it was for the best.{{book ref|Elantris|20}} After that, he sent new spies into Arelon and found out about the death of Iadon right away. He and Sarene kept talking politics, considering the possibilities. They both acknowledge the situation was very difficult for them.{{book ref|Elantris|35}}
+He and [[Iadon]], the King of Arelon, tried to strike back at Fjordell by uniting economically. Though Iadon got the best of the pact, Sarene was convinced it was for the best. After that, he sent new spies into Arelon and found out about the death of Iadon right away. He and Sarene kept talking politics, considering the possibilities. They both acknowledge the situation was very difficult for them.
 
-Sarene was tricked and sent to Elantris under a faked illness and Duke Telrii was about to take power and because he is in friendly terms with Gyorn [[Hrathen]], Eventeo called Sarene to let her know he would come get her. She was able to convince him not to, but Eventeo decided to set the troops in defense position. He warned Sarene that any ship approaching Teo waters would be sunken.{{book ref|Elantris|41}}
+Sarene was tricked and sent to Elantris under a faked illness and Duke Telrii was about to take power and because he is in friendly terms with Gyorn [[Hrathen]], Eventeo called Sarene to let her know he would come get her. She was able to convince him not to, but Eventeo decided to set the troops in defense position. He warned Sarene that any ship approaching Teo waters would be sunken.
 
-Eventeo found out Hrathen would be able to heal Sarene and reached out to him. He promised that if his daughter returns safely from that city, he will convert to Shu-Dereth.{{book ref|Elantris|45}} The oath would place Eventeo at the bottom of the Derethi hierarchy, forcing him to submit to the whims of even a simple priest.{{book ref|Elantris|47}}
+Eventeo found out Hrathen would be able to heal Sarene and reached out to him. He promised that if his daughter returns safely from that city, he will convert to Shu-Dereth. The oath would place Eventeo at the bottom of the Derethi hierarchy, forcing him to submit to the whims of even a simple priest.
 
-This, however, was not enough for [[Dilaf]] who had managed to gain much power on Arelon and Fjordell. His end goal was to kill people in both countries. He called Eventeo letting him know he had Sarene and would kill her if they did not surrender or placed resistance to their invasion. Dilaf was committed to kill him personally.{{book ref|Elantris|59}}
+This, however, was not enough for [[Dilaf]] who had managed to gain much power on Arelon and Fjordell. His end goal was to kill people in both countries. He called Eventeo letting him know he had Sarene and would kill her if they did not surrender or placed resistance to their invasion. Dilaf was committed to kill him personally.
 
-Upon Dilaf’s arrival, King Eventeo stood with a small honor guard surrounding him. He bowed his head as Dilaf approached. The monk smiled, preparing his knife. Eventeo though he was presenting his country for surrender.{{book ref|Elantris|60}} Dilaf wanted Eventeo to see his daughter die before him, but was faced by Hrathen who punched him and moved the King to defend Teod.{{book ref|Elantris|61}}
+Upon Dilaf’s arrival, King Eventeo stood with a small honor guard surrounding him. He bowed his head as Dilaf approached. The monk smiled, preparing his knife. Eventeo though he was presenting his country for surrender. Dilaf wanted Eventeo to see his daughter die before him, but was faced by Hrathen who punched him and moved the King to defend Teod.
 
-Teod got the assistances of Raoden and the Elantrians and with the help of Hrathen, both [[Dilaf]] and the invading army were defeated. Eventeo searched for Sarene who was also unharmed after the battle.{{book ref|Elantris|62}}
+Teod got the assistances of Raoden and the Elantrians and with the help of Hrathen, both [[Dilaf]] and the invading army were defeated. Eventeo searched for Sarene who was also unharmed after the battle.
 
 ## Relationships
 ### Sarene
-Eventeo is a loving father who likes talking with [[Sarene]] about politics. He respects her and is fully aware of how persuasive she can be.{{book ref|Elantris|2}} He was also open to tell her the situation was bad enough for him to be scared. This something he would only tell her.{{book ref|Elantris|17}}
+Eventeo is a loving father who likes talking with [[Sarene]] about politics. He respects her and is fully aware of how persuasive she can be. He was also open to tell her the situation was bad enough for him to be scared. This something he would only tell her.
 
-He had made sure to include an extensive knowledge of Shu-Dereth in her education.{{book ref|Elantris|8}}
+He had made sure to include an extensive knowledge of Shu-Dereth in her education.
 
-He has a special tone of voice he uses to get her doing her way, it usually worked. He however failed to realize how she felt during her time in [[Teod]] but their open communication let her to open her heart to him through Seon communication.{{book ref|Elantris|17}}
+He has a special tone of voice he uses to get her doing her way, it usually worked. He however failed to realize how she felt during her time in [[Teod]] but their open communication let her to open her heart to him through Seon communication.
 
 ## Trivia
-* Due to his weight, he is on a special diet.{{book ref|Elantris|35}}
+* Due to his weight, he is on a special diet.
 
-* It makes sense to Brandon that a culture like the [[JinDo]] might figure out that a diet lower in fats is good for you, but they might not completely understand why. As a result, Eventeo doesn't get to eat butter any more.{{wob ref|2079}}
+* It makes sense to Brandon that a culture like the [[JinDo]] might figure out that a diet lower in fats is good for you, but they might not completely understand why. As a result, Eventeo doesn't get to eat butter any more.
 
 ## Notes
 <references />
-{{partial}}
-{{Elantris}}

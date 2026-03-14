@@ -1,4 +1,7 @@
-
+---
+source_file: KharbranthGallery.txt
+entity_type: article
+---
 
 ## Scenery
 <gallery mode=packed heights=400px caption="Official artwork">

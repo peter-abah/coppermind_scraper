@@ -1,27 +1,30 @@
-{{book
-|cover=Mistborn Final Empire.jpg
-|publisher=Tor books
-|released=July 17, 2006
-|series=[[Mistborn Era 1]]
-|sequel=The Well of Ascension
-|setting=[[Scadrial]], [[Cosmere]]
-|ISBN=ISBN 0-7653-1178-X
-|a=Mistborn
-|page-count=541
-|word-count=[[/Statistical_analysis|210,103]]
-|annotations=annotation-mistborn-introduction
-}}{{for|Final Empire|the nation founded by the [[Lord Ruler]]|pre="The Final Empire" redirects here}}
+---
+source_file: Mistborn The Final Empire.txt
+entity_type: book
+cover: Mistborn Final Empire.jpg
+publisher: Tor books
+released: July 17, 2006
+series: '[[Mistborn Era 1]]'
+sequel: The Well of Ascension
+setting: '[[Scadrial]], [[Cosmere]]'
+isbn: ISBN 0-7653-1178-X
+a: Mistborn
+page-count: '541'
+word-count: '[[/Statistical_analysis|210,103]]'
+annotations: annotation-mistborn-introduction
+---
+
 ***Mistborn: The Final Empire*** is the first volume of the [[Mistborn trilogy]] by [[Brandon Sanderson]]. It is set on [[Scadrial]] and features the magic of [[Allomancy]], [[Hemalurgy]], and [[Feruchemy]].
 
 ## Summary
-{{for|/Summary|a chapter by chapter summary}}
-[[Vin]] is a street urchin. Her brother, Reen, saved her after their mother killed her baby sister, pierced Vin's ear, and attempted to kill her as well. She lived with Reen for a while, while he taught her how to survive on the streets. She eventually winds up in Camon's crew. Camon is a criminal gang leader, who uses Vin for the Allomantic abilities she doesn't know she possesses. She is then taken into a group of thieves led by [[Kelsier]].{{book ref|mb1|2}} They are intent on overthrowing the [[Lord Ruler]], a god-like tyrant who has ruled for a thousand years. The band of thieves are promised the cache of the Lord Ruler's [[atium]], an Allomantic metal that allows Allomancers to see a few seconds into the future, as reward for their contributions.{{book ref|mb1|4}} The group is hounded by [[Steel Inquisitors]], intent on stopping their plans from succeeding.
+
+[[Vin]] is a street urchin. Her brother, Reen, saved her after their mother killed her baby sister, pierced Vin's ear, and attempted to kill her as well. She lived with Reen for a while, while he taught her how to survive on the streets. She eventually winds up in Camon's crew. Camon is a criminal gang leader, who uses Vin for the Allomantic abilities she doesn't know she possesses. She is then taken into a group of thieves led by [[Kelsier]]. They are intent on overthrowing the [[Lord Ruler]], a god-like tyrant who has ruled for a thousand years. The band of thieves are promised the cache of the Lord Ruler's [[atium]], an Allomantic metal that allows Allomancers to see a few seconds into the future, as reward for their contributions. The group is hounded by [[Steel Inquisitors]], intent on stopping their plans from succeeding.
 
 Kelsier uses Vin to infiltrate the parties of the noblemen, gaining information and spreading disorder. She is originally terrified of these parties, but eventually succeeds in becoming skilled at manipulating people. She meets Elend Venture, a nobleman/scholar, who also opposes the Lord Ruler.
 
-Kelsier is a Mistborn, utilizing the powers of [[Allomancy]] to fight against The Lord Ruler. He trains Vin, who he discovers is a Mistborn like himself. He has discovered the [[malatium|Eleventh Metal]], which he claims is going to be used to defeat the Lord Ruler, and spreads this knowledge to the skaa.{{book ref|mb1|10}} This encourages their revolt, and their deifying of him. Kelsier sacrifices himself fighting The Lord Ruler,{{book ref|mb1|35}} but a [[kandra]] named [[OreSeur]] steals his bones and impersonates him,{{book ref|mb1|epilogue}} giving him the illusion of immortality in the minds of the skaa. 
+Kelsier is a Mistborn, utilizing the powers of [[Allomancy]] to fight against The Lord Ruler. He trains Vin, who he discovers is a Mistborn like himself. He has discovered the [[malatium|Eleventh Metal]], which he claims is going to be used to defeat the Lord Ruler, and spreads this knowledge to the skaa. This encourages their revolt, and their deifying of him. Kelsier sacrifices himself fighting The Lord Ruler, but a [[kandra]] named [[OreSeur]] steals his bones and impersonates him, giving him the illusion of immortality in the minds of the skaa. 
 
-After his sacrifice, he leaves Vin the Eleventh Metal, which he never discovered how to use. Vin confronts the Lord Ruler, burning the metal as she does so. She sees an alternate past, and finds out that he is not [[Alendi]], the prophesied savior of mankind, but [[Rashek]], a [[Terris]] packman and a [[Feruchemist]]. Using this knowledge, Vin separates him from his [[metalmind]]s, causing him to age rapidly and die.{{book ref|mb1|38}}
+After his sacrifice, he leaves Vin the Eleventh Metal, which he never discovered how to use. Vin confronts the Lord Ruler, burning the metal as she does so. She sees an alternate past, and finds out that he is not [[Alendi]], the prophesied savior of mankind, but [[Rashek]], a [[Terris]] packman and a [[Feruchemist]]. Using this knowledge, Vin separates him from his [[metalmind]]s, causing him to age rapidly and die.
 
 ## Main Characters
 ;[[Vin]]: She is a Mistborn, discovered by Marsh and Kelsier at age sixteen. Kelsier trains her in Allomancy, and she picks it up quickly. She is notable for having an exceptionally strong ability to burn bronze, including the ability to pierce copperclouds. She is often plagued by the voice of her brother, Reen, who taught her how to survive on the streets. She is skilled at surviving in harsh situations, and throughout the course of the books, uses her street smarts to manipulate members of the nobility as well as the underground. She becomes romantically involved with Elend Venture while disguised as a noblewoman. 
@@ -37,18 +40,16 @@ After his sacrifice, he leaves Vin the Eleventh Metal, which he never discovered
 
 ## Setting
 ### Magic
-;[[Allomancy]]: Allomancy is one of the three [[Metallic Arts]] on [[Scadrial]]. At the time of the events of Mistborn: The Final Empire, only eight basic allomantic metals are known, with [[gold]] (allows user to see into their possible past) and [[atium]] (allows people to see a few seconds into their future) being referred to as 'Higher Metals'. The eight basic metals are [[iron]], [[steel]], [[tin]], [[pewter]], [[zinc]], [[brass]], [[copper]], and [[bronze]].{{book ref|mb1|part=ars}} By the end of the novel, [[aluminum]] is introduced as another Allomantic metal.
+;[[Allomancy]]: Allomancy is one of the three [[Metallic Arts]] on [[Scadrial]]. At the time of the events of Mistborn: The Final Empire, only eight basic allomantic metals are known, with [[gold]] (allows user to see into their possible past) and [[atium]] (allows people to see a few seconds into their future) being referred to as 'Higher Metals'. The eight basic metals are [[iron]], [[steel]], [[tin]], [[pewter]], [[zinc]], [[brass]], [[copper]], and [[bronze]]. By the end of the novel, [[aluminum]] is introduced as another Allomantic metal.
 ;[[Feruchemy]]: Feruchemy is a Metallic art used by Sazed, and other Terris Keepers. It uses the same metals as Allomancy to store physical and mental attributes for later use. You can only draw from your metalminds as much as you put in previously. While you are storing an attribute for later use, you have less of that attribute at that current time. For example, when you are storing speed, you will move incredibly slowly.
 ;[[Hemalurgy]]: Hemalurgy is the final of the three Metallic Arts.  Very little is known about Hemalurgy during the time of Mistborn: The Final Empire, due to the restrictions on knowledge set in place by the Lord Ruler. It is used by the Inquisitors, and has to do with the many spikes driven through their bodies.
 
 ==Cover Gallery==
-{{for|/Covers|a cover gallery for Mistborn: The Final Empire}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Mistborn: The Final Empire* consists of one prologue, thirty-eight chapters, and one epilogue, reaching a total 210,103 word count. There are eight different unique point-of-view characters in a total of 76 POVs.
 
 {|class="wikitable"
@@ -76,9 +77,7 @@ After his sacrifice, he leaves Vin the Eleventh Metal, which he never discovered
 
 ## Notes
 <references/>
-{{meta/partial}}
-{{Mistborn|Era 1}}
-{{books}}
+
 [[category: Mistborn| e1.1]]
 [[category: Mistborn Era 1| 1]]
 [[category: list articles]]

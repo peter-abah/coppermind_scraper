@@ -1,0 +1,46 @@
+{{magic
+|related=[[Allomancy]], [[Feruchemy]], [[Preservation]], [[Ruin]]
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn (series)|Mistborn]]
+}}{{update|book=mb5}}
+A '''Twinborn''' is a [[Metalborn]] with at least one [[Allomantic]] power and one [[Feruchemical]] power.
+
+Twinborn only began to appear after the [[Final Ascension]], due to the intermingling of the [[Terris]] people with the other citizens of the [[Final Empire]]. This mingling also had the effect of diluting Feruchemical power, creating [[Ferring]]s.{{book ref|mb5|part=ars}} The interaction of Feruchemy and [[Allomancy]] in a single person allows for practical benefits of the power ([[Gold|Bloodmaker]]s healing in a time bubble, [[Coinshot]]s augmenting their weight with Feruchemical [[iron]]), etc.
+
+It should be noted however, that it is difficult to be born a [[Allomancy|Mistborn]] and full Feruchemist. This is due to fact that they share portions of the individual's "spiritual DNA"{{wob ref|3440}}, thus making a full manifestation of both abilities almost completely impossible. Whether this means someone can be born a full Mistborn and Ferring or full Feruchemist and Misting is yet to be determined.
+
+== Compounding ==
+{{for|Compounding}}
+If the Twinborn is fortunate enough to obtain the  Allomantic and Feruchemical abilities of the same metal, they can practice [[Compounding]]. Initially seen in The Final Empire, the [[Lord Ruler]] is able to compound all the metals (as a result of his Terris birth and later giving himself Allomancy). After the Lord Ruler's death, [[Sazed]] theorizes about his ability to use [[Allomancy]] and [[Feruchemy]] together which therefore granted him the ability to rapidly heal, maintain a young age and be amazingly strong. Compounding was a one-time occurrence during the time of the Lord Ruler due to the fact that Feruchemists and Allomancers did not commonly mix sexually (a strict breeding program was enforced on the Terris people) and therefore could not genetically mix the powers. Compounding is seen throughout [[Alloy of Law]] in the case of [[Miles Dagouter]] and his extraordinary ability to heal by compounding [[gold]] due to being born a Bloodmaker and an Augur.
+
+Compounding involves storing a Feruchemical attribute in a metalmind, then burning the metalmind Allomantically. This in effect creates a "new metal". Brandon explained, "In compounding, when you have the power of both Allomancy and Feruchemy, you draw power from [[Preservation]] through the metal and it recognizes the power that is already stored--"Oh, this is healing, I know how to do that”--and so you get the power of Feruchemy but boosted by energy from the other place. This is how the Lord Ruler achieved immortality."{{wob ref|6484}}  The Lord Ruler Compounded atium, which stores Youth, in order to stay alive for hundreds of years. It is also likely he Compounded gold, as it is stated that he has survived decapitation and flaying, as well as getting impaled just before he kills [[Kelsier]]. Similarly, Miles 'Hundred-Lives' Dagouter Compounded gold (Health), getting near infinite amounts of Healing.
+It should be noted that Compounding is not currently possible for any individual post ascension who is pierced by a Hemalurgic spike. This is due to the process of "Identity contamination" It has also been hinted that the merging of [[Ruin]] and [[Preservation]] in the vessel [[Harmony]] may have changed the interaction of [[Hemalurgy]] with the other invested arts.
+
+== Classification ==
+Just as individuals with only one Allomantic or Feruchemical power have a special name (i.e. Coinshot, Archivist), each combination of Twinborn has one as well. At this time, only the combination of Crasher (Coinshot and Skimmer) is known in the books. However, [[Wayne]] claims to know the names for each of them.{{book ref|mba1|1}} Excluding the [[God Metal]]s, which have faded into legends by the time of Wax and Wayne, this makes for a total of 256 possible combinations.
+
+=== Resonance ===
+Twinborn, individuals who are both [[Ferring]]s and [[Misting]]s, also have resonances.{{book ref|mb5|part=ars}} [[Resonance]]s are additional powers or effects gained by people with access to more than one [[Investiture|Invested Art]].{{wob ref|4570}} This is described as the two powers combining to create an effect, implying that Twinborn resonances are not a new power all together.{{book ref|mb5|part=ars}}
+
+== Notable Twinborn==
+{{for|:Category:Twinborn}}
+{{columns|
+* [[Waxillium Ladrian]]
+* [[Wayne]]
+* [[Miles Dagouter]]
+* [[Rashek]]
+* [[Forch]]
+}}
+
+== Notes ==
+<references />
+{{partial}}
+{{Mistborn|metals}}
+[[category: Metallic Arts]]
+[[Category: Mistborn Era 2]]
+[[Category: Magic]]
+[[Category: Allomancy]]
+[[Category: Feruchemy]]
+[[category: Twinborn| ]]
+[[es:Nacidoble]]

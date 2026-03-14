@@ -1,0 +1,30 @@
+{{character
+|died={{date|342|pc}}{{book ref|mb6|16}}
+|residence=New Seran
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Bands of Mourning]]
+}}
+
+Lady '''Kelesina Shores''' is a noble resident of [[New Seran]]. She is a believer in the freedom of New Seran and other cities in the [[Elendel Basin]] from Elendel, going so far as to collaborate with the [[Set]].{{book ref|mb6|15}}
+
+== Appearance and Personality ==
+Lady Kelesina is an older woman.{{book ref|mb6|12}} She is described as "statuesque" and wears rings on all of her fingers.{{book ref|mb6|13}} [[Waxillium Ladrian|Wax]] notes that she is a fairly ordinary narcissistic noblewoman.{{book ref|mb6|14}} She lives in a mansion built in an old style, with architecture and interior artwork designed to evoke pre-[[Catacendre]] mansions.{{book ref|mb6|11}}
+
+She likes to consider herself a sort of predator in polite society.{{book ref|mb6|13}}
+
+== History ==
+=== New Seranian Independence ===
+Lady Kelesina was very invested in the independence of the Elendel Basin from Elendel itself. She made an agreement with [[Mister Suit]]: in exchange for her help killing [[ReLuur]] and distracting Wax from the Set's projects, Suit would crush Elendel and would provide Kelesina with an army.{{book ref|mb6|15}} Kelesina had killed ReLuur, and, assuming success, had sent back one of his spikes as proof to Suit.{{book ref|mb6|17}}
+
+=== Kelesina's Party ===
+Lady Kelesina threw a [[Kelesina Shores' party|party]], attended by Wax and Steris.{{book ref|mb6|12}} During the party Wax baited Kelesina into revealing her connection to the Set. He told her that he possessed a mysterious coin and knew of the happenings northeast of New Seran. Alarmed, she fled the party and contacted Suit through a primitive telephone. She argued with Suit, saying that Wax could not be successfully distracted from his mission, while Suit was convinced another mystery would catch his attention. When Wax confronted her after learning she was responsible for the [[Nightstreet Gang]]'s attack on their train, she was shot in the forehead by her [[Pewter#Feruchemical Use|Brute]] maid, who was under orders from Suit.{{book ref|mb6|16}} Once dead, her maid took a [[Gold#Feruchemical Use|Goldmind]] out of Kelesina's pocket, which was later recovered by Wax.
+
+== Trivia ==
+* [[Hoid]] often sneaks onto the grounds of her mansion and has at least a somewhat reasonable claim that he actually owns it.{{book ref|bom|11}}{{wob ref|8392}}
+* There were at least three, maybe four worldhoppers at Kelesina's party, counting Hoid and Khriss.{{wob ref|15176}}
+
+== Notes ==
+<references />
+{{partial}}
+{{Mistborn|Era 2}}

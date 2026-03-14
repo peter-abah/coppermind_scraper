@@ -1,18 +1,15 @@
 ---
-profession: "{{cat tag|Law enforcement"
+source_file: Javies.txt
+entity_type: character
+residence: Elendel
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[Shadows of Self]]'
 ---
-
-|residence=Elendel
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[Shadows of Self]]
-}}
 
 **Javies** is a lieutenant of the [[Elendel]] constabulary on [[Scadrial]].
 
-During Governor [[Replar Innate]]'s speech, he had command of the Fourth Octant field team. He was directed by the senior Second Octant captain to disperse the protesters outside [[Longard]] street.{{book ref|mb5|6}}
+During Governor [[Replar Innate]]'s speech, he had command of the Fourth Octant field team. He was directed by the senior Second Octant captain to disperse the protesters outside [[Longard]] street.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 22:26, 8 April 2022 (UTC)}}
-{{Mistborn|era 2}}

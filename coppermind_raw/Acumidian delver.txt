@@ -1,0 +1,14 @@
+{{character
+|species=Delver
+|universe=[[Cytoverse]]
+|introduced=[[Starsight]]
+}}
+The '''Acumidian delver''' is a [[delver]] that crossed into the universe nearly two hundred years before the [[Battle of Alta Second]].{{book ref|sky2|21}} 
+
+It destroyed the planet of [[Farhaven]] by vaporizing its population. This event was captured on video, and was later used in a Superiority training program at [[Starsight (station)|Starsight]] to fight against the delvers.{{book ref|sky2|21}} 
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 04:09, 31 January 2020 (UTC)}}
+{{Skyward}}
+[[es:Zapador de Acumidia]]

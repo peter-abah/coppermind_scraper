@@ -1,23 +1,19 @@
 ---
-abilities: "{{tag+|Surgebinder"
+source_file: Alakavish.txt
+entity_type: character
+abilities: Surgebinder
+died: '''''Unknown'''''
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|died=*Unknown*
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
+> Our own natures destroy us. Alakavish was a [[Surgebinder]]. He should have known better. And yet, the [[Nahel bond]] gave him no more wisdom than a regular man.
+> — [[Nohadon]] on Alakavish and the [[Nahel bond]]
 
-{{quote
-|Our own natures destroy us. Alakavish was a [[Surgebinder]]. He should have known better. And yet, the [[Nahel bond]] gave him no more wisdom than a regular man.
-|[[Nohadon]] on Alakavish and the [[Nahel bond]]{{book ref|sa1|60}}
-}}
+**Alakavish** was a [[Surgebinder]] during the time of [[Nohadon]] on [[Roshar]]. He did not bond an [[honorspren]].
 
-**Alakavish** was a [[Surgebinder]] during the time of [[Nohadon]] on [[Roshar]]. He did not bond an [[honorspren]].{{book ref|sa1|60}}
-
-He somehow brought the world to war prior to a [[Desolation]]. His powers held a large allure to the common people. Eleven years into the Desolation, some wished to blame Alakavish, thinking that if he hadn't caused a war, the Desolation would not have caused so much damage. Nohadon, however, thought Alakavish was a symptom of a greater disease: that humanity would be torn by war and squabbling, and perhaps deserved to lose against the [[Voidbringers]].{{book ref|sa1|60}}
+He somehow brought the world to war prior to a [[Desolation]]. His powers held a large allure to the common people. Eleven years into the Desolation, some wished to blame Alakavish, thinking that if he hadn't caused a war, the Desolation would not have caused so much damage. Nohadon, however, thought Alakavish was a symptom of a greater disease: that humanity would be torn by war and squabbling, and perhaps deserved to lose against the [[Voidbringers]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 06:27, 29 February 2020 (UTC)}}
-{{Stormlight}}

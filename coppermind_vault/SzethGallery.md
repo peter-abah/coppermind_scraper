@@ -1,3 +1,8 @@
+---
+source_file: SzethGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Szeth.jpg | <center><small>by {{a|Ben McSweeney}}</small></center>

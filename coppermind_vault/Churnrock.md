@@ -1,17 +1,15 @@
 ---
-world: "Alornia"
-universe: "Wode States"
-books: "Perfect State"
+source_file: Churnrock.txt
+entity_type: item
+world: Alornia
+universe: '[[Wode]] [[State]]s'
+books: '[[Perfect State]]'
 ---
 
-{{quote
-| He crossed the floor, which sparkled with twisting churnrock--a type of stone that changed colors with pressure.
-| [[Kairominas|Kai]], about [[Besk]] in the portal room{{book ref|ps|2}}
-}}
+> He crossed the floor, which sparkled with twisting churnrock--a type of stone that changed colors with pressure.
+> — [[Kairominas|Kai]], about [[Besk]] in the portal room
 
-**Churnrock** is the name of a mineral found on [[Alornia]]. It has the property of changing colors under physical pressure. It was gifted to [[Kairominas]] by the [[Larkian|Larkians]], and used to line the floor of his portal room. It was placed there because the shifting colors unsettle Kai's stomach, and he rarely uses the portal room.{{book ref|ps|2}}
+**Churnrock** is the name of a mineral found on [[Alornia]]. It has the property of changing colors under physical pressure. It was gifted to [[Kairominas]] by the [[Larkian|Larkians]], and used to line the floor of his portal room. It was placed there because the shifting colors unsettle Kai's stomach, and he rarely uses the portal room.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 09:27, 16 June 2018 (MST)}}
-{{Perfect State}}

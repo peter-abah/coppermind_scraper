@@ -1,15 +1,15 @@
 ---
-residence: "Reshi Isles"
-world: "Roshar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Gom.txt
+entity_type: character
+residence: Reshi Isles
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-**Gom** was an acquaintance of the [[ardent]]s [[Geranid]] and [[Ashir]].{{book ref|sa1|i|8}}
+**Gom** was an acquaintance of the [[ardent]]s [[Geranid]] and [[Ashir]].
 
-Gom brought the ardents a vegetable from [[Shinovar]].{{book ref|sa1|i|8}} Ashir was fascinated by the way the vegetable caramelized.
+Gom brought the ardents a vegetable from [[Shinovar]]. Ashir was fascinated by the way the vegetable caramelized.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 22:41, 4 June 2016 (MST)}}
-{{Stormlight}}

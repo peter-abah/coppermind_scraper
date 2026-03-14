@@ -1,3 +1,8 @@
+---
+source_file: The RithmatistCovers.txt
+entity_type: article
+---
+
 This is a gallery for all known covers for *[[The Rithmatist]]*. For more information, including what other editions used any particular cover, visit each image's file page.
 
 <gallery widths=3000px heights=400px mode="packed">

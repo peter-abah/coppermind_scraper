@@ -1,16 +1,16 @@
 ---
-residence: "Alethi warcamps"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "The Way of Kings"
+source_file: Rilla.txt
+entity_type: character
+residence: Alethi warcamps
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[The Way of Kings]]'
 ---
 
-**Rilla** is a woman on [[Roshar]].{{book ref|sa1|12}}
+**Rilla** is a woman on [[Roshar]].
 
 ## History
-She was presumably a [[lighteyed]] member of the [[Alethi]] nobility, as she had a relationship with [[Adolin Kholin]] while staying in the Alethi warcamps on the [[Shattered Plains]] in {{Rosharan date|1173}}. After Adolin stopped courting [[Deeli]], he courted two other women and [[Janala Lustow]] over the span of a few months before getting involved with Rilla.{{book ref|sa1|12}} She and Adolin had a falling out after she found out that he was still seeing Janala.{{book ref|sa1|12}} [[Renarin]] chided Adolin for his treatment of Rilla, and Adolin admitted to himself that he was at fault.{{book ref|sa1|12}}
+She was presumably a [[lighteyed]] member of the [[Alethi]] nobility, as she had a relationship with [[Adolin Kholin]] while staying in the Alethi warcamps on the [[Shattered Plains]] in . After Adolin stopped courting [[Deeli]], he courted two other women and [[Janala Lustow]] over the span of a few months before getting involved with Rilla. She and Adolin had a falling out after she found out that he was still seeing Janala. [[Renarin]] chided Adolin for his treatment of Rilla, and Adolin admitted to himself that he was at fault.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 13:05, 6 March 2019 (MST)}}
-{{Stormlight}}

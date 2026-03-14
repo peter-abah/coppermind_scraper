@@ -1,0 +1,18 @@
+{{settlement
+|nation=Kerzta
+|region=Dayside
+|world=Taldain
+|universe=[[Cosmere]]
+|books=[[White Sand]]
+}}
+'''Esh'Ker'Losh''' is a tent city in the [[Kerztian]] [[Kerla]] on [[Taldain]]'s [[Dayside]].{{map ref|dayside|Taldain Dayside}} The city is northwest of Mount [[KraeDa]]. 
+
+The Duchess [[Khrissalla]]'s [[Darkside]] party passes the outskirts of Esh'Ker'Losh as [[Daazk]] is leading them from [[Dosha-Har'Ken]] to [[Lossand]].{{book ref|ws|1}} They decide against stopping for supplies when they notice that Kerztian guards appear violent. Because their water supplies are dwindelling, Khrissalla decides they will instead head toward Mount KraeDa to search for a spring to refill their water supplies.
+
+== Trivia ==
+* If the map's iconography implies city size, then Esh'Ker'Losh would be approximately twice the size of Dosha-Har'Ken, but much smaller than [[Ker Kedasha]].
+
+== Notes ==
+<references />
+{{complete}}
+{{White Sand}}

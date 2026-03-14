@@ -1,15 +1,15 @@
 ---
-image: "Warcamps.jpg"
-world: "Roshar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Vandonas.txt
+entity_type: character
+image: Warcamps.jpg
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-**Vandonas** is an artist on [[Roshar]] that visited and then painted the [[Alethi]] warcamps.{{map ref|warcamps|Alethi Warcamps}}
+**Vandonas** is an artist on [[Roshar]] that visited and then painted the [[Alethi]] warcamps.
 
-He named the river flowing past the warcamps the [[River Vandonas]], after himself.{{wob ref|10074}}
+He named the river flowing past the warcamps the [[River Vandonas]], after himself.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:25, 11 September 2018 (MST)}}
-{{Stormlight}}

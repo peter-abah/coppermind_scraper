@@ -1,0 +1,12 @@
+{{character
+|'nation=[[Hordaland|Hordaman]]
+|earth=Frugal Wizard
+|introduced=[[The Frugal Wizard's Handbook for Surviving Medieval England]]
+}}
+{{quote|Gorm, take the skop and put her with the captive. Give the men a taste of-|The Hordaman captain is cut off by [[John West]]{{book ref|fwh|14}}}}
+'''Gorm''' is a [[Hordaland|Hordaman]] raider.  He was among the group confronted by [[John West]], [[Sefawynn]], and [[Ealstan]], after landing by boat on a beach near [[Stenford]]. Gorm was crudely ordered by the Hordaman captain to take [[Sefawynn]] back to their boat and to put her with [[Yazad (Frugal Wizard)|Yazad]].{{book ref|frugal|14}}
+
+== Notes ==
+<references />
+{{complete}}
+{{Frugal Wizard}}

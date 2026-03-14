@@ -1,0 +1,16 @@
+{{character
+|residence=Fu Abra
+|ethnicity=Selay
+|nation=Purelake
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+'''Thaspic''' is a [[Purelaker]] on [[Roshar]].{{book ref|sa1|i|1}}
+
+Thaspic is a dark-skinned, scrawny man who spoke with [[Ishikk]] while doing his laundry. Thaspic lost a shirt while washing, but doesn't seem troubled by this, and points Ishikk to [[Maib]]'s place, where [[Seventeenth Shard|Ishikk's foreigners]] are at.{{book ref|sa1|i|1}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:11, 11 September 2018 (MST)}}
+{{Stormlight}}

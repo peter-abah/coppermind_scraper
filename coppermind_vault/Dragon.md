@@ -1,4 +1,8 @@
-{{disambig}}
+---
+source_file: Dragon.txt
+entity_type: disambig
+---
+
 There are numerous dragons in Brandon's works:
 
 * [[Dragon (cosmere)]] for the dragons in the [[cosmere]]

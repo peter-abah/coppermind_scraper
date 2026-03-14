@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Cett.txt
+entity_type: disambig
+---
 
 **Cett** may refer to:
 *[[House Cett]] - a noble house that has existed on Scadrial since the [[Final Empire]]; Cett Mansion is the seat of House Cett in [[Elendel]]

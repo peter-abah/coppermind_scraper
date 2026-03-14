@@ -1,3 +1,8 @@
+---
+source_file: Rosharan subastralGallery.txt
+entity_type: article
+---
+
 ## Official Works
 
 <gallery mode=packed heights=450px caption="Maps">
@@ -11,7 +16,6 @@ File:RoW_US_cover_art.jpg| <center><small>by {{a|Michael Whelan}} </small></cent
 File:Shadesmar_Spren.jpg|<center><small>by [[Ben McSweeney]] </small></center>
 File:Oathgate_Spren.jpg| <center><small>by {{a|Ben McSweeney}}</small></center>
 </gallery>
-
 
 ## FanWorks
 <gallery mode=packed heights=350px caption="Artwork">

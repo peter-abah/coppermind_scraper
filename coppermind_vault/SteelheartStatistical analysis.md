@@ -1,3 +1,8 @@
+---
+source_file: SteelheartStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Steelheart]]***.
 
 ### Chapter by Chapter Breakdown
@@ -207,7 +212,5 @@ This page contains a statistical analysis of ***[[Steelheart]]***.
 | align="right" | **100.00%**
 |}
 
-{{meta/done}}
-{{Reckoners}}
 [[Category: The Reckoners|*1x]]
 [[category: statistics]]

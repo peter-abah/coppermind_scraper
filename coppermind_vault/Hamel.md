@@ -1,19 +1,16 @@
 ---
-occupation: "Member of Kaladin's squad in Amaram's army"
-groups: "{{tag+|army|Amaram's"
+source_file: Hamel.txt
+entity_type: character
+occupation: Member of Kaladin's squad in Amaram's army
+groups: army, Kaladin's squad
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[The Way of Kings]]'
 ---
 
-, {{tag|Kaladin's squad}}
-|died={{Rosharan date|1172|10}}{{book ref|sa1|47}}
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[The Way of Kings]]
-}}
-**Hamel** is a darkeyed soldier in [[Kaladin]]'s squad in Highmarshal [[Meridas Amaram]]'s army on [[Roshar]].{{book ref|sa1|47}}
+**Hamel** is a darkeyed soldier in [[Kaladin]]'s squad in Highmarshal [[Meridas Amaram]]'s army on [[Roshar]].
 
-In 1172, Hamel fought in the battle where a full [[Shardbearer]], [[Helaran Davar]], made an attempt to kill Amaram.{{book ref|sa1|47}} Hamel joined Kaladin in his charge on the Shardbearer. Hamel was killed by Helaran's Shardblade, along with [[Toorim]], [[Acis]], [[Raksha]], [[Navar]] and eleven other members of Kaladin's squad.
+In 1172, Hamel fought in the battle where a full [[Shardbearer]], [[Helaran Davar]], made an attempt to kill Amaram. Hamel joined Kaladin in his charge on the Shardbearer. Hamel was killed by Helaran's Shardblade, along with [[Toorim]], [[Acis]], [[Raksha]], [[Navar]] and eleven other members of Kaladin's squad.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 02:05, 24 December 2016 (MST)}}
-{{Stormlight}}

@@ -1,17 +1,16 @@
 ---
-powers: "{{tag+|Epic"
+source_file: Night's Sorrow.txt
+entity_type: character
+powers: Epic
+earth: Reckoners
+introduced: '[[Steelheart]]'
 ---
 
-|earth=Reckoners
-|introduced=[[Steelheart]]
-}}
-**Night's Sorrow** is an [[Epic]].{{book ref|Steelheart|12}}
+**Night's Sorrow** is an [[Epic]].
 
-Along with [[Steelheart (Epic)|Steelheart]] and [[Obliteration]], she is among the most feared and probably most tyrannical of the Epics. Night's Sorrow destroyed Oregon.{{wob ref|6836}} Almost no one has ever seen her.{{wob ref|395}}
+Along with [[Steelheart (Epic)|Steelheart]] and [[Obliteration]], she is among the most feared and probably most tyrannical of the Epics. Night's Sorrow destroyed Oregon. Almost no one has ever seen her.
 
-Night's Sorrow was still dominant slightly before [[Calamity (Epic)|Calamity]]'s defeat, and [[Edmund Sense]] threatened to join himself to her.{{book ref|Calamity|25}}
+Night's Sorrow was still dominant slightly before [[Calamity (Epic)|Calamity]]'s defeat, and [[Edmund Sense]] threatened to join himself to her.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:32, 10 November 2017 (MST)}}
-{{Reckoners}}

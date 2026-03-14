@@ -1,0 +1,15 @@
+{{lifeform
+|type=Horse
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[The Emperor's Soul]]
+}}
+'''Gurish''' horses are a notable breed of horse on [[Sel]].{{tes ref|2}}
+
+[[Zu (Sel)|Zu]] owned a pure white Gurish horse.
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 09:39, 16 June 2018 (MST)}}
+{{The Emperor's Soul}}
+[[es:Gurish]]

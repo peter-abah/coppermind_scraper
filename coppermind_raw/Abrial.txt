@@ -1,0 +1,16 @@
+{{character
+|died=Likely {{Rosharan date|1173}}{{book ref|sa2|31}}
+|titles={{tag+|Highprince|Jah Keved}}
+|world=Roshar|nation=Jah Keved
+|universe=[[Cosmere]]
+|introduced=[[Words of Radiance]]
+}}
+'''Abrial''' is a [[Highprince]] of [[Jah Keved]].{{book ref|sa2|31}}
+
+In 1173, Abrial attended one of King [[Hanavanar]]'s feasts in [[Vedenar]]. During the feast, [[Szeth]] attempted to assassinate the king on [[Taravangian]]'s orders. During the fighting, Abrial was likely killed along with several other Veden highprinces, although reports of his death were at least initially unconfirmed.
+
+== Notes ==
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 17:58, 17 February 2018 (MST)}}
+{{Stormlight}}
+[[Category: Family names]]

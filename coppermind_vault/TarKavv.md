@@ -1,15 +1,15 @@
 ---
-species: "Kandra"
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 1"
+source_file: TarKavv.txt
+entity_type: character
+species: Kandra
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
 ---
 
-**TarKavv** was a [[kandra]] in the [[Kandra Homeland]] during the [[Final Empire]].{{book ref|mb3|75}}
+**TarKavv** was a [[kandra]] in the [[Kandra Homeland]] during the [[Final Empire]].
 
-Shortly before the [[Catacendre]], he had been on patrol, checking one of the exits when he noticed that the [[mist]]s had disappeared completely. He then relayed this news to the rest of the kandra.{{book ref|mb3|75}}
+Shortly before the [[Catacendre]], he had been on patrol, checking one of the exits when he noticed that the [[mist]]s had disappeared completely. He then relayed this news to the rest of the kandra.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 15:58, 9 June 2019 (MST)}}
-{{Mistborn|Era 1}}

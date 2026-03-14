@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Sadeas.txt
+entity_type: disambig
+---
 
 ## People
 * [[Torol Sadeas]] - [[Highprince]] of the Sadeas princedom

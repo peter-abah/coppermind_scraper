@@ -1,12 +1,11 @@
 ---
-universe: "Cytoverse"
-introduced: "Defiant (book)|Defiant"
+source_file: Kio.txt
+entity_type: character
+universe: '[[Cytoverse]]'
+introduced: '[[Defiant (book)|Defiant]]'
 ---
 
-{{update|sky4}}
-**Kio** is a [[Superiority]] officer working with [[Brade Shimabukuro]].{{book ref|sky4|30}}
+**Kio** is a [[Superiority]] officer working with [[Brade Shimabukuro]].
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

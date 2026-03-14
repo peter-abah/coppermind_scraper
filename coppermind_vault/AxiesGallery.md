@@ -1,3 +1,8 @@
+---
+source_file: AxiesGallery.txt
+entity_type: article
+---
+
 ## Gallery
 <gallery caption="images of Axies" heights=250px mode=packed>
 Axies Shuravf.jpg|<small><center>by {{a|Shuravf}}</center></small>

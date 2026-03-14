@@ -1,14 +1,16 @@
 ---
-merge-family: "y|spouse=Maragette"
-skills: "Piloting a mechanized infantry unit"
-titles: "Captain"
-introduced: "Heuristic Algorithm and Reasoning Response Engine"
+source_file: Karith Marvudi.txt
+entity_type: character
+merge-family: y
+spouse: '[[Maragette]]'
+skills: Piloting a [[mechanized infantry unit]]
+titles: Captain
+introduced: '[[Heuristic Algorithm and Reasoning Response Engine]]'
 ---
 
-Captain **Karith Marvudi** is a member of the [[Advisory Corps]] and co-pilot of a [[mechanized infantry unit]] with [[HARRE]]. He was assigned to liaise with the [[Panesthian]]s on [[Milacria]] and help with their defense against a [[Self-Replicating Machine Infestation]] outbreak near [[Panesthian city|one of their cities]].{{book ref|harre}}
+Captain **Karith Marvudi** is a member of the [[Advisory Corps]] and co-pilot of a [[mechanized infantry unit]] with [[HARRE]]. He was assigned to liaise with the [[Panesthian]]s on [[Milacria]] and help with their defense against a [[Self-Replicating Machine Infestation]] outbreak near [[Panesthian city|one of their cities]].
 
 ## Notes
 <references />
-{{stub}}
-{{HARRE}}
+
 [[category: viewpoint characters]]

@@ -1,44 +1,44 @@
-{{lifeform
-|image=Recognition by Aliya Chen.jpg
-|type={{tag+|Cognitive Shadow}}
-|sapient=Some
-|world=Komashi
-|universe=[[Cosmere]]
-|books=[[Yumi and the Nightmare Painter]]
-}}
-{{update|yumi}}
+---
+source_file: Nightmare.txt
+entity_type: lifeform
+image: Recognition by Aliya Chen.jpg
+type: Cognitive Shadow
+sapient: Some
+world: Komashi
+universe: '[[Cosmere]]'
+books: '[[Yumi and the Nightmare Painter]]'
+---
 
 **Nightmares** are a type of [[Cognitive Shadow]] native to [[Komashi]] which emerge from the [[shroud]] to feed on the minds of people while they sleep. They are formed by the souls of dead Komashi people killed by the [[father machine]], and made into its servants.
 
 ## History
-The nightmares did not originally exist, they were created by a disaster wherein the [[father machine]] killed the vast majority of the inhabitants of [[Komashi]], creating the nightmares as [[Cognitive Shadow]]s held captive by the machine.{{book ref|yumi|23}}{{book ref|yumi|39}}
+The nightmares did not originally exist, they were created by a disaster wherein the [[father machine]] killed the vast majority of the inhabitants of [[Komashi]], creating the nightmares as [[Cognitive Shadow]]s held captive by the machine.
 
-Following this disaster, they were kept in a replica of different towns in [[Torio]], to repeat the same day disguised as the people they once were. At night, they were left to travel through the shroud and feed upon the people of various surviving nations, most notably [[Nagadan]]. In response to this, the profession of [[painter]]s developed, in order to turn them into a more harmless shape, and banish them back into the shroud.{{book ref|yumi|39}}
+Following this disaster, they were kept in a replica of different towns in [[Torio]], to repeat the same day disguised as the people they once were. At night, they were left to travel through the shroud and feed upon the people of various surviving nations, most notably [[Nagadan]]. In response to this, the profession of [[painter]]s developed, in order to turn them into a more harmless shape, and banish them back into the shroud.
 
-After the father machine was destroyed and the shroud was dispelled, all of the nightmares, freed from the tyranny of the machine, dissolved into nothingness.{{book ref|yumi|41}}{{book ref|yumi|part=anotherepilogue}}
+After the father machine was destroyed and the shroud was dispelled, all of the nightmares, freed from the tyranny of the machine, dissolved into nothingness.
 
 ## Appearance and Behavior
-{{image|Facing a Nightmare by Aliya Chen.jpg|side=right|width=200px|A Nightmare changing into the shape of bamboo.}}
-Nightmares are inky black creatures that can take on many forms.{{book ref|yumi|3}} They begin as amorphous blobs, but over time, as they feed upon the thoughts and ideas of people, they start to take on more recognizable forms, gradually gaining more and more form as they pick up on more thoughts.{{book ref|yumi|3}} They rarely have faces, the face usually taking on the form of an even deeper blackness, which drips a dark liquid.{{book ref|yumi|3}} They constantly let of a gaseous blackness as they move around outside of the shroud, and if they fail to return to the shroud, they can evaporate away completely.{{book ref|yumi|3}} 
 
-They have to go on multiple trips to a city in order to gain enough substance to be truly dangerous, usually around ten or so trips.{{book ref|yumi|3}} If a nightmare has enough form, it would become something known as a **stable nightmare**, which are particularly dangerous, and require elite painters in order to neutralize them, known as the [[Dreamwatch]].{{book ref|yumi|7}} Stable enough nightmares have pinprick white eyes dotting their face, and bone-white teeth.{{book ref|yumi|7}}{{book ref|yumi|25}}{{book ref|yumi|40}} 
+Nightmares are inky black creatures that can take on many forms. They begin as amorphous blobs, but over time, as they feed upon the thoughts and ideas of people, they start to take on more recognizable forms, gradually gaining more and more form as they pick up on more thoughts. They rarely have faces, the face usually taking on the form of an even deeper blackness, which drips a dark liquid. They constantly let of a gaseous blackness as they move around outside of the shroud, and if they fail to return to the shroud, they can evaporate away completely. 
 
-The shape of a nightmare can be forcibly changed by trying to think of it as a certain form through the focus of painting. This causes them to take on the shape of the painting. The closer the painting is to something they resemble, the more power one has over them.{{book ref|yumi|3}} One can return them back to their human form by making a painting of who they used to be, but this doesn't change them back into a flesh and blood human, and they will still fade away without the shroud.{{book ref|yumi|40}}
+They have to go on multiple trips to a city in order to gain enough substance to be truly dangerous, usually around ten or so trips. If a nightmare has enough form, it would become something known as a **stable nightmare**, which are particularly dangerous, and require elite painters in order to neutralize them, known as the [[Dreamwatch]]. Stable enough nightmares have pinprick white eyes dotting their face, and bone-white teeth. 
 
-Nightmares spend most of their time in the [[yoki-hijo]] prisons, hidden away in the shroud. While there, they mostly behave as they did when human, and do not think of themselves as Nightmares.{{book ref|yumi|34}}{{book ref|yumi|36}} But, when the hold of the machine becomes looser, they are able to wander and travel towards population centers, attracted to the Cognitive activity focused at such centers. The reason for their attraction to human cognitive activity, and for feeding upon it to take on form and substance, is due to lusting for the life they lost upon the activation of the [[father machine]].{{book ref|yumi|36}}{{book ref|yumi|39}}
+The shape of a nightmare can be forcibly changed by trying to think of it as a certain form through the focus of painting. This causes them to take on the shape of the painting. The closer the painting is to something they resemble, the more power one has over them. One can return them back to their human form by making a painting of who they used to be, but this doesn't change them back into a flesh and blood human, and they will still fade away without the shroud.
+
+Nightmares spend most of their time in the [[yoki-hijo]] prisons, hidden away in the shroud. While there, they mostly behave as they did when human, and do not think of themselves as Nightmares. But, when the hold of the machine becomes looser, they are able to wander and travel towards population centers, attracted to the Cognitive activity focused at such centers. The reason for their attraction to human cognitive activity, and for feeding upon it to take on form and substance, is due to lusting for the life they lost upon the activation of the [[father machine]].
 
 ## Nature and Abilities
-Nightmares are usually almost entirely incorporeal, and are able to pass through solid substances such as walls.{{book ref|yumi|3}} Their forms are also unstable, and they constantly let off an inky black gas, if they fail to return to the shroud in order to re-Invest themselves, they will evaporate away completely.{{book ref|yumi|3}} There are stories of nightmares so stable that they begin to take on the color of flesh, but the truth of these stories are unknown.{{book ref|yumi|8}}
+Nightmares are usually almost entirely incorporeal, and are able to pass through solid substances such as walls. Their forms are also unstable, and they constantly let off an inky black gas, if they fail to return to the shroud in order to re-Invest themselves, they will evaporate away completely. There are stories of nightmares so stable that they begin to take on the color of flesh, but the truth of these stories are unknown.
 
-They are capable of detecting thoughts, most notably fear, and to hide from one, one should think calm and placid thoughts. Fear is also capable of giving it more form and substance, as it feeds on them.{{book ref|yumi|3}}{{book ref|yumi|7}} 
+They are capable of detecting thoughts, most notably fear, and to hide from one, one should think calm and placid thoughts. Fear is also capable of giving it more form and substance, as it feeds on them. 
 
-Nightmares are able to feed upon Investiture.{{book ref|yumi|25}}{{book ref|yumi|29}} They can also see normally invisible Cognitive Shadows.{{book ref|yumi|25}}
+Nightmares are able to feed upon Investiture. They can also see normally invisible Cognitive Shadows.
 
-It is theoretically possible to form a bond with a nightmare,{{wob ref|15528}} although exactly how such a bond would function is unknown.
+It is theoretically possible to form a bond with a nightmare, although exactly how such a bond would function is unknown.
 
 == Notable Nightmares==
-{{for|:Category:Nightmares|a complete list of Nightmares|Category:Nightmares}}
-{{columns|
+
 * [[Liyun]]
 * [[Gyundok]]
 * [[Honam]]
@@ -46,15 +46,13 @@ It is theoretically possible to form a bond with a nightmare,{{wob ref|15528}} a
 * [[Fourth Torish scholar]]
 * [[Hwanji]]
 * [[Chaeyung]]
-}}
 
 ## Trivia
-* Their similarities to the [[Midnight Essence]] are intentional.{{wob ref|15529}} There is a significant link between Nightmares, Midnight Essence, and [[Nightblood]].{{wob ref|16416}}
+* Their similarities to the [[Midnight Essence]] are intentional. There is a significant link between Nightmares, Midnight Essence, and [[Nightblood]].
 
 ==Notes==
 <references/>
-{{partial}}
-{{yumi}}
+
 [[category: Nightmares| ]]
 
 <!--

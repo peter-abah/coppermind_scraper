@@ -1,21 +1,22 @@
-{{literature
-|type=Book
-|author=Bekenah, others
-|language=[[Women's script]]
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{quote
-|[I]s that what women are supposed to seek in a mate? Is it in the Polite Lady's Handbook to Courtship and Family? The Bekenah edition, maybe? 'Ladies, you can’t possibly marry a man if he can’t fly.'
-|[[Shallan Davar]] to [[Adolin Kholin]]{{book ref|sa3|121}}
-}}
-The ***Polite Lady's Handbook to Courtship and Family*** is a book on [[Roshar]]. At least one edition was written by a woman named Bekenah.{{book ref|sa3|121}}
+---
+source_file: Polite Lady's Handbook to Courtship and Family.txt
+entity_type: literature
+type: Book
+author: Bekenah, others
+language: '[[Women''s script]]'
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-After the [[Battle of Thaylen Field]], [[Adolin Kholin]] tried to call off his engagement to [[Shallan Davar]] and "let <nowiki>[</nowiki>[[Kaladin]]] have" her, saying he believed she would be happier with Kaladin, based on the looks she had given Kaladin while in her Veil persona and Kaladin's ability to [[Surgebinding#Gravitation|fly]]. Shallan, however, had realized how much they loved each other, and sarcastically asked Adolin if there was a requirement that a women give precedence to someone who could fly when looking for someone to marry, suggesting that it might be in the Bekenah edition of the *Polite Lady's Handbook to Courtship and Family*.{{book ref|sa3|121}}
+> [I]s that what women are supposed to seek in a mate? Is it in the Polite Lady's Handbook to Courtship and Family? The Bekenah edition, maybe? 'Ladies, you can’t possibly marry a man if he can’t fly.'
+> — [[Shallan Davar]] to [[Adolin Kholin]]
+
+The ***Polite Lady's Handbook to Courtship and Family*** is a book on [[Roshar]]. At least one edition was written by a woman named Bekenah.
+
+After the [[Battle of Thaylen Field]], [[Adolin Kholin]] tried to call off his engagement to [[Shallan Davar]] and "let <nowiki>[</nowiki>[[Kaladin]]] have" her, saying he believed she would be happier with Kaladin, based on the looks she had given Kaladin while in her Veil persona and Kaladin's ability to [[Surgebinding#Gravitation|fly]]. Shallan, however, had realized how much they loved each other, and sarcastically asked Adolin if there was a requirement that a women give precedence to someone who could fly when looking for someone to marry, suggesting that it might be in the Bekenah edition of the *Polite Lady's Handbook to Courtship and Family*.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 00:59, 18 July 2020 (UTC)}}
-{{Stormlight}}
+
 [[Category:Culture]]

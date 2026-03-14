@@ -1,3 +1,8 @@
+---
+source_file: Yumi and the Nightmare PainterCovers.txt
+entity_type: article
+---
+
 This is a gallery for all known covers for *[[Yumi and the Nightmare Painter]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 
 <gallery widths=3000px heights=400px mode="packed">

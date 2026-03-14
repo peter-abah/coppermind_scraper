@@ -1,4 +1,7 @@
-{{copyright}}{{update}}
+---
+source_file: Acknowledgements.txt
+entity_type: copyright
+---
 
 Acknowledgements and dedications in [[Brandon]]'s books.
 
@@ -31,7 +34,7 @@ Also, I’d like to give a special acknowledgment to Janci Patterson who worked 
 Finally, a thanks to all of the evil librarians out there. It’s partially their fault that I ended up being a writer instead of something useful, like a plumber or a foghorn repair technician. It’s poetic justice that I would now use my nefarious talent to expose you all for what you really are.
 |-
 ! People
-|{{columns|
+|
 * Alan Layton
 * Anica Rissi
 * Benjamin R. Olsen
@@ -55,7 +58,7 @@ Finally, a thanks to all of the evil librarians out there. It’s partially thei
 * Peter and Karen Ahlstrom
 * Stacy Whitman
 * Steve Mancino
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -74,7 +77,7 @@ Hayley Lazo has again provided great illustrations under the guidance of Dragons
 As ever, many thanks to Emily Sanderson.
 |-
 ! People
-|{{columns|
+|
 * Eddie Schneider
 * Emily Sanderson
 * Hayley Lazo
@@ -90,7 +93,7 @@ As ever, many thanks to Emily Sanderson.
 * Rafal Gibek
 * Scott Brundage
 * Susan Chang
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -110,7 +113,7 @@ This novel would be much diminished without the fabulous interior illustrations 
 I’d like to thank my lovely wife, Emily Sanderson, who helped with this book in ways too numerous to list here. Finally, a special thank-you goes to Mrs. Bushman’s sixth-grade students (you know who you are!) who have been so enthusiastic about my books.
 |-
 ! People
-|{{columns|
+|
 * Eddie Schneider
 * Emily Sanderson
 * Hayley Lazo
@@ -124,7 +127,7 @@ I’d like to thank my lovely wife, Emily Sanderson, who helped with this book i
 * Peter and Karen Ahlstrom (influential)
 * Scott Brundage
 * Susan Chang
-}}
+
 |}
 
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
@@ -165,7 +168,7 @@ Hayley Lazo and Scott Brundage for the fantastic illustrations, and Isaac Stewar
 Thank you all!
 |-
 ! People
-|{{columns|
+|
 * Eddie Schneider
 * Emily Sanderson
 * Hayley Lazo
@@ -182,7 +185,7 @@ Thank you all!
 * Peter Ahlstrom (indefinable)
 * Scott Brundage
 * Susan Chang
-}}
+
 |}
 
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
@@ -213,7 +216,7 @@ For Barb Sanderson
 
 |-
 ! People
-|{{columns|
+|
 *Aaron Rothman
 *Adam Horne
 *Alice Arneson
@@ -273,7 +276,7 @@ For Barb Sanderson
 *Trae Cooper
 *Trevor Florence
 *Hayley Lazo
-}}
+
 |}
 
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
@@ -314,7 +317,7 @@ Janci Patterson
 
 |-
 ! People
-|{{columns|
+|
 *Aaron Biggs
 *Aaron Ford
 *Alexander Whitney
@@ -366,7 +369,7 @@ Janci Patterson
 *Ted Herman
 *Tim Challener
 *Zaya Clinger
-}}
+
 |}
 
 ## Arcanum Unbounded
@@ -396,7 +399,7 @@ And, as always, the Inciting Peter Ahlstrom was head of my in-house editorial ef
 And, as is traditional, I leave with a hearty thanks to my family: Joel, Dallin, Oliver, and Emily. You guys are awesome!
 |-
 ! People
-|{{columns|
+|
 *Terry McGarry
 *Tom Doherty
 *Marco Palmieri
@@ -430,7 +433,7 @@ And, as is traditional, I leave with a hearty thanks to my family: Joel, Dallin,
 *Paige Vest
 *Ross Newberry
 *Trae Cooper
-}}
+
 |}
 ## Elantris
 
@@ -460,7 +463,7 @@ Finally, I'd like to thank my family. My father for buying me books when I was a
 Thank you so much, everyone, for believing in me.
 |-
 ! People
-|{{columns|
+|
 * Alan Layton
 * Annie Gorringe
 * Benjamin R. Olsen
@@ -496,7 +499,7 @@ Thank you so much, everyone, for believing in me.
 * Sally Taylor
 * Steve Frandson
 * Tom Conrad
-}}
+
 |}
 
 ## The Emperor's Soul
@@ -525,7 +528,7 @@ You have my deepest gratitude, all of you.
 :Brandon
 |-
 ! People
-| {{columns|
+| 
 * Alexander Nanitchkov
 * Brian Hill
 * Emily Sanderson
@@ -543,7 +546,7 @@ You have my deepest gratitude, all of you.
 * Joshua Bilmes
 * Moshe Feder
 * Peter Ahlstrom (interpolated)
-}}
+
 |}
 
 ## The Frugal Wizard's Handbook for Surviving Medieval England
@@ -572,7 +575,7 @@ Gamma readers included Brian T. Hill, Joshua Harkey, Tim Challener, Ross Newberr
 Brandon Sanderson
 |-
 ! People
-| {{columns|
+| 
 * Adam Horne
 * Alex Lyon
 * Ally Reep
@@ -656,7 +659,7 @@ Brandon Sanderson
 * Tyson Meyer
 * Zaya Clinger
 * ᛁᛋᚫᚫᚳ Stewart
-}}
+
 |}
 
 ## Infinity Blade
@@ -714,7 +717,7 @@ Beta readers: Kendra Alexander, Ellie Frato-Sweeney, Kathleen Holland, Frankie J
 Gamma readers include many of the beta readers as well as Krystl Allred, Amir Kasra Arman, Jessica Ashcraft, Sam Baskin, David Behrens, Siena “Lotus” Buchanan, Tim Challener, Brandon Cole, Darci Cole, Trae Cooper, Poonam Desai, David Fallon, Aaron Ford, Joshua Harkey, Ted Herman, Brian T. Hill, Alyx Hoge, William “Aber” Juan, Evgeni “Argent” Kirilov, Bob Kluttz, Jayden King, Ari Kufer, Jessie Lake, Eliyahu Berelowitz Levin, Zenef Mark Lindberg, Chris McGrath, Ian McNatt, Lauren McCaffrey, Shannon Nelson, Ross Newberry, Ene Nytch, Donita Orders, Tyler Patrick, Aubree Pham, Becca Reppert, Gary Singer, Billy Todd, Sean VanBlack, Paige Vest, Glen Vogelaar, Philip Vorwaller, Rob West, Dale Wiens, Rosemary Williams, and Lingting “Botanica” Xu.
 |-
 ! People
-|{{columns|
+|
 *Aaron Ford
 *Adam Horne (a.k.a. the Godzilla Expert)
 *Alan Layton
@@ -866,7 +869,7 @@ Gamma readers include many of the beta readers as well as Krystl Allred, Amir Ka
 *William "Aber" Juan
 *Zenef Mark Lindberg
 *Zoe Hatch
-}}
+
 |}
 
 ## Legion series
@@ -882,7 +885,7 @@ My agent, [[Joshua Bilmes]], has been his usual awesome self. Other early reader
 A special thanks to Subterranean Press for giving this work a place in print. Bill Schafer and Yanni Kuznia have been fantastic. I'm also very pleased that the print edition has another beautiful cover by Jon Foster, whose work also graced the original Mistborn hardcovers. The ebook features a cover design by [[Isaac Stewart]]. Thanks!
 |-
 ! People
-|{{columns|
+|
 * Alan Layton
 * Ben Olsen
 * Bill Schafer
@@ -899,7 +902,7 @@ A special thanks to Subterranean Press for giving this work a place in print. Bi
 * Moshe Feder
 * Peter Ahlstrom (incumbent)
 * Yanni Kuznia
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -912,8 +915,8 @@ A special thanks to Subterranean Press for giving this work a place in print. Bi
 | 
 |-
 ! People
-|{{columns|
-}}
+|
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -926,8 +929,8 @@ A special thanks to Subterranean Press for giving this work a place in print. Bi
 | 
 |-
 ! People
-|{{columns|
-}}
+|
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -942,8 +945,8 @@ For Daniel Wells and Greg Creer
 |
 |-
 ! People
-|{{columns|
-}}
+|
+
 |}
 ## Mistborn
 
@@ -974,7 +977,7 @@ Finally, as always, I am thankful to my family for their continued support and e
 In particular, I'd like to thank my brother, Jordan, for his enthusiasm, support, and loyalty. Check out his handiwork at my Web site: www.brandonsanderson.com.
 |-
 ! People
-|{{columns|
+|
 * Joshua Bilmes
 * Moshe Feder
 * Alan Layton
@@ -1003,7 +1006,7 @@ In particular, I'd like to thank my brother, Jordan, for his enthusiasm, support
 * Irene Gallo
 * David Moench
 * Jordan Sanderson
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -1037,7 +1040,7 @@ My mother, father, and sisters are always a wonderful help as well. If I forgot 
 Finally, my thanks go out to my wonderful wife, whom I married during the editing process of this book. Emily, I love you!
 |-
 ! People
-|{{columns|
+|
 * Joshua Bilmes
 * Moshe Feder
 * Steve Mancino
@@ -1078,7 +1081,7 @@ Finally, my thanks go out to my wonderful wife, whom I married during the editin
 * Jeff Creer
 * Peter Ahlstrom
 * Emily Sanderson
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -1107,7 +1110,7 @@ Alpha readers for this book include Paris Elliott, Emily Sanderson, Krista Olsen
 In addition I’m thankful to Jordan Sanderson—to whom this book is dedicated—for his tireless work on the Web site. Jeff Creer, also, did a great job with the art for BrandonSanderson.com. Stop by and check it out!
 |-
 ! People
-|{{columns|
+|
 * Moshe Feder
 * Joshua Bilmes
 * Emily Sanderson
@@ -1157,7 +1160,7 @@ In addition I’m thankful to Jordan Sanderson—to whom this book is dedicated�
 * Ben OleSoon
 * Jordan Sanderson
 * Jeff Creer
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -1192,7 +1195,7 @@ Note the lovely cover by [[Chris McGrath]], whom I asked for specifically becaus
 Last of all I’d like to once again thank Emily, my wonderful wife, for her support, commentary, and love.
 |-
 ! People
-|{{columns|
+|
 * Joshua Bilmes
 * Moshe Feder
 * Ethan Skarstedt
@@ -1215,7 +1218,7 @@ Last of all I’d like to once again thank Emily, my wonderful wife, for her sup
 * Ben McSweeney
 * Isaac Stewart
 * Emily Sanderson
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -1246,7 +1249,7 @@ From Tor Books, many thanks to Tom Doherty, Linda Quinton, Marco Palmieri, Karl 
 Finally, big thanks to my family, as always. A wonderful wife and three little boys who still get confused as to why the books Daddy writes have so few pictures.
 |-
 ! People
-|{{columns|
+|
 * Adam Horne
 * Alan Layton
 * Alice Arneson
@@ -1309,7 +1312,7 @@ Finally, big thanks to my family, as always. A wonderful wife and three little b
 * Terry McGarry
 * Tom Doherty
 * Trae Cooper
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -1342,7 +1345,7 @@ Well, that was a mouthful! These folks are wonderful, and if you compare my earl
 Enjoy!
 |-
 ! People
-|{{columns|
+|
 * Adam Horne
 * Alice Arneson
 * Aubree Pham
@@ -1398,7 +1401,7 @@ Enjoy!
 * Terry McGarry
 * Tom Doherty
 * Trae Cooper
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -1449,7 +1452,7 @@ I would like to extend a special thanks to my good friends Kalyani and Rahul, lo
 Thank you to everyone on this list. And, of course, to the readers. Mistborn has been a strange journey these last sixteen years, and I feel it's about to get even stranger-as well as (with a little luck) even more incredible.
 |-
 ! People
-|{{columns|
+|
 *Aaron Biggs
 *Aaron Ford
 *Adam Horne
@@ -1582,7 +1585,7 @@ Thank you to everyone on this list. And, of course, to the readers. Mistborn has
 *Tim Challener
 *Tori Mecham
 *Trae Cooper
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -1598,7 +1601,7 @@ Thank you to everyone on this list. And, of course, to the readers. Mistborn has
 |With every project, there are many hands working behind the scenes. Everyone involved deserves thanks. I would like to thank my writing group, Here There Be Dragons: Emily Sanderson, Peter & Karen Ahlstrom, Ben & Danielle Olsen, Alan Layton, Kaylynn ZoBell, Eric Patten, and Kathleen Dorsey Sanderson. Isaac St€wart is responsible for the look of the finished product. The Ineffable Peter Ahlstrom did his usual marvelous editing job. J.P. Targete adapted his striking artwork to better fit this story.
 |-
 ! People
-|{{columns|
+|
 *Alice Arneson
 *Aaron Biggs
 *Jakob Remick
@@ -1614,7 +1617,7 @@ Thank you to everyone on this list. And, of course, to the readers. Mistborn has
 *Ruchita Dhawan
 *Gary Singer
 *Bart Butler
-}}
+
 |}
 
 ## The Reckoners
@@ -1646,7 +1649,7 @@ Finally, as always, I wish to thank my lovely wife, Emily, and my three destruct
 
 |-
 ! People
-|{{columns|
+|
 * Adam Hussey
 * Allan Layton
 * Austin Hussey
@@ -1689,7 +1692,7 @@ Finally, as always, I wish to thank my lovely wife, Emily, and my three destruct
 * Peter Ahlstrom (incandescent)
 * Rachel Weinick
 * Simon Spanton
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -1717,7 +1720,7 @@ Beta readers on this book were Brian Hill and Mi’chelle & Josh Walker. Montie 
 Finally, I’d like to thank my wonderful wife, Emily, and my three rambunctious boys. They make life worth living.
 |-
 ! People
-| {{columns|
+| 
 *Aaron Ford
 *Alan Layton
 *Alice Arneson
@@ -1764,7 +1767,7 @@ Finally, I’d like to thank my wonderful wife, Emily, and my three rambunctious
 *Steve Godecke
 *Taylor Hatch
 *Trae Cooper
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -1802,7 +1805,7 @@ Our community proofreaders included many of the above, plus Bob Kluttz, Jory Phi
 It has been a wild, incredible journey. Thank you again for joining me for it.
 |-
 ! People
-| {{columns|
+| 
 * Aaron Biggs
 * Aaron Ford
 * Adam Horne
@@ -1866,7 +1869,7 @@ It has been a wild, incredible journey. Thank you again for joining me for it.
 * Tae Keller
 * Ted Herman
 * Zoe Hatch
-}}
+
 |}
 
 ## The Rithmatist
@@ -1901,7 +1904,7 @@ A special thanks also goes out to Karen Ahlstrom and the intermittent Peter Ahls
 Finally, as always, I want to thank my family and my loving wife, Emily. They don’t just put up with me; they encourage me to thrive. Thank you.
 |-
 ! People
-|{{columns|
+|
 * Isaac Stewart
 * Dan Wells
 * Sandra Tayler
@@ -1929,7 +1932,7 @@ Finally, as always, I want to thank my family and my loving wife, Emily. They do
 * Karen Ahlstrom
 * Peter Ahlstrom (intermittent)
 * Emily Sanderson
-}}
+
 |}
 
 ## Shadows for Silence in the Forests of Hell
@@ -1948,8 +1951,8 @@ Thanks go out to Gardner Dozois and George R. R. Martin, on whose prompting I wr
 Community proofreaders for this volume include Alice Arneson, Aaron Biggs, Jakob Remick, Corby Campbell, Kelly Neumann, Megan Kanne, Maren Menke, Bob Kluttz, Lyndsey Luther, Kalyani Poluri, Rahul Pantula, Aaron Ford, Ruchita Dhawan, Gary Singer, and Bart Butler. Thank you for all of your input!
 |-
 ! People
-|{{columns|
-}}
+|
+
 |}
 
 ## Skyward
@@ -1979,7 +1982,6 @@ My writing group and flightmates for the book were the usual suspects: Karen Ahl
 
 Beta readers included Nikki Ramsay (callsign: Phosphophyllite), Marnie Peterson, Eric Lake (callsign: Chaos) Darci Cole (callsign: Blue), Ravi Persaud (callsign: Jabber), Deana Covel Whitney (callsign: Braid), Jayden King (callsign: Tripod), Alice Arneson (callsign: Wetlander), Bradyn Ray, Sumejja Muratagic-Tadic (callsign: Sigma), Janel Forcier (callsign: Turnip), Paige Phillips (callsign: Artisan), Joe Deardeuff (callsign: Traveler), and Brian T. Hill (callsign: El Guapo). 
 
-
 And, calling out two of those in specific, Jayden King and Bradyn Ray lent me their fighter pilot expertise, explaining (some times at length) the stupid things I was getting wrong about flight. Eric Lake was also a big help with calculating speeds, distances, and the coordinate system. (Make friends with physicists and mathematicians, writers. It pays off.)
 
 We did a special teen beta read for this book, and those members were: Liliana Klein (callsign: Sentinel), Nathan Scorup, Hannah Herman, Joshua Singer, Eve Scorup (callsign: Silverstone), Valencia Kumley (callsign: AlphaPhoenix), Daniel Summerstay, Chrestian Scorup, Rebecca Arneson (callsign: Scarlet), Cole Newberry, Brett Herman (callsign: Hermanator), Aidan Denzel (callsign: Cross), Evan Garcia, Kathryn Stephens, and William Stay.
@@ -1990,7 +1992,7 @@ Many thanks to all of them. Though there are, as always, some new names on that 
 
 |-
 ! People
-|{{columns|
+|
 * Adam Horne
 * Adrienne Waintraub
 * Aidan Denzel (call sign: Cross)
@@ -2069,7 +2071,7 @@ Many thanks to all of them. Though there are, as always, some new names on that 
 * Valencia Kumley (callsign: AlphaPhoenix)
 * William "Aberdasher" Juan
 * William Stay
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -2105,7 +2107,7 @@ Thank you all so much for your help! This book would certainly have remained gro
 
 |-
 ! People
-|{{columns|
+|
 * Aaron Biggs
 * Adam Horne
 * Aerin Pham (callsign: Air)
@@ -2177,7 +2179,7 @@ Thank you all so much for your help! This book would certainly have remained gro
 * Tim Challener (callsign: Antaeus)
 * Valencia Kumley (callsign: AlphaPhoenix)
 * William Juan (callsign: Aberdasher)
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -2227,7 +2229,7 @@ A huge shout-out to this book’s gamma reader team: Brian T. Hill (callsign: El
 
 |-
 ! People
-|{{columns|
+|
 * Aaron Ford (callsign: Widget)
 * Adam Horne
 * Alice Arneson (callsign: Wetlander)
@@ -2287,7 +2289,7 @@ A huge shout-out to this book’s gamma reader team: Brian T. Hill (callsign: El
 * Suzy Jackson
 * Ted Herman (callsign: Cavalry)
 * Will Newell
-}}
+
 |}
 
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
@@ -2339,7 +2341,7 @@ Many thanks again to this book’s gamma reader team: Brian T. Hill (callsign: E
 
 |-
 ! People
-|{{columns|
+|
 * Adam Horne
 * Alice Arneson (callsign: Wetlander)
 * Brandon Sanderson
@@ -2393,7 +2395,7 @@ Many thanks again to this book’s gamma reader team: Brian T. Hill (callsign: E
 * Suzy Jackson
 * Ted Herman (callsign: Cavalry)
 * Will Newell
-}}
+
 |}
 
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
@@ -2428,7 +2430,7 @@ Each and every book is a new challenge, and I keep learning new things about wri
 
 |-
 ! People
-|{{columns|
+|
 * Aaron Ford (callsign: Widget)
 * Adam Horne
 * Aerin Pham (callsign: Air)
@@ -2528,7 +2530,7 @@ Each and every book is a new challenge, and I keep learning new things about wri
 * William Juan (callsign: Aber)
 * Zaya Clinger (callsign: Z)
 * Zenef Mark Lindberg (callsign: Megalodon)
-}}
+
 |}
 
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
@@ -2584,7 +2586,7 @@ And, as always, thank you to everyone at Mainframe involved in this project; esp
 
 |-
 ! People
-|{{columns|
+|
 * Aaron Ford (callsign: Widget)
 * Adam Horne
 * Alice Arneson (callsign: Wetlander)
@@ -2635,7 +2637,7 @@ And, as always, thank you to everyone at Mainframe involved in this project; esp
 * Suzy Jackson
 * Ted Herman (callsign: Cavalry)
 * Will Newell
-}}
+
 |}
 
 ## Snapshot
@@ -2654,7 +2656,7 @@ Once again my team at Dragonsteel read the story, provided early feedback, and c
 
 |-
 ! People
-|{{columns|
+|
 * Adam Horne
 * Alice Arneson
 * Aubree Pham
@@ -2689,7 +2691,7 @@ Once again my team at Dragonsteel read the story, provided early feedback, and c
 * Steve Diamond
 * Ted Herman
 * Trae Cooper
-}}
+
 |}
 
 ## The Stormlight Archive
@@ -2731,7 +2733,7 @@ Finally, a moment on Michael Whelan's wonderful cover. For those who haven't hea
 To finally have it happen—and on the novel of my heart that I've been working on for so long—is an amazing honor.
 |-
 ! People
-|{{columns|
+|
 * Adam Hussey
 * Alan Layton
 * Alan Romanczuk
@@ -2774,7 +2776,7 @@ To finally have it happen—and on the novel of my heart that I've been working 
 * Rachel Biesinger
 * Steve Diamond
 * Tom Doherty
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -2815,7 +2817,7 @@ My writing group managed to get through about half of the book, which is a lot, 
 And finally, thanks to my loving (and rambunctious) family. Joel, Dallin, and little Oliver help keep me humble each day by always making me be the "bad guy" who gets beat up. My forgiving wife, Emily, put up with a lot this past year, as tours grew long, and I'm still not sure what I did to deserve her. Thank you all for making my world one of magic.
 |-
 ! People
-|{{columns|
+|
 * Adam Wilson
 * Alan Layton
 * Alice Arneson
@@ -2894,7 +2896,7 @@ And finally, thanks to my loving (and rambunctious) family. Joel, Dallin, and li
 * Tom Doherty
 * Westchester Publishing Services
 * Will Raboin
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 | 
@@ -2912,7 +2914,7 @@ And finally, thanks to my loving (and rambunctious) family. Joel, Dallin, and li
 A Stormlight novel is “crunch time” for us here at Dragonsteel, and so make sure to give the team a thumbs-up (or, in Peter’s case, a block of cheese) next time you meet them. Our manager and Chief Operations Officer is my lovely wife, Emily Sanderson. Vice President and Editorial Director is the Insistent Peter Ahlstrom. Art Director is Isaac Stʒwart. Our shipping manager (and the one who ships you all our signed books and T-shirts via the brandonsanderson.com store) is Kara Stewart. Continuity editor—and holy keeper of our internal continuity wiki—is Karen Ahlstrom. Adam Horne is my executive assistant and publicity/marketing director. Emily’s assistant is Kathleen Dorsey Sanderson and our executive minion is Emily “Mem” Grange. The audiobook was read by my personal favorite audiobook narrators, Michael Kramer and Kate Reading. Thanks again, guys, for making time in your schedule for this! Oathbringer continues the tradition of filling The Stormlight Archive with beautiful art. We again have a fantastic cover illustration by Michael Whelan, whose attention to detail has given us an incredibly accurate rendition of Jasnah Kholin. I love that she gets a place to shine on the cover of this book, and I continue to feel honored and grateful that Michael takes time away from his gallery work to paint the world of Roshar. It takes a variety of artists to recreate the styles found in the ephemera of another world, so this time around we’ve worked with even more artists than before. Dan dos Santos and Howard Lyon are responsible for the paintings of the Heralds on the front and back endpapers. I wanted these to have a style evoking classical paintings of the Renaissance and the later Romantic era, and both Dan and Howard exceeded expectations. These pieces are not only great art for a book, they are great art period, deserving of a place in any gallery. I should note that Dan and Howard also contributed their talents to the interior art, for which I’m also grateful. Dan’s fashion pieces are good enough to be cover art, and Howard’s linework for some of the new chapter icons is something I hope to see more of in future volumes. Ben McSweeney joins us again, providing nine pieces of art from Shallan’s sketchbook. Between a cross-continent move, a demanding day job, and the needs of a growing family, Ben has been ever consistent in delivering top-notch illustrations. He is a great artist and a quality human being. Also lending their talents to this volume with full-page illustrations are Miranda Meeks and Kelley Harris. Both have done fantastic work for us in the past, and I think you’ll love their contributions this time around. In addition, a variety of wonderful people helped behind the scenes as consultants or facilitated other aspects of the art in this book: The David Rumsey Map Collection, Brent at Woodsounds Flutes, Angie and Michelle at Two Tone Press, Emily Dunlay, David and Doris Stewart, Shari Lyon, Payden McRoberts, and Greg Davidson. My writing group for Oathbringer (and they often read submissions each week at 5–8x the normal size) included Karen Ahlstrom, Peter Ahlstrom, Emily Sanderson, Eric James Stone, Darci Stone, Ben Olsen, Kaylynn ZoBell, Kathleen Dorsey Sanderson, Alan “Leyten from Bridge Four” Layton, Ethan “Skar from Bridge Four” Skarstedt, and Ben “Don’t put me in Bridge Four” Olsen. Special thanks go to Chris “Jon” King for feedback on some particularly tricky scenes involving Teft, Will Hoyum for some advice on paraplegics, and Mi’chelle Walker for some special advisement on passages involving specific mental health issues. Beta readers included (take a deep breath) Aaron Biggs, Aaron Ford, Adam Hussey, Austin Hussey, Alice Arneson, Alyx Hoge, Aubree Pham, Bao Pham, Becca Horn Reppert, Bob Kluttz, Brandon Cole, Darci Cole, Brian T. Hill, Chris “Jon” King, Chris Kluwe, Cory Aitchison, David Behrens, Deana Covel Whitney, Eric Lake, Gary Singer, Ian McNatt, Jessica Ashcraft, Joel Phillips, Jory Phillips, Josh Walker, Mi’chelle Walker, Kalyani Poluri, Rahul Pantula, Kellyn Neumann, Kristina Kugler, Lyndsey “Lyn” Luther, Mark Lindberg, Marnie Peterson, Matt Wiens, Megan Kanne, Nathan “Natam” Goodrich, Nikki Ramsay, Paige Vest, Paul Christopher, Randy MacKay, Ravi Persaud, Richard Fife, Ross Newberry, Ryan “Drehy” Dreher Scott, Sarah “Saphy” Hansen, Sarah Fletcher, Shivam Bhatt, Steve Godecke, Ted Herman, Trae Cooper, and William Juan. Our beta reader comment coordinators were Kristina Kugler and Kellyn Neumann. Our gamma readers included many of the beta readers again, plus: Benjamin R. Black, Chris “Gunner” McGrath, Christi Jacobsen, Corbett Rubert, Richard Rubert, Dr. Daniel Stange, David HanTing Chow, Donald Mustard III, Eric Warrington, Jared Gerlach, Jareth Greeff, Jesse Y. Horne, Joshua Combs, Justin Koford, Kendra Wilson, Kerry Morgan, Lindsey Andrus, Lingting Xu, Loggins Merrill, Marci Stringham, Matt Hatch, Scott Escujuri, Stephen Stinnett, and Tyson Thorpe. As you can see, a book like this is a huge undertaking. Without the efforts of these many people, you’d be holding a far, far inferior book. As always, some final thanks go to my family: Emily Sanderson, Joel Sanderson, Dallin Sanderson, and Oliver Sanderson. They put up with a husband/father who is often off in another world, thinking about highstorms and Knights Radiant. Finally, thanks to you all, for your support of these books! They don’t always come out as quickly as I’d like, but that is in part because I want them to be as perfect as they can get. You hold in your hands a volume I’ve been preparing and outlining for almost two decades. May you enjoy your time in Roshar. Journey before destination.
 |-
 ! People
-| {{columns|
+| 
 *Aaron Biggs
 *Aaron Ford
 *Adam Horne
@@ -3049,7 +3051,7 @@ A Stormlight novel is “crunch time” for us here at Dragonsteel, and so make 
 *Victoria Wallis
 *Will Hoyum
 *William Juan
-}}
+
 |}
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
 | colspan=2 |
@@ -3081,7 +3083,7 @@ Gamma readers included many of the beta readers plus: Bao Pham, Aaron Ford, Fran
 It should be noted that many of them, after just having finished the beta/gamma for Rhythm of War, went right into this book in order to get it done on time. I sincerely appreciate their wisdom, thoughtful feedback, and effort.
 |-
 ! People
-|{{columns|
+|
 * Aaron Ford
 * Alan Layton
 * Alice Arneson
@@ -3142,7 +3144,7 @@ It should be noted that many of them, after just having finished the beta/gamma 
 * Todd H. Singer
 * Trae Cooper
 * Whitney Sivill
-}}
+
 |}
 
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
@@ -3184,7 +3186,7 @@ That was a huge list, I know. It gets bigger in each book! But I sincerely appre
 Because of them, you can now experience Rhythm of War, Book Four of the Stormlight Archive. May you enjoy the journey.
 |-
 ! People
-|{{columns|
+|
 *Aaron Biggs
 *Aaron Ford
 *Adam Horne
@@ -3333,7 +3335,7 @@ Because of them, you can now experience Rhythm of War, Book Four of the Stormlig
 *Mark Lindberg
 *Zoe Larsen
 *Devi Pillai
-}}
+
 |}
 
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
@@ -3370,7 +3372,7 @@ Beta readers: Aaron Ford, Alexis Horizon, Alice Arneson, Alyx Hoge, Amit Shteinh
 Gamma readers: Many of the beta readers plus Ari Kufer, Brian Magnant, Collin Abeln, Dale Wiens, Ellie Frato-Sweeney, Lingting "Botanica" Xu, Nisarg "Strifelover" Shah, Philip Vorwaller, Ram Shoham, Spencer White, Valencia Kumley, William Juan.
 |-
 ! People
-|{{columns|
+|
 * Aaron Ford
 * Adam Horne
 * Alan Layton
@@ -3571,7 +3573,7 @@ Gamma readers: Many of the beta readers plus Ari Kufer, Brian Magnant, Collin Ab
 * Valentina Sainato
 * William Juan
 * Zenef Mark Lindberg
-}}
+
 |}
 
 ## The Sunlit Man
@@ -3581,7 +3583,10 @@ Gamma readers: Many of the beta readers plus Ari Kufer, Brian Magnant, Collin Ab
 ### The Sunlit Man
 |-
 ! Dedication
-| <div align=center>For all of you, the fans of the Cosmere, Who make my dreams come to life.</div>
+| 
+> [!WARNING] Info
+> For all of you, the fans of the Cosmere, Who make my dreams come to life.
+
 |-
 ! Acknowledgements
 | Whew! What a year! This was quite the wild ride, involving a ton of work from everyone involved. I’ll make sure to get to them all in this section, but I just wanted to say a big thank-you to everyone. It was a herculean effort to get these books edited, illustrated, and delivered.
@@ -3607,7 +3612,7 @@ As this is the last book of the Secret Projects Kickstarter, I wanted to take on
 Brandon Sanderson
 |-
 ! People
-|{{columns|
+|
 * Aaron Ford
 * Adam Horne
 * Alan Layton
@@ -3732,9 +3737,8 @@ Brandon Sanderson
 * William Juan
 * Zenef Mark Lindberg
 * Zoe Hatch
-}}
-|}
 
+|}
 
 ## Tress of the Emerald Sea
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
@@ -3742,9 +3746,11 @@ Brandon Sanderson
 ### Tress of the Emerald Sea
 |-
 ! Dedication
-|<div align=center>FOR EMILY,
+|
+> [!WARNING] Info
+> FOR EMILY,
 Who has all my love
-</div>
+
 |-
 ! Acknowledgements
 | What a ride.
@@ -3779,7 +3785,7 @@ Last but not least, I need to give a special thanks to all of you who backed the
 Brandon Sanderson
 |-
 ! People
-|{{columns|
+|
 *Aaron Biggs
 *Adam Horne
 *Alex Lyon
@@ -3863,7 +3869,7 @@ Brandon Sanderson
 *Tori Mecham
 *Trae Cooper
 *William Juan
-}}
+
 |}
 
 ## Warbreaker
@@ -3872,7 +3878,10 @@ Brandon Sanderson
 ### Warbreaker
 |-
 ! Dedication
-|<div align=center>For Emily,<br />who said yes</div>
+|
+> [!WARNING] Info
+> For Emily,<br />who said yes
+
 |-
 ! Acknowledgements
 | Working on Warbreaker was an unusual process in some ways; you can read more about it on my website. Suffice it to say that I had a more varied pool of alpha readers than normally, many of whom I know primarily through their handles on my forums. I've tried to get everyone’s names in here, but I'm sure I'm going to miss some. If you are one of those individuals, feel free to email me, and we’ll try to get you in future printings.
@@ -3884,7 +3893,7 @@ At Tor, several people have gone well beyond their call of duty. The first is Do
 In the special thanks department, we have Joevans3, and Dreamking47, Louise Simard, [[Jeff Creer]], Megan Kauffman, thelsdj, Megan Hutchins, Izzy Whiting, Janci Olds, Drew Olds, Karla Bennion, Eric James Stone, Dan Wells, Isaac Stewart, Ben Olsen, Greyhound, Demented Yam, D.Demille, Loryn, Kuntry Bumpken, Vadia, U-boat, Tjaeden, Dragon Fly, pterath, BarbaraJ, Shir Hasirim, Digitalbias, Spink Longfellow, amyface, Richard "Captain [[Goradel]]" Gordon, Swiggly, Dawn Cawley, Drerio, David B, Mi'chelle Trammel, Matthew R Carlin, Ollie Tabooger, John Palmer, Henrik Nyh, and the insoluble [[Peter Ahlstrom]].
 |-
 ! People
-|{{columns|
+|
 * Ben Olsen
 * D.Demille
 * Dan dos Santos
@@ -3916,7 +3925,6 @@ In the special thanks department, we have Joevans3, and Dreamking47, Louise Sima
 * amyface
 * barbaraj
 * thelsdj
-}}
 
 * Map by [[Shawn Boyles]]
 |}
@@ -3928,7 +3936,10 @@ In the special thanks department, we have Joevans3, and Dreamking47, Louise Sima
 ### Yumi and the Nightmare Painter
 |-
 ! Dedication
-| <div align=center>Also for Emily,<br>Who, for some amazing reason, gives me her love.</div>
+| 
+> [!WARNING] Info
+> Also for Emily,<br>Who, for some amazing reason, gives me her love.
+
 |-
 ! Acknowledgements
 | First off, let’s acknowledge Emily—the person this book is dedicated to—for being both my inspiration and my co-president at Dragonsteel. I think you would all be amazed by how much she does behind the scenes. She deserves praise, accolades, and no small thanks for sharing her book (which this is) with all of you.
@@ -3952,7 +3963,7 @@ And, obviously, I’d like to give a huge thanks to all of our Kickstarter backe
 Brandon Sanderson
 |-
 ! People
-|{{columns|
+|
 * Adam Horne
 * Alan Layton
 * Alex Lyon
@@ -4053,7 +4064,7 @@ Brandon Sanderson
 * Ted Herman
 * Tim Challener
 * Zoe Hatch
-}}
+
 |}
 
 ## The Wheel of Time
@@ -4063,13 +4074,16 @@ Brandon Sanderson
 ### The Gathering Storm
 |-
 ! Dedication
-|<div align=center>For Maria Simons and Alan Romanczuk,<br />without whom this book wouldn't have been possible</div>
+|
+> [!WARNING] Info
+> For Maria Simons and Alan Romanczuk,<br />without whom this book wouldn't have been possible
+
 |-
 ! People
-|{{columns|
+|
 * Alan Romanczuk
 * Maria Simons
-}}
+
 |}
 
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
@@ -4077,10 +4091,13 @@ Brandon Sanderson
 ### Towers of Midnight
 |-
 ! Dedication
-|<div align=center>For Jason Denzel, Melissa Craib, Bob Kluttz, Jennifer Liang,<br />Linda Taglieri, Matt Hatch, Leigh Butler, Mike Mackert,<br />and all those readers who over the years have made<br /> The Wheel of Time part of their lives, and in doing so<br /> have made the lives of others better</div>
+|
+> [!WARNING] Info
+> For Jason Denzel, Melissa Craib, Bob Kluttz, Jennifer Liang,<br />Linda Taglieri, Matt Hatch, Leigh Butler, Mike Mackert,<br />and all those readers who over the years have made<br /> The Wheel of Time part of their lives, and in doing so<br /> have made the lives of others better
+
 |-
 ! People
-|{{columns|
+|
 * Bob Kluttz
 * Jason Denzel
 * Jennifer Liang
@@ -4089,7 +4106,7 @@ Brandon Sanderson
 * Matt Hatch
 * Melissa Craib
 * Mike Mackert
-}}
+
 |}
 
 {| class="wikitable mw-collapsible mw-collapsed" width=100%
@@ -4097,19 +4114,21 @@ Brandon Sanderson
 ### A Memory of Light
 |-
 ! Dedication
-|<div align=center>For Harriet,<br />the light of Mr. Jordan's life,<br />and for Emily,<br /> the light of mine.</div>
+|
+> [!WARNING] Info
+> For Harriet,<br />the light of Mr. Jordan's life,<br />and for Emily,<br /> the light of mine.
+
 |-
 ! People
-|{{columns|
+|
 * Harriet Jordan
 * Emily Sanderson
-}}
+
 |}
 
 ## Notes
 <references />
-{{meta/partial}}
-{{books}}
+
 [[Category: Books|*]]
 [[Category: Out of Universe]]
 [[category: indices]]

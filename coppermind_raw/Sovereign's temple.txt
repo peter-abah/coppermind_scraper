@@ -1,0 +1,23 @@
+{{architecture
+|image=The Sovereign by Naabarts.jpg
+|owner=[[Sovereign]]
+|era=Post-Catacendre
+|'region=[[Seran Range]], {{tag|Elendel Basin}}
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+{{update|mb7}}
+The '''Sovereign's temple''' is a building in the [[Seran Range]] of [[Elendel Basin]]. It was built by the [[Sovereign]] and his priests to house the [[Bands of Mourning]].
+
+== History ==
+{{image|Bands of Mourning Mural by Shuravf.jpg|side=left|width=250px|A mural depicing the legendary [[Bands of Mourning]] inside the temple}}[[Allik Neverfar]] told the story of the Sovereign's Temple to [[Marasi Colms]] during their attempt to find it. The Sovereign left [[Southern Scadrial]] with a group of elite priests. They built a temple hidden in tall mountains and were commanded to guard the Bands of Mourning until his return. Some priests eventually returned to Southern Scadrial with stories of the Temple and its purpose. Many Southern Scadrians interpreted this as a challenge issued by the Sovereign to find the Bands.{{book ref|mb6|21}} A group of [[Hunter]]s decided that the power was too tempting, and went on an expedition to destroy the Temple.{{book ref|mb6|23}} Along the way, some members mutinied and attempted to take the Bands for themselves.{{book ref|mb6|23}} They were turned back due to many of their men being killed by the Temple's traps, and were executed when they returned home.{{book ref|mb6|23}}
+
+== Location and Appearance ==
+The Sovereign's Temple is located near the highest peaks of the Seran Range southeast of [[Dulsing]]. The temple is a bleak stone fortress, one story tall, and built of field stones. At the entrance there is a large statue of the Sovereign holding a wooden spear, topped with the [[Bands of Mourning]], re-forged into a spearhead.{{book ref|mb6|23}} Inside the entrance to the Temple is a long hallway with a lighting mechanism powered by [[ettmetal]] at the start.{{book ref|mb6|23}}. Various traps litter the Temple hallway, which include spikes, spiked logs, pits lined with spikes, poison darts, and acid, presumably to guard against [[kandra]].{{book ref|mb6|24}} Past the traps is a door surrounded by a number of unknown symbols. Pressing on three of the symbols activates the door, causing it to open. The three symbols are explained to be a language only the Sovereign knows and consists of a circle, a triangle, and some other (not described) symbol. 
+
+== Notes ==
+<references />
+{{partial}}
+{{Mistborn|Era 2}}
+[[category: possessive articles]]

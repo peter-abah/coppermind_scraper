@@ -1,70 +1,66 @@
-{{lifeform
-|image=Whitespine by Amanda Diaz.jpg
-|native=[[Alethkar]], [[Shattered Plains]]
-|world=Roshar
-|universe=[[Cosmere]]
-}}
-{{quote
-|The square face showed sharpened mandibles—like teeth, only somehow more vicious—and a pair of long, toothlike tusks that pointed down from the upper jaw. The stark spikes running from the head along the sinuous back, along with powerful legs, were clues as to what this beast was.
-|[[Shallan Davar]]{{book ref|sa2|55}}
-}}
-**Whitespines** are apex predators that live on [[Roshar]]. They are large, carapaced animals with sharp tusks, spikes, and mandibles.{{file ref|Whitespine.jpeg|Whitespine page from Shallan's sketchbook}} They are fast and powerful, and have several evolutionary advantages that allow them to employ advanced hunting techniques.{{book ref|sa3|22}} Whitespines are capable of killing multiple humans, even if they are armed.{{book ref|sa1|41}} They are among the most deadly creatures in the [[cosmere]].{{wob ref|2940}}
+---
+source_file: Whitespine.txt
+entity_type: lifeform
+image: Whitespine by Amanda Diaz.jpg
+native: '[[Alethkar]], [[Shattered Plains]]'
+world: Roshar
+universe: '[[Cosmere]]'
+---
+
+> The square face showed sharpened mandibles—like teeth, only somehow more vicious—and a pair of long, toothlike tusks that pointed down from the upper jaw. The stark spikes running from the head along the sinuous back, along with powerful legs, were clues as to what this beast was.
+> — [[Shallan Davar]]
+
+**Whitespines** are apex predators that live on [[Roshar]]. They are large, carapaced animals with sharp tusks, spikes, and mandibles. They are fast and powerful, and have several evolutionary advantages that allow them to employ advanced hunting techniques. Whitespines are capable of killing multiple humans, even if they are armed. They are among the most deadly creatures in the [[cosmere]].
 
 ## Appearance and Anatomy
-{{image|Whitespine.jpeg|side=left|height=500px}}
-{{for|/Gallery|more images}}
-Whitespines are bilaterally symmetric and comparable in size to horses. They possess a carapaced back, two powerful legs, and a reptilian appearance. The eponymous spine is a distinctive row of large, stark white spikes that runs from the head along the back, with smaller spines present on other parts of the carapace.{{book ref|sa1|31}}{{book ref|sa2|55}} They are effectively bipedal, but they also have four smaller legs or "arms" on the front half of their body that have long, straight claws. The rear legs have short, hooked claws, along with small vestigial claws on the back of the legs.{{file ref|Whitespine.jpeg|Whitespine page from Shallan's sketchbook}}{{wob ref|13255}} 
 
-They have long white tusks that are used for impalement; the tusks can break off and remain lodged in their prey, causing severe damage.{{book ref|sa1|41}} These tusks will rapidly grow back after breaking off.{{rpg ref|wtr|8}} They have a secondary set of tusks under the primary tusks and large, sharp mandibles.{{book ref|sa2|55}}{{file ref|Whitespine.jpeg|Whitespine page from Shallan's sketchbook}}
+Whitespines are bilaterally symmetric and comparable in size to horses. They possess a carapaced back, two powerful legs, and a reptilian appearance. The eponymous spine is a distinctive row of large, stark white spikes that runs from the head along the back, with smaller spines present on other parts of the carapace. They are effectively bipedal, but they also have four smaller legs or "arms" on the front half of their body that have long, straight claws. The rear legs have short, hooked claws, along with small vestigial claws on the back of the legs. 
 
-Their carapace is slick and smooth, although it can become rough and cracked if it is too dry.{{wob ref|13255}} The carapace builds up a mineral-based crystalline substance that is water soluble as it is forming. If the crystal becomes thick enough, the animal will enter a dormant state to conserve energy.{{book ref|sa2|55}} This makes [[highstorm]]s a natural mechanism to keep whitespines active in the wild.{{wob ref|13255}} They smell quite unpleasant when they are wet.{{book ref|sa1|22}} 
+They have long white tusks that are used for impalement; the tusks can break off and remain lodged in their prey, causing severe damage. These tusks will rapidly grow back after breaking off. They have a secondary set of tusks under the primary tusks and large, sharp mandibles.
 
-The eyes are small and recessed into the square face, indicating that their peripheral vision is better than their long-distance vision,{{file ref|Whitespine.jpeg|Whitespine page from Shallan's sketchbook}} which is noted to be very limited.{{rpg ref|slwg|262}} They have flat, angular noses that allow them to sniff and sneeze, with a large nasal cavity that gives them a strong sense of smell, upon which they rely to hunt.{{book ref|sa1|31}}{{book ref|sa1|22}}{{file ref|Whitespine.jpeg|Whitespine page from Shallan's sketchbook}}
+Their carapace is slick and smooth, although it can become rough and cracked if it is too dry. The carapace builds up a mineral-based crystalline substance that is water soluble as it is forming. If the crystal becomes thick enough, the animal will enter a dormant state to conserve energy. This makes [[highstorm]]s a natural mechanism to keep whitespines active in the wild. They smell quite unpleasant when they are wet. 
+
+The eyes are small and recessed into the square face, indicating that their peripheral vision is better than their long-distance vision, which is noted to be very limited. They have flat, angular noses that allow them to sniff and sneeze, with a large nasal cavity that gives them a strong sense of smell, upon which they rely to hunt.
 
 ## Ecology and Behavior
-Whitespines are known to inhabit [[Alethkar]].{{book ref|sa1|41}} They may also live in other areas of Roshar, as individuals from [[Herdaz]], [[Jah Keved]], and [[Azir]] reference them.{{book ref|sa1|45}}{{book ref|sa2|30}}{{book ref|tsm|3}} They live in packs in dens or lairs that are often strewn with the bones of the creatures they have killed.{{book ref|sa1|31}}{{book ref|sa1|11}} The dens imply that they have some sort of social structure, and they seem to participate in cooperative hunting.{{book ref|sa1|31}}{{book ref|sa1|41}} They are distantly related to [[axehound]]s and have some superficial similarities to the much larger [[chasmfiend]]s, but whitespines have very notable evolutionary differences.{{url ref|url=https://web.archive.org/web/20141025204326/http://brandonsanderson.com/shardhunt-wor/whitespine-process/|site=Brandonsanderson.com|text=Whitespine Process from *Words of Radiance* Shardhunt (from archive.org)|date=2014-03|name=shardhunt}}{{wob ref|13160}} They are considered to be "nastier" than chasmfiends.{{wob ref|2940}}
+Whitespines are known to inhabit [[Alethkar]]. They may also live in other areas of Roshar, as individuals from [[Herdaz]], [[Jah Keved]], and [[Azir]] reference them. They live in packs in dens or lairs that are often strewn with the bones of the creatures they have killed. The dens imply that they have some sort of social structure, and they seem to participate in cooperative hunting. They are distantly related to [[axehound]]s and have some superficial similarities to the much larger [[chasmfiend]]s, but whitespines have very notable evolutionary differences. They are considered to be "nastier" than chasmfiends.
 
-They prey on a variety of smaller animals, including mink, axehounds, and hogs.{{book ref|sa2|30}}{{book ref|sa2|20}}{{book ref|tsm|2}} They are "not picky" and will eat whatever prey is available.{{book ref|sa3|22}} Smaller animals typically flee from whitespines in terror.{{book ref|sa2|30}}{{book ref|tsm|2}} Their powerful legs make them fast, with great jumping ability.{{book ref|sa2|81}}{{book ref|sa4|48}} They are opportunistic hunters, and are even known to pick off human travelers as prey on roadways near their dens.{{book ref|sa1|31}} They may also hide near the carcass of a recent kill after consuming its meat, then attack the scavengers that are attracted to the carcass.{{book ref|sa3|22}}
+They prey on a variety of smaller animals, including mink, axehounds, and hogs. They are "not picky" and will eat whatever prey is available. Smaller animals typically flee from whitespines in terror. Their powerful legs make them fast, with great jumping ability. They are opportunistic hunters, and are even known to pick off human travelers as prey on roadways near their dens. They may also hide near the carcass of a recent kill after consuming its meat, then attack the scavengers that are attracted to the carcass.
 
 ### Relationship with Humans
-{{quote
-|It's one of the dangers in hunting [a whitespine]... you assume that you’re on the beast's trail, but it might be lurking nearby."
-|[[Adolin Kholin]]{{book ref|sa3|22}}
-}}
-Whitespines sometimes attack humans, although this does not seem to be a terribly common occurrence, and it may be more of an issue in rural areas.{{book ref|sa1|41}} They are often hunted by [[lighteyes]] and their [[darkeyes|darkeyed]] attendants.{{book ref|sa1|41}}{{book ref|sa3|22}} Humans may use spears and try to corner the animals to kill them.{{book ref|sa2|56}} These hunts are extremely dangerous since whitespines are able to stalk and ambush the hunters; injuries or death are a known risk.{{book ref|sa1|41}}{{book ref|sa2|55}}{{book ref|sa3|22}} At least some singers also took to hunting whitespines in a similar manner as humans.{{rpg ref|slwg|154}}
 
-{{image|Whitespine_by_Marianne_Eie.jpg|side=right|height=250px}}
+> It's one of the dangers in hunting [a whitespine]... you assume that you’re on the beast's trail, but it might be lurking nearby."
+> — [[Adolin Kholin]]
 
-After whitespine tusks are broken off, they naturally turn white over time, with a smooth, polished appearance.{{file ref|Whitespine.jpeg|Whitespine page from Shallan's sketchbook}} Whitespine ivory is prized as a trophy, and it can be engraved or carved by artisans; [[Dalinar Kholin]] once had a favorite knife with a whitespine ivory grip.{{book ref|sa3|19}} [[Mraize]] has a tusk in his "trophy room" that Shallan believes to be from a whitespine.{{book ref|sa2|43}}
+Whitespines sometimes attack humans, although this does not seem to be a terribly common occurrence, and it may be more of an issue in rural areas. They are often hunted by [[lighteyes]] and their [[darkeyes|darkeyed]] attendants. Humans may use spears and try to corner the animals to kill them. These hunts are extremely dangerous since whitespines are able to stalk and ambush the hunters; injuries or death are a known risk. At least some singers also took to hunting whitespines in a similar manner as humans.
 
-Scholars take interest in whitespines due to their size and dynamic behavior.{{book ref|sa1|39}} They are presumably difficult to capture alive, as many Rosharans have never seen one in person, and specimens in captivity can draw large crowds.{{book ref|sa2|55}} However, they do not thrive in captivity, instead becoming confused and lethargic.{{book ref|sa2|64}}
+After whitespine tusks are broken off, they naturally turn white over time, with a smooth, polished appearance. Whitespine ivory is prized as a trophy, and it can be engraved or carved by artisans; [[Dalinar Kholin]] once had a favorite knife with a whitespine ivory grip. [[Mraize]] has a tusk in his "trophy room" that Shallan believes to be from a whitespine.
 
-==== Cultural References ====
-{{quote|width=220px
-|Like a child dropped in a whitespine's lair. Learn quickly or be lunch.
-|[[Kaladin Stormblessed]]{{book ref|sa2|52}}
-}}
-Whitespines are often mentioned in Alethi idioms, usually in reference to their fearsome appearance and dangerous, unpredictable nature.{{book ref|sa2|20}}{{book ref|sa2|43}}{{book ref|sa2|81}}
+Scholars take interest in whitespines due to their size and dynamic behavior. They are presumably difficult to capture alive, as many Rosharans have never seen one in person, and specimens in captivity can draw large crowds. However, they do not thrive in captivity, instead becoming confused and lethargic.
 
-[[Brightlord]] [[Amaram|Amaram's]] [[glyphpair]] is in the shape of a whitespine with raised tusks, made up of the [[glyphs]] merem and khakh.{{book ref|sa1|47}}
+#### Cultural References
+
+> Like a child dropped in a whitespine's lair. Learn quickly or be lunch.
+> — [[Kaladin Stormblessed]]
+
+Whitespines are often mentioned in Alethi idioms, usually in reference to their fearsome appearance and dangerous, unpredictable nature.
+
+[[Brightlord]] [[Amaram|Amaram's]] [[glyphpair]] is in the shape of a whitespine with raised tusks, made up of the [[glyphs]] merem and khakh.
 
 ### Relationship with Listeners
-Whitespines seem to live near the Shattered Plains, as [[Eshonai]] seems to be aware of them.{{book ref|sa4|48}}
+Whitespines seem to live near the Shattered Plains, as [[Eshonai]] seems to be aware of them.
 
 ## History
-Prior to their evolution into modern Whitespines, they existed as a hexapedal species of unknown name which later evolved into Axehounds and Whitespines. As they evolved, their frontal four legs became vestigial.{{url ref|url=https://web.archive.org/web/20141025204326/http://brandonsanderson.com/shardhunt-wor/whitespine-process/|site=Brandonsanderson.com|text=Whitespine Process from *Words of Radiance* Shardhunt (from archive.org)|date=2014-03}} Their ancestors were likely created by [[Adonalsium]].{{epigraph ref|sa2|66}}{{book ref|sa5|100}}
+Prior to their evolution into modern Whitespines, they existed as a hexapedal species of unknown name which later evolved into Axehounds and Whitespines. As they evolved, their frontal four legs became vestigial. Their ancestors were likely created by [[Adonalsium]].
 
-Around {{rosharan date|1168|9}}, Brightlord [[Roshone]] and his son [[Rillir]], accompanied by townsmen including [[Alds]] and [[Milp]], went hunting for a whitespine that had been attacking travelers near [[Hearthstone]].{{book ref|sa1|31}}{{book ref|sa1|41}} However, they were ambushed by at least one whitespine, with Rillir and Roshone both receiving severe wounds. They were brought back to town and [[Lirin]] and [[Kaladin]] attempted to treat them. Rillir had lost an eye to gouge wounds on his face, his right leg was nearly severed, and he had a massive puncture wound from a tusk to his abdomen; Lirin quickly realized that Rillir could not be saved due to blood loss and the severity of his injuries, and he died on the operating table.{{book ref|sa1|41}} Roshone barely survived the attack, but lost part of his right leg to a tusk wound.{{book ref|sa1|44}}{{book ref|sa3|6}} Alds and Milp were also injured in the attack, but Roshone abandoned them in an effort to get Rillir back to Hearthstone as fast as possible. They were presumed dead.{{book ref|sa1|41}}
+Around , Brightlord [[Roshone]] and his son [[Rillir]], accompanied by townsmen including [[Alds]] and [[Milp]], went hunting for a whitespine that had been attacking travelers near [[Hearthstone]]. However, they were ambushed by at least one whitespine, with Rillir and Roshone both receiving severe wounds. They were brought back to town and [[Lirin]] and [[Kaladin]] attempted to treat them. Rillir had lost an eye to gouge wounds on his face, his right leg was nearly severed, and he had a massive puncture wound from a tusk to his abdomen; Lirin quickly realized that Rillir could not be saved due to blood loss and the severity of his injuries, and he died on the operating table. Roshone barely survived the attack, but lost part of his right leg to a tusk wound. Alds and Milp were also injured in the attack, but Roshone abandoned them in an effort to get Rillir back to Hearthstone as fast as possible. They were presumed dead.
 
-Other Alethi lighteyes, including [[Adolin]] and Dalinar, imply that they have participated in whitespine hunts.{{book ref|sa2|55}}{{book ref|sa4|48}} Adolin states that he has "seen what they can do to a man".{{book ref|sa2|55}}
+Other Alethi lighteyes, including [[Adolin]] and Dalinar, imply that they have participated in whitespine hunts. Adolin states that he has "seen what they can do to a man".
 
 ## Trivia
-* Whitespines are not made up of [[Sleepless#Hordelings|hordelings]].{{wob ref|11672}}
-* [[Ben McSweeney]], one of the illustrators of *[[The Stormlight Archive]]*, has noted that the design process for the whitespine was quite difficult. Part of the challenge was to make it congruous with other Rosharan fauna, but with a more predatory and less "crustacean" look that was distinct from both axehounds and chasmfiends.{{wob ref|13255}} Ben went though numerous iterations of the design before landing on something that looked "right" to Brandon, using inspiration from real-life predators such as lions, sharks, and velociraptors.<ref name=shardhunt /> However, Ben was still not satisfied with the anatomy; he scrapped various elements and redesigned the creature a few weeks before the deadline to turn in art for *[[Words of Radiance]]*.{{wob ref|6384}}{{wob ref|13255}} He was much more satisfied with the final result, stating that it is worthy of being canonized, although he still sees room for improvement.{{wob ref|5583}}<ref name=shardhunt />
+* Whitespines are not made up of [[Sleepless#Hordelings|hordelings]].
+* [[Ben McSweeney]], one of the illustrators of *[[The Stormlight Archive]]*, has noted that the design process for the whitespine was quite difficult. Part of the challenge was to make it congruous with other Rosharan fauna, but with a more predatory and less "crustacean" look that was distinct from both axehounds and chasmfiends. Ben went though numerous iterations of the design before landing on something that looked "right" to Brandon, using inspiration from real-life predators such as lions, sharks, and velociraptors.<ref name=shardhunt /> However, Ben was still not satisfied with the anatomy; he scrapped various elements and redesigned the creature a few weeks before the deadline to turn in art for *[[Words of Radiance]]*. He was much more satisfied with the final result, stating that it is worthy of being canonized, although he still sees room for improvement.<ref name=shardhunt />
 *[[Isaac Stewart]] interviewed Ben about the whitespine design process and posted an article about it on Brandon's website, including concept art and feedback from Brandon.<ref name=shardhunt />
 
 ## Notes
 <references />
-{{complete}}
-{{demoted|slwg}}
-{{Stormlight}}

@@ -1,5 +1,7 @@
-{{image|17th_shard.png|side=right|width=350px}}
-{{for|Seventeenth Shard|the cosmere-wide group of worldhoppers|pre=This article is about the fan site}}
+---
+source_file: 17thshard.com.txt
+entity_type: real world
+---
 
 The **17th Shard** is the official [[Brandon Sanderson]] fansite dedicated to all of the works of fantasy author Brandon Sanderson. 
 
@@ -16,6 +18,6 @@ Founded by Eric Lake, Josh and Mi'chelle Walker as **Hoid's Compendium**, the si
 ## External links
 * [https://www.17thshard.com/ 17th Shard Homepage]
 * [https://www.17thshard.com/about.php About page]
-{{real world|stub}}
+
 [[Category: Fandom]]
 [[category: list articles]]

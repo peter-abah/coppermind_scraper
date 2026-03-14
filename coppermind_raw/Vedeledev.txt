@@ -1,0 +1,2 @@
+#REDIRECT [[Vedel]]
+[[Category: aliases]]

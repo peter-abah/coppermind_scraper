@@ -1,8 +1,12 @@
+---
+source_file: Spensa NightshadeGallery.txt
+entity_type: covertoc
+---
+
 ## Official artwork
 [[Spensa]] features on vast majority of the covers for the [[Skyward (series)|Skyward series]].
 
 <center>**Covers**</center>
-{{CoverToC|skyward}}
 
 <gallery mode="packed" heights=200px>
 Spensa.jpeg | <center><small>by [[Charlie Bowater]]</small></center> Portrait from *Skyward* cover

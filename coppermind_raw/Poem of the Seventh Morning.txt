@@ -1,0 +1,1 @@
+#REDIRECT [[The Poem of the Seventh Morning]]

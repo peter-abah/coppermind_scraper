@@ -1,17 +1,15 @@
 ---
-profession: "{{cat tag|Law enforcement"
+source_file: Maindew.txt
+entity_type: character
+residence: Elendel
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[Shadows of Self]]'
 ---
 
-|residence=Elendel
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[Shadows of Self]]
-}}
-**Maindew** is a corporal of the [[Elendel]] constabulary in [[Claude Aradel]]'s precinct.{{book ref|mb5|5}}
+**Maindew** is a corporal of the [[Elendel]] constabulary in [[Claude Aradel]]'s precinct.
 
-Maindew always made a point of saluting his superior officer. However, Aradel seemed to view his constant saluting as sycophantic and instructed him not to bother saluting while indoors, since they were constantly crossing paths. Nevertheless, Maindew saluted Aradel while he met with [[Marasi]] in his office. Aradel threw some wadded-up broadsheets in his face in order to discourage him, and Maindew apologized.{{book ref|mb5|5}}
+Maindew always made a point of saluting his superior officer. However, Aradel seemed to view his constant saluting as sycophantic and instructed him not to bother saluting while indoors, since they were constantly crossing paths. Nevertheless, Maindew saluted Aradel while he met with [[Marasi]] in his office. Aradel threw some wadded-up broadsheets in his face in order to discourage him, and Maindew apologized.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 18:31, 17 December 2019 (UTC)}}
-{{Mistborn|era 2}}

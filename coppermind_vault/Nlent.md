@@ -1,12 +1,12 @@
 ---
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Words of Radiance"
+source_file: Nlent.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Words of Radiance]]'
 ---
 
-**Nlent** is a squat [[Thaylen]] guard on [[Vstim]]'s caravan. He and [[Kylrm]] accompany [[Rysn]] when she goes onto [[Relu-na]] to trade. When they come across [[Axies]] on the way up, Nlent warns Rysn to stay away from him, showing some knowledge of the abilities of [[Aimian]]s, though it is tainted by superstition. He carries a charm of courage on his wrist: a small item that has no magical properties but serves as a reminder to the wearer to show courage and passion.{{book ref|sa2|i|3}} 
+**Nlent** is a squat [[Thaylen]] guard on [[Vstim]]'s caravan. He and [[Kylrm]] accompany [[Rysn]] when she goes onto [[Relu-na]] to trade. When they come across [[Axies]] on the way up, Nlent warns Rysn to stay away from him, showing some knowledge of the abilities of [[Aimian]]s, though it is tainted by superstition. He carries a charm of courage on his wrist: a small item that has no magical properties but serves as a reminder to the wearer to show courage and passion. 
 
 ## Notes
 <references />
-{{complete}}
-{{Stormlight}}

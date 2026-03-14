@@ -1,36 +1,24 @@
-{{noble house|name=Smedry
-|home=[[Free Kingdoms]]
-|earth=Alcatraz
-|books=[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]
-}}
+---
+source_file: House Smedry.txt
+entity_type: noble house
+name: Smedry
+home: '[[Free Kingdoms]]'
+earth: Alcatraz
+books: '[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]'
+---
 
 **House Smedry** was a noble family of the [[Free Kingdoms]]. They were notable for their magical [[Smedry Talent|Talent]]s.
 
 ## History
-[[Allekatrase]] the Lens-wielder of [[Incarna]] became the first Smedry (a corruption of the Incarnan for Lens-wielder). He broke the Incarnan language and time itself in an attempt to stop others from gaining the Dark Talent.{{book ref|a2|14}}{{book ref|a3|16}}
+[[Allekatrase]] the Lens-wielder of [[Incarna]] became the first Smedry (a corruption of the Incarnan for Lens-wielder). He broke the Incarnan language and time itself in an attempt to stop others from gaining the Dark Talent.
 
 Eventually, the kingdom of **Smedrious** was founded.
 
-A later king abdicated his throne and the kingdom was abolished and absorbed into [[Nalhalla]]. The Smedry family became high-nobility. They kept a permanent seat in the [[Council of Kings]].{{book ref|a3|3}}
+A later king abdicated his throne and the kingdom was abolished and absorbed into [[Nalhalla]]. The Smedry family became high-nobility. They kept a permanent seat in the [[Council of Kings]].
 
-[[Attica Smedry|Attica]] collects the [[Sands of Rashid]] and bequeaths them to his son [[Alcatraz Smedry|Alcatraz]].{{book ref|a1|20}} He then visits the [[Library of Alexandria]] and becomes one of the curators, only being released again by Alcatraz.{{book ref|a2|20}} He announces to the world that he has found a way of giving anyone a Talent.{{book ref|a3|part=royal epilogue}}
+[[Attica Smedry|Attica]] collects the [[Sands of Rashid]] and bequeaths them to his son [[Alcatraz Smedry|Alcatraz]]. He then visits the [[Library of Alexandria]] and becomes one of the curators, only being released again by Alcatraz. He announces to the world that he has found a way of giving anyone a Talent.
 
 ## Family Tree
-{{chart/wrap|title=[[House Smedry]] family lineage|
-{{chart| | | | | | | | | | LEA |~|y|~| XXX | | | | | | | | | | | | |LEA=[[Leavenworth]]|XXX=unknown}}
-{{chart| | | | | |,|-|-|-|-|-|-|-|+|-|-|-|v|-|-|-|-|-|-|-|.| | | | }}
-{{chart| SHA |y| ATT | | XXX |y| MIL | | PAT |y| XXX | | KAZ | | | <!--
--->|MIL=Potentially [[Millhaven Smedry|Milhaven]]|SHA=[[Shasta]]|ATT=[[Attica]]|KAZ=[[Kazan Smedry|Kazan]]|PAT=[[Pattywagon Smedry|Pattywagon]]|XXX=unknown}}
-{{chart| | | |!| | | |,|-|-|-|+|-|-|-|.| | | |)|-|-|-|.| | | | | | }}
-{{chart| | | ATZ | | SSS | | OZS | | AES | | QUE | | FOL |~| HIM | <!--
--->|ATZ=[[Alcatraz Smedry|Alcatraz]]<!--
--->|QUE=[[Quentin Smedry|Quentin]]|FOL=[[Folsom Smedry|Folsom]]|HIM=[[Himalaya Smedry|Himalaya]]<!--
--->|SSS=[[Sing Sing Smedry|Sing]]|OZS=[[Australia Smedry|Australia]]|AES=[[Aydee Ecks Smedry|Aydee]]}}<!--
-
-extra bits
--->|Other members include [[Allekatrase]], [[Libby Smedry|Libby]], [[Millhaven Smedry|Millhaven]]{{book ref|a4|24601}}, Alcatraz VII, and a number of ancestors to Leavenworth and his descendants which shared their names|2-style=padding: 1em;}}
 
 ## Notes
 <references />
-{{partial}}
-{{Alcatraz}}

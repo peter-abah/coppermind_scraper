@@ -1,15 +1,19 @@
-{{book
-|cover=Mistborn 2.jpg
-|released=August 21, 2007{{bws ref|its-out-amphigory|Release announcement|date=2007-08-21}}
-|series=[[Mistborn trilogy]]
-|prequel=Mistborn: The Final Empire|sequel=The Hero of Ages
-|setting=[[Scadrial]], [[Cosmere]]
-|publisher=Tor Books
-|ISBN=978-0-7653-1688-2
-|page-count=590
-|word-count=[[/Statistical_analysis|244,371]]
-|annotations=annotation-mistborn-2-title-page
-}}{{for|Well of Ascension|[[Preservation]]'s [[Perpendicularity]]|pre="The Well of Ascension" redirects here}}
+---
+source_file: The Well of Ascension.txt
+entity_type: book
+cover: Mistborn 2.jpg
+released: August 21, 2007
+series: '[[Mistborn trilogy]]'
+prequel: 'Mistborn: The Final Empire'
+sequel: The Hero of Ages
+setting: '[[Scadrial]], [[Cosmere]]'
+publisher: Tor Books
+isbn: 978-0-7653-1688-2
+page-count: '590'
+word-count: '[[/Statistical_analysis|244,371]]'
+annotations: annotation-mistborn-2-title-page
+---
+
 ***The Well of Ascension*** is the second volume of the [[Mistborn trilogy|*Mistborn* trilogy]] by [[Brandon Sanderson]]. It is preceded by *[[The Final Empire]]* and followed by *[[The Hero of Ages]]*. The book follows the remaining members of [[Kelsier|Kelsier's]] crew as they try to bring stability to [[Luthadel]] and the rest of the [[Final Empire]] in the chaos following the death of [[The Lord Ruler]]. Faced with armies laying siege to the city outside the walls, political factions and unrest among the newly-freed skaa within, and a new, sinister change in behaviour from the mists themselves, [[Vin]], and the rest of the crew, along with the newly crowned King [[Elend Venture]], must find a way to protect the fledgling empire they have created.
 
 ## Synopsis
@@ -24,7 +28,7 @@ They have barely begun when three separate armies attack. As the siege tightens,
 It may just be that killing the Lord Ruler was the easy part. Surviving the aftermath of his fall is going to be the real challenge.
 
 ## Summary
-{{for|/Summary|a chapter by chapter summary}}
+
 Almost a year has passed since the revolution that deposed the Lord Ruler. Elend Venture has transformed the ancient empire's capital city into a democratic kingdom over which he presides. Elend's own father, [[Straff Venture]] has brought an army from the north to take control of the city, but the arrival of another army led out of the west by [[Ashweather Cett]] — tricked into coming by [[Breeze]] forces the city into an extended seige. Elend and the crew decide to play a dangerous game, trying to incite the two armies to attack one another by convincing each that Luthadel will ally with them in the battle. The later arrival of a third, even more dangerous army of [[koloss]] led by Elend's once-friend [[Jastes Lekal]] strains the tensions in the city even farther. In addition to this, Vin and Elend find that a kandra—most likely sent by one of the armies—has killed and replaced someone within the walls, though they have no idea who it might be.
 
 Within the city, Elend's new Assembly is quickly getting out of hand as political factions among the nobility, merchants, and working skaa members each vie for their own solutions to the problems of the armies, in most cases, a call for surrender to Straff or Cett and a wish for things to go back to the way they were before the [[Collapse]]. Elend's lack of training in leadership allows the Assembly members to dismiss him, and his preoccupation with other issues forces his attention away from keeping them in line. Under the tutelage of a [[Terris|Terriswoman]] [[Keeper]] named [[Tindwyl]], Elend starts to become the king his people need. However, not quite quickly enough, for the Assembly deposes him and chooses [[Ferson Penrod]] as king instead.
@@ -56,13 +60,11 @@ Finally, Sazed returns to the Conventical of Seran confirming his suspicions: Ru
 ; [[Ashweather Cett]] : King of the western dominance and leader of the second army to arrive at Luthadel.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery for The Well of Ascension}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *The Well of Ascension* consists of fifty-nine chapters, and one epilogue, reaching a total 244,371 word count. There are eleven different unique point-of-view characters in a total of 147 POVs.
 
 {|class="wikitable"
@@ -90,9 +92,7 @@ Finally, Sazed returns to the Conventical of Seran confirming his suspicions: Ru
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Mistborn|Era 1}}
-{{books}}
+
 [[category: Mistborn| e1.2]]
 [[category: Mistborn Era 1| 2]]
 [[category: list articles]]

@@ -1,4 +1,7 @@
-{{CoverToC|mbe1}}
+---
+source_file: Mistborn The Final EmpireCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[Mistborn: The Final Empire]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

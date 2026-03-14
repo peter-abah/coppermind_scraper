@@ -1,4 +1,9 @@
-This is a gallery for all known covers for *[[{{b|frugal}}]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
+---
+source_file: The Frugal Wizard's Handbook for Surviving Medieval EnglandCovers.txt
+entity_type: b
+---
+
+This is a gallery for all known covers for *[[]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 
 <gallery widths=3000px heights=400px mode="packed">
 Frugal Wizard US Dragonsteel Cover.jpg | <center>United States</center> (Dragonsteel)

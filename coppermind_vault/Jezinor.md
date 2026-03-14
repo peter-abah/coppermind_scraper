@@ -1,18 +1,15 @@
 ---
-profession: "Trader"
-groups: "{{tag|Ghostbloods"
+source_file: Jezinor.txt
+entity_type: character
+profession: Trader
+groups: Ghostbloods
+nation: Thaylenah
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|nation=Thaylenah
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-
-**Jezinor** is a [[Thaylen]] member of the [[Ghostbloods]] on [[Roshar]].{{book ref|sa5|23}}
+**Jezinor** is a [[Thaylen]] member of the [[Ghostbloods]] on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

@@ -1,14 +1,14 @@
 ---
-species: "Singer"
-nation: "Listener"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Stormlight Stonewalkers"
+source_file: Calinai.txt
+entity_type: character
+species: Singer
+nation: Listener
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Stormlight Stonewalkers]]'
 ---
 
-**Calinai** is a [[listener]] on [[Roshar]]. She wore [[nimbleform]] during at least some parts of the [[War of Reckoning]]. Near the tail end of the war, her sister died in battle, and Calinai persuaded three [[warform]] singers to help search the chasms for her body. Despite listener taboos about touching the dead, Calinai was determined to recover a treasured ancient heirloom given to the sisters by their late mother: a bracelet made from strung-up gemstones, etched with [[glyph]]s associated with the Radiant [[Order of Willshapers]].{{rpg ref|slsw|40}} During her search, they were spotted by human soldiers, and there was a fight.{{rpg ref|slsw|41}} It is unknown if she survived the encounter.
+**Calinai** is a [[listener]] on [[Roshar]]. She wore [[nimbleform]] during at least some parts of the [[War of Reckoning]]. Near the tail end of the war, her sister died in battle, and Calinai persuaded three [[warform]] singers to help search the chasms for her body. Despite listener taboos about touching the dead, Calinai was determined to recover a treasured ancient heirloom given to the sisters by their late mother: a bracelet made from strung-up gemstones, etched with [[glyph]]s associated with the Radiant [[Order of Willshapers]]. During her search, they were spotted by human soldiers, and there was a fight. It is unknown if she survived the encounter.
 
 ## Notes
 <references />
-{{complete}}
-{{stormlight}}

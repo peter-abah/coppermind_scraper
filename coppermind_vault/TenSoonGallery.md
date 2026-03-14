@@ -1,3 +1,8 @@
+---
+source_file: TenSoonGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Hero of Ages by GisAlmeida.jpg | <center><small>by {{a|GisAlmeida}}</small></center> *Hero of Ages*, various scenes from the trilogy

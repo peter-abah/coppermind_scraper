@@ -1,0 +1,1 @@
+#REDIRECT [[Summary:Isles of the Emberdark]]

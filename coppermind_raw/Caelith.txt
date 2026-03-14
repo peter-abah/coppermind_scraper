@@ -1,0 +1,13 @@
+{{character
+|abilities={{tag+|lightweaver}}
+|groups={{tag|Knights Radiant}} <small>([[Order of Lightweavers|Lightweavers]])
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Stormlight Scenarios]]
+}}
+'''Caelith''' is a [[Order of Lightweavers|Lightweaver]] on [[Roshar]].{{rpg ref|ss|24}} While he was undercover in [[Marabethia]], Caelith met a [[Fused]] named [[Talenai]]. The two of them slowly fell in love, and after Caelith was discovered by the enemy, Talenai helped him evade capture. In response, [[Odium]] removed Talenai’s powers; when Talenai fled, [[Order of Skybreakers|Skybreakers]] captured and sentenced them to death by Marabethian custom. Afterwards, Caelith recruited a group of people to rescue Talenai.{{rpg ref|ss|25}}
+
+== Notes ==
+<references />
+{{complete}}
+{{stormlight}}

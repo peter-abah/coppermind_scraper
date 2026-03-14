@@ -1,9 +1,11 @@
-{{aspect}}
-**Harrison** is one of [[Stephen Leeds]]' [[aspects]].{{book ref|legion3|4}}
+---
+source_file: Harrison.txt
+entity_type: aspect
+---
 
-He is a technophobe, and as such, doesn't want a phone when all of the other aspects want one.{{book ref|legion3|4}}
+**Harrison** is one of [[Stephen Leeds]]' [[aspects]].
+
+He is a technophobe, and as such, doesn't want a phone when all of the other aspects want one.
 
 ## Notes
 <references />
-{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 19:44, 21 March 2023 (UTC)}}
-{{legion}}

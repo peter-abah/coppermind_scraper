@@ -1,17 +1,16 @@
 ---
-occupation: "Archerlord in {{tag+|army|Kholin"
+source_file: Ashelem.txt
+entity_type: character
+occupation: Archerlord in army
+groups: army
+residence: Alethi warcamps
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|groups={{tag+|army|Kholin}}
-|residence=Alethi warcamps
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Ashelem** is a [[lighteyed]] officer who commands a company of [[Dalinar Kholin]]'s archers.{{book ref|sa1|26}}
+**Ashelem** is a [[lighteyed]] officer who commands a company of [[Dalinar Kholin]]'s archers.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:58, 10 November 2017 (MST)}}
-{{Stormlight}}

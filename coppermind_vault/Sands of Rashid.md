@@ -1,13 +1,15 @@
-{{magic
-|earth=Alcatraz
-|books=[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]
-}}
+---
+source_file: Sands of Rashid.txt
+entity_type: magic
+earth: Alcatraz
+books: '[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]'
+---
+
 The **Sands of Rashid** are a type of sand considered mythical for many years which when combined and melted into glass make the [[Translator's Lenses]], granting an [[Oculator]] the ability to read, write, hear, or speak other languages. The Translator's Lenses are the only known way to read the [[Forgotten Language]].
 
-The Sands were collected by [[Attica Smedry]]. He forged one pair of Translator's Lenses for himself and gave the rest of the sands to his son [[Alcatraz Smedry|Alcatraz]] on his thirteenth birthday.{{book ref|a1|3}} Alcatraz didn't know what the sands were, so he merely thought that it was some sort of cruel joke. Later that day, [[Shasta Smedry]] stole Alcatraz's sands and took them to the downtown library to be smelted. At the downtown library, [[Radrian Blackburn]] forged them into Translator's Lenses, which Alcatraz later was able to acquire. [[Shasta Smedry|Shasta]] gained possession of Attica's pair when he was transformed into a [[Library of Alexandria|Curator of Alexandria]]{{book ref|a2|11}}.
+The Sands were collected by [[Attica Smedry]]. He forged one pair of Translator's Lenses for himself and gave the rest of the sands to his son [[Alcatraz Smedry|Alcatraz]] on his thirteenth birthday. Alcatraz didn't know what the sands were, so he merely thought that it was some sort of cruel joke. Later that day, [[Shasta Smedry]] stole Alcatraz's sands and took them to the downtown library to be smelted. At the downtown library, [[Radrian Blackburn]] forged them into Translator's Lenses, which Alcatraz later was able to acquire. [[Shasta Smedry|Shasta]] gained possession of Attica's pair when he was transformed into a [[Library of Alexandria|Curator of Alexandria]].
 
 ## Notes
 <references />
-{{partial}}
-{{Alcatraz}}
+
 [[Category: Magic]]

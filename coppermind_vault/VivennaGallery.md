@@ -1,3 +1,8 @@
+---
+source_file: VivennaGallery.txt
+entity_type: article
+---
+
 ## Official art
 <gallery mode="packed" heights=250px gallery caption="Official art">
 Warbreaker CN cover art.jpg | <center><small>by {{a|Jian Guo}}</small></center> On the Mainland China cover of *[[Warbreaker]]* (left)

@@ -1,15 +1,13 @@
 ---
-died: "Killed by Ealstan{{book ref|fwh|36"
+source_file: Ulric Stromfin.txt
+entity_type: character
+died: Killed by [[Ealstan]]
+aliases: Ulric Lordslayer, Ulric the Butcher
+earth: Frugal Wizard
+introduced: '[[The Frugal Wizard''s Handbook for Surviving Medieval England]]'
 ---
 
-|aliases=Ulric Lordslayer,{{book ref|fwh|20}} Ulric the Butcher{{book ref|fwh|24}}
-|earth=Frugal Wizard
-|introduced=[[The Frugal Wizard's Handbook for Surviving Medieval England]]
-}}
-{{update|frugal}}
-**Ulric Stromfin** is the head of the Seattle branch of the [[Fabian Augments]] cartel.{{book ref|frugal|7}}
+**Ulric Stromfin** is the head of the Seattle branch of the [[Fabian Augments]] cartel.
 
 ## Notes
 <references />
-{{stub}}
-{{Frugal Wizard}}

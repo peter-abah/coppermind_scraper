@@ -1,20 +1,19 @@
 ---
-world: "Lumar"
-universe: "Cosmere"
-books: "Tress of the Emerald Sea"
+source_file: Kaplan.txt
+entity_type: character
+world: Lumar
+universe: '[[Cosmere]]'
+books: '[[Tress of the Emerald Sea]]'
 ---
 
-{{quote
-|They were good people you killed. Poor Kaplan. And Marple. And Mallory.
-|[[Tress]], behind [[Crow]]'s back{{book ref|tress|20}}
-}}
+> They were good people you killed. Poor Kaplan. And Marple. And Mallory.
+> — [[Tress]], behind [[Crow]]'s back
 
-**Kaplan** is a person which [[Tress]] mentions as a victim of the attack on the *[[Oot's Dream]]* by the *[[Crow's Song]]* on [[Lumar]]. They are likely a fictitious character created by Tress.{{book ref|tress|20}}
+**Kaplan** is a person which [[Tress]] mentions as a victim of the attack on the *[[Oot's Dream]]* by the *[[Crow's Song]]* on [[Lumar]]. They are likely a fictitious character created by Tress.
 
-Tress told [[Crow]] that Kaplan, [[Marple]], and [[Mallory]], ostensibly late crew members of the *Oot's Dream*, were her family; she did so so that Crow would want her to run away at their port call in [[Shimmerbay]] in order to spread the news that the crew of the *Crow's Song* had killed all the people on the *Oot's Dream*.{{book ref|totes|20}} This would have both fulfilled Crow's plan to make her crew into [[deadrunner]]s and given Tress the freedom to find other passage to [[Kingsport]].{{book ref|tress|21}}
+Tress told [[Crow]] that Kaplan, [[Marple]], and [[Mallory]], ostensibly late crew members of the *Oot's Dream*, were her family; she did so so that Crow would want her to run away at their port call in [[Shimmerbay]] in order to spread the news that the crew of the *Crow's Song* had killed all the people on the *Oot's Dream*. This would have both fulfilled Crow's plan to make her crew into [[deadrunner]]s and given Tress the freedom to find other passage to [[Kingsport]].
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 16:42, 19 January 2023 (UTC)}}
-{{tress}}
+
 [[es:Kaplan]]

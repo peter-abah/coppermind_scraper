@@ -1,21 +1,18 @@
 ---
-image: "Aon_Mai.svg"
-abilities: "{{tag+|Splinter"
+source_file: Mai.txt
+entity_type: character
+image: Aon_Mai.svg
+abilities: Splinter of [[Devotion]]
+bonded: '[[Riika]]'
+species: Seon
+world: Sel
+universe: '[[Cosmere]]'
+introduced: '[[Elantris (book)|Elantris]]'
 ---
 
-of [[Devotion]]
-|bonded=[[Riika]]
-|species=Seon
-|world=Sel
-|universe=[[Cosmere]]
-|introduced=[[Elantris (book)|Elantris]]
-}}
-{{for|RaiDomo Mai|the JinDo dish}}
-**Mai** is a [[seon]] bonded with [[Riika]].{{book ref|thoe}} His name, which comes from the [[Aon]] [[Aon#Mai|Mai]], means "honor."{{book ref|elantris|part=ars}}
+**Mai** is a [[seon]] bonded with [[Riika]]. His name, which comes from the [[Aon]] [[Aon#Mai|Mai]], means "honor."
 
-Mai always read Riika a story at bedtime, or she could not sleep.{{book ref|thoe}} He was taken to [[Teod]] with [[Sarene]] during the [[Invasion of Arelon]], from where he communicated with [[Ashe]] and told him that Sarene was surrounded by [[Dakhor]] monks at the docks.{{book ref|Elantris|62}}
+Mai always read Riika a story at bedtime, or she could not sleep. He was taken to [[Teod]] with [[Sarene]] during the [[Invasion of Arelon]], from where he communicated with [[Ashe]] and told him that Sarene was surrounded by [[Dakhor]] monks at the docks.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:52, 30 March 2019 (MST)}}
-{{Elantris}}

@@ -1,15 +1,12 @@
-{{Copyright}}
-{{culture
-|related=[[Listener]]
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-The **Song of Renunciation** is one of the songs created by the [[listener]]s to remember their history. It recounts how the listeners left their gods. Pieces of it are part of the [[Song of Histories]], but this Song is the pure and simple version. Similarly, the [[Song of Destruction]] has much of the same words as the Song of Renunciation, and is sung to the same tune, but used for a different purpose.{{book ref|sa5|112}}
+---
+source_file: Song of Renunciation.txt
+entity_type: copyright
+---
+
+The **Song of Renunciation** is one of the songs created by the [[listener]]s to remember their history. It recounts how the listeners left their gods. Pieces of it are part of the [[Song of Histories]], but this Song is the pure and simple version. Similarly, the [[Song of Destruction]] has much of the same words as the Song of Renunciation, and is sung to the same tune, but used for a different purpose.
 
 ## Notes
 <references/>
-{{complete}}
-{{stormlight}}
+
 [[Category: list articles]]
 [[Category: Listener songs]]

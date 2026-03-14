@@ -1,13 +1,13 @@
 ---
-profession: "Artifabrian"
-residence: "Alethi warcamps"
-world: "Roshar"
-universe: "Cosmere"
+source_file: Ishali.txt
+entity_type: character
+profession: '[[Artifabrian]]'
+residence: Alethi warcamps
+world: Roshar
+universe: '[[Cosmere]]'
 ---
 
-**Ishali** is a young [[artifabrian]] on [[Roshar]]. She is the proprietor of a workshop called the [[Blueworks]]. Ishali is particularly militant about attracting customers, and her improvised songs about the latest [[fabrial]] technologies are a common refrain in nearby streets. Ishali sells standard fabrials worth up to 500 marks. She’s also happy to share her resources with anyone willing to advertise for her—especially if they can sing.{{rpg ref|slsw|36}}
+**Ishali** is a young [[artifabrian]] on [[Roshar]]. She is the proprietor of a workshop called the [[Blueworks]]. Ishali is particularly militant about attracting customers, and her improvised songs about the latest [[fabrial]] technologies are a common refrain in nearby streets. Ishali sells standard fabrials worth up to 500 marks. She’s also happy to share her resources with anyone willing to advertise for her—especially if they can sing.
 
 ## Notes
 <references />
-{{complete}}
-{{Stormlight}}

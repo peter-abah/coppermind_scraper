@@ -1,16 +1,14 @@
 ---
-occupation: "{{cat tag|Scholars|Scholar"
+source_file: Yustara.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
 **Yustara** is a scholar on [[Roshar]].
 
-Their works are recommended to [[Shallan]] by [[Jasnah]],{{book ref|sa1|5}} but [[Artmyrn]], the [[Kharbranthian]] bookseller, does not have any copies when Shallan goes book shopping.{{book ref|sa1|8}}
+Their works are recommended to [[Shallan]] by [[Jasnah]], but [[Artmyrn]], the [[Kharbranthian]] bookseller, does not have any copies when Shallan goes book shopping.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:20, 3 September 2016 (MST)}}
-{{Stormlight}}

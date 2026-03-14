@@ -1,0 +1,14 @@
+{{character
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Rembrinor''' is a swordmaster from [[Alethkar]] on [[Roshar]].{{book ref|sa3|16}}
+
+[[Dalinar Kholin]] asked [[Kadash]] if he had ever told him the story of his first sword trainer.{{book ref|sa3|16}} Kadash guessed that it was Rembrinor, but it was actually [[Harth]].{{book ref|sa3|16}} Rembrinor may be an [[ardent]], as Dalinar alludes to additional sword training that he later received at monasteries on Kholin land.{{book ref|sa3|16}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:16, 3 September 2019 (UTC)}}
+{{Stormlight}}

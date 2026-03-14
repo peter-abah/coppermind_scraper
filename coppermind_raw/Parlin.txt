@@ -1,0 +1,64 @@
+{{character
+|image=Parlin by zoethatcher.jpg
+|religion={{tag|Austrism}}
+|died=Tortured and killed by [[Tonk Fah]] in 327{{book ref|wb|35}}
+|parents=[[Yarda]]
+|nation=Idris
+|world=Nalthis
+|universe=[[Cosmere]]
+|introduced=[[Warbreaker]]
+}}
+{{quote
+|If you aren't familiar with a place, you need to become familiar with it."
+|Parlin to Vivenna{{book ref|wb|9}}
+}}
+'''Parlin''' is an [[Idrian]] guardsman from [[Nalthis]]. He works as a hunter in Idris for much of his time, but accompanied [[Vivenna]] to [[Hallandren]] when she went to rescue [[Siri]].
+
+== Appearance and Personality ==
+Parlin is a quiet and accomplished hunter who prefers forests and animals to cities and people.{{book ref|wb|9}} 
+
+In Idris, Parlin wore dull brown clothing that would help camouflage him in the mountains and forests. In [[T'Telir]], he wore clothing that helped him blend in there: a bright green hat that flopped down the side of his face and colorful vests. He is tall but not lanky{{book ref|wb|9}} and has a square-jawed face.{{book ref|wb|14}}
+
+Like most Idrians, he is a follower of [[Austre]] and dresses and acts with self-deprecation. He is terse; he is not rude, but he rarely feels he has much to say. He is solid and reliable. Vivenna fears T'Telir is probably overwhelming him. Crowds make him nervous.{{book ref|wb|9}}
+
+[[Denth]] describes Parlin as "quick at adapting to situations" and "trustworthy", making him worth keeping around, though he does admit that Parlin doesn't have the "wit of a scholar."{{book ref|wb|28}}
+
+== Attributes and Abilities ==
+Parlin is a good hunter and scout. He is able to blend into his surroundings and is very observant.{{book ref|wb|9}}  He quickly picks up on the customs and mannerisms of the street toughs of T'Telir and adopts both to better blend into the city.{{book ref|wb|28}}
+
+== History ==
+
+{{quote
+|I can’t smell anything but bodies and spices, can’t hear anything but the chatter of people. There’s no wind, no trees, no rivers, just… ''people''.
+|Parlin to Vivenna{{book ref|warbreaker|9}}
+}}
+Before departing, Parlin was guarding the Northern Passes. He acts as [[Vivenna]]'s bodyguard when she goes secretly to [[T'Telir]] after her sister [[Siri]], and is several years Vivenna's senior. He was easy to convince and already knew the route, as he had scouted the wall a year before.{{book ref|wb|9}} 
+
+Nevertheless, his skill at blending in with nature translates well to the city. Parlin adopts a brightly colored hat and vest in T'Telir, which Vivenna claims makes him look ridiculous, but [[Denth]] points out it simply makes him look Hallandren.{{book ref|wb|28}} Parlin also takes a shine to [[Jewels]] at one point{{book ref|wb|33}} which sparks jealousy in Vivenna, though she refuses to admit it when Denth brings it up.{{book ref|wb|28}}
+
+He is tortured to death by the mercenary [[Tonk Fah]] when Denth believes Vivenna has run away{{book ref|wb|35}}, as only a short time previously he had talked to her on the stairs and she may have confided in him. Denth did not intend for Tonk Fah to kill him, but Tonk Fah got carried away during the torture.{{wob ref|7284}} His body is then left tied to a chair in the safe house in the slums. It works like bait in a trap because when it is discovered by Vivenna it is here she is taken by Denth and Tonk Fah. Vivenna blames herself for Parlin's death, as she convinced him to come on this mission.{{book ref|wb|37}}
+
+== Relationships ==
+He is the son of General [[Yarda]].
+
+He is the man King [[Dedelin]] would have married [[Vivenna]] to had she not been promised to the [[Susebron|God King]].{{book ref|wb|9}} They were close friends throughout childhood. 
+
+[[Vivenna]] is not in love with Parlin, but she does have affection for him. She views him more as a brother.{{wob ref|6961}}
+
+He is attracted to [[Jewels]], but she is only amused by him. She is not romantically interested, as she is already involved with [[Arsteel]].{{book ref|wb|33}}{{wob ref|6961}}
+
+== Quotes ==
+{{dialogue
+|Vivenna|Unfortunately, Parlin, people aren't like animals.
+|Parlin|I am aware of that. Animals make sense.
+|attr= {{book ref|wb|9}}
+}}
+
+== Trivia ==
+* In early drafts of Warbreaker, Parlin was named Peprin and was much more bumbling and innocent.{{wob ref|6717}}
+* If [[Brandon Sanderson]] could change anything about Warbreaker, it would be to make Parlin a more compelling character. His death should have been more impactful.{{wob ref|7482}}
+
+== Notes ==
+<references />
+{{complete}}
+{{Warbreaker}}

@@ -1,12 +1,13 @@
-{{architecture
-|city=Bilming
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-**Dulouis Building** is an office building in [[Bilming]] on [[Scadrial]] used by the [[Set]]. It was briefly considered as an option for infiltrating the Set’s underground complex by [[Marasi]] and the [[Ghostbloods]], but it was quickly ruled out.{{book ref|mb7|39}}
+---
+source_file: Dulouis Building.txt
+entity_type: architecture
+city: Bilming
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
+
+**Dulouis Building** is an office building in [[Bilming]] on [[Scadrial]] used by the [[Set]]. It was briefly considered as an option for infiltrating the Set’s underground complex by [[Marasi]] and the [[Ghostbloods]], but it was quickly ruled out.
 
 ## Notes
 <references />
-{{complete}}
-{{Mistborn|Era 2}}

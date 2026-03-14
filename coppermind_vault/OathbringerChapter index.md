@@ -1,3 +1,8 @@
+---
+source_file: OathbringerChapter index.txt
+entity_type: meta/partial
+---
+
 This page is for providing information on where chapter breaks fall in various editions of *[[Oathbringer]]*, including both page numbers for print editions and timestamps for audiobooks.
 ### Chapter by Chapter Timestamps
 {| class="wikitable sortable"
@@ -588,6 +593,5 @@ This page is for providing information on where chapter breaks fall in various e
 | align="right" | 00:06:18
 |}
 
-{{meta/partial}}
 [[Category: Stormlight Archive|*3i]]
 [[Category: Chapter indices]]

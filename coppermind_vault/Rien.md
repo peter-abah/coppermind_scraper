@@ -1,17 +1,15 @@
 ---
-profession: "{{cat tag|Soldiers|Soldier"
+source_file: Rien.txt
+entity_type: character
+groups: Dalinar's elites
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Oathbringer]]'
 ---
 
-|groups={{tag|Dalinar's elites}}
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Oathbringer]]
-}}
-**Rien** is one of [[Dalinar's elites]] during the battle with [[Kalanor]] in 1145.{{book ref|sa3|26}}
+**Rien** is one of [[Dalinar's elites]] during the battle with [[Kalanor]] in 1145.
 
-Just before the engagement, Rien, along with the other elites, asks [[Dalinar]] for orders, and Dalinar tells him to stay out of his way.{{book ref|sa3|26}}
+Just before the engagement, Rien, along with the other elites, asks [[Dalinar]] for orders, and Dalinar tells him to stay out of his way.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 20:14, 16 June 2019 (MST)}}
-{{Stormlight}}

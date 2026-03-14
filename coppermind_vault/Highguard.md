@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Highguard.txt
+entity_type: disambig
+---
 
 **Highguard** refers to two distinct things:
 * [[Highguard (Roshar)]]: A title given to the five [[Thaylen]] [[Shardwielding|Shardwielders]]

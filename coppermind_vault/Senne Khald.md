@@ -1,58 +1,55 @@
 ---
-world: "Roshar"
-groups: "{{tag|Worldsingers"
+source_file: Senne Khald.txt
+entity_type: character
+world: Roshar
+groups: Worldsingers
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{quote
-|How are the members of each Order different from the members of the others? What kinds of personalities does each Order attract? This is especially interesting in cases where some of the personalities seem to overlap. Why choose one Order over the other? How do you differentiate their similarities? 
-|Senne's first journal entry{{wob ref|16437}}
-}}
+> How are the members of each Order different from the members of the others? What kinds of personalities does each Order attract? This is especially interesting in cases where some of the personalities seem to overlap. Why choose one Order over the other? How do you differentiate their similarities?
+> — Senne's first journal entry
 
-**Senne Khald** is a [[Worldsinger]].{{wob ref|16437}} As part of her apprenticeship, she was assigned by [[Hoid]] to write a treatise on the [[Knights Radiant|Radiant Orders]] on [[Roshar]]. She performed her research in the thirty-first year of the [[Heraldic Epochs|Sixth Epoch]], and recorded many of her notes in a journal.
+**Senne Khald** is a [[Worldsinger]]. As part of her apprenticeship, she was assigned by [[Hoid]] to write a treatise on the [[Knights Radiant|Radiant Orders]] on [[Roshar]]. She performed her research in the thirty-first year of the [[Heraldic Epochs|Sixth Epoch]], and recorded many of her notes in a journal.
 
 ## Personality
 Senne's journal is written in an informal rather than scholarly manner. She mentions facts about each Order alongside her own opinions and biases, giving some insight to her personality. 
 
-She finds formality and efficiency to be obnoxious, and thus she often finds herself irritated by [[Windrunner]]s.{{wob ref|16437}} She mentions having caused "destruction" in her past, and thinks that she could have enjoyed being a [[Dustbringer]] due to their ability to control themselves and others.{{wob ref|16454}} She deeply appreciates the [[Order of Edgedancers|Edgedancers]] for how they bring beauty into the world, and how they assist the poor, sick, and destitute.{{wob ref|16456}} She believes that it is important to know yourself well, especially if you are an artist.{{wob ref|16456}} She values people who support and help others, and tries to keep such people close.{{wob ref|16456}}
+She finds formality and efficiency to be obnoxious, and thus she often finds herself irritated by [[Windrunner]]s. She mentions having caused "destruction" in her past, and thinks that she could have enjoyed being a [[Dustbringer]] due to their ability to control themselves and others. She deeply appreciates the [[Order of Edgedancers|Edgedancers]] for how they bring beauty into the world, and how they assist the poor, sick, and destitute. She believes that it is important to know yourself well, especially if you are an artist. She values people who support and help others, and tries to keep such people close.
 
 ## History
-In the thirty-first year of the Sixth Epoch, Senne was assigned a task to document the Radiant Orders after initially studying the [[Order of Lightweavers|Lightweavers]].{{wob ref|16463}} Senne was surprised that Hoid selected her to complete the treatise, as she was a brand new apprentice at the time.{{wob ref|16437}} Senne's own background and how she came to meet Hoid is unknown, but her research is centered on Roshar and she seems to have personal knowledge of each Order.
+In the thirty-first year of the Sixth Epoch, Senne was assigned a task to document the Radiant Orders after initially studying the [[Order of Lightweavers|Lightweavers]]. Senne was surprised that Hoid selected her to complete the treatise, as she was a brand new apprentice at the time. Senne's own background and how she came to meet Hoid is unknown, but her research is centered on Roshar and she seems to have personal knowledge of each Order.
 
-Senne kept a journal as she researched each Order. Rather than focusing on powers, she tended to explain the archetypal personality of each Order, often commenting on their roles in society and their relationships with other people.{{wob ref|16437}} Her known journal entries are each dated seven days apart, and cover the Orders in the typical sequence of the numbers associated with them by the [[Ten Essences]].
+Senne kept a journal as she researched each Order. Rather than focusing on powers, she tended to explain the archetypal personality of each Order, often commenting on their roles in society and their relationships with other people. Her known journal entries are each dated seven days apart, and cover the Orders in the typical sequence of the numbers associated with them by the [[Ten Essences]].
 
 {| class="wikitable"
 |+ Senne's journal entries
 |-
 ! Order !! Date (6th Epoch)
 |-
-| [[Windrunners]] || {{rosharan date|31|4|10|3}} (4.10.3){{wob ref|16437}}
+| [[Windrunners]] ||  (4.10.3)
 |-
-| [[Skybreakers]] || {{rosharan date|31|5|1|5}} (5.1.5){{wob ref|16450}}
+| [[Skybreakers]] ||  (5.1.5)
 |-
-| [[Dustbringers]] || {{rosharan date|31|5|3|2}} (5.3.2){{wob ref|16454}}
+| [[Dustbringers]] ||  (5.3.2)
 |-
-| [[Order of Edgedancers|Edgedancers]] || {{rosharan date|31|5|4|4}} (5.4.4){{wob ref|16456}}
+| [[Order of Edgedancers|Edgedancers]] ||  (5.4.4)
 |-
-| [[Truthwatchers]] || {{rosharan date|31|5|6|1}} (5.6.1){{wob ref|16457}}
+| [[Truthwatchers]] ||  (5.6.1)
 |-
-| [[Order of Lightweavers|Lightweavers]] || {{rosharan date|31|5|7|3}} (5.7.3){{wob ref|16463}}
+| [[Order of Lightweavers|Lightweavers]] ||  (5.7.3)
 |-
-| [[Elsecallers]] || {{rosharan date|31|5|8|5}} (5.8.5){{wob ref|16466}}
+| [[Elsecallers]] ||  (5.8.5)
 |-
-| [[Willshapers]] || {{rosharan date|31|5|10|2}} (5.10.2){{wob ref|16467}}
+| [[Willshapers]] ||  (5.10.2)
 |-
-| [[Stonewards]] || {{rosharan date|31|6|1|4}} (6.1.4){{wob ref|16469}}
+| [[Stonewards]] ||  (6.1.4)
 |-
-| [[Bondsmiths]] || {{rosharan date|31|6|3|1}} (6.3.1){{wob ref|16470}}
+| [[Bondsmiths]] ||  (6.3.1)
 |}
 
 ## Trivia
-*Senne's journal entries were released as YouTube videos in the leadup to the *[[Words of Radiance]]* leatherbound BackerKit campaign. The journal entries were written by [[Dan Wells]] and narrated by [[Kate Reading]].{{wob ref|16437}}
+*Senne's journal entries were released as YouTube videos in the leadup to the *[[Words of Radiance]]* leatherbound BackerKit campaign. The journal entries were written by [[Dan Wells]] and narrated by [[Kate Reading]].
 
 ## Notes
 <references />
-{{partial}}
-{{Stormlight}}

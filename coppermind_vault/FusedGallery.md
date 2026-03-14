@@ -1,3 +1,8 @@
+---
+source_file: FusedGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Shash - Heavenly and Flowing Ones.jpg | <center><small>by {{a|Audrey Hotte}} and {{a|Ben McSweeney}}</small></center> [[Heavenly One]]s and [[Flowing One]]s

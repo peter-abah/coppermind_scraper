@@ -1,3 +1,8 @@
+---
+source_file: AxehoundGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Axehound by Shallan.jpg| <small><center>by {{a|Ben McSweeney}}</center></small>From *[[Shallan's sketchbook]]*

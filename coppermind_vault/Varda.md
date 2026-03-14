@@ -1,16 +1,14 @@
 ---
-profession: "{{cat tag|Soldiers|Soldier"
+source_file: Varda.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Bridge Nine]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Bridge Nine]]
-}}
-**Varda** is an [[Alethi]] soldier in the employ of [[Torol Sadeas]] on [[Roshar]]. Despite being quite muscular, he is a coward. Varda has dark green eyes and keeps his hair closely cropped. At some point during the [[War of Reckoning]], while he was twenty-six, Varda was part of an expedition to research a group of recently uncovered ruins. The expedition was surprised by a [[chasmfiend]] while crossing a bridge though, and Varda was thrown into the chasm when the bridge collapsed.{{rpg ref|b9|9}}
+**Varda** is an [[Alethi]] soldier in the employ of [[Torol Sadeas]] on [[Roshar]]. Despite being quite muscular, he is a coward. Varda has dark green eyes and keeps his hair closely cropped. At some point during the [[War of Reckoning]], while he was twenty-six, Varda was part of an expedition to research a group of recently uncovered ruins. The expedition was surprised by a [[chasmfiend]] while crossing a bridge though, and Varda was thrown into the chasm when the bridge collapsed.
 
-A hurt Varda got increasingly agitated as the group slowly got to their feet. He tried yelling for help, figuring that there would still be people on top of the plateaus. His captain, [[Selinar]], quickly told him to shut his mouth however, as yelling would draw the chasmfiend back. In addition to this, there was no reply.{{rpg ref|b9|11}} Afraid that the beast would chase them all the way back to the warcamps, the captain drew his sword, pointing it at a [[Doral|bridgeman with a broken leg]]. Selinar stated that they would leave him as bait. Before the captain managed to finish the bridgeman however, a fight started. Varda joined his captain, and both of them quickly began to feel the [[Thrill]]. It is unclear how the fight ended, and whether Varda survived or not.{{rpg ref|b9|12}}
+A hurt Varda got increasingly agitated as the group slowly got to their feet. He tried yelling for help, figuring that there would still be people on top of the plateaus. His captain, [[Selinar]], quickly told him to shut his mouth however, as yelling would draw the chasmfiend back. In addition to this, there was no reply. Afraid that the beast would chase them all the way back to the warcamps, the captain drew his sword, pointing it at a [[Doral|bridgeman with a broken leg]]. Selinar stated that they would leave him as bait. Before the captain managed to finish the bridgeman however, a fight started. Varda joined his captain, and both of them quickly began to feel the [[Thrill]]. It is unclear how the fight ended, and whether Varda survived or not.
 
 ## Notes
 <references />
-{{partial}}
-{{stormlight}}

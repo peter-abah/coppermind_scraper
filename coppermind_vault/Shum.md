@@ -1,17 +1,15 @@
 ---
-ethnicity: "skaa"
-world: "Scadrial"
-universe: "Cosmere"
-introduced: "Mistborn: The Final Empire"
+source_file: Shum.txt
+entity_type: character
+ethnicity: skaa
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[Mistborn: The Final Empire]]'
 ---
 
-{{for|Shum (plant)|a [[Roshar]]an plant|pre=This article is about a character from [[Scadrial]]}}
-
-**Shum** is a young [[skaa]] from the [[Tresting plantation]] on [[Scadrial]].{{book ref|mb1|prologue}}
+**Shum** is a young [[skaa]] from the [[Tresting plantation]] on [[Scadrial]].
 
 He helps [[Mennis]] around the morning after [[Kelsier]]'s visit to the plantation, where Kelsier burns the manor house and kills all the nobles and staff there. 
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:04, 11 September 2018 (MST)}}
-{{Mistborn|Era 1}}

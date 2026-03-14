@@ -1,22 +1,21 @@
 ---
-titles: "Kindwinds the Honest"
-abilities: "{{tag|Returned"
+source_file: Kindwinds.txt
+entity_type: character
+titles: Kindwinds the Honest
+abilities: Returned, Cognitive Shadow
+nation: Hallandren
+residence: T'Telir
+world: Nalthis
+universe: '[[Cosmere]]'
+books: '[[Warbreaker]]'
 ---
 
-, {{tag+|Cognitive Shadow}}
-|nation=Hallandren
-|residence=T'Telir
-|world=Nalthis
-|universe=[[Cosmere]]
-|books=[[Warbreaker]]
-}}
-{{quote
-|I was a priest, even then. I worked in the palace of Kindwinds the Honest. I saw how he lied to play political games. The longer I stayed in that palace, the more my faith waned.
-|[[Llarimar]] on Kindwinds{{book ref|wb|54}}
-}}
-**Kindwinds the Honest** is a [[Returned]] on [[Nalthis]], revered as a god by the people of [[Hallandren]].{{book ref|wb|54}} Despite his title, he often lied while politicking.
+> I was a priest, even then. I worked in the palace of Kindwinds the Honest. I saw how he lied to play political games. The longer I stayed in that palace, the more my faith waned.
+> — [[Llarimar]] on Kindwinds
 
-[[Llarimar]] was formerly one of his priests, and Kindwinds's actions caused Llarimar to lose faith in the [[Iridescent Tones]].{{book ref|wb|54}} Llarimar's faith was later restored when he witnessed his brother [[Stennimar]] becoming a Returned.{{book ref|wb|54}}
+**Kindwinds the Honest** is a [[Returned]] on [[Nalthis]], revered as a god by the people of [[Hallandren]]. Despite his title, he often lied while politicking.
+
+[[Llarimar]] was formerly one of his priests, and Kindwinds's actions caused Llarimar to lose faith in the [[Iridescent Tones]]. Llarimar's faith was later restored when he witnessed his brother [[Stennimar]] becoming a Returned.
 
 ## Attributes and Abilities
 As a [[Returned]], Kindwinds has a [[divine Breath]] which gives him the benefits of being on the [[Fifth Heightening]]. This includes:
@@ -28,5 +27,3 @@ As a [[Returned]], Kindwinds has a [[divine Breath]] which gives him the benefit
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:37, 23 March 2020 (UTC)}}
-{{Warbreaker}}

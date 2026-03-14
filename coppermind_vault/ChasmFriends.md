@@ -1,17 +1,18 @@
-{{group
-|world=Roshar
-|universe=[[Cosmere]] (non-canon)
-}}{{notice|style=font-style: italic; background-color: #EEE; 
-|1=This article covers material that is not part of official canon.
-}}
+---
+source_file: ChasmFriends.txt
+entity_type: group
+world: Roshar
+universe: '[[Cosmere]] (non-canon)'
+---
+
 The **ChasmFriends** are a group of young [[chasmfiend]]s who live in the "[[Shattered Plains|Crackity Plains]]" of [[Roshar]].
 
-They are anthropomorphized, and their comedic adventures are non-canon to *[[The Stormlight Archive]]*.{{bws ref|story-deck-faq|Story Deck FAQ|date=2024-12-06}}
+They are anthropomorphized, and their comedic adventures are non-canon to *[[The Stormlight Archive]]*.
 
 ## Publication History
-The ChasmFriends were introduced in *The ChasmFriends Get a Pet!*, one of the "*Stormlight* Lost Tales" Story Decks at Dragonsteel Nexus 2024. The short story is credited to Brandon and [[Dan Wells]], although the whole team came up with the idea and Dan primarily wrote the story. The art was done by [[Coppermind:Artists/Anna Earley|Anna Earley]].{{bws ref|story-deck-faq|Story Deck FAQ|date=2024-12-06}}
+The ChasmFriends were introduced in *The ChasmFriends Get a Pet!*, one of the "*Stormlight* Lost Tales" Story Decks at Dragonsteel Nexus 2024. The short story is credited to Brandon and [[Dan Wells]], although the whole team came up with the idea and Dan primarily wrote the story. The art was done by [[Coppermind:Artists/Anna Earley|Anna Earley]].
 
-The story will be included in *[[Hoid's Storybook Collection]]*, which is expected to be published in late 2026.{{wob ref|17015}} The crowdfunding campaign for the collection includes pins of each ChasmFriend in blind bags.{{url ref|url=https://www.backerkit.com/c/projects/dragonsteel/hoids-storybook-collection/launch_party|site=Backerkit|text=Hoid’s Storybook Collection Launch Party|date=2025-12-08}}
+The story will be included in *[[Hoid's Storybook Collection]]*, which is expected to be published in late 2026. The crowdfunding campaign for the collection includes pins of each ChasmFriend in blind bags.
 
 ==*The ChasmFriends Get a Pet!* ==
 ### Summary
@@ -26,5 +27,3 @@ Cleverclaws captures a "Shoutie", which is actually a terrified human. The Chasm
 
 ## Notes
 <references />
-{{partial}}
-{{stormlight}}

@@ -1,3 +1,8 @@
+---
+source_file: Tress of the Emerald SeaInterior art.txt
+entity_type: article
+---
+
 This is a gallery of interior art for *[[Tress of the Emerald Sea]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 
 <gallery widths=3000px heights=300px mode="packed" caption="Endpapers">

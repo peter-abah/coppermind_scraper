@@ -1,18 +1,15 @@
 ---
-merge-family: "y"
-parents: "Geb"
-profession: "{{cat tag|Soldiers|Armorer"
+source_file: Dal.txt
+entity_type: character
+merge-family: y
+parents: '[[Geb]]'
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-**Dal** is an [[Alethi]] soldier and an assistant armorer on [[Roshar]]. He is assistant to his father, [[Geb]].{{book ref|sa5|39}} 
+**Dal** is an [[Alethi]] soldier and an assistant armorer on [[Roshar]]. He is assistant to his father, [[Geb]]. 
 
 ## Notes
 <references />
-{{partial}}
-{{stormlight}}

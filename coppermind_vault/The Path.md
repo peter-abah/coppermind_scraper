@@ -1,11 +1,12 @@
-{{culture
-|related=[[Harmony]]
-|type={{cat tag|Religion}}
-|world=Scadrial
-|universe=[[Cosmere]]
-}}
-{{spoilers|IotE}}
-**The Path** is a religion on [[Scadrial]]. Followers of this faith accept the ways of the [[Shard]] [[Harmony]], though they do not worship him.{{book ref|aol|2}} The symbol of the Path is ten interlocking rings.{{book ref|aol|3}}
+---
+source_file: The Path.txt
+entity_type: culture
+related: '[[Harmony]]'
+world: Scadrial
+universe: '[[Cosmere]]'
+---
+
+**The Path** is a religion on [[Scadrial]]. Followers of this faith accept the ways of the [[Shard]] [[Harmony]], though they do not worship him. The symbol of the Path is ten interlocking rings.
 
 ## Beliefs
 ### Basic Tenet
@@ -19,23 +20,22 @@
 *Do not waste time worshiping Harmony
 
 ## Practices
-Pathians meditate for 15 minutes daily, and there is no specific prescribed posture for meditation. During this meditation, Pathians wear a single earring.{{book ref|aol|3}} If this earring is a [[Hemalurgic]] spike, it would allow occasional communication between Harmony and the Pathian. The Path is to study the beliefs of 300 ancient religions detailed in the [[Words of Founding]] and learn from their moral codes.{{book ref|aol|3}} Doing good is to be considered as worship in and of itself.{{book ref|aol|3}}
+Pathians meditate for 15 minutes daily, and there is no specific prescribed posture for meditation. During this meditation, Pathians wear a single earring. If this earring is a [[Hemalurgic]] spike, it would allow occasional communication between Harmony and the Pathian. The Path is to study the beliefs of 300 ancient religions detailed in the [[Words of Founding]] and learn from their moral codes. Doing good is to be considered as worship in and of itself.
 
-The Path has no formal clergy. However, Pathian missionaries exist to provide direction and explanation about the Path.{{book ref|sos|14}} Pathian structures are small. They are known as sanctuaries, built to resemble the [[Terris]] huts of old, typically containing only two chairs and a loft. One of the chairs is for the visitors to the sanctuary, the other ostensibly for Harmony. Eight sides of the sanctuaries are filled by large doorways, left open to allow the mists inside.{{book ref|sos|14}}
+The Path has no formal clergy. However, Pathian missionaries exist to provide direction and explanation about the Path. Pathian structures are small. They are known as sanctuaries, built to resemble the [[Terris]] huts of old, typically containing only two chairs and a loft. One of the chairs is for the visitors to the sanctuary, the other ostensibly for Harmony. Eight sides of the sanctuaries are filled by large doorways, left open to allow the mists inside.
 
-The Path teaches that the [[mists]] are Harmony's body.{{book ref|bom|21}} It also teaches that Harmony is the only living Shard to accomplish an as of yet unknown, but notable, feat.{{book ref|iote|30}}
+The Path teaches that the [[mists]] are Harmony's body. It also teaches that Harmony is the only living Shard to accomplish an as of yet unknown, but notable, feat.
 
-Harmontide is a sacred holiday to the Path.{{file ref|The_Two_Seasons_broadsheet.jpg| *The Two Seasons* broadsheet}}
+Harmontide is a sacred holiday to the Path.
 
 ## Notable Followers
 *[[Waxillium Ladrian]]
 *[[Replar Innate]]
 *[[Claude Aradel]]
 *[[Eddlin]]
-*[[Larskpur]] - Missionary {{book ref|sos|12}}
+*[[Larskpur]] - Missionary 
 
 ## Notes
 <references />
-{{partial}}
-{{Mistborn|Era 2}}
+
 [[category: religion]]

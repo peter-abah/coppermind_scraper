@@ -1,15 +1,14 @@
 ---
-powers: "{{tag+|Epic"
+source_file: Strongtower.txt
+entity_type: character
+powers: Epic
+earth: Reckoners
+books: '[[The Reckoners]]'
 ---
 
-|earth=Reckoners
-|books=[[The Reckoners]]
-}}
-**Strongtower** is an [[Epic]] with a similar power to [[Steelheart]], though which power is not clear.{{book ref|Steelheart|12}}
+**Strongtower** is an [[Epic]] with a similar power to [[Steelheart]], though which power is not clear.
 
-[[David Charleston]]'s notes had a special "Steelheart" mark by Strongtower, to denote the similarity between the two.{{book ref|Steelheart|12}}
+[[David Charleston]]'s notes had a special "Steelheart" mark by Strongtower, to denote the similarity between the two.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 08:48, 3 June 2017 (MST)}}
-{{Reckoners}}

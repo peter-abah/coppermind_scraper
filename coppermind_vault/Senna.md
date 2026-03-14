@@ -1,22 +1,19 @@
 ---
-title: "Senna|<!--"
+source_file: Senna.txt
+entity_type: infobox
+title: '[[Senna]]'
 ---
 
-}}
-{{quote
-|Oh, Senna ... I'm losing this place. Losing them all ...
-|[[Preservation]]{{msh ref|3|1}}
-}}
+> Oh, Senna ... I'm losing this place. Losing them all ...
+> — [[Preservation]]
 
-**Senna** is someone or something that [[Leras]], the Vessel of [[Preservation]], mentions to [[Kelsier]] in the [[Cognitive Realm]] prior to his death.{{msh ref|3|1}}
+**Senna** is someone or something that [[Leras]], the Vessel of [[Preservation]], mentions to [[Kelsier]] in the [[Cognitive Realm]] prior to his death.
 
-Senna is not someone that Leras thinks of as a deity.{{wob ref|9452}} If Senna is a person, they are not a love interest of [[Hoid]]'s.{{wob ref|12347}}
+Senna is not someone that Leras thinks of as a deity. If Senna is a person, they are not a love interest of [[Hoid]]'s.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:54, 27 September 2019 (UTC)}}
-{{Mistborn}}
-{{Cosmere}}
+
 [[Category:Characters]]
 [[Category:Culture]]
 [[es:Senna]]

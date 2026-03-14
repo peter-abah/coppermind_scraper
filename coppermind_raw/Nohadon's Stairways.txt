@@ -1,0 +1,29 @@
+{{location
+|map=Nohadons_Stairways_Sea_of_Souls_map_crop.png
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Nohadon's Stairways''' is a location in [[Shadesmar]], the [[Roshar]]an subastral of the [[Cognitive Realm]]. It is located in the [[Sea of Souls]]. Its location corresponds to that of the tower city of [[Urithiru]] in the [[Physical Realm]], and it includes ten massive pillars that contain the Shadesmar versions of Urithiru's [[Oathgate]]s.{{map ref|sea of souls|the Sea of Souls}}
+
+It is presumably named for [[Nohadon]], an ancient king and [[Surgebinder]] who claimed to have walked to Urithiru.{{book ref|sa1|58}}{{book ref|sa3|103}}
+
+== Geography ==
+Nohadon's Stairways is located near the center of Shadesmar's massive ocean, in the portion known as the Sea of Souls.{{map ref|Roshar}}{{map ref|Shadesmar}} It lies east of the [[Basin of the Veiled Sun]] and north of the [[Radiant Depths]].{{map ref|sea of souls|the Sea of Souls}}
+
+== Landmarks ==
+The location's most notable feature is a massive tower that rises out of the bead ocean of Shadesmar. The tower is the Cognitive Realm's counterpart to Urithiru, and it has a tiered structure similar to the tower in the Physical Realm.{{map ref|sea of souls|the Sea of Souls}} However, its appearance is otherwise very different; it looks like a mountain of light and colors, very bright, but not casting shadows. It is surrounded by a brilliant crystalline radiance that is not exactly the same shape of the tower. This radiance has a mother-of-pearl color, the same color as the sky in Shadesmar during a [[highstorm]]. The place is swarming with emotion [[spren]], attracted by the humans in Urithiru. The nature of the tower calms them and ensures that they are not dangerous to travelers.{{book ref|sa4|22}}
+
+Near the tower, there are ten elevated pillars, corresponding to the ten [[Oathgate]]s. The pillars are arranged in a pattern similar to that of the Oathgate platforms at Urithiru in the Physical Realm. Each pillar has a long spiraling ramp leading to the sea of beads below, and there are a pair of [[Oathgate spren]] that serve as gatekeepers hovering above each pillar. Although distance is not proportionate in different Realms, the pillars and the tower are elevated because of Urithiru's high-altitude location in the Physical Realm. At the base of at least one pillar, there is a small building and a dock where barges can pick up passengers.{{book ref|sa4|22}}
+
+== History ==
+It is unclear how the name "Nohadon's Stairways" came into use. The name is only known from a map of unknown provenance that [[Nazh]] annotated.{{map ref|sea of souls|the Sea of Souls}} Although Nohadon was a Surgebinder and he visited Urithiru, it is not clear what Surges he commanded or whether he entered Shadesmar.
+
+During the [[Heraldic Epochs]], Nohadon's Stairways was a critical component of Urithiru's function as a hub for trade and travel between nations, with the [[Knights Radiant]] controlling the use of the Oathgates.{{book ref|sa2|77}}{{epigraph ref|sa1|46}} At some point, possibly precipitated by other events on Roshar, the [[Sibling]] (a spren who was essentially a manifestation of Urithiru) ordered the gatekeepers to prevent travel through the Oathgates.{{book ref|sa3|116}}{{book ref|sa4|22}} The Oathgates were also locked,{{book ref|sa2|89}} although the locking mechanism was not infallible.{{book ref|sa3|115}}
+
+When the refounded Knights Radiant first discovered how to use the Oathgates during the [[True Desolation]], they were only able to travel instantaneously to and from Urithiru.{{book ref|sa2|86}} However, some of the gatekeeper spren (including the ones from the [[Narak]] Oathgate) believed the Sibling to be dead since they had effectively vanished for thousands of years. These spren agreed to obey the [[Stormfather]] instead, and they began allowing people to travel directly into Shadesmar at his direction. [[Shallan]] and [[Adolin]]'s expedition to [[Lasting Integrity]] began at Nohadon's Stairways when they used the Narak Oathgate to travel into the Cognitive Realm.{{book ref|sa4|22}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:10, 20 April 2023 (UTC)}}
+{{stormlight}}

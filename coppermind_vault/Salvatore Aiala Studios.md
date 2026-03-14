@@ -1,3 +1,8 @@
+---
+source_file: Salvatore Aiala Studios.txt
+entity_type: real world
+---
+
 **Salvatore Aiala Studios** is the artist who did the coloring for chapters three through six of [[White Sand|White Sand Volume 2]], and the entirety of [[White Sand|White Sand Volume 3]].
 
 ## See Also
@@ -5,5 +10,5 @@
 
 ## Notes
 <references />
-{{real world|complete}}
+
 [[Category: People]]

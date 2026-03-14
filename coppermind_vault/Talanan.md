@@ -1,19 +1,19 @@
 ---
-#profession: "soldier"
-groups: "{{tag+|army|Sebarial"
+source_file: Talanan.txt
+entity_type: character
+'#profession': soldier
+groups: army
+residence: Urithiru
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|residence=Urithiru
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-Captain **Talanan** is an officer in the [[Alethi]] army in [[Urithiru]] during the [[True Desolation]].{{book ref|sa4|13}}
+Captain **Talanan** is an officer in the [[Alethi]] army in [[Urithiru]] during the [[True Desolation]].
 
-According to [[Balat Davar]], Talanan berated a mistake-prone new army recruit named "Gobby"&mdash;actually [[Mraize]] in disguise&mdash;for nearly cutting off a man's arm in training. Mraize and Balat are later seen in House [[Sebarial]] uniforms,{{book ref|sa4|13}} implying that Talanan was an officer of the Sebarial army.
+According to [[Balat Davar]], Talanan berated a mistake-prone new army recruit named "Gobby"&mdash;actually [[Mraize]] in disguise&mdash;for nearly cutting off a man's arm in training. Mraize and Balat are later seen in House [[Sebarial]] uniforms, implying that Talanan was an officer of the Sebarial army.
 ## Notes
 <references/>
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 22:25, 26 July 2021 (UTC)}}
-{{Stormlight}}
+
 [[category:Sebarial army]]

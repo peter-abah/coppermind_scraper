@@ -1,3 +1,8 @@
+---
+source_file: WhitespineGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Whitespine 2.jpg | <center><small>by {{a|Ben_McSweeney}}</small></center>

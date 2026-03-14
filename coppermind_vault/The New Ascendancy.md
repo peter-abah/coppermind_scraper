@@ -1,25 +1,27 @@
-{{literature
-|image=The New Ascendancy header.png
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[The Bands of Mourning]]
-}}
-The **New Ascendancy** is a broadsheet published in [[New Seran]].{{file ref|New Ascendancy broadsheet.jpg |*The New Ascendancy* Broadsheet}}
+---
+source_file: The New Ascendancy.txt
+entity_type: literature
+image: The New Ascendancy header.png
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[The Bands of Mourning]]'
+---
+
+The **New Ascendancy** is a broadsheet published in [[New Seran]].
 
 The front page of volume 6, issue 220, published on Cladence 8, 342, is used as the interior art for *[[The Bands of Mourning]]*.
 
 It contains a serialized story about *[[Nicki Savage]], Paranatural Detective* called *The Constructs of Antiquity* Part Two. *The Ghastly Gondola!*.
 
 ## Headlines
-{{columns|count=2|
+
 * [[Bilming]]'s Newest Ships 'Amuse' [[Elendel]] Officials
 * [[Farthing Mansion]] Hit
 * Does [[Harmony]] Have a Metal?
 * Broken Gondola Strands Passengers
-}}
 
 ## Advertisments
-{{columns|count=2|
+
 * A call for protestors against low wages and high taxes
 * [[Soother's Choice]] chewing gum
 * [[File: Zinc (Alloy of Law).svg|x20px]] [[Zinc Brand Whiskey]]
@@ -28,7 +30,6 @@ It contains a serialized story about *[[Nicki Savage]], Paranatural Detective* c
 * Someone asking for volunteers to test new metal alloys located around the corner from [[Meprisable's Animal Rendering]]
 * A writing course by the playwright of *[[A Hero for All Ages]]*
 * *[[The Den of the Survivor]]*, a play starring [[Javier DaLeuc]] and [[Penelope Portreau]]
-}}
 
 <gallery caption="Images" heights=200px>
 New Ascendancy broadsheet.jpg | The New Ascendancy front page on 8th Cladence 342
@@ -43,5 +44,3 @@ Ghastly Gondola.jpg | [[Nicki Savage]] and the gondola
 
 ## Notes
 <references />
-{{partial}}
-{{Mistborn|era 2}}

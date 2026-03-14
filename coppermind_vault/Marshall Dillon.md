@@ -1,3 +1,8 @@
+---
+source_file: Marshall Dillon.txt
+entity_type: real world
+---
+
 **Marshall Dillon** is the artist who did the lettering for [[White Sand|White Sand Volume 1]].
 
 ## See Also
@@ -6,5 +11,5 @@
 
 ## Notes
 <references />
-{{real world|complete}}
+
 [[Category: People]]

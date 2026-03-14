@@ -1,11 +1,16 @@
-{{book|title=*[[bws: defending-elysium|Defending Elysium]]*|display-title=*{{PAGENAME}}*
-|cover=DefendingElysium.jpg
-|released=October 1, 2008
-|word-count=14,584
-|annotation=annotation-defending-elysium
-|setting = [[Cytoverse]]
-}}
-***Defending Elysium*** is a non-[[cosmere]] short story written by [[Brandon Sanderson]] published on his [[bws: defending-elysium|website]].{{bws ref|defending-elysium|Defending Elysium announcement|date=2009-12-18}} It is set in the same [[Cytoverse|universe]] as the [[Skyward (series)|Skyward]] series,{{wob ref|11965}} taking place centuries beforehand.{{wob ref|11990}}
+---
+source_file: Defending Elysium.txt
+entity_type: book
+title: '''''[[bws: defending-elysium|Defending Elysium]]'''''
+display-title: '''''{{PAGENAME}}'''''
+cover: DefendingElysium.jpg
+released: October 1, 2008
+word-count: 14,584
+annotation: annotation-defending-elysium
+setting: '[[Cytoverse]]'
+---
+
+***Defending Elysium*** is a non-[[cosmere]] short story written by [[Brandon Sanderson]] published on his [[bws: defending-elysium|website]]. It is set in the same [[Cytoverse|universe]] as the [[Skyward (series)|Skyward]] series, taking place centuries beforehand.
 
 ## Background
 The United Governments military had accidentally shot down a Tenasi diplomatic vessel during an embarrassing first contact. Humanity had worried this would throw them into a conflict, then the Phone Company stepped in and, using methods unknown to even humanity's intelligence agencies, brokered a peace with the Tenasi. In exchange, the PC demanded they be above the laws of humanity and had since then worked autonomously.
@@ -88,11 +93,8 @@ In the last moments of Defending Elysium, Jason sits back and tells Lanna to pre
 :It involves Sensing inwards on yourself and removing yourself from normal space, apparently moving through a different dimension to reappear at a different point in normal space light-years away in seconds.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of *Defending Elysium*}}
 
 ## Notes
 <references />
-{{meta/partial}}
-{{skyward|de}}
-{{books}}
+
 [[category: list articles]]

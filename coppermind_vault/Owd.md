@@ -1,14 +1,15 @@
-{{settlement
-|nation=Azir
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Owd** is a town in eastern [[Azir]] on [[Roshar]], located along the river that separates Azir and [[Emul]].{{map ref|Eastern Makabak}} 
+---
+source_file: Owd.txt
+entity_type: settlement
+nation: Azir
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-In the [[Cognitive Realm]], the river that flows by Owd is a peninsula, and Owd seems to be near [[Perpetual Sobriety]].{{map ref|Sea of Souls}}
+**Owd** is a town in eastern [[Azir]] on [[Roshar]], located along the river that separates Azir and [[Emul]]. 
+
+In the [[Cognitive Realm]], the river that flows by Owd is a peninsula, and Owd seems to be near [[Perpetual Sobriety]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 02:44, 21 November 2020 (UTC)}}
-{{Stormlight}}

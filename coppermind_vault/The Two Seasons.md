@@ -1,26 +1,21 @@
-{{DISPLAYTITLE:*{{FULLPAGENAME}}*}}
-{{literature
-|image=The Two Seasons header.jpg
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[The Lost Metal]]
-}}
-{{update|mb7}}
+---
+source_file: The Two Seasons.txt
+entity_type: displaytitle:''{{fullpagename}}''
+---
 
-***The Two Seasons*** is a broadsheet published in [[Bilming]] in the [[Elendel Basin]] on [[Scadrial]].{{file ref|The_Two_Seasons_broadsheet.jpg|*The Two Seasons* broadsheet}}
+***The Two Seasons*** is a broadsheet published in [[Bilming]] in the [[Elendel Basin]] on [[Scadrial]].
 
-Volume 32, issue 247 was published on Marewill 19, {{date|348|PC}}. It contains the eighth chapter of "The Compass of Spirits", a serialized story about [[Nicki Savage]]; the chapter is titled *Flight of the Ornisaur*.
+Volume 32, issue 247 was published on Marewill 19, . It contains the eighth chapter of "The Compass of Spirits", a serialized story about [[Nicki Savage]]; the chapter is titled *Flight of the Ornisaur*.
 
 ## Headlines
-{{columns|count=2|
+
 * [[Elendel]] Supremacy Bill Threatens Basin Unity
 * Tunnel Tremors Stop... For Now
 * Beloved [[Kyndlip Ternavyl‎|Editor]] Still Missing
 * Allomancer [[Jak]] Settles with [[Handerwym|Sidekick]]
-}}
 
 ## Advertisements
-{{columns|count=2|
+
 * [[Vif Sparkle Tonic]]
 * 'The Man who Electrified Time!' a novel by [[Schrib Welfor]]
 * Public appeal to ban [[Noseball]]
@@ -31,7 +26,6 @@ Volume 32, issue 247 was published on Marewill 19, {{date|348|PC}}. It contains 
 * Spring Salon
 * Choc-o-Tonic
 * Any Malwish coins to be handed over to *N&N* for a reward
-}}
 
 <gallery caption="Images" heights=200px>
 The Two Seasons broadsheet.jpg | The Two Seasons front page on 19th Marewill 348
@@ -43,5 +37,3 @@ Varlance and Adawathwyn.jpg| Portraits of the then Governor and Vice Governor of
 
 ## Notes
 <references />
-{{partial}}
-{{Mistborn|era 2}}

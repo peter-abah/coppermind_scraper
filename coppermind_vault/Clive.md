@@ -1,11 +1,13 @@
-{{aspect}}
+---
+source_file: Clive.txt
+entity_type: aspect
+---
+
 **Clive** is one of [[Stephen Leeds]]' [[aspect]]s.
 
-During the [[White Room]], Stephen spots Clive and [[Owen]] dressed to play golf.{{book ref|skin deep|8}}
+During the [[White Room]], Stephen spots Clive and [[Owen]] dressed to play golf.
 
-Along with [[Arnaud]] and [[Mi Won]], Clive is among the aspects best equipped to think about higher-level chemistry. That is, after the death of [[Ignacio]] had stolen most of Stephen's chemistry knowledge.{{book ref|skin deep|16}}
+Along with [[Arnaud]] and [[Mi Won]], Clive is among the aspects best equipped to think about higher-level chemistry. That is, after the death of [[Ignacio]] had stolen most of Stephen's chemistry knowledge.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 13:22, 2 July 2018 (MST)}}
-{{Legion}}

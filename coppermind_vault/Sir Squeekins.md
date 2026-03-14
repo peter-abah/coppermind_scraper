@@ -1,21 +1,21 @@
 ---
-world: "Scadrial"
-universe: "Cosmere"
-introduced: "The Lost Metal"
+source_file: Sir Squeekins.txt
+entity_type: character
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Lost Metal]]'
 ---
 
-{{quote
-|He likes strawberries and booze, but don't give him none of the booze, 'cuz he’s a rat.
-|[[Wayne]] to [[Hoid]]{{book ref|mb7|21}}
-}}
-**Sir Squeekins** is a rat previously owned by [[Wayne]], which he traded with [[Hoid]] for a harmonica. He claimed this was in order to give him to someone more responsible, after he escaped from his cage seventeen times.{{book ref|mb7|21}} Hoid has been taking good care of Sir Squeekins.{{wob ref|15925}}
+> He likes strawberries and booze, but don't give him none of the booze, 'cuz he’s a rat.
+> — [[Wayne]] to [[Hoid]]
 
-He is bright white, with a long hairless tail.{{book ref|mb7|21}}
+**Sir Squeekins** is a rat previously owned by [[Wayne]], which he traded with [[Hoid]] for a harmonica. He claimed this was in order to give him to someone more responsible, after he escaped from his cage seventeen times. Hoid has been taking good care of Sir Squeekins.
 
-Sir Squeekins likes strawberries.{{book ref|mb7|21}}
+He is bright white, with a long hairless tail.
+
+Sir Squeekins likes strawberries.
 
 ## Notes
 <references />
-{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 17:23, 5 January 2023 (UTC)}}
-{{Mistborn|Era 2}}
+
 [[Category: Titled characters]]

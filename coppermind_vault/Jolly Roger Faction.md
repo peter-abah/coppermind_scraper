@@ -1,12 +1,12 @@
-{{group
-|leaders=[[Gremm]]
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-{{update|sky3}}
-The **Jolly Roger Faction** is a group of pirates in the [[belt]] of the [[nowhere]].{{book ref|sky3|25}}
+---
+source_file: Jolly Roger Faction.txt
+entity_type: group
+leaders: '[[Gremm]]'
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
+
+The **Jolly Roger Faction** is a group of pirates in the [[belt]] of the [[nowhere]].
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

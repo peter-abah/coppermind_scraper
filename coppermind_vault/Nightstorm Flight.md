@@ -1,16 +1,17 @@
-{{group
-|type={{cat tag|DDF Flights|DDF flight}}
-|hq= [[Alta Base]] (formerly), [[Platform Prime]]
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
+---
+source_file: Nightstorm Flight.txt
+entity_type: group
+hq: '[[Alta Base]] (formerly), [[Platform Prime]]'
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
 
-**Nightstorm Flight** is a group of [[DDF]] pilots. There were nine original members of the Flight, including [[Nedd]]'s two brothers.{{book ref|sky1|19}} Both of them fly [[Sigo]]-class fighters{{book ref|sky1|26}} suggesting that this ship may be used by all members in this squad. Their fighters are painted blue, which helps distinguish which flight they are.{{book ref|skyward|25}}
+**Nightstorm Flight** is a group of [[DDF]] pilots. There were nine original members of the Flight, including [[Nedd]]'s two brothers. Both of them fly [[Sigo]]-class fighters suggesting that this ship may be used by all members in this squad. Their fighters are painted blue, which helps distinguish which flight they are.
 
-Nightstorm Flight participated in the fight over the first falling shipyard. During the battle, [[Vent (Skyward)|Vent]] and his brother flew into the shipyard and unfortunately died while inside.{{book ref|sky1|26}}
+Nightstorm Flight participated in the fight over the first falling shipyard. During the battle, [[Vent (Skyward)|Vent]] and his brother flew into the shipyard and unfortunately died while inside.
 
-Nightstorm Flight was present in the battle against the Superiority when [[Brade]] summoned a [[delver]] outside Detritus.{{book ref|starsight|39}}
+Nightstorm Flight was present in the battle against the Superiority when [[Brade]] summoned a [[delver]] outside Detritus.
 
 ## Known members
 * [[Vent (Skyward)|Vent]]
@@ -18,5 +19,3 @@ Nightstorm Flight was present in the battle against the Superiority when [[Brade
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 03:22, 22 May 2022 (UTC)}}
-{{Skyward}}

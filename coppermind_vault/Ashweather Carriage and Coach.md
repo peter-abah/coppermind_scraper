@@ -1,17 +1,18 @@
-{{business
-|owner=[[Cett (coach owner)|Cett]]
-|services=Taxiing
-|city=Elendel
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-{{quote
-|By far the most common in the carriage park was the standard road coach: the four-wheeled vehicle with a completely enclosed passenger compartment, and room at the top front for a driver. They called them Barringtons in the city, after [[Lord Barrington]], and though the paint jobs could vary wildly, the style was pretty much standardized. Wax's own coaches were Barringtons.
-|[[Wax]] visiting the carriage park{{book ref|mb5|14}}
-}}
+---
+source_file: Ashweather Carriage and Coach.txt
+entity_type: business
+owner: '[[Cett (coach owner)|Cett]]'
+services: Taxiing
+city: Elendel
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
 
-**Ashweather Carriage and Coach** is a taxiing service in [[Elendel]].{{book ref|mb5|14}}
+> By far the most common in the carriage park was the standard road coach: the four-wheeled vehicle with a completely enclosed passenger compartment, and room at the top front for a driver. They called them Barringtons in the city, after [[Lord Barrington]], and though the paint jobs could vary wildly, the style was pretty much standardized. Wax's own coaches were Barringtons.
+> — [[Wax]] visiting the carriage park
+
+**Ashweather Carriage and Coach** is a taxiing service in [[Elendel]].
 
 Their facilities consist of a large open yard filled with various carriages, stables, and an administrative building in the center of the yard.
 
@@ -27,5 +28,3 @@ Ashweather Carriage and Coach appears to be engaging in the illegal practice of 
 
 ## Notes
 <references />
-{{complete}}
-{{Mistborn|era 2}}

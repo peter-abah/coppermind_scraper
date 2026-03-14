@@ -1,15 +1,15 @@
 ---
-type: "Building material"
-world: "Roshar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Blackrock.txt
+entity_type: item
+type: Building material
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-**Blackrock** is a form of stone on [[Roshar]].{{book ref|sa2|39}}
+**Blackrock** is a form of stone on [[Roshar]].
 
-The feasting hall in [[Davar mansion]] was constructed with blackrock.{{book ref|sa2|39}}
+The feasting hall in [[Davar mansion]] was constructed with blackrock.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 15:18, 20 December 2016 (MST)}}
-{{Stormlight}}

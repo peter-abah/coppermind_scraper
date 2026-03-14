@@ -1,3 +1,8 @@
+---
+source_file: TaravangianGallery.txt
+entity_type: article
+---
+
 ## Official Art
 <gallery mode="packed" heights=300px caption="Official Artwork">
 Taravangian Chapters - Intelligence.svg| <small><center>by {{a|Ben McSweeney}}</center></small>Taravangian's "intelligence" chapter icon

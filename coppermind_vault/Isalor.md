@@ -1,15 +1,14 @@
 ---
-#profession: "Soldier"
-nation: "Alethkar"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Wind and Truth"
+source_file: Isalor.txt
+entity_type: character
+'#profession': Soldier
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-{{update|sa5}}
-**Isalor** is an [[Alethi]] soldier on [[Roshar]].{{book ref|sa5|39}}
+**Isalor** is an [[Alethi]] soldier on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{stormlight}}

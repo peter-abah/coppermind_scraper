@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Venture.txt
+entity_type: disambig
+---
 
 **[[House Venture]]** is a noble house in the [[Final Empire]] on [[Scadrial]].
 

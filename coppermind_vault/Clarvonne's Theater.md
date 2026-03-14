@@ -1,14 +1,15 @@
-{{architecture
-|city=Elendel
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[The Bands of Mourning]]
-}}
-**Clarvonne's Theater** is an arts establishment located on 1818 Bonnweather Way in [[Elendel]].{{file ref|House_Record_broadsheet.jpg|*The House Record* Broadsheet}}
+---
+source_file: Clarvonne's Theater.txt
+entity_type: architecture
+city: Elendel
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[The Bands of Mourning]]'
+---
 
-It hosted the operetta [[A Hero for All Ages]] in 342 and had an advertisement in [[The House Record]].{{file ref|House_Record_broadsheet.jpg|*The House Record* Broadsheet}}
+**Clarvonne's Theater** is an arts establishment located on 1818 Bonnweather Way in [[Elendel]].
+
+It hosted the operetta [[A Hero for All Ages]] in 342 and had an advertisement in [[The House Record]].
 
 ## Notes
 <references />
-{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 01:40, 7 March 2022 (UTC)}}
-{{Mistborn|Era 2}}

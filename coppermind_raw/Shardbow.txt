@@ -1,0 +1,2 @@
+#REDIRECT [[Grandbow]]
+[[category: aliases]]

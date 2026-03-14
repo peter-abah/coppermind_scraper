@@ -1,3 +1,8 @@
+---
+source_file: Sja-anatGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=350px caption="Official artwork">
 Sja-anat_Chapters.svg| <center><small>by {{a|Ben McSweeney}}</small></center> The image used for [[Sja-anat]]'s interlude heading in *[[Rhythm of War]]*.

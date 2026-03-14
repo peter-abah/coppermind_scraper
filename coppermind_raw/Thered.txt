@@ -1,0 +1,25 @@
+{{character
+|profession=[[Derethi]] {{tag+|arteth}}
+|religion=[[Shu-Dereth]]
+|nation=Fjorden
+|world=Sel
+|universe=[[Cosmere]]
+|introduced=[[Elantris (book)|Elantris]]
+}}
+{{quote
+|I just... It just wouldn't be right for me to take the position.
+|Thered to Hrathen{{book ref|elantris|21}}
+}}
+'''Thered''' is a [[Derethi]] arteth on [[Sel]].{{book ref|elantris|21}}
+
+==Appearance and Personality==
+
+He is Fjorden, and had a strong and tall frame, with dark hair, along with squarish features. He is a muscular man from his training in the monastery.{{book ref|elantris|21}}
+
+==History==
+Thered was an arteth in [[Kae]] prior to the arrival of [[Hrathen]]. Hrathen was impressed with Thered's service, and offered him the position of head [[arteth]] in the chapel, but he refused the position. Hrathen was shocked, thinking no Derethi priest would refuse a position of such power, and demanded to know why Thered refused. Thered offered no explanation. Hrathen worried that [[Fjon]] had weakened the priests in Kae, but tossed that idea aside, instead suspecting that Thered refused the position out of respect for [[Dilaf]]'s growing influence within the chapel.{{book ref|elantris|21}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 20:22, 22 June 2019 (MST)}}
+{{Elantris}}

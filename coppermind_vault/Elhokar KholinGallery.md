@@ -1,3 +1,8 @@
+---
+source_file: Elhokar KholinGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Elhokar sunraiser.jpg | <center><small>by [[Ben McSweeney]]</small></center> Elhokar in [[Shardplate]], *[[Words of Radiance]]* interior art

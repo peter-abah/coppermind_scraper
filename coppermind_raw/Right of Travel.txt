@@ -1,0 +1,1 @@
+#REDIRECT [[Vorinism#The Right of Travel]]

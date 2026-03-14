@@ -1,0 +1,12 @@
+{{item
+|type=Toy
+|owner=Maxillium Ladrian
+|world=Scadrial
+|universe=[[Cosmere]]
+}}
+'''Tenny''' is a stuffed [[kandra]] owned by [[Maxillium Ladrian]] on [[Scadrial]].{{book ref|mb7|5}} Tenny is a [[Soonie pup]], a stuffed animal representing [[TenSoon|TenSoon]] the kandra's pre-Catacendre wolfhound form.{{file ref|The_Two_Seasons_broadsheet.jpg|text=''The Two Seasons'' broadsheet}} "Tenny" is likely a childlike play on the name "TenSoon" that Maxillium created. Maxillium often hugs Tenny when he is sad.{{book ref|mb7|5}}
+
+== Notes ==
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 03:27, 30 November 2024 (UTC)}}
+{{Mistborn|Era 2}}

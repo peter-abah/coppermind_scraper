@@ -1,0 +1,14 @@
+{{character
+|residence=Hearthstone
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Alim''' is a resident of [[Hearthstone]] on [[Roshar]].{{book ref|sa1|20}}
+
+They are sent to fetch [[Lirin]] when [[Miasal]] breaks her leg.
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:23, 3 September 2016 (MST)}}
+{{Stormlight}}

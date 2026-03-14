@@ -1,13 +1,13 @@
-{{geography
-|type={{cat tag|water body|Ocean}}
-|map=Northern Depths locator.png
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-The **Northern Depths** is the ocean to the north of [[Roshar]] and the [[Reshi Isles]].{{map ref|Roshar}} It is presumably quite deep.
+---
+source_file: Northern Depths.txt
+entity_type: geography
+map: Northern Depths locator.png
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+The **Northern Depths** is the ocean to the north of [[Roshar]] and the [[Reshi Isles]]. It is presumably quite deep.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 16:46, 9 March 2019 (MST)}}
-{{Stormlight}}

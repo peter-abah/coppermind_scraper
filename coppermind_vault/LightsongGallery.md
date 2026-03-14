@@ -1,3 +1,8 @@
+---
+source_file: LightsongGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=250px caption="Gallery">
 Blushweaver and Lightsong by Miranda Meeks.jpg | <center><small>by {{a|Miranda Meeks}}</small></center> In *[[Warbreaker]]* leatherbound interior art

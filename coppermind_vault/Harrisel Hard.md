@@ -1,15 +1,15 @@
 ---
-profession: "Outlaw"
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 2"
+source_file: Harrisel Hard.txt
+entity_type: character
+profession: Outlaw
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-**Harrisel Hard** is an outlaw captured by [[Waxillium Ladrian]].{{book ref|mb4|9}}
+**Harrisel Hard** is an outlaw captured by [[Waxillium Ladrian]].
 
-Wax goes after Harrisel due to a bet with [[Wayne]].{{book ref|mb4|9}}
+Wax goes after Harrisel due to a bet with [[Wayne]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:19, 11 September 2018 (MST)}}
-{{Mistborn|Era 2}}

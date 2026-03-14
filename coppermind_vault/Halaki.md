@@ -1,12 +1,11 @@
 ---
-universe: "Cytoverse"
-introduced: "Defiant (book)|Defiant"
+source_file: Halaki.txt
+entity_type: character
+universe: '[[Cytoverse]]'
+introduced: '[[Defiant (book)|Defiant]]'
 ---
 
-{{update|sky4}}
-**Halaki** is a [[Superiority]] general.{{book ref|sky4|44}}
+**Halaki** is a [[Superiority]] general.
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

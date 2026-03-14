@@ -1,0 +1,13 @@
+{{character
+|profession={{cat tag|law enforcement|Constable}}
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Lost Metal]]
+}}
+
+'''Mathingdaw''' is a constable on [[Scadrial]]. In {{date|348|PC}}, she took part in a sting operation in a [[Set]] warehouse in [[Bilming]]. She was shot in the leg during the ensuing fighting, and [[Marasi Colms|Marasi]] tended to her briefly.{{book ref|mb7|24}}
+
+== Notes ==
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 16:40, 15 June 2023 (UTC)}}
+{{Mistborn|Era 2}}

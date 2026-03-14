@@ -1,13 +1,14 @@
-{{geography
-|type=Plain
-|era=Post-Catacendre
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-The **Plains of Kaermeron** are a plain on post-[[Catacendre]] [[Scadrial]]. It is fabled to be the home of "long-necked horses" (likely giraffes){{wob ref|4362}}, which [[Jak|Gentleman Jak]] claims to have domesticated.{{file ref|House_Record_broadsheet.jpg|*The House Record* Broadsheet}}
+---
+source_file: Plains of Kaermeron.txt
+entity_type: geography
+type: Plain
+era: Post-Catacendre
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
+
+The **Plains of Kaermeron** are a plain on post-[[Catacendre]] [[Scadrial]]. It is fabled to be the home of "long-necked horses" (likely giraffes), which [[Jak|Gentleman Jak]] claims to have domesticated.
 
 ## Notes
 <references/>
-{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 09:42, 29 May 2022 (UTC)}}
-{{Mistborn|Era 2}}

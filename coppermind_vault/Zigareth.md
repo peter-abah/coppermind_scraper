@@ -1,15 +1,16 @@
-{{architecture
-|usage={{cat tag|palaces|Palace}}
-|city=Widor
-|nation=Fjorden
-|world=Sel
-|universe=[[Cosmere]]
-|books=[[Elantris (book)|Elantris]]
-}}
-**Zigareth** is the [[Wyrn (title)|Wyrn]]'s palace in [[Widor]] on [[Sel]].{{glossary ref|Elantris|Z}}
+---
+source_file: Zigareth.txt
+entity_type: architecture
+city: Widor
+nation: Fjorden
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
+---
+
+**Zigareth** is the [[Wyrn (title)|Wyrn]]'s palace in [[Widor]] on [[Sel]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:17, 3 September 2016 (MST)}}
-{{Elantris}}
+
 [[es:Zigareth]]

@@ -1,13 +1,13 @@
 ---
-'species: "Chull"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Stormlight Scenarios"
+source_file: Tessie.txt
+entity_type: character
+'''species': '[[Chull]]'
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Stormlight Scenarios]]'
 ---
 
-**Tessie** is a [[chull]] on the planet [[Roshar]]. They are known to click loudly when they are nervous.{{rpg ref|ss|9}}{{rpg ref|ss|10}}
+**Tessie** is a [[chull]] on the planet [[Roshar]]. They are known to click loudly when they are nervous.
 
 ## Notes
 <references />
-{{complete}}
-{{Stormlight}}

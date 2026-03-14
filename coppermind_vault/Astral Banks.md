@@ -1,13 +1,14 @@
-{{geography
-|map=Astral Banks locator.png
-|region=Sea of Souls
-|world=Shadesmar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-The **Astral Banks** is a body of water in the [[Sea of Souls]], part of the [[Shadesmar|Rosharan subastral]] of the [[Cognitive Realm]].{{map ref|Sea of Souls}} In the [[Physical Realm]], it corresponds to the nation of [[Tukar]].{{map ref|Roshar}} On its northern shores is the [[Oathbound Spires]] and [[Justice Untarnished]], and to its south is [[Lasting Integrity]] and [[Brilliance Eternal]], and a small rest stop that [[Nazh]] believes has "acceptable" snack choices.{{map ref|Sea of Souls}}
+---
+source_file: Astral Banks.txt
+entity_type: geography
+map: Astral Banks locator.png
+region: Sea of Souls
+world: Shadesmar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+The **Astral Banks** is a body of water in the [[Sea of Souls]], part of the [[Shadesmar|Rosharan subastral]] of the [[Cognitive Realm]]. In the [[Physical Realm]], it corresponds to the nation of [[Tukar]]. On its northern shores is the [[Oathbound Spires]] and [[Justice Untarnished]], and to its south is [[Lasting Integrity]] and [[Brilliance Eternal]], and a small rest stop that [[Nazh]] believes has "acceptable" snack choices.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 00:11, 19 November 2020 (UTC)}}
-{{Stormlight}}

@@ -1,0 +1,1 @@
+#REDIRECT [[Summary:Oathbringer#Chapter 21]]

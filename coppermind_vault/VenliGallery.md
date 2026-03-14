@@ -1,3 +1,8 @@
+---
+source_file: VenliGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Venli Chapters.svg | <center><small>by [[Isaac Stewart]]</small></center> Venli's chapters header

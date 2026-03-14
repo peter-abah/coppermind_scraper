@@ -1,3 +1,8 @@
+---
+source_file: MistbornStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a brief statistical analysis of each of the books in the ***[[Mistborn (series)|Mistborn]]*** series.
 
 For an analysis of each book in the original trilogy, see [[Mistborn: The Final Empire/Statistical analysis]], [[The Well of Ascension/Statistical analysis]], and [[The Hero of Ages/Statistical analysis]]. 
@@ -8,7 +13,8 @@ For an analysis of *Mistborn: Secret History*, see [[Mistborn: Secret History/St
 
 The information on this page can be found [https://docs.google.com/spreadsheets/d/1G_1DaFBQgUSdUNSb_urqOVgG8ej_ZDXF0I8VJ5XyFQU/edit#gid=0 here].
 
-<div style="float:right; padding-left:1em">__TOC__</div>
+> [!WARNING] Info
+> __TOC__
 
 ## Mistborn Era 1
 {| class="wikitable sortable"
@@ -167,7 +173,6 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ### Mistborn: The Final Empire
-{{for|Mistborn: The Final Empire/Statistical analysis|a chapter by chapter statistical analysis}}
 
 {| class="wikitable sortable"
 ! Character (8) !! # of POVs (76) !! % of Total POVs !! Word Count (210,103) !! % of Word Count
@@ -230,7 +235,7 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ### The Well of Ascension
-{{for|The Well of Ascension/Statistical analysis|a chapter by chapter statistical analysis}}
+
 {| class="wikitable sortable"
 ! Character (11) !! # of POVs (147) !! % of Total POVs !! Word Count (244,371) !! % of Word Count
 |-
@@ -313,7 +318,7 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ### The Hero of Ages
-{{for|The Hero of Ages/Statistical analysis|a chapter by chapter statistical analysis}}
+
 {| class="wikitable sortable"
 ! Character (10) !! # of POVs (131) !! % of Total POVs !! Word Count (225,372) !! % of Word Count
 |-
@@ -524,7 +529,7 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ### The Alloy of Law
-{{for|The Alloy of Law/Statistical analysis|a chapter by chapter statistical analysis}}
+
 {| class="wikitable sortable"
 ! Character (4) !! # of POVs (36) !! % of Total POVs !! Word Count (94,652) !! % of Word Count
 |-
@@ -558,7 +563,7 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ### Shadows of Self
-{{for|Shadows of Self/Statistical analysis|a chapter by chapter statistical analysis}}
+
 {| class="wikitable sortable"
 ! Character (5) !! # of POVs (70) !! % of Total POVs !! Word Count (110,019) !! % of Word Count
 |-
@@ -599,7 +604,7 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ### The Bands of Mourning
-{{for|The Bands of Mourning/Statistical analysis|a chapter by chapter statistical analysis}}
+
 {| class="wikitable sortable"
 ! Character (11) !! # of POVs (83) !! % of Total POVs !! Word Count (127,456) !! % of Word Count
 |-
@@ -818,7 +823,7 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ### Mistborn: Secret History
-{{for|Mistborn:_Secret_History/Statistical_analysis|a chapter by chapter statistical analysis}}
+
 {| class="wikitable sortable"
 ! Character (2) !! # of POVs (26) !! % of Total POVs !! Word Count (44,981) !! % of Word Count
 |-
@@ -837,8 +842,6 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 
 |}
 
-{{meta/done}}
-{{Mistborn}}
 [[Category: Mistborn|*x]]
 [[category: Mistborn Era 1|*x]]
 [[category: Mistborn Era 2|*x]]

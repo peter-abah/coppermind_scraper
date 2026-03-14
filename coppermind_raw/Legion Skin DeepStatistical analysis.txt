@@ -1,0 +1,123 @@
+This page contains a statistical analysis of '''''[[Legion: Skin Deep]]'''''.
+
+=== Chapter by Chapter Breakdown ===
+{| class="wikitable sortable"
+!Chapter
+!Word Count
+!Percentage
+|-
+| colspan="3" align="center" | '''Part One'''
+|-
+| [[Legion: Skin Deep/Summary#Chapter 1|Chapter 1]]
+| align="right" | 2,256
+| align="right" | 6.05%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 2|Chapter 2]]
+| align="right" | 1,667
+| align="right" | 4.47%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 3|Chapter 3]]
+| align="right" | 631
+| align="right" | 1.69%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 4|Chapter 4]]
+| align="right" | 692
+| align="right" | 1.86%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 5|Chapter 5]]
+| align="right" | 1,189
+| align="right" | 3.19%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 6|Chapter 6]]
+| align="right" | 1,397
+| align="right" | 3.75%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 7|Chapter 7]]
+| align="right" | 920
+| align="right" | 2.47%
+|-
+| '''Part One Total'''
+| align="right" | '''8,752'''
+| align="right" | '''23.48%'''
+|-
+| colspan="3" align="center" | '''Part Two'''
+|-
+| [[Legion: Skin Deep/Summary#Chapter 8|Chapter 8]]
+| align="right" | 3,420
+| align="right" | 9.18%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 9|Chapter 9]]
+| align="right" | 2,148
+| align="right" | 5.76%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 10|Chapter 10]]
+| align="right" | 888
+| align="right" | 2.38%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 11|Chapter 11]]
+| align="right" | 1,040
+| align="right" | 2.79%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 12|Chapter 12]]
+| align="right" | 3,291
+| align="right" | 8.83%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 13|Chapter 13]]
+| align="right" | 4,264
+| align="right" | 11.44%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 14|Chapter 14]]
+| align="right" | 2,011
+| align="right" | 5.40%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 15|Chapter 15]]
+| align="right" | 777
+| align="right" | 2.08%
+|-
+| '''Part Two Total'''
+| align="right" | '''17,839'''
+| align="right" | '''47.87%'''
+|-
+| colspan="3" align="center" | '''Part Three'''
+|-
+| [[Legion: Skin Deep/Summary#Chapter 16|Chapter 16]]
+| align="right" | 2,451
+| align="right" | 6.58%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 17|Chapter 17]]
+| align="right" | 1,624
+| align="right" | 4.36%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 18|Chapter 18]]
+| align="right" | 1,315
+| align="right" | 3.53%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 19|Chapter 19]]
+| align="right" | 1,917
+| align="right" | 5.14%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 20|Chapter 20]]
+| align="right" | 1,051
+| align="right" | 2.82%
+|-
+| [[Legion: Skin Deep/Summary#Chapter 21|Chapter 21]]
+| align="right" | 1,319
+| align="right" | 3.54%
+|-
+| [[Legion: Skin Deep/Summary#Epilogue|Epilogue]]
+| align="right" | 1,000
+| align="right" | 2.68%
+|-
+| '''Part Three Total'''
+| align="right" | '''10,677'''
+| align="right" | '''28.65%'''
+|-
+| '''Total'''
+| align="right" | '''37,268'''
+| align="right" | '''100.00%'''
+|}
+
+{{meta/done}}
+{{Legion}}
+[[Category: Legion|*]]
+[[category: statistics]]

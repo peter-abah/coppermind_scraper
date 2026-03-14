@@ -1,17 +1,14 @@
 ---
-profession: "{{cat tag|Pirates|Pirate"
+source_file: Semm.txt
+entity_type: character
+parents: '[[Peg]]'
+siblings: '[[Gremm]]'
+species: Tenasi
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
-|parents=[[Peg]]
-|siblings=[[Gremm]]
-|species=Tenasi
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-{{update|sky3}}
-**Semm** is a [[tenasi]] pirate in the [[belt]] of the [[nowhere]]. He is the younger son of [[Peg]].{{book ref|sky3|25}}
+**Semm** is a [[tenasi]] pirate in the [[belt]] of the [[nowhere]]. He is the younger son of [[Peg]].
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

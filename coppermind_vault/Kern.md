@@ -1,17 +1,12 @@
 ---
-profession: "Admiral"
-introduced: "Firstborn"
+source_file: Kern.txt
+entity_type: character
+profession: Admiral
+introduced: '[[Firstborn]]'
 ---
 
-**Kern** was a High Admiral in the imperial navy.{{book ref|Firstborn}}
+**Kern** was a High Admiral in the imperial navy.
 
 ## Notes
-{{holder
-|title=High Admiral of the [[Stormwind]]
-|this=
-|prev=Unknown
-|next=[[Lord Canton]]
-}}
+
 <references />
-{{stub}}
-{{Firstborn}}

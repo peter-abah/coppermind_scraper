@@ -1,16 +1,16 @@
 ---
-#profession: "Sailor"
-nation: "Thaylenah"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Dawnshard (novella)| Dawnshard"
+source_file: Pluv.txt
+entity_type: character
+'#profession': Sailor
+nation: Thaylenah
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Dawnshard (novella)| Dawnshard]]'
 ---
 
-**Pluv** is a [[Thaylen]] sailor on the *[[Wandersail (1174_ship)|Wandersail]]*.{{book ref|sa3.5|15}}
+**Pluv** is a [[Thaylen]] sailor on the *[[Wandersail (1174_ship)|Wandersail]]*.
 
-He was a member of the [[expedition to Akinah]]. He brought [[Rushu]] a note of warning from [[Rysn]] while she and [[Lopen]] were exploring the ruins on the island looking for the [[Oathgate]].{{book ref|sa3.5|15}}
+He was a member of the [[expedition to Akinah]]. He brought [[Rushu]] a note of warning from [[Rysn]] while she and [[Lopen]] were exploring the ruins on the island looking for the [[Oathgate]].
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 18:19, 27 September 2021 (UTC)}}
-{{stormlight}}

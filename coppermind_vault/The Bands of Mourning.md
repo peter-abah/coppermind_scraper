@@ -1,30 +1,28 @@
-{{book
-|cover=Bands_of_Mourning_US_Hardcover.jpg
-|series=[[Mistborn Era 2]]
-|prequel=Shadows of Self
-|sequel=The Lost Metal
-|setting=[[Scadrial]], [[Cosmere]]
-|publisher=Tor Books
-|released=January 26, 2016
-|ISBN=978-0-7653-7857-6
-|page-count=447
-|word-count=[[/Statistical_analysis|127,456]]
-}}
+---
+source_file: The Bands of Mourning.txt
+entity_type: book
+cover: Bands_of_Mourning_US_Hardcover.jpg
+series: '[[Mistborn Era 2]]'
+prequel: Shadows of Self
+sequel: The Lost Metal
+setting: '[[Scadrial]], [[Cosmere]]'
+publisher: Tor Books
+released: January 26, 2016
+isbn: 978-0-7653-7857-6
+page-count: '447'
+word-count: '[[/Statistical_analysis|127,456]]'
+---
 
-{{for|pre=This article is for the novel|Bands of Mourning|the in-universe item}}
-
-***The Bands of Mourning*** is the third book set in [[Mistborn Era 2]]. It was published on January 26, 2016, shortly after *[[Shadows of Self]]*.{{bws ref|calamity-is-done|Calamity is done|date=2015-05-29}}
+***The Bands of Mourning*** is the third book set in [[Mistborn Era 2]]. It was published on January 26, 2016, shortly after *[[Shadows of Self]]*.
 
 ## Synopsis
-{{quote|
-With *The Alloy of Law* and *Shadows of Self*, Brandon Sanderson surprised readers with a *New York Times* bestselling spinoff of his *Mistborn* books, set after the action of the trilogy, in a period corresponding to late 19th-century America.
+
+> With *The Alloy of Law* and *Shadows of Self*, Brandon Sanderson surprised readers with a *New York Times* bestselling spinoff of his *Mistborn* books, set after the action of the trilogy, in a period corresponding to late 19th-century America.
 
 Now, with *The Bands of Mourning*, Sanderson continues the story. *The Bands of Mourning* are the mythical metalminds owned by the Lord Ruler, said to grant anyone who wears them the powers that the Lord Ruler had at his command. Hardly anyone thinks they really exist. But now a kandra researcher has returned to Elendel with images that seem to depict the Bands, as well as writings in a language that no one can read. Waxillium Ladrian is recruited to travel south to the city of New Seran to investigate, and along the way he discovers hints that point to the true goals of his uncle Edwarn and the shadowy organization known as The Set.
-|{{ref|name=cover}}{{url ref|url=https://www.brandonsanderson.com/pages/the-mistborn-saga-the-wax-wayne-series|text=THE MISTBORN® SAGA – THE WAX & WAYNE SERIES|site=brandonsanderson.com|name=MistbornSaga}}
-}}
+> — 
 
 ## Summary
-{{for|/Summary|a complete chapter by chapter summary}}
 
 ;Prologue
 [[Wax]] is a teenager living in the [[Village]], sneaking out into the city with his [[Telsin|sister]] and her friends. He learns that a constable is visiting the Village about a recent arson, so he bugs out and eavesdrops on his grandmother. Later in his room, he spies one of the friends, [[Forch]], outside in the rain. He goes to investigate and finds him torturing a young boy. Forch attacks, and Wax manages to kill him with a bullet he stole from his grandmother (left by the constable as a warning). He realizes that his destiny is fighting crime, away from the Village.
@@ -70,18 +68,16 @@ Some sort of being with red eyes visits Suit in his jail cell. He ominously anno
 Wax hears the bomb in his honeymoon suite and wakes up. He examines the strange coin and realizes it is a coppermind. Wax taps the memory and looks through the eyes of the [[Sovereign]].
 
 ## Development
-Following completion of *[[The Alloy of Law]]* Brandon plotted out three more books, following the same characters, to finish the story. The second of these is *The Bands of Mourning*. During the later half of 2014 Brandon was having difficulty getting back into the story for *[[Shadows of Self]]*, he had previously written a third or so of it in 2012 between drafts of *[[A Memory of Light]]*. Therefore he jumped ahead to write *The Bands of Mourning*, before going back and finishing *Shadows of Self*.{{sots ref|2014}}{{ref|name=sequels}}
+Following completion of *[[The Alloy of Law]]* Brandon plotted out three more books, following the same characters, to finish the story. The second of these is *The Bands of Mourning*. During the later half of 2014 Brandon was having difficulty getting back into the story for *[[Shadows of Self]]*, he had previously written a third or so of it in 2012 between drafts of *[[A Memory of Light]]*. Therefore he jumped ahead to write *The Bands of Mourning*, before going back and finishing *Shadows of Self*.
 
-According to the cover blurb the title refers to the Lord Ruler's bracers, which hold mythological significance in the post-Final Ascension world.{{ref|name=cover}}
+According to the cover blurb the title refers to the Lord Ruler's bracers, which hold mythological significance in the post-Final Ascension world.
 
 ==Cover Gallery==
-{{for|/Covers|the cover gallery of The Bands of Mourning}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *The Bands of Mourning* consists of thirty-one chapters, one prologue, and one epilogue, reaching a total 127,456 word count. There are eleven different unique point-of-view characters in a total of 83 POVs.
 
 {|class="wikitable"
@@ -110,13 +106,8 @@ According to the cover blurb the title refers to the Lord Ruler's bracers, which
 ## Notes
 <references>
 
-{{tor ref|name=sequels|mistborn-alloy-of-law-sequels|*Shadows of Self* and *The Bands of Mourning* announcement|date=2014-12-18}}
-{{tor ref|name=cover|cover-reveal-brandon-sanderson-bands-of-mourning|Revealing the Cover for Brandon Sanderson's Mistborn Book The Bands of Mourning|date=Apr 9th, 2015}}
-
 </references>
-{{meta/partial}}
-{{Mistborn|era 2}}
-{{books}}
+
 [[category: Mistborn| e2.3]]
 [[category: Mistborn Era 2| 3]]
 [[es: Brazales de Duelo (libro)]]

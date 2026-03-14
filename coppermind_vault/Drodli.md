@@ -1,15 +1,13 @@
 ---
-ethnicity: "Shin"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Wind and Truth"
+source_file: Drodli.txt
+entity_type: character
+ethnicity: Shin
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-{{update|sa5}}
-
-**Drodli** is a head shaman of the [[Windrunner monastery]] on [[Roshar]].{{book ref|sa5|111}}
+**Drodli** is a head shaman of the [[Windrunner monastery]] on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

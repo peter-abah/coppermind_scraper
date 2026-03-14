@@ -1,17 +1,17 @@
-{{culture
-|world=Lumar
-|universe=[[Cosmere]]
-|books=[[Tress of the Emerald Sea]]
-}}
+---
+source_file: Tosher.txt
+entity_type: culture
+world: Lumar
+universe: '[[Cosmere]]'
+books: '[[Tress of the Emerald Sea]]'
+---
 
-A **tosher** is a profession from [[Lumar]]. Toshers are the lowest servant in the king's household. They comb the palace's sewerage to ensure nothing of value had been discarded by mistake and are generally avoided due to the stench gained from their line of work. The [[Emerald Sea]] has a story about a tosher, the moral of which story warning of the unwanted consequences of minor actions.{{book ref|tress|34}}
+A **tosher** is a profession from [[Lumar]]. Toshers are the lowest servant in the king's household. They comb the palace's sewerage to ensure nothing of value had been discarded by mistake and are generally avoided due to the stench gained from their line of work. The [[Emerald Sea]] has a story about a tosher, the moral of which story warning of the unwanted consequences of minor actions.
 
 ## The Story
 
-{{quote
-|Even small actions have consequences. And while we can often choose our actions, we rarely get to choose our consequences.
-|[[Hoid]]{{book ref|tress|34}}
-}}
+> Even small actions have consequences. And while we can often choose our actions, we rarely get to choose our consequences.
+> — [[Hoid]]
 
 The tosher is not very happy with his life, but the one thing he likes is his dinner: potato with lard. He asks for another potato, and they give it to him so he will stop asking for it. He gets two potatoes per day until they change the meal to cornbread with lard, which he hates. He expects the potatoes to return, but they don’t seem to. Annoyed, he sets out to make potatoes be the servant's food again.
 
@@ -19,9 +19,7 @@ He first asks the cook, which tells him that she can’t change the menu as the 
 
 The tosher reflects. He reaches the conclusion that even small actions have consequences, and even though we can choose the actions, we rarely get to choose the consequences.
 
-
 ## Notes
 <references />
-{{complete|[[User:MrMrDUCK|MrMrDUCK]] ([[User talk:MrMrDUCK|talk]]) 06:20, 11 March 2024 (UTC)}}
-{{tress}}
+
 [[es:Albañalero]]

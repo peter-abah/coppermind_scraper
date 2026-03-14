@@ -1,3 +1,8 @@
+---
+source_file: Shattered PlainsGallery.txt
+entity_type: article
+---
+
 ## Maps
 <gallery mode=packed heights=200px caption="Maps">
 Shattered Plains WoR map.jpeg | <center><small>by [[Isaac Stewart]], {{a|Ben McSweeney}}</small></center> The symmetry of the Plains

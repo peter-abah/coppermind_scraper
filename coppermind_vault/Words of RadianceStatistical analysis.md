@@ -1,3 +1,8 @@
+---
+source_file: Words of RadianceStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains some statistical analysis of ***[[Words of Radiance]]***, the second book in [[The Stormlight Archive]].
 
 For a full series overview see [[The Stormlight Archive/Statistical analysis]], and for other books in the series see [[The Way of Kings/Statistical analysis]], [[Oathbringer/Statistical analysis]], [[Rhythm of War/Statistical analysis]], and [[Wind and Truth/Statistical analysis]].
@@ -551,7 +556,5 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 | align="right" | 0.4573%
 |}
 
-{{meta/done}}
-{{Stormlight}}
 [[Category: Stormlight Archive|*2x]]
 [[category: statistics]]

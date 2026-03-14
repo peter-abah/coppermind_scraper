@@ -1,3 +1,8 @@
+---
+source_file: Edgedancer (novella)Statistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Edgedancer (novella)|Edgedancer]]***, a novella in [[The Stormlight Archive]].
 
 For a full series overview and other books in the series, see [[The Stormlight Archive/Statistical analysis]].
@@ -131,7 +136,5 @@ For a full series overview and other books in the series, see [[The Stormlight A
 | align="right" | 5.13%
 |}
 
-{{meta/done}}
-{{Stormlight}}
 [[Category: Stormlight Archive|*2.5x]]
 [[category: statistics]]

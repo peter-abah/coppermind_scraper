@@ -1,0 +1,18 @@
+{{geography
+|type={{cat tag|Water body|Lake}}
+|dominance=Eastern
+|nation=Final Empire
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+'''North Seran''' is a body of water on [[Scadrial]].
+
+During the [[Final Empire]], it is situated at the edge of the [[Eastern Dominance]]; the eastern shore of the lake lies just inside the border with the [[Crescent Dominance]]. There are mountains to the north of the lake and farmland to the west.{{map ref|Final Empire 1021|the final empire in 1021 FE}} It is connected to [[South Seran]] by the [[River Seran]], and is the smaller of the two Seran lakes.{{map ref|Final Empire|the Final Empire}} Two settlements or plantations are located on the southern end of the lake, near the headwaters of the river.{{map ref|Final Empire 1021|the final empire in 1021 FE}}
+
+After the [[Catacendre]], the lake remains in the same location, but the area is not known to be inhabited.{{map ref|Scadrial}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:59, 2 March 2023 (UTC)}}
+{{Mistborn|Era 1}}

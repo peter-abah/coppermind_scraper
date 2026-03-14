@@ -1,3 +1,8 @@
+---
+source_file: Rysn FtoriGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=350px caption="Official artwork">
 Aboard the Wandersail.jpg | <center><small>by {{a|Ben McSweeney}}</small></center> With [[Chiri-Chiri]] aboard the *[[Wandersail (1174 ship)|Wandersail]]*, *[[Dawnshard (novella)|Dawnshard]]* interior art

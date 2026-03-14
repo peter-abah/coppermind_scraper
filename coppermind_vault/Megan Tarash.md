@@ -1,64 +1,61 @@
 ---
-image: "Megan_portrait.png"
-aliases: "Firefight"
-abilities: "{{tag+|Epic"
+source_file: Megan Tarash.txt
+entity_type: character
+image: Megan_portrait.png
+aliases: Firefight
+abilities: Epic
+groups: Reckoners
+born: ~19 years before ''[[Steelheart]]''
+'''birthplace': '[[Portland]]'
+earth: Reckoners
+introduced: '[[Steelheart]]'
 ---
 
-|groups={{tag|Reckoners}}
-|born= ~19 years before *[[Steelheart]]*{{book ref|firefight|34}}
-|'birthplace=[[Portland]]
-|earth=Reckoners
-|introduced=[[Steelheart]]
-}}
-{{quote
-|Sometimes stupid is right. Hell. I hope nobody ever quotes me on that one.
-|Megan before battling [[Jonathan Phaedrus|Prof]].{{book ref|Calamity|40}}
-}}
-**Megan Tarash**, also known as the [[Epic]] **Firefight**, is a member of [[Steelheart (Epic)|Steelheart]]'s inner circle.  She infiltrated the [[Reckoners]], a group that kills Epics,{{book ref|Steelheart|41}} but later rejoined the group after [[Jonathan Phaedrus]] was corrupted by his powers.
+> Sometimes stupid is right. Hell. I hope nobody ever quotes me on that one.
+> — Megan before battling [[Jonathan Phaedrus|Prof]].
+
+**Megan Tarash**, also known as the [[Epic]] **Firefight**, is a member of [[Steelheart (Epic)|Steelheart]]'s inner circle.  She infiltrated the [[Reckoners]], a group that kills Epics, but later rejoined the group after [[Jonathan Phaedrus]] was corrupted by his powers.
 
 ## Attributes and Abilities
-{{for|/Gallery|images of Megan}}
-{{image|Firefight portrait.png|side=right|width=230px|Portrait of Megan's dimensional double, Firefight}}
-She is an extremely accurate shooter, which helped with the fact that she has no offensive epic powers.{{book ref|r1|4}}{{expand}}
+
+She is an extremely accurate shooter, which helped with the fact that she has no offensive epic powers.
 
 ### Epic Abilities
-==== Essokinesis ====
-Megan's power was originally assumed to be the ability to create illusions, but in fact, her power "pulls" items from another reality into this reality.{{book ref|Firefight|35}} This caused the illusions she creates to be extremely realistic, nearly impossible to distinguish using any detecting method.{{book ref|calamity|6}} Also, since the ability tends to pull things from a "nearby" parallel universe (among the [[Reckoners Multiverse]]), a tricky fact is that the illusions she creates are actually possibilities. This can be used to somewhat predict the future; if something is going to happen, it is possible that it will happen the same way as Megan's illusions.{{book ref|calamity|6}}
+#### Essokinesis
+Megan's power was originally assumed to be the ability to create illusions, but in fact, her power "pulls" items from another reality into this reality. This caused the illusions she creates to be extremely realistic, nearly impossible to distinguish using any detecting method. Also, since the ability tends to pull things from a "nearby" parallel universe (among the [[Reckoners Multiverse]]), a tricky fact is that the illusions she creates are actually possibilities. This can be used to somewhat predict the future; if something is going to happen, it is possible that it will happen the same way as Megan's illusions.
 
-When Megan stretches her ability or within a very short time after her reincarnation, she can be powerful enough to make her illusions become real, creating actual effects and bordering on omnipotence.{{book ref|Firefight|35}}{{book ref|Firefight|51}} However, stretching her ability makes her prone to the corruption of [[Calamity (Epic)|Calamity]].
+When Megan stretches her ability or within a very short time after her reincarnation, she can be powerful enough to make her illusions become real, creating actual effects and bordering on omnipotence. However, stretching her ability makes her prone to the corruption of [[Calamity (Epic)|Calamity]].
 
-==== Reincarnation ====
-Megan has the ability to reborn with a new body roughly one day after her death.{{book ref|Firefight|22}} However, a big portion of her memory is lost in the process, also causing part of her personality to change. For this reason, she had a camera to send a recording to her new incarnation should something happen to her.{{book ref|r1|41}} The ability to reincarnate makes her a [[High Epic]].
+#### Reincarnation
+Megan has the ability to reborn with a new body roughly one day after her death. However, a big portion of her memory is lost in the process, also causing part of her personality to change. For this reason, she had a camera to send a recording to her new incarnation should something happen to her. The ability to reincarnate makes her a [[High Epic]].
 
 ### Weakness
-Fire causes the shadows that Megan summons to be dispelled. She thinks that if she is killed by fire, she won't reincarnate.{{book ref|Firefight|36}} Megan confronted her fear, dispelling the majority of the darkness, but she still feels its effects if she overuses her abilities, or after reincarnating.{{cite}} Megan's weakness comes from when her house was burned down when she was young.{{book ref|Firefight|36}}
+Fire causes the shadows that Megan summons to be dispelled. She thinks that if she is killed by fire, she won't reincarnate. Megan confronted her fear, dispelling the majority of the darkness, but she still feels its effects if she overuses her abilities, or after reincarnating. Megan's weakness comes from when her house was burned down when she was young.
 
 ## History
 ### Background
-Megan grew up in Portland, Oregon.{{book ref|Firefight|34}} Her father believed that a nuclear apocalypse was on the horizon, a belief Megan scorned at the time, and trained his children in hunting and other survival skills.{{book ref|Calamity|11}} Her house burned down when she was very young, and she has nightmares about this. {{book ref|Firefight|36}} Megan joined the Reckoners sometime before the book starts. She appears to have a genuine hatred for Epics, but she is willing to accept Steelheart as a ruler because he maintains stability and order in Newcago. She appears to have joined the Reckoners with his knowledge (at least as far as no lenience is shown towards her or her cell from Enforcement or Nightwielder). She actively works with the Reckoners towards their goal to defeat Steelheart. She also loves handguns and can name the model of almost any she sees.
+Megan grew up in Portland, Oregon. Her father believed that a nuclear apocalypse was on the horizon, a belief Megan scorned at the time, and trained his children in hunting and other survival skills. Her house burned down when she was very young, and she has nightmares about this.  Megan joined the Reckoners sometime before the book starts. She appears to have a genuine hatred for Epics, but she is willing to accept Steelheart as a ruler because he maintains stability and order in Newcago. She appears to have joined the Reckoners with his knowledge (at least as far as no lenience is shown towards her or her cell from Enforcement or Nightwielder). She actively works with the Reckoners towards their goal to defeat Steelheart. She also loves handguns and can name the model of almost any she sees.
 
 ### Infiltrating the Reckoners
-{{image|Megan - Reckoners Board Game.png|side=right|width=250px}}
-==== Meeting David Charleston ====
+
+#### Meeting David Charleston
 David encountered Megan while observing the Reckoners' attempt to assassinate the High Epic, [[Fortuity]]. When another Epic named [[Curveball]] appeared, David assumed that the plan was going awry and he intervened, ruining the entire plan. After Megan and David take down the two Epics, Megan takes the eager newcomer to her team. David found his interactions with her to be inconsistent and confusing; initially, she seemed impressed by his skills and suggested to Prof that they take him on, but later she dismissed his plans and arguments related to killing Steelheart as absurd and generally treated him with irritation and disdain. Megan later explained that she became hostile towards David after he started convincing the other Reckoners to target Steelheart because she believed that killing Steelheart would do more harm than good. Eventually, she grew fond of him anyway, and the two developed a rapport. They both also bond over guns. While he prefers rifles, she prefers handguns.
 
-==== Sudden Loss ====
+#### Sudden Loss
 After the Reckoners' hit on Conflux went awry, David and Megan attempted to escape together on a motorcycle. The vehicle crashed, mortally injuring Megan. David defended her from their pursuers and confessed his infatuation for her while she lay unconscious. After Prof rescued the two of them and brought them back to the Reckoners' base, Megan died of her injuries despite [[Tia]]'s attempt to treat her. The Reckoners abandoned the base and burned everything they left inside, including Megan's remains, in order to cover their tracks.
 
-==== Reappearance ====
+#### Reappearance
 While fighting Nightwielder, David finds Megan and comes to the conclusion that she is the Epic named Firefight as reincarnation is one of her abilities. It is revealed that Megan betrayed the Reckoners as they began to target important parts of Steelheart's infrastructure by infiltrating the organization and feeding information to Steelheart.  Initially, she seemed to be unable to recall any past events before her death as seen when she struggled to remember David's identity. Later, during the Steelheart hit, David found Megan listening to an audio recording of her death, including David's confession. She told him to stay away, however, or she would shoot herself, as death meant nothing to her anymore.
 
-{{image|Megan_Tarash_by_Bernardo_Curvello.jpg|side=left|width=350pxMegan as a Reckoner, with an image of her alter ego in the background}}
-
 ### In Babylon Restored
-==== Resurfaced ====
+#### Resurfaced
 After the events of *Steelheart*, Megan travels to Babylon Restored and allies herself with [[Regalia]]. The Babilar Reckoner cell attempts to observe and track her. At some point in the intervening ten months, their point man, Sam, attempts to confront and kill her despite orders to the contrary. Megan shoots and kills him in self-defense. This causes the surviving members of Sam's team, particularly [[Mizzy]], to develop a deep personal hatred for her. When David, Prof, and Tia arrive in Babilar at the beginning of *Firefight*, Megan observes their movements in the city and covertly helps David several times. When David almost drowns during his encounter with [[Obliteration]], Megan rescues him. Later, she uses her illusions to prevent [[Newton]] and Obliteration from spotting and capturing him while he is doing reconnaissance in the city. David realizes Megan is around and asks her to show herself. The two have a tense conversation, but Megan agrees to stay in communication as long as David keeps their contact secret from the other Reckoners. The two have several more encounters over the course of the book. David tries to persuade Megan to reveal herself to the Reckoners, believing that he can reason with Prof and Tia, but Megan refuses.
 
 As the two grow closer, Megan makes several revelations about her powers and her current status. She reveals that her illusions are created by temporarily projecting pieces of parallel universes into this one. She also shares her fear that when she reincarnates, she is simply being replaced by an alternate version of herself with similar memories. Megan also reveals that she came to Babilar in hopes that Regalia would somehow be able to remove her powers in the same way that she claims that she can gift and augment Epic powers. After recognizing the effects of her powers on her mental state, she no longer wishes to be an Epic. David explains to her that he is trying to uncover a pattern in the weaknesses of Epics and shares some of his research with her. Eventually, she admits that she reciprocates David's romantic interest in her, and the two of them kiss for the first time. Later that same day, she reveals her weakness to David: fire cancels her illusions, and she believes that she would not reincarnate if burned to death. 
 
 She helps David capture the Epic [[Knoxx]], to whom Regalia claims to have recently granted powers, so that David can interrogate him and find out more about Regalia's capabilities and intentions. At this point, the Reckoners intervene. They believe that David has betrayed them by working with Megan behind their backs and that Megan is only using him to undermine their efforts. David is put on probation and imprisoned in the Reckoners' base, and Knoxx is killed. Prof confiscates David's mobile and uses it to lure Megan into a trap by sending messages claiming that David is trapped in a burning building and needs her help. Megan, suspecting foul play, sets up David's rifle, which he accidentally left in her possession, in the window of a neighboring building before heading into the burning building to investigate. When Prof traps her inside the building, she is able to use the remote fire function on David's rifle to shoot herself, thus evading death by fire and escaping the trap.
 
-==== Saving David ====
+#### Saving David
 While David fights a corrupted Prof later in the book, Megan reincarnates and saves David from his battle with her reality warping abilities. Because she confronted her fear of fire, the corruption from her powers lessens greatly and she is able to use her powers more freely. Her fear of fire and it being her weakness leads David to believe that Epics' weaknesses are somehow linked to their past. She, Mizzy, and David are the last remaining Reckoners in Babilar, as Prof killed Val and Exel and Tia had fled the city.
 
 ### Hunting Prof
@@ -66,5 +63,3 @@ Megan rejoins the Reckoners, with her Epic status being acknowledged and accepte
 
 ## Notes
 <references />
-{{partial}}
-{{Reckoners}}

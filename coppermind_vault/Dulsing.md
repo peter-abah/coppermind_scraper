@@ -1,25 +1,26 @@
-{{settlement
-|region=Elendel Basin
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-**Dulsing** is a small settlement at the edge of the [[Elendel Basin]] on [[Scadrial]], roughly 50 miles (80km) northeast of [[New Seran]].{{book ref|mb6|15}}
+---
+source_file: Dulsing.txt
+entity_type: settlement
+region: Elendel Basin
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
+
+**Dulsing** is a small settlement at the edge of the [[Elendel Basin]] on [[Scadrial]], roughly 50 miles (80km) northeast of [[New Seran]].
 
 ## Geography
-Dulsing is a remote farming village, isolated from everything.{{book ref|mb6|15}} The village is at the foot of the [[Seran Range]] and is close enough to high ground that it contains a small waterfall which has been fitted with a turbine to provide electricity.{{book ref|mb6|17}}
+Dulsing is a remote farming village, isolated from everything. The village is at the foot of the [[Seran Range]] and is close enough to high ground that it contains a small waterfall which has been fitted with a turbine to provide electricity.
 
 ## History
-Dulsing was once the site of a landmark water rights case that [[Marasi]] read about in one of her textbooks.{{book ref|mb6|15}}
+Dulsing was once the site of a landmark water rights case that [[Marasi]] read about in one of her textbooks.
 
-Around the year {{date|342|PC}}, the [[Southern Scadrian]] airship *[[Brunstell]]* was searching nearby mountains for the [[Sovereign's temple]] when it ran into bad weather and crashed in Dulsing, killing some of its crewmembers.{{book ref|mb6|15}} The villagers were initially helpful to the remaining crew, but the [[Set]] soon arrived, imprisoned the Southerners, and took over the area.{{book ref|mb6|15}} The Set subsequently tore down most of the existing buildings in the village, replacing them with a heavily guarded walled compound, including a large hangar wherein they performed research on various Southern Scadrian items including the *Brunstell*, [[ettmetal]], and [[unsealed metalminds]].{{book ref|mb6|17}} Professor [[Irich]] led the research team, and hoped to make the Set so powerful that they would rule the entire [[Elendel Basin]].{{book ref|mb6|18}}{{book ref|mb6|19}} Meanwhile, the surviving crew of the *Brunstell* were presumably tortured into revealing the supposed location of the temple and the [[Bands of Mourning]],{{book ref|mb6|21}} and most of them (including [[Jordis]]) were later taken into the mountains near the temple site where they nearly froze to death.{{book ref|mb6|23}} 
+Around the year , the [[Southern Scadrian]] airship *[[Brunstell]]* was searching nearby mountains for the [[Sovereign's temple]] when it ran into bad weather and crashed in Dulsing, killing some of its crewmembers. The villagers were initially helpful to the remaining crew, but the [[Set]] soon arrived, imprisoned the Southerners, and took over the area. The Set subsequently tore down most of the existing buildings in the village, replacing them with a heavily guarded walled compound, including a large hangar wherein they performed research on various Southern Scadrian items including the *Brunstell*, [[ettmetal]], and [[unsealed metalminds]]. Professor [[Irich]] led the research team, and hoped to make the Set so powerful that they would rule the entire [[Elendel Basin]]. Meanwhile, the surviving crew of the *Brunstell* were presumably tortured into revealing the supposed location of the temple and the [[Bands of Mourning]], and most of them (including [[Jordis]]) were later taken into the mountains near the temple site where they nearly froze to death. 
 
-After [[Kelesina Shores]] had one of ReLuur's [[Hemalurgic]] spikes removed,{{book ref|mb6|17}} [[Templeton Fig]] sent the spike to the research center in Dulsing.{{book ref|mb6|15}} [[Wayne]] later scared Fig into revealing this location, while [[Wax]] also learned that the Set was working on a large building project.{{book ref|mb6|15}} The team headed to Dulsing and discovered the Set's compound; [[MeLaan]] and [[Marasi]] found the spike as well as a [[primer cube]] and [[Allik Neverfar]].{{book ref|mb6|19}} Wax also found [[Telsin Ladrian]], and the group escaped on the shuttle *[[Wilg]]*.{{book ref|mb6|20}}{{book ref|mb6|21}} The *Brunstell* remained in the Set's possession in Dulsing.{{book ref|mb6|30}}
+After [[Kelesina Shores]] had one of ReLuur's [[Hemalurgic]] spikes removed, [[Templeton Fig]] sent the spike to the research center in Dulsing. [[Wayne]] later scared Fig into revealing this location, while [[Wax]] also learned that the Set was working on a large building project. The team headed to Dulsing and discovered the Set's compound; [[MeLaan]] and [[Marasi]] found the spike as well as a [[primer cube]] and [[Allik Neverfar]]. Wax also found [[Telsin Ladrian]], and the group escaped on the shuttle *[[Wilg]]*. The *Brunstell* remained in the Set's possession in Dulsing.
 
 ==Trivia==
 *Dulsing is not shown on the Elendel Basin maps in *[[The Alloy of Law]]* and *[[Shadows of Self]]*. It appears on the map in *[[The Bands of Mourning]]*, and its location has been added in [[Nazh]]'s handwriting.
 
 ## Notes
 <references /><!-- mb6: 15, 16,17, 29 -->
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 22:26, 6 March 2020 (UTC)}}
-{{Mistborn|Era 2}}

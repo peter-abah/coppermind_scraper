@@ -1,13 +1,12 @@
 ---
-species: "Tenasi"
-universe: "Cytoverse"
-introduced: "Defiant (book)|Defiant"
+source_file: Kaldwell.txt
+entity_type: character
+species: Tenasi
+universe: '[[Cytoverse]]'
+introduced: '[[Defiant (book)|Defiant]]'
 ---
 
-{{update|sky4}}
-**Kaldwell** is a [[tenasi]] officer working with [[Brade Shimabukuro]].{{book ref|sky4|53}}
+**Kaldwell** is a [[tenasi]] officer working with [[Brade Shimabukuro]].
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

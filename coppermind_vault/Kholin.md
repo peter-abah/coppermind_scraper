@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Kholin.txt
+entity_type: disambig
+---
 
 **Kholin** may refer to [[House Kholin]] or any of the following:
 

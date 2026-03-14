@@ -1,18 +1,15 @@
 ---
-merge-family: "y"
-children: "Dal"
-profession: "{{cat tag|Soldiers|Armorer"
+source_file: Geb.txt
+entity_type: character
+merge-family: y
+children: '[[Dal]]'
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-**Geb** is an [[Alethi]] soldier and [[Adolin Kholin]]'s head armorer on [[Roshar]].{{book ref|sa5|39}}
+**Geb** is an [[Alethi]] soldier and [[Adolin Kholin]]'s head armorer on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{stormlight}}

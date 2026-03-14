@@ -1,20 +1,18 @@
 ---
-profession: "Scribe"
-groups: "{{tag+|army|Kholin"
+source_file: Challa.txt
+entity_type: character
+profession: Scribe
+groups: army
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-**Challa** is a ward to [[May Aladar]] and a scribe for [[Adolin Kholin]] during the [[Battle of Azimir]] on [[Roshar]].{{book ref|sa5|60}}
+**Challa** is a ward to [[May Aladar]] and a scribe for [[Adolin Kholin]] during the [[Battle of Azimir]] on [[Roshar]].
 
 ## Trivia
 * Challa is named after Rachel Allen. 
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

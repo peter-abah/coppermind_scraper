@@ -1,82 +1,55 @@
-{{quote
-|You are not as good with patterns... You are abstract. You think in lies and tell them to yourselves. That is fascinating, but it is not good for patterns.
-|Pattern to [[Shallan Davar|Shallan]]{{book ref|sa2|47}}
-}}
+---
+source_file: PatternQuotes.txt
+entity_type: book ref
+---
 
-{{quote
-|I will not stop vibrating. The wind will not stop blowing. You will not stop drawing.
-|Pattern comforting Shallan{{book ref|sa2|13}}
-}}
+> You are not as good with patterns... You are abstract. You think in lies and tell them to yourselves. That is fascinating, but it is not good for patterns.
+> — Pattern to [[Shallan Davar|Shallan]]
 
-{{quote
-|Truth is individual. Your truth is what you see. What else could it be? That is the truth that you spoke to me, the truth that brings power.
-|Pattern discussing the meaning of truth with Shallan{{book ref|sa2|24}}
-}}
+> I will not stop vibrating. The wind will not stop blowing. You will not stop drawing.
+> — Pattern comforting Shallan
 
-{{quote
-|You live lies. It gives you strength. But the truth . . . Without speaking truths you will not be able to grow, Shallan.
-|Pattern to Shallan{{book ref|sa2|17}}
-}}
+> Truth is individual. Your truth is what you see. What else could it be? That is the truth that you spoke to me, the truth that brings power.
+> — Pattern discussing the meaning of truth with Shallan
 
-{{quote
-|Humans can see the world as it is not. It is why your lies can be so strong. You are able to not admit that they are lies.
-|Pattern's observations on human nature{{book ref|sa2|78}}
-}}
+> You live lies. It gives you strength. But the truth . . . Without speaking truths you will not be able to grow, Shallan.
+> — Pattern to Shallan
 
-{{quote
-|I know that you have forgotten much of what once was. Those lies attracted me. But you cannot continue like this; you must admit the truth about me. About what I can do, and what we have done. Mmm... More, you must know yourself. And remember. You wish to help. You wish to prepare for the Everstorm, the spren of the unnatural one. You must become something. I did not come to you merely to teach you tricks of light.
-|Pattern to Shallan Davar on remembering the difficult truths of her past{{book ref|sa2|60}}
-}}
+> Humans can see the world as it is not. It is why your lies can be so strong. You are able to not admit that they are lies.
+> — Pattern's observations on human nature
 
-{{quote
-|I’m sorry that your mystical, godlike powers do not instantly work as you would like them to.
-|Pattern to Shallan{{book ref|sa2|60}}
-}}
+> I know that you have forgotten much of what once was. Those lies attracted me. But you cannot continue like this; you must admit the truth about me. About what I can do, and what we have done. Mmm... More, you must know yourself. And remember. You wish to help. You wish to prepare for the Everstorm, the spren of the unnatural one. You must become something. I did not come to you merely to teach you tricks of light.
+> — Pattern to Shallan Davar on remembering the difficult truths of her past
 
-{{quote
-|You were talking about mating! I’m to make sure you don’t accidentally mate, as mating is forbidden by human society until you have first performed appropriate rituals! Yes, yes. Mmmm. Dictates of custom require following certain patterns before you copulate. I’ve been studying this!
-|Pattern understanding his duties as chaperone{{book ref|sa3|13}}
-}}
+> I’m sorry that your mystical, godlike powers do not instantly work as you would like them to.
+> — Pattern to Shallan
 
-{{quote
-|That’s not enough. I must know something true about you. Tell me. The stronger the truth, the more hidden it is, the more powerful the bond. Tell me. Tell me. What are you??
-|Pattern to Shallan{{book ref|sa1|70}}
-}}
+> You were talking about mating! I’m to make sure you don’t accidentally mate, as mating is forbidden by human society until you have first performed appropriate rituals! Yes, yes. Mmmm. Dictates of custom require following certain patterns before you copulate. I’ve been studying this!
+> — Pattern understanding his duties as chaperone
 
-{{quote
-|Terrible destruction to eat!
-|Pattern to Shallan, after learning about the concept of eating{{book ref|sa2|6}}
-}}
+> That’s not enough. I must know something true about you. Tell me. The stronger the truth, the more hidden it is, the more powerful the bond. Tell me. Tell me. What are you??
+> — Pattern to Shallan
 
-{{quote
-|Know you nothing of Patterns, old human? Voidbringers have no pattern. Besides, I have read of them in your lore. They speak of spindly arms like bone, and horrific faces. I should think, if you wish to find one, the mirror might be a location where you can begin your search.
-|Pattern to [[Inadara]], in response to her accusation that he was a Voidbringer{{book ref|sa2|81}}
-}}
+> Terrible destruction to eat!
+> — Pattern to Shallan, after learning about the concept of eating
 
-{{quote
-|Good lies… True lies… Light makes shadow. Truth makes lies
-|Pattern to Shallan{{book ref|sa2|6}}
-}}
+> Know you nothing of Patterns, old human? Voidbringers have no pattern. Besides, I have read of them in your lore. They speak of spindly arms like bone, and horrific faces. I should think, if you wish to find one, the mirror might be a location where you can begin your search.
+> — Pattern to [[Inadara]], in response to her accusation that he was a Voidbringer
 
-{{quote
-|Spren are ...power . . . shattered power. Power given thought by the perceptions of men. Honor, Cultivation, and . . . and another. Fragments broken off.
-|Pattern to Shallan{{book ref|sa2|24}}
-}}
+> Good lies… True lies… Light makes shadow. Truth makes lies
+> — Pattern to Shallan
 
-{{quote
-|Sapience. Thought. Life. These are of humans. We are ideas. Ideas that wish to live.
-|Pattern to Shallan{{book ref|sa2|17}}
-}}
+> Spren are ...power . . . shattered power. Power given thought by the perceptions of men. Honor, Cultivation, and . . . and another. Fragments broken off.
+> — Pattern to Shallan
 
-{{quote
-|Inappropriate? Such as...dividing by zero?
-|Pattern to Shallan on her explanation of what a chaperone is{{book ref|sa3|13}}
-}}
+> Sapience. Thought. Life. These are of humans. We are ideas. Ideas that wish to live.
+> — Pattern to Shallan
 
-{{quote
-|The fundamental underlying mathematics by which natural phenomena occur. Mmm. Truths that explain the fabric of existence.
-|Pattern to [[Syl]]{{book ref|sa3|91}}
-}}
+> Inappropriate? Such as...dividing by zero?
+> — Pattern to Shallan on her explanation of what a chaperone is
+
+> The fundamental underlying mathematics by which natural phenomena occur. Mmm. Truths that explain the fabric of existence.
+> — Pattern to [[Syl]]
 
 ## Notes
 <references/>

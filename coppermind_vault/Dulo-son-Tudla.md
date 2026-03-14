@@ -1,17 +1,14 @@
 ---
-abilities: "{{tag+|Shardbearer"
+source_file: Dulo-son-Tudla.txt
+entity_type: character
+abilities: Shardbearer
+nation: Shinovar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|nation=Shinovar
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-{{objective|claim=epl2|date=2025-4}}
-**Dulo-son-Tudla** is an [[Order of Edgedancers|Edgedancer]] [[Honorbearer]] in [[Shinovar]] on [[Roshar]].{{book ref|sa5|83}}
+**Dulo-son-Tudla** is an [[Order of Edgedancers|Edgedancer]] [[Honorbearer]] in [[Shinovar]] on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

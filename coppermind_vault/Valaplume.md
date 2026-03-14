@@ -1,11 +1,12 @@
-{{lifeform
-|type=Plant
-|world=Roshar
-|universe=[[Cosmere]]
-}}
-**Valaplume** is a species of tree native to [[Jah Keved]] on [[Roshar]].{{Ref|text=While not mentioned to be native to Jah Keved in the Welcome to Roshar guide, the same image is used for a garden in Jah Keved in the Stormlight world Guide.}} It has thin and red leaves.{{rpg ref|wtr|6}}
+---
+source_file: Valaplume.txt
+entity_type: lifeform
+type: Plant
+world: Roshar
+universe: '[[Cosmere]]'
+---
+
+**Valaplume** is a species of tree native to [[Jah Keved]] on [[Roshar]]. It has thin and red leaves.
 
 ## Notes
 <references />
-{{complete}}
-{{Stormlight}}

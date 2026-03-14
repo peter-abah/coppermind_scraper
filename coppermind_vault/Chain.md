@@ -1,17 +1,14 @@
 ---
-groups: "{{tag|Ghostbloods"
+source_file: Chain.txt
+entity_type: character
+groups: Ghostbloods
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-
-**Chain** is a member of the [[Ghostbloods]] on [[Roshar]]. This nickname was presumably given to him by [[Mraize]].{{book ref|sa5|25}}
+**Chain** is a member of the [[Ghostbloods]] on [[Roshar]]. This nickname was presumably given to him by [[Mraize]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

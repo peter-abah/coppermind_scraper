@@ -1,38 +1,38 @@
 ---
-merge-family: "y|siblings=Eth"
-groups: "{{tag|Bridge Four"
+source_file: Mart.txt
+entity_type: character
+merge-family: y
+siblings: '[[Eth]]'
+groups: Bridge Four, army <small>(formerly)</small>, army
+profession: Guard
+died: '[[Battle of Narak]] killed by [[Szeth]]'
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Words of Radiance]]'
 ---
 
-, {{tag+|army|Sadeas}} <small>(formerly)</small>, {{tag+|army|Kholin}}
-|profession=Guard
-|died=[[Battle of Narak]]{{book ref|sa2|86}} killed by [[Szeth]]
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Words of Radiance]]
-}}
-**Mart** is a member of [[Bridge Four]].{{book ref|sa2|5}}
+**Mart** is a member of [[Bridge Four]].
 
-[[Eth]] is his brother.{{book ref|sa2|32}}
+[[Eth]] is his brother.
 
 ## History
-Mart and Eth were caught planning to desert, and they were sent to the [[Bridge crew|bridge crews]] as punishment.{{book ref|sa3|46}}
+Mart and Eth were caught planning to desert, and they were sent to the [[Bridge crew|bridge crews]] as punishment.
 
-[[Kaladin]] took Mart, Eth, [[Moash]] and [[Drehy]] to relieve [[Skar]] and his unit after listening to the King's proclamation on the collection of [[Gemheart|gemhearts]]. Before leaving, Kaladin asked [[Rock]] to start making good food for the bridge crews, and Mart made a remark about not including shells in the food. They went to guard [[Dalinar]] and the king at the [[Pinnacle]] during a meeting, and Kaladin assigned Eth and Mart to guard the door, telling them to stop anyone but a Highprince from entering without permission from within. After the meeting, Moash, Eth, and Mart followed Dalinar out.{{book ref|sa2|5}} 
+[[Kaladin]] took Mart, Eth, [[Moash]] and [[Drehy]] to relieve [[Skar]] and his unit after listening to the King's proclamation on the collection of [[Gemheart|gemhearts]]. Before leaving, Kaladin asked [[Rock]] to start making good food for the bridge crews, and Mart made a remark about not including shells in the food. They went to guard [[Dalinar]] and the king at the [[Pinnacle]] during a meeting, and Kaladin assigned Eth and Mart to guard the door, telling them to stop anyone but a Highprince from entering without permission from within. After the meeting, Moash, Eth, and Mart followed Dalinar out. 
 
-He and [[Natam]] were assigned to guard [[Navani]] while Kaladin confronted Dalinar about [[Amaram]].{{book ref|sa2|22}}
+He and [[Natam]] were assigned to guard [[Navani]] while Kaladin confronted Dalinar about [[Amaram]].
 
-When [[Szeth]] attacked Dalinar, Mart and Eth were assigned to guard the king.{{book ref|sa2|32}} After the attack, Mart and Moash guarded the door to the king's chambers.{{book ref|sa2|33}}
+When [[Szeth]] attacked Dalinar, Mart and Eth were assigned to guard the king. After the attack, Mart and Moash guarded the door to the king's chambers.
 
-Eth and Mart were guarding Adolin during one of Kaladin's [[Shardblade]] training sessions.{{book ref|sa2|44}}
+Eth and Mart were guarding Adolin during one of Kaladin's [[Shardblade]] training sessions.
 
-Both Mart and [[Pedin]] were killed by Szeth during the [[Battle of Narak]].{{book ref|sa2|86}}
+Both Mart and [[Pedin]] were killed by Szeth during the [[Battle of Narak]].
 
-[[Kaladin]] remembered him, [[Jaks]], [[Beld]], [[Pedin]], [[Rod (Roshar)|Rod]], [[Goshel]], [[Nalma]], [[Dallet]] and the squad, and [[Tien]] while trying to say the Fourth Ideal of the [[Windrunners]].{{book ref|sa3|118}}
+[[Kaladin]] remembered him, [[Jaks]], [[Beld]], [[Pedin]], [[Rod (Roshar)|Rod]], [[Goshel]], [[Nalma]], [[Dallet]] and the squad, and [[Tien]] while trying to say the Fourth Ideal of the [[Windrunners]].
 
-Kaladin remembers Mart again as he holds Moash at spearpoint in [[Hearthstone]] and thinks the he failed Moash as much he failed Mart, [[Dunny]], and [[Jaks]]. But failing Moash hurt the most.{{book ref|sa4|8}}
+Kaladin remembers Mart again as he holds Moash at spearpoint in [[Hearthstone]] and thinks the he failed Moash as much he failed Mart, [[Dunny]], and [[Jaks]]. But failing Moash hurt the most.
 
 ## Notes
 <references /><!-- sa2: 5, 22, 32, 33, 44, 86, 87 -->
-{{complete}}
-{{Stormlight}}
+
 [[Category: Bridgemen]]

@@ -1,3 +1,7 @@
+---
+source_file: SakGallery.txt
+entity_type: article
+---
 
 ## Official artwork
 <gallery mode="Packed" heights=230px gallery caption="Images of Sak">

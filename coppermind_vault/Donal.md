@@ -1,22 +1,22 @@
 ---
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 2"
+source_file: Donal.txt
+entity_type: character
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-**Donal** is the leader of a gang of outlaws in the [[Roughs]] of [[Scadrial]].{{book ref|mb4|prologue}}
+**Donal** is the leader of a gang of outlaws in the [[Roughs]] of [[Scadrial]].
 
 ## History
-[[Waxillium Ladrian]] and [[Lessie]] have fought against Donal and his crew on a number of occasions.{{book ref|mb4|prologue}} In self-defense, Wax once shot Donal's brother during a railcar robbery. Lessie shot Donal's son, who survived but lost a toe. As a result, Donal's crew has standing orders to shoot Wax and Lessie on sight. [[Bloody Tan]] stole a shipment of [[bendalloy]] from Donal, who put a price on Tan's head and sent his crew to hunt him down. Coincidentally, Donal's men, Wax, and Lessie, all tracked Tan to [[Feltrel]] on the same day. Wax was tempted to let Donal's crew and Tan have it out, but decided against it.
+[[Waxillium Ladrian]] and [[Lessie]] have fought against Donal and his crew on a number of occasions. In self-defense, Wax once shot Donal's brother during a railcar robbery. Lessie shot Donal's son, who survived but lost a toe. As a result, Donal's crew has standing orders to shoot Wax and Lessie on sight. [[Bloody Tan]] stole a shipment of [[bendalloy]] from Donal, who put a price on Tan's head and sent his crew to hunt him down. Coincidentally, Donal's men, Wax, and Lessie, all tracked Tan to [[Feltrel]] on the same day. Wax was tempted to let Donal's crew and Tan have it out, but decided against it.
 
 ## Donal's Gang
-There are multiple members of Donal's gang, but the two most important are indubitably Donal's brother and son.{{book ref|mb4|prologue}} Donal seems to care for his son, but he disliked his brother that Wax killed. However, he cared enough to put a kill order out on Wax and Lessie in retaliation, potentially as a matter of pride.
+There are multiple members of Donal's gang, but the two most important are indubitably Donal's brother and son. Donal seems to care for his son, but he disliked his brother that Wax killed. However, he cared enough to put a kill order out on Wax and Lessie in retaliation, potentially as a matter of pride.
 
-Donal's biggest priority when running his gang is avoiding losing money.{{book ref|mb4|prologue}}
+Donal's biggest priority when running his gang is avoiding losing money.
 
-Donal's men appear to carry some sort of red, drop-shaped, pieces of glass.{{book ref|mb4|prologue}} They may make use of unconventional weapons, such as bows with stone arrowheads, to deal with [[Allomancer]]s.
+Donal's men appear to carry some sort of red, drop-shaped, pieces of glass. They may make use of unconventional weapons, such as bows with stone arrowheads, to deal with [[Allomancer]]s.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:06, 11 September 2018 (MST)}}
-{{Mistborn|Era 2}}

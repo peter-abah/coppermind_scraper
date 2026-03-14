@@ -1,11 +1,13 @@
 ---
-universe: "Reckoners Multiverse"
-books: "The Reckoners"
+source_file: Earth (Reckoners).txt
+entity_type: location
+universe: '[[Reckoners Multiverse]]'
+books: '[[The Reckoners]]'
 ---
 
 The setting of [[The Reckoners]] series is a twenty-first century alternate [[Wikipedia: Earth|Earth]]. Visible in the sky is a large red object called [[Calamity (Epic)|Calamity]] (a high-powered Gifting Epic), which appeared twelve years before the events of Steelheart. One year after the emergence of Calamity, the [[Epic]]s, super-powered humans, appeared.
 
-At the start of *[[Steelheart]]*, the High Epics, with their prime invincibility and incredible superpowers, are the de-facto rulers of humanity.{{book ref|Steelheart|1}}
+At the start of *[[Steelheart]]*, the High Epics, with their prime invincibility and incredible superpowers, are the de-facto rulers of humanity.
 
 It is a Core Possibility in the [[Reckoners Multiverse]].
 
@@ -20,7 +22,6 @@ It is a Core Possibility in the [[Reckoners Multiverse]].
 
 ## Notes
 <references />
-{{stub}}
-{{Reckoners}}
+
 [[Category: Earth (Reckoners)| ]]
 [[category: list articles]]

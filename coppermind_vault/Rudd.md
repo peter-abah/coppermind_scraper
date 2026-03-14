@@ -1,14 +1,14 @@
 ---
-world: "Scadrial"
-universe: "Cosmere"
-introduced: "Mistborn: The Final Empire"
+source_file: Rudd.txt
+entity_type: character
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[Mistborn: The Final Empire]]'
 ---
 
-**Rudd** is a guard at one of [[Kelsier]]'s recruitment meetings.{{book ref|mb1|10}}
+**Rudd** is a guard at one of [[Kelsier]]'s recruitment meetings.
 
-He is used by [[Breeze]] to coordinate the emotional [[Allomancer]]s in the crowd, using servers in different colored outfits.{{book ref|mb1|10}}
+He is used by [[Breeze]] to coordinate the emotional [[Allomancer]]s in the crowd, using servers in different colored outfits.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 20:22, 25 December 2016 (MST)}}
-{{Mistborn|Era 1}}

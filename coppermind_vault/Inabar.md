@@ -1,18 +1,17 @@
 ---
-died: "Raboniel's invasion of Urithiru"
-profession: "{{tag+|artifabrian"
+source_file: Inabar.txt
+entity_type: character
+died: '[[Raboniel]]''s invasion of [[Urithiru]]'
+profession: artifabrian
+residence: Urithiru
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|residence=Urithiru
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Inabar** is an [[artifabrian]] on [[Roshar]].{{book ref|sa4|46}}
+**Inabar** is an [[artifabrian]] on [[Roshar]].
 
-She worked at [[Urithiru]] under [[Navani Kholin]]'s direction, but was in the room with the [[Sibling]]'s pillar when [[Raboniel]]'s forces invaded the tower and was killed.{{book ref|sa4|46}}
+She worked at [[Urithiru]] under [[Navani Kholin]]'s direction, but was in the room with the [[Sibling]]'s pillar when [[Raboniel]]'s forces invaded the tower and was killed.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 17:20, 29 May 2022 (UTC)}}
-{{stormlight}}

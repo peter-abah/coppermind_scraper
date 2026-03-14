@@ -1,3 +1,8 @@
+---
+source_file: Oathbringer (Shardblade)Gallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery caption="Official artwork" mode="packed" heights=250px>
 A Man's Worth by Randy Vargas.jpg | <center><small>by {{a|Randy Vargas}}</small></center> In [[Dalinar]]'s hand, *[[Call to Adventure: The Stormlight Archive]]*

@@ -1,14 +1,11 @@
 ---
-type: "{{cat tag|Spacecraft"
+source_file: Gaualako-An.txt
+entity_type: item
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-{{update|book=Starsight}}
-**Gaualako-An** is the flagship of the [[kitsen]] Captain [[Hesho]]. Its name, roughly translated, means "Big Enough to Kill You."{{book ref|sky2|15}}
+**Gaualako-An** is the flagship of the [[kitsen]] Captain [[Hesho]]. Its name, roughly translated, means "Big Enough to Kill You."
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

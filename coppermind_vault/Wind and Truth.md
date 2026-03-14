@@ -1,17 +1,19 @@
-{{book
-|cover=WaT US Cover.jpg
-|series=[[The Stormlight Archive]]
-|prequel=Rhythm of War
-|setting=[[Roshar]], [[Cosmere]]
-|publisher=Tor Books
-|released=December 6th, 2024{{tor ref|brandon-sandersons-fifth-stormlight-archive-book-gets-publishing-date|Brandon Sanderson's Fifth Stormlight Archive Book Gets Publishing Date|date=2023-12-18|name=release-date}}
-|ISBN=978-1-250-31918-0
-|subpages=n
-|page-count=1,330
-|word-count=[[/Statistical_analysis|487,746]]
-}}
-***Wind and Truth*** is the fifth book of *[[The Stormlight Archive]]*,{{sots ref|2023}} the ending to the front half of the series.{{wob ref|3714}} It was released on December 6th, 2024, coinciding with the 2024 [[Dragonsteel Entertainment|Dragonsteel]] convention.{{wob ref|16050}}{{ref|name=release-date}} The book was previously known as *Knights of Wind and Truth*.{{wob ref|16038}} The titles of the first arc of the series thus parallels the [[Ketek]] structure (**TWoK,WoR,O,RoW,KoW**(a)**T**), but is not a true Ketek.
+---
+source_file: Wind and Truth.txt
+entity_type: book
+cover: WaT US Cover.jpg
+series: '[[The Stormlight Archive]]'
+prequel: Rhythm of War
+setting: '[[Roshar]], [[Cosmere]]'
+publisher: Tor Books
+released: December 6th, 2024
+isbn: 978-1-250-31918-0
+subpages: n
+page-count: 1,330
+word-count: '[[/Statistical_analysis|487,746]]'
+---
 
+***Wind and Truth*** is the fifth book of *[[The Stormlight Archive]]*, the ending to the front half of the series. It was released on December 6th, 2024, coinciding with the 2024 [[Dragonsteel Entertainment|Dragonsteel]] convention. The book was previously known as *Knights of Wind and Truth*. The titles of the first arc of the series thus parallels the [[Ketek]] structure (**TWoK,WoR,O,RoW,KoW**(a)**T**), but is not a true Ketek.
 
 ## Synopsis
 *As the end arrives, I wonder if we should have done more.*
@@ -27,23 +29,22 @@
 *For the power of Honor . . . has begun to question.*
 
 ## Blurb
-{{quote|
-[[Dalinar Kholin]] challenged the evil god [[Odium]] to a contest of champions with the future of [[Roshar]] on the line. The [[Knights Radiant]] have only ten days to prepare―and the sudden ascension of the crafty and ruthless [[Taravangian]] to take Odium’s place has thrown everything into disarray.
+
+> [[Dalinar Kholin]] challenged the evil god [[Odium]] to a contest of champions with the future of [[Roshar]] on the line. The [[Knights Radiant]] have only ten days to prepare―and the sudden ascension of the crafty and ruthless [[Taravangian]] to take Odium’s place has thrown everything into disarray.
 
 Desperate fighting continues simultaneously worldwide―[[Adolin]] in [[Azimir]], [[Sigzil]] and [[Venli]] at the [[Shattered Plains]], and [[Jasnah]] at [[Thaylen City]]. The former assassin, [[Szeth]], must cleanse his homeland of [[Shinovar]] from the dark influence of the [[Unmade]]. He is accompanied by [[Kaladin]], who faces a new battle helping Szeth fight his own demons . . . and who must do the same for the insane [[Herald|Herald of the Almighty]], [[Ishar]].
 
 At the same time, [[Shallan]], [[Renarin]], and [[Rlain]] work to unravel the mystery behind the Unmade [[Ba-Ado-Mishram]] and her involvement in the enslavement of the singer race and in the ancient Knights Radiants killing their [[spren]]. And Dalinar and [[Navani]] seek an edge against Odium’s champion that can be found only in the [[Spiritual Realm]], where memory and possibility combine in chaos. The fate of the entire Cosmere hangs in the balance.
-|Macmillan pre-order page{{url ref|url=https://read.macmillan.com/torforge/the-stormlight-archive/|text=*Wind and Truth* pre-order page|date=2024-07-24|site=Macmillan}}
-}}
+> — Macmillan pre-order page
 
 ## Summary
-{{for|/Summary|a chapter by chapter summary}}
+
 <!--{{for|/Chapter index|an index of chapter breaks in various editions}}-->
 
 ## Development
-The [https://www.reddit.com/r/Stormlight_Archive/comments/x7h8vo/stormlight_five_update_one/ first progress update] was published on Reddit on September 6th, 2022, when the first draft was about 15% complete. The [https://www.reddit.com/r/Stormlight_Archive/comments/11qnpnm/stormlight_five_update_2/ second progress update] was published on Reddit on March 13th, 2023, when the first draft was roughly 33% complete. The first draft was finished sometime between December 21 and 26, 2023 and the second and third drafts have been completed. This was made easier because Brandon made revisions while working on the first draft.{{url ref|url=https://www.youtube.com/watch?v=CU9UjiywCFA|text=Stormlight 5 Finished! + Weekly Update|site=Brandon's YouTube channel|date=2023-12-26}} According to [https://www.brandonsanderson.com Brandon's website], the fourth and last revision was completed as of June 4 2024.
+The [https://www.reddit.com/r/Stormlight_Archive/comments/x7h8vo/stormlight_five_update_one/ first progress update] was published on Reddit on September 6th, 2022, when the first draft was about 15% complete. The [https://www.reddit.com/r/Stormlight_Archive/comments/11qnpnm/stormlight_five_update_2/ second progress update] was published on Reddit on March 13th, 2023, when the first draft was roughly 33% complete. The first draft was finished sometime between December 21 and 26, 2023 and the second and third drafts have been completed. This was made easier because Brandon made revisions while working on the first draft. According to [https://www.brandonsanderson.com Brandon's website], the fourth and last revision was completed as of June 4 2024.
 
-[[Peter Ahlstrom]] reported on July 25, 2024 that when the final draft of *Wind and Truth* was given to Tor it was 491k words and 1364 pages, but they managed to get it down to 1344 pages by moving illustrations around and 'squeezing' some chapters with only few lines on their last page.{{wob ref|16643}}
+[[Peter Ahlstrom]] reported on July 25, 2024 that when the final draft of *Wind and Truth* was given to Tor it was 491k words and 1364 pages, but they managed to get it down to 1344 pages by moving illustrations around and 'squeezing' some chapters with only few lines on their last page.
 
 ### Pre-Publication Content
 * In March 2022, Brandon did a reading of the first draft of the prologue on his YouTube channel. It can be read and listened to [[wob:15580|here on Arcanum]].
@@ -55,12 +56,12 @@ The [https://www.reddit.com/r/Stormlight_Archive/comments/x7h8vo/stormlight_five
 * During Dragonsteel 2023, Brandon did a reading of an interlude, which can be read [[wob:16257|here on Arcanum]].
 * At C2E2 in 2024, Brandon did a reading of the first two Shallan chapters, which can be read [[wob:16576|here on Arcanum]].
 * At FanX in 2024, Brandon did a reading of an interlude, which can be read [[wob:16656|here on Arcanum]]
-* Dalinar will play a larger role than in *Rhythm of War*.{{wob ref|11262}}{{wob ref|15122}}
-* Szeth will be the focus character.{{wob ref|11994}}{{wob ref|9119}}{{wob ref|11620}}{{wob ref|8680}}
-* More of Roshar's queer characters will be canonized in the book,{{wob ref|14472}} including Renarin{{wob ref|14549}}{{wob ref|14647}}{{wob ref|15274}} and Rlain.{{wob ref|14549}}{{wob ref|14647}}{{wob ref|14751}}
-* The planned ending was based upon the ending he planned out for an RPG in 1999, and has been in the outline from the start. Brandon hopes that it will land right with people and recontextualize many important moments in the series.{{wob ref|15963}}
-* The Intent of the last shard will be revealed in the book.{{wob ref|16590}}
-* The old Vorin philosophy of body focus will be relevant for a small thing happening in this book.{{wob ref|14636}}
+* Dalinar will play a larger role than in *Rhythm of War*.
+* Szeth will be the focus character.
+* More of Roshar's queer characters will be canonized in the book, including Renarin and Rlain.
+* The planned ending was based upon the ending he planned out for an RPG in 1999, and has been in the outline from the start. Brandon hopes that it will land right with people and recontextualize many important moments in the series.
+* The Intent of the last shard will be revealed in the book.
+* The old Vorin philosophy of body focus will be relevant for a small thing happening in this book.
 
 ### Concept art
 A couple of pieces of concept art were commissioned by Dragonsteel for the book.
@@ -71,10 +72,8 @@ SA5 Concept Art by Petar Penev.jpg | by {{a|Petar Penev}}
 </gallery>
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Wind and Truth}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## See Also
 * [[Wind and Truth/Epigraphs]]
@@ -83,11 +82,11 @@ SA5 Concept Art by Petar Penev.jpg | by {{a|Petar Penev}}
 * [[Wind and Truth/Interior art]]
 
 ## Trivia
-* It was originally referred to as *Stones Unhallowed*, before being changed to *Knights of Wind and Truth*, before finally being changed to *Wind and Truth*, which stands as the official name.{{wob ref|16038}}
+* It was originally referred to as *Stones Unhallowed*, before being changed to *Knights of Wind and Truth*, before finally being changed to *Wind and Truth*, which stands as the official name.
 * This is the first Stormlight Archive volume to lack an [[Ars Arcanum]]; this is for practical reasons, as there were physical limits to the size of book that had to be published.
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Wind and Truth* consists of one prologue, one hundred and forty-seven chapters, twenty of which are reserved for flashbacks of Szeth, eighteen interludes, one epilogue, and one postlude, reaching a total word count of 487,746. There are thirty-three different unique point-of-view characters in a total of 341 POVs.
 
 {|class="wikitable"
@@ -115,8 +114,6 @@ SA5 Concept Art by Petar Penev.jpg | by {{a|Petar Penev}}
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Stormlight}}
-{{books}}
+
 [[es:Viento y verdad]]
 [[uk:Вітер та істина]]

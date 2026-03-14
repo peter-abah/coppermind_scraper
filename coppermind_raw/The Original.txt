@@ -1,0 +1,38 @@
+{{book
+|cover=Original US cover.jpg
+|released=September 14, 2020 (audio){{url ref|name=RB|url=https://www.recordedbooks.com/title-details/9781980062738|text=The Original|site=Recorded Books}}<br>April 15, 2025 (prose){{url ref|name=dragonsteel|url=https://www.dragonsteelbooks.com/products/the-original-ebook|text=The Original|site=Dragonsteel Books}}
+|collaborators=[[Wikipedia: Mary Robinette Kowal|Mary Robinette Kowal]], [[Wikipedia: Julia Whelan|Julia Whelan]]
+|publisher=Recorded Books
+|ISBN=9781980062738
+}}
+'''''The Original''''' is an audio original sci-fi story co-written by [[Brandon Sanderson]] and [[wikipedia: Mary Robinette Kowal|Mary Robinette Kowal]], two of the hosts of the ''[[Writing Excuses]]'' podcast.{{wob ref|13545}} It is performed by [[wikipedia: Julia Whelan|Julia Whelan]].{{bws ref|cover-reveal-for-the-original|Cover reveal for ''The Original''|date=2020-09-04}}
+
+A novella-length [[Special:BookSources/9781938570360|prose version]] of the story was published by [[Dragonsteel Entertainment]] in April 2025.<ref name=dragonsteel/>{{wob ref|16784}}
+
+== Synopsis ==
+''In the near future, humans choose life - for a price. Injectable nanite technology is the lifeblood that flows through every individual wishing to experience the world through the lens of their own theme. While death from mortal wounds is still possible, life is made easier in a socially liberated society where automation and income equality allow passion pursuits to flourish over traditional work. [[Renewal station|Renewal stations]] are provided to every law-abiding citizen for weekly check-ins, which issue life-sustaining repairs in exchange for personal privacy. But what becomes of those who check out, of those who dare to resist immortality and risk being edited under the gaze of an identity-extracting government surveillance system?''
+
+''When [[Holly Winseed (Provisional Replica)|Holly Winseed]] wakes up in a hospital room, her memory compromised and a new identity imposed on her, a team of government agents wastes no time stating their objective. With intent to infiltrate and defeat the terrorist group [[ICON]], the agents tell Holly that she is now a [[Provisional Replica]] and has one week to hunt down and kill her [[Holly Winseed (Original)|Original]] for the murder of her husband, [[Jonathan Gentry|Jonathan]]. If she succeeds, she’ll assume her Original’s place in society. If she fails, her life will end. Holly’s progress is monitored by an assigned contact that feeds her information as she confronts the blank, robotic world around her, discovering that others view life through the theme of their own choosing.''
+
+''With her newly implanted combat and deduction skills, Holly fends off both attacks by terrorists and doubts about her own trustworthiness as clues lead her to her Original - and to the truth about Jonathan. In the end, one body remains and one walks away. Although questions persist, one thing is certain: Life will never be the same.''{{url ref|url=https://www.amazon.com/The-Original/dp/B08CGGJ376|text=Amazon Blurb|site=Amazon|date=2020-09-03}}
+
+== Summary ==
+{{for|/Summary|a chapter by chapter summary}}
+The story is about a world in which the government creates clones of criminals to track the criminal down. If successful, the clone is promised the chance to take the Original's place in life. The clones also have controls in place to kill them at the press of a button.{{wob ref|12481}}
+
+== Development ==
+Brandon completed the outline in about a week in May 2018 and revisited it later in the year.{{wob ref|12476}}{{wob ref|12481}} He decided the story might work as an audio original and decided to bring in a coauthor, although he did not initially reveal who it was.{{wob ref|12481}}{{wob ref|12461}} Writing happened throughout 2019. Brandon became concerned after learning that the Will Smith film ''[[wikipedia:Gemini Man (film)|Gemini Man]]'' had a premise very similar to that of ''The Original''; he hoped to publish the story before the release of the film in fall 2019, but that proved unfeasible.{{wob ref|13545}} Recording of the audio had begun by December 2019.{{wob ref|13545}} By mid-2020, the publisher had decided to delay the release to later in the year, for reasons unknown to Brandon.{{wob ref|13809}}
+
+The reception of the audio format of ''The Original'' may influence whether Brandon would use a similar format for future ''[[Legion (series)|Legion]]'' or ''[[The Reckoners]]'' stories.{{wob ref|13546}}
+
+For several years, Brandon talked about releasing a prose version of the story, but he and Mary felt that it needed some adjustments to work without narration.{{wob ref|14271}}{{wob ref|16040}} It was ultimately published as an ebook in 2025.{{wob ref|16784}}
+
+== Cover Gallery ==
+{{for|/Covers|a cover gallery of The Original}}
+
+== Notes ==
+<References /> 
+{{meta/partial}}
+{{The Original}}
+{{books}}
+[[Category: The Original| ]]

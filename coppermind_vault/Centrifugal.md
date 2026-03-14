@@ -1,11 +1,12 @@
-{{book
-|released=April 1st, 1994 (submitted to a contest)
-|word-count=2068
-}}
-{{quote
-|I have posted the story here unedited, exactly as I sent it to the judges at the convention. I actually took first place in the student division of the contest. That awards ceremony, held in a sparsely-attended hotel conference room, was one of the proudest moments of my youth. It was one of the first times I can remember thinking “Wow. Maybe I CAN do this!”
-|[[Brandon Sanderson]]{{bws ref|Centrifugal|Centrifugal|date=April 1st, 1994}}
-}}
+---
+source_file: Centrifugal.txt
+entity_type: book
+released: April 1st, 1994 (submitted to a contest)
+word-count: '2068'
+---
+
+> I have posted the story here unedited, exactly as I sent it to the judges at the convention. I actually took first place in the student division of the contest. That awards ceremony, held in a sparsely-attended hotel conference room, was one of the proudest moments of my youth. It was one of the first times I can remember thinking “Wow. Maybe I CAN do this!”
+> — [[Brandon Sanderson]]
 
 **Centrifugal** Is a short story that [[Brandon]] wrote for a contest when he was a senior in high school. It is available for free on his [[bws:Centrifugal|website]].
 
@@ -20,5 +21,3 @@ Alistes fools the DNA scan, giving him access to a diamond that focus energy fro
 
 ## Notes
 <references/>
-{{meta/partial}}
-{{books}}

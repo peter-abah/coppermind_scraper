@@ -1,0 +1,26 @@
+{{character
+|image=Mizzy by Cerena Felt.jpg
+|born= ~17 years before ''[[Steelheart]]''{{book ref|Firefight|9}}
+|aliases=Mizzy
+|groups={{tag|Reckoners}}
+|residence=Babilar
+|earth=Reckoners
+|introduced=[[Firefight]]
+}}{{update|book=Calamity}}
+'''Missouri Williams''', known as '''Mizzy''', is a member of the [[Reckoners]].
+
+She is based with [[Valentine]] and [[Exel]] in [[Babilar]].{{book ref|Firefight|9}} She is dark-skinned and slight of build, and wears her hair back in a way that [[David]] describes as an Afro mushroom cloud.{{book ref|Calamity|9}} Mizzy has a bubbly and optimistic view on life, and is very trusting, but still desperately wants to kill [[Megan Tarash|Megan]], who had previously killed [[Sam (Reckoner)|Sam]], Mizzy's mentor.{{book ref|Firefight|20}} However, David helps her focus this thirst for vengeance towards [[Calamity (Epic) |Calamity]], the true source of the problem.{{book ref|Calamity|11}} Mizzy is the sniper for her team, and has experience with explosives, equipment, and repairs, but wants to be point.{{book ref|Firefight|9}}{{book ref|Firefight|15}} It is stated by Megan and David that after Calamity is defeated, Mizzy becomes an [[Epic]], although they are not certain how she will take to being one.{{book ref|calamity|epilogue}}
+
+{{image|Mizzy_portrait.png|side=left|width=250px}}
+== Quotes ==
+{{quote
+|As Mizzy scuttled toward us, she tried to duck under the front of a half-assembled jeep that was up on risers. However, the rifle over her shoulder stuck up too high, and it clanged against the front of the jeep, pushing her backward. She gasped, grabbing the jeep as if to steady it--though it hadn't budged. Then she patted it as if in apology.
+
+She was maybe seventeen years old or so, and had a cute face with round features and creamy brown skin. ''She smiles too wide to be a refugee,'' I thought as she ran over and saluted Prof. ''Where has she been living that hasn't beaten that bubbly nature out of her?'' I wondered.
+| {{book link|Firefight|9}}
+}}
+
+== Notes ==
+<references /><!-- Firefight: 9-20, 23, 24, 26, 27, 30-35, 39, 42-48, 50, Epilogue -->
+{{partial}}
+{{Reckoners}}

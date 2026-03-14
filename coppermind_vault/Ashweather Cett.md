@@ -1,45 +1,45 @@
 ---
-family: "House Cett"
-spouse: "Allrianne's mother"
-children: "Allrianne Cett|Allrianne, Gneorndin Cett|Gneorndin"
-descendants: "Edwarn, Waxillium, Telsin, Hinston, Aving Cett|Aving, Westweather Cett|Westweather, Maxillium Ladrian|Maxillium, Tindwyl Ladrian|Tindwyl"
-titles: "King of the Western Dominance"
-groups: "{{tag+|army|Venture"
+source_file: Ashweather Cett.txt
+entity_type: character
+family: '[[House Cett]]'
+spouse: '[[Allrianne''s mother]]'
+children: '[[Allrianne Cett|Allrianne]], [[Gneorndin Cett|Gneorndin]]'
+descendants: '[[Edwarn]], [[Waxillium]], [[Telsin]], [[Hinston]], [[Aving Cett|Aving]],
+  [[Westweather Cett|Westweather]], [[Maxillium Ladrian|Maxillium]], [[Tindwyl Ladrian|Tindwyl]]'
+titles: King of the [[Western Dominance]]
+groups: army, Originators
+'''birthplace': '[[Western Dominance]]'
+residence: Fadrex City
+ethnicity: Noble
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Well of Ascension]]'
 ---
 
-, {{tag|Originators}}
-|'birthplace=[[Western Dominance]]
-|residence=Fadrex City
-|ethnicity=Noble
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[The Well of Ascension]]
-}}
-**Ashweather Cett** is a nobleman from [[Fadrex City]] during the [[Final Empire]].{{book ref|mb2|32}}
+**Ashweather Cett** is a nobleman from [[Fadrex City]] during the [[Final Empire]].
 
 ## Appearance and Personality
-Cett is abrasive and takes delight in being purposefully rude. He also tends to use this to throw guests off balance, allowing him to have more control over the situation; when he meets with [[Elend Venture]], Cett deliberately serves messy food to make Elend uncomfortable.{{book ref|mb2|35}}
+Cett is abrasive and takes delight in being purposefully rude. He also tends to use this to throw guests off balance, allowing him to have more control over the situation; when he meets with [[Elend Venture]], Cett deliberately serves messy food to make Elend uncomfortable.
 
 ## History
-After the [[Lord Ruler]]'s death and the [[Collapse]], he quickly took control of the [[Western Dominance]] but was unable to keep control of [[Fadrex City]].{{book ref|mb2|3}}{{book ref|mb2|43}} Cett ended up in a struggle for power with [[Aradan Yomen]], an [[Obligator]] in the city. At some point Cett lost two thousand soldiers in a battle against five hundred [[koloss]]. After one year it began to become clear that Yomen would be the one to take control. Cett blamed his disadvantage on a lack of Allomancers (he only had nine). He was manipulated by [[Breeze]], who convinced him that the Lord Ruler's [[atium cache]] was in Luthadel and that he could use the atium to buy Allomancers. He decided to lay siege on [[Luthadel]] with an army of forty thousand soldiers to take the Central Dominance and the atium from [[Elend Venture]].{{book ref|mb2|50}}. Before his army arrived he sent four Pewterarms, a Smoker, a Lurcher, a Coinshot, and a Mistborn with atium to kill Vin. The assassins failed and were killed, but made Vin use up her last atium.  
+After the [[Lord Ruler]]'s death and the [[Collapse]], he quickly took control of the [[Western Dominance]] but was unable to keep control of [[Fadrex City]]. Cett ended up in a struggle for power with [[Aradan Yomen]], an [[Obligator]] in the city. At some point Cett lost two thousand soldiers in a battle against five hundred [[koloss]]. After one year it began to become clear that Yomen would be the one to take control. Cett blamed his disadvantage on a lack of Allomancers (he only had nine). He was manipulated by [[Breeze]], who convinced him that the Lord Ruler's [[atium cache]] was in Luthadel and that he could use the atium to buy Allomancers. He decided to lay siege on [[Luthadel]] with an army of forty thousand soldiers to take the Central Dominance and the atium from [[Elend Venture]].. Before his army arrived he sent four Pewterarms, a Smoker, a Lurcher, a Coinshot, and a Mistborn with atium to kill Vin. The assassins failed and were killed, but made Vin use up her last atium.  
 
-In the [[Siege of Luthadel]], Cett's army was outnumbered by [[Straff Venture]]'s forces of fifty thousand. Realizing this, he secretly entered Luthadel and presented himself to [[Elend Venture]] at a [[Luthadel Assembly]] meeting, proposing that his troops enter the city and the pair ally against Straff.{{book ref|mb2|35}} However, when Elend was attacked by Mistings, [[Vin]] believed them to be agents of Cett after recognizing one Thug supposedly as a servant of his.{{book ref|mb2|38}} Vin and [[Zane Venture]] then entered [[Keep Hasting]], killing Cett's soldiers and almost killing Cett himself--Vin suspected him to be a Mistborn, although he was not.{{book ref|mb2|43}} Cett then left the city with his troops.{{book ref|mb2|44}}
+In the [[Siege of Luthadel]], Cett's army was outnumbered by [[Straff Venture]]'s forces of fifty thousand. Realizing this, he secretly entered Luthadel and presented himself to [[Elend Venture]] at a [[Luthadel Assembly]] meeting, proposing that his troops enter the city and the pair ally against Straff. However, when Elend was attacked by Mistings, [[Vin]] believed them to be agents of Cett after recognizing one Thug supposedly as a servant of his. Vin and [[Zane Venture]] then entered [[Keep Hasting]], killing Cett's soldiers and almost killing Cett himself--Vin suspected him to be a Mistborn, although he was not. Cett then left the city with his troops.
 
-After the siege, Vin forced Cett to pledge allegiance to Elend, and Cett became a general in the new emperor's army.{{book ref|mb2|55}} He took part in the [[Siege of Fadrex City]].{{book ref|mb3|25}}
+After the siege, Vin forced Cett to pledge allegiance to Elend, and Cett became a general in the new emperor's army. He took part in the [[Siege of Fadrex City]].
 
 During the siege he was glad to see that [[Elend]] had finally agreed to take back his own capital from Yomen. He helped to direct and manage the army. According to [[Elend]], if something should happen to him, Cett would be third in line to take command of his empire, after [[Vin]] and [[Sazed]], respectively.
 
-During the planning of the siege, Cett put forward some of the more brutal but effective ideas, such as sending parts of the army out to attack undefended small villages in order to force Yomen to play his hand, as well as simply assassinating him and taking control. [[Elend]] also requested that he draft up a list of [[Noble|noblemen]] and informants inside the city who could possibly aid them with information or perhaps act as double-agents within the city.{{book ref|mb3|25}} He thus gave [[Vin]] information on how to find and contact [[Slowswift]] as well as [[Hoid]] inside the city.{{book ref|mb3|27}}
+During the planning of the siege, Cett put forward some of the more brutal but effective ideas, such as sending parts of the army out to attack undefended small villages in order to force Yomen to play his hand, as well as simply assassinating him and taking control. [[Elend]] also requested that he draft up a list of [[Noble|noblemen]] and informants inside the city who could possibly aid them with information or perhaps act as double-agents within the city. He thus gave [[Vin]] information on how to find and contact [[Slowswift]] as well as [[Hoid]] inside the city.
 
-During the battle against the [[koloss]] at [[Fadrex City]], Cett stayed behind the fighting and commanded tactics while [[Elend]] went out to help wherever his soldiers were having trouble with the koloss brutes.{{book ref|mb3|73}}
+During the battle against the [[koloss]] at [[Fadrex City]], Cett stayed behind the fighting and commanded tactics while [[Elend]] went out to help wherever his soldiers were having trouble with the koloss brutes.
 
-As part of the [[Catacendre|Final Ascension]], Sazed repaired all genetic defects and physical ailments in the people who were in the storage caches. This included Cett, giving him the ability to walk once more. He was so shocked that he spent quite some time walking around in the cavern, marveling.{{wob ref|5859}}
+As part of the [[Catacendre|Final Ascension]], Sazed repaired all genetic defects and physical ailments in the people who were in the storage caches. This included Cett, giving him the ability to walk once more. He was so shocked that he spent quite some time walking around in the cavern, marveling.
 
 ## Relationships
-He is the head of [[House Cett]] and sired both [[Allrianne Cett|Allrianne]] and [[Gneorndin Cett]].{{book ref|mb2|part=ars}}
+He is the head of [[House Cett]] and sired both [[Allrianne Cett|Allrianne]] and [[Gneorndin Cett]].
 
 ## Notes
 <references />
-{{partial}}
-{{Mistborn|Era 1}}
+
 [[Category: Viewpoint characters]]

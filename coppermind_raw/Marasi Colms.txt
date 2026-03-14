@@ -1,0 +1,94 @@
+{{character
+|image=Marasi Colms by Dan Watson.jpg
+|parents=[[Jackstom Harms]]
+|siblings=[[Steris Harms]]
+|relatives=[[Maxillium Ladrian|Maxillium]], [[Tindwyl Ladrian|Tindwyl]], [[Armal]]
+|ancestors=[[Spook]]{{book ref|mb4|7}}
+|born=c. {{date|318|PC}}{{book ref|mb5|2}}{{book ref|mb6|5}}
+|abilities={{tag+|pulser}}
+|profession={{cat tag|law enforcement|Constable}}
+|religion=[[Survivorism]]
+|residence=Elendel
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Alloy of Law]]
+}}
+{{update|mb7}}
+{{cite note}}
+{{quote
+|I have a theory that a gentlewoman should never need to resort to something so barbarous as violence to achieve her goals. Wouldn’t you agree? Yes indeed. A true gentlewoman uses the threat of violence instead. So much more civilized.
+|Marasi{{book ref|mb5|25}}
+}}
+'''Marasi Colms''' is a [[Pulser]]{{book ref|mb4|11}} on [[Scadrial]]. Marasi is a constable in the [[Elendel]] constabulary under Constable-General [[Reddi]].{{book ref|mb5|epilogue}} Marasi previously studied law and is a friend of [[Wax]], [[Wayne]], and [[MeLaan]], among other important cultural figures of the time. She is sometimes called '''Mara''' by Wayne.{{book ref|mb6|6}}
+
+== Appearance and Personality ==
+{{image|Marasi composite.png|side=left|height=250px}}
+{{quote
+|To be of use in even a single burst of flame and sound is worth more than a lifetime of achieving nothing.
+|Marasi{{book ref|mb4|14}}
+}}
+{{for|/Gallery|more images}}
+
+Marasi is intelligent and level-headed, but blushes deeply whenever anything remotely involving romance or sexuality is brought up.
+
+She chooses to study legal justice and criminal behavioristics due to her fascination with human morality. She believes that most people are generally good by inertia, as that is what society expects them to be. Thus she is intrigued by the people who stand out as much more or less moral than average without any clear motivation to be. She knows many facts and statistics about criminal behavior and often cites them during times of distress. When she is in shock from almost being kidnapped, she immediately mentions that "7 out of 10 kidnappings can be foiled by appropriate resistance on the part of the target."{{book ref|mb4|6}}
+
+In contrast to her level-headed approach toward danger, Marasi is easily embarrassed by romantic and sexual topics. In her anatomy class at university it was very common to watch her reactions when learning about the male body. She is embarrassed about studying criminal behavior in school as it is not considered very lady-like. Whenever Wayne jokes about her being attractive she stammers and does not properly reply.{{cite}}
+
+As she continues to follow Wax and Wayne, Marasi begins to have feelings for Wax.{{book ref|mb4|12}}{{book ref|mb4|15}} While she never openly admits them, Wax gently refuses her.{{book ref|mb4|20}} Wax eventually marries her sister, Steris, while Marasi herself gets over the romantic feelings for Wax.{{book ref|mb6|2}}
+
+== Attributes and Abilities ==
+Marasi is a Pulser, meaning that she has the ability to burn [[cadmium]] to slow time down in a bubble around herself. She considers this ability to be practically useless, although she admits to having used it to make anticipated events come faster. She is jealous of Wayne's Slider ability as it has far more practical applications than her own.{{book ref|mb4|11}} In the final confrontation with [[Miles Dagouter]], Marasi uses her Pulser ability to slow time down around herself and Miles, thus allowing a large group of constables to surround the place while Miles is fighting with Wax.{{book ref|mb4|19}}
+
+Marasi has also shown that she is a very good shot with a rifle and is part of the ladies' target club at her university.{{book ref|mb4|6}}
+
+She can speak some ancient [[Terris]] and understands [[High Imperial]].{{book ref|mb6|12}}
+
+== History ==
+{{image|Marasi by clarinking.jpg|side=left|width=300px}}
+=== Early Life ===
+{{quote
+|I have spent most of my life being politely told I was useless. Useless to my father because of my birth; useless as an Allomancer; useless to Steris, as I was an embarrassment.
+|Marasi{{book ref|mb4|14}}
+}}
+
+Marasi Colms was born as the illegitimate child of [[Jackstom Harms]], making her a half sister to [[Steris]].{{book ref|mb4|9}} Throughout her childhood, she was constantly reminded that she was useless to her family, useless as an heir due to her illegitimacy, and useless as an Allomancer due to the few uses for slowing down time.{{book ref|mb4|14}} As a result, she developed a strong desire to be important and accomplished in the world.{{book ref|mb4|4}}{{book ref|mb4|14}} Marasi also came to be fascinated by criminals and lawkeepers, based on an interest in how a person from a normal background could grow up to be so much more or less moral than the people around them, and was inspired by stories about Wax's exploits in the [[Roughs]].{{book ref|mb4|7}}{{book ref|mb4|9}} These two desires culminated in her deciding to study at a university in Elendel, so she moved to the city with the support of her father.{{book ref|mb4|4}} She, Steris, and Lord Harms hid her illegitimacy by pretending that she was Steris's cousin from the [[Outer Estates]].{{book ref|mb4|2}}{{book ref|mb4|4}}
+
+She received a broad education at the university, including anatomy and medicine, before choosing to major in legal justice and criminal behavioristics, with a specialty in mob dynamics.{{book ref|mb4|4}}{{book ref|mb4|13}}{{book ref|mb5|24}} During her studies, she learned much more about Wax and Wayne based on the many stories and reports about them and the criminals they had brought in.{{book ref|mb4|4}}{{book ref|mb4|7}}{{book ref|mb4|9}} She also joined the ladies' target club at the university and became skilled at shooting rifles, feeling that was the closest she could get to having a more useful Allomantic ability.{{book ref|mb4|6}}{{book ref|mb6|13}}
+
+{{image|A Powerful Curiosity by Ashley Coad.png|side=right|width=400px|Meeting Ironeyes}}
+=== The Vanishers ===
+During Marasi's final year at the university, Wax and Wayne returned to Elendel so that Wax could take his place as the high lord of House Ladrian.{{book ref|mb4|4}} She convinced her father to let her accompany him and Steris to discuss a possible marriage between Steris and Wax.{{book ref|mb4|10}} Along with Wax, Wayne, Steris, and her father, she attended the [[Yomen-Ostlin wedding dinner]], where she eagerly asked Wax and Wayne about their time in the Roughs and impressed them with her insights. Unfortunately, the [[Vanishers]] attacked the party and kidnapped Steris;{{book ref|mb4|5}} they also attempted to kidnap Marasi, but she resisted, giving Wax a chance to help rescue her, and she returned the favor by shooting two Vanishers with a rifle when they were threatening Wax.{{book ref|mb4|6}}
+
+Marasi assisted Wax during his initial investigation of the Vanishers, helping him realize the true reason for the specific women they were abducting,{{book ref|mb4|7}}{{book ref|mb4|9}} and continued to stay with him and Wayne as they tracked down the group.{{book ref|mb4|10}}{{book ref|mb4|12}}{{book ref|mb4|14}}{{book ref|mb4|16}} She was present at the final confrontation in the Vanisher hideout, where she used her rifle to good effect again during the fight. She was briefly captured by Miles, but Wax got her free.{{book ref|mb4|18}} Her ability as a Pulser was critical in ultimately capturing Miles: she kept all of them in a slowness bubble while Wax distracted him, giving Wayne time to go out and return with a large force of constables.{{book ref|mb4|19}} After the fight, she very nearly expressed the romantic feelings she had been developing for Wax, who saw where she was going and gently turned her down for both of their sakes.{{book ref|mb4|20}} She chose to attend Miles's execution, gruesome though it was; after it was done, she was pulled aside by [[Marsh]], who gave her [[Spook]]'s book on [[Hemalurgy]] and an instruction to deliver it to Wax.{{book ref|mb4|epilogue}}
+
+Afterwards, she became a constable serving under Constable-General [[Claude Aradel]] as a crime analyst.{{book ref|mb5|4}} After Aradel was elected governor of [[Elendel]] {{book ref|mb5|epilogue}}, Constable-General [[Reddi]], whom Marasi was not on good terms with, finally stopped being bitter toward her and accepted her as a constable in her own right.{{book ref|mb6|epilogue}}
+
+{{image|Marasi zoethatcher.jpg|side=left|width=300px}}
+
+=== The Bands of Mourning ===
+Following the wedding of her sister to Waxillium, Marasi accepted a mission from the [[kandra]] [[VenDell]] on behalf of [[Harmony]] to go to [[New Seran]] to recover the missing spike of the kandra [[ReLuur]] who had returned from a research mission in the area after losing the spike in suspicious circumstances. VenDell also tasked Marasi to look for the [[Bands of Mourning]], which ReLuur had been investigating.{{book ref|mb6|2}}{{book ref|mb6|3}} Marasi traveled to New Seran with Waxillium, Steris, Wayne and MeLaan. Enroute the [[Nightstreet Gang]] attacked the train the group was traveling on and Marasi participated in the battle that followed. Using Allomancy and her skills with a rifle she was instrumental in saving the lives of passengers on the train and Waxillium.{{book ref|mb6|7}}{{book ref|mb6|8}} Upon arriving in New Seran, she and Wayne investigated the whereabouts of ReLuur's spike.{{book ref|mb6|11}} The information they gleaned led them, along with Wax and Steris, to the Set's base in [[Dulsing]].{{book ref|mb6|15}} During the raid on the base, Marasi and MeLaan broke into [[Irich|Professor Irich's]] study and recovered ReLuur's spike as well as several medallions from a safe. Marasi also discovered [[Allik Neverfar]] being held hostage in a cage in an adjacent room.{{book ref|mb6|18}} Against MeLaan's advice, Marasi freed Allik and the three of them joined the battle in the main room around the crashed [[Southern Scadrian]] airship ''[[Brunstell]]''.{{book ref|mb6|19}} Marasi fought using the Allomantic grenade, but was shot in the abdomen in the fight. Marasi and the others took refuge inside of the wrecked ''Brunstell'' and Marasi convinced the others to follow Allik to ''[[Wilg]]''.{{book ref|mb6|20}} As the group was escaping aboard ''Wilg'', MeLaan performed surgery on Marasi using her kandra abilities. Due to a miscommunication, Marasi thought she was dying during this exchange. After recovering Steris, who had not participated in the raid, the group set off for the [[Sovereign's temple]]. During the journey, Marasi spoke with Allik about his people and their technology. {{book ref|mb6|21}}{{book ref|mb6|22}}
+Upon arriving at the Temple Marasi kept guard at the entrance with Wayne and Steris while the others dealt with the traps.{{book ref|mb6|23}} During this time she had a good conversation with Steris.{{book ref|mb6|24}} After Mister Suit and the Set arrived, she and the others entered the chamber where the Bands of Mourning supposedly were.{{book ref|mb6|25}} Marasi was captured when Telsin and Suit attacked the group.{{book ref|mb6|26}} As she sat outside the temple some time later as a captive of the Set, she realized that the spear point in her purse was actually the Bands of Mourning. Marasi tapped the immense power of the Bands and used them to free herself, attack the guards, and locate and revive Waxillium beneath the temple.{{book ref|mb6|28}} She then gave Wax the Bands and returned to Elendel with the others.{{book ref|mb6|31}}
+
+== Relationships ==
+=== Waxillium Ladrian ===
+While studying in university, she reads many of the stories surrounding Wax and Wayne, and comes to look up to them as almost legendary heroes.{{book ref|mb4|4}} After meeting the pair in person, she is starstruck and becomes eager to prove herself to Wax and find out as much as she can about the real events behind all the stories, though she has many of her idealistic impressions destroyed along the way.{{book ref|mb4|4}}{{book ref|mb4|7}} She impresses Wax in turn with her knowledge and ability to act cool under pressure.{{book ref|mb4|6}}{{book ref|mb4|7}} She develops a strong attraction to Wax;{{book ref|mb4|12}}{{book ref|mb4|15}} he grapples with feelings of his own for her, but he ultimately decides that his personal history and duty to his house mean that he must proceed with his marriage to Steris and distance himself from Marasi.{{book ref|mb4|20}}
+
+{{image|Steris and Marasi by Shuravf.jpg|side=right|width=300px|With [[Steris]]}}
+For a while afterward, Wax is somewhat dismissive of Marasi, thinking that she is still attracted to him and undervaluing her crime-fighting abilities, and she develops some resentment toward him as a result.{{book ref|mb5|3}}{{book ref|mb5|4}} That fades as they work together more,{{book ref|mb6|3}} and after Harmony himself chides Wax about it,{{book ref|mb5|7}} but she continues to feel overshadowed by him and his accomplishments.{{book ref|mb5|15}}{{book ref|mb6|6}}{{book ref|mb6|27}} Despite her often-complicated feelings regarding Wax, she remains able to respect him and work together well with him.
+
+=== Steris Harms ===
+Marasi is [[Steris Harms|Steris]]'s illegitimate half sister by Lord Harms.{{book ref|mb4|9}} Marasi and Steris are not particularly close, having grown up separately -- in fact, Steris doesn't even find out about Marasi until they are teenagers{{book ref|mb6|6}} -- but Marasi also doesn't feel any envy for Steris, despite the difference in their upbringings and social status.{{book ref|mb6|15}} Like many, she does sometimes find it difficult to resist the urge to provoke Steris into feeling uncomfortable, though she feels guilty after doing so.{{book ref|mb4|4}} While at the temple containing the Bands of Mourning, Steris briefly opens up to Marasi about her love for Wax, and they share an emotional moment, causing Marasi to deeply reevaluate how she thinks about Steris in particular and people in general.{{book ref|mb6|24}}
+
+== Criminal Justice Theories ==
+Marasi has many theories on criminal behavior and justice that she talks about with Wax throughout her time with him.
+*Despite its civilized reputation, Elendel actually only has half as many lawkeepers per capita as the Roughs, and there are more unsolved murders and petty crimes.{{book ref|mb4|4}}
+*Broken Windows theory: The best way to lower crime in an area is through renovation. A man is more likely to break a window if he sees broken windows around him.{{book ref|mb4|9}}
+*Deviations: When exploring a crime scene, finding the deviations from typical patterns, then finding out why they deviated will often yield something on the criminals.{{book ref|mb4|10}}
+
+== Notes ==
+<references />
+{{partial}}
+{{Mistborn|Era 2}}
+[[category: viewpoint characters]]
+[[es:Marasi Colms]]

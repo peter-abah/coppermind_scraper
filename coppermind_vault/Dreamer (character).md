@@ -1,19 +1,25 @@
 ---
-merge-family: "y|siblings=Phi"
-died: "~2010s"
-powers: "Possession of the living, Bolting"
-aliases: "Dave"
-'species: "Poltergeist (formerly human)"
-'residence: "Wikipedia: New York City|New York City"
-'nation: "Wikipedia: United States|United States of America"
-earth: "Dreamer"
-introduced: "Dreamer"
+source_file: Dreamer (character).txt
+entity_type: character
+merge-family: y
+siblings: '[[Phi]]'
+died: ~2010s
+powers: Possession of the living, [[Bolting]]
+aliases: Dave
+'''species': '[[Poltergeist]] (formerly human)'
+'''residence': '[[Wikipedia: New York City|New York City]]'
+'''nation': '[[Wikipedia: United States|United States of America]]'
+earth: Dreamer
+introduced: '[[Dreamer]]'
 ---
 
-Dave, better known by his gaming handle **Dreamer**, is a [[Poltergeist|poltergeist]], the spirit of a dead young man who must possess the bodies of living people. He is part of a group of gamer poltergeists, including his brother [[Phi]], that play games like "capture the flag" and "cops and robbers," using living bodies like "lives" in a video game.{{book ref|dreamer}}
+Dave, better known by his gaming handle **Dreamer**, is a [[Poltergeist|poltergeist]], the spirit of a dead young man who must possess the bodies of living people. He is part of a group of gamer poltergeists, including his brother [[Phi]], that play games like "capture the flag" and "cops and robbers," using living bodies like "lives" in a video game.
 
 ## Appearance and Personality
-{{quote|I could see Phi's spirit moving turgidly toward a body, and I somehow forced myself to follow. Two glowing fields, like translucent mold, seeping along the ground unseen to mortal eyes.|Dreamer describing his and Phi's unembodied forms}}
+
+> I could see Phi's spirit moving turgidly toward a body, and I somehow forced myself to follow. Two glowing fields, like translucent mold, seeping along the ground unseen to mortal eyes.
+> — Dreamer describing his and Phi's unembodied forms
+
 In his unembodied form, Dreamer is completely invisible to the living. To other poltergeists he appears as a glowing field seeping over surfaces. When in possession of a living body, he looks and sounds like the person he is possessing, including their accent and some of their mannerisms. In this state he can be recognized by other poltergeists as one of their kind due to a bright yellow-colored glow visible around his form. It is unknown what he looked like before his death and subsequent transformation into a poltergeist, aside from the fact that he was a young man who likely was white and spoke with an American accent.
 
 Dreamer enjoyed playing video games during his lifetime and often played them with his brother Phi. His love of games has carried over into the afterlife, where he spends much of his time playing real-life games with a group of other gamer poltergeists. He tends to be and less stubborn and intense than Phi, and gets frustrated at these traits in his brother. Often Phi's attitude upsets Dreamer, who will respond by acting more competitive and determined to make Phi lose.
@@ -42,6 +48,5 @@ Dreamer is Phi's younger brother. While he plays games and continues to interact
 
 ## Notes
 <references />
-{{partial}}
-{{Dreamer}}
+
 [[category: viewpoint characters]]

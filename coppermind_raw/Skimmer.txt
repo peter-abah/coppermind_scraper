@@ -1,0 +1,11 @@
+{{disambig}}
+
+'''Skimmer''' is a term used for two different concepts on [[Scadrial]]:
+
+* A [[Feruchemist]] who can only use the power of [[iron]] (an iron Ferring) is colloquially known as a Skimmer,{{book ref|mb6|part=ars}} see [[Iron#Feruchemical Use]]
+* Small [[Southern Scadrian]] airships that are used as shuttles or tenders are called skimmers{{book ref|mb6|22}} (a prominent example is ''[[Wilg]]'')
+
+The airships are partly controlled by the use of Feruchemical iron, typically using [[Feruchemy#Unsealed_Metalminds|unsealed]] ironminds. The two terms may be related despite originating in different cultures, but this has not been confirmed.
+
+==Notes==
+<references/>

@@ -1,3 +1,8 @@
+---
+source_file: SisirinahGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 First Glimpse of the God King by Howard Lyon.jpg | <center><small>by {{a|Howard Lyon}}</small></center> *First Glimpse of the God King*, *[[Warbreaker]]* leatherbound interior art

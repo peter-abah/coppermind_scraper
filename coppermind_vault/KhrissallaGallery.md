@@ -1,3 +1,8 @@
+---
+source_file: KhrissallaGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 White Sand v1 Cover Art.jpg |  <center><small>by [[Julius Gopez]]</small></center> On the cover for *[[White Sand|White Sand Volume 1]]*

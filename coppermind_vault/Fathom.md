@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Fathom.txt
+entity_type: disambig
+---
 
 **Fathom** can refer to several different things:
 * [[Fathom tree]], a type of tree on [[Roshar]] whose bark has medicinal properties

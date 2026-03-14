@@ -1,3 +1,8 @@
+---
+source_file: Undermastrell.txt
+entity_type: article
+---
+
 #REDIRECT [[Diem#Organization]]
 [[Category: Subsection redirects]]
 [[Category: White Sand]]

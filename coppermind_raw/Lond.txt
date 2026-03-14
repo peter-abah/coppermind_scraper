@@ -1,0 +1,11 @@
+{{character
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Mama Lond''' is someone close to [[Lopen]] and [[Huio]] on [[Roshar]]. She has confided in Huio that she is sometimes hurt by Lopen's teasing.{{book ref|sa3.5|epilogue}}
+
+== Notes ==
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 04:15, 8 March 2022 (UTC)}}
+{{Stormlight}}

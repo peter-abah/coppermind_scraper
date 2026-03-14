@@ -1,17 +1,17 @@
-{{architecture
-|usage={{cat tag|Academic institutions|School}}
-|city=Kharbranth
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-The **Great Concourse of Kharbranth** is a school training surgeons in the city of [[Kharbranth]] on [[Roshar]]. Tuition is quite expensive and they don't admit students younger than sixteen.{{book ref|sa1|17}}
+---
+source_file: Great Concourse of Kharbranth.txt
+entity_type: architecture
+city: Kharbranth
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-Vathe, a resident of [[Shorsebroon]] in the [[Alethkar]], trained as a surgeon in the Concourse. At some point after Vathe settled in Shorsebroon, he took on [[Lirin]] as his apprentice.{{book ref|sa1|10}}{{book ref|sa1|17}}
+The **Great Concourse of Kharbranth** is a school training surgeons in the city of [[Kharbranth]] on [[Roshar]]. Tuition is quite expensive and they don't admit students younger than sixteen.
 
-Before joining the army, [[Kaladin]] planned to apply to study and train at the Concourse. After [[Roshone]] moved to [[Hearthstone]] and began targeting Kaladin's family, Lirin and [[Hesina]] sent a letter to the surgeons of the Concourse requesting permission for Kaladin to sit the entrance exams early. Unfortunately, their request was denied.{{book ref|sa1|10}}{{book ref|sa1|31}}
+Vathe, a resident of [[Shorsebroon]] in the [[Alethkar]], trained as a surgeon in the Concourse. At some point after Vathe settled in Shorsebroon, he took on [[Lirin]] as his apprentice.
+
+Before joining the army, [[Kaladin]] planned to apply to study and train at the Concourse. After [[Roshone]] moved to [[Hearthstone]] and began targeting Kaladin's family, Lirin and [[Hesina]] sent a letter to the surgeons of the Concourse requesting permission for Kaladin to sit the entrance exams early. Unfortunately, their request was denied.
 
 ==Notes==
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:34, 30 March 2019 (MST)}}
-{{Stormlight}}

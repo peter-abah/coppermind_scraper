@@ -1,19 +1,19 @@
 ---
-#profession: "sailor"
-nation: "Thaylenah"
-world: "Roshar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Beznk.txt
+entity_type: character
+'#profession': sailor
+nation: Thaylenah
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-**Beznk** is a [[Thaylen]] sailor on the *[[Wind's Pleasure]]* under Captain [[Tozbek]] on [[Roshar]].{{book ref|sa2|1}}
+**Beznk** is a [[Thaylen]] sailor on the *[[Wind's Pleasure]]* under Captain [[Tozbek]] on [[Roshar]].
 
 ## History
-He was part of the crew that sailed with [[Jasnah Kholin]] and [[Shallan Davar]] to the [[Shattered Plains]]. He was presumably a friend of his crewmate [[Yalb]]'s, as Yalb made a joking comment about Shallan's backside to Beznk.{{book ref|sa2|1}}
+He was part of the crew that sailed with [[Jasnah Kholin]] and [[Shallan Davar]] to the [[Shattered Plains]]. He was presumably a friend of his crewmate [[Yalb]]'s, as Yalb made a joking comment about Shallan's backside to Beznk.
 
-It is unclear if Beznk was one of the few survivors of the sinking of the *Wind's Pleasure*.{{book ref|sa2|11}}{{book ref|sa3.5|prologue}}
+It is unclear if Beznk was one of the few survivors of the sinking of the *Wind's Pleasure*.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 02:31, 19 August 2019 (UTC)}}
-{{Stormlight}}

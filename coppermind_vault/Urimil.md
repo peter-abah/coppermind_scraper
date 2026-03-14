@@ -1,15 +1,15 @@
 ---
-world: "Roshar"
-nationality: "Alethi"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Urimil.txt
+entity_type: character
+world: Roshar
+nationality: Alethi
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-**Urimil** is an [[Alethi]] highlord in [[Kholinar]].{{book ref|sa3|83}}
+**Urimil** is an [[Alethi]] highlord in [[Kholinar]].
 
-He is recruited by [[Elhokar]] to attack the [[Kholinar Palace|Palace]] during the [[Siege of Kholinar]]. He provides men for the attack, who are part of the initial rush against the Palace lead by Adolin.{{book ref|sa3|83}}
+He is recruited by [[Elhokar]] to attack the [[Kholinar Palace|Palace]] during the [[Siege of Kholinar]]. He provides men for the attack, who are part of the initial rush against the Palace lead by Adolin.
 
 ## Notes
 <references />
-{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 01:17, 20 July 2019 (MST)}}
-{{Stormlight}}

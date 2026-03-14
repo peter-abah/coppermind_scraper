@@ -1,17 +1,17 @@
-{{settlement
-|nation=Torio
-|world=Komashi
-|universe=[[Cosmere]]
-|books=[[Yumi and the Nightmare Painter]]
-}}
-{{update|yumi}}
+---
+source_file: Gongsha Town.txt
+entity_type: settlement
+nation: Torio
+world: Komashi
+universe: '[[Cosmere]]'
+books: '[[Yumi and the Nightmare Painter]]'
+---
 
-**Gongsha Town**, or **Gongsha**, is a village in [[Torio]] on [[Komashi]].{{book ref|yumi|6}} [[Yumi]]'s prison was a reconstruction of the town while she was bonded with [[Nikaro]].
+**Gongsha Town**, or **Gongsha**, is a village in [[Torio]] on [[Komashi]]. [[Yumi]]'s prison was a reconstruction of the town while she was bonded with [[Nikaro]].
 
 ## Notes
 <references />
-{{stub}}
-{{yumi}}
+
 [[es:Pueblo de Gongsha]]
 
 <!--

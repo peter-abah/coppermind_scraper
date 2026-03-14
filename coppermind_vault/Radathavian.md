@@ -1,16 +1,16 @@
 ---
-#profession: "Soldier"
-residence: "Urithiru"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Rhythm of War"
+source_file: Radathavian.txt
+entity_type: character
+'#profession': Soldier
+residence: Urithiru
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Rhythm of War]]'
 ---
 
 **Radathavian** is a military officer in the [[coalition of monarchs]] on [[Roshar]]. 
 
-During the lead-up to Battalionlord [[Teofil]]'s push to recapture the crystal pillar room after the [[singer]] invasion of [[Urithiru]], [[Shuanor]] and [[Gavri]] were ordered to have their forces retreat from the upper floors of the tower. Radathavian, who was one of the officers present in the map room that served as a temporary command center, was charged with taking command of some of their troops to form a harrying force that could cover the retreat.{{book ref|sa4|40}}
+During the lead-up to Battalionlord [[Teofil]]'s push to recapture the crystal pillar room after the [[singer]] invasion of [[Urithiru]], [[Shuanor]] and [[Gavri]] were ordered to have their forces retreat from the upper floors of the tower. Radathavian, who was one of the officers present in the map room that served as a temporary command center, was charged with taking command of some of their troops to form a harrying force that could cover the retreat.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:41, 22 January 2021 (UTC)}}
-{{stormlight}}

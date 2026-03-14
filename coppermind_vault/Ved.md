@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Ved.txt
+entity_type: disambig
+---
 
 **Ved** may refer to the following:
 *[[Ved (Stormlight)]], a member of the [[Kholinar Wall Guard]]

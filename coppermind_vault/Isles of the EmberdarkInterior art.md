@@ -1,4 +1,8 @@
-{{spoiler}}
+---
+source_file: Isles of the EmberdarkInterior art.txt
+entity_type: spoiler
+---
+
 This is a gallery of interior art for *[[Isles of the Emberdark]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 
 <gallery widths=3000px heights=300px mode="packed" caption="Endpapers">

@@ -1,18 +1,18 @@
 ---
-titles: "Brightvison the True"
-abilities: "{{tag|Returned"
+source_file: Brightvison.txt
+entity_type: character
+titles: Brightvison the True
+abilities: Returned, Cognitive Shadow
+nation: Hallandren
+residence: T'Telir
+world: Nalthis
+universe: '[[Cosmere]]'
+introduced: '[[Warbreaker]]'
 ---
 
-, {{tag+|Cognitive Shadow}}
-|nation=Hallandren
-|residence=T'Telir
-|world=Nalthis
-|universe=[[Cosmere]]
-|introduced=[[Warbreaker]]
-}}
 **Brightvison** is a [[Returned]] in [[Hallandren]] prior to the [[Pahn Kahl rebellion]].
 
-She is known as **Brightvison the True**, her colors are copper and aqua, and [[Bebid]] is one of her priests.{{book ref|wb|5}}  <!-- This has been updated to reflect the Warbreaker leatherbound. Older versions list Brightvison colors as green and white-->
+She is known as **Brightvison the True**, her colors are copper and aqua, and [[Bebid]] is one of her priests.  <!-- This has been updated to reflect the Warbreaker leatherbound. Older versions list Brightvison colors as green and white-->
 
 ## Attributes and Abilities
 As a [[Returned]], Brightvison has a [[divine Breath]] which gives her the benefits of being on the [[Fifth Heightening]]. This includes:
@@ -27,6 +27,5 @@ As a [[Returned]], Brightvison has a [[divine Breath]] which gives her the benef
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 19:22, 28 May 2022 (UTC)}}
-{{Warbreaker}}
+
 [[es:Brillavisión]]

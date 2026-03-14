@@ -1,3 +1,8 @@
+---
+source_file: The Way of KingsChapter index.txt
+entity_type: meta/partial
+---
+
 This page is for providing information on where chapter breaks fall in various editions of *[[The Way of Kings]]*, including both page numbers for print editions and timestamps for audiobooks.
 
 ### Chapter by Chapter Timestamps
@@ -378,8 +383,6 @@ This page is for providing information on where chapter breaks fall in various e
 | align="right" | 36:45:08
 | align="right" | 00:14:24
 |}
-
-{{meta/partial}}
 
 [[Category: Stormlight Archive|*1i]]
 [[Category: Chapter indices]]

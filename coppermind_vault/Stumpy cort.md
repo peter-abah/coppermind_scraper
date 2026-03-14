@@ -1,15 +1,16 @@
-{{lifeform
-|type=Fish
-|native=Purelake
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-The **stumpy cort** is a type of fish that lives in the [[Purelake]] on [[Roshar]]. They are relatively rare.{{book ref|twok|i|1}}
+---
+source_file: Stumpy cort.txt
+entity_type: lifeform
+type: Fish
+native: Purelake
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-Some of the Purelakers, including [[Ishikk]], believe that a stumpy cort can be used to track or locate a person.{{book ref|twok|i|1}} Some fish in the area do exhibit supernatural qualities resulting from bonds with [[spren]],{{wob ref|2109}} but little is known about this phenomenon.
+The **stumpy cort** is a type of fish that lives in the [[Purelake]] on [[Roshar]]. They are relatively rare.
+
+Some of the Purelakers, including [[Ishikk]], believe that a stumpy cort can be used to track or locate a person. Some fish in the area do exhibit supernatural qualities resulting from bonds with [[spren]], but little is known about this phenomenon.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 17:23, 10 November 2017 (MST)}}
-{{Stormlight}}

@@ -1,3 +1,10 @@
+---
+source_file: Steel alphabetnum-row.txt
+entity_type: row
+pre: 'style="text-align: center;"'
+pre1: '!'
+---
+
 <noinclude>{| class=infobox width=100%
 |- class=title
 ! width=10% | Metal
@@ -7,14 +14,7 @@
 ! width=18% | circa 341 FA
 ! width=18% | Terris alphabet
 |-
-</noinclude>{{row|pre={{!}} style="text-align: center;" {{!}}|pre1=!
-| *unknown*
-| {{{mb3|[[File: Allomancy {{{1}}} (Hero of Ages).svg|50x50px]]}}}
-| {{{mb2|[[File: Allomancy {{{1}}} (book 2).svg|50x50px]]}}}
-| {{{mb1|[[File: Allomancy {{{1}}} (Final Empire).svg|100x100px]]}}}
-| {{{aol|[[File: Allomancy {{{1}}} (Alloy of Law).svg|100x100px]]}}}
-| {{{fer|}}}
-}}<noinclude>
+</noinclude><noinclude>
 |}
 Row in [[steel alphabet]] table which is only known as a numeral.
 

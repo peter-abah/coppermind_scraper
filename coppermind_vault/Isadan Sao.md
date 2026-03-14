@@ -1,13 +1,13 @@
 ---
-profession: "Cartographer"
-world: "Sel"
-universe: "Cosmere"
-books: "Elantris (book)|Elantris"
+source_file: Isadan Sao.txt
+entity_type: character
+profession: Cartographer
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
 ---
 
-**Isadan Sao** is a cartographer on [[Sel]]. They made a map of [[Arelon]] after the [[Reod]].{{map ref|Arelon}}
+**Isadan Sao** is a cartographer on [[Sel]]. They made a map of [[Arelon]] after the [[Reod]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 04:05, 26 April 2021 (UTC)}}
-{{Elantris}}

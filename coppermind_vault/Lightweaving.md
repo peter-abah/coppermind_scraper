@@ -1,6 +1,9 @@
-{{disambig}}
+---
+source_file: Lightweaving.txt
+entity_type: disambig
+---
 
-The term **Lightweaving** may refer to any Invested Art that grants some sort of power to create illusions. The known types of Lightweaving and Lightweavers are:{{book ref|sa2|part=ars}}
+The term **Lightweaving** may refer to any Invested Art that grants some sort of power to create illusions. The known types of Lightweaving and Lightweavers are:
 * [[Yolish Lightweaving]], the original variant
 * The [[Surgebinding#Illumination|Surge of Illumination]], one of the ten Surges on [[Roshar]], is another form of Lightweaving
 ** The [[Order of Lightweavers]], one of two orders of the [[Knights Radiant]] with access to the Surge of Illumination

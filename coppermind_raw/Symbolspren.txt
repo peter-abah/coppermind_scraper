@@ -1,0 +1,2 @@
+#REDIRECT [[Cryptic]]
+[[category: aliases]]

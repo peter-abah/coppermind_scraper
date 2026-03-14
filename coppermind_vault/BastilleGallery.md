@@ -1,7 +1,10 @@
+---
+source_file: BastilleGallery.txt
+entity_type: covertoc
+---
+
 ## Cover and Interior Art
 Bastille is featured on the covers of many books in the [[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]] series:
-
-{{CoverToC|alcatraz}}
 
 <gallery caption="Cover art" mode="packed" heights=250px>
 Alcatraz Versus the Evil Librarians Full.jpg |<small><center>by {{a|Hayley Lazo}}</center></small> *[[Alcatraz Versus the Evil Librarians]]* (US)

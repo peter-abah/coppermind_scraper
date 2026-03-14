@@ -1,0 +1,12 @@
+{{character
+|#profession=scholar
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Pleadix''' is an author on [[Roshar]]. Their work ''[[Introspections]]'' is referenced by [[Rushu]] in response to [[Lopen]]'s philosophy on personal change.{{book ref|sa3.5|9}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 02:20, 4 May 2021 (UTC)}}
+{{Stormlight}}

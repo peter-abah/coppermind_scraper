@@ -1,0 +1,17 @@
+{{disease
+|symptoms=Nervous energy
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Fiddlepox''' is a disease on [[Roshar]].{{book ref|sa1|10}}
+
+It is one of numerous diseases that [[Lirin]] taught [[Kaladin Stormblessed]] to be able to identify during his training as a surgeon.{{book ref|sa1|10}}
+
+== Symptoms ==
+Someone infected with fiddlepox would be easily noticeable due to their excess of nervous energy.{{book ref|sa1|10}} They might also often have trouble sleeping, a powerful thirst, and swelling on the undersides of the arms.
+
+== Notes ==
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 15:28, 16 May 2016 (MDT)}}
+{{Stormlight}}

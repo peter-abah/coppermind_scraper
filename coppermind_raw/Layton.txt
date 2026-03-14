@@ -1,0 +1,20 @@
+{{character
+|profession={{cat tag|Armedius Academy Faculty|Professor}}
+|residence=Armedius Academy 
+|earth=Rithmatist
+|introduced=[[The Rithmatist]]
+}}
+'''Layton''' is a professor of mathematics at [[Armedius Academy]].{{book ref|Rithmatist|3}}
+
+In one of his classes, he teaches [[Joel]] as well as three [[Rithmatics|Rithmatist]] students: [[Melody]], [[John (Rithmatist)|John]], and [[Luc]].{{book ref|Rithmatist|3}} 
+
+He is very enthusiastic about mathematics. He initially thinks Joel cheats in his exams, as he frequently forgets to do his homework assignments but gets good scores on the exams. However, when Joel proves able to complete math problems in his head very quickly, Layton realizes Joel's abilities are genuine and attempts to get him to join one of his advanced summer electives.{{book ref|Rithmatist|3}}
+
+== Trivia ==
+* He was named after one of [[Brandon]]'s friends, who is also a math teacher.{{tor ref|talking-with-tom|talk with Tom|date=Aug 21, 2013}}
+* [[Alcatraz Smedry]] also mentions learning algebra from a Mr. Layton.{{book ref|a4|2}}
+
+== Notes ==
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 20:57, 26 March 2022 (UTC)}}
+{{Rithmatist}}

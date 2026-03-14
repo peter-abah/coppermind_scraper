@@ -1,12 +1,11 @@
 ---
-universe: "Cytoverse"
-books: "Skyward (series)"
+source_file: Varvaxin Three.txt
+entity_type: location
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
-{{update|sky4}}
-**Varvaxin Three** is a location in the [[Superiority]] with a secret intelligence stronghold.{{book ref|sky4|58}}
+**Varvaxin Three** is a location in the [[Superiority]] with a secret intelligence stronghold.
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

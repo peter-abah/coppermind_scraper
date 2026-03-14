@@ -1,15 +1,12 @@
 ---
-profession: "{{cat tag|DDF pilots"
+source_file: Stallion.txt
+entity_type: character
+world: Detritus
+universe: '[[Cytoverse]]'
+introduced: '[[Sunreach]]'
 ---
 
-|world=Detritus
-|universe=[[Cytoverse]]
-|introduced=[[Sunreach]]
-}}
-{{update|sf1}}
-Callsign **Stallion** is an assistant flight leader from [[Ranger Flight]].{{book ref|sf1|12}}
+Callsign **Stallion** is an assistant flight leader from [[Ranger Flight]].
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

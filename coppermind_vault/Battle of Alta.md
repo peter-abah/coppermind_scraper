@@ -1,24 +1,23 @@
-{{event
-|participants=[[Defiant Defense Force]], [[varvax|Krell]]
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-The **Battle of Alta** took place above [[Alta Base]] when [[Spensa]] was seven years old.{{book ref|sky1|prologue}} Forty human [[starfighter]]s participated, against one hundred [[Superiority|Krell]] fighters, the largest force the Krell have ever sent against the humans. Of the participants, fourteen survived and twenty six (including [[Zeen Nightshade|Chaser]]) died.{{book ref|Skyward|39}}
+---
+source_file: Battle of Alta.txt
+entity_type: event
+participants: '[[Defiant Defense Force]], [[varvax|Krell]]'
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
 
+The **Battle of Alta** took place above [[Alta Base]] when [[Spensa]] was seven years old. Forty human [[starfighter]]s participated, against one hundred [[Superiority|Krell]] fighters, the largest force the Krell have ever sent against the humans. Of the participants, fourteen survived and twenty six (including [[Zeen Nightshade|Chaser]]) died.
 
 ## History
 Prior to the Battle, Alta Base had been cloaked to hide it from the Krell, in an attempt to build up a defense force against the aliens using the machinery that had been found beneath the base in Igneous Cavern.
 
-Chaser and Spensa were in a cave on the surface of Detritus when Chaser spotted dozens of pieces of debris falling through the atmosphere, headed toward Alta Base. He reported it to flight command, and they told him that they had seen the same thing, their radar reports telling them the debris was actually a large force of Krell starfighters.{{book ref|sky1|prologue}}
+Chaser and Spensa were in a cave on the surface of Detritus when Chaser spotted dozens of pieces of debris falling through the atmosphere, headed toward Alta Base. He reported it to flight command, and they told him that they had seen the same thing, their radar reports telling them the debris was actually a large force of Krell starfighters.
 
-Flight command told Chaser the Krell were heading straight toward Igneous Cavern, and Mongrel contacted him, telling him to convince Banks and Swing to stay and fight. They wanted to abandon the Cavern, but Ironsides demanded that they stay and fight. Chaser agreed with Ironsides, and said if humans had any hope of having a civilization again, they needed to stay and defend Igneous. Mongrel told Chaser he would beat him to the air and kill more Krell than him, so Chaser sprints toward Alta Base to fight the Krell.{{book ref|sky1|prologue}}
+Flight command told Chaser the Krell were heading straight toward Igneous Cavern, and Mongrel contacted him, telling him to convince Banks and Swing to stay and fight. They wanted to abandon the Cavern, but Ironsides demanded that they stay and fight. Chaser agreed with Ironsides, and said if humans had any hope of having a civilization again, they needed to stay and defend Igneous. Mongrel told Chaser he would beat him to the air and kill more Krell than him, so Chaser sprints toward Alta Base to fight the Krell.
 
-{{sidequote
-|Some wounds aren't as obvious as a twisted leg. You found it hard to get into the cockpit today, after watching your friends die? Try doing it after you shoot down one of your own.
-|Cobb, to Spensa, explaining why he doesn't fly anymore.{{book ref|sky1|20}}
-|side=right|size=225px
-}}
+> Some wounds aren't as obvious as a twisted leg. You found it hard to get into the cockpit today, after watching your friends die? Try doing it after you shoot down one of your own.
+> — Cobb, to Spensa, explaining why he doesn't fly anymore.
 
 The humans flew into the sky in waves, totaling forty pilots, compared to the Krell's one hundred. The Krell ships were poorly constructed, with wires coming out at odd angles and ripped wings. The battle devolved into a chaotic mess, each pair of wingmates fighting to survive against the much larger force of the Krell.
 
@@ -30,7 +29,7 @@ Cobb asked if the Krell were retreating, and Chaser told him they were merely re
 
 Chaser rotated his ship, pointed his acclivity rings at the ground, and boosted towards the hole. Chaser went above the protective platforms of Detritus, and without jamming technology equipped in his ship, fell under the influence of the Krell, so returned to the fighting, bent on killing the humans.
 
-Chaser returned from above the debris field, immediately going after members of Hope Flight, first activating his IMP, then shooting down Rally and Antique. Ironsides and Mongrel fell in together and went after him. Cobb took a shot at Chaser, which he dodged, but Cobb got another shot off and blew up Chaser's ship. After more fighting, the humans were finally victorious and the Krell truly retreated. The battle ended with fourteen survivors out of the original forty pilots.{{book ref|sky1|39}}
+Chaser returned from above the debris field, immediately going after members of Hope Flight, first activating his IMP, then shooting down Rally and Antique. Ironsides and Mongrel fell in together and went after him. Cobb took a shot at Chaser, which he dodged, but Cobb got another shot off and blew up Chaser's ship. After more fighting, the humans were finally victorious and the Krell truly retreated. The battle ended with fourteen survivors out of the original forty pilots.
 
 Despite Chaser's actions, the DDF won the battle, chasing off the Krell and saving Alta Base. Following the battle they removed the cloaking from Alta Base and further fortified their position.
 
@@ -43,35 +42,33 @@ Those who fought in the battle are called the [[First Citizen]]s, and are given 
 {| class="infobox" width=100%
 ! Pilot !! Flight !! Notes
 |-
-| Callsign: [[Ironsides]] || [[Hope Flight]] || Flight leader{{book ref|sky1|39}}
+| Callsign: [[Ironsides]] || [[Hope Flight]] || Flight leader
 |-
-| Callsign: [[Chaser]] || [[Hope Flight]] || Hope 7, Coward of Alta{{book ref|sky1|39}}
+| Callsign: [[Chaser]] || [[Hope Flight]] || Hope 7, Coward of Alta
 |-
-| Callsign: [[Mongrel]] || [[Hope Flight]] || Survivor{{book ref|sky1|39}}
+| Callsign: [[Mongrel]] || [[Hope Flight]] || Survivor
 |-
-| Callsign: [[Rally]] || [[Hope Flight]] || Victim to [[Chaser]]{{book ref|sky1|39}}
+| Callsign: [[Rally]] || [[Hope Flight]] || Victim to [[Chaser]]
 |-
-| Callsign: [[Antique]] || [[Hope Flight]] || Victim to [[Chaser]]{{book ref|sky1|39}}
+| Callsign: [[Antique]] || [[Hope Flight]] || Victim to [[Chaser]]
 |-
-| Callsign: [[Banks]] || *unknown* || {{book ref|sky1|prologue}}
+| Callsign: [[Banks]] || *unknown* || 
 |-
-| Callsign: [[Swing]] || *unknown* || {{book ref|sky1|prologue}}
+| Callsign: [[Swing]] || *unknown* || 
 |-
-| Callsign: [[Broken Wind]] || *unknown* || One of the best pilots{{book ref|sky1|10}}
+| Callsign: [[Broken Wind]] || *unknown* || One of the best pilots
 |-
-| [[Jeshua Weight]] || *unknown* || {{book ref|sky1|8}}
+| [[Jeshua Weight]] || *unknown* || 
 |-
-| [[Sousa]] || *unknown* || {{book ref|sky1|i|1}}
+| [[Sousa]] || *unknown* || 
 |-
-| [[Strife]] || *unknown* || {{book ref|sky1|i|1}}
+| [[Strife]] || *unknown* || 
 |-
-| [[Nightingale]] || *unknown* || {{book ref|sky1|i|1}}
+| [[Nightingale]] || *unknown* || 
 |-
-| Admiral [[Heimline]] || *unknown* || {{book ref|sky1|i|1}}
+| Admiral [[Heimline]] || *unknown* || 
 
 |}
 
 ## Notes
 <references />
-{{partial}}
-{{Skyward}}

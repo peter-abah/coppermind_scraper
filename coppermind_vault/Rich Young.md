@@ -1,3 +1,8 @@
+---
+source_file: Rich Young.txt
+entity_type: real world
+---
+
 **Rich Young** is the editor who edited [[White Sand|White Sand Volume 1]].
 
 ## See Also
@@ -5,5 +10,5 @@
 
 ## Notes
 <references />
-{{real world|complete}}
+
 [[Category: People]]

@@ -1,3 +1,8 @@
+---
+source_file: Elegy SalvageGallery.txt
+entity_type: article
+---
+
 ==Official Artwork==
 <gallery mode="packed" heights=250px caption="Gallery">
 Elegy by Ernanda Souza.jpg | <center><small>by {{a|Ernanda Souza}}</small></center> With [[Nomad]]

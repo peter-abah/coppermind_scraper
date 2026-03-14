@@ -1,4 +1,7 @@
-{{InteriorArtToC|sa}}
+---
+source_file: Dawnshard (novella)Interior art.txt
+entity_type: interiorarttoc
+---
 
 This is a gallery of interior art for *[[Dawnshard (novella)|Dawnshard]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 

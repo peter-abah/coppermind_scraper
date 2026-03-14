@@ -1,17 +1,18 @@
 ---
-world: "Sel"
-universe: "Cosmere"
-books: "Elantris (book)|Elantris"
+source_file: Dereth.txt
+entity_type: character
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
 ---
 
-**Dereth** is the founder of the [[Shu-Dereth]] religion.{{book ref|Elantris|14}} Though his [[Fjordell]] name is more well-known in modern times, his original [[JinDo]] name is **DeHwo**.{{bws ref|books/elantris/elantris/elantris-glossary|Elantris Glossary|date=2013-08-30}}
+**Dereth** is the founder of the [[Shu-Dereth]] religion. Though his [[Fjordell]] name is more well-known in modern times, his original [[JinDo]] name is **DeHwo**.
 
-Dereth lived in [[JinDo]] anciently and studied as a disciple of [[Keseg]] along with [[Korath]]. Keseg taught Dereth and his other disciples about unity, founding the Shu-Keseg religion. When Dereth and Korath left JinDo to teach in the lands to the north, they interpreted his teachings differently, which led to the foundation of [[Shu-Dereth]] and [[Shu-Korath]].  Dereth took Keseg's teachings about unity to mean that people should be united through obedience.{{book ref|Elantris|14}}
+Dereth lived in [[JinDo]] anciently and studied as a disciple of [[Keseg]] along with [[Korath]]. Keseg taught Dereth and his other disciples about unity, founding the Shu-Keseg religion. When Dereth and Korath left JinDo to teach in the lands to the north, they interpreted his teachings differently, which led to the foundation of [[Shu-Dereth]] and [[Shu-Korath]].  Dereth took Keseg's teachings about unity to mean that people should be united through obedience.
 
-He presumably wrote the *[[Do-Dereth]]*, one of the holy books of Shu-Dereth, although over the years its text has been altered at least to include references to [[Jaddeth]].{{book ref|Elantris|3}}{{book ref|Elantris|18}}{{book ref|Elantris|43}}
+He presumably wrote the *[[Do-Dereth]]*, one of the holy books of Shu-Dereth, although over the years its text has been altered at least to include references to [[Jaddeth]].
 
 ## Notes
 <references />
-{{partial}}
-{{Elantris}}
+
 [[es:Dereth]]

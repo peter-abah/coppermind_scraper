@@ -1,20 +1,19 @@
 ---
-died: "Sacrificed their divine Breath{{book ref|warbreaker|12"
+source_file: Brighthue.txt
+entity_type: character
+died: Sacrificed their [[divine Breath]]
+abilities: Returned, Cognitive Shadow
+nation: Hallandren
+residence: T'Telir
+world: Nalthis
+universe: '[[Cosmere]]'
+books: '[[Warbreaker]]'
 ---
 
-|abilities={{tag|Returned}}, {{tag+|Cognitive Shadow}}
-|nation=Hallandren
-|residence=T'Telir
-|world=Nalthis
-|universe=[[Cosmere]]
-|books=[[Warbreaker]]
-}}
-{{quote
-|The good ones are all already dead, Scoot,' Lightsong said. '[[Calmseer]], Brighthue: those were gods who would give themselves away. The rest of us are selfish. There hasn't been a petition granted in what, three years?
-|[[Lightsong]] to [[Llarimar]]{{book ref|wb|12}}
-}}
+> The good ones are all already dead, Scoot,' Lightsong said. '[[Calmseer]], Brighthue: those were gods who would give themselves away. The rest of us are selfish. There hasn't been a petition granted in what, three years?
+> — [[Lightsong]] to [[Llarimar]]
 
-**Brighthue** is a [[Returned]] from [[Hallandren]] on [[Nalthis]].{{book ref|wb|12}} Brighthue gives their divine [[Breath]] and dies, and because of this, [[Lightsong]] holds Brighthue in high regard.
+**Brighthue** is a [[Returned]] from [[Hallandren]] on [[Nalthis]]. Brighthue gives their divine [[Breath]] and dies, and because of this, [[Lightsong]] holds Brighthue in high regard.
 
 ## Attributes and Abilities
 As a [[Returned]], Brighthue has a [[divine Breath]] which gives them the benefits of being on the [[Fifth Heightening]]. This includes:
@@ -26,6 +25,5 @@ As a [[Returned]], Brighthue has a [[divine Breath]] which gives them the benefi
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 19:21, 28 May 2022 (UTC)}}
-{{Warbreaker}}
+
 [[es:Tonoazul]]

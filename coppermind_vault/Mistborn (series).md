@@ -1,13 +1,16 @@
-{{for|Allomancy|the kind of Allomancer|pre=This article is about [[Brandon Sanderson]]'s series}}
+---
+source_file: Mistborn (series).txt
+entity_type: anchor
+---
+
 **Mistborn** is a fantasy series by [[Brandon Sanderson]]. It is a major part of the [[cosmere]] sequence and is set mostly on the [[Cosmere#Planets|planet]] [[Scadrial]].
 
 It is most well known as the trilogy of *[[Mistborn: The Final Empire]]*, *[[The Well of Ascension]]* and *[[The Hero of Ages]]*, but there have been additional installments. Brandon originally planned a "trilogy of trilogies" but this has been expanded into a number of series over various eras in the history of Scadrial.
 
 __TOC__
-{{anchor|Era 1}}
 
 ## Era 1: Original Trilogy
-{{image|MB Era 1 BR full cover art.jpg|side=right|width=400px|Artwork for the Brazilian and Spanish releases of the trilogy}}
+
 The first Mistborn trilogy chronicles the efforts of a secret group of [[Allomancy|Allomancers]] who attempt to overthrow a dystopian empire and establish themselves in a world covered by ash.
 
 {| class='infobox bib mistborn cosmere' width=100%
@@ -25,7 +28,7 @@ The first Mistborn trilogy chronicles the efforts of a secret group of [[Alloman
 | *[[Mistborn: The Final Empire]]*
 | #1
 | Novel
-| {{nosnippet|{{date|1022|fe}}
+| {{nosnippet|
 | 
 | 
 
@@ -34,7 +37,7 @@ The first Mistborn trilogy chronicles the efforts of a secret group of [[Alloman
 | *[[The Well of Ascension]]*
 | #2
 | Novel
-| {{nosnippet|{{date|1024|fe}}
+| {{nosnippet|
 | 
 | 
 
@@ -43,7 +46,7 @@ The first Mistborn trilogy chronicles the efforts of a secret group of [[Alloman
 | *[[The Hero of Ages]]*
 | #3
 | Novel
-| {{nosnippet|{{date|1025|fe}}
+| {{nosnippet|
 | 
 | 
 
@@ -52,7 +55,7 @@ The first Mistborn trilogy chronicles the efforts of a secret group of [[Alloman
 | *[[The Eleventh Metal]]*
 | #0.5
 | Short Story
-| {{nosnippet|{{date|1019|fe}}
+| {{nosnippet|
 | Released in the [[Mistborn Adventure Game (rule book)|core rule book]] of the *[[Mistborn Adventure Game]]*, later in *[[Arcanum Unbounded]]*
 | 
 
@@ -61,15 +64,11 @@ The first Mistborn trilogy chronicles the efforts of a secret group of [[Alloman
 | *[[Mistborn: Secret History]]*
 | #3.5
 | Novella
-| {{nosnippet|{{date|1022-1025|fe}}
+| {{nosnippet|
 | Occurs concurrently with events from the end of *Mistborn: The Final Empire* to the end of *The Hero of Ages*. Should ideally be read after *The Bands of Mourning*.
 | 
 
 |}
-
-{{Mistborn Era 1}}
-
-{{anchor|Era 2}}
 
 ## Era 2: Wax and Wayne Series
 Set about 300 years after Era 1, the Wax and Wayne series is about the exploits of [[Waxillium Ladrian]], a "wild-west Deputy" forced to move into the big city who starts investigating kidnappings and robberies.
@@ -89,7 +88,7 @@ Set about 300 years after Era 1, the Wax and Wayne series is about the exploits 
 | *[[The Alloy of Law]]*
 | #1
 | Novel
-| {{nosnippet|{{date|341|PC}}
+| {{nosnippet|
 | 
 | 
 
@@ -98,7 +97,7 @@ Set about 300 years after Era 1, the Wax and Wayne series is about the exploits 
 | *[[Shadows of Self]]*
 | #2
 | Novel
-| {{nosnippet|{{date|342|PC}}
+| {{nosnippet|
 | 
 |
 
@@ -107,7 +106,7 @@ Set about 300 years after Era 1, the Wax and Wayne series is about the exploits 
 | *[[The Bands of Mourning]]*
 | #3
 | Novel
-| {{nosnippet|{{date|342|PC}}
+| {{nosnippet|
 | 
 | 
 
@@ -116,49 +115,43 @@ Set about 300 years after Era 1, the Wax and Wayne series is about the exploits 
 | *[[The Lost Metal]]*
 | #4
 | Novel
-| {{nosnippet|{{date|348|PC}}
+| {{nosnippet|
 |
-| {{wob ref|13838}}
+| 
 
 |- class='mistborn cosmere'
 ! 2014
 | *[[Allomancer Jak and the Pits of Eltania]]*
 | N/A
 | Short Story
-| {{nosnippet|{{date|341|PC}}
+| {{nosnippet|
 | Released in the [[Alloy of Law (rule book)|*Alloy of Law* supplement]] of the *[[Mistborn Adventure Game]]*, later in *[[Arcanum Unbounded]]*
-| {{ref|name=jak}}
+| 
 
 |}
 
-*The Alloy of Law* was initially conceived as one of several short stories Brandon wanted to set between the first and second main trilogies that eventually grew into a full novel, and then a series.{{ref|name=alloy}} The Wax and Wayne series is a single four-book series; *The Alloy of Law* stands more-or-less alone while the rest are plotted together like a trilogy.{{wob ref|9171}}
+*The Alloy of Law* was initially conceived as one of several short stories Brandon wanted to set between the first and second main trilogies that eventually grew into a full novel, and then a series. The Wax and Wayne series is a single four-book series; *The Alloy of Law* stands more-or-less alone while the rest are plotted together like a trilogy.
 
-[[Isaac Stewart]] is writing [[Book of Nails]], a novel detailing the truth behind [[Nicelle Sauvage]]'s sensationalized stories in the Era 2 broadsheets.{{wob ref|16787}}
+[[Isaac Stewart]] is writing [[Book of Nails]], a novel detailing the truth behind [[Nicelle Sauvage]]'s sensationalized stories in the Era 2 broadsheets.
 
-Brandon has also said that he may do some more stories before Era 3, set in a 1940's society.{{wob ref|9171}}
-
-{{Mistborn Era 2}}
-
-{{anchor|Era 3}}
+Brandon has also said that he may do some more stories before Era 3, set in a 1940's society.
 
 ## Era 3: Ghostbloods Trilogy
-**Mistborn: Ghostbloods**, the third trilogy, will be set in the early computer age with 1980s technology. The main character is planned as a Terris woman who is a computer programmer and [[nicrosil|Nicroburst]]; her brother is also planned to be a character.{{wob ref|162}}{{wob ref|4020}} [[Peter Ahlstrom|Peter]] has described her as a "brown Terris geek girl", though he does point out that this could change by the time the series is actually being written.{{tweet ref|634012031415271424|text=Peter commenting on the next trilogy.|date=Aug 19th, 2015}} Brandon backs up this description,{{wob ref|4927}} and describes it as a sort of "how nerd culture works on Scadrial."{{wob ref|8279}} Brandon had initially planned for the trilogy to feature an Allomancer SWAT team, with a team of Allomancers hired to take out a serial killer, but is now leaning more towards a spy thriller.{{wob ref|3778}}{{wob ref|10146}} It is planned to be released in the late 2020s.{{wob ref|16788}}
+**Mistborn: Ghostbloods**, the third trilogy, will be set in the early computer age with 1980s technology. The main character is planned as a Terris woman who is a computer programmer and [[nicrosil|Nicroburst]]; her brother is also planned to be a character. [[Peter Ahlstrom|Peter]] has described her as a "brown Terris geek girl", though he does point out that this could change by the time the series is actually being written. Brandon backs up this description, and describes it as a sort of "how nerd culture works on Scadrial." Brandon had initially planned for the trilogy to feature an Allomancer SWAT team, with a team of Allomancers hired to take out a serial killer, but is now leaning more towards a spy thriller. It is planned to be released in the late 2020s.
 
-He will be writing it in a similar manner to the first trilogy, writing all three books before publishing so that he could properly foreshadow and edit past books.{{wob ref|14669}}{{wob ref|14708}} He is greatly looking forward to writing book ten.{{wob ref|3731}} These will be returning to the length of the Mistborn Era One books.{{wob ref|13553}}{{wob ref|14683}}{{wob ref|9042}}{{wob ref|304}}{{wob ref|13585}}
+He will be writing it in a similar manner to the first trilogy, writing all three books before publishing so that he could properly foreshadow and edit past books. He is greatly looking forward to writing book ten. These will be returning to the length of the Mistborn Era One books.
 
-It is planned for these books to include a global map of Scadrial.{{wob ref|15817}}{{wob ref|15087}}{{wob ref|13162}} There are short comic books that are planned to be interspersed in them, similar to the broadsheets in Era Two.{{wob ref|11072}} There are going to be Allomancy-involved sports,{{wob ref|8882}} and various characters are planned to be [[Twinborn]] with "really neat combinations."{{wob ref|1167}} It is planned to take place fifty to seventy years after Era Two,{{wob ref|14582}} by which time the [[Southern Scadrian]]s will be well-known to the rest of Scadrial.{{wob ref|6767}} It will put more focus upon [[Kelsier]] and [[Trell (Trellism)| Trell]].{{wob ref|12227}}{{wob ref|14641}}{{wob ref|9602}}{{wob ref|11596}}{{wob ref|15584}} [[MeLaan]] is also expected to play a role.{{wob ref|4827}}
+It is planned for these books to include a global map of Scadrial. There are short comic books that are planned to be interspersed in them, similar to the broadsheets in Era Two. There are going to be Allomancy-involved sports, and various characters are planned to be [[Twinborn]] with "really neat combinations." It is planned to take place fifty to seventy years after Era Two, by which time the [[Southern Scadrian]]s will be well-known to the rest of Scadrial. It will put more focus upon [[Kelsier]] and [[Trell (Trellism)| Trell]]. [[MeLaan]] is also expected to play a role.
 
 ## Possible Cyberpunk Mistborn Trilogy
-Brandon has interest in writing a "Cyberpunk" Mistborn trilogy between Eras Three and Four.{{wob ref|1782}}{{wob ref|14382}} Whether he writes it depends on how Era Three plays out{{wob ref|13556}} and if he feels he has enough time to write more books before he gets too old.{{wob ref|4729}}{{wob ref|10957}} The books would be similar in length to Era Two (around 100,000 words){{wob ref|13585}} and be written around the same time as the second half of the Stormlight Archive.{{wob ref|14801}} This trilogy would become Era Four and push space age Mistborn to Era Five{{wob ref|14801}} and put Mistborn up to a fitting sixteen books.{{wob ref|16103}} If a whole trilogy isn’t feasible he wants to at least write a novella.{{wob ref|13560}} Nothing about the characters or plot are known but Brandon wants to play with unsealed metalminds as cyberpunk-esque “metallurgic wetware”.{{wob ref|14739}} As of 2024, he feels committed to the idea of writing the trilogy, but doesn't promise it with certainty.{{wob ref|16580}}
-
-{{anchor|Era 4}}
+Brandon has interest in writing a "Cyberpunk" Mistborn trilogy between Eras Three and Four. Whether he writes it depends on how Era Three plays out and if he feels he has enough time to write more books before he gets too old. The books would be similar in length to Era Two (around 100,000 words) and be written around the same time as the second half of the Stormlight Archive. This trilogy would become Era Four and push space age Mistborn to Era Five and put Mistborn up to a fitting sixteen books. If a whole trilogy isn’t feasible he wants to at least write a novella. Nothing about the characters or plot are known but Brandon wants to play with unsealed metalminds as cyberpunk-esque “metallurgic wetware”. As of 2024, he feels committed to the idea of writing the trilogy, but doesn't promise it with certainty.
 
 ## Era 4: Fourth Mistborn Trilogy
-The fourth trilogy is planned to be a space-opera with [[Allomancy]]-powered faster-than-light technology.{{wob ref|9005}} [[Hoid]] is to be a main character in this trilogy.{{wob ref|436}} The [[Sleepless]], or Dysian Aimians, are planned to have a major role in this trilogy.{{wob ref|3341}} The [[Iriali]] are also planned to have a major role.{{wob ref|12793}}
+The fourth trilogy is planned to be a space-opera with [[Allomancy]]-powered faster-than-light technology. [[Hoid]] is to be a main character in this trilogy. The [[Sleepless]], or Dysian Aimians, are planned to have a major role in this trilogy. The [[Iriali]] are also planned to have a major role.
 
-There may be two more currently untitled cosmere series written before this trilogy.{{wob ref|9181}}
+There may be two more currently untitled cosmere series written before this trilogy.
 
-He plans for each Era 4 book to be around the length of a Stormlight book.{{wob ref|13553}}
+He plans for each Era 4 book to be around the length of a Stormlight book.
 
 ## Other media
 * [[Mistborn Adventure Game]] - tabletop RPG by [[Crafty Games]]
@@ -169,13 +162,11 @@ He plans for each Era 4 book to be around the length of a Stormlight book.{{wob 
 
 ## Cover Galleries
 <center>**Era 1**</center>
-{{CoverToC|mbe1}}
 
 <center>**Era 2**</center>
-{{CoverToC|mbe2}}
 
 ## Publication
-{{columns|
+
 *MISTBORN: THE FINAL EMPIRE (Tor, July 2006)
 *MISTBORN: THE WELL OF ASCENSION (Tor, Spring 2007)
 *MISTBORN: THE HERO OF AGES (Tor, Fall 2008)
@@ -200,7 +191,6 @@ He plans for each Era 4 book to be around the length of a Stormlight book.{{wob 
 *Turkish rights (#1-3) to Arkadas
 *UK rights (entire series) to Orion/Gollancz
 *Film rights for MISTBORN to Chris Geary and Paloppa Pictures LLC{{ref|name=aa}}
-}}
 
 ## Awards
 *THE HERO OF AGES — #21 on NY Times hardcover list
@@ -208,20 +198,13 @@ He plans for each Era 4 book to be around the length of a Stormlight book.{{wob 
 *THE HERO OF AGES — Winner of the Romantic Times Award, Best Epic Fantasy
 *THE HERO OF AGES — Finalist for the inaugural David Gemmell Award
 *All three Mistborn Trilogy books are SF Book Club selections
-*THE HERO OF AGES — selected as an Indie Next List Notable for Dec. 2008{{ref|name=aa}}
+*THE HERO OF AGES — selected as an Indie Next List Notable for Dec. 2008
 
 ## Notes
 <references>
 
-{{bws ref|name=jak|mistborn-adventure-game-alloy-of-law-supplement-new-allomancer-jak-story-giveaway|*Allomancer Jak* release announcement|date=Oct 21, 2014}}
-{{bws ref|name=alloy|two-more-mistborn-novels|Two More Mistborn Novels|date=Oct 29th, 2013}}
-
-{{url ref|name=aa|url=https://awfulagent.com/jabclients/brandon-sanderson|text=Brandon's Awful Agent page|site=Awful Agent}}
-
 </references>
-{{meta/partial}}
-{{Mistborn}}
-{{books}}
+
 [[category: Mistborn| ]]
 [[category: Mistborn Era 1| ]]
 [[category: Mistborn Era 1| ]]

@@ -1,21 +1,23 @@
-{{image|BrandonSanderson.jpg|side=right|width=250px}}
-{{quote
-| My favorite [natural law] is known as the Law of Pure Awesomeness. This law simply states that any book I write is awesome. I'm sorry, but it's a fact. Who am I to argue with science?
-| Brandon Sanderson{{book ref|a2|11}}
-}}
+---
+source_file: Brandon Sanderson.txt
+entity_type: book ref
+---
 
-**Brandon Sanderson** (born December 19, 1975, middle name Winn) is an American author who describes his genre as "hard fantasy".{{wob ref|4717}} A Nebraska native, he currently resides in American Fork, Utah.  He earned his Master's degree in Creative Writing in 2004 from Brigham Young University, where he was on the staff of *Leading Edge*, a semi-professional speculative fiction magazine published by the university. He was a college roommate of *Jeopardy!* champion Ken Jennings. He has been nominated twice for the [[Wikipedia:John_W._Campbell_Award_for_Best_New_Writer|John W. Campbell Award]], losing in 2006 to his nemesis John Scalzi.
+> My favorite [natural law] is known as the Law of Pure Awesomeness. This law simply states that any book I write is awesome. I'm sorry, but it's a fact. Who am I to argue with science?
+> — Brandon Sanderson
+
+**Brandon Sanderson** (born December 19, 1975, middle name Winn) is an American author who describes his genre as "hard fantasy". A Nebraska native, he currently resides in American Fork, Utah.  He earned his Master's degree in Creative Writing in 2004 from Brigham Young University, where he was on the staff of *Leading Edge*, a semi-professional speculative fiction magazine published by the university. He was a college roommate of *Jeopardy!* champion Ken Jennings. He has been nominated twice for the [[Wikipedia:John_W._Campbell_Award_for_Best_New_Writer|John W. Campbell Award]], losing in 2006 to his nemesis John Scalzi.
 
 Sanderson married on July 7, 2006 and is a member of the The Church of Jesus Christ of Latter-day Saints. He served as a missionary for two years in South Korea.
 
 After [[Robert Jordan]]'s death, Brandon Sanderson was selected by [[Wikipedia:Harriet_McDougal|Harriet McDougal]] (Robert Jordan's widow) to complete the final book in Jordan's epic fantasy series [[The Wheel of Time]].  Harriet asked him to complete the series after being deeply impressed by *[[Mistborn: The Final Empire]]*. On March 30, 2009, it was announced that *[[A Memory of Light]]*, originally slated to be the final book in the *Wheel of Time* series, would be split into three volumes: *[[The Gathering Storm]]*, *[[Towers of Midnight]]*, and *A Memory of Light*.
 
-Brandon's birthday is celebrated on December 19th as *Koloss Head-Munching Day*.{{tweet ref|413738065476063232|Happy Koloss Head-Munching Day from Brandon|date=2013-12-19}}
+Brandon's birthday is celebrated on December 19th as *Koloss Head-Munching Day*.
 
-{{Anchor|WoB}}"WoB" is an acronym that stands for "Words of Brandon." WoBs can be a source of information about his books, writing, etc. that enhance or explain his work, the backstory of characters, etc.{{reddit ref|Mistborn|33|text=What does WoB mean?|date=2016-03-01}} In the past, WoB was found in various corners of the internet, including [[Theoryland Interview Database|Theoryland interview database]]s, Brandon's blog, etc. All WoB is now being gathered (or has been gathered) in one site called [[Arcanum]].
+"WoB" is an acronym that stands for "Words of Brandon." WoBs can be a source of information about his books, writing, etc. that enhance or explain his work, the backstory of characters, etc. In the past, WoB was found in various corners of the internet, including [[Theoryland Interview Database|Theoryland interview database]]s, Brandon's blog, etc. All WoB is now being gathered (or has been gathered) in one site called [[Arcanum]].
 
 ## Bibliography
-{{for|Bibliography|a complete listing of Brandon's works}}
+
 Some of Sanderson's most notable series include:
 * The [[Mistborn (series)|Mistborn]] fantasy series, featuring one trilogy, a sequel quartet, several companion pieces of various lengths (from short stories to full novels), and future planned trilogies.
 * [[The Stormlight Archive]], an epic fantasy series with 5 of 10 planned novels completed as well as two novellas.
@@ -37,8 +39,7 @@ Some of Sanderson's most notable series include:
 
 ## Notes
 <references />
-{{real world|partial}}
-{{books|cats=}}
+
 [[Category: People]]
 [[category: meta]]
 [[es: Brandon Sanderson]]

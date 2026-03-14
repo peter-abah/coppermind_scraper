@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Shardwielding.txt
+entity_type: disambig
+---
 
 **Shardwielding** may be a reference to someone who uses;
 

@@ -1,7 +1,11 @@
+---
+source_file: Wind and TruthStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains some statistical analysis of ***[[Wind and Truth]]***, the fifth book in [[The Stormlight Archive]].
 
 For a full series overview see [[The Stormlight Archive/Statistical analysis]], and for other books in the series see [[The Way of Kings/Statistical analysis]], [[Words of Radiance/Statistical analysis]], [[Oathbringer/Statistical analysis]], and [[Rhythm of War/Statistical analysis]].
-
 
 The information on this page can be found [https://docs.google.com/spreadsheets/d/1RzIu82lTQz-utNYtTEe7KGA7Yw8eAh46wqWkPCvAsRk/edit here].
 
@@ -967,8 +971,5 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 | align="right" | 0.10%
 |}
 
-
-{{meta/done}}
-{{Stormlight}}
 [[Category: Stormlight Archive|*5x]]
 [[category: statistics]]

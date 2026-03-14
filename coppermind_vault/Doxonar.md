@@ -1,16 +1,15 @@
-{{settlement
-|region=Elendel Basin
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-{{for|Doxonar (brand)|the cigar brand|pre=This article deals with the city in the [[Elendel Basin]]}}
+---
+source_file: Doxonar.txt
+entity_type: settlement
+region: Elendel Basin
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
 
-**Doxonar** is a city in the [[Elendel Basin]].{{map ref|Elendel Basin}} It is south of [[Elendel]], and is named after [[Dockson]].
+**Doxonar** is a city in the [[Elendel Basin]]. It is south of [[Elendel]], and is named after [[Dockson]].
 
-[[House Tekiel]] sent shipments along the railways towards Doxonar.{{book ref|mb4|15}}
+[[House Tekiel]] sent shipments along the railways towards Doxonar.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:25, 3 September 2016 (MST)}}
-{{Mistborn|Era 2}}

@@ -1,16 +1,17 @@
-{{settlement
-|map=Dalilak locator.png
-|princedom=Aladar
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Dalilak** is a large coastal city in northern [[Alethkar]]{{book ref|sa1|37}} in the [[Aladar princedom]].{{map ref|Alethkar}} It is on the coast of the [[Bay of Elibath]].
+---
+source_file: Dalilak.txt
+entity_type: settlement
+map: Dalilak locator.png
+princedom: Aladar
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-[[Natir]], the head steward in Citylord [[Roshone]]'s mansion in [[Hearthstone]], is from Dalilak, and is brought to Hearthstone after the previous head steward [[Miliv]] dies.{{book ref|sa1|25}}{{book ref|sa1|37}}
+**Dalilak** is a large coastal city in northern [[Alethkar]] in the [[Aladar princedom]]. It is on the coast of the [[Bay of Elibath]].
+
+[[Natir]], the head steward in Citylord [[Roshone]]'s mansion in [[Hearthstone]], is from Dalilak, and is brought to Hearthstone after the previous head steward [[Miliv]] dies.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 05:55, 22 February 2020 (UTC)}}
-{{Stormlight}}

@@ -1,16 +1,12 @@
 ---
-profession: "{{cat tag|Pirates|Pirate"
+source_file: Dllllizzzz.txt
+entity_type: character
+species: Resonant
+universe: '[[Cytoverse]]'
+introduced: '[[Cytonic (book)|Cytonic]]'
 ---
 
-|species=Resonant
-|universe=[[Cytoverse]]
-|introduced=[[Cytonic (book)|Cytonic]]
-}}
-{{update|sky3|sky4}}
-
-**Dllllizzzz** is a [[resonant]] pirate in the [[belt]] of the [[nowhere]].{{book ref|sky3|20}} Dllllizzzz is a good friend of [[Shiver]], and is extremely loyal to [[Peg]].
+**Dllllizzzz** is a [[resonant]] pirate in the [[belt]] of the [[nowhere]]. Dllllizzzz is a good friend of [[Shiver]], and is extremely loyal to [[Peg]].
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

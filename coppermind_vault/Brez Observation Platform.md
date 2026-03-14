@@ -1,12 +1,11 @@
 ---
-universe: "Cytoverse"
-books: "Skyward (series)"
+source_file: Brez Observation Platform.txt
+entity_type: location
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
-{{update|sky4}}
-**Brez Observation Platform** is a [[Superiority]] space station located near [[Evensong]].{{book ref|sky4|27}}
+**Brez Observation Platform** is a [[Superiority]] space station located near [[Evensong]].
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

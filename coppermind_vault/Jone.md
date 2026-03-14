@@ -1,19 +1,18 @@
 ---
-profession: "Ashweather Carriage and Coach|Cab driver"
-residence: "Elendel"
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 2"
+source_file: Jone.txt
+entity_type: character
+profession: '[[Ashweather Carriage and Coach|Cab driver]]'
+residence: Elendel
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-{{update|sa5}}
 **Jone** is an employee of [[Ashweather Carriage and Coach]] in [[Elendel]] on [[Scadrial]].
 
-On the night of [[Lady ZoBell's party]] in {{date|342|PC}}, [[Cett (coach owner)|Jone's boss]] received a report from his [[Coinshot]] that there was a late-night surge in demand for coaches as a play let out on Bonnweather street. He called Jone, [[Forgeron]], and any other available drivers into work.{{book ref|mb5|14}}
+On the night of [[Lady ZoBell's party]] in , [[Cett (coach owner)|Jone's boss]] received a report from his [[Coinshot]] that there was a late-night surge in demand for coaches as a play let out on Bonnweather street. He called Jone, [[Forgeron]], and any other available drivers into work.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 04:56, 7 June 2018 (MST)}}
-{{Mistborn|Era 2}}
 
 [[es:Jake]]

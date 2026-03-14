@@ -1,13 +1,13 @@
-{{Copyright}}
-{{culture
-|related=[[Listener]]
-|world=Roshar
-|universe=[[Cosmere]]
-}}
-The **Song of the Beasts** is one of the songs detailing the oral history of the [[listener]]s. It talks about the listeners when they fled [[Narak]] and befriended the [[chasmfiend]]s.{{book ref|sa5|56}} It was composed by [[Thude]], as no Keeper of the Songs was able to compose it at the moment.{{book ref|sa5|56}} It is told from the perspective of the [[chasmfiend]]s. It is sung to the Rhythm of the Lost.{{book ref|sa5|58}}
+---
+source_file: Song of the Beasts.txt
+entity_type: copyright
+---
+
+The **Song of the Beasts** is one of the songs detailing the oral history of the [[listener]]s. It talks about the listeners when they fled [[Narak]] and befriended the [[chasmfiend]]s. It was composed by [[Thude]], as no Keeper of the Songs was able to compose it at the moment. It is told from the perspective of the [[chasmfiend]]s. It is sung to the Rhythm of the Lost.
 
 ## Excerpt
-{{quote|Listen and hear, the song of new sight,<br><!--
+
+> Listen and hear, the song of new sight,<br><!--
 -->A story of years, and of the long fight.<br><!--
 -->For these eyes are not yours,<br><!--
 -->We measure not the years,<br><!--
@@ -31,15 +31,14 @@ The **Song of the Beasts** is one of the songs detailing the oral history of the
 -->And found their true skill.<br><!--
 -->Not that of bringing ends,<br><!--
 -->But of scratching our ears.
-|{{book ref|sa5|58}}}}
+> — 
 
-Between ’They were killing the small’ and ‘The right time had come, songs became new’, there are a number of stanzas eulogizing the young.{{book ref|sa5|58}}
+Between ’They were killing the small’ and ‘The right time had come, songs became new’, there are a number of stanzas eulogizing the young.
 ## Trivia
 * [[Summary:Wind and Truth#Chapter 58|Chapter 58 of *Wind and Truth*]] is called "The Song of the Beasts".
 
 ## Notes
 <references/>
-{{complete}}
-{{stormlight}}
+
 [[Category: list articles]]
 [[Category: Listener songs]]

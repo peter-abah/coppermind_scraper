@@ -1,0 +1,23 @@
+{{lifeform
+|image=JisForJella.png
+|type=Tree
+|native=[[Jah Keved]]
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+The '''jella tree''' is a species of tree native to [[Roshar]].{{book ref|sa2|45}}
+
+==Appearance and Anatomy==
+The jella tree is able to absorb [[crem]] and use it to reinforce its wood. The crem gives the tree its light brown color and rocklike texture. They are relatively tall trees, and they have particularly strong branches. The leaves of the tree are long and thin, with a needle-like appearance. The leaves are brightly colored in yellow, red, pink, and orange, resembling fiery explosions of color. Like many other plants on Roshar, the leaves are retractable for protection from [[highstorm]]s.{{book ref|sa2|45}}
+
+==Ecology==
+Jella trees are known to grow in [[Jah Keved]]. They are abundant in basins that are partially sheltered from the highstorms and grow densely on their slopes.{{book ref|sa2|45}}
+
+==Uses==
+Because jella trees are quite strong, they can be used to support large canopies for events such as outdoor festivals. Despite their strength, the trees can be felled, if needed. Their branches can support the weight of a person, and [[Hoid]] once sat in a jella tree while speaking to [[Shallan]].{{book ref|sa2|45}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:16, 20 August 2020 (UTC)}}
+{{Stormlight}}

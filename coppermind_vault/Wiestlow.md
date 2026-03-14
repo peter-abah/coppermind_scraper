@@ -1,14 +1,15 @@
-{{settlement
-|region=Southern Scadrial
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Bands of Mourning]]
-}}
-**Wiestlow** is a settlement in [[Southern Scadrial]], presumably located in the [[Southern_Scadrian#Malwish|Malwish nation]]. People from Wiestlow have a distinct accent.{{book ref|bom|22}}
+---
+source_file: Wiestlow.txt
+entity_type: settlement
+region: Southern Scadrial
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Bands of Mourning]]'
+---
 
-It is the hometown of [[Allik Neverfar]]'s family.{{book ref|bom|22}}
+**Wiestlow** is a settlement in [[Southern Scadrial]], presumably located in the [[Southern_Scadrian#Malwish|Malwish nation]]. People from Wiestlow have a distinct accent.
+
+It is the hometown of [[Allik Neverfar]]'s family.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:14, 29 August 2022 (UTC)}}
-{{Mistborn|era 2}}

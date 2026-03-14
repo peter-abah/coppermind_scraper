@@ -1,3 +1,8 @@
+---
+source_file: Megan TarashGallery.txt
+entity_type: article
+---
+
 ## Official Art
 <gallery mode="packed" heights=250px>
 Steelheart BR Cover Art.jpg | <small><center>by Barry Blackenship</center></small> On the cover of the Brazilian release of *[[Steelheart]]*

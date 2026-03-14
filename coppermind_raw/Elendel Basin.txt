@@ -1,0 +1,87 @@
+{{nation
+|map=Elendel Basin.png
+|capital=[[Elendel]]{{book ref|mb6|5}}
+|era=Post-Catacendre
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+The '''Elendel Basin''' is a lush, fertile basin created by [[Harmony]] when he reshaped [[Scadrial]] as part of the [[Catacendre]]. It was purposefully designed to allow civilization to build itself back up over just a couple of generations.{{wob ref|697}} It is named after [[Elend]].
+
+== Geography and Ecology ==
+=== Geography ===
+The land of the Basin is almost perfectly circular, with the exception of the western coastline on the [[Sea of Yomend]] and the [[Sea of Lennes]]. Several mountain ranges define the outer edge of the Basin: the [[Channerel Range]] to the northwest, the [[Faleast Range]] to the northeast, and the [[Seran Range]] to the southeast. There are passes leading through these mountains out into the rugged frontier lands known as the [[Roughs]].{{map ref|Elendel Basin}} The topography of the Basin is generally flat and open, although some forested areas exist.{{book ref|mb5|5}} The eastern part of the Basin, at least, is flat enough to have flooded before upon the sabotage of the [[Corbeau]] Dam. That area also produces much of the Basin's grain.{{file ref|House Record broadsheet.jpg|text=''The House Record'' broadsheet}}
+
+The Basin's coastline matches up with the coastline in known maps of the [[Final Empire]]. The peninsula that contains [[Bilming]] can be seen on Final Empire maps, just west of the [[Ashmount]] Doriel.{{wob ref|13162}}
+
+The Basin is situated somewhat north of the equator.{{wob ref|15856}}
+
+=== Elendel ===
+The Basin largely revolves around the city of [[Elendel]]. The city is located near the center of the Basin and serves as a major port on the Sea of Yomend. The Basin's rivers, including the large [[Irongate River]], are laid out like spokes on a wheel such that they each run through Elendel. Similarly, railway lines loosely mirror the paths of the rivers and almost every line runs through the capital.{{map ref|Elendel Basin}} Elendel itself is roughly circular and divided into octants by large canals,{{map ref|Elendel}} with suburbs that lie outside of the urban core that blend into an agricultural area known as the [[Outer Estates]].{{book ref|mb4|11}}
+
+Elendel defines the prime meridian.{{wob ref|15856}}
+
+=== Outer Cities ===
+The lands of the Basin are very populated, and a train cannot go for five minutes without passing a settlement.{{book ref|mb6|5}} Cities in the Basin outside of Elendel are collectively referred to as the "outer cities."{{book ref|mb6|5}}{{ref|group=fn|text="Outer Cities" is capitalized in the broadsheets, including the [[Allomancer Jak]] stories, and throughout ''[[The Lost Metal]]'', but it is not capitalized elsewhere in the series.}}  Each city has its own unique character, with differing types of industry depending on their location, and in some cases different clothing and accents.{{book ref|mb6|10}}{{book ref|mb6|2}}
+
+Notable outer cities labeled on known maps include the following:
+{{columns|count=3|
+*[[Alendel]]
+*[[Bilming]]
+*[[Dazarlomue]]
+*[[Demoux]]
+*[[Doxonar]]
+*[[Doriel (city)|Doriel]]
+*[[Dryport]]
+*[[Drypost]]
+*[[Elmsdel]]
+*[[Garmet]]
+*[[Mycondwel]]
+*[[New Seran]]
+*[[Rashekin]]
+*[[Steinel]]
+*[[Tarier]]
+*[[Tathingdwel]]
+*[[Vindiel-Cameux]]
+*[[Wyllion]]
+}}
+
+Additionally, there are many other smaller settlements throughout the Basin. Many lie along railways, but there are also small, remote farming villages such as [[Dulsing]].{{book ref|mb6|5}}{{book ref|mb6|15}}
+
+=== Ecology ===
+The Basin is incredibly lush and verdant. All types of plant life grow exceptionally quickly, without the need for irrigation, and the land always stays fertile no matter how much it is farmed.{{book ref|mb4|4}} Little to no cultivation is required, and the only struggle for farmers is harvesting crops fast enough.{{book ref|mb5|5}}{{book ref|mb6|17}} Fruit orchards are common, and other food crops include wheat, carrots, potatoes, and tomatoes.{{book ref|mb6|5}}{{book ref|mb6|17}} Harmony has a direct hand in keeping the land so bountiful; the [[mist]]s are used to refresh the land.{{book ref|mb6|5}} The mists themselves actually spread water and nutrients across the ground.{{wob ref|697}}
+
+Common domesticated animals include horses, cats, and dogs. Cows, pigs, and chickens are among the animals raised for meat.{{book ref|mb5|6}}{{book ref|mb5|17}}{{book ref|mb5|prologue}} Many other wild animals roam the lands and seas such as fish, octopuses, wolves, rabbits, boar, and various species of birds.{{book ref|mb6|13}}{{book ref|mb5|10}}{{book ref|mb6|15}}
+
+== Politics ==
+The Basin functions as a de facto nation; Elendel's economic hegemony has allowed it to influence policy throughout the Basin, largely through taxation. The Basin itself was created by Harmony with canals and rivers running towards Elendel like the spokes of a wheel. New cities cropped up along the canals, but the canals only run to and from Elendel. When the first railways were laid, they followed the paths of the canals. Therefore, any city that wishes to trade goods with any city other than along its own spoke has to trade through Elendel, which places tariffs on many of these goods.{{book ref|mb6|5}}
+
+Since Elendel remains the only city wealthy enough to create and maintain railways, the outer cities lack the resources to make themselves independent. Although Elendel is considered the capital of the Basin,{{book ref|mb6|5}} each city is administered locally and is not directly governed by Elendel. However, the city governments still feel constrained by their economic dependence on the capital. They have requested new railways to connect the main lines, but have been repeatedly denied by the seat of power in Elendel. These cities therefore believe they are being taxed twice to transport their goods: they pay levies to maintain the railways and canals, and then pay nearly unavoidable tariffs to ship their goods using these methods.{{book ref|mb6|5}} 
+
+Additionally, many citizens of Elendel remain ignorant of life in the outer cities,{{book ref|mb6|5}} in some cases openly mocking their innovations.{{file ref|New Ascendancy broadsheet.jpg|''The New Ascendancy'' broadsheet}} The taxation and disrespect has led to extreme animosity from the outer cities, and talk of possible civil war{{book ref|mb6|13}} that could lead to a fracture nation of city-states.{{book ref|mb6|5}} By the third century, a number of new towns have sprung up in the south of the Basin.{{book ref|mb4|12}} However, between the years {{date|348|PC}} and {{date|350|PC}}, the Basin united, with a National Assembly to represent all cities equally.{{book ref|mb7|epilogue|7}}
+
+== Economy ==
+=== Currency ===
+The people of the Basin (and the Roughs) retain the same currency used during the Final Empire, that being boxings and clips. There are one hundred clips in a boxing.{{book ref|mb6|5}} "Notes," presumably printed banknotes, are also used,{{book ref|mb4|12}} though it is unknown what their relationship is to the aforementioned currency denominations.
+
+It is unknown whether boxings are still officially known as Imperials.
+
+One of the denominations of coin has a picture of the [[Spook|Lord Mistborn]] with his left arm pointing to the Basin on the obverse, with a picture of the [[First Central Bank]] on the reverse. Rare mis-struck versions of this coin with an error in one of the bank's pillars are worth "as much as a small house" around the time [[Waxillium Ladrian|Wax]] is twelve.{{book ref|mb5|8}}
+
+== People ==
+The residents of the Basin are the direct descendants of the people who survived the Catacendre, known as the [[Originators]]. Around one-fifth of the Originators were Terris, with the rest being either [[skaa]] or [[noble]].{{book ref|mb4|4}} During the Catacendre, Harmony restored human genetics to the same state it had been prior to the [[Lord Ruler]],{{book ref|mb3|82}} but people are still aware of their ancestry,{{book ref|mb3|82}} with many noble houses persisting after society was rebuilt. The residents generally have light skin, with the exception being the Terris, who naturally tend to have more skin color{{wob ref|4927}} and largely marry within their own ethnicity.{{book ref|mb4|4}} People in the east of the Basin sometimes have thick accents.{{book ref|mb6|3}}
+
+The northwestern mountains have Terris fundamentalists living in them.{{book ref|mb5|19}}
+
+
+Relatively few people live outside of the Basin in northern Scadrial. There are a few towns in the Roughs, but they have small populations.{{book ref|mb4|4}} The residents of the Basin were not aware of the [[Southern Scadrian]]s until the ''[[Brunstell]]'' crashed in Dulsing.{{book ref|mb6|21}}
+
+== Footnotes ==
+<references group=fn/>
+
+== Notes ==
+<references/>
+{{partial}}
+{{Mistborn|era 2}}
+[[Category: Elendel Basin| ]]
+[[es:Cuenca de Elendel]]

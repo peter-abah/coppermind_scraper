@@ -1,15 +1,17 @@
-{{literature
-|type=Portfolio
-|author=[[Shallan Davar]]
-|language=[[Women's script]]
-|era=
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Shallan's Sketchbook** is a portfolio that [[Shallan Davar]] keeps of her sketches and drawings.{{book ref|sa1|3}}
+---
+source_file: Shallan's sketchbook.txt
+entity_type: literature
+type: Portfolio
+author: '[[Shallan Davar]]'
+language: '[[Women''s script]]'
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-The original is lost during the attack on the *[[Wind's Pleasure]]*.{{book ref|sa2|7}} At some point, pages from it are salvaged by [[Nazh]].
+**Shallan's Sketchbook** is a portfolio that [[Shallan Davar]] keeps of her sketches and drawings.
+
+The original is lost during the attack on the *[[Wind's Pleasure]]*. At some point, pages from it are salvaged by [[Nazh]].
 
 ==Folio pages==
 <gallery widths=250px heights=375px caption=Pages>
@@ -55,12 +57,11 @@ Shallan's Sketchbook - Urithiru in Shadesmar.jpg     | Sketches of [[Urithiru]] 
 </gallery>
 
 ==Trivia==
-Some of the pages from her portfolio are published in *[[The Way of Kings]]*, *[[Words of Radiance]]*, *[[Oathbringer]]*, *[[Rhythm of War]]*, and *[[Wind and Truth]]*.{{bws ref|the-stormlight-archive-series/#THEWAYOFKINGS|Illustrations from The Way of Kings|date=N/A}}{{bws ref|the-stormlight-archive-series/#WORDSOFRADIANCE|Illustrations from Words of Radiance|date=N/A}}{{bws ref|the-stormlight-archive-series/#OATHBRINGER|Illustrations from Oathbringer|date=N/A}}{{bws ref|the-stormlight-archive-series/#RHYTHMOFWAR|Illustrations from Rhythm of War|date=N/A}} Colored versions of some of the art were included in the *[[Stormlight World Guide]]*.
+Some of the pages from her portfolio are published in *[[The Way of Kings]]*, *[[Words of Radiance]]*, *[[Oathbringer]]*, *[[Rhythm of War]]*, and *[[Wind and Truth]]*. Colored versions of some of the art were included in the *[[Stormlight World Guide]]*.
 
 ==Notes==
 <references /><!-- sa1: 3, 5, 33, 39, 42, sa2: 44? -->
-{{partial}}
-{{Stormlight}}
+
 [[category:Objects and Materials]]
 [[category:possessive articles]]
 [[category:Shallan's sketchbook]]

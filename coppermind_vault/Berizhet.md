@@ -1,14 +1,15 @@
-{{settlement
-|nation=Liafor
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Berizhet** is a city in eastern [[Liafor]] on [[Roshar]].{{map ref|Roshar}}
+---
+source_file: Berizhet.txt
+entity_type: settlement
+nation: Liafor
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-It is located near the border with [[Tashikk]], close to the head of a major river which runs to the west through Liafor to the [[Aimian Sea]].{{map ref|Roshar}}
+**Berizhet** is a city in eastern [[Liafor]] on [[Roshar]].
+
+It is located near the border with [[Tashikk]], close to the head of a major river which runs to the west through Liafor to the [[Aimian Sea]].
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 14:59, 20 December 2016 (MST)}}
-{{Stormlight}}

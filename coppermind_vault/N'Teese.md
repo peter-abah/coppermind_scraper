@@ -1,35 +1,35 @@
 ---
-'residence: "Lonzare"
-ethnicity: "Darksider"
-nationality: "Lossandin"
-world: "Taldain"
-universe: "Cosmere"
-introduced: "White Sand"
+source_file: N'Teese.txt
+entity_type: character
+'''residence': '[[Lonzare]]'
+ethnicity: Darksider
+nationality: Lossandin
+world: Taldain
+universe: '[[Cosmere]]'
+introduced: '[[White Sand]]'
 ---
 
 **N'Teese** is a guide working for [[Loaten]] in [[Kezare]] on the Dayside of [[Taldain]] 
 
 ## Appearance and Personality
-She has brown eyes, dark [[Kerztian]] skin, and brown hair which she wears in a ponytail. Loaten calls her one of his best people. She claims to be half [[Darksider]], half Kerztian, and half [[Lossandin]]. She is not good at mathematics.{{book ref|ws|5|review=yes}}
+She has brown eyes, dark [[Kerztian]] skin, and brown hair which she wears in a ponytail. Loaten calls her one of his best people. She claims to be half [[Darksider]], half Kerztian, and half [[Lossandin]]. She is not good at mathematics.
 
 ## History
-{{sidequote
-|Oh no, I'm not going to lead these fools around the city, Loaten.
-|N'Teese to Loaten.{{book ref|ws|5|review=yes}}
-|side=right|size=300px
-}}
-N'Teese guided [[Khriss]] to [[Lonzare]]. For a ten [[lak]] fee, she brought them to see Loaten. To N'Teese's chagrin, Loaten assigned her to be Khriss' guide and translator throughout her stay in Kezare.{{book ref|ws|5|review=yes}} She attempted to set up meetings for Khriss with seven of the [[Taishin]], but was unsuccessful. The next day she took them to see [[Taishin#The Lord Mastrell|Lord Mastrell]] [[Kenton]] at the [[Diem]].{{book ref|ws|6|review=yes}} 
 
-After Kenton and Khriss had a spat she took the group back to Lonzare. She brought Khriss and [[Baon]] to the Artisan conference center where they met up with Kenton,{{book ref|ws|7|review=yes}} and later that same day she took them to the [[Hall of Judgement]] to meet with [[Lady Judge]] [[Heelis]]. At Heelis' suggestion she brought them to meet with [[Nilto]].{{book ref|ws|8|review=yes}}
+> Oh no, I'm not going to lead these fools around the city, Loaten.
+> — N'Teese to Loaten.
 
-After Baon left and Kenton "accepted" Khriss as a [[sand mastery|sand master]], N'Teese moved into the Diem with Khriss and the two professors. Khriss sent her off to find Nilto so she can ask him to find Baon for her.{{book ref|ws|13|review=yes}} After assassins attacked Khriss in a restaurant, N'Teese returned, saying that Nilto was ready to meet, and the two of them ran off to meet with him. She later brought word from Nilto that he was leaving town and would not be able to search for Baon. The two of them chased after Nilto and caught him at the docks as he was boarding a ship. Khriss confronted Nilto, having figured out his true identity, Gevin. Jon Acron was revealed to be an assassin sent by [[Skathan]], and in the ensuing fight Baon was shot. After Khriss killed Acron, N'Teese reassures her that Baon was only grazed by the bullet and that he will be fine.{{book ref|ws|14|review=yes}}
+N'Teese guided [[Khriss]] to [[Lonzare]]. For a ten [[lak]] fee, she brought them to see Loaten. To N'Teese's chagrin, Loaten assigned her to be Khriss' guide and translator throughout her stay in Kezare. She attempted to set up meetings for Khriss with seven of the [[Taishin]], but was unsuccessful. The next day she took them to see [[Taishin#The Lord Mastrell|Lord Mastrell]] [[Kenton]] at the [[Diem]]. 
 
-She went to the Diem to watch Kenton and [[Drile]]'s duel.{{book ref|ws|18|review=yes}}
+After Kenton and Khriss had a spat she took the group back to Lonzare. She brought Khriss and [[Baon]] to the Artisan conference center where they met up with Kenton, and later that same day she took them to the [[Hall of Judgement]] to meet with [[Lady Judge]] [[Heelis]]. At Heelis' suggestion she brought them to meet with [[Nilto]].
+
+After Baon left and Kenton "accepted" Khriss as a [[sand mastery|sand master]], N'Teese moved into the Diem with Khriss and the two professors. Khriss sent her off to find Nilto so she can ask him to find Baon for her. After assassins attacked Khriss in a restaurant, N'Teese returned, saying that Nilto was ready to meet, and the two of them ran off to meet with him. She later brought word from Nilto that he was leaving town and would not be able to search for Baon. The two of them chased after Nilto and caught him at the docks as he was boarding a ship. Khriss confronted Nilto, having figured out his true identity, Gevin. Jon Acron was revealed to be an assassin sent by [[Skathan]], and in the ensuing fight Baon was shot. After Khriss killed Acron, N'Teese reassures her that Baon was only grazed by the bullet and that he will be fine.
+
+She went to the Diem to watch Kenton and [[Drile]]'s duel.
 
 ## Notes
 <References />
-{{complete}}
-{{White Sand}}
+
 [[category:Kerztians]]
 [[Category: Taldaini]]
 [[Category: Residents of Kezare]]

@@ -1,0 +1,119 @@
+{{book
+|cover=RoW US cover.jpg
+|series=[[The Stormlight Archive]]
+|prequel=Oathbringer
+|sequel=Wind and Truth
+|setting=[[Roshar]], [[Cosmere]]
+|released=November 17, 2020
+|publisher=Tor Books, Gollancz
+|ISBN=978-0-7653-2638-6
+|page-count=1,230
+|word-count=[[/Statistical_analysis|455,891]]
+}}
+{{for|Rhythm of War (in-world)|pre=This article deals with the fourth [[Stormlight Archive]] novel|the in universe work}}
+
+'''''Rhythm of War''''' is the fourth book in ''[[The Stormlight Archive]]''. It was released on November 17, 2020.{{ref|name=reveal}}
+
+== Synopsis ==
+''There are secrets we have kept for so long. Watching. Sleepless. Eternal. And soon, they will no longer be ours.''
+
+'''''[[Shallan|The One Who Is Three]]''' seeks the captured soul, but does not know it. The imprisoned spren, so long ago forgotten. Can she free her own soul in time to find knowledge? The knowledge that damns all people of Roshar?''
+
+'''''[[Kaladin|The Fallen Soldier]]''' caresses and loves the spear even as it gouges his own flesh. He steps ever forward, ever into darkness, without light. He can bring none with him, but that which he can kindle himself.''
+
+'''''[[Venli|The Broken Sister]]''' sees her mistakes, and thinks she is one herself. She seems so far from her ancestors, but does not realize they carry her upon their shoulders. Toward victory, and toward that most important silence.''
+
+''And '''[[Navani Kholin|the Mother of Machines]]''', most important of them all, dances with liars at a grand ball. She must unmask them, find their hidden truths, and present them to the world. She must admit that the worst lies have been the ones she tells herself.''
+
+''If she does, our secrets will finally become truths instead.''
+
+== Cover Flap ==
+''After forming a coalition of human resistance against the enemy invasion, [[Dalinar Kholin]] and his [[Knights Radiant]] have spent a year fighting a protracted, brutal war. Neither side has gained an advantage, and the threat of a betrayal by Dalinar's crafty ally [[Taravangian]] looms over every strategic move.''
+
+''Now, as new technological discoveries by [[Navani Kholin]]'s scholars begin to change the face of the war, the enemy prepares a bold and dangerous operation. The arms race that follows will challenge the very core of the Radiant ideals, and potentially reveal the secrets of the [[Urithiru|ancient tower]] that was once the heart of their strength.''
+
+''At the same time that [[Kaladin]] Stormblessed must come to grips with his changing role within the Knights Radiant, his [[Order of Windrunners|Windrunners]] face their own problem: As more and more deadly enemy [[Fused]] awaken to wage war, no more [[honorspren]] are willing to [[Nahel bond|bond]] with humans to increase the number of Radiants. [[Adolin Kholin|Adolin]] and [[Shallan Davar|Shallan]] must lead the coalition’s envoy to the honorspren stronghold of [[Lasting Integrity]] and either convince the spren to join the cause against the evil god [[Odium]], or personally face the storm of failure.''{{url ref|url=https://www.amazon.com/exec/obidos/ASIN/B0826NKZHR|text=Amazon Blurb|site=Amazon|date=2020-07-26}}
+
+== Summary ==
+{{for|/Summary|a chapter by chapter summary}}
+{{for|/Chapter index|an index of chapter breaks in various editions}}
+The book is set on [[Roshar]] one year after the [[Battle of Thaylen Field]] and follows the stories of [[Shallan Davar]], [[Kaladin]], [[Venli]], and [[Navani Kholin]]. There are also several other characters who receive viewpoints; [[Adolin Kholin]], [[Lirin]], [[Dalinar Kholin]], [[Renarin Kholin]], [[Jasnah Kholin]], [[Rlain]], [[Dabbid]], [[Teft]], [[Moash]], [[Adin]], [[Taravangian]], [[Lezian]], and [[Hoid|Wit]] in the main text, Venli and [[Eshonai]] in flashbacks, and Taravangian as the focus of the Interludes along with several others.
+
+== Development ==
+Brandon began writing Stormlight Archive 4 in January 2019, with publication planned for 2020.{{wob ref|10516}}{{wob ref|11210}} The original working title was ''The Song of Changes'', which Brandon said was never meant to be the final title, and he later said the tentative title was ''The Rhythm of War''.{{wob ref|11310}}{{wob ref|12847}} Eventually, it was announced that the book would be released on November 17th, 2020, although the final title was still unknown at that time.{{ref|name=reveal}} ''Rhythm of War'' was finally made the official title in February 2020, and the writing process ended in July 2020.{{ref|name=title}}
+
+Initially, the book was to feature [[Eshonai]]'s flashbacks, with [[Venli]] taking center stage in the present-day timeline.{{wob ref|8979}} Eventually, Brandon began to waver on the former, wondering if Venli's flashbacks wouldn't work better for expanding on greater [[cosmere]] mysteries.{{wob ref|12844}} Ultimately, he decided on mixed flashbacks, with part set from Eshonai's perspective, while the other part set from Venli's.{{wob ref|12848}}
+
+The present-day story takes place approximately one year after the events of ''[[Oathbringer]]''.{{wob ref|8979}} While the title suggests greater focus on [[singer]] characters, the remaining protagonists, including [[Kaladin]], [[Shallan]], [[Dalinar]], and [[Szeth]], also feature prominently.{{wob ref|8979}} The prologue is written from the perspective of [[Navani]].{{wob ref|12852}}{{ref|name=tor1}}
+
+[[Wit]]'s epilogue in ''Rhythm of War'' is something that Brandon had been particularly looking forward to for a long time.{{wob ref|10802}}
+
+=== Pre-Publication Content ===
+Brandon has shared several fragments of ''Rhythm of War'' over the course of writing it, though it must be remembered that those come from the first draft, and as such are subject to change.
+
+* Two versions of a [[Lirin]] point-of-view section: [https://wob.coppermind.net/events/386-planet-comicon/#e12628 the first], in which he's walking through town looking for the [[Dieno|Herdazian general]], and the [https://wob.coppermind.net/events/388-bonn-signing/#e12676 second], in which he's examining refugees coming to [[Hearthstone]] from [[Herdaz]], while keeping an eye out for the same man. The fragment turned out to be the opening of chapter one,{{ref|name=tor1}} the first draft of which was included in Brandon's November 2019 newsletter.
+* A recorded reading of a [[Venli]] point-of-view section, which can be listened to [https://www.tor.com/2019/07/20/sdcc-brandon-sanderson-stormlight-archive-4-excerpt/ here], as Venli is getting ready to receive lady [[Leshwi]] in the conquered [[Kholinar]].
+* A fragment of the [[Navani]] prologue, which can be found [https://wob.coppermind.net/events/394-dragoncon-2019/#e12852 here], in which Navani tries to keep the party under control while searching for her suspiciously absent [[Gavilar Kholin|husband]], and another version [https://wob.coppermind.net/events/395/#e13027 here], which continues for a little longer after the first reading ends and features a conversation between the two.
+* A very early version of an [[Eshonai]] flashback scene, found [https://wob.coppermind.net/events/402-starsight-release-party/#e13303 here], in which she explores the area around the [[Shattered Plains]] and finds humans.
+* A [[Lift]] interlude, which can be read and listened to [https://wob.coppermind.net/events/412-ltue-2020/#e13628 here], in which she steals food, sneaks through the ventilation shafts of [[Urithiru]], and discusses her visit to the [[Nightwatcher]] with [[Wyndle]].
+* A [[Syl]] interlude, released in July 2020 Newsletter, in which she asks [[Dalinar]] to help her understand [[Kaladin]]'s depression better
+* Chapters 7 and 8, which can be listened to [https://www.youtube.com/watch?v=4lRDdxUy5iE here], regarding Kaladin and [[Moash]], as well as new [[fabrial]]s used by the [[Fused]].
+
+Additionally, Tor.com publicly released full part 1 of the book, including the prologue; it, and the accompanying discussion threads, can be found [https://www.tor.com/series/rhythm-of-war-brandon-sanderson/ here].
+
+== Cover Gallery ==
+{{for|/Covers|a cover gallery of Rhythm of War}}
+
+== Interior Art ==
+{{for|/Interior art|a gallery of the book's interior art}}
+
+== See Also ==
+* [[Rhythm of War/Epigraphs]]
+* [[Rhythm of War/Headings]]
+* [[Rhythm of War/Covers]]
+* [[Rhythm of War/Interior art]]
+
+== Trivia ==
+* ''Rhythm of War'' includes pictures of all the [[Spren#True Spren|True Spren]] who form [[Nahel bond]]s, save for the [[Bondsmith]] spren.{{wob ref|13108}}
+* As with ''[[Oathbringer]]'', ''Rhythm of War'' includes four new illustrations of the [[Herald]]s, specifically [[Nale]], [[Chanarach]], [[Pralla]], and [[Kalak]].
+
+== Statistical Analysis ==
+{{for|/Statistical analysis|a full statistical analysis}}
+''Rhythm of War'' consists of one prologue, one hundred and seventeen chapters, twelve of which are reserved for flashbacks of the focus character of the book, twelve interludes and one epilogue, reaching a total 455,891 word count. There are twenty-four different unique point-of-view characters in a total of 226 POVs.
+
+{|class="wikitable"
+|-
+! Word Count 
+| style="text-align:center" | 455,891
+|
+|-
+! Page Count 
+| style="text-align:center" | 1,230 
+| Tor hardback
+|-
+! Chapter Count 
+| style="text-align:center" | 131
+| Including prologue, 12 interludes, and epilogue.
+|-
+! PoV Characters
+| style="text-align:center" | 24 
+|
+|-
+! PoV Count
+| style="text-align:center" | 226
+|
+|}
+
+== Notes ==
+<references>
+{{url ref|name=reveal|url=https://www.tor.com/2019/12/10/brandon-sandersons-stormlight-archive-book-4-arrives-on-november-17-2020/|text=Stormlight 4 Release Date|site=Tor|date=2019-12-10}}
+{{url ref|name=title|url=https://www.tor.com/2020/02/10/brandon-sanderson-stormlight-archive-book-4-title-revealed-rhythm-of-war/|text=Stormlight 4 Title Reveal|site=Tor.com|date=2020-02-10}}
+{{url ref|name=tor1|url=https://www.tor.com/2020/07/23/read-rhythm-of-war-by-brandon-sanderson-prologue-and-chapter-one/|text=Read Rhythm of War by Brandon Sanderson: Prologue and Chapter One|site=Tor.com|date=2020-07-23}}
+
+</references>
+{{meta/partial}}
+{{Stormlight}}
+{{books}}
+[[Category: Stormlight Archive| 4]]
+[[es:El ritmo de la guerra]]
+[[uk:Ритм війни]]

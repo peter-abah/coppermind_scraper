@@ -1,15 +1,15 @@
 ---
-titles: "Prime"
-world: "Roshar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Kasimarlix.txt
+entity_type: character
+titles: Prime
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-**Kasimarlix** is a Prime from the [[Makabak]] region of [[Roshar]].{{book ref|sa3|65}}
+**Kasimarlix** is a Prime from the [[Makabak]] region of [[Roshar]].
 
-[[Dalinar Kholin]] presents [[Jasnah Kholin]]'s treatise *Verdict* to a number of [[Azish]] [[vizier]]s and scholars. The Azish are stunned by Jasnah's eloquence; among other impressive writing techniques, she analyzes a single quote from Prime Kasimarlix in three different stages, "each escalating the same quote to a different level of Superior Understanding".{{book ref|sa3|65}} The reason for Kasimarlix's status as "Prime" is not clear; they may have been a [[Prime Aqasix]], but Prime is also used in other contexts in the region, such as [[Prime Kadasix]] and the Prime of [[Emul]].
+[[Dalinar Kholin]] presents [[Jasnah Kholin]]'s treatise *Verdict* to a number of [[Azish]] [[vizier]]s and scholars. The Azish are stunned by Jasnah's eloquence; among other impressive writing techniques, she analyzes a single quote from Prime Kasimarlix in three different stages, "each escalating the same quote to a different level of Superior Understanding". The reason for Kasimarlix's status as "Prime" is not clear; they may have been a [[Prime Aqasix]], but Prime is also used in other contexts in the region, such as [[Prime Kadasix]] and the Prime of [[Emul]].
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 14:38, 21 June 2019 (MST)}}
-{{Stormlight}}

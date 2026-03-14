@@ -1,3 +1,8 @@
+---
+source_file: Farkeeper the Bright.txt
+entity_type: article
+---
+
 #REDIRECT [[Nalthian system]]
 [[Category: Structural redirects]]
 [[Category: Cosmere]]

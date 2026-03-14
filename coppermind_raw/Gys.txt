@@ -1,0 +1,13 @@
+{{nation
+|world=Nalthis
+|universe=[[Cosmere]]
+|books=[[Warbreaker]]
+}}
+'''Gys''' was a nation on [[Nalthis]] that fought in the [[Manywar]].{{book ref|wb|32}} When [[Peacegiver]] seized control of [[Hallandren]], his own country, Gys was brought out of the conflict as the Manywar ended.
+
+It is possible that Gys was part of the [[Pahn Unity]], the coalition of nations that fought against [[Hallandren]] during the [[Manywar]].{{book ref|wb|26}}
+
+== Notes ==
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 00:47, 29 May 2016 (MST)}}
+{{Warbreaker}}

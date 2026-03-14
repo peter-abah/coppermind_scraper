@@ -1,12 +1,13 @@
-{{settlement
-|region=Elendel Basin
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-**Wyllion** is a city in the northwestern portion of the [[Elendel Basin]].{{map ref|Elendel Basin}} It is north of the [[Sea of Yomend]] and southeast of [[Mycondwel]].
+---
+source_file: Wyllion.txt
+entity_type: settlement
+region: Elendel Basin
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
+
+**Wyllion** is a city in the northwestern portion of the [[Elendel Basin]]. It is north of the [[Sea of Yomend]] and southeast of [[Mycondwel]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 17:23, 25 December 2016 (MST)}}
-{{Mistborn|Era 2}}

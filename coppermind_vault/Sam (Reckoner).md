@@ -1,20 +1,18 @@
 ---
-name: "Sam"
-died: "Killed by Firefight (Epic)|Firefight"
-groups: "{{tag|Reckoners"
+source_file: Sam (Reckoner).txt
+entity_type: character
+name: Sam
+died: Killed by [[Firefight (Epic)|Firefight]]
+groups: Reckoners
+residence: Babilar
+earth: Reckoners
+introduced: '[[Firefight]]'
 ---
 
-|residence=Babilar
-|earth=Reckoners
-|introduced=[[Firefight]]
-}}
-{{for|Sam (vendor)|the hot dog vendor from [[Newcago]]|pre=This page is about the [[Reckoners|Reckoner]]}}
-**Sam** is a member of the [[Reckoners]] who worked with [[Valentine|Val]], [[Exel]], and [[Mizzy]] in [[Babilar]].{{book ref|firefight|6}}{{book ref|firefight|9}}
+**Sam** is a member of the [[Reckoners]] who worked with [[Valentine|Val]], [[Exel]], and [[Mizzy]] in [[Babilar]].
 
 ==History==
-Sam was the point man on Val's team. Prior to being assigned to Babilar, he took part in the assassination of [[Puños de Fuego]] in Mexico alongside Val.{{book ref|firefight|31}} He was a mentor to [[Missouri Williams]] when she first joined the Reckoners.{{book ref|firefight|9}} He was the first to learn to use the [[spyril]].{{book ref|firefight|18}} While observing [[Megan Tarash|Megan]] in Babilar, Sam went against Val's orders to confront her. He attempted to shoot her, but she outdrew him and shot him in self defense.{{book ref|firefight|40}} Mizzy held a grudge against Megan, whom she knew as Firefight, for the death of Sam, and swore revenge.{{book ref|firefight|20}}
+Sam was the point man on Val's team. Prior to being assigned to Babilar, he took part in the assassination of [[Puños de Fuego]] in Mexico alongside Val. He was a mentor to [[Missouri Williams]] when she first joined the Reckoners. He was the first to learn to use the [[spyril]]. While observing [[Megan Tarash|Megan]] in Babilar, Sam went against Val's orders to confront her. He attempted to shoot her, but she outdrew him and shot him in self defense. Mizzy held a grudge against Megan, whom she knew as Firefight, for the death of Sam, and swore revenge.
 
 ==Notes==
 <references />
-{{partial}}
-{{Reckoners}}

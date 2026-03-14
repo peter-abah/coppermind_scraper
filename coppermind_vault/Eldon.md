@@ -1,12 +1,12 @@
 ---
-nation: "Nalhalla"
-earth: "Alcatraz"
-introduced: "The Knights of Crystallia"
+source_file: Eldon.txt
+entity_type: character
+nation: Nalhalla
+earth: Alcatraz
+introduced: '[[The Knights of Crystallia]]'
 ---
 
-**Eldon** is a servant of [[Rikers Dartmoor]] who was ordered to take notes for Rikers future book whilst [[Alcatraz]] led the group to [[Folsom]] and [[Himalaya]] in the [[Royal Gardens]].{{book ref|a3|14}}
+**Eldon** is a servant of [[Rikers Dartmoor]] who was ordered to take notes for Rikers future book whilst [[Alcatraz]] led the group to [[Folsom]] and [[Himalaya]] in the [[Royal Gardens]].
 
 ## Notes
 <references />
-{{partial}}
-{{Alcatraz}}

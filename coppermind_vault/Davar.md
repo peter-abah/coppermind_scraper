@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Davar.txt
+entity_type: disambig
+---
 
 **[[House Davar]]** is a small lighteyed [[Veden]] family living in the [[Valam princedom]] of [[Jah Keved]].
 

@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Bastion.txt
+entity_type: disambig
+---
 
 **Bastion** may refer to:
 

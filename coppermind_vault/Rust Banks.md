@@ -1,11 +1,12 @@
-{{geography
-|region=Blackened Lands
-|world=Mirandus
-|books=[[Dark One (franchise)|Dark One]]
-}}
-The **Rust Banks** are an area of land, south of the [[Uls Karkun]] mountain range in the [[Blackened Lands]]. The [[Backflow]] river runs along both sides of the Rust Banks, joining in the south and continuing on to [[Pitch]] and beyond.{{map ref|Mirandus}}
+---
+source_file: Rust Banks.txt
+entity_type: geography
+region: Blackened Lands
+world: Mirandus
+books: '[[Dark One (franchise)|Dark One]]'
+---
+
+The **Rust Banks** are an area of land, south of the [[Uls Karkun]] mountain range in the [[Blackened Lands]]. The [[Backflow]] river runs along both sides of the Rust Banks, joining in the south and continuing on to [[Pitch]] and beyond.
 
 ## Notes
 <references />
-{{complete}}
-{{Dark One}}

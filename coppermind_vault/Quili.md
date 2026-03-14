@@ -1,13 +1,13 @@
-{{geography
-|type={{cat tag|Islands}}
-|region=Reshi Isles
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Quili** is one of the [[Reshi Isles]], west of [[Abri]], but east of the kingdom of [[Rira (country)|Rira]].{{map ref|Roshar}}
+---
+source_file: Quili.txt
+entity_type: geography
+region: Reshi Isles
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+**Quili** is one of the [[Reshi Isles]], west of [[Abri]], but east of the kingdom of [[Rira (country)|Rira]].
 
 ## Notes
 <references/>
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 23:02, 10 November 2017 (MST)}}
-{{stormlight}}

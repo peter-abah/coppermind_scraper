@@ -1,3 +1,8 @@
+---
+source_file: Elantris (book)Statistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Elantris (book)|Elantris]]***.
 
 Information used for this page is located [https://docs.google.com/spreadsheets/d/1KPz1cveVSN8FJV_I3FUNq0oXmej0rIqJsPgS_EtxH4I/edit#gid=473647573 here].
@@ -630,7 +635,5 @@ Information used for this page is located [https://docs.google.com/spreadsheets/
 
 |}
 
-{{meta/done}}
-{{Elantris}}
 [[Category: Elantris|*]]
 [[category: statistics]]

@@ -1,4 +1,7 @@
-{{CoverToC|skyward}}
+---
+source_file: SkywardCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[Skyward]]*. For more information, including what other editions used any particular cover, visit each image's file page.
 

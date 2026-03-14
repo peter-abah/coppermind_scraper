@@ -1,15 +1,14 @@
 ---
-#profession: "Soldier"
-nation: "Shinovar"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Wind and Truth"
+source_file: Athszen.txt
+entity_type: character
+'#profession': Soldier
+nation: Shinovar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-{{update|sa5}}
-**Athszen** is a [[Shin]] soldier on [[Roshar]].{{book ref|sa5|59}}
+**Athszen** is a [[Shin]] soldier on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

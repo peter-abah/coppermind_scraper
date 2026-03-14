@@ -1,41 +1,38 @@
 ---
-name: "Mitosis"
-groups: "Weaponized Cupcake <small>(formerly)</small>"
-abilities: "{{tag+|Epic"
+source_file: Mitosis (Epic).txt
+entity_type: character
+name: Mitosis
+groups: '[[Weaponized Cupcake]] <small>(formerly)</small>'
+abilities: Epic
+aliases: Lawrence Robert
+earth: Reckoners
+introduced: '[[Mitosis]]'
 ---
 
-|aliases=Lawrence Robert
-|earth=Reckoners
-|introduced=[[Mitosis]]
-}}
-{{quote
-|I am my own army, and I shall reign!
-|Mitosis{{book ref|Mitosis|3}}
-}}
+> I am my own army, and I shall reign!
+> — Mitosis
+
 **Mitosis** is a [[Epic#High Epic|High Epic]] who visits [[Newcago]] following [[Steelheart (Epic)|Steelheart]]'s death. Prior to becoming an Epic, he was known as **Lawrence Robert**.
 
 ## Abilities and Attributes
 ### Epic Abilities
-;Duplication: He has the ability to duplicated himself into two identical copies of himself, who can each then divide into more duplicates without limit. As the number of duplicates increases, however, the molecular stability of each individual decreases.{{book ref|Mitosis|3}} The duplicates also have the ability to combine themselves, as a result also merging the memories of the different duplicates. This is believed to be an ability unique to Mitosis. It is also a *prime invincibility*, which gives him the rank of High Epic; if even a single duplicate remains, he can go on to live another day.{{book ref|Mitosis|2}}
+;Duplication: He has the ability to duplicated himself into two identical copies of himself, who can each then divide into more duplicates without limit. As the number of duplicates increases, however, the molecular stability of each individual decreases. The duplicates also have the ability to combine themselves, as a result also merging the memories of the different duplicates. This is believed to be an ability unique to Mitosis. It is also a *prime invincibility*, which gives him the rank of High Epic; if even a single duplicate remains, he can go on to live another day.
 
 ### Epic Weakness
-{{sidequote
-|But how would bad rock music nearly kill a guy?
-|[[David Charleston]]{{book ref|firefight|26}}
-|side=right|size=250px
-}}
-If any duplicate came within earshot of a *Weaponized Cupcake* song they would lose molecular cohesion, their flesh literally melting from their bones.{{book ref|Mitosis|3}}  If enough duplicates hear it, they all disintegrate.{{book ref|Mitosis|4}}
 
-The strong connection between Mitosis' weakness and his past seems like such an unlikely coincidence to [[David Charleston|David]] that he begins researching other Epics with the intent of finding a pattern to Epic weaknesses.{{book ref|firefight|8}}
+> But how would bad rock music nearly kill a guy?
+> — [[David Charleston]]
+
+If any duplicate came within earshot of a *Weaponized Cupcake* song they would lose molecular cohesion, their flesh literally melting from their bones.  If enough duplicates hear it, they all disintegrate.
+
+The strong connection between Mitosis' weakness and his past seems like such an unlikely coincidence to [[David Charleston|David]] that he begins researching other Epics with the intent of finding a pattern to Epic weaknesses.
 
 ## History
 ### Before Calamity
-Before the arrival of [[Calamity (Epic)|Calamity]], Lawrence was a member of the band *Weaponized Cupcake*. He was the only one in the band who was classically trained, a fact that infuriated him. He was aggravated by the fact that the lead guitarist kept playing the same chord progression over and over.{{book ref|mitosis|3}}
+Before the arrival of [[Calamity (Epic)|Calamity]], Lawrence was a member of the band *Weaponized Cupcake*. He was the only one in the band who was classically trained, a fact that infuriated him. He was aggravated by the fact that the lead guitarist kept playing the same chord progression over and over.
 
 ### Newcago
-Mitosis journeyed to Newcago to learn the truth surrounding Steelheart's death. He did not believe that [[David Charleston]], an average non-Epic, was capable of killing a High Epic of Steelheart's power. He also wished to rule Newcago, stating that he was more powerful than Steelheart because Steelheart needed men to help administrate while he himself was an army of one.{{book ref|Mitosis|3}} He snuck into Newcago and started duplicating himself, each copy armed with a handgun. He threatened civilians to draw David out, then chased David through the city. David eventually figured out that Mitosis' weakness was hearing songs by his old band, and started singing even as he was cornered. [[Tia]] sent a message via mobile to the citizens of Newcago, who came outside and started singing one of Weaponized Cupcake's old songs, ultimately killing Mitosis for good.{{book ref|Mitosis|5}} After his death, Mitosis' DNA was sold to [[Dean Knighthawk|Knighthawk]] and later obtained by [[Jax (Reckoners)|Jax]].{{book ref|lux|15}}
+Mitosis journeyed to Newcago to learn the truth surrounding Steelheart's death. He did not believe that [[David Charleston]], an average non-Epic, was capable of killing a High Epic of Steelheart's power. He also wished to rule Newcago, stating that he was more powerful than Steelheart because Steelheart needed men to help administrate while he himself was an army of one. He snuck into Newcago and started duplicating himself, each copy armed with a handgun. He threatened civilians to draw David out, then chased David through the city. David eventually figured out that Mitosis' weakness was hearing songs by his old band, and started singing even as he was cornered. [[Tia]] sent a message via mobile to the citizens of Newcago, who came outside and started singing one of Weaponized Cupcake's old songs, ultimately killing Mitosis for good. After his death, Mitosis' DNA was sold to [[Dean Knighthawk|Knighthawk]] and later obtained by [[Jax (Reckoners)|Jax]].
 
 ## Notes
 <references />
-{{partial}}
-{{Reckoners}}

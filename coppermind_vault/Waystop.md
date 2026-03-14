@@ -1,10 +1,12 @@
 ---
-world: "Threnody"
-universe: "Cosmere"
-books: "Shadows for Silence in the Forests of Hell"
+source_file: Waystop.txt
+entity_type: location
+world: Threnody
+universe: '[[Cosmere]]'
+books: '[[Shadows for Silence in the Forests of Hell]]'
 ---
 
-A **waystop** is a safe location in the [[Forests of Hell]] on [[Threnody]].{{book ref|sfs}} 
+A **waystop** is a safe location in the [[Forests of Hell]] on [[Threnody]]. 
 
 ==Description==
 They are often inns, and people who come there can have food and drinks while enjoying temporary safety from the dangers of the Forests. They are generally not very complex, especially compared to the [[Fortress Town|fort]]s. However, they are always safe from [[shade]]s and other dangers.
@@ -14,6 +16,5 @@ The Forests are extremely dangerous places, as they are full of [[Shade]]s, and 
 
 ## Notes
 <references />
-{{partial}}
-{{Shadows for Silence}}
+
 [[es:Posada]]

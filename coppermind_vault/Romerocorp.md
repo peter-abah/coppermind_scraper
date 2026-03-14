@@ -1,10 +1,11 @@
-{{business
-|services=[[Motivator]]s
-|earth=Reckoners
-}}
-**Romerocorp** is a business that makes [[motivator]]s. Along with [[Dean Knighthawk]] and [[ITC]], they treat the method of manufacture as a secret to be guarded closely.{{book ref|calamity|8}}
+---
+source_file: Romerocorp.txt
+entity_type: business
+services: '[[Motivator]]s'
+earth: Reckoners
+---
+
+**Romerocorp** is a business that makes [[motivator]]s. Along with [[Dean Knighthawk]] and [[ITC]], they treat the method of manufacture as a secret to be guarded closely.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 05:02, 8 June 2024 (UTC)}}
-{{Reckoners}}

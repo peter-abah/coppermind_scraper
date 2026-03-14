@@ -1,3 +1,8 @@
+---
+source_file: AsheGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=250px caption="Gallery">
 ElantrisAr.jpg | With [[Sarene]] and [[Raoden]]

@@ -1,5 +1,10 @@
-{{disambig}}
-{{quote|Trell has been many things over the eons...|Brandon Sanderson{{wob ref|4960}}}}
+---
+source_file: Trell.txt
+entity_type: disambig
+---
+
+> Trell has been many things over the eons...
+> — Brandon Sanderson
 
 **Trell** is a name associated with several individuals and religions in the [[cosmere]]:
 

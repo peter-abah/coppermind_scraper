@@ -1,4 +1,9 @@
-{{disambig}}<br/>
+---
+source_file: Betab.txt
+entity_type: disambig
+---
+
+<br/>
 
 **Betab** can refer to multiple things:
 * One of the names used for the [[Herald]] [[Battar]]

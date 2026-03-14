@@ -1,3 +1,8 @@
+---
+source_file: Adolin KholinGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=200px>
 Adolin Chapters.svg | <center><small>by [[Isaac Stewart]]</small></center>Adolin chapters header

@@ -1,3 +1,8 @@
+---
+source_file: LeshwiGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Leshwi Miniature.png| <center><small>by {{a|Isaac Stewart}}</small></center> Leshwi Miniature from the Stormlight Premium Miniatures Kickstarter

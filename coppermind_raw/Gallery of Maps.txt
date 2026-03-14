@@ -1,0 +1,24 @@
+{{architecture
+|image=The Pinnacle.jpg
+|region=Shattered Plains
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+The '''Gallery of Maps''' is a [[Soulcast]] building in the king's complex on the [[Shattered Plains]] on [[Roshar]].{{book ref|sa1|24}}
+
+==Appearance And Location==
+{{image|Shattered Plains.jpg|Prime Map of the Shattered Plains|side=right|width=400px}}
+It is located east of [[Elhokar]]'s palace on the Shattered Plains. It is domed with large skylights lighting [[shalebark]] formations. This building was expensive to Soulcast, due to its large size and smooth surface. Several maps, including the Prime Map, are located in the Gallery as well as parchment listing each highprince along with the number of [[gemheart]]s won in accordance with the [[Vengeance Pact]].{{book ref|sa1|24}}
+
+==History==
+[[Dalinar]] met with [[Highprince]] [[Roion]] to try and convince Roion to join forces in order to do a joint attack.{{book ref|sa1|24}} Shallan visited the Gallery to study the [[:File:Shattered_Plains.jpg|Prime Map]] prior to the expedition deep into the Plains, which later enabled her to discover the symmetry of the plateaus.{{book ref|wor|52}}
+
+==In Urithiru==
+{{for|Urithiru#The Gallery of Maps}}
+There is a room on the penultimate floor of the tower of [[Urithiru]] that is also called the Gallery of Maps, named after the Gallery on the Shattered Plains. It is a windowless, quiet chamber, wherein Dalinar met with [[Taravangian]], [[Ialai Sadeas]], Highprince [[Hatham]], Highprince [[Aladar]], Highprince [[Ruthar]], Queen [[Fen]], and the [[Azish]] generals, along with each member's delegation.{{book ref|sa3|107}}
+
+== Note ==
+<references />
+{{partial}}
+{{Stormlight}}

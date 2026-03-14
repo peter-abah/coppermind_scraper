@@ -1,29 +1,30 @@
-{{lifeform
-|type=Tree
-|use=Fabric
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Breachtrees** are a plant native to [[Roshar]] used to make textiles.{{book ref|sa1|25}}
+---
+source_file: Breachtree.txt
+entity_type: lifeform
+type: Tree
+use: Fabric
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+**Breachtrees** are a plant native to [[Roshar]] used to make textiles.
 
 ==Uses==
-Breachtrees produce a type of cotton. The cotton can be spun into fabric. The fabric is versatile, and can be used to make clothing ranging from coats{{book ref|sa1|25}} to robes.{{book ref|sa4|15}} It is likely also used to make shift dresses.{{book ref|sa1|10}} The fabric, which sometimes has a scratchy feel, can be dyed.{{book ref|sa1|25}}
+Breachtrees produce a type of cotton. The cotton can be spun into fabric. The fabric is versatile, and can be used to make clothing ranging from coats to robes. It is likely also used to make shift dresses. The fabric, which sometimes has a scratchy feel, can be dyed.
 
 ==Cultivation and Economy==
-Breachtrees are cultivated as a textile crop in [[Jah Keved]] and possibly in other parts of Roshar. The harvested cotton is traded as a commodity.{{book ref|sa2|45}}
+Breachtrees are cultivated as a textile crop in [[Jah Keved]] and possibly in other parts of Roshar. The harvested cotton is traded as a commodity.
 
 ==History==
-[[Kaladin]] had a padded brown breachtree coat as a young man.{{book ref|sa1|25}}
+[[Kaladin]] had a padded brown breachtree coat as a young man.
 
-In {{rosharan date|1170}}, Brightlord [[Revilar]] forced [[Lin Davar]] to trade breachtree cotton and raw [[Shum (plant)|shum]] at an incredible discount to gain much-needed influence with [[Revilar]].{{book ref|sa2|45}}
+In , Brightlord [[Revilar]] forced [[Lin Davar]] to trade breachtree cotton and raw [[Shum (plant)|shum]] at an incredible discount to gain much-needed influence with [[Revilar]].
 
-[[Zahel]] wore a shabby tan breachtree cotton robe tied at his waist with a rope when he fought Kaladin in [[Urithiru]].{{book ref|sa4|15}}
+[[Zahel]] wore a shabby tan breachtree cotton robe tied at his waist with a rope when he fought Kaladin in [[Urithiru]].
 
 ==Trivia==
-*Breachtree was spelled "breechtree" in the first printings of *[[Rhythm of War]]*.{{book ref|sa4|15}}
+*Breachtree was spelled "breechtree" in the first printings of *[[Rhythm of War]]*.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:15, 11 February 2021 (UTC)}}
-{{Stormlight}}

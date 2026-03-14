@@ -1,31 +1,35 @@
-{{for|Calamity (Epic)|the [[Epic]] of the same name|pre=This article is about the novel}}
-{{book
-|cover=Calamity US Hardcover.jpg
-|series=[[The Reckoners]]|prequel=Firefight
-|setting=[[Ildithia]], [[Earth (Reckoners)|Alternate Earth]]
-|released=February 16, 2016{{bws ref|calamity-is-out|Calamity Release Announcement|date=2016-02-16}}
-|publisher=Delacorte Press
-|ISBN=978-0-3857-4360-0
-|page-count=424
-|word-count=[[/Statistical_analysis|103,055]]
-}}
-***Calamity*** is the third and final book in *[[The Reckoners]]* series by [[Brandon Sanderson]].{{sots ref|2013}}
+---
+source_file: Calamity.txt
+entity_type: book
+cover: Calamity US Hardcover.jpg
+series: '[[The Reckoners]]'
+prequel: Firefight
+setting: '[[Ildithia]], [[Earth (Reckoners)|Alternate Earth]]'
+released: February 16, 2016
+publisher: Delacorte Press
+isbn: 978-0-3857-4360-0
+page-count: '424'
+word-count: '[[/Statistical_analysis|103,055]]'
+---
 
-It takes place in Atlanta, renamed to [[Ildithia]].{{tweet ref|553333447242944512|Will Calamity take place (mostly) in another "redesigned" big city, like Newcago and Babilar?|date=Jan 8th, 2015}}
+***Calamity*** is the third and final book in *[[The Reckoners]]* series by [[Brandon Sanderson]].
+
+It takes place in Atlanta, renamed to [[Ildithia]].
 
 The title of the book is named for a mysterious red star that appeared in the sky about a year before the [[Epic]]s started getting their powers. It is later discovered that the red star is actually an Epic named [[Calamity (Epic)|Calamity]], and Calamity is apparently capable of giving ordinary humans Epic powers.
 
 ## Synopsis
-{{quote|From the bestselling author of the Mistborn series and *Words of Radiance* comes *Calamity*, the final book in the *New York Times* bestselling *Reckoners* series. What started in the instant #1 *New York Times* bestseller *Steelheart* and continued in the instant #1 *New York Times* bestseller *Firefight* now concludes in *Calamity*.<br />
+
+> From the bestselling author of the Mistborn series and *Words of Radiance* comes *Calamity*, the final book in the *New York Times* bestselling *Reckoners* series. What started in the instant #1 *New York Times* bestseller *Steelheart* and continued in the instant #1 *New York Times* bestseller *Firefight* now concludes in *Calamity*.<br />
 
 When Calamity lit up the sky, the Epics were born. David's fate has been tied to their villainy ever since that historic night. Steelheart killed his father. Firefight stole his heart. And now Regalia has turned his closest ally into a dangerous enemy.<br />
 
 David knew Prof's secret, and kept it even when Prof struggled to control the effects of his Epic powers. But facing Obliteration in Babilar was too much. Once the Reckoners' leader, Prof has now embraced his Epic destiny. He's disappeared into those murky shadows of menace Epics are infamous for the world over, and everyone knows there's no turning back. . . .<br />
 
-But everyone is wrong. Redemption is possible for Epics—Megan proved it. They're not lost. Not completely. And David is just about crazy enough to face down the most powerful High Epic of all to get his friend back. Or die trying.|{{url ref|url=http://www.amazon.com/gp/product/0385743602|text= *Calamity* product page|site=Amazon.com|date=Jul 2015}}}}
+But everyone is wrong. Redemption is possible for Epics—Megan proved it. They're not lost. Not completely. And David is just about crazy enough to face down the most powerful High Epic of all to get his friend back. Or die trying.
+> — 
 
 ==Summary==
-{{for|/Summary|a complete chapter by chapter summary}}
 
 ===Part One===
 [[Tia]] is missing and the [[Reckoners]] are low on resources. Knighthawk won't deal with them any more, so [[David Charleston|David]] leads the Reckoners on a raid on [[Knighthawk Foundry]], which is heavily guarded by gun-toting robots and drones. David manages to make it inside and steal some vials from a freezer, hoping to acquire some Epic-derived technology. He is badly wounded and eventually captured by [[Dean Knighthawk|Knighthawk]] himself. He gives them some aid in exchange for the secret to keeping back the darkness. He also reveals the secret of how motivators are made and gives David a tissue sample incubator in order to collect some of Prof's tissue.
@@ -49,13 +53,12 @@ After they arrive, David is reunited with his [[Blain Charleston|father]] from t
 David, Megan, and Prof land somewhere in Australia and are forced to sit and wait for Knighthawk's helicopter. During that time they find out that Mizzy turned into an Epic and the darkness is completely gone. Obliteration comes to them unaffected by Calamity's apparent death and he still intends to blow up Toronto. Epics are now free to decide to be saviors or villains on their own. David wants to practice his kissing skills on Megan, but instead she sends him back to his father. They have the same powers, but David needs help flying. His father offers to teach him.
 
 ## Development
-Brandon started work on *Calamity* late during December 2014, where he put together his Book Guide.  Drafting of Chapter 1 began on January 1st, 2015. He initially planned on finishing it by March 2015.{{sots ref|2014}} However drafting took longer than expected and he instead finished during the early morning of May 6th, 2015.{{tweet ref|595888143292727296|Brandon's tweet about finishing drafting|date=May 6th 2015}}January and February were slow writing months for him, due to a lot of traveling and touring, only writing 5,000 and 8,000 words in each respective month. His pace picked up in March where he managed to write 30,000 words. Over the course of the final 13 work-hours he wrote 13,200 words out of the initial draft's 102,000 words, with a break in the middle to go to the cinema.{{reddit ref|fantasy|352y3e|cr0t21k|text= Brandon's comments on the completion of *Calamity*.|date= May 6th, 2015}}{{reddit ref|fantasy|352y3e|cr0md3h|text=Peter's comments on the completion of *Calamity*.|date= May 6th, 2015}} The second draft was completed and turned in on May 18th.{{tweet ref|600248629731831808|*Calamity* 2.0 completion announcement.|date= May 18th, 2015}} Brandon's final revisions for the book were completed during the early morning of Sep 2nd, 2015.{{bws ref|a-thousand-faces| *Calamity* final revision announcement.|date= Sep 2nd, 2015}}
+Brandon started work on *Calamity* late during December 2014, where he put together his Book Guide.  Drafting of Chapter 1 began on January 1st, 2015. He initially planned on finishing it by March 2015. However drafting took longer than expected and he instead finished during the early morning of May 6th, 2015.January and February were slow writing months for him, due to a lot of traveling and touring, only writing 5,000 and 8,000 words in each respective month. His pace picked up in March where he managed to write 30,000 words. Over the course of the final 13 work-hours he wrote 13,200 words out of the initial draft's 102,000 words, with a break in the middle to go to the cinema. The second draft was completed and turned in on May 18th. Brandon's final revisions for the book were completed during the early morning of Sep 2nd, 2015.
 
 ==Cover Gallery==
-{{for|/Covers|a cover gallery of Calamity}}
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Calamity* consists of one prologue, fifty-one chapters, and one epilogue, reaching a total 103,055 word count.
 
 {|class="wikitable"
@@ -76,7 +79,5 @@ Brandon started work on *Calamity* late during December 2014, where he put toget
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Reckoners}}
-{{books}}
+
 [[Category: The Reckoners| 3]]

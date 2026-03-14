@@ -1,20 +1,21 @@
-{{book
-|cover=Eleventh Metal website cover.jpg
-|publisher=Crafty Games
-|released=December 15, 2011
-|series=[[Mistborn Era 1]]
-|sequel=The Final Empire
-|setting=[[Scadrial]], [[Cosmere]]
-|l=no-links
-|word-count=6,713
-|subpages=n
-}}
-{{for|Malatium|the actual metal}}
-***The Eleventh Metal*** is a short story included in the *[[Mistborn Adventure Game]]*. It was released in full on [[bws: mistborn-the-eleventh-metal|Brandon's site]] during the *[[Words of Radiance]]* *Steelhunt*.{{bws ref|mistborn-the-eleventh-metal|The Eleventh Metal|date=?}} It was republished in *[[Arcanum Unbounded]]*. A sample is available on [[bws: mistborn-the-eleventh-metal|Brandon's website]].
+---
+source_file: The Eleventh Metal.txt
+entity_type: book
+cover: Eleventh Metal website cover.jpg
+publisher: Crafty Games
+released: December 15, 2011
+series: '[[Mistborn Era 1]]'
+sequel: The Final Empire
+setting: '[[Scadrial]], [[Cosmere]]'
+l: no-links
+word-count: 6,713
+subpages: n
+---
+
+***The Eleventh Metal*** is a short story included in the *[[Mistborn Adventure Game]]*. It was released in full on [[bws: mistborn-the-eleventh-metal|Brandon's site]] during the *[[Words of Radiance]]* *Steelhunt*. It was republished in *[[Arcanum Unbounded]]*. A sample is available on [[bws: mistborn-the-eleventh-metal|Brandon's website]].
 
 ## Summary
 It tells the story of how [[Gemmel]] taught [[Kelsier]] the art of [[Allomancy]]. They travel to [[Mantiz]] and attack [[Keep Shezler]]. There, Kelsier learns that [[Antillius Shezler]] had been searching for half-breed skaa for him to torture, hopefully snap, and then test new metals on in a search for the eleventh metal. 
-{{expand}}
 
 ;Plot Summary
 
@@ -57,9 +58,7 @@ The Eleventh Metal shows how [[Ruin]] manipulated Kelsier into obsessing about t
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Mistborn|Era 1}}
-{{books}}
+
 [[Category:Mistborn| e1.0.5]]
 [[Category:Mistborn Era 1| 0.5]]
 [[es:El undécimo metal]]

@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Jam.txt
+entity_type: disambig
+---
 
 **Jam** may refer to either of the following people on [[Roshar]]:
 *[[Jam (Hearthstone)]], a resident of [[Hearthstone]] two years [[Kaladin]]'s senior

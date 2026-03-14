@@ -1,0 +1,259 @@
+This page contains a statistical analysis of '''''[[The Frugal Wizard's Handbook for Surviving Medieval England]]'''''.
+
+=== Chapter by Chapter Breakdown ===
+{| class="wikitable sortable"
+!Chapter (38)
+!Word Count (77,634)
+!Percentage
+|-
+| colspan="3" align="center" | '''Part One'''
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 1|Chapter 1]]
+| align="right" | 1,480
+| align="right" | 1.906%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 2|Chapter 2]]
+| align="right" | 1,591
+| align="right" | 2.049%
+|-
+| Your Own Dimension
+| align="right" | 293
+| align="right" | 0.377%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 3|Chapter 3]]
+| align="right" | 954
+| align="right" | 1.229%
+|-
+| Have I Time Traveled?
+| align="right" | 227
+| align="right" | 0.292%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 4|Chapter 4]]
+| align="right" | 1,756
+| align="right" | 2.262%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 5|Chapter 5]]
+| align="right" | 1,030
+| align="right" | 1.327%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 6|Chapter 6]]
+| align="right" | 942
+| align="right" | 1.213%
+|-
+| width="300px" | Why do Some Things about My Dimension Contradict the Historical Record?
+| align="right" | 370
+| align="right" | 0.477%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 7|Chapter 7]]
+| align="right" | 1,558
+| align="right" | 2.007%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 8|Chapter 8]]
+| align="right" | 1,381
+| align="right" | 1.779%
+|-
+| What Can I Expect from My Dimension?
+| align="right" | 729
+| align="right" | 0.929%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 9|Chapter 9]]
+| align="right" | 1,226
+| align="right" | 1.579%
+|-
+| You Are a Wizard
+| align="right" | 528
+| align="right" | 0.680%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 10|Chapter 10]]
+| align="right" | 1,874
+| align="right" | 2.414%
+|-
+| '''Part One Total'''
+| align="right" | '''15,939'''
+| align="right" | '''20.531%'''
+|-
+| colspan="3" align="center" | '''Part One'''
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 11|Chapter 11]]
+| align="right" | 2,689
+| align="right" | 3.464%
+|-
+| Can I Have a Dimension Full of Talking Bananas?
+| align="right" | 1
+| align="right" | 0.001%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 12|Chapter 12]]
+| align="right" | 2,522
+| align="right" | 3.249%
+|-
+| All Right, WHY Can't I Have a Dimension Full of Talking Bananas?
+| align="right" | 674
+| align="right" | 0.868%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 13|Chapter 13]]
+| align="right" | 2,856
+| align="right" | 3.679%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 14|Chapter 14]]
+| align="right" | 3,214
+| align="right" | 4.140%
+|-
+| Our Fantastic Packages!
+| align="right" | 997
+| align="right" | 1.284%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 15|Chapter 15]]
+| align="right" | 2,335
+| align="right" | 3.008%
+|-
+| width="300px" | How Can I Be Certain My Personal Wizard Dimension™ Won't be Corrupted by Other Visitors?
+| align="right" | 609
+| align="right" | 0.784%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 16|Chapter 16]]
+| align="right" | 1,600
+| align="right" | 2.061%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 17|Chapter 17]]
+| align="right" | 2,043
+| align="right" | 2.632%
+|-
+| Can I Transfer Things Between Dimensions?
+| align="right" | 250
+| align="right" | 0.322%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 18|Chapter 18]]
+| align="right" | 2,738
+| align="right" | 3.527%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 19|Chapter 19]]
+| align="right" | 1,203
+| align="right" | 1.550%
+|-
+| width="300px" | Why Does Everyone in Britain Speak Modern English in My Pre-Norman-Conquest Dimension? Shouldn't That Require an Incredible Alignment of Social and Linguistic Factors That Would Never in a Million Years Align in Such a Convenient Way?
+| align="right" | 2
+| align="right" | 0.003%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 20|Chapter 20]]
+| align="right" | 2,043
+| align="right" | 2.632%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 21|Chapter 21]]
+| align="right" | 1,673
+| align="right" | 2.155%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 22|Chapter 22]]
+| align="right" | 2,400
+| align="right" | 3.091%
+|-
+| '''Part Two Total'''
+| align="right" | '''29,849'''
+| align="right" | '''38.448%'''
+|-
+| How to Be a Wizard
+| align="right" | 520
+| align="right" | 0.670%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 23|Chapter 23]]
+| align="right" | 1,976
+| align="right" | 2.545%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 24|Chapter 24]]
+| align="right" | 1,989
+| align="right" | 2.562%
+|-
+| Wait. Did I Just Do a Colonialism?
+| align="right" | 226
+| align="right" | 0.291%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 25|Chapter 25]]
+| align="right" | 1,195
+| align="right" | 1.539%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 26|Chapter 26]]
+| align="right" | 960
+| align="right" | 1.237%
+|-
+| width="300px" | What If I'm Still Worried about the Ethics of Essentially Colonizing the British Isles, Influencing the Course of History for an Entire People?
+| align="right" | 454
+| align="right" | 0.585%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 27|Chapter 27]]
+| align="right" | 2,907
+| align="right" | 3.744%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 28|Chapter 28]]
+| align="right" | 1,976
+| align="right" | 2.545%
+|-
+| (New!) Better than True Life Experiences™
+| align="right" | 459
+| align="right" | 0.591%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 29|Chapter 29]]
+| align="right" | 2,629
+| align="right" | 3.386%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 30|Chapter 30]]
+| align="right" | 3,211
+| align="right" | 4.136%
+|-
+| '''Part Three Total'''
+| align="right" | '''18,502'''
+| align="right" | '''23.832%'''
+|-
+| colspan="3" align="center" | '''Part Four'''
+|-
+| What If I Don't Like My Dimension? Are Refunds Available?
+| align="right" | 225
+| align="right" | 0.290%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 31|Chapter 31]]
+| align="right" | 1,369
+| align="right" | 1.763%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 32|Chapter 32]]
+| align="right" | 1,192
+| align="right" | 1.535%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 33|Chapter 33]]
+| align="right" | 1,658
+| align="right" | 2,136%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 34|Chapter 34]]
+| align="right" | 1,418
+| align="right" | 1.827%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 35|Chapter 35]]
+| align="right" | 1,554
+| align="right" | 2.002%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 36|Chapter 36]]
+| align="right" | 3,293
+| align="right" | 4.242%
+|-
+| The Wizard's Burden
+| align="right" | 272
+| align="right" | 0.350%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Chapter 37|Chapter 37]]
+| align="right" | 1,565
+| align="right" | 2.016%
+|-
+| [[Summary:The Frugal Wizard's Handbook for Surviving Medieval England#Epilogue|Epilogue]]
+| align="right" | 798
+| align="right" | 1.028%
+|-
+| '''Part Four Total'''
+| align="right" | '''10,677'''
+| align="right" | '''17.188%'''
+|-
+| '''Total'''
+| align="right" | '''77,634'''
+| align="right" | '''100.00%'''
+|}
+
+{{meta/done}}
+{{Frugal Wizard}}
+[[Category: Frugal Wizard|*]]
+[[category: statistics]]

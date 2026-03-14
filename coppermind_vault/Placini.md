@@ -1,16 +1,14 @@
 ---
-profession: "{{cat tag|scholars|Author"
+source_file: Placini.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Placini** is an author on [[Roshar]].{{book ref|sa1|5}}{{book ref|sa1|8}}
+**Placini** is an author on [[Roshar]].
 
-[[Jasnah Kholin]] asks [[Shallan Davar]] if she has read Placini's works, as they are important for the study of the logical arts.{{book ref|sa1|5}}
+[[Jasnah Kholin]] asks [[Shallan Davar]] if she has read Placini's works, as they are important for the study of the logical arts.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 17:35, 25 December 2016 (MST)}}
-{{Stormlight}}

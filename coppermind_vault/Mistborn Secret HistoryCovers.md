@@ -1,4 +1,7 @@
-{{CoverToC|mbe1}}
+---
+source_file: Mistborn Secret HistoryCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[Mistborn: Secret History]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. As *Secret History* was also included in the *[[Arcanum Unbounded]]* anthology, you can see [[Arcanum Unbounded/Covers|here]] for more covers.
 

@@ -1,23 +1,21 @@
 ---
-image: "prof.png"
-aliases: "Limelight, Prof"
-abilities: "{{tag+|Epic"
+source_file: Jonathan Phaedrus.txt
+entity_type: character
+image: prof.png
+aliases: Limelight, Prof
+abilities: Epic
+groups: Reckoners
+earth: Reckoners
+introduced: '[[Steelheart]]'
 ---
 
-|groups={{tag|Reckoners}}
-|earth=Reckoners
-|introduced=[[Steelheart]]
-}}
-{{update|lux}}
-{{cite note}}
-{{quote
-|And every life you take, even the bad ones, takes a bit of your soul with it.
-|Prof{{book ref|Lux|4}}
-}}
-**Jonathan Phaedrus**, usually referred to as **Prof**, is the leader of the [[Reckoners]], a group which hunts down and kills [[Epic]]s.{{book ref|Steelheart|7}}  Somewhat ironically, he himself is an Epic of considerable power, {{book ref|Steelheart|41}} known by the alias **Limelight**.{{book ref|Calamity|14}}
+> And every life you take, even the bad ones, takes a bit of your soul with it.
+> — Prof
+
+**Jonathan Phaedrus**, usually referred to as **Prof**, is the leader of the [[Reckoners]], a group which hunts down and kills [[Epic]]s.  Somewhat ironically, he himself is an Epic of considerable power,  known by the alias **Limelight**.
 
 ## Attributes and Abilities
-{{for|Motivator#Tensors|the motivators made out of that power|pre="Tensors" redirects here}}
+
 ### Powers
 ; Transference: As a "[[gifter]]", Prof can loan his Epic abilities to non-Epics, often the members of the Reckoners.  He disguises his giftings by attributing the effects to various devices. By gifting his abilities to others, he also lessens the psychological effects of being an Epic.
 ; Matter Disruption: Disguised by the **tensors**. Prof can turn inorganic matter into dust. This dust seems to have less volume and weight than the original substance. He can also carve improvised weapons such as swords using this ability. Because the ability is controlled by the mind, each person has a different mental trick for activating this ability.
@@ -29,7 +27,7 @@ abilities: "{{tag+|Epic"
 Prof's weakness is failure, and the risk of it. This can be seen as he refused to enter a contest pre-Calamity and his reluctance to use his abilities in Steelheart, instead gifting them to others.
 
 ## History
-Prior to the arrival of [[Calamity (Epic)|Calamity]], Jonathan Phaedrus was a fifth-grade science teacher. He was involved in a romantic relationship with [[Tia]], who at the time worked for NASA. At some point after the arrival of Calamity, the school where he worked was destroyed by an Epic while still in session. The details of this incident are unclear, and it is possible that the Epic in question was Phaedrus himself experiencing his Rending.{{book ref|Steelheart|34}}. Sometime prior to the events of Steelheart, he was part of a team of "hero" Epics consisting of himself, [[Lincoln]], [[Abigail Reed]], and [[Amala]]. This venture ended in catastrophe as every member of the group other than Phaedrus succumbed to Calamity's corruption. Sometime later, he and Tia founded the Reckoners.
+Prior to the arrival of [[Calamity (Epic)|Calamity]], Jonathan Phaedrus was a fifth-grade science teacher. He was involved in a romantic relationship with [[Tia]], who at the time worked for NASA. At some point after the arrival of Calamity, the school where he worked was destroyed by an Epic while still in session. The details of this incident are unclear, and it is possible that the Epic in question was Phaedrus himself experiencing his Rending.. Sometime prior to the events of Steelheart, he was part of a team of "hero" Epics consisting of himself, [[Lincoln]], [[Abigail Reed]], and [[Amala]]. This venture ended in catastrophe as every member of the group other than Phaedrus succumbed to Calamity's corruption. Sometime later, he and Tia founded the Reckoners.
 
 ### [[Steelheart]]
 David manages to track down the Reckoners, a rebel group fighting against the Epics, and finds Megan Tarash, a member of the Reckoners, in Newcago. After he helps her as the Reckoners plan a hit on Fortuity, David convinces Jonathan to let him join. Jonathan later plans to free Newcago from Steelheart's influence by killing the Epic after David reveals that he saw Steelheart bleed.  Jonathan is revealed to  be a High Epic and a [[Gifter]] that shares his powers through the guise of advanced technological equipment such as the tensors. He later fights Steelheart and helps David in eventually taking the Epic down.
@@ -41,10 +39,8 @@ Following the events of Steelheart, Phaedrus travelled with David to [[Babylon R
 In the third book of the series, Prof served as the main antagonist of the book. While consumed by his powers, Prof went to Ildithia and continued Regalia's plan of taking [[Larcener]]'s assumer abilities and replacing Calamity, unaware of the fact the Larcener himself was Calamity. He faced off against David's team twice, but soon David redeemed him by making him confront his weakness. In the end, he aids David in taking down Calamity and freeing the Epics from the corruption of their powers; however, he grieves from his actions and his murders of Tia, Exel, and Val while he was under the corruption of his powers.
 
 ### [[Lux (book)|Lux]]
-After Jax's brother was killed by the Epic [[Lovestruck]] and his family killed by [[Obliteration]], Prof found Jax, took care of him, and fed him as they traveled across the country. He took Jax to the [[Coop]], leaving him to be trained by [[Zeff]] as a Reckoner.{{book ref|lux|3}}
-Later on, Prof visited the Coop to check up on Jax's progress and give the Texas Reckoners new assignments.{{book ref|lux|9}}
+After Jax's brother was killed by the Epic [[Lovestruck]] and his family killed by [[Obliteration]], Prof found Jax, took care of him, and fed him as they traveled across the country. He took Jax to the [[Coop]], leaving him to be trained by [[Zeff]] as a Reckoner.
+Later on, Prof visited the Coop to check up on Jax's progress and give the Texas Reckoners new assignments.
 
 ## Notes
 <references />
-{{partial}}
-{{Reckoners}}

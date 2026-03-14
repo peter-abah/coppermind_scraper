@@ -1,3 +1,8 @@
+---
+source_file: Honor ChasmGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Honor Chasm.jpg| <small><center>by {{a|Thorkild Skov}}</center></small>Cover art of the Danish translation for volume one of *[[The Way of Kings]]*.

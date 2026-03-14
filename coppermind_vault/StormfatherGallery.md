@@ -1,3 +1,8 @@
+---
+source_file: StormfatherGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 The Stormfather - XXI. The World .png | <center><small>by {{a|taratjah}}</small></center> On the Tarot card **The World**

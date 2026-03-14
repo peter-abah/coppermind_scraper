@@ -1,0 +1,1 @@
+#REDIRECT [[Summary:The Shattered Lens]]

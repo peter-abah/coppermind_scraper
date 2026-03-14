@@ -1,62 +1,60 @@
 ---
-image: "Masaka by Botanicaxu.jpg"
-abilities: "{{tag+|worldhopping"
+source_file: Masaka.txt
+entity_type: character
+image: Masaka by Botanicaxu.jpg
+abilities: worldhopping
+aliases: Chinikdakordich
+'#profession': painter
+groups: Nightmare Division, [[Natricatich strain]]
+species: Sleepless
+residence: Kilahito
+nation: Nagadan
+'''world': Unknown
+universe: '[[Cosmere]]'
+introduced: '[[Yumi and the Nightmare Painter]]'
 ---
-
-|aliases=Chinikdakordich
-|#profession=painter
-|groups={{tag|Nightmare Division}}, [[Natricatich strain]]
-|species=Sleepless
-|residence=Kilahito
-|nation=Nagadan
-|'world=Unknown
-|universe=[[Cosmere]]
-|introduced=[[Yumi and the Nightmare Painter]]
-}}
 
 **Masaka**, also known as **Chinikdakordich**, is a young [[Sleepless]] who assumes the role of a female [[nightmare]] [[painter]] on [[Komashi]]. 
 
 ## Appearance and Personality
-Masaka takes the appearance of a short woman who wears her hair with bangs and tends to wear dark makeup on her face, especially around the eyes.{{book ref|yumi|16}} She exclusively wears black clothing, and favors a black sweater.{{book ref|yumi|33}} She dislikes showing her skin, to avoid revealing her nature as a [[Sleepless]] to others--she wears scarves or tops with a high collar in order to hide her neck, and sometimes wear sleeves long enough to pull her hands into them.{{book ref|yumi|16}}{{book ref|yumi|33}}
+Masaka takes the appearance of a short woman who wears her hair with bangs and tends to wear dark makeup on her face, especially around the eyes. She exclusively wears black clothing, and favors a black sweater. She dislikes showing her skin, to avoid revealing her nature as a [[Sleepless]] to others--she wears scarves or tops with a high collar in order to hide her neck, and sometimes wear sleeves long enough to pull her hands into them.
 
-Masaka is usually very shy and quiet, even with her friends.{{book ref|yumi|16}} She dislikes when people stare at her, and shows other signs of antisocial behavior.{{book ref|yumi|16}} Despite her strange personality, Masaka makes an effort to be friendly to people she likes.{{book ref|yumi|16}} Her odd behavior is likely a consequence of her limited experience being a human.{{book ref|yumi|33}} Masaka is very adamantly tired of war,{{book ref|yumi|33}} and tries to influence her friends toward being accepting of aliens, likely as a measure to prevent bigotry.{{book ref|yumi|21}} She also thinks [[nightmare]]s can sometimes be cute, though she insists she dislikes horrific creatures.{{book ref|yumi|30}} Masaka often draws on her sketchpad while hanging out with friends.{{book ref|yumi|16}} As one can assume from the career she chose, she enjoys painting, and art in general.{{book ref|yumi|16}}{{book ref|yumi|33}}
+Masaka is usually very shy and quiet, even with her friends. She dislikes when people stare at her, and shows other signs of antisocial behavior. Despite her strange personality, Masaka makes an effort to be friendly to people she likes. Her odd behavior is likely a consequence of her limited experience being a human. Masaka is very adamantly tired of war, and tries to influence her friends toward being accepting of aliens, likely as a measure to prevent bigotry. She also thinks [[nightmare]]s can sometimes be cute, though she insists she dislikes horrific creatures. Masaka often draws on her sketchpad while hanging out with friends. As one can assume from the career she chose, she enjoys painting, and art in general.
 
-She takes on the form of a human woman not just out of convenience, but due to actually finding happiness in that form and being perceived as such.{{book ref|yumi|33}}{{book ref|yumi|part=anotherepilogue}} She actively prefers the name Masaka to her Sleepless name, Chinikdakordich, and corrects those that refer to her otherwise.{{book ref|yumi|33}}
+She takes on the form of a human woman not just out of convenience, but due to actually finding happiness in that form and being perceived as such. She actively prefers the name Masaka to her Sleepless name, Chinikdakordich, and corrects those that refer to her otherwise.
 
-She is an agonistes that shows a substantial lack of self-confidence about her ability to blend in as a human, doubting that she actually passes as such.{{book ref|yumi|33}} But at the same time, she takes pride in how far she has come and how well she is doing.{{book ref|yumi|33}}
+She is an agonistes that shows a substantial lack of self-confidence about her ability to blend in as a human, doubting that she actually passes as such. But at the same time, she takes pride in how far she has come and how well she is doing.
 
 ## Attributes and Abilities
-As a [[Sleepless]], Masaka is able to send out hordelings away from herself to search and spy, though she does not do this regularly.{{book ref|yumi|33}} Masaka is also a competent painter, having completed two years of upper school on the subject before being hired.{{book ref|yumi|16}}
+As a [[Sleepless]], Masaka is able to send out hordelings away from herself to search and spy, though she does not do this regularly. Masaka is also a competent painter, having completed two years of upper school on the subject before being hired.
 
 ## History
-Masaka previously used the name Chinikdakordich, and is the sixtieth horde of the [[Natricatich strain]] of Sleepless. She doesn't talk much about their past, but experienced a great deal of prejudice due to being a Sleepless. At some point she grew tired of wars being fought elsewhere in the [[cosmere]] and so decided to disguise herself and live a normal human life. After years of breeding she was able to produce a convincing face, and took up residence on [[Kilahito]]. When she arrived on Kilahito, she sent out hordelings to investigate her surroundings. She found circular regions which she could not enter, and avoided searching them further.{{book ref|yumi|33}}
+Masaka previously used the name Chinikdakordich, and is the sixtieth horde of the [[Natricatich strain]] of Sleepless. She doesn't talk much about their past, but experienced a great deal of prejudice due to being a Sleepless. At some point she grew tired of wars being fought elsewhere in the [[cosmere]] and so decided to disguise herself and live a normal human life. After years of breeding she was able to produce a convincing face, and took up residence on [[Kilahito]]. When she arrived on Kilahito, she sent out hordelings to investigate her surroundings. She found circular regions which she could not enter, and avoided searching them further.
 
-In upper school on Komashi, Masaka was rumored to have stabbed someone years prior, and been sent to become a painter by a court as part of her plea deal.{{book ref|yumi|16}} During their schooling she became friends with [[Nikaro]], [[Akane]], [[Tojin]], and [[Izzy]].{{book ref|yumi|16}} She once made a hat for Nikaro for his birthday.{{book ref|yumi|28}} She became a painter after graduating and typically works alongside Izzy.{{book ref|yumi|21}}
+In upper school on Komashi, Masaka was rumored to have stabbed someone years prior, and been sent to become a painter by a court as part of her plea deal. During their schooling she became friends with [[Nikaro]], [[Akane]], [[Tojin]], and [[Izzy]]. She once made a hat for Nikaro for his birthday. She became a painter after graduating and typically works alongside Izzy.
 
-When [[Yumi]] first arrived in [[Kilahito]], Masaka drew a strange bunny for her as a gift.{{book ref|yumi|16}} Later, [[Design]] recruited Masaka to help Yumi map out the planet beyond the [[shroud]]. Masaka was readily willing to help once she understood the issue was important, though she begged Yumi not to tell anyone about her nature and offered a knife as a gift when Yumi promised not to tell. Masaka was able to map out the locations of the circular areas in the shroud where they were unable to enter.{{book ref|yumi|33}}
+When [[Yumi]] first arrived in [[Kilahito]], Masaka drew a strange bunny for her as a gift. Later, [[Design]] recruited Masaka to help Yumi map out the planet beyond the [[shroud]]. Masaka was readily willing to help once she understood the issue was important, though she begged Yumi not to tell anyone about her nature and offered a knife as a gift when Yumi promised not to tell. Masaka was able to map out the locations of the circular areas in the shroud where they were unable to enter.
 
-When Nikaro begged his friends to join him in defense of Kilahito, Masaka was the second of his friends (following Tojin) to agree that they should help.{{book ref|yumi|39}} At the [[Battle of Kilahito]], Masaka was the first to notice the arrival of the stable nightmares.{{book ref|yumi|40}} After [[Hoid]] and Design left Komashi, Masaka wrote letters to the [[Cryptic]] periodically with updates. Hoid was able to learn more about Komashi's fate, following the destruction of the [[father machine]], through this information. With the Nightmare Division disbanded, Masaka got a job as a server at the [[Noodle Princess]], working for Painter and Yumi. According to Hoid, she became increasingly comfortable with more people knowing about her nature.{{book ref|yumi|part=anotherepilogue}}
+When Nikaro begged his friends to join him in defense of Kilahito, Masaka was the second of his friends (following Tojin) to agree that they should help. At the [[Battle of Kilahito]], Masaka was the first to notice the arrival of the stable nightmares. After [[Hoid]] and Design left Komashi, Masaka wrote letters to the [[Cryptic]] periodically with updates. Hoid was able to learn more about Komashi's fate, following the destruction of the [[father machine]], through this information. With the Nightmare Division disbanded, Masaka got a job as a server at the [[Noodle Princess]], working for Painter and Yumi. According to Hoid, she became increasingly comfortable with more people knowing about her nature.
 
 ## Relationships
 
 ### Nikaro (Painter)
-She used to be friends with [[Nikaro]], giving him a spiked black helmet at his birthday and saying it was a 'birthday hat.'{{book ref|yumi|28}} But they fell out when Nikaro lied to her and their common friends by saying that he's joining the [[Dreamwatch]].{{book ref|yumi|27}} But even after the fallout, she was the second [[painter]] to agree that they should help in the [[battle of Kilahito]], even if Nikaro is lying again.{{book ref|yumi|39}} It's likely they went back to being friends again after the battle, as she works as a server at the [[Noodle Princess]], Nikaro and [[Yumi]]'s restaurant.{{book ref|yumi|part=anotherepilogue}}
+She used to be friends with [[Nikaro]], giving him a spiked black helmet at his birthday and saying it was a 'birthday hat.' But they fell out when Nikaro lied to her and their common friends by saying that he's joining the [[Dreamwatch]]. But even after the fallout, she was the second [[painter]] to agree that they should help in the [[battle of Kilahito]], even if Nikaro is lying again. It's likely they went back to being friends again after the battle, as she works as a server at the [[Noodle Princess]], Nikaro and [[Yumi]]'s restaurant.
 
 ### Akane
-She is close friends with [[Akane]], often eating with her and the rest of her friends at the [[Noodle Pupil]] and other restaurants.{{book ref|yumi|16}} She doesn't want her to learn that she is a [[Sleepless]], and begs Yumi to keep it a secret after she found out.{{book ref|yumi|33}}
+She is close friends with [[Akane]], often eating with her and the rest of her friends at the [[Noodle Pupil]] and other restaurants. She doesn't want her to learn that she is a [[Sleepless]], and begs Yumi to keep it a secret after she found out.
 
 ### Design
-[[Design]] is one of the only people that are aware of her secret identity.{{book ref|yumi|33}} Her exact thoughts on Design are unclear, but Design shows an almost maternal fondness for her.{{book ref|yumi|33}} 
+[[Design]] is one of the only people that are aware of her secret identity. Her exact thoughts on Design are unclear, but Design shows an almost maternal fondness for her. 
 
 ### Hoid
-While her thoughts on [[Hoid]] are unknown, Hoid himself shows respect and affection for her. He also respects her desire to be treated as a human woman, and encourages people to give her affirmation.{{book ref|yumi|part=anotherepilogue}} He and Design kept in contact with her even after leaving [[Komashi]] behind.{{book ref|yumi|part=anotherepilogue}}
+While her thoughts on [[Hoid]] are unknown, Hoid himself shows respect and affection for her. He also respects her desire to be treated as a human woman, and encourages people to give her affirmation. He and Design kept in contact with her even after leaving [[Komashi]] behind.
 
 ### Yumi
-She is close friends with Yumi, and works for her at the Noodle Princess. She quickly took a liking to her in their first meeting, drawing her a picture of a rabbit.{{book ref|yumi|16}} She deeply appreciated Yumi still treating her as a normal woman even after finding out she was a Sleepless, and for promising not to disclose her secret.{{book ref|yumi|33}} Yumi finds her rather odd, especially so after discovering her species, but she didn't let it change how she treated her.{{book ref|yumi|33}}
+She is close friends with Yumi, and works for her at the Noodle Princess. She quickly took a liking to her in their first meeting, drawing her a picture of a rabbit. She deeply appreciated Yumi still treating her as a normal woman even after finding out she was a Sleepless, and for promising not to disclose her secret. Yumi finds her rather odd, especially so after discovering her species, but she didn't let it change how she treated her.
 
 ## Notes
 <references />
-{{complete}}
-{{yumi}}
 
 [[es:Masaka]]

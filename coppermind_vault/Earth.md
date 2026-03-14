@@ -1,8 +1,10 @@
-{{disambig}}
+---
+source_file: Earth.txt
+entity_type: disambig
+---
 
 [[Brandon Sanderson]] has written a number of series set on alternative versions of our planet:
 
-{{columns|
 * [[Earth (Alcatraz)|Alcatraz]]
 * [[Earth (Dark One)|Dark One]]
 * [[Earth (Dreamer)|Dreamer]]
@@ -13,7 +15,6 @@
 * [[Earth (Rithmatist)|Rithmatist]]
 * [[Earth (Snapshot)|Snapshot]]
 * [[Earth (Skyward)|Skyward]]
-}}
 
 [[Category: Alcatraz]]
 [[Category: Dark One]]

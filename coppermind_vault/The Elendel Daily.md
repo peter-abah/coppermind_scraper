@@ -1,19 +1,16 @@
-{{DISPLAYTITLE:*{{FULLPAGENAME}}*}}
-{{literature
-|image=The Elendel Daily header.png
-|type=Broadsheet
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-***The Elendel Daily*** is a broadsheet published in [[Elendel]] on [[Scadrial]].{{file ref|Elendel Daily broadsheet.png|*The Elendel Daily* broadsheet}} It is prone to sensationalism.{{book ref|mb5|5}}
+---
+source_file: The Elendel Daily.txt
+entity_type: displaytitle:''{{fullpagename}}''
+---
 
-It includes two stylized symbols for [[tin]] in the heading. In an issue from {{date|341 PC}}, the edition number is written in the [[Steel alphabet]] as {{user:fbstj/mb/writing|20|aluminum|19|brass|duralumin|bendalloy}};{{file ref|Elendel Daily broadsheet.png|*The Elendel Daily* broadsheet}} this is thought to equate to the number 8,042.{{17s ref|topic|1157|text=Edition Number in Elendel Daily|poster=discipleofhoid|date=14 November 2011}}
+***The Elendel Daily*** is a broadsheet published in [[Elendel]] on [[Scadrial]]. It is prone to sensationalism.
 
-The front page of the issue from the 4th of Doxil 341 included an episode of the serialized story of Allomancer [[Jak]]'s adventures to the [[Pits of Eltania]]. It also included stories on several other notable events of the time, including labor strife in Elendel, a crime committed by the [[Vanishers]], and a report on the adventures of the *[[Ironsights]]*, a ship lost at sea for two years.{{file ref|Elendel Daily broadsheet.png|*The Elendel Daily* broadsheet}}
+It includes two stylized symbols for [[tin]] in the heading. In an issue from , the edition number is written in the [[Steel alphabet]] as ; this is thought to equate to the number 8,042.
+
+The front page of the issue from the 4th of Doxil 341 included an episode of the serialized story of Allomancer [[Jak]]'s adventures to the [[Pits of Eltania]]. It also included stories on several other notable events of the time, including labor strife in Elendel, a crime committed by the [[Vanishers]], and a report on the adventures of the *[[Ironsights]]*, a ship lost at sea for two years.
 
 ## Headlines
-{{columns|
+
 * [[House Tekiel]] Unveils The "[[Breaknaught]]"
 * The Phantom Railcar (about the [[Vanishers]])
 * Is There Life Across the Ocean?
@@ -21,10 +18,9 @@ The front page of the issue from the 4th of Doxil 341 included an episode of the
 * The [[Kandra|Faceless Immortals]] Saved My Life!
 * Union Leader Abandons Solidarity with Trade Union Party Members
 * [[Feltri]] Proven to be Rioter!
-}}
 
 ## Advertisements
-{{columns|
+
 * Horseless Carriages are a Menace!
 * [[Briggs & Sons]] buy metals
 * Vote [[Feltri]]!
@@ -33,7 +29,6 @@ The front page of the issue from the 4th of Doxil 341 included an episode of the
 * [[Jarrington]] at [[Metalurgistics Allied]] hiring out [[Allomancer]]s
 * [[Immerling Arms]] Revolvers
 * [[Brigs Wennington]] Lighting
-}}
 
 <gallery caption="Gallery" heights="200px">
 Elendel Daily broadsheet.png | *The Elendel Daily* front page from the 4th of Doxil 341
@@ -46,5 +41,3 @@ Breaknaught.png | The [[Breaknaught]]
 
 ## Notes
 <references />
-{{complete}}
-{{Mistborn|Era 2}}

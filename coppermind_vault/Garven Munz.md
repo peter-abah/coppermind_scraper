@@ -1,18 +1,17 @@
 ---
-profession: "Professor"
-residence: "Bilming"
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 2"
+source_file: Garven Munz.txt
+entity_type: character
+profession: Professor
+residence: Bilming
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-{{quote
-|The most monumental change to our government structure since the Words of Founding.
-|The professor's view of the [[Elendel Supremacy Bill]]{{file ref|The Two Seasons broadsheet.jpg|*The Two Seasons* broadsheet}}
-}}
-Professor **Garven Munz** is a resident of [[Bilming]] on [[Scadrial]]. Regarded as the city's "top political mind," his opinion of the [[Elendel Supremacy Bill]] was mentioned in *[[The Two Seasons]]* broadsheet, as published on Marewill 19, {{date|348|PC}}.{{file ref|The Two Seasons broadsheet.jpg|*The Two Seasons* broadsheet}}
+> The most monumental change to our government structure since the Words of Founding.
+> — The professor's view of the [[Elendel Supremacy Bill]]
+
+Professor **Garven Munz** is a resident of [[Bilming]] on [[Scadrial]]. Regarded as the city's "top political mind," his opinion of the [[Elendel Supremacy Bill]] was mentioned in *[[The Two Seasons]]* broadsheet, as published on Marewill 19, .
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 17:20, 21 October 2023 (UTC)}}
-{{Mistborn|Era 2}}

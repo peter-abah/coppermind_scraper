@@ -1,14 +1,15 @@
-{{settlement
-|map=Shamel locator.png
-|princedom=Hatham
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Shamel** is a city in [[Alethkar]] in the [[Hatham princedom]].{{map ref|Alethkar}} It is just west of a river that divides the Hatham princedom and the [[Thanadal princedom]].
+---
+source_file: Shamel.txt
+entity_type: settlement
+map: Shamel locator.png
+princedom: Hatham
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+**Shamel** is a city in [[Alethkar]] in the [[Hatham princedom]]. It is just west of a river that divides the Hatham princedom and the [[Thanadal princedom]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 08:59, 3 June 2017 (MST)}}
-{{stormlight}}

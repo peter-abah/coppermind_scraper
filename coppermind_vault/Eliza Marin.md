@@ -1,19 +1,17 @@
 ---
-born: "{{date|308|pc"
+source_file: Eliza Marin.txt
+entity_type: character
+born: '308'
+died: '310'
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-|died={{date|310|pc}}
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-{{quote
-|Ascend and be free
-|The inscription on her headstone.{{book ref|mb6|13}}
-}}
-**Eliza Marin** was a child who lived on [[Scadrial]]. She died before her third birthday. She is buried in the [[Seran New District Cemetery]]. [[Marasi]] finds her tombstone while waiting for [[Dechamp]] to dig up [[ReLuur]]'s [[blessing|spike]].{{book ref|mb6|13}}
+> Ascend and be free
+> — The inscription on her headstone.
+
+**Eliza Marin** was a child who lived on [[Scadrial]]. She died before her third birthday. She is buried in the [[Seran New District Cemetery]]. [[Marasi]] finds her tombstone while waiting for [[Dechamp]] to dig up [[ReLuur]]'s [[blessing|spike]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 03:13, 7 March 2020 (UTC)}}
-{{Mistborn|Era 2}}

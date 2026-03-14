@@ -1,24 +1,25 @@
-{{settlement
-|nation=Teod
-|world=Sel
-|universe=[[Cosmere]]
-|books=[[Elantris (book)|Elantris]]
-}}
+---
+source_file: Teoras.txt
+entity_type: settlement
+nation: Teod
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
+---
 
-{{quote|Spirit laughed again, leading her into a large, stately building. Sarene gasped in wonder at its beauty. It was lined with delicate, spiraled arches, and the floor was crafted of pale white marble. The wall reliefs were even more intricate than those on the Korathi temple in Teoras.|Sarene on entering the Elantrian chapel.{{book ref|Elantris|41}}}}
+> Spirit laughed again, leading her into a large, stately building. Sarene gasped in wonder at its beauty. It was lined with delicate, spiraled arches, and the floor was crafted of pale white marble. The wall reliefs were even more intricate than those on the Korathi temple in Teoras.
+> — Sarene on entering the Elantrian chapel.
 
-**Teoras** is the capital city of [[Teod]] on [[Sel]]. It is surrounded by forest and hosted a large sea-port.{{book ref|Elantris|17}} The roads are made of cobblestone, and there is a main road leading to the docks.{{book ref|Elantris|61}} At least some of the buildings have brick walls.{{book ref|Elantris|61}}
+**Teoras** is the capital city of [[Teod]] on [[Sel]]. It is surrounded by forest and hosted a large sea-port. The roads are made of cobblestone, and there is a main road leading to the docks. At least some of the buildings have brick walls.
 
-Teoras was best known for housing the largest [[Korathi]] temple in Teod.{{glossary ref|Elantris|T}} However, when [[Sarene]] entered [[Elantris (city)|Elantris]] with [[Raoden]] (under the guise of Spirit), she gasped at the Korathi chapel there and its beauty, saying its wall reliefs were more intricate than even Teoras's temple{{book ref|Elantris|41}}, which implies that perhaps Teoras's temple was only matched by the Elantrian Korathi temples. So, during the time after the [[Reod]] and before the restoration of Elantris, Teoras's temple would have been the largest Korathi temple in the world.
+Teoras was best known for housing the largest [[Korathi]] temple in Teod. However, when [[Sarene]] entered [[Elantris (city)|Elantris]] with [[Raoden]] (under the guise of Spirit), she gasped at the Korathi chapel there and its beauty, saying its wall reliefs were more intricate than even Teoras's temple, which implies that perhaps Teoras's temple was only matched by the Elantrian Korathi temples. So, during the time after the [[Reod]] and before the restoration of Elantris, Teoras's temple would have been the largest Korathi temple in the world.
 
-When [[Sarene]] was eleven a troop of players passed through Teoras and Sarene declared she wished to be an actress rather than a princess.{{book ref|Elantris|32}}
+When [[Sarene]] was eleven a troop of players passed through Teoras and Sarene declared she wished to be an actress rather than a princess.
 
-Under [[Dilaf]], the [[Dakhor]] attacked Teoras in the [[Battle of Teoras]].{{book ref|Elantris|61}}
+Under [[Dilaf]], the [[Dakhor]] attacked Teoras in the [[Battle of Teoras]].
 
 ==Trivia==
 *In the original edition of Elantris, the capital of Teod was called Teoin, with Teoras being a city to its east. This was changed in the anniversary edition with references to Teoin all changed to Teoras.
 
 ## Notes
 <references />
-{{partial}}
-{{Elantris}}

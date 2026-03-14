@@ -1,16 +1,20 @@
-{{book|title=*Elsecaller*|display-title=*Elsecaller* (short story)
-|cover=Elsecaller cover.jpg
-|series=[[The Stormlight Archive]]
-|collaborators=[[Dan Wells]]
-|prequel=The Way of Kings
-|sequel=Oathbringer
-|released=December 4, 2025 (print), December 5, 2024 (Story Deck)
-|'publisher=[[Dragonsteel Entertainment]]
-|setting=[[Roshar]], [[Cosmere]]
-|page-count=48
-}}
+---
+source_file: Elsecaller (short story).txt
+entity_type: book
+title: '''''Elsecaller'''''
+display-title: '''''Elsecaller'''' (short story)'
+cover: Elsecaller cover.jpg
+series: '[[The Stormlight Archive]]'
+collaborators: '[[Dan Wells]]'
+prequel: The Way of Kings
+sequel: Oathbringer
+released: December 4, 2025 (print), December 5, 2024 (Story Deck)
+'''publisher': '[[Dragonsteel Entertainment]]'
+setting: '[[Roshar]], [[Cosmere]]'
+page-count: '48'
+---
 
-***Elsecaller*** is a short story featuring [[Jasnah]], co-written by [[Brandon Sanderson]] and [[Dan Wells]].{{url ref|url=https://www.dragonsteelbooks.com/collections/all/products/storydeck-box|text=StoryDeck Box|site=dragonsteelbooks.com|name=StoryDeck Box}} Part of [[The Stormlight Archive]] series, it is set during *[[Words of Radiance]]*. The story was released on December 5th, 2024 at Dragonsteel Nexus as part of the Stormlight Lost Tales StoryDeck.{{url ref|url=https://www.dragonsteelbooks.com/pages/storydeck|text=Stormlight Lost Tales|site=dragonsteelbooks.com|name=Stormlight Lost Tales}} The cards featuring the story were later sold as card packs.{{ref|name=StoryDeck Box}} It was released in print on December 4th, 2025 at Dragonsteel Nexus 2025 as part of a double feature alongside [[King Lopen the First of Alethkar]].
+***Elsecaller*** is a short story featuring [[Jasnah]], co-written by [[Brandon Sanderson]] and [[Dan Wells]]. Part of [[The Stormlight Archive]] series, it is set during *[[Words of Radiance]]*. The story was released on December 5th, 2024 at Dragonsteel Nexus as part of the Stormlight Lost Tales StoryDeck. The cards featuring the story were later sold as card packs. It was released in print on December 4th, 2025 at Dragonsteel Nexus 2025 as part of a double feature alongside [[King Lopen the First of Alethkar]].
 
 == Synopsis==
 
@@ -82,11 +86,9 @@ The story was originally published not in a traditional book, but as part of the
 |}
 
 ==Trivia==
-*Brandon has previously released an uncanonical version of the scene directly following Jasnah transferring to Shadesmar after she is stabbed aboard the *Winds Pleasure*, which can be read on <span class="plainlinks">[https://tor.com/2014/08/06/stormlight-archive-scene-after-words-of-radiance/ on Tor's website]</span>.
+*Brandon has previously released an uncanonical version of the scene directly following Jasnah transferring to Shadesmar after she is stabbed aboard the *Winds Pleasure*, which can be read on **[https://tor.com/2014/08/06/stormlight-archive-scene-after-words-of-radiance/ on Tor's website]**.
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Stormlight}}
-{{books}}
+
 [[category: Stormlight Archive| 2.7]]

@@ -1,20 +1,19 @@
 ---
-world: "Roshar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Dilid.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-{{quote
-|She’d begun to imagine an infinite spiral, like with old Dilid, one of the ten fools. He ran up a hillside toward the Tranquiline Halls with sand sliding beneath his feet—running for eternity, but never making progress.
-|[[Shallan]]'s thoughts while descending stairs in [[Urithiru]]{{book ref|sa3|29}}
-}}
-**Dilid** is one of the [[ten fools]],{{book ref|sa3|29}} which are a part of the teachings of [[Vorinism]].{{wob ref|4157}}
+> She’d begun to imagine an infinite spiral, like with old Dilid, one of the ten fools. He ran up a hillside toward the Tranquiline Halls with sand sliding beneath his feet—running for eternity, but never making progress.
+> — [[Shallan]]'s thoughts while descending stairs in [[Urithiru]]
 
-He runs toward the [[Tranquiline Halls]] but never makes any progress for all eternity because there is sand sliding beneath his feet on the hill.{{book ref|sa3|29}}
+**Dilid** is one of the [[ten fools]], which are a part of the teachings of [[Vorinism]].
 
-[[Shallan]] thinks of him when she sees a staircase spiraling down into darkness in [[Urithiru]] to confront [[Re-Shephir]].{{book ref|sa3|29}}
+He runs toward the [[Tranquiline Halls]] but never makes any progress for all eternity because there is sand sliding beneath his feet on the hill.
+
+[[Shallan]] thinks of him when she sees a staircase spiraling down into darkness in [[Urithiru]] to confront [[Re-Shephir]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 07:30, 29 February 2020 (UTC)}}
-{{Stormlight}}

@@ -1,22 +1,26 @@
-{{quote
-|It took hours to decide, but Restares is right&mdash;this is what must be done. For the good of Alethkar.
-|Amaram to Kaladin, on deciding to take the Shards for himself{{book ref|sa1|51}}
-}}
+---
+source_file: Restares.txt
+entity_type: book ref
+---
 
-**Restares** is a member of [[Sons of Honor]], possibly [[Meridas Amaram]]'s superior, and likely one of the organization's leaders.{{book ref|sa1|51}}{{book ref|sa2|88}}{{book ref|sa2|54}} Restares may have originally brought [[Gavilar Kholin]] into the organization.{{book ref|sa3|40}}
+> It took hours to decide, but Restares is right&mdash;this is what must be done. For the good of Alethkar.
+> — Amaram to Kaladin, on deciding to take the Shards for himself
 
-Gavilar briefly suspected on the night of his assassination that Restares tried to kill him, but never thought that'd actually happen.{{book ref|sa1|prologue}}
+**Restares** is a member of [[Sons of Honor]], possibly [[Meridas Amaram]]'s superior, and likely one of the organization's leaders. Restares may have originally brought [[Gavilar Kholin]] into the organization.
 
-Restares had a [[spanreed]] to Amaram, which was sometimes carried by Amaram's carriage driver, [[Pama]].{{book ref|sa2|88}} After [[Kaladin]] saved Amaram's life and killed [[Helaran Davar]], Restares advised that Amaram take the [[Shardblade]] and [[Shardplate]], and to kill the witnesses and pretend that Amaram personally won the Shards. The deliberation took hours, but eventually Amaram agreed, thinking it had to be done for the good of [[Alethkar]]. This resulted in Kaladin's enslavement, and the deaths of the last surviving members of his squad, [[Hab]], [[Reesh]], [[Alabet]], and [[Coreb]].{{book ref|sa1|51}}
+Gavilar briefly suspected on the night of his assassination that Restares tried to kill him, but never thought that'd actually happen.
 
-[[Mraize]] knew about Restares and referred to the Sons of Honor as Restares's cronies. Upon receiving a page of text from [[Shallan Davar]] about what Amaram knows, Mraize believed the Sons of Honor are also close to the secrets of the [[Shattered Plains]] and [[Urithiru]].{{book ref|sa2|54}}
+Restares had a [[spanreed]] to Amaram, which was sometimes carried by Amaram's carriage driver, [[Pama]]. After [[Kaladin]] saved Amaram's life and killed [[Helaran Davar]], Restares advised that Amaram take the [[Shardblade]] and [[Shardplate]], and to kill the witnesses and pretend that Amaram personally won the Shards. The deliberation took hours, but eventually Amaram agreed, thinking it had to be done for the good of [[Alethkar]]. This resulted in Kaladin's enslavement, and the deaths of the last surviving members of his squad, [[Hab]], [[Reesh]], [[Alabet]], and [[Coreb]].
 
-After the [[Battle of Narak]], Amaram wrote to Restares via spanreed that the Sons of Honor are successful in their goal of bringing the [[Voidbringer]]s back to Roshar, with the hopes the [[Herald]]s would also return. Amaram informed Restares of the [[Everstorm]] and the Voidbringers' red eyes.{{book ref|sa2|88}}
+[[Mraize]] knew about Restares and referred to the Sons of Honor as Restares's cronies. Upon receiving a page of text from [[Shallan Davar]] about what Amaram knows, Mraize believed the Sons of Honor are also close to the secrets of the [[Shattered Plains]] and [[Urithiru]].
+
+After the [[Battle of Narak]], Amaram wrote to Restares via spanreed that the Sons of Honor are successful in their goal of bringing the [[Voidbringer]]s back to Roshar, with the hopes the [[Herald]]s would also return. Amaram informed Restares of the [[Everstorm]] and the Voidbringers' red eyes.
 
 ## Spoiler Warning
 The following link contains major spoilers for *[[Rhythm of War]]*. Please be very sure you have either read the book or are happy to be spoiled on some major points of the story.
 
-<div style='font-size: large; text-align: center;'>[[Kalak|<span style='color: red;' title="SPOILERS AHEAD">SPOILERS AHEAD</span>]]</div>
+> [!WARNING] Info
+> [[Kalak|**SPOILERS AHEAD**]]
 
 ## Notes
 <references /><!-- sa1 prologue, 51, sa2 54, 88 -->

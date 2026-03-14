@@ -1,16 +1,15 @@
 ---
-groups: "Fabian Augments cartel"
-earth: "Frugal Wizard"
-introduced: "The Frugal Wizard's Handbook for Surviving Medieval England"
+source_file: Marta.txt
+entity_type: character
+groups: '[[Fabian Augments]] cartel'
+earth: Frugal Wizard
+introduced: '[[The Frugal Wizard''s Handbook for Surviving Medieval England]]'
 ---
 
-{{quote
-|Johnny? Didn't know you were on this job. Can you hand me that box peeking out of the backpack?
-|Marta to [[Runian]]{{book ref|frugal|34}}
-}}
-**Marta** is the on-staff dimensional expert for the [[Fabian Augments]] cartel. She was part of a small group waiting for the cartel's beacon to come back online to teleport dimensions. Upon her arrival in [[Maelport]], unarmored and with a large backpack of equipment, [[Ulric]] instructed her to repair their sabotaged portal.{{book ref|frugal|33}} She mistakenly believed that [[Runian]] was still working for the cartel, allowing him to rescue [[Ryan Chu]] and [[Jen]] under the guise of taking them outside to be shot. After she finished repairing the portal, Ryan captured Marta, taking her through the portal back to their [[Earth (Frugal Wizard)|Earth]] with himself and Jen.{{book ref|frugal|34}}
+> Johnny? Didn't know you were on this job. Can you hand me that box peeking out of the backpack?
+> — Marta to [[Runian]]
+
+**Marta** is the on-staff dimensional expert for the [[Fabian Augments]] cartel. She was part of a small group waiting for the cartel's beacon to come back online to teleport dimensions. Upon her arrival in [[Maelport]], unarmored and with a large backpack of equipment, [[Ulric]] instructed her to repair their sabotaged portal. She mistakenly believed that [[Runian]] was still working for the cartel, allowing him to rescue [[Ryan Chu]] and [[Jen]] under the guise of taking them outside to be shot. After she finished repairing the portal, Ryan captured Marta, taking her through the portal back to their [[Earth (Frugal Wizard)|Earth]] with himself and Jen.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 21:31, 11 February 2024 (UTC)}}
-{{Frugal Wizard}}

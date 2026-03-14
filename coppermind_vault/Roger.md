@@ -1,15 +1,13 @@
 ---
-groups: "{{tag|Librarian|cat=Librarians"
+source_file: Roger.txt
+entity_type: character
+groups: Librarian
+'#profession': Soldier
+earth: Alcatraz
+books: '[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]'
 ---
 
-|#profession=Soldier
-|earth=Alcatraz
-|books=[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]
-}}
-
-**Roger** is a [[Librarian]] soldier who was with [[Biblioden]] when he sacrificed [[Attica Smedry]] to make a bloodforged [[Lens]] in the [[Highbrary]]. Biblioden ordered him to knock down the stairs leading to the altar after [[Bastille]] awoke and started making her way to rescue [[Alcatraz]] and his father.{{book ref|a5|20}}
+**Roger** is a [[Librarian]] soldier who was with [[Biblioden]] when he sacrificed [[Attica Smedry]] to make a bloodforged [[Lens]] in the [[Highbrary]]. Biblioden ordered him to knock down the stairs leading to the altar after [[Bastille]] awoke and started making her way to rescue [[Alcatraz]] and his father.
 
 ## Notes
 <references/>
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 20:54, 31 October 2023 (UTC)}}
-{{alcatraz}}

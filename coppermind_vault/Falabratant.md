@@ -1,15 +1,12 @@
 ---
-profession: "{{cat tag|Scholars|Philosopher"
+source_file: Falabratant.txt
+entity_type: character
+nation: Kharbranth
+world: Roshar
+universe: '[[Cosmere]]'
 ---
 
-|nation=Kharbranth
-|world=Roshar
-|universe=[[Cosmere]]
-}}
-{{update|sa5}}
-**Falabratant** is a philosopher on [[Roshar]] from [[Kharbranth]].{{book ref|sa5|114}}
+**Falabratant** is a philosopher on [[Roshar]] from [[Kharbranth]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

@@ -1,0 +1,17 @@
+{{character
+|world=Maltese
+|universe=[[Wode]] [[State]]s
+|introduced=[[Perfect State]]
+}}
+{{quote
+|At least he didn't break your wrist. How am I going to get this fixed? Maltese doesn't even have bone-knitting technology.
+|Raul to Jasmine about Kai{{book ref|ps|2}}
+}}
+Raul is a [[Liveborn]] that plays in the game of paintball on [[Maltese]]. He and some other men from his faction within the game have set up a trap for [[Jasmine]] and another woman from her faction. After shooting Jasmine's ally, they are interrupted by [[Kairominas|Kai]], who is trying to rescue the women. Raul's hand gets broken by Kai attacking him with a metal rod.
+
+Raul attempts to convince the [[Wode]] to count Kai's kill on Jasmine as a hit for his faction.{{book ref|ps|2}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 09:33, 16 June 2018 (MST)}}
+{{Perfect State}}

@@ -1,18 +1,16 @@
 ---
-profession: "{{cat tag|Bridgemen|Bridgeman"
+source_file: Delp.txt
+entity_type: character
+groups: Bridge Four, army
+died: Bridge run
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|groups={{tag|Bridge Four}}, {{tag+|army|Sadeas}}
-|died=Bridge run {{Rosharan date|1173|missing-date=y}}{{book ref|sa1|46}}
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Delp** was a member of [[Bridge Four]] on the [[Shattered Plains]] of [[Roshar]].{{book ref|sa1|46}}
+**Delp** was a member of [[Bridge Four]] on the [[Shattered Plains]] of [[Roshar]].
 
-In {{Rosharan date|1173}}, during the bridge run prior to [[Shen]]'s arrival, Delp was hit in the neck by a [[Parshendi]] arrow and killed.{{book ref|sa1|46}} His death, along with [[Yake]]'s injury, left Bridge Four with only twenty-eight members.
+In , during the bridge run prior to [[Shen]]'s arrival, Delp was hit in the neck by a [[Parshendi]] arrow and killed. His death, along with [[Yake]]'s injury, left Bridge Four with only twenty-eight members.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 20:12, 22 December 2016 (MST)}}
-{{Stormlight}}

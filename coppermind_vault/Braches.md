@@ -1,23 +1,21 @@
 ---
-died: "c. {{date|0|fe"
+source_file: Braches.txt
+entity_type: character
+died: c. 0
+era: Classical Scadrial
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
 ---
 
-|era=Classical Scadrial
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 1]]
-}}
-{{quote
-|It is so cold. When this is ﬁnished, I think I should like to live where it is warm all year. Braches has told of such places, islands to the south where great mountains create ﬁre.
-|[[Alendi's logbook]]{{book ref|mb1|29}}
-}}
-**Braches** is a man who lives on [[Scadrial]] during the [[Classical Scadrial|classical era]].{{book ref|mb1|29}}
+> It is so cold. When this is ﬁnished, I think I should like to live where it is warm all year. Braches has told of such places, islands to the south where great mountains create ﬁre.
+> — [[Alendi's logbook]]
 
-Braches knew [[Alendi]], the presumed [[Hero of Ages]], and told him tales of islands in the south of Scadrial that have volcanoes.{{book ref|mb1|29}} He was known for his inquisitive nature, and once promised Alendi that he would investigate the [[Feruchemy|Feruchemical]] powers of [[Rashek]] and the rest of the [[Terris]] packmen who accompanied Alendi to the [[Well of Ascension]].{{book ref|mb1|22}}
+**Braches** is a man who lives on [[Scadrial]] during the [[Classical Scadrial|classical era]].
+
+Braches knew [[Alendi]], the presumed [[Hero of Ages]], and told him tales of islands in the south of Scadrial that have volcanoes. He was known for his inquisitive nature, and once promised Alendi that he would investigate the [[Feruchemy|Feruchemical]] powers of [[Rashek]] and the rest of the [[Terris]] packmen who accompanied Alendi to the [[Well of Ascension]].
 
 Rashek and the packmen likely killed him when they killed Alendi.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:09, 11 September 2018 (MST)}}
-{{Mistborn|Era 1}}

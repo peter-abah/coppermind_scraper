@@ -1,3 +1,8 @@
+---
+source_file: IvoryGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Oathbringer full cover art.jpg | <center><small>by {{a|Michael Whelan}}</small></center> On *[[Oathbringer]]* cover (as a [[Shardblade]])

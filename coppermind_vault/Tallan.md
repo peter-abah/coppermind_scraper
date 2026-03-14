@@ -1,18 +1,16 @@
 ---
-died: "{{Rosharan date|1173"
+source_file: Tallan.txt
+entity_type: character
+died: ', [[Battle of Narak]]'
+groups: army
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-, [[Battle of Narak]]{{book ref|sa3|9}}
-|groups={{tag+|army|Kholin}}
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
 **Tallan** is a captain in the [[House Kholin|Kholin]] army on the [[Shattered Plains]] of [[Roshar]].
 
-He led the Eighth Company in the Fifth Battalion, which was its police force.{{book ref|sa3|9}} He was good friends with [[Colot]], but died in the [[Battle of Narak]].{{book ref|sa3|9}}
+He led the Eighth Company in the Fifth Battalion, which was its police force. He was good friends with [[Colot]], but died in the [[Battle of Narak]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 19:12, 26 January 2019 (MST)}}
-{{Stormlight}}

@@ -1,0 +1,51 @@
+{{character
+|family=[[House Harms]]
+|relatives=[[Steris Harms]], [[Marasi Colms]], [[Jackstom Harms]], [[Maxillium Ladrian]], [[Tindwyl Ladrian]]
+|ancestors=[[Spook]]{{book ref|mb4|7}}
+|abilities={{tag+|Rioter}}{{book ref|mb7|57}}
+|residence=Elendel
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Lost Metal]]
+}}
+{{quote
+|These seven years. Have you used them? Have you appreciated them? I spent them wishing I could have even one more day of my old life. That I could show my children a world of lights and life, instead of stone and shadow. Please. Tell me you lived those years of freedom.
+|Armal, to Marasi{{book ref|mb7|68}}
+}}
+'''Armal Harms''' is a [[zinc]] [[Misting]] (aka a [[Rioter]]) on [[Scadrial]]. She is a distant cousin of [[Steris Harms]] and [[Marasi Colms]].{{book ref|mb7|56}} She was a victim of the [[Vanishers]] who disappeared for seven years before being found in [[Wayfarer]].{{book ref|mb7|56}}
+
+== Appearance and Personality ==
+She is a blonde woman with a stately air; she typically wears fine clothing.{{book ref|mb7|56}} She is well-mannered and she loves her family. She exhibits leadership qualities, including a calm demeanor, bravery, and quick decision making.{{book ref|mb7|56}}{{book ref|mb7|60}}
+
+== Attributes and Abilities ==
+Armal is a [[Rioter]] and can use [[zinc]] to inflame people's emotions. She is likely somewhat untrained in the use of her powers, as even her close family members are not aware of them.{{book ref|mb7|56}} She is one of only a few people who have been seen fueling their powers with purified [[Dor]], a "hyperefficient" source of [[Investiture]].{{book ref|mb7|40}} Marasi compared the power of Armal's Dor-fueled Rioting to the strength of legendary figures from [[Classical Scadrial]] such as [[Vin]] and the [[Lord Ruler]].{{book ref|mb7|60}}
+
+==History==
+Armal grew up as part of [[House Harms]] and lived a relatively affluent lifestyle.{{book ref|mb7|56}} She was familiar with her cousin Steris, but she did not know [[Marasi Colms]] well due to the family concealing her status as [[Jackstom Harms]]'s illegitimate daughter.{{book ref|mb7|56}}
+
+In {{date|341|FA}}, during [[Waxillium Ladrian]] and [[Wayne]]'s investigation of the [[Vanishers]], Armal became one of their kidnapping victims, targeted because she was a descendant of [[Spook]] who would be more likely to have [[Allomancer]] children.{{book ref|mb4|2}}{{book ref|mb7|56}}{{book ref|mb4|7}} She was taken during a play at the [[Coolerim Playhouse]], and her family had no idea what happened to her.{{book ref|mb4|2}}
+
+=== The Community ===
+Armal and the other victims of the Vanishers had been delivered to the [[Set]] to be a part of the [[Community]]. The Set told Armal that she had been chosen by random lottery to be saved from a catastrophic [[ashmount]] eruption. The Set also used actors and projection devices to reinforce their ruse.{{book ref|mb7|56}} They intended to take control of any children born to the residents that exhibited Allomantic powers.{{book ref|mb7|57}}
+
+Armal was kept in small caverns for two years before being moved to the underground town known as [[Wayfarer]].{{book ref|mb7|56}} At some point, Armal married another member of the Community and had at least two children with him. She apparently took her husband's surname, but his identity is unknown.{{book ref|mb7|57}}
+
+=== Meeting Marasi ===
+When [[Marasi Colms]] snuck into Wayfarer to find the [[perpendicularity]] located there, she encountered some of the residents and soon recognized Armal. She and her friends did not like the lord mayor, [[Gave Entrone]], and they helped conceal Marasi.{{book ref|mb7|56}} Although Armal listened with interest to Marasi's explanation of their fate, it did not overcome the years of abuse and isolation she had endured. She seemed to believe that Marasi was at least partially telling the truth, but she wanted to protect her family. She did not want to participate in a revolt against Entrone, but she agreed to lead Marasi to his mansion. Before they left, Marasi remembered that she had a jar of pure [[Investiture]] (purified [[Dor]]) that she had received from [[Moonlight]].{{book ref|mb7|57}} She entrusted it to Armal and presumably explained what it could be used for in an emergency, telling her that she might need to spread it around to the other Allomancers in her group.{{book ref|mb7|60}}
+{{sidequote|side=right|size=350px
+|We should have known. This much metal, by their own admission, would have drawn their 'mutants.' This hatch was never to lock them out, but to lock us in, so we could never visit the observation room unsupervised.
+|Armal{{book ref|mb7|68}}
+}}
+Armal and the other townspeople decided to linger near the mansion to see what happened to Marasi. After Marasi confronted Entrone, he attacked her. Before he could finish her off, Armal broke the jar of Investiture and Rioted both of them with a debilitating sense of shame. Entrone was not wearing his [[aluminum]] hat and he was incapacitated. Another townsperson Soothed some nearby soldiers, and Armal tied up Entrone after his metal reserves were emptied by a [[Leecher]] named [[Macil]].{{book ref|mb7|59}}{{book ref|mb7|60}}
+
+Armal, Marasi, and the Allomancers of Wayfarer then drained the perpendicularity in the mansion just before [[men of gold and red|Autonomy's forces]] could enter [[Scadrial]] through it.{{book ref|mb7|64}}
+
+=== Return to Society ===
+After resting, Marasi led Armal and a few other Allomancers out of the caverns and into [[Bilming]].{{book ref|mb7|68}} Although the townspeople now believed Marasi's story, they were in shock upon seeing that the world was not desolate. Armal regretfully noted that there were signs of the Set's deception that she had never thought to look for.{{book ref|mb7|68}} Marasi then brought the group to [[Blantach]]'s constabulary offices.{{book ref|mb7|71}}
+
+The plight of the residents of Wayfarer affected Marasi. Reflecting on Armal's intense words upon learning that the Set had taken away seven years of her life, Marasi realized that she wanted to pursue her passion of serving the people. She realized that she could not effectively do so if she joined the [[Ghostbloods]], and declined their offer.{{book ref|mb7|epilogue|1}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 01:23, 14 February 2024 (UTC)}}
+{{Mistborn|Era 2}}

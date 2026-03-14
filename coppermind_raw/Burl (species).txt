@@ -1,0 +1,24 @@
+{{lifeform
+|image=Burl by Brent Donoho.jpg
+|sapient=Yes
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+{{update|sky3|sky4}}
+{{quote
+|I did get several other Superiority races—like the burl, who are citizens but considered aggressive—to join this test.
+|[[Cuna]]{{book ref|sky2|13}}
+}}
+
+The '''burl''' are an alien species within the [[Superiority]].{{book ref|sky2|13}} 
+
+They are larger than most other races and resemble gorillas, although it seems they walk upright as default.{{book ref|sky2|15}} While a member of the Superiority, the burl are considered too aggressive to attain primary citizenship.{{book ref|sky2|13}} Nonetheless, some of them can be found living on [[Starsight (station)|Starsight]], and a few participate in the [[Delver]] Resistance Program. Like most so-called lesser species, they are wary of Superiority leaders, and are treated as disposable by them in turn.{{book ref|sky2|20}}{{book ref|sky2|16}}{{book ref|sky2|34}}
+
+== Known burl ==
+* [[Gul'zah]]
+
+== Notes ==
+<references />
+{{partial}}
+{{demoted|sky3}}
+{{Skyward}}

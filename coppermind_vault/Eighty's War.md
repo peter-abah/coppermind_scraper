@@ -1,33 +1,28 @@
-{{event
-|participants=[[Emul]], [[Tukar]]
-|date=c. {{Rosharan date|1167}}-{{Rosharan date|1174}}
-|city=Sesemalex Dar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{update|sa4}}
-The **Eighty's War** was a military conflict on [[Roshar]] between the bordering nations of [[Emul]] and [[Tukar]] during the time of the [[Alethi]] [[War of Reckoning]]. The war began circa {{Rosharan date|1167}}{{book ref|sa2|i|14}} and lasted until {{Rosharan date|1174}}.{{book ref|sa3|96}} The conflict arose over the city of [[Sesemalex Dar]], which is situated on the border between the kingdoms. Emul claimed the city as their capital, but the Tukari wanted it for themselves.{{book ref|sa2|i|14}}
+---
+source_file: Eighty's War.txt
+entity_type: event
+participants: '[[Emul]], [[Tukar]]'
+date: c. -
+city: Sesemalex Dar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+The **Eighty's War** was a military conflict on [[Roshar]] between the bordering nations of [[Emul]] and [[Tukar]] during the time of the [[Alethi]] [[War of Reckoning]]. The war began circa  and lasted until . The conflict arose over the city of [[Sesemalex Dar]], which is situated on the border between the kingdoms. Emul claimed the city as their capital, but the Tukari wanted it for themselves.
 
 ==Cause==
-The Emuli believed that Sesemalex Dar was their ancestral homeland and a gift from the [[Herald]]s, because the city's patterned layout was central to their religion.{{book ref|twok|54}} The city was believed to be one of the [[Dawncities]]{{book ref|twok|54}} and named by [[Jezrien]] himself,{{book ref|twok|55}} increasing its religious significance. The Tukari were led by their "god-priest" [[Tezim]],{{book ref|sa2|i|14}} who was described as a "warlord"{{book ref|sa3|8}} and "tyrant".{{book ref|sa3|106}} Tezim also claimed that he was "an aspect of the [[Almighty]]",{{book ref|sa3|8}} and rumors swirled about him.{{book ref|sa2.5|3}} Many observers assumed that the war was religious in nature, although the city was also a major port and a center of trade. [[Au-nak]] believed that the Tukari were using religion as a front for their economic aspirations.{{book ref|sa2|i|14}} 
+The Emuli believed that Sesemalex Dar was their ancestral homeland and a gift from the [[Herald]]s, because the city's patterned layout was central to their religion. The city was believed to be one of the [[Dawncities]] and named by [[Jezrien]] himself, increasing its religious significance. The Tukari were led by their "god-priest" [[Tezim]], who was described as a "warlord" and "tyrant". Tezim also claimed that he was "an aspect of the [[Almighty]]", and rumors swirled about him. Many observers assumed that the war was religious in nature, although the city was also a major port and a center of trade. [[Au-nak]] believed that the Tukari were using religion as a front for their economic aspirations. 
 
-[[Dalinar]] had suspicions about Tezim and confirmed with the [[Stormfather]] that he was actually [[Ishar]], one of the ten ancient [[Herald]]s of the Almighty. However, when Dalinar asked why Ishar would attack Emul, the Stormfather simply said that he was insane and that there was no logic in his actions.{{book ref|sa3|64}} He believed that Ishar sought his own death, and possibly the death of all humankind.{{book ref|sa3|64}}
+[[Dalinar]] had suspicions about Tezim and confirmed with the [[Stormfather]] that he was actually [[Ishar]], one of the ten ancient [[Herald]]s of the Almighty. However, when Dalinar asked why Ishar would attack Emul, the Stormfather simply said that he was insane and that there was no logic in his actions. He believed that Ishar sought his own death, and possibly the death of all humankind.
 
 ==Fighting==
-The war seemed to be well-known across Roshar. [[Navani]] wondered if the [[True Desolation]] was enough to distract the two nations from fighting.{{book ref|sa3|8}} [[Lift]] believed that Sesemalex Dar had been a war zone for "basically a billion years".{{book ref|sa2.5|2}} Although the fighting lasted for years, it was not as intense or destructive as the brief [[Veden civil war]].{{book ref|sa2|i|14}}
+The war seemed to be well-known across Roshar. [[Navani]] wondered if the [[True Desolation]] was enough to distract the two nations from fighting. [[Lift]] believed that Sesemalex Dar had been a war zone for "basically a billion years". Although the fighting lasted for years, it was not as intense or destructive as the brief [[Veden civil war]].
 
-After the [[parshmen]] were awakened, Emul was attacked by [[Voidbringer]] armies that were leaving the area of [[Azimir]] on their way to [[Marat]].{{book ref|sa3|65}}{{book ref|sa3|107}} Emul lost control of most of its territory.{{book ref|sa3|65}} The Emuli leader, [[Vexil]] the Wise, was desperate for assistance, although he still talked about conquering Tukar.{{book ref|sa3|96}} It is unclear how Tezim and the Tukari reacted to the True Desolation, but it seemed to bring an end to the Eighty's War.{{book ref|sa3|96}}
+After the [[parshmen]] were awakened, Emul was attacked by [[Voidbringer]] armies that were leaving the area of [[Azimir]] on their way to [[Marat]]. Emul lost control of most of its territory. The Emuli leader, [[Vexil]] the Wise, was desperate for assistance, although he still talked about conquering Tukar. It is unclear how Tezim and the Tukari reacted to the True Desolation, but it seemed to bring an end to the Eighty's War.
 
 ## Notes
-{{history
-|title=History of [[Roshar]]
-|prev=The [[Assassination of Gavilar]]
-|this= The Eighty's War
-|next=The [[True Desolation]]
-}}
+
 <references />
-{{partial}}
-{{demoted|sa4}}
-{{stormlight}}
+
 [[Category: Events and Eras]]

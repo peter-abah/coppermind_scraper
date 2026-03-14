@@ -1,18 +1,18 @@
 ---
-#profession: "Sailor"
-nation: "Thaylenah"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Dawnshard (novella)| Dawnshard"
+source_file: Klisn.txt
+entity_type: character
+'#profession': Sailor
+nation: Thaylenah
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Dawnshard (novella)| Dawnshard]]'
 ---
 
-**Klisn** is a [[Thaylen]] sailor and a crewmember of the *[[Wandersail (1174_ship)|Wandersail]]*.{{book ref|sa3.5|11}}
+**Klisn** is a [[Thaylen]] sailor and a crewmember of the *[[Wandersail (1174_ship)|Wandersail]]*.
 
-Klisn is skilled at cards and gets along well with [[Lopen]], who thinks he has a good sense of humor.{{book ref|sa3.5|11}}
+Klisn is skilled at cards and gets along well with [[Lopen]], who thinks he has a good sense of humor.
 
-He was a member of the [[expedition to Akinah]]. After the ship made it through the unusual storm around [[Akinah]], Klisn was so excited that he drew an [[awespren]]. Lopen then asked Klisn to go tell [[Cord]] that it was safe to come above deck.{{book ref|sa3.5|11}}
+He was a member of the [[expedition to Akinah]]. After the ship made it through the unusual storm around [[Akinah]], Klisn was so excited that he drew an [[awespren]]. Lopen then asked Klisn to go tell [[Cord]] that it was safe to come above deck.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:42, 16 November 2020 (UTC)}}
-{{Stormlight}}

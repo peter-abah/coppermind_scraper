@@ -1,0 +1,27 @@
+{{culture
+|world=Lumar
+|universe=[[Cosmere]]
+|books=[[Tress of the Emerald Sea]]
+}}
+
+A '''tosher''' is a profession from [[Lumar]]. Toshers are the lowest servant in the king's household. They comb the palace's sewerage to ensure nothing of value had been discarded by mistake and are generally avoided due to the stench gained from their line of work. The [[Emerald Sea]] has a story about a tosher, the moral of which story warning of the unwanted consequences of minor actions.{{book ref|tress|34}}
+
+== The Story ==
+
+{{quote
+|Even small actions have consequences. And while we can often choose our actions, we rarely get to choose our consequences.
+|[[Hoid]]{{book ref|tress|34}}
+}}
+
+The tosher is not very happy with his life, but the one thing he likes is his dinner: potato with lard. He asks for another potato, and they give it to him so he will stop asking for it. He gets two potatoes per day until they change the meal to cornbread with lard, which he hates. He expects the potatoes to return, but they don’t seem to. Annoyed, he sets out to make potatoes be the servant's food again.
+
+He first asks the cook, which tells him that she can’t change the menu as the butler is who gets to set it. When he asks the butler, he says that he can’t serve potatoes as the minister of trade no longer provides potatoes. He goes to the minister of trade and returns a ring of hers that had fallen in the sewer. She grants him an audience in the rain and with high winds. When he presents his problem to her, she says she can’t help him as the king mandates that only corn be fed to the servants. Finally, he manages to talk with the king while he is defecating, as the tosher is just below him doing his job. He asks the king for potatoes, but he tells him that the potato crops have been taken over by pests. The king also explains that he had to stop buying potatoes even before the crops died as all servants had begun asking for two potatoes after the tosher’s actions and the increased demand had made the potatoes too expensive.
+
+The tosher reflects. He reaches the conclusion that even small actions have consequences, and even though we can choose the actions, we rarely get to choose the consequences.
+
+
+== Notes ==
+<references />
+{{complete|[[User:MrMrDUCK|MrMrDUCK]] ([[User talk:MrMrDUCK|talk]]) 06:20, 11 March 2024 (UTC)}}
+{{tress}}
+[[es:Albañalero]]

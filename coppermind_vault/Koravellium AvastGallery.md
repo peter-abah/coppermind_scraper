@@ -1,3 +1,8 @@
+---
+source_file: Koravellium AvastGallery.txt
+entity_type: article
+---
+
 ## Official art
 <gallery mode="packed" heights=300px caption="Official art">
 Nightwatcher's Boon by Artem Demura.jpg | <center><small>by {{a|Artem Demura}}</small></center> *Nightwatcher's Boon*, *[[Call to Adventure: The Stormlight Archive]]*

@@ -1,16 +1,16 @@
 ---
-type: "Toy"
-owner: "Spensa"
-world: "Detritus"
-universe: "Cytoverse"
-books: "Skyward (series)"
+source_file: Bloodletter.txt
+entity_type: item
+type: Toy
+owner: Spensa
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
 **Bloodletter** is a stuffed bear owned by [[Spensa]].
 
-She leaves it behind on her trip to the surface with [[Zeen Nightshade|her father]] before the [[Battle of Alta]]. By the age of seven she had fashioned the bear a set of power armor using string and broken pottery.{{book ref|Skyward|prologue}} After moving into the cave with [[M-Bot]] she fetches Bloodletter from home to use as a pillow.{{book ref|Skyward|15}}{{book ref|Skyward|16}}{{book ref|Skyward|18}}
+She leaves it behind on her trip to the surface with [[Zeen Nightshade|her father]] before the [[Battle of Alta]]. By the age of seven she had fashioned the bear a set of power armor using string and broken pottery. After moving into the cave with [[M-Bot]] she fetches Bloodletter from home to use as a pillow.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 03:11, 31 March 2019 (MST)}}
-{{Skyward}}

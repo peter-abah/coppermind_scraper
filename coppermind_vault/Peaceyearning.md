@@ -1,17 +1,17 @@
 ---
-abilities: "{{tag|Returned"
+source_file: Peaceyearning.txt
+entity_type: character
+abilities: Returned, Cognitive Shadow
+residence: T'Telir
+nation: Hallandren
+world: Nalthis
+universe: '[[Cosmere]]'
+books: '[[Warbreaker]]'
 ---
 
-, {{tag+|Cognitive Shadow}}
-|residence=T'Telir
-|nation=Hallandren
-|world=Nalthis
-|universe=[[Cosmere]]
-|books=[[Warbreaker]]
-}}
-**Peaceyearning** is a [[Returned]] that is worshiped as a god in [[Hallandren]] on [[Nalthis]].{{book ref|wb|21}}
+**Peaceyearning** is a [[Returned]] that is worshiped as a god in [[Hallandren]] on [[Nalthis]].
 
-Around the year 327, Peaceyearning lived in the [[Court of the Gods]] in [[T'Telir]], was a lesser god in the court, and had little in the way of political influence.{{book ref|wb|21}}
+Around the year 327, Peaceyearning lived in the [[Court of the Gods]] in [[T'Telir]], was a lesser god in the court, and had little in the way of political influence.
 
 ## Attributes and Abilities
 As a [[Returned]], Peaceyearning has a [[divine Breath]] which gives them the benefits of being on the [[Fifth Heightening]]. This includes:
@@ -23,5 +23,3 @@ As a [[Returned]], Peaceyearning has a [[divine Breath]] which gives them the be
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 19:25, 28 May 2022 (UTC)}}
-{{Warbreaker}}

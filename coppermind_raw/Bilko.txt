@@ -1,0 +1,12 @@
+{{character
+|earth=Reckoners
+|books=[[Steelheart]]
+}}
+'''Bilko''' is an informant of some kind used by [[David Charleston]] before he became a member of the [[Reckoners]].{{book ref|Steelheart|1}}
+
+David trusted Bilko's info on where the Reckoners would strike the night he met them.{{book ref|Steelheart|1}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 23:45, 20 March 2019 (MST)}}
+{{Reckoners}}

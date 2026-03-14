@@ -1,13 +1,13 @@
 ---
-world: "Roshar"
-universe: "Cosmere"
+source_file: Gasha.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
 ---
 
-{{update|sa5}}
-**Gasha** is a figure from legends on [[Roshar]].{{book ref|sa5|131}}
+**Gasha** is a figure from legends on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}
+
 [[Category: Myths and Legends]]

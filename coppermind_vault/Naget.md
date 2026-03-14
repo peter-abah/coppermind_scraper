@@ -1,23 +1,23 @@
 ---
-birthplace: "Hearthstone"
-ethnicity: "Alethkar"
-nation: "Alethkar"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "The Way of Kings"
+source_file: Naget.txt
+entity_type: character
+birthplace: Hearthstone
+ethnicity: Alethkar
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[The Way of Kings]]'
 ---
 
-**Naget** is a resident of [[Hearthstone]] in [[Alethkar]] on [[Roshar]].{{book ref|sa1|44}}
+**Naget** is a resident of [[Hearthstone]] in [[Alethkar]] on [[Roshar]].
 
 ==Appearance and Personality==
-He is [[darkeyes|darkeyed]] and has light hair. He is spindly, and is the tallest among his peers as a youth. [[Kaladin]] cites 'Naget' as an example of a 'solid, Alethi darkeyes' name, unlike his own. Naget is quite curious about whether a darkeyed person can really become [[lighteyes|lighteyed]] by winning a [[Shardblade]].{{book ref|sa1|16}}
+He is [[darkeyes|darkeyed]] and has light hair. He is spindly, and is the tallest among his peers as a youth. [[Kaladin]] cites 'Naget' as an example of a 'solid, Alethi darkeyes' name, unlike his own. Naget is quite curious about whether a darkeyed person can really become [[lighteyes|lighteyed]] by winning a [[Shardblade]].
 
 ==History==
-Naget comes from a farming family and was often tasked with removing [[diggerworm]]s from the [[lavis]] fields near the town. He was among the group of youths who observed [[Kaladin]] picking up a weapon for the first time to fight [[Jost]].{{book ref|sa1|16}}
+Naget comes from a farming family and was often tasked with removing [[diggerworm]]s from the [[lavis]] fields near the town. He was among the group of youths who observed [[Kaladin]] picking up a weapon for the first time to fight [[Jost]].
 
-A few years later, he was present when [[Amaram]] came to Hearthstone to recruit soldiers for his army. He was no longer friendly with Kaladin at that point. He did not volunteer to join the army, and avoided conscription.{{book ref|sa1|44}}
+A few years later, he was present when [[Amaram]] came to Hearthstone to recruit soldiers for his army. He was no longer friendly with Kaladin at that point. He did not volunteer to join the army, and avoided conscription.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:38, 20 August 2020 (UTC)}}
-{{Stormlight}}

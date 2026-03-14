@@ -1,17 +1,17 @@
 ---
-residence: "Narak"
-species: "singer"
-nation: "listener"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Words of Radiance"
+source_file: Devi.txt
+entity_type: character
+residence: Narak
+species: singer
+nation: listener
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Words of Radiance]]'
 ---
 
-**Devi** is a [[listener]] scout on the [[Shattered Plains]] of [[Roshar]].{{book ref|sa2|i|1}}
+**Devi** is a [[listener]] scout on the [[Shattered Plains]] of [[Roshar]].
 
-In late 1173, Devi was the first member of [[Eshonai]]'s strike force to spot a [[chasmfiend]] chrysalis on the Plains. After the Parshendi won the [[gemheart]], he was allowed to carry it back himself as a reward for being the first to see it.{{book ref|sa2|i|1}}
+In late 1173, Devi was the first member of [[Eshonai]]'s strike force to spot a [[chasmfiend]] chrysalis on the Plains. After the Parshendi won the [[gemheart]], he was allowed to carry it back himself as a reward for being the first to see it.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 22:40, 22 December 2016 (MST)}}
-{{Stormlight}}

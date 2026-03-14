@@ -1,18 +1,23 @@
-{{book|title=*Elantris*|display-title=*Elantris* (book)
-|cover=Elantris_thumb.jpg
-|released=April 21, 2005
-|series=[[Elantris trilogy]]|next=Elantris sequel|sequel=Eventual sequel
-|setting=[[Sel]], [[Cosmere]]
-|publisher=Tor books
-|ISBN=0-7653-8310-1
-|page-count=592
-|word-count=[[/Statistical_analysis|201,372]]
-}}{{for|Elantris (city)|the in-universe city|pre=This article is about the book}}
+---
+source_file: Elantris (book).txt
+entity_type: book
+title: '''''Elantris'''''
+display-title: '''''Elantris'''' (book)'
+cover: Elantris_thumb.jpg
+released: April 21, 2005
+series: '[[Elantris trilogy]]'
+next: Elantris sequel
+sequel: Eventual sequel
+setting: '[[Sel]], [[Cosmere]]'
+publisher: Tor books
+isbn: 0-7653-8310-1
+page-count: '592'
+word-count: '[[/Statistical_analysis|201,372]]'
+---
 
 ***Elantris*** is a fantasy novel by [[Brandon Sanderson]], published in April 2005 by Tor Books. It is Brandon's sixth written book and his first published book. The book, set on the planet [[Sel]], tells the story of how [[Raoden]] and [[Sarene]] restore the magical [[Elantrian]]s to their former glory. 
 
 ## Summary
-{{for|Elantris/Summary|a chapter by chapter summary}}
 
 ### Part One: The Shadow of Elantris
 The events of Elantris take place predominantly in the country of [[Arelon]] from three separate points of view: Prince [[Raoden]], Princess [[Sarene]] and [[Gyorn]] [[Hrathen]].  Raoden is the crown prince of Arelon and is first in line to inherit the throne from his father, King [[Iadon]]. He is engaged to Princess Sarene of neighboring [[Teod]] with the hope that their marriage will strengthen ties between their countries in the face of external aggression from the [[Fjorden|Fjorden Empire]] from which Hrathen hails.
@@ -53,11 +58,10 @@ Hrathen is assassinated in the streets of Teod. Aided by a now lucid [[Adien]], 
 With the war over and Teod managing to hold back the Fjordell army, Sarene has one thing left on her mind: marrying Raoden. She is not about to let him out of her sight this time, marching him down the aisle where they are married. A week after their marriage a great funeral is arranged for the people that died during the invasion of Arelon, Elantris, and Teod. Sarene speaks for Hrathen, asking all to remember him as the savior who put what was right before his own ambitions.
 
 ## Main Characters
-{{for|:Category:Selish|all characters in this book}}
+
 ; [[Raoden]]: The prince of [[Arelon]], he succumbs to the Shaod and is thrown into Elantris the day Sarene, his wife to be, arrives in Kae.
 ; [[Sarene]]: The princess of [[Teod]], she arrives in [[Kae]] to find her future husband dead and sets up to fight. 
 ; [[Hrathen]]: The newly appointed leader of the [[Derethi]] church in Kae, he is sent to convert the populace to Shu-Dereth in preparation for an invasion.
-
 
 **Other Characters**
 ; [[Ahan]]: Count Ahan is an Arelene merchant from Sel, and is very fat. He shares a friendly rivalry with Duke Roial and is constantly trying to either outdo or oppose him.
@@ -78,8 +82,8 @@ Elantris is set in the [[cosmere]] on the [[Cosmere#Planets|planet]] of [[Sel]].
 ### Magic System
 The magic systems of the world of *Elantris* each use a set of forms to access the [[Dor]].
 * [[AonDor]] uses symbols called Aons, which can be drawn directly in the air as glowing light, or in a large variety of physical representations, such as etched into metal plates, or incorporated into the design of buildings. Anyone can learn to draw Aons, but they only have power when created by an Elantrian. AonDor is tied to the city of Elantris and is only practiced within its borders. Aons work elsewhere but become weaker with distance from Elantris.
-* [[ChayShan]] is not explored much in *Elantris*, however it seems to consist of a type of meditative martial art, with the forms one moves through granting access to the Dor. It appears that, like Aons, these forms can be practiced, potentially by anyone, without supernatural effect{{book ref|Elantris|17}}, with additional factors such as intent or bloodline establishing the connection to the Dor. 
-* [[Dakhor]] is even less well understood than ChayShan, without even a concrete name. It is currently referred to as Dakhor because its only known practitioners are members of [[Dakhor Monastery]]. What is known is that its use alters the bones of the user, causing them to twist and form patterns under the skin. These patterns are most likely the 'form' through which this magic is channeled. Dakhor allows access to the Dor{{book ref|Elantris|56}} and has a possible connection to [[Dominion]]. Dakhor requires human sacrifice in several of its uses.
+* [[ChayShan]] is not explored much in *Elantris*, however it seems to consist of a type of meditative martial art, with the forms one moves through granting access to the Dor. It appears that, like Aons, these forms can be practiced, potentially by anyone, without supernatural effect, with additional factors such as intent or bloodline establishing the connection to the Dor. 
+* [[Dakhor]] is even less well understood than ChayShan, without even a concrete name. It is currently referred to as Dakhor because its only known practitioners are members of [[Dakhor Monastery]]. What is known is that its use alters the bones of the user, causing them to twist and form patterns under the skin. These patterns are most likely the 'form' through which this magic is channeled. Dakhor allows access to the Dor and has a possible connection to [[Dominion]]. Dakhor requires human sacrifice in several of its uses.
 
 ## Easter Eggs
 <!-- There probably aren't many non-cosmere Easter eggs since this is Brandon's first book. -->
@@ -91,12 +95,12 @@ The magic systems of the world of *Elantris* each use a set of forms to access t
 * There were a set of [[bws: annotation-elantris-introduction|annotations]] and some [[bws: elantris-deleted-scenes-the-mad-prince|deleted scenes]] published on Brandon's site, as well as the short story [[The Hope of Elantris]].
 
 ## Development
-This is Brandon's first published novel, and his sixth written novel.{{wob ref|7595}}
+This is Brandon's first published novel, and his sixth written novel.
 
 It is written in a triad system, with sets of three chapters telling roughly the same period of time through the three main points of view.
 
 ## Publication History
-{{columns|count=2|
+
 *America  (Tor, Spring 2005)
 *Audio rights (unabridged) to Recorded Books
 *Audio rights (dramatic abridgment) to Graphic Audio
@@ -120,26 +124,23 @@ It is written in a triad system, with sets of three chapters telling roughly the
 *Hebrew rights to Silver Stars
 *UK rights to Gollancz
 *Bulgarian rights to Studio of A {{ref|name=awfulagent}}
-}}
 
 A tenth anniversary trade paperback edition was published by Tor Books in October 2015 (ISBN 9781429914550). It includes new maps and illustrations, a preface by [[Dan Wells]], a new afterword by Brandon, and an updated [[Ars Arcanum]]. [[Dragonsteel Entertainment|Dragonsteel]] subsequently published a leatherbound edition in November 2015 (ISBN 9780765388070), with additional artwork and full-color endpapers.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Elantris}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## Trivia
-Elantris was written in a chapter triad system, rotating the primary viewpoints from Raoden to Sarene to Hrathen. Part 1 and Part 2 each contained 27 chapters, or 9 triads. The triad structure broke down in Part 3, which consisted of 9 chapters.{{wob ref|1940}}{{wob ref|1928}}
+Elantris was written in a chapter triad system, rotating the primary viewpoints from Raoden to Sarene to Hrathen. Part 1 and Part 2 each contained 27 chapters, or 9 triads. The triad structure broke down in Part 3, which consisted of 9 chapters.
 
 ## Awards
 *Romantic Times Award, Best Epic Fantasy
 *Selected as Barnes & Noble Explorations' #1 Editor's Pick.
-*SF Book Club selection {{ref|name=awfulagent}}
+*SF Book Club selection 
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Elantris* consists of one prologue, sixty-three chapters, one epilogue, and one postscript, reaching a total 201,372 word count. There are nine different unique point-of-view characters in a total of 122 POVs.
 
 {|class="wikitable"
@@ -167,11 +168,9 @@ Elantris was written in a chapter triad system, rotating the primary viewpoints 
 
 ## Notes
 <references>
-{{url ref|name=awfulagent|url=https://awfulagent.com/jabclients/brandon-sanderson/|text=Brandon's Awful Agent page|site=Awful Agent}}
+
 </references>
-{{meta/partial}}
-{{Elantris}}
-{{Books}}
+
 [[category: Elantris| ]]
 [[category: list articles]]
 [[es:Elantris_(libro)]]

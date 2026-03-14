@@ -1,3 +1,8 @@
+---
+source_file: LegionStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Legion (book)|Legion]]***.
 
 ### Chapter by Chapter Breakdown
@@ -43,7 +48,5 @@ This page contains a statistical analysis of ***[[Legion (book)|Legion]]***.
 | align="right" | **100.00%**
 |}
 
-{{meta/done}}
-{{Legion}}
 [[Category: Legion|*]]
 [[category: statistics]]

@@ -1,25 +1,22 @@
 ---
-world: "Detritus"
-groups: "DDF"
-ethnicity: "Yeongian |ethnicity-ref={{book ref|sky2|4"
+source_file: Ulan.txt
+entity_type: character
+world: Detritus
+groups: '[[DDF]]'
+ethnicity: Yeongian
+universe: '[[Cytoverse]]'
+introduced: '[[Starsight]]'
 ---
 
-|universe=[[Cytoverse]]
-|introduced=[[Starsight]]
-}}
-Commander **Ulan** is an officer in the [[DDF]] on [[Detritus]] who works in engineering. She is a tall woman of Yeongian heritage{{book ref|sky2|4}}, and is therefore a descendant of the Chinese and Korean crew that made up the *[[Yeong-Gwang]]*.{{book ref|sky1|8}}
+Commander **Ulan** is an officer in the [[DDF]] on [[Detritus]] who works in engineering. She is a tall woman of Yeongian heritage, and is therefore a descendant of the Chinese and Korean crew that made up the *[[Yeong-Gwang]]*.
 
 ## History
-After the engineering crew recovered footage from the [[delver]] attack on Detritus, Ulan insisted that they wait for Admiral [[Cobb]] before viewing it. When he arrived, she had trouble figuring out how to deal with his strong personality.{{book ref|sky2|4}}
+After the engineering crew recovered footage from the [[delver]] attack on Detritus, Ulan insisted that they wait for Admiral [[Cobb]] before viewing it. When he arrived, she had trouble figuring out how to deal with his strong personality.
 
-{{sidequote
-|This is Commander Ulan. What the scud is going on up there?
-|Ulan to Jorgen after Detritus hyperjumped{{book ref|sf3|20}}
-|side=right|size=200px
-}}
-After the [[Superiority]] blew up a ship full of National Assembly members, Ulan was back in the command center on [[Platform Prime]], arguing with [[Ziming]] near the hypercomm. [[Jorgen Weight|Jorgen]] informed her and others in the room about what happened, parts of which were news to Ulan.{{book ref|sf3|1}} When Jorgen and [[Rodge McCaffery|Rig]] used the [[taynix]] to hyperjump Detritus to the planet [[Evershore (planet)|Evershore]], Ulan radioed them and asked what was going on, to which Jorgen replied that it was a defense protocol to defend Evershore. Ulan was shocked, but didn’t get the chance to say more before Rig turned down the radio and ignored him.{{book ref|sf3|20}}
+> This is Commander Ulan. What the scud is going on up there?
+> — Ulan to Jorgen after Detritus hyperjumped
+
+After the [[Superiority]] blew up a ship full of National Assembly members, Ulan was back in the command center on [[Platform Prime]], arguing with [[Ziming]] near the hypercomm. [[Jorgen Weight|Jorgen]] informed her and others in the room about what happened, parts of which were news to Ulan. When Jorgen and [[Rodge McCaffery|Rig]] used the [[taynix]] to hyperjump Detritus to the planet [[Evershore (planet)|Evershore]], Ulan radioed them and asked what was going on, to which Jorgen replied that it was a defense protocol to defend Evershore. Ulan was shocked, but didn’t get the chance to say more before Rig turned down the radio and ignored him.
 
 ## Notes
 <references />
-{{complete}}
-{{Skyward}}

@@ -1,19 +1,21 @@
 ---
-image: "Sel-4-Shuden.jpg"
-abilities: "ChayShan"
-titles: "Baron"
-nation: "JinDo"
-world: "Sel"
-universe: "Cosmere"
-introduced: "Elantris (book)|Elantris"
+source_file: Shuden.txt
+entity_type: character
+image: Sel-4-Shuden.jpg
+abilities: '[[ChayShan]]'
+titles: Baron
+nation: JinDo
+world: Sel
+universe: '[[Cosmere]]'
+introduced: '[[Elantris (book)|Elantris]]'
 ---
 
-Baron **Shuden** is a [[JinDo]] merchant in [[Arelon]] on [[Sel]].{{book ref|Elantris|11}}
+Baron **Shuden** is a [[JinDo]] merchant in [[Arelon]] on [[Sel]].
 
 His family directed many trade routes around Arelon. They were offered a barony by [[Iadon]] to keep their caravans running. 
 
 ## Attributes and Abilities
-He is a known amateur practitioner of [[ChayShan]].{{book ref|elantris|17}} When using ChayShan, Shuden repeatedly performs certain movements that serve as the key to the Dor. This gives him ever-increasing strength and speed, enough to break the bones of a [[Dakhor]] monk.{{book ref|elantris|63}} If his movement is interrupted, he loses access to the Dor and his increased physical powers.{{book ref|elantris|61}}
+He is a known amateur practitioner of [[ChayShan]]. When using ChayShan, Shuden repeatedly performs certain movements that serve as the key to the Dor. This gives him ever-increasing strength and speed, enough to break the bones of a [[Dakhor]] monk. If his movement is interrupted, he loses access to the Dor and his increased physical powers.
 
 ## History
 Shuden was part of [[Raoden|Raoden's]] group that conspired against King [[Iadon]], being one of the few members willing to meet up after Raoden's mysterious and sudden "death." He spoke in favor of allowing [[Sarene]] to attend the meeting and as she became the leader of the group, he and [[Eondel]] were most vocal in their loyalty to her whereas [[Ahan]] and [[Roial]] saw her as an equal partner.
@@ -28,5 +30,3 @@ During the Invasion of Arelon, when the citizens were rounded up for execution, 
 
 ## Notes
 <references />
-{{partial}}
-{{Elantris}}

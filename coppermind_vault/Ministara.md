@@ -1,16 +1,14 @@
 ---
-occupation: "{{cat tag|Scholars|Scholar"
+source_file: Ministara.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Ministara** is a scholar and tutor on [[Roshar]].{{book ref|sa2|48}}
+**Ministara** is a scholar and tutor on [[Roshar]].
 
-She tutored [[Shallan Davar]] in [[Jah Keved]] around {{Rosharan date|1168}}. Ministara thought that Shallan spoke her mind too much, saying it was not a feminine attribute.{{book ref|sa2|48}}
+She tutored [[Shallan Davar]] in [[Jah Keved]] around . Ministara thought that Shallan spoke her mind too much, saying it was not a feminine attribute.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:10, 26 December 2016 (MST)}}
-{{Stormlight}}

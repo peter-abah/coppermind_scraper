@@ -1,8 +1,9 @@
-{{DISPLAYTITLE:*{{PAGENAME}}*}}
-{{image|Reckoners Omnibus RU Cover.jpg|width=250px|side=right|Cover for the Russian omnibus of the Reckoners trilogy}}
-{{for|pre=This article is about the series of books|Reckoners|the group of freedom fighters}}
+---
+source_file: The Reckoners.txt
+entity_type: displaytitle:''{{pagename}}''
+---
 
-***The Reckoners*** is a young adult series written by [[Brandon Sanderson]]. The original series of books included *[[Steelheart]], [[Firefight]], [[Calamity]]*, and a novelette, *[[Mitosis]]*. An additional story about a different group of [[Reckoners]], *[[Lux (book)|Lux]]*, was released in July of 2021 as an audio original.{{bws ref|cover-reveal-for-lux-a-texas-reckoners-novel|Cover Reveal for Lux: A Texas Reckoners Novel|date=2021-06-24}}
+***The Reckoners*** is a young adult series written by [[Brandon Sanderson]]. The original series of books included *[[Steelheart]], [[Firefight]], [[Calamity]]*, and a novelette, *[[Mitosis]]*. An additional story about a different group of [[Reckoners]], *[[Lux (book)|Lux]]*, was released in July of 2021 as an audio original.
 
 ## Summary
 The setting of The Reckoners series is a twenty-first century alternate Earth. Visible in the sky is a large red object called [[Calamity (Epic)|Calamity]], which appeared twelve years before the events of Steelheart. One year after the emergence of Calamity, the [[Epic]]s, super-powered humans, appeared. 
@@ -27,7 +28,7 @@ The setting of The Reckoners series is a twenty-first century alternate Earth. V
 | #1
 | Novel
 | 
-| {{ref|name=steelheart}}
+| 
 
 |- class='reckoners other'
 
@@ -35,7 +36,7 @@ The setting of The Reckoners series is a twenty-first century alternate Earth. V
 | #1.5
 | Novelette
 | 
-| {{ref|name=2shorts}}
+| 
 
 |- class='reckoners other'
 ! 2015
@@ -43,7 +44,7 @@ The setting of The Reckoners series is a twenty-first century alternate Earth. V
 | #2
 | Novel
 |
-| {{ref|name=firefight}}
+| 
 
 |- class='reckoners other'
 ! 2016
@@ -51,7 +52,7 @@ The setting of The Reckoners series is a twenty-first century alternate Earth. V
 | #3
 | Novel
 |
-| {{sots ref|2014}} {{ref|name=calamity}}
+|  
 
 |- class='reckoners other'
 ! 2021
@@ -59,7 +60,7 @@ The setting of The Reckoners series is a twenty-first century alternate Earth. V
 | #4
 | Novel
 | Audio original; cowritten with [[Steven Michael Bohls]].
-| {{ref|name=lux}}
+| 
 
 |- class='reckoners unreleased other'
 ! N/A
@@ -67,28 +68,19 @@ The setting of The Reckoners series is a twenty-first century alternate Earth. V
 | #5
 | Novel
 | Unreleased sequel to Lux. Confirmed in a blog post by Steven Bohls.
-| {{url ref|url=https://www.stevenbohls.com/home/will-there-be-a-sequel-to-lux|text=Will there be a sequel to "Lux?"|site=stevenbohls.com|date=2024-06-21}}
+| 
 |}
 
 ==Trivia==
-*Brandon initially planned another series in the same universe, *[[The Apocalypse Guard]]*, about a group that works to save planets from mass extinctions.{{wob ref|9130}} The first book, however, didn't work, and Brandon is currently working on revising with the help of his friend and author [[Dan Wells]].{{wob ref|12482}} He has not fully ruled out a connection to the Reckoners universe, but it is not a priority.{{wob ref|13608}}
+*Brandon initially planned another series in the same universe, *[[The Apocalypse Guard]]*, about a group that works to save planets from mass extinctions. The first book, however, didn't work, and Brandon is currently working on revising with the help of his friend and author [[Dan Wells]]. He has not fully ruled out a connection to the Reckoners universe, but it is not a priority.
 
 ## Cover Galleries
-{{CoverToC|reckoners}}
 
 ## Notes
 <references>
 
-{{bws ref|name=steelheart|steelheart-launch-day|*Steelheart* release announcement|date=Sep 24th, 2013}}
-{{bws ref|name=2shorts|two-shorts-released|"Two shorts released!" blog post|date=Dec 3rd, 2013}}
-{{bws ref|name=firefight|firefight-is-out-steelhunt-2015|"Firefight is Out!" blog post|date=Jan 6th, 2015}}
-{{bws ref|name=calamity|calamity-is-out|Calamity Release Announcement|date=2016-02-16}}
-{{bws ref|name=lux|cover-reveal-for-lux-a-texas-reckoners-novel|Cover Reveal for Lux: A Texas Reckoners Novel|date=2021-06-24}}
-
 </references>
-{{meta/partial}}
-{{Reckoners}}
-{{books}}
+
 [[category: series]]
 [[category: The Reckoners| ]]
 [[category: list articles]]

@@ -1,0 +1,1 @@
+#REDIRECT [[Summary:Words of Radiance/Epilogue]]

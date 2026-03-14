@@ -1,0 +1,7 @@
+#redirect[[Ker'reen]]
+[[Category: Structural redirects]]
+[[category: White Sand]]
+[[Category: Cosmere]]
+[[category: culture]]
+[[category: Taldain culture]]
+[[category: religion]]

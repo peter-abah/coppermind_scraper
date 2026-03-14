@@ -1,0 +1,19 @@
+{{geography
+|type={{cat tag|Water body}}
+|region=Elendel Basin
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+The '''Hammondar Bay''' is a body of water west of [[Elendel]].{{map ref|Elendel}} The [[Irongate River]] flows into it, and it is connected to the [[Sea of Yomend]].{{map ref|Elendel Basin}}
+
+It is presumably named after [[Hammond]].
+
+== Trivia ==
+* [[Isaac Stewart]] signed a copy of ''[[The Alloy of Law]]''. In it, he wrote "Remember Hammondar Bay." It is currently unknown why this might be, but it is assumed there will be something of future significance there, and in ''[[The Lost Metal]]'', [[Wax]] and [[Wayne]]'s final fight takes place on a [[Pewternaut|ship]] in the bay.{{17s ref|post|368323|"Remember Hammondar Bay"|date=5 December 2015}}{{book ref|mb7|69}}
+* Hammondar is also a month in the [[Scadrial|Scadrian]] calendar.{{book ref|eltania}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:33, 15 June 2018 (MST)}}
+{{Mistborn|Era 2}}

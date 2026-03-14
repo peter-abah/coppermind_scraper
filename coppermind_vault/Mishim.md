@@ -1,3 +1,8 @@
+---
+source_file: Mishim.txt
+entity_type: article
+---
+
 #REDIRECT [[Roshar#Planetary System]]
 [[Category: Locations]]
 [[Category: Stormlight Archive]]

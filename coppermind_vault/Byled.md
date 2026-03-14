@@ -1,12 +1,11 @@
 ---
-universe: "Cytoverse"
-books: "Skyward (series)"
+source_file: Byled.txt
+entity_type: location
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
-{{update|sky4}}
-**Byled** is the location of the [[Superiority]]'s primary communications node.{{book ref|sky4|epilogue}}
+**Byled** is the location of the [[Superiority]]'s primary communications node.
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

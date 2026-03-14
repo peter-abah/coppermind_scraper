@@ -1,0 +1,2 @@
+#redirect[[Lancing]]
+[[category: terminology]]

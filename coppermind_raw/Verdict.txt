@@ -1,0 +1,26 @@
+{{literature
+|type=Essay
+|author=[[Jasnah Kholin]]
+|era=True Desolation
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[Stormlight Archive]]
+}}
+{{quote
+|The allusions… Such wordplay… The momentum and rhetoric… This is a work of art.
+|Reactions from the [[vizier]]s to ''Verdict''{{book ref|sa3|65}}
+}}
+
+'''Verdict''' is an essay written by [[Jasnah Kholin]] in the year {{Rosharan date|1174}}. It is one of three arguments presented to the [[Azir#Government|Azish Government]] by the [[coalition of monarchs]] in an attempt to get the central [[Rosharan]] empire to join their forces.{{book ref|sa3|65}}
+
+''Verdict'' is the shortest essay of the three, being only a single, double-sided page long. It is written entirely in single rhythmic meter and includes references to [[Aqqu|Aqqu's seven Logical Forms]] and the Grand Orientation. It also contains a quote by [[Kasimarlix|Prime Kasimarlix]] that is used to extrapolate to different levels of Superior Understanding, in three sequential stages.{{book ref|sa3|65}}
+
+The essay was presented to the Azish [[vizier]]s and [[scion]]s by [[Dalinar Kholin]], in an effort to convince the country to join the coalition against [[Odium]] and the [[Fused]]. It was the final essay to be presented and convinced Vizier [[Noura]] to at least consider the alliance offer and present the arguments to the [[Prime Aqasix|Prime]]. ''Verdict'' was received favorably by the officials and they were highly impressed by Jasnah's writing, finding it to live up to her reputation as a scholar. Nevertheless, it was not Jasnah's essay, but [[Navani]]'s, that eventually convinced the Azish to join the coalition.{{book ref|sa3|65}}
+
+== Trivia ==
+*'Verdict' is the chapter title in which the three essays are presented to the Azish.{{book ref|sa3|65}}
+
+== Notes ==
+<references/>
+{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 10:46, 22 May 2020 (UTC)}}
+{{Stormlight}}

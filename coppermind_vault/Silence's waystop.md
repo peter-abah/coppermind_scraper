@@ -1,25 +1,27 @@
-{{business
-|owner=[[Silence Montane]]
-|region=Forests of Hell
-|world=Threnody
-|universe=[[Cosmere]]
-|books=[[Shadows for Silence]]
-}}
-**Silence's waystop** was a waystop run by [[Silence Montane]] in the [[Forests of Hell]].{{book ref|sfs}}
+---
+source_file: Silence's waystop.txt
+entity_type: business
+owner: '[[Silence Montane]]'
+region: Forests of Hell
+world: Threnody
+universe: '[[Cosmere]]'
+books: '[[Shadows for Silence]]'
+---
 
-Silence and her daughter, [[William Ann]], ran the waystop, along with a young girl named [[Sebruki]].{{book ref|sfs}} They had [[Dob]] as a stablehand.
+**Silence's waystop** was a waystop run by [[Silence Montane]] in the [[Forests of Hell]].
 
-Silence's waystop was mostly a simple inn, with a common room where food and drink was served, and a kitchen which had been scrubbed so thoroughly by Sebruki that the wood had been bleached.{{book ref|sfs}} They served venison with gravy and beer, and kept pigs.
+Silence and her daughter, [[William Ann]], ran the waystop, along with a young girl named [[Sebruki]]. They had [[Dob]] as a stablehand.
 
-Silence's waystop was considered to be neutral territory in the Forests, due in part to the belief that it was guarded by the [[shade]] of her husband. The costs of running the waystop were high and it was a difficult life, but the bounty on [[Chesterton Divide]] and his men was enough money to supply the waystop for a year or two.{{book ref|sfs}}
+Silence's waystop was mostly a simple inn, with a common room where food and drink was served, and a kitchen which had been scrubbed so thoroughly by Sebruki that the wood had been bleached. They served venison with gravy and beer, and kept pigs.
+
+Silence's waystop was considered to be neutral territory in the Forests, due in part to the belief that it was guarded by the [[shade]] of her husband. The costs of running the waystop were high and it was a difficult life, but the bounty on [[Chesterton Divide]] and his men was enough money to supply the waystop for a year or two.
 
 Silence has laid out 3 concentric rings of silver around her waystop (a common practice for waystops) in order to keep the shades out. Apparently, there is some agreement between the patrons and the owner of the waystop, where the rings are intended to keep shades out, and not to trap them inside.
 
-There are fewer and fewer travelers going past Silence's waystop, due to the fact that the number of shades has increased.{{book ref|sfs}}
+There are fewer and fewer travelers going past Silence's waystop, due to the fact that the number of shades has increased.
 
 ## Notes
 <references />
-{{partial}}
-{{Shadows for Silence}}
+
 [[category: possessive articles]]
 [[es:Posada de Silencio]]

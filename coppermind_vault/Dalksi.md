@@ -1,27 +1,25 @@
 ---
-occupation: "{{tag+|Vizier"
+source_file: Dalksi.txt
+entity_type: character
+occupation: Vizier
+nation: Azir
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Oathbringer]]'
 ---
 
-|nation=Azir
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Oathbringer]]
-}}
-{{quote
-| What! I misspelled three words in the first paragraph alone!
-| Dalksi upon the mention of her application on becoming Prime{{book ref|sa2|i|9}}
-}}
-**Dalksi** is an [[Azish]] [[vizier]] on [[Roshar]] during the [[Era of Solitude]].{{book ref|sa2|i|9}} 
+> What! I misspelled three words in the first paragraph alone!
+> — Dalksi upon the mention of her application on becoming Prime
 
-In {{Rosharan date|1173}}, after the assassination of two [[Prime Aqasix]]es by [[Szeth]], Dalksi attended the holy conclave in the [[Bronze Palace]] to chose a new Prime. Dalksi, like many, feared for her life and did not want to be chosen as the new Prime. In order to avoid being chosen, she submitted a poor application, misspelling several words in her essay among other intentional mistakes. Another vizier attempted to compliment Dalksi's essay, but Dalksi denied the compliment, claiming that [[Axikk]]'s essay was superior.
+**Dalksi** is an [[Azish]] [[vizier]] on [[Roshar]] during the [[Era of Solitude]]. 
 
-During her time in the palace, Lift got to know Dalksi better, although she never bothered to learn her name, referring to her as **Dalky** instead.{{book ref|Edgedancer|13}}
+In , after the assassination of two [[Prime Aqasix]]es by [[Szeth]], Dalksi attended the holy conclave in the [[Bronze Palace]] to chose a new Prime. Dalksi, like many, feared for her life and did not want to be chosen as the new Prime. In order to avoid being chosen, she submitted a poor application, misspelling several words in her essay among other intentional mistakes. Another vizier attempted to compliment Dalksi's essay, but Dalksi denied the compliment, claiming that [[Axikk]]'s essay was superior.
 
-She is one of [[Yanagawn]]'s highest advisers, and is present when the Azish fleet escapes [[Thaylen City]] prior to the [[Battle of Thaylen Field]]. She asks Yanagawn what he means when he says that Lift is 'the other kind of smart'. She then opens the door for [[Vono]] to report that Lift had escaped.{{book ref|sa3|116}}
+During her time in the palace, Lift got to know Dalksi better, although she never bothered to learn her name, referring to her as **Dalky** instead.
 
-Dalksi has an odd-looking nose that resembles a spigot.{{book ref|Edgedancer|13}} Her hair is powder white, and she is the oldest of Yanagawn's advisers, but isn't the most senior.{{book ref|sa3|116}}
+She is one of [[Yanagawn]]'s highest advisers, and is present when the Azish fleet escapes [[Thaylen City]] prior to the [[Battle of Thaylen Field]]. She asks Yanagawn what he means when he says that Lift is 'the other kind of smart'. She then opens the door for [[Vono]] to report that Lift had escaped.
+
+Dalksi has an odd-looking nose that resembles a spigot. Her hair is powder white, and she is the oldest of Yanagawn's advisers, but isn't the most senior.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 12:43, 4 January 2018 (MST)}}
-{{Stormlight}}

@@ -1,51 +1,51 @@
 ---
-children: "Laral|merge-family=y"
-died: "c. {{Rosharan date|1166|missing-date=?"
+source_file: Wistiow.txt
+entity_type: character
+children: '[[Laral]]'
+merge-family: y
+died: c.
+residence: Hearthstone
+titles: Citylord
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-{{book ref|sa1|16}}
-|residence=Hearthstone
-|titles=Citylord
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Brightlord Wistiow** is a [[lighteyes|lighteyed]] [[Alethi]] and the citylord of [[Hearthstone]] prior to the [[Vengeance Pact]].{{book ref|sa1|16}} A friend of [[Lirin]]'s,{{book ref|sa1|25}} Wistiow is a frail man who has one daughter, [[Laral]].{{book ref|sa1|16}} Upon his death he leaves no male heir behind,{{book ref|sa1|16}} so Citylord [[Roshone]] is appointed to take his place.{{book ref|sa1|25}}
+**Brightlord Wistiow** is a [[lighteyes|lighteyed]] [[Alethi]] and the citylord of [[Hearthstone]] prior to the [[Vengeance Pact]]. A friend of [[Lirin]]'s, Wistiow is a frail man who has one daughter, [[Laral]]. Upon his death he leaves no male heir behind, so Citylord [[Roshone]] is appointed to take his place.
 
 ## Personality
-{{quote
-|Brightlord Wistiow let men do as they wished. And so they ignored him. Roshone lets them know he finds them contemptible. And so they scramble to please him.
-|Lirin on Wistiow{{book ref|sa1|31}}
-}}
-Little of Wistiow's personality is known, but things may be ascertained. He is not an ostentatious lighteyes, keeping only a single elderly horse{{book ref|sa1|25}} and paying little attention to the grounds of his manor.{{book ref|sa1|37}} In fact, Wistiow has contempt for lighteyes that spent their time hunting. He and Lirin joke that such lighteyes will kill beasts only if there are no men around to kill.{{book ref|sa1|41}}
 
-Wistiow is an easygoing and passive citylord; he primarily lets his people do as they wish, although they are mostly ambivalent towards Wistiow himself, not overly striving to please him.{{book ref|sa1|31}} Wistiow himself may be somewhat stuffy,{{book ref|sa1|10}} but he also is likely a generous man who cares for his people, as Lirin firmly believes that Wistiow would have paid for Kaladin's training as a surgeon had he had the chance before his death.{{book ref|sa1|37}} He also calls for Lirin to come set the broken arm of a young [[parshman]], although later the [[singer]] in question, [[Abiajan]], questions whether the event only took place because Wistiow had paid a good price for her.{{book ref|sa4|1}}
+> Brightlord Wistiow let men do as they wished. And so they ignored him. Roshone lets them know he finds them contemptible. And so they scramble to please him.
+> — Lirin on Wistiow
+
+Little of Wistiow's personality is known, but things may be ascertained. He is not an ostentatious lighteyes, keeping only a single elderly horse and paying little attention to the grounds of his manor. In fact, Wistiow has contempt for lighteyes that spent their time hunting. He and Lirin joke that such lighteyes will kill beasts only if there are no men around to kill.
+
+Wistiow is an easygoing and passive citylord; he primarily lets his people do as they wish, although they are mostly ambivalent towards Wistiow himself, not overly striving to please him. Wistiow himself may be somewhat stuffy, but he also is likely a generous man who cares for his people, as Lirin firmly believes that Wistiow would have paid for Kaladin's training as a surgeon had he had the chance before his death. He also calls for Lirin to come set the broken arm of a young [[parshman]], although later the [[singer]] in question, [[Abiajan]], questions whether the event only took place because Wistiow had paid a good price for her.
 
 ## History
 ### Time as Citylord
-Little is known about Wistiow's early life or marriage, but at some point in his life he became citylord of Hearthstone and fathered a daughter, [[Laral Wistiow]].{{book ref|sa1|16}} During his tenure as citylord, Wistiow tended to allow his people to live their lives as they wished.{{book ref|sa1|31}} Wistiow kept a small staff, including a footman, a butler,{{book ref|sa1|23}} a nurse for his daughter,{{book ref|sa1|25}} and several clerks{{book ref|sa1|37}} and [[parshmen]].{{book ref|sa4|1}} Wistiow also employed a man named [[Miliv]] who worked for Wistiow as his head steward,{{book ref|sa1|25}} as well as a cook named [[Barm]].{{book ref|sa1|37}} Throughout his life, Wistiow was always a frail man.{{book ref|sa1|16}}
+Little is known about Wistiow's early life or marriage, but at some point in his life he became citylord of Hearthstone and fathered a daughter, [[Laral Wistiow]]. During his tenure as citylord, Wistiow tended to allow his people to live their lives as they wished. Wistiow kept a small staff, including a footman, a butler, a nurse for his daughter, and several clerks and [[parshmen]]. Wistiow also employed a man named [[Miliv]] who worked for Wistiow as his head steward, as well as a cook named [[Barm]]. Throughout his life, Wistiow was always a frail man.
 
-During his time as citylord, Wistiow became friends with [[Lirin]], the town's surgeon.{{book ref|sa1|41}} The two often joked about other lighteyes,{{book ref|sa1|41}} and Wistiow and Lirin also had made plans that their children, [[Kaladin]] and Laral, might one day wed.{{book ref|sa1|25}} House Wistiow was a relatively poor family of little renown, and both could benefit from the connection. Wistiow may even have promised that he would fund sending Kaladin's training as a surgeon in [[Kharbranth]] to take care of his town.{{ref|group=fn|text=It is uncertain if Wistiow ever promised to pay for Kaladin's training. Lirin claims that in stealing the spheres, he only ensured that promises were kept, but he had earlier mentioned that they had lost the promise of a union with Laral.{{book ref|sa1|37}} This may indicate that they had originally planned to use Wistiow's money once Kaladin had married into the family, or even that Lirin was substituting the spheres for the loss of the engagement.}}
+During his time as citylord, Wistiow became friends with [[Lirin]], the town's surgeon. The two often joked about other lighteyes, and Wistiow and Lirin also had made plans that their children, [[Kaladin]] and Laral, might one day wed. House Wistiow was a relatively poor family of little renown, and both could benefit from the connection. Wistiow may even have promised that he would fund sending Kaladin's training as a surgeon in [[Kharbranth]] to take care of his town.
 
 ### Death
-{{quote
-|Brightlord Wistiow has been carried by the winds.
-|Lirin to Kaladin on Wistiow's death{{book ref|sa1|16}}
-}}
-Around early {{Rosharan date|1166}}, an army passed through Hearthstone and asked Citylord Wistiow's permission to recruit a few of the older boys in town.{{book ref|sa1|16}} A few weeks later, Wistiow became ill and Lirin began to treat him in his mansion. Within a week, Wistiow's already frail health had diminished substantially{{book ref|sa1|16}} and he lost lucidity as he entered his final days.{{book ref|sa1|37}} Knowing the marriage between Kaladin and Laral was now in jeopardy, Lirin prepared the appropriate documents,{{book ref|sa1|37}} as well as a simple will written in [[glyphs]]{{book ref|sa1|25}} that would grant Kaladin a supply of diamond broams to fund his education in Kharbranth.{{book ref|sa1|16}} He had Wistiow's scribes read the message to the man before Wistiow sent them away.{{book ref|sa1|37}} Wistiow was not coherent enough to stamp the documents, so Lirin did it himself. Wistiow passed away shortly thereafter.{{book ref|sa1|16}}
+
+> Brightlord Wistiow has been carried by the winds.
+> — Lirin to Kaladin on Wistiow's death
+
+Around early , an army passed through Hearthstone and asked Citylord Wistiow's permission to recruit a few of the older boys in town. A few weeks later, Wistiow became ill and Lirin began to treat him in his mansion. Within a week, Wistiow's already frail health had diminished substantially and he lost lucidity as he entered his final days. Knowing the marriage between Kaladin and Laral was now in jeopardy, Lirin prepared the appropriate documents, as well as a simple will written in [[glyphs]] that would grant Kaladin a supply of diamond broams to fund his education in Kharbranth. He had Wistiow's scribes read the message to the man before Wistiow sent them away. Wistiow was not coherent enough to stamp the documents, so Lirin did it himself. Wistiow passed away shortly thereafter.
 
 ### Legacy
-{{quote
-|[The people of Hearthstone are] my responsibility, now that Wistiow has gone. I can’t leave them to Roshone.
-|Lirin on Wistiow's death{{book ref|sa1|37}}
-}}
-Wistiow's death lead to a period of severe hardship in Hearthstone, as he was the last male of his line.{{book ref|sa1|16}} This meant that he was replaced after several months{{book ref|sa1|20}} by Citylord [[Roshone]],{{book ref|sa1|25}} who had been exiled to Hearthstone for his actions in the capital.{{book ref|sa2|62}} The odd circumstances surrounding Wistiow's death lead to rumors circulating among the townspeople, perhaps spread by [[Miliv]], that Lirin had written the document and tricked a confused Wistiow into signing it.{{book ref|sa1|25}} This suspicion was only exacerbated by Roshone upon his arrival,{{book ref|sa1|31}} as he wished to add the funds to the meager lands and property he had received from the Wistiow estate.{{book ref|sa1|37}} The planned engagement of Kaladin and Laral also fell through under Roshone, as Laral had not yet reached her day of majority and Roshone was unwilling to let her dowry go.{{book ref|sa1|37}} Instead he engaged her to his own son [[Rillir]] to tie their family to a respectable house. Following Rillir's death, Laral was engaged to Roshone himself instead.{{book ref|sa1|44}} Lirin found himself unable to leave Hearthstone despite the difficulties his family faced because he still felt like no one would care for the citizens of Hearthstone once Wistiow had passed away.{{book ref|sa1|37}}
+
+> [The people of Hearthstone are] my responsibility, now that Wistiow has gone. I can’t leave them to Roshone.
+> — Lirin on Wistiow's death
+
+Wistiow's death lead to a period of severe hardship in Hearthstone, as he was the last male of his line. This meant that he was replaced after several months by Citylord [[Roshone]], who had been exiled to Hearthstone for his actions in the capital. The odd circumstances surrounding Wistiow's death lead to rumors circulating among the townspeople, perhaps spread by [[Miliv]], that Lirin had written the document and tricked a confused Wistiow into signing it. This suspicion was only exacerbated by Roshone upon his arrival, as he wished to add the funds to the meager lands and property he had received from the Wistiow estate. The planned engagement of Kaladin and Laral also fell through under Roshone, as Laral had not yet reached her day of majority and Roshone was unwilling to let her dowry go. Instead he engaged her to his own son [[Rillir]] to tie their family to a respectable house. Following Rillir's death, Laral was engaged to Roshone himself instead. Lirin found himself unable to leave Hearthstone despite the difficulties his family faced because he still felt like no one would care for the citizens of Hearthstone once Wistiow had passed away.
 
 ## Notes
 <references />
 ; Footnotes
 <references group=fn />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 16:56, 18 March 2022 (UTC)}}
-{{Stormlight}}
+
 [[Category: Family names]]

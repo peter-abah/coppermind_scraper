@@ -1,3 +1,8 @@
+---
+source_file: KaladinGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=240px>
 Kaladin%27s_Chapters.svg| <small><center>by {{a|Isaac Stewart}}</center></small>Symbol from [[Kaladin]]'s chapters

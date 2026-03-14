@@ -1,17 +1,16 @@
 ---
-profession: "{{tag+|Ardent"
+source_file: Lahar.txt
+entity_type: character
+profession: Ardent
+residence: Urithiru
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Rhythm of War]]'
 ---
 
-|residence=Urithiru
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Rhythm of War]]
-}}
-**Lahar** is an [[ardent]] on [[Roshar]].{{book ref|sa4|15}}
+**Lahar** is an [[ardent]] on [[Roshar]].
 
-When [[Kaladin]] is looking for [[Zahel]] among the swordmasters after being relieved of duty, Master Lahar tells him that Zahel is on laundry detail.{{book ref|sa4|15}}
+When [[Kaladin]] is looking for [[Zahel]] among the swordmasters after being relieved of duty, Master Lahar tells him that Zahel is on laundry detail.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 23:31, 10 March 2022 (UTC)}}
-{{stormlight}}

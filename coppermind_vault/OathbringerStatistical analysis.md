@@ -1,3 +1,8 @@
+---
+source_file: OathbringerStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains some statistical analysis of ***[[Oathbringer]]***, the third book in *[[The Stormlight Archive]]*.
 
 For a full series overview see [[The Stormlight Archive/Statistical analysis]], and for other books in the series see [[The Way of Kings/Statistical analysis]], [[Words of Radiance/Statistical analysis]], [[Rhythm of War/Statistical analysis]], and [[Wind and Truth/Statistical analysis]].
@@ -806,7 +811,5 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 
 |}
 
-{{meta/done}}
-{{Stormlight}}
 [[Category: Stormlight Archive|*3x]]
 [[category: statistics]]

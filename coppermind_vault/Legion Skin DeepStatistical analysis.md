@@ -1,3 +1,8 @@
+---
+source_file: Legion Skin DeepStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Legion: Skin Deep]]***.
 
 ### Chapter by Chapter Breakdown
@@ -117,7 +122,5 @@ This page contains a statistical analysis of ***[[Legion: Skin Deep]]***.
 | align="right" | **100.00%**
 |}
 
-{{meta/done}}
-{{Legion}}
 [[Category: Legion|*]]
 [[category: statistics]]

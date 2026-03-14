@@ -1,9 +1,11 @@
-{{book
-|released= December 2023
-|publisher= Dragonsteel Entertainment
-|word-count= 10,047
-|ISBN= 978-1-938570-46-9
-}}
+---
+source_file: Long Chills & Case Dough.txt
+entity_type: book
+released: December 2023
+publisher: Dragonsteel Entertainment
+word-count: 10,047
+isbn: 978-1-938570-46-9
+---
 
 ***Long Chills & Case Dough*** is a noir detective science fiction novelette by Brandon Sanderson. The story is told from the first-person perspective of Jack Derrins, an eccentric private detective who speaks and narrates in 1900s noir slang despite living in the twenty-second century.
 
@@ -27,5 +29,3 @@ In December 2023, the final box of the [[Year of Sanderson]] campaign included c
 
 ==Notes==
 <References/>
-{{meta/partial}}
-{{books}}

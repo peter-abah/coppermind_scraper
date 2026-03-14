@@ -1,0 +1,27 @@
+{{book|title=''Evershore''|display-title=''Evershore'' (novella)
+|cover=Evershore US Cover.jpg
+|series=[[Skyward (series)]]
+|setting=[[Cytoverse]]
+|collaborators=[[Janci Patterson]]
+|prev=ReDawn (novella)|prequel=ReDawn
+|next=Cytonic (book)|sequel=Cytonic
+|released=December 28, 2021{{url ref|name=ReleaseDate|url=https://www.gollancz.co.uk/news/2021/09/20/gollancz-to-publish-skyward-flight-novellas-by-sunday-times-bestselling-author-brandon-sanderson/|text=Gollancz announcement|site=Gollancz website|date=2021-09-20}}
+|ISBN=978-0-5935-6663-3
+|page-count=234
+}}
+'''''Evershore''''' is a novella in the [[Skyward (series)|Skyward series]], co-written by [[Brandon Sanderson]] and [[Janci Patterson]].{{wob ref|14610}}{{url ref|url=https://www.awfulagent.com/wp-content/uploads/2021/06/2021-London-catalog-Final-1.pdf#page=29|text=JABberwocky 2021 London Rights Catalog (p. 56)|site=awfulagent.com}} It stars [[Jorgen]] as the point-of-view character.{{wob ref|14975}} The book was released on December 28th, 2021{{ref|name=ReleaseDate}} in audio- and e-book form; a combined print edition of it, ''[[Sunreach]]'', and ''[[ReDawn (novella)|ReDawn]]'' was released on April 5th, 2022. It is set between ''[[Starsight]]'' and ''Cytonic''.{{wob ref|14975}}
+
+== Synopsis ==
+''With the government of Detritus in disarray because of Superiority treachery, and with Spensa still away on her mission in the Nowhere, Jorgen must work together with the alien Alanik to pick up the pieces. They intercept a strange transmission from the planet Evershore and its Kitsen inhabitants, who say they have some of Jorgen’s people and want to return them—but can the Kitsen be trusted? And can Jorgen learn to master his increasingly erratic cytonic powers before they spiral out of control and destroy all hope of forming an alliance against the Superiority?''
+
+== Summary ==
+{{for|/Summary|a chapter-by-chapter summary}}
+
+== Cover Gallery ==
+{{for|/Covers|a cover gallery of Evershore}}
+
+== Notes ==
+<references />
+{{meta/partial}}
+{{skyward}}
+{{books}}

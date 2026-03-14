@@ -1,6 +1,10 @@
+---
+source_file: Alcatraz SmedryGallery.txt
+entity_type: covertoc
+---
+
 ## Covers and interior art
 Alcatraz is featured on most covers of his books.
-{{CoverToC|alcatraz}}
 
 <gallery mode="packed" heights=200px caption="Cover art">
 Alcatraz Versus the Evil Librarians Full.jpg | <center><small>by {{a|Scott Brundage}}</small></center> *[[Alcatraz Versus the Evil Librarians]]* (US)

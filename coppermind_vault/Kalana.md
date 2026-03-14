@@ -1,17 +1,14 @@
 ---
-profession: "{{cat tag|scholars|Engineer"
+source_file: Kalana.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-
-Brightlady **Kalana** is a [[lighteyed]] engineer on [[Roshar]].{{book ref|sa1|28}}
+Brightlady **Kalana** is a [[lighteyed]] engineer on [[Roshar]].
 
 She designed siege bridges for [[House Kholin]]. Upon an initial attempt at making more mobile siege bridges, which collapsed, [[Adolin Kholin]] suggested to [[Teleb]] that perhaps the bridges could be narrower. Teleb promised he would speak with Kalana to potentially create a new design.
 
 ## Notes
 <references />
-{{complete|[[User:Jofwu|Jofwu]] ([[User talk:Jofwu|talk]]) 11:50, 17 September 2018 (MST)}}
-{{Stormlight}}

@@ -1,0 +1,17 @@
+{{InteriorArtToC|skyward}}
+
+This is a gallery of interior art for ''[[Skyward]]''. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
+
+<gallery widths=3000px heights=300px mode="packed" caption="Maps">
+Alta Base.jpeg | <center><small>by [[Isaac Stewart]]</small></center> [[Alta Base]]
+United Defiant Caverns.jpeg | <center><small>by [[Isaac Stewart]]</small></center> Caverns under [[Alta]]
+</gallery>
+
+<gallery widths=3000px heights=300px mode="packed" caption="Other artwork">
+DDF Ship Designs.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> [[DDF]] [[Starfighter]] designs
+Other Ship Designs.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> Other ships ([[M-Bot]] and [[KRELL]] Interceptor)
+Turning Methods.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> Turning methods
+DDF Ship Features.jpeg | <center><small>by {{a|Ben McSweeney}}</small></center> DDF ship features
+</gallery> 
+
+[[Category:Interior art]]

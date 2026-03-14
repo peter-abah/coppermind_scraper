@@ -1,15 +1,13 @@
 ---
-profession: "{{cat tag|Scholars|Artifabrian"
+source_file: Zvynda.txt
+entity_type: character
+nation: Thaylenah
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Bridge Nine]]'
 ---
 
-|nation=Thaylenah
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Bridge Nine]]
-}}
-**Zvynda** is a [[Lighteyes|lighteyed]] [[Thaylen]] scholar on [[Roshar]]. She is the ward of [[Eliah Matal]], a lighteyed scholar from the [[Sadeas princedom]]. As a scholar, she is curious, creative and self-righteous, above all else, Zvynda wants to research ancient [[fabrial]] technology.{{rpg ref|b9|38}}
+**Zvynda** is a [[Lighteyes|lighteyed]] [[Thaylen]] scholar on [[Roshar]]. She is the ward of [[Eliah Matal]], a lighteyed scholar from the [[Sadeas princedom]]. As a scholar, she is curious, creative and self-righteous, above all else, Zvynda wants to research ancient [[fabrial]] technology.
 
 ## Notes
 <references />
-{{complete}}
-{{stormlight}}

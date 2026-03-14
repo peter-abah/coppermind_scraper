@@ -1,17 +1,16 @@
 ---
-|profession: "Scoutlord in {{tag+|army|Kholin"
+source_file: Tarilar.txt
+entity_type: character
+profession: Scoutlord in army
+groups: army
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[The Way of Kings]]'
 ---
 
-|groups={{tag+|army|Kholin}}
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[The Way of Kings]]
-}}
-**Tarilar** is a scoutlord for Highprince [[Dalinar Kholin]].{{book ref|sa1|12}} He has a gaunt face with a head that seems too small for his body, when viewed from some directions. Tarilar has a thick chest and arms. His job is to report to Dalinar or [[Adolin]] on what has been discovered by the scouts they sent out.
+**Tarilar** is a scoutlord for Highprince [[Dalinar Kholin]]. He has a gaunt face with a head that seems too small for his body, when viewed from some directions. Tarilar has a thick chest and arms. His job is to report to Dalinar or [[Adolin]] on what has been discovered by the scouts they sent out.
 
-Tarilar is present when a [[chasmfiend]] unexpectedly climbs onto the wrong plateau during [[Elhokar]]'s hunting party.{{book ref|sa1|12}}
+Tarilar is present when a [[chasmfiend]] unexpectedly climbs onto the wrong plateau during [[Elhokar]]'s hunting party.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:12, 11 September 2018 (MST)}}
-{{Stormlight}}

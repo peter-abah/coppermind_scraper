@@ -1,0 +1,16 @@
+{{character
+|titles=Vice Admiral
+|groups=[[DDF]]
+|world=Detritus
+|universe=[[Cytoverse]]
+|introduced=[[Cytonic (book)|Cytonic]]
+}}
+Vice Admiral '''Lawkins''' is an officer in the [[DDF]]{{book ref|sky3|epilogue}}
+
+== History ==
+When [[Spensa Nightshade|Spensa]] returned from the [[nowhere]] and hyperjumped into the middle of the command room on [[Platform Prime]], Lawkins was in the middle of a meeting there. Lawkins was very startled, scrambling out of her chair when Spensa appeared.{{book ref|sky3|epilogue}}
+
+== Notes ==
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 08:55, 29 May 2022 (UTC)}}
+{{Skyward}}

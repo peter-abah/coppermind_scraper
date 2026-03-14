@@ -1,21 +1,24 @@
-{{lifeform
-|image=Chalkling Dragon Simple.svg
-|earth=Rithmatist
-|books=[[The Rithmatist]]
-}}
-A **chalkling** is a two-dimensional being made of chalk.{{book ref|Rithmatist|1}}
+---
+source_file: Chalkling.txt
+entity_type: lifeform
+image: Chalkling Dragon Simple.svg
+earth: Rithmatist
+books: '[[The Rithmatist]]'
+---
+
+A **chalkling** is a two-dimensional being made of chalk.
 
 ## Lines of Making
-[[Rithmatics|Rithmatist]]s are able to create chalklings by drawing Lines of Making.{{book ref|Rithmatist|23}} More detailed and beautiful chalklings are stronger than more simplistic ones. The reason for this is unknown.{{book ref|Rithmatist|9}}  The shape of a chalkling has a significant amount of influence on its abilities. A knight, for example, is strongest when attached to a bindpoint whereas a creature with long teeth and claws is better at attacking. Likewise an amorphous blob can take a number of hits from Lines of Vigor but moves slowly whereas a creature with many legs can move quickly but isn't as strong when attacking.{{ref|name=chalklingtypes}} Binding a chalkling to a Line of Warding strengthens it.{{book ref|Rithmatist|10}} Chalklings can be difficult to outrun and do not get tired.{{book ref|Rithmatist|10}}{{book ref|Rithmatist|21}}
+[[Rithmatics|Rithmatist]]s are able to create chalklings by drawing Lines of Making. More detailed and beautiful chalklings are stronger than more simplistic ones. The reason for this is unknown.  The shape of a chalkling has a significant amount of influence on its abilities. A knight, for example, is strongest when attached to a bindpoint whereas a creature with long teeth and claws is better at attacking. Likewise an amorphous blob can take a number of hits from Lines of Vigor but moves slowly whereas a creature with many legs can move quickly but isn't as strong when attacking. Binding a chalkling to a Line of Warding strengthens it. Chalklings can be difficult to outrun and do not get tired.
 
 ### Glyphs
-There are a wide variety of glyphs that are used to "program" chalklings.  The sequence of glyphs is written beside the chalkling and determines which actions the chalkling takes, in what order, and for how long. Upon completion, the glyphs vanish and the chalkling begins executing its instructions. The form of the glyphs are not standardized, although the meanings of each glyph are fixed.{{ref|name=instructingchalklings}} An number below a glyph can be added to determine duration of a *Go* command or the angle of a *Turn* command. 
+There are a wide variety of glyphs that are used to "program" chalklings.  The sequence of glyphs is written beside the chalkling and determines which actions the chalkling takes, in what order, and for how long. Upon completion, the glyphs vanish and the chalkling begins executing its instructions. The form of the glyphs are not standardized, although the meanings of each glyph are fixed. An number below a glyph can be added to determine duration of a *Go* command or the angle of a *Turn* command. 
 ;Go: An arrow pointing in the desired direction of travel.
 ;Attack: An "X" shape.
 ;Wait: A horizontal line.
-;Turn: An acute angle with an arrow pointing in the direction of the turn.{{ref|name=instructingchalklings}} 
-;Defend: A diamond shape, it instructs bound chalklings to patrol the area around the bindpoint they are tethered to and attack any chalkling not bound to the same circle as it.{{ref|name=bindingchalklings}}
-;Glyph of Rending: Allows a chalkling to interact with objects not made of chalk.{{book ref|Rithmatist|8}} This glyph is not taught until the Rithmatist arrives in Nebrask for their final year of training. While this glyph can be dangerous (by allowing chalklings to attack people), it can also be used for more productive means. Chalklings with the Glyph of Rending can be used to provide free energy; Rithmatists are frequently employed by [[Springrail]] companies to use chalklings to wind the large spools of springs used to power the Springrails (an arrangement that is quite profitable for the Rithmatists).{{book ref|Rithmatist|13}}
+;Turn: An acute angle with an arrow pointing in the direction of the turn. 
+;Defend: A diamond shape, it instructs bound chalklings to patrol the area around the bindpoint they are tethered to and attack any chalkling not bound to the same circle as it.
+;Glyph of Rending: Allows a chalkling to interact with objects not made of chalk. This glyph is not taught until the Rithmatist arrives in Nebrask for their final year of training. While this glyph can be dangerous (by allowing chalklings to attack people), it can also be used for more productive means. Chalklings with the Glyph of Rending can be used to provide free energy; Rithmatists are frequently employed by [[Springrail]] companies to use chalklings to wind the large spools of springs used to power the Springrails (an arrangement that is quite profitable for the Rithmatists).
 
 [[File:Rithmatist Instructions.svg|500px]]
 
@@ -47,25 +50,22 @@ Chalkling Turtle.svg
 </gallery>
 
 ## Wild Chalklings
-The origin of wild chalklings is currently unknown.{{book ref|Rithmatist|7}}  The first interaction between wild chalklings and European settlers is a subject of some debate as well.{{book ref|Rithmatist|17}}
+The origin of wild chalklings is currently unknown.  The first interaction between wild chalklings and European settlers is a subject of some debate as well.
 
-When wild chalklings come across a human, they will attack him or her aggressively, leaving only a mangled corpse behind.{{book ref|Rithmatist|10}}
+When wild chalklings come across a human, they will attack him or her aggressively, leaving only a mangled corpse behind.
 
-As of the events of [[The Rithmatist]], wild chalklings are confined to the [[Tower of Nebrask]]{{book ref|Rithmatist|6}}, where they are led by creatures known as the [[Forgotten]].{{book ref|Rithmatist|24}}
+As of the events of [[The Rithmatist]], wild chalklings are confined to the [[Tower of Nebrask]], where they are led by creatures known as the [[Forgotten]].
 
-Acid is used to combat chalklings as it is able to dissolve them more swiftly and completely than water.{{book ref|Rithmatist|13}} 
+Acid is used to combat chalklings as it is able to dissolve them more swiftly and completely than water. 
 
-The Forgotten controlling [[Inspector Harding]] was able to turn Rithmatists into wild chalklings that reformed when destroyed by chalk or acid.{{book ref|Rithmatist|23}}. After it was killed, the victims were restored.{{book ref|rithmatist|24}} It is unclear whether all Forgotten have this ability.
+The Forgotten controlling [[Inspector Harding]] was able to turn Rithmatists into wild chalklings that reformed when destroyed by chalk or acid.. After it was killed, the victims were restored. It is unclear whether all Forgotten have this ability.
 
-The [[Scribbler]] was able to turn captured Rithmatists into wild chalkings. These particular chalklings reform when destroyed by chalk or acid.{{book ref|Rithmatist|23}} After [[Joel]], [[Melody]], and [[Fitch|Professor Fitch]] defeated the Scribbler, the victims are restored.{{book ref|Rithmatist|24}} 
+The [[Scribbler]] was able to turn captured Rithmatists into wild chalkings. These particular chalklings reform when destroyed by chalk or acid. After [[Joel]], [[Melody]], and [[Fitch|Professor Fitch]] defeated the Scribbler, the victims are restored. 
 
 ## Notes
 <references>
-{{file ref|name=chalklingtypes|Types of Chalklings.jpg|Types of Chalklings Illustration}}
-{{file ref|name=instructingchalklings|Rithmatist Instructions.svg|Instructing Chalklings Illustration}}
-{{file ref|name=bindingchalklings|Binding Chalklings.jpg|Binding Chalklings Illustration}}
+
 </references>
-{{partial}}
-{{Rithmatist}}
+
 [[category: magic]]
 [[category: Rithmatics]]

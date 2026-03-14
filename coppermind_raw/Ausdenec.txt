@@ -1,0 +1,14 @@
+{{character
+|profession=Author
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+'''Ausdenec''' is a novelist on [[Scadrial]] who wrote '''''Fear & Ferociousness'''''.{{file ref|House_Record_broadsheet.jpg|''The House Record'' broadsheet}}
+
+[[Calour Publications]] advertised in ''[[The House Record]]'' looking to buy novels which were similar to Ausdenec and [[Dechane]]'s works.{{file ref|House_Record_broadsheet.jpg|''The House Record'' broadsheet}}
+
+== Notes ==
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 15:49, 19 July 2021 (UTC)}}
+{{Mistborn|Era 2}}

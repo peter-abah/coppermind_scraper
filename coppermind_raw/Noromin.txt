@@ -1,0 +1,30 @@
+{{character
+|died=[[Battle of Kholinar]], {{Rosharan date|1174}}{{book ref|sa3|84}}
+|aliases=Noro
+|profession={{cat tag|Soldiers|Lieutenant}}
+|groups={{tag|Kholinar Wall Guard}}
+|residence=Kholinar
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Oathbringer]]
+}}
+'''Noromin''' (usually '''Noro''') is an [[Alethi]] soldier on [[Roshar]]. He is a lieutenant in the [[Kholinar Wall Guard]] and the commander of Squad Two within Platoon Seven.{{book ref|sa3|70}}
+
+==Appearance and Personality==
+He has light blue eyes and a wispy dark beard, and usually wears the blue uniform of the Wall Guard.{{book ref|sa3|69}}{{book ref|sa3|73}} He can be rather charming, though his manner is more reminiscent of a merchant than of a soldier.{{book ref|sa3|69}}{{book ref|sa3|70}} Noro and his squad are very welcoming, and Noro is always pushing to keep his men out of trouble, as shown by his numerous examples of shushing people when they are about to say something sensitive, such as talking about Highmarshal [[Azure]]'s 'secret'{{book ref|sa3|70}} or [[Pai]]'s execution.{{book ref|sa3|73}} Kaladin sees him as oversensitive to discussing delicate subjects.{{book ref|sa3|78}} On the battlefield, Noro is a competent but somewhat unassertive leader; when Kaladin preempts his authority during a [[Fused]] raid, he shows lenience by shrugging it off.{{book ref|sa3|73}}
+
+==Attributes and Abilities==
+Noro trains and fights alongside his men and is versed in the use of a side sword, pike, truncheon, and shield. He is the most senior squad lieutenant in his platoon, and reports to Captain [[Deedanor]].{{book ref|sa3|73}} He has knowledge of military tactics and is a capable melee fighter.{{book ref|sa3|73}}{{book ref|sa3|84}} Noro is of a slightly higher [[dahn]] than the members of his "tenner" squad.{{book ref|sa3|73}}
+
+==History==
+Noro encountered Kaladin wearing a uniform in Kholinar while the city was [[Siege of Kholinar|under siege]] and assumed he was a deserter. He was surprised to see a "[[lighteyes]]" with a slave brand, but was cordial to Kaladin and offered him a hot meal with no strings attached. Kaladin immediately felt at home with the [[Kholinar Wall Guard]] due to their well-run operations and the welcoming behavior of Noro and the other men; he also hoped to learn more about Highmarshal [[Azure]].{{book ref|sa3|69}}{{book ref|sa3|70}} Kaladin officially joined the Wall Guard after consulting with [[Elhokar]] and was assigned to Noro's squad.{{book ref|sa3|73}}
+
+Noro led his squad during their shifts on wall duty and on patrol, including meetings with [[Velalant]] as part of a deal to distribute food in the city. He was present during the [[Fused]] raids that occurred while Kaladin was with the squad{{book ref|sa3|73}}{{book ref|sa3|79}} and also when [[Kaladin]] questioned [[Azure]]; he was mortified by Kaladin's blunt approach.{{book ref|sa3|78}} Nevertheless, Noro quickly recognized Kaladin's skill and leadership abilities and suggested that he should be promoted to lieutenant. He quickly began deferring to Kaladin's orders in battle despite his own seniority. When Kaladin revealed both his mission and his ability to absorb [[Investiture]], Noro was extremely surprised.{{book ref|sa3|79}} 
+
+Noro was present with the rest of his squad when Azure allowed Kaladin into the [[windblades]] to show him the secrets that kept the Kholinar Wall Guard fed.{{book ref|sa3|81}} The squad effectively served as an honor guard for Kaladin during the final assault on [[Kholinar Palace]].{{book ref|sa3|84}} During the skirmish, Noro killed two [[singers]] that Kaladin had known, [[Jali]] and [[Sah]], before having his head split by [[Khen]]'s axe.{{book ref|sa3|84}}
+
+== Notes ==
+<references /><!-- sa3: 68, 69, 70, 73, 78, 79, 81, 84 -->
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:04, 24 September 2020 (UTC)}}
+{{Stormlight}}

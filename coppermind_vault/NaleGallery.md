@@ -1,3 +1,8 @@
+---
+source_file: NaleGallery.txt
+entity_type: article
+---
+
 ## Official art
 <gallery caption="Images of Nale" mode="packed" caption="Official art" heights=300px>
 Herald Glyph Nalan.svg| <small><center>by {{a|Isaac Stewart}}</center></small>Nale's [[glyph]]

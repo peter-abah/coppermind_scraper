@@ -1,14 +1,13 @@
 ---
-groups: "{{tag|Set"
+source_file: Gabria.txt
+entity_type: character
+groups: Set
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Lost Metal]]'
 ---
 
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[The Lost Metal]]
-}}
-**Gabria** is a member of the [[Set]] on [[Scadrial]]. She was a crew member on the Pewternauts A16. She volunteered to deliver the [[trellium]] bomb to [[Elendel]]. She tells Wellid to keep his lantern covered and realizes that he does not know that it is a suicide mission.{{book ref|mb7|69}} It is likely that she died when the ship blew up.{{book ref|mb7|71}}
+**Gabria** is a member of the [[Set]] on [[Scadrial]]. She was a crew member on the Pewternauts A16. She volunteered to deliver the [[trellium]] bomb to [[Elendel]]. She tells Wellid to keep his lantern covered and realizes that he does not know that it is a suicide mission. It is likely that she died when the ship blew up.
 
 ## Notes
 <references />
-{{complete}}
-{{Mistborn|Era 2}}

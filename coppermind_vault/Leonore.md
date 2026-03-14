@@ -1,45 +1,43 @@
 ---
-profession: "Pilot"
-ethnicity: "Malwish"
-world: "Scadrial"
-universe: "Cosmere"
-introduced: "Isles of the Emberdark"
+source_file: Leonore.txt
+entity_type: character
+profession: Pilot
+ethnicity: Malwish
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[Isles of the Emberdark]]'
 ---
 
-{{spoilers|iote}}
-{{quote
-|We don't go down without a fight, yah?
-|Leonore to the crew of the *Dynamic*{{book ref|iote|28}}
-}}
-**Leonore** is a [[Malwish]] woman who serves as the pilot of the *[[Dynamic]]*.{{book ref|iote|25}}
+> We don't go down without a fight, yah?
+> — Leonore to the crew of the *Dynamic*
+
+**Leonore** is a [[Malwish]] woman who serves as the pilot of the *[[Dynamic]]*.
 
 ## Appearance & Personality
-Leonore has pale skin with a cool undertone, and wears a red wooden mask.{{book ref|iote|25}} She often leaves the mask down around her friends, covering her face only when she wants to concentrate.{{book ref|iote|26}} She is witty, and banters a lot with the other crewmembers of the *Dynamic*. She disagrees with the [[Malwish Empire]], and is persistently anxious that they will imprison her for deserting their army.{{book ref|iote|35}} Like the rest of her crew, she is loyal, and willing to risk herself to do the right thing.{{book ref|iote|26}} She can be sulky at times.{{book ref|iote|42}}
+Leonore has pale skin with a cool undertone, and wears a red wooden mask. She often leaves the mask down around her friends, covering her face only when she wants to concentrate. She is witty, and banters a lot with the other crewmembers of the *Dynamic*. She disagrees with the [[Malwish Empire]], and is persistently anxious that they will imprison her for deserting their army. Like the rest of her crew, she is loyal, and willing to risk herself to do the right thing. She can be sulky at times.
 
 ## Attributes & Abilities
-Leonore is an exceptionally skilled pilot. Though she originally flew fighters, she is also capable of performing complex maneuvers with the *Dynamic*, a cargo ship. She has a lot of experience, and flying comes naturally to her.{{book ref|iote|26}} She also has some training as a field medic{{book ref|iote|35}} and a good understanding of Malwish tactics and military procedures.{{book ref|iote|51}} She flies using a [[Lodestar_(technology)|lodestar]] made of many different kinds of metal.
+Leonore is an exceptionally skilled pilot. Though she originally flew fighters, she is also capable of performing complex maneuvers with the *Dynamic*, a cargo ship. She has a lot of experience, and flying comes naturally to her. She also has some training as a field medic and a good understanding of Malwish tactics and military procedures. She flies using a [[Lodestar_(technology)|lodestar]] made of many different kinds of metal.
 
 ## History
-Leonore joined the crew of the *Dynamic* after deserting the Malwish military. She cannot return to [[Scadrial]] for fear of being detained,{{book ref|iote|28}} but remained in contact with her mother, who usually sent her alcohol.{{book ref|iote|42}}
+Leonore joined the crew of the *Dynamic* after deserting the Malwish military. She cannot return to [[Scadrial]] for fear of being detained, but remained in contact with her mother, who usually sent her alcohol.
 
-Leonore was flying the *Dynamic* when they encountered a [[Evil|Type 1-6 Threnodite entity]] attacking an [[Iriali]] ship. Upon realising that Captain [[Crow]] did not intend to rescue the Iriali, Leonore participated in a mutiny.{{book ref|iote|25}} She flew the ship, successfully evading the entity and allowing [[Illistandrista|Starling]] to save the Iriali.{{book ref|iote|26}}
+Leonore was flying the *Dynamic* when they encountered a [[Evil|Type 1-6 Threnodite entity]] attacking an [[Iriali]] ship. Upon realising that Captain [[Crow]] did not intend to rescue the Iriali, Leonore participated in a mutiny. She flew the ship, successfully evading the entity and allowing [[Illistandrista|Starling]] to save the Iriali.
 
-In the aftermath of the rescue, Leonore made hot chocolate for the others. She worried that the crew would be put before the court in [[Silverlight]] and disbanded, but [[Aditil]] and [[Starling]] assured the crew that this would not happen. Leonore then toasts the successful rescue with her friends.{{book ref|iote|28}}
+In the aftermath of the rescue, Leonore made hot chocolate for the others. She worried that the crew would be put before the court in [[Silverlight]] and disbanded, but [[Aditil]] and [[Starling]] assured the crew that this would not happen. Leonore then toasts the successful rescue with her friends.
 
-When the crew traveled to the [[Dakwara's island]], Leonore panicked and considered trying to escape upon discovering the Malwish settlement there.{{book ref|iote|35}} The Malwish soldiers then entered and searched the ship, and took Leonore, recognizing her as a deserter. However, this was really a ruse to draw out [[Nazrilof|Nazh]] to contain him in a [[shade]] prison.{{book ref|iote|38}} She was upset by this, but calmed down enough to try and work out a plan with the crew.{{book ref|iote|42}} She helped present an escape plan involving Aditil to Starling, though this plan failed.{{book ref|iote|46}} 
+When the crew traveled to the [[Dakwara's island]], Leonore panicked and considered trying to escape upon discovering the Malwish settlement there. The Malwish soldiers then entered and searched the ship, and took Leonore, recognizing her as a deserter. However, this was really a ruse to draw out [[Nazrilof|Nazh]] to contain him in a [[shade]] prison. She was upset by this, but calmed down enough to try and work out a plan with the crew. She helped present an escape plan involving Aditil to Starling, though this plan failed. 
 
-After Starling used the [[Intensifier]] to short-circuit the electricity on the island, Leonore snuck away and powered on the *Dynamic*.{{book ref|iote|59}} She piloted the ship throughout the fight that followed, ending when the [[Dakwara]] killed [[Dajer]] and destroyed his ship.{{book ref|iote|60}}
+After Starling used the [[Intensifier]] to short-circuit the electricity on the island, Leonore snuck away and powered on the *Dynamic*. She piloted the ship throughout the fight that followed, ending when the [[Dakwara]] killed [[Dajer]] and destroyed his ship.
 
-The crew spent six months of shore leave on [[First of the Sun]] after the discovery of [[Patji's Eye]]. When they left, Leonore and the other promised Starling that their next priority would be to restore her [[Dragon (cosmere)|draconic]] powers.{{book ref|iote|epilogue}}
+The crew spent six months of shore leave on [[First of the Sun]] after the discovery of [[Patji's Eye]]. When they left, Leonore and the other promised Starling that their next priority would be to restore her [[Dragon (cosmere)|draconic]] powers.
 
 ## Relationships 
 ### ZeetZi
-Leonore and [[ZeetZi]] are close friends, and may have dated at some point.{{book ref|iote|25}} The two rib at each other quite a lot, with Leonore mocking ZeetZi's grandiose vocabulary.{{book ref|iote|46}} She often shortens his name to 'Zee'. 
+Leonore and [[ZeetZi]] are close friends, and may have dated at some point. The two rib at each other quite a lot, with Leonore mocking ZeetZi's grandiose vocabulary. She often shortens his name to 'Zee'. 
 
 ### Starling
-Leonore finds it comforting to have Starling around.{{book ref|iote|25}} She puts great stock in Starling as a captain, but doesn't judge her when she's vulnerable.{{book ref|iote|51}} Starling believes Leonore is the best Malwish pilot there ever was, and works to cheer her up when she doubts herself.{{book ref|iote|25}}  
+Leonore finds it comforting to have Starling around. She puts great stock in Starling as a captain, but doesn't judge her when she's vulnerable. Starling believes Leonore is the best Malwish pilot there ever was, and works to cheer her up when she doubts herself.  
 
 ## Notes
 <references />
-{{complete}}
-{{Emberdark}}

@@ -1,0 +1,1 @@
+#REDIRECT [[Summary:Legion: Lies of the Beholder]]

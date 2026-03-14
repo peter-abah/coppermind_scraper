@@ -1,16 +1,14 @@
 ---
-occupation: "{{cat tag|scholars|Scholar"
+source_file: Hardren.txt
+entity_type: character
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
 ---
 
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 1]]
-}}
 **Hardren** is a scholar in the [[Final Empire]].
 
-During a conversation with [[Aradan Yomen]], [[Elend Venture]] says that Hardren has a better foundation in philosophy than [[Urdree]].{{book ref|mb3|32}}
+During a conversation with [[Aradan Yomen]], [[Elend Venture]] says that Hardren has a better foundation in philosophy than [[Urdree]].
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 06:58, 8 September 2017 (MST)}}
-{{Mistborn|Era 1}}

@@ -1,14 +1,14 @@
 ---
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 1"
+source_file: Staxles.txt
+entity_type: character
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
 ---
 
 **Staxles** is a member of staff at [[Keep Venture]].
 
-They transcribe a letter dictated by [[Straff Venture]], accepting invitation of [[Elend]] to a lunch with Lord [[Tegas]].{{book ref|mb1|28}}
+They transcribe a letter dictated by [[Straff Venture]], accepting invitation of [[Elend]] to a lunch with Lord [[Tegas]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 20:23, 10 November 2017 (MST)}}
-{{Mistborn|Era 1}}

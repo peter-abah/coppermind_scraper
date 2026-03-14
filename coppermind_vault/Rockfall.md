@@ -1,30 +1,30 @@
-{{architecture
-|usage=Mansion
-|city=Kholinar
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{quote
-| Sometime long ago, someone had mixed far too much wealth with far too much imagination.
-| [[Shallan|Veil]]'s impression of Rockfall{{book ref|sa3|72}}
-}}
-**Rockfall** is an ancient, lavish mansion in [[Kholinar]] on [[Roshar]].{{book ref|sa3|72}}
+---
+source_file: Rockfall.txt
+entity_type: architecture
+usage: Mansion
+city: Kholinar
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+> Sometime long ago, someone had mixed far too much wealth with far too much imagination.
+> — [[Shallan|Veil]]'s impression of Rockfall
+
+**Rockfall** is an ancient, lavish mansion in [[Kholinar]] on [[Roshar]].
 
 ## Layout
-Rockfall is a four-floors-tall structure made entirely out of stone. It's constructed around a square atrium with a skylight on top of it, with galleries running around it on every floor. The atrium is filled with manicured [[shalebark]] and [[rockbud]]s, with numerous [[lifespren]] flitting between them.{{book ref|sa3|72}}
+Rockfall is a four-floors-tall structure made entirely out of stone. It's constructed around a square atrium with a skylight on top of it, with galleries running around it on every floor. The atrium is filled with manicured [[shalebark]] and [[rockbud]]s, with numerous [[lifespren]] flitting between them.
 
-However, Rockfall's most famous feature are its waterfalls. Four large fountains pour down from the top floor onto the atrium ground; however, they carry no water. At some point in the past, they were [[Soulcasting|Soulcasted]] into different materials, including crystal, dark wood, and marble. They were transformed just as the water hit the ground, preserving their shape forever. It is from these waterfalls that the celebrated mansion's nickname is derived.{{book ref|sa3|72}}
+However, Rockfall's most famous feature are its waterfalls. Four large fountains pour down from the top floor onto the atrium ground; however, they carry no water. At some point in the past, they were [[Soulcasting|Soulcasted]] into different materials, including crystal, dark wood, and marble. They were transformed just as the water hit the ground, preserving their shape forever. It is from these waterfalls that the celebrated mansion's nickname is derived.
 
-Rockfall's library is located on the first floor near the atrium stairwell. Further down the same corridor lays the larder, protected by a door with a combination lock. Inside are two dumbwaiters leading to a loading bay on the ground floor. The bay is large enough for carriages to enter and exit, allowing for quick transport and unloading of various foods and spices supplied to the mansion. A gate stands between the mansion's courtyard and the city streets to protect Rockfall from thieves.{{book ref|sa3|72}}
+Rockfall's library is located on the first floor near the atrium stairwell. Further down the same corridor lays the larder, protected by a door with a combination lock. Inside are two dumbwaiters leading to a loading bay on the ground floor. The bay is large enough for carriages to enter and exit, allowing for quick transport and unloading of various foods and spices supplied to the mansion. A gate stands between the mansion's courtyard and the city streets to protect Rockfall from thieves.
 
 ## History
-The mansion is "ancient", and has changed hands over a dozen times in the past. At one point, there were real waterfalls there, although one of the owners paid a vast sum of money to [[Soulcasting|Soulcast]] them into various materials, and from then on, the place became known as Rockfall. The current owner&mdash;possibly a member of the nobility named Hadinal&mdash;purchased the mansion about a decade before the [[Siege of Kholinar]] and attemped to rename it as **Hadinal Keep**, although the name did not stick. Brightness [[Nananav]] is the mistress of the manor, and has direct control of its servants, guards, furnishings, and finances. It is not clear how long Nananav has been employed at Rockfall or if she is an owner of the property.{{book ref|sa3|72}}
+The mansion is "ancient", and has changed hands over a dozen times in the past. At one point, there were real waterfalls there, although one of the owners paid a vast sum of money to [[Soulcasting|Soulcast]] them into various materials, and from then on, the place became known as Rockfall. The current owner&mdash;possibly a member of the nobility named Hadinal&mdash;purchased the mansion about a decade before the [[Siege of Kholinar]] and attemped to rename it as **Hadinal Keep**, although the name did not stick. Brightness [[Nananav]] is the mistress of the manor, and has direct control of its servants, guards, furnishings, and finances. It is not clear how long Nananav has been employed at Rockfall or if she is an owner of the property.
 
-During one of its passes, the [[Everstorm]] struck the mansion with lightning, making a giant hole in one of the atrium-adjacent rooms and damaging an expensive [[Shin]]-made carpet. Nananav hired various people to fix things up, which [[Shallan]] and her crew (including [[Vathah]], [[Red (Roshar)|Red]], and [[Ishnah]]) used as a way to infiltrate the place with the intent of robbing its larder. The heist was successful, despite Shallan taking a crossbow bolt to the head at one point, and the food was distributed among the city's poor, with the intent of catching the attention of the [[Cult of Moments]].{{book ref|sa3|72}}
+During one of its passes, the [[Everstorm]] struck the mansion with lightning, making a giant hole in one of the atrium-adjacent rooms and damaging an expensive [[Shin]]-made carpet. Nananav hired various people to fix things up, which [[Shallan]] and her crew (including [[Vathah]], [[Red (Roshar)|Red]], and [[Ishnah]]) used as a way to infiltrate the place with the intent of robbing its larder. The heist was successful, despite Shallan taking a crossbow bolt to the head at one point, and the food was distributed among the city's poor, with the intent of catching the attention of the [[Cult of Moments]].
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:48, 25 August 2020 (UTC)}}
-{{Stormlight}}

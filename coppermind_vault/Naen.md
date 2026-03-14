@@ -1,17 +1,18 @@
-{{settlement
-|nation=Arelon
-|world=Sel
-|universe=[[Cosmere]]
-|books=[[Elantris (book)|Elantris]]
-}}
-**Naen** is a town in southern [[Arelon]] on [[Sel]].{{book ref|Elantris|3}}{{book ref|Elantris|24}}
+---
+source_file: Naen.txt
+entity_type: settlement
+nation: Arelon
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
+---
 
-[[Dilaf]] claims that he taught in Naen for seven years before coming to [[Kae]].{{book ref|Elantris|3}} Half of the original Derethi converts in Kae come with Dilaf from Naen.
+**Naen** is a town in southern [[Arelon]] on [[Sel]].
+
+[[Dilaf]] claims that he taught in Naen for seven years before coming to [[Kae]]. Half of the original Derethi converts in Kae come with Dilaf from Naen.
 
 ==Trivia==
 In earlier editions of *[[Elantris (book)|Elantris]]*, the town was named **Rain**.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 01:44, 9 March 2019 (MST)}}
-{{Elantris}}

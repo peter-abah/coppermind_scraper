@@ -1,3 +1,8 @@
+---
+source_file: YumiGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=200px name="Official Artwork">
 Yumi US Cover.jpg | <center><small>by {{a|Aliya Chen}}</small></center> US Cover Art (Dragonsteel)

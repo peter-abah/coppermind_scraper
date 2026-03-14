@@ -1,18 +1,18 @@
 ---
-merge-family: "y"
-spouse: "Roial"
-died: "c. 10 years prior to the Reod"
-nation: "Arelon"
-world: "Sel"
-universe: "Cosmere"
-books: "Elantris (book)|Elantris"
+source_file: Eoldess.txt
+entity_type: character
+merge-family: y
+spouse: '[[Roial]]'
+died: c. 10 years prior to the [[Reod]]
+nation: Arelon
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
 ---
 
 **Eoldess** is the late wife of Duke [[Roial]] of [[Arelon]] on [[Sel]].
 
-She died ten years before the [[Reod]].{{book ref|Elantris|14}}
+She died ten years before the [[Reod]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 16:52, 5 June 2017 (MST)}}
-{{Elantris}}

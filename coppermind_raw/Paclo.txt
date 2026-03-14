@@ -1,0 +1,19 @@
+{{character
+|residence=Weathering
+|profession=Lawman
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Alloy of Law]]
+}}
+{{quote
+|I once saw him stare down six men with guns trained on him, and he didn't break a sweat.
+|Wax on Paclo's bravery{{book ref|aol|15}}
+}}
+'''Paclo''', sometimes referred to as '''Paclo the Dusty''', was a deputy lawman under [[Waxillium Ladrian]] in the town of [[Weathering]] on [[Scadrial]].{{book ref|aol|15}} 
+
+Paclo was Wax's deputy before Wax met [[Wayne]].{{book ref|aol|15}} He was a very jumpy man, easily startled into shouting by something as quiet as a softly closed door. However, he was a very brave man, who did not hesitate to run into danger. Wax spoke of Paclo in a past tense, implying that Paclo was dead.
+
+== Notes ==
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 11:21, 29 May 2016 (MST)}}
+{{Mistborn|Era 2}}

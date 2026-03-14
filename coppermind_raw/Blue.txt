@@ -1,0 +1,19 @@
+{{character
+|profession=Guard
+|residence=Elendel
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[Shadows of Self]]
+}}
+{{quote
+|Hello, Blue. How watery's the beer today?
+|[[Wayne]]{{book ref|mb5|13}}
+}}
+'''Blue''' is a guard at a pub in [[Elendel]] on [[Scadrial]]. It is unclear whether Blue is his actual name or a nickname that [[Wayne]] uses for him.{{book ref|mb5|13}}
+
+He wears a cap and overalls as his guard uniform and carries a stick for clubbing rowdy customers. While on duty, Blue is a straightforward man; he has had previous experiences with Wayne, and seems to be at least somewhat willing to tolerate his antics.{{book ref|mb5|13}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:39, 16 August 2021 (UTC)}}
+{{Mistborn|Era 2}}

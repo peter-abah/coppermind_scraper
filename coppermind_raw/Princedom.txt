@@ -1,0 +1,2 @@
+#redirect[[Highprince]]
+[[category: locations]]

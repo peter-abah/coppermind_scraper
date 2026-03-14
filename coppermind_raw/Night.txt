@@ -1,0 +1,30 @@
+{{character
+|abilities=[[Nahel bond]], [[Bondsmith]] magic
+|species=Spren
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Wind and Truth]]
+}}
+{{update|sa5}}
+{{quote
+|1={{small caps|There were echoes, of my predecessor. Little bits of him left behind. Three powerful incarnations who had his voice, and many smaller ones representing aspects of nature and personality....Shadows of divinity with instructions to protect, to shroud, to nurture}}
+|2=[[Honor]]'s Memories{{book ref|sa5|100}}
+}}
+The '''Night''' is an ancient [[spren]] on [[Roshar]] who was created by [[Adonalsium]] alongside the planet, the [[Wind]], and the [[Stone]].{{book ref|sa5|4}}{{book ref|sa5|52}} Her role was to shroud or possibly to nurture the singers.{{book ref|sa5|100}}
+
+== Attributes and Abilities ==
+=== Nahel Bond (Historical) ===
+{{for|Order of Bondsmiths}}
+Prior to the creation of the [[Nightwatcher]] from the Night, she was one of three Bondsmith spren.{{book ref|sa5|21}} As such, it would follow that forming a Nahel bond with her may have granted a Bondsmith power over [[Connection]] and other Spiritual attributes, but the full scope of its effects are unknown.
+
+== History ==
+When [[Cultivation]] arrived on Roshar, she found the Night's song to be particularly beautiful, which helped convince her to stay on Roshar despite the fact that she and [[Honor]] had originally planned to find an uninhabited planet to settle on.{{book ref|sa5|100}}
+
+Even in the earliest days of Roshar, few people loved or even spoke of the Night.{{book ref|sa5|21}} Instead, the [[singer]]s claimed her siblings Wind and Stone, as well as the spren, as their gods.{{book ref|sa5|43}}{{epigraph ref|sa3|116}} As a result, the Night eventually left Roshar, though how this affected the planet or where she went are unclear. As a replacement, Cultivation created the [[Nightwatcher]] from some of the same essence.{{book ref|sa5|21}}
+
+When in a vision of the [[Recreance]], [[Dalinar Kholin]] seemed to feel the presence of the Night,{{book ref|sa5|85}} though she would have already left Roshar by that time.{{book ref|sa5|21}}
+
+== Notes ==
+<references />
+{{partial}}
+{{stormlight}}

@@ -1,14 +1,15 @@
-{{lifeform
-|Type=Vegetable
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[The Final Empire]]
-}}
-**Farlet** is a vegetable grown and eaten during the [[Final Empire]].{{book ref|mb1|prologue}}
+---
+source_file: Farlet.txt
+entity_type: lifeform
+type: Vegetable
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[The Final Empire]]'
+---
+
+**Farlet** is a vegetable grown and eaten during the [[Final Empire]].
 
 The skaa who [[Kelsier]] visits at the [[Tresting plantation]], [[Tepper]], is eating farlet soup.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:09, 11 September 2018 (MST)}}
-{{Mistborn|Era 1}}

@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Defiant.txt
+entity_type: disambig
+---
 
 **Defiant** refers to several different things related to the [[Cytoverse]]:
 * [[Defiant (book)|*Defiant* (book)]], the fourth book in the [[Skyward (series)|*Skyward* series]]

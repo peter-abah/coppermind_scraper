@@ -1,3 +1,8 @@
+---
+source_file: Crowdfunding Campaigns.txt
+entity_type: real world
+---
+
 This page lists each of the [[Wikipedia:Crowdfunding|crowdfunding]] campaigns created by [[Dragonsteel Entertainment]] or their [[:Category: Licensed Companies| licensed partners]].
 Campaigns hosted on Kickstarter are highlighted in green, campaigns hosted on BackerKit are highlighted in blue, and campaigns hosted on Indiegogo are highlighted in tan.
 
@@ -166,4 +171,3 @@ Campaigns hosted on Kickstarter are highlighted in green, campaigns hosted on Ba
 
 ==Notes==
 <references />
-{{real world}}

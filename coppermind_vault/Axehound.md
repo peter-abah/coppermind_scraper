@@ -1,112 +1,97 @@
-{{lifeform
-|type=Animal
-|image=Axehound by Shallan.jpg
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{update|sa4|sa5}}
-**Axehounds** are domesticated descendants of a [[Roshar]]an animal of the same name, that fill a similar niche as dogs did on [[Ashyn]]. Axehounds were selectively bred by humans following the extinction of dogs, for behavioral traits more similar to canines.{{book ref|sa5|49}} Undomesticated descendants of their wild ancestors still exist in the wild as of the start of the [[Night of Sorrows]].{{cite}}
+---
+source_file: Axehound.txt
+entity_type: lifeform
+type: Animal
+image: Axehound by Shallan.jpg
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-Domesticated axehounds perform many roles for humans, including companionship, entertainment (such as in blood sport),{{book ref|sa2|45}} and hunting.{{book ref|sa2|45}}{{book ref|sa3|10}}
+**Axehounds** are domesticated descendants of a [[Roshar]]an animal of the same name, that fill a similar niche as dogs did on [[Ashyn]]. Axehounds were selectively bred by humans following the extinction of dogs, for behavioral traits more similar to canines. Undomesticated descendants of their wild ancestors still exist in the wild as of the start of the [[Night of Sorrows]].
+
+Domesticated axehounds perform many roles for humans, including companionship, entertainment (such as in blood sport), and hunting.
 
 ## Appearance and Anatomy
-{{image|Axehounds by Abigail Barker.jpg|side=left|width=250px}}
-{{for|/Gallery|more images}}
-Axehounds are hexapedal creatures with a smooth hide that is a cross between skin and carapace. It is more flexible than true carapace, but, like carapace, is formed of interlocking sections. They have a fluting fish-like tail. Axehounds have a pair of feather-like antennae positioned on the top of their heads which they can move as a form of communication. The antennae are implied to be sensitive, with axehounds often bellowing when they get their antenna twisted.{{book ref|sa1|69}} They have ear holes slightly further back on the sides of their heads. Axehounds have a main jaw as well as a pair of outer mandibles that they use to break into the shells of their prey. 
 
-Their eyes, of which they possess two, are situated on opposite sides of their head.{{file ref|Axehound by Shallan.jpg|An Axehound|post=&nbsp;from [[Shallan's sketchbook]]}} Their feet are three clawed, with the two rear claws seemingly being capable of conscious manipulation by the axehound.{{file ref|Axehound by Shallan.jpg|An Axehound|post=&nbsp;from [[Shallan's sketchbook]]}}  
+Axehounds are hexapedal creatures with a smooth hide that is a cross between skin and carapace. It is more flexible than true carapace, but, like carapace, is formed of interlocking sections. They have a fluting fish-like tail. Axehounds have a pair of feather-like antennae positioned on the top of their heads which they can move as a form of communication. The antennae are implied to be sensitive, with axehounds often bellowing when they get their antenna twisted. They have ear holes slightly further back on the sides of their heads. Axehounds have a main jaw as well as a pair of outer mandibles that they use to break into the shells of their prey. 
 
-Much like other species on Roshar, such as [[chasmfiend]]s, their blood is violet.{{file ref|Axehound by Shallan.jpg|An Axehound|post=&nbsp;from [[Shallan's sketchbook]]}}{{book ref|sa1|i|2}}{{book ref|sa2|45}}
+Their eyes, of which they possess two, are situated on opposite sides of their head. Their feet are three clawed, with the two rear claws seemingly being capable of conscious manipulation by the axehound.  
 
-There are a wide variety of breeds of axehounds. The largest come up to a man's waist while the smallest can easily hide in the underbrush of a lait. Smaller breeds of axehounds tend to be very fast.{{book ref|sa1|i|2}}{{book ref|sa1|45}}{{book ref|sa2|30}}
+Much like other species on Roshar, such as [[chasmfiend]]s, their blood is violet.
 
-Axehounds around the Purelake are very different from Alethi axehounds, to the extent of being considered a different species. The exact differences are unknown, but significant.{{book ref|sa1|45}}
+There are a wide variety of breeds of axehounds. The largest come up to a man's waist while the smallest can easily hide in the underbrush of a lait. Smaller breeds of axehounds tend to be very fast.
 
-Axehounds have very small [[gemheart]]s.{{wob ref|13039}}
+Axehounds around the Purelake are very different from Alethi axehounds, to the extent of being considered a different species. The exact differences are unknown, but significant.
 
-Axehounds give birth to multiple young in litters.{{book ref|sa2|65}}
+Axehounds have very small [[gemheart]]s.
 
-They are related to [[whitespine]]s, but have followed a different evolutionary path.{{url ref|name=WhitespineArtProcess|url=https://web.archive.org/web/20141025204326/http://brandonsanderson.com/shardhunt-wor/whitespine-process/|text=Whitespine Process from *Words of Radiance* Shardhunt|site=[[Brandon]]'s website (via Wayback Machine)|date=2014-03}}
+Axehounds give birth to multiple young in litters.
+
+They are related to [[whitespine]]s, but have followed a different evolutionary path.
 
 ## Behavior
-{{image|Axehounds by Eccos.jpg|side=right|width=250px}}
 
-Axehound behavior is heavily shaped by millennia of selective breeding and domestication by humans. However, various aspects of canid-like mannerisms were present prior to domestication, and were what encouraged humanity to begin the domestication process.{{book ref|sa5|49}} 
+Axehound behavior is heavily shaped by millennia of selective breeding and domestication by humans. However, various aspects of canid-like mannerisms were present prior to domestication, and were what encouraged humanity to begin the domestication process. 
 
-Wild axehounds are social creatures who live and hunt in groups.{{book ref|sa1|1}}{{book ref|sa3|120}} Female axehounds are attentive mothers who actively protect their pups.{{book ref|sa2|75}} They display various similar mannerisms to domestic dogs. These mannerisms were reinforced and strengthened through a system of breeding and domestication.{{book ref|sa5|49}} These behaviors are further reinforced through training.{{book ref|sa4|30}}{{wob ref|761}}
+Wild axehounds are social creatures who live and hunt in groups. Female axehounds are attentive mothers who actively protect their pups. They display various similar mannerisms to domestic dogs. These mannerisms were reinforced and strengthened through a system of breeding and domestication. These behaviors are further reinforced through training.
 
-Due to their trainability and typically friendly demeanor they would be able to effectively perform as service animals.{{wob ref|761}}
+Due to their trainability and typically friendly demeanor they would be able to effectively perform as service animals.
 
-They can become closely attached to their owners.{{book ref|sa3|100}} They are also capable of memorizing and recognizing the voices of familiar people.{{book ref|sa3|100}}
+They can become closely attached to their owners. They are also capable of memorizing and recognizing the voices of familiar people.
 
-Axehounds, especially young ones, often display a high level of energy and enjoy play.{{book ref|sa1|i|2}}{{book ref|sa2.5|20}}{{book ref|sa2|48}} One method of play that axehounds have been observed to enjoy is catching thrown balls.{{book ref|sa2|48}} They appear to nip at humans, either as a display of affection or another form of play.{{book ref|sa1|12}} They are also known to lick people as a display of affection.{{book ref|sa4|104}}
+Axehounds, especially young ones, often display a high level of energy and enjoy play. One method of play that axehounds have been observed to enjoy is catching thrown balls. They appear to nip at humans, either as a display of affection or another form of play. They are also known to lick people as a display of affection.
 
-Axehounds are a predatory species willing to prey on everything from [[songling]]s to hogs.{{book ref|sa1|i|2}}{{book ref|sa5|28}}{{book ref|sa5|59}} 
+Axehounds are a predatory species willing to prey on everything from [[songling]]s to hogs. 
 
-The axehound vocalization consists of two voices that overlap and echo with one another and is referred to as "trumping".{{book ref|wok|i|2}}  When an axehound is content, their trumping can sound like a hum,{{book ref|sa2|36}}{{book ref|sa2|60}} but when angered or in pain, it is more of a bellow.{{book ref|sa1|69}} Furthermore, they communicate through their antenna, cocking them upward,{{book ref|sa1|i|2}} rising inquisitively,{{book ref|sa1|i|2}} or holding them flat against their skull.{{book ref|sa1|i|2}}
+The axehound vocalization consists of two voices that overlap and echo with one another and is referred to as "trumping".  When an axehound is content, their trumping can sound like a hum, but when angered or in pain, it is more of a bellow. Furthermore, they communicate through their antenna, cocking them upward, rising inquisitively, or holding them flat against their skull.
 
-Young axehounds appear to feed from their mother, as they are explained as experiencing a processing of weaning.{{book ref|sa4|93}}
+Young axehounds appear to feed from their mother, as they are explained as experiencing a processing of weaning.
 
-Some axehounds enjoy being scratched behind the earhole and elsewhere.{{book ref|sa1|i|2}}{{book ref|sa5|55}} They furthermore enjoy being brushed.{{book ref|sa5|55}}
+Some axehounds enjoy being scratched behind the earhole and elsewhere. They furthermore enjoy being brushed.
 
 ### Diet
-Axehounds are known to consume meat.{{book ref|sa4|50}} They are also known to consume scrolls, but this is presumably not a part of their normal diet.{{file ref|Scroll of Stances.jpeg|text=Scroll of Stances}}
+Axehounds are known to consume meat. They are also known to consume scrolls, but this is presumably not a part of their normal diet.
 
 ## History
-{{image|Axehounds by Jennifer Mellen.jpg|side=left|width=250px|A pair of axehounds playing together}}
-Prior to their evolution into modern Axehounds, they existed as a species of unknown name which later evolved into Axehounds and Whitespines.{{ref|name=WhitespineArtProcess}} Their ancestors were likely created by [[Adonalsium]].{{epigraph ref|sa2|66}}{{book ref|sa5|100}}
 
-When humanity arrived from [[Ashyn]], they brought with them a group of domestic dogs that were kept as pets on the scourged planet. However, the breeding population that was brought over was too small to sustain the population, and thus dogs would go extinct on Roshar within three hundred years. Humanity bred axehounds as a replacement, as they fit the same ecological niche and had some similar mannerisms. Through this system of selective breeding, they domesticated axehounds and reinforced canid mannerisms, which were deemed desirable behavioral traits.{{book ref|sa5|49}}
+Prior to their evolution into modern Axehounds, they existed as a species of unknown name which later evolved into Axehounds and Whitespines. Their ancestors were likely created by [[Adonalsium]].
 
-They were domesticated and well-known by the thirty-first year of the Sixth Epoch, though they were likely domesticated many years prior.{{wob ref|16457}} It is possible they were domesticated, or in the process thereof, by the time of the [[Sibling]]'s construction six thousand years before the Night of Sorrows.{{book ref|sa5|23}}
+When humanity arrived from [[Ashyn]], they brought with them a group of domestic dogs that were kept as pets on the scourged planet. However, the breeding population that was brought over was too small to sustain the population, and thus dogs would go extinct on Roshar within three hundred years. Humanity bred axehounds as a replacement, as they fit the same ecological niche and had some similar mannerisms. Through this system of selective breeding, they domesticated axehounds and reinforced canid mannerisms, which were deemed desirable behavioral traits.
 
-As of the Era of Solitude, Axehounds are widely kept and bred as pets across Roshar, though different breeds are popular in different regions.{{book ref|sa1|45}} Even within the same region there is a variety or breeds with varying physical characteristics, such as in size.{{book ref|sa1|i|2}}
+They were domesticated and well-known by the thirty-first year of the Sixth Epoch, though they were likely domesticated many years prior. It is possible they were domesticated, or in the process thereof, by the time of the [[Sibling]]'s construction six thousand years before the Night of Sorrows.
 
-Axehound fighting and the accompanying betting culture is popular in some areas. There are axehound fights at the [[Middlefest Fair]] that the [[House Davar|Davar family]] attends in [[Jah Keved]]. Axehounds are also involved in organized hunts.{{book ref|sa2|45}}
+As of the Era of Solitude, Axehounds are widely kept and bred as pets across Roshar, though different breeds are popular in different regions. Even within the same region there is a variety or breeds with varying physical characteristics, such as in size.
+
+Axehound fighting and the accompanying betting culture is popular in some areas. There are axehound fights at the [[Middlefest Fair]] that the [[House Davar|Davar family]] attends in [[Jah Keved]]. Axehounds are also involved in organized hunts.
 
 ## Cultural References
-{{image|Axehound by Marianne Eie.jpg|side=right|height=250px}}
+
 ### Idioms
-{{quote
-|...bellowing like an axehound whose antenna had been twisted.
-|{{book ref|wok|69}}
-}}
 
-{{quote
-|...You'd have me slink home like a scolded axehound?
-|{{book ref|WoK|18}}
-}}
+> ...bellowing like an axehound whose antenna had been twisted.
+> — 
 
-{{quote
-|...like pet axehounds nipping at their master's heels.
-|{{book ref|WoK|12}}
-}}
+> ...You'd have me slink home like a scolded axehound?
+> — 
 
-{{quote
-|...He settled down like a trumping axehound, perfectly content.
-|{{book ref|WoR|60}}
-}}
+> ...like pet axehounds nipping at their master's heels.
+> — 
 
-{{quote
-|Then he zipped up to join her, eager as an axehound puppy.
-|{{book ref|Edgedancer|20}}
-}}
+> ...He settled down like a trumping axehound, perfectly content.
+> — 
 
-{{quote
-|The Kholin boys are chained axehounds, and we smell blood.
-|{{book ref|sa3|11}}
-}}
+> Then he zipped up to join her, eager as an axehound puppy.
+> — 
 
-{{quote
-|...looking down longingly, like axehounds contemplating the food on the master’s table.
-|{{book ref|sa3|38}}
-}}
+> The Kholin boys are chained axehounds, and we smell blood.
+> — 
 
-{{quote
-|They didn’t hold ground well; they had broken into roving bands, like axehound packs, loping through the city and looking for contests.
-|{{book ref|sa3|120}}
-}}
+> ...looking down longingly, like axehounds contemplating the food on the master’s table.
+> — 
+
+> They didn’t hold ground well; they had broken into roving bands, like axehound packs, loping through the city and looking for contests.
+> — 
 
 ## Notable Axehounds
 *[[Scrak]]
@@ -122,5 +107,3 @@ sa3: 2, 10, 11, 12, 30, 34, 38, 60, 91, 100, 107, 117, 120, 121, I-4, I-13
 -->
 
 </references>
-{{partial}}
-{{Stormlight}}

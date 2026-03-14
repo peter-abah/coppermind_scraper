@@ -1,13 +1,13 @@
 ---
-died: "Unknown date"
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 2"
+source_file: Mikaff.txt
+entity_type: character
+died: Unknown date
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-**Mikaff** is a deceased friend of [[Jak]] that had a dying wish to recover the [[Survivor's Treasure]] within the [[Pits of Eltania]].{{book ref|eltania}}
+**Mikaff** is a deceased friend of [[Jak]] that had a dying wish to recover the [[Survivor's Treasure]] within the [[Pits of Eltania]].
 
 ## Notes
 <references/>
-{{complete|[[User:Jofwu|Jofwu]] ([[User talk:Jofwu|talk]]) 21:07, 24 January 2022 (UTC)}}
-{{Mistborn|Era 2}}

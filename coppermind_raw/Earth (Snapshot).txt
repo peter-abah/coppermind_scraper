@@ -1,0 +1,11 @@
+{{location
+|books=[[Snapshot]]
+}}
+
+The setting of the novella [[Snapshot]] is an alternate Earth in 2018.{{book ref|Snapshot|1}}  The story focuses on a single day spent inside a [[Snapshot (event)|Snapshot]], a perfect recreation of another, earlier day, where [[Anthony Davis]] and [[Chaz]] attempt to track a serial killer.{{book ref|Snapshot|4}} Besides having the snapshot device, the Earth in Snapshot differs from the real Earth in a few ways. Self-driving cars appear to be popular; about half of all cars in [[New Clipperton]] are self-driving and some places, including Mexico City, have already outlawed manually-driven cars.{{book ref|Snapshot|7}}{{book ref|Snapshot|2}} New Clipperton and Mexico City are both Independent City-States. The Restored American Union is the original builder of the Snapshot program but decided to leave it when they pulled out of New Clipperton.{{book ref|Snapshot|1}}  Otherwise, it appears to resemble real-world Earth in 2018. 
+
+== Notes ==
+<references />
+{{partial}}
+{{Snapshot}}
+[[Category: Earth (Snapshot)]]

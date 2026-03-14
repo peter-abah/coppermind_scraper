@@ -1,5 +1,7 @@
-{{disambig}}
-
+---
+source_file: Harms.txt
+entity_type: disambig
+---
 
 ** Harms** might refer to:
 * [[House Harms]] - Wealthy noble house in [[Elendel]].

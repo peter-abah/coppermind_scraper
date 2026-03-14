@@ -1,4 +1,7 @@
-{{CoverToC|alcatraz}}
+---
+source_file: Bastille Versus the Evil LibrariansCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[Bastille Versus the Evil Librarians]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

@@ -1,3 +1,8 @@
+---
+source_file: DreamerCovers.txt
+entity_type: article
+---
+
 This is the gallery of covers for *[[Dreamer]]* and anthologies featuring the story. For more information about each cover, see the individual file page.
 
 <gallery widths=3000px heights=400px mode="packed">

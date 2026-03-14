@@ -1,4 +1,7 @@
-{{InteriorArtToC|alcatraz}}
+---
+source_file: The Knights of CrystalliaInterior art.txt
+entity_type: interiorarttoc
+---
 
 This is a gallery of interior art for *[[The Knights of Crystallia]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 

@@ -1,3 +1,8 @@
+---
+source_file: Transportation.txt
+entity_type: article
+---
+
 #REDIRECT [[Surgebinding#Transportation]]
 [[category: Subsection redirects]]
 [[Category: Stormlight Archive]]

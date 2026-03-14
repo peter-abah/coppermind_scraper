@@ -1,18 +1,16 @@
 ---
-profession: "{{cat tag|soldiers|Soldier"
+source_file: Taka.txt
+entity_type: character
+groups: army, King's Guard <small>(formerly)</small>
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Words of Radiance]]'
 ---
 
-|groups={{tag+|army|Kholin}}, {{tag|King's Guard}} <small>(formerly)</small>
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Words of Radiance]]
-}}
-**Taka** is a former member of the [[King's Guard]] of [[Alethkar]] on [[Roshar]].{{book ref|sa2|80}}
+**Taka** is a former member of the [[King's Guard]] of [[Alethkar]] on [[Roshar]].
 
-Although [[Kaladin]] and [[Bridge Four]] took over the duty of guarding King [[Elhokar]], many members of the King's Guard (including Taka) remained under Kaladin's command.{{book ref|sa2|46}} Taka was on duty with [[Moash]] one night when Elhokar visited [[Kaladin]]'s barracks at the [[Shattered Plains]]. He stood close to the king while Moash guarded the door, and then left with Moash when Elhokar asked to talk to Kaladin in private.{{book ref|sa2|80}}
+Although [[Kaladin]] and [[Bridge Four]] took over the duty of guarding King [[Elhokar]], many members of the King's Guard (including Taka) remained under Kaladin's command. Taka was on duty with [[Moash]] one night when Elhokar visited [[Kaladin]]'s barracks at the [[Shattered Plains]]. He stood close to the king while Moash guarded the door, and then left with Moash when Elhokar asked to talk to Kaladin in private.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 13:32, 12 June 2018 (MST)}}
-{{Stormlight}}

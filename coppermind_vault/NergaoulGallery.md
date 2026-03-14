@@ -1,3 +1,8 @@
+---
+source_file: NergaoulGallery.txt
+entity_type: article
+---
+
 ## Gallery
 <gallery mode="packed" heights=250px caption="Gallery">
 Dalinar and the Thrill.jpg| <small><center>by {{a|Petar Penev}}</center></small>[[Dalinar Kholin]] facing the Thrill at the [[Battle of Thaylen Field]].

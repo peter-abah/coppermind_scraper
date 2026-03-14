@@ -1,17 +1,16 @@
 ---
-image: "Getruda by Matthew Johnson.png"
-died: "Killed by Waxillium Ladrian in {{date|348|FA"
+source_file: Getruda.txt
+entity_type: character
+image: Getruda by Matthew Johnson.png
+died: Killed by [[Waxillium Ladrian]] in 348
+abilities: Hemalurgist
+groups: Set
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Lost Metal]]'
 ---
 
-{{book ref|mb7|65}}
-|abilities={{tag+|Hemalurgist}}
-|groups={{tag|Set}}
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[The Lost Metal]]
-}}
-{{update|mb7}}
-**Getruda** is a member of the [[Set]] on [[Scadrial]] and the partner of [[Dumad]].{{book ref|mb7|24}} She is a [[Bloodmaker]] and [[Slider]] with a notable obsession with [[Wayne]].{{book ref|mb7|24}}
+**Getruda** is a member of the [[Set]] on [[Scadrial]] and the partner of [[Dumad]]. She is a [[Bloodmaker]] and [[Slider]] with a notable obsession with [[Wayne]].
 
 ## Appearance and Personality
 Getruda is a short woman who often wears a bowler hat. She has a remarkable obsession with Wayne and attempts to imitate him, although according to Wayne her accent is all over the place. While she claims to have understood him, it is just a superficial thing; for example, she believes him to enjoy feeling pain, and she tries to brute-force liking it as well mid-fight. When asked about this obsession by Wax, she said that for certain people the chance to become someone else is appealing.
@@ -26,6 +25,5 @@ Throughout The Lost Metal she antagonizes and annoys Wayne, trying to mimic not 
 
 ## Notes
 <references />
-{{partial}}
-{{Mistborn|Era 2}}
+
 [[es:Getruda]]

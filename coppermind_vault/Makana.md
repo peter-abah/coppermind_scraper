@@ -1,17 +1,15 @@
 ---
-profession: "Scribe"
-groups: "{{tag+|army|Kholin"
+source_file: Makana.txt
+entity_type: character
+profession: Scribe
+groups: army
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-**Makana** is an [[Alethi]] scribe on [[Roshar]].{{book ref|sa5|50}}
+**Makana** is an [[Alethi]] scribe on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{stormlight}}

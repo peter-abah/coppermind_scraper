@@ -1,3 +1,8 @@
+---
+source_file: The RithmatistStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[The Rithmatist]]***.
 
 ### Chapter by Chapter Breakdown
@@ -199,7 +204,5 @@ This page contains a statistical analysis of ***[[The Rithmatist]]***.
 | align="right" | 0.58%
 |}
 
-{{meta/done}}
-{{Rithmatist}}
 [[Category: The Rithmatist|*1x]]
 [[category: statistics]]

@@ -1,11 +1,14 @@
-{{media
-|image=Mistborn Adventure Game.jpg
-|released=August 1, 2012
-|ended=January 1, 2025
-|setting=[[Cosmere]], [[Scadrial]]
-|publisher=Crafty Games
-}}
-**The Mistborn Adventure Game** is a pen-and-paper RPG set on [[Scadrial]].{{bws ref|brandon-sanderson-newsletter-for-november-2011|Brandon's newsletter - November 2011|date=2011-11}} It was created by [[Crafty Games]]. They have also released a number of supplementary rule books. The PDFs, supplements, and TTRPG support for the game ended in 2025 to put focus on the upcoming Cosmere RPG, making it no longer possible to get new physical copies.
+---
+source_file: Mistborn Adventure Game.txt
+entity_type: media
+image: Mistborn Adventure Game.jpg
+released: August 1, 2012
+ended: January 1, 2025
+setting: '[[Cosmere]], [[Scadrial]]'
+publisher: Crafty Games
+---
+
+**The Mistborn Adventure Game** is a pen-and-paper RPG set on [[Scadrial]]. It was created by [[Crafty Games]]. They have also released a number of supplementary rule books. The PDFs, supplements, and TTRPG support for the game ended in 2025 to put focus on the upcoming Cosmere RPG, making it no longer possible to get new physical copies.
 
 While Brandon was directly involved in the creation of the core rulebook, he and his team had minimal involvement during the writing of its follow-on supplements. (See [[Help:Canonicity#Mistborn_Adventure_Game|Canonicity:Mistborn Adventure Game]] )
 
@@ -20,11 +23,11 @@ As would be expected, all flavors of Scadrian play prominent roles in character 
 ; [[Alloy of Law (rule book)|Alloy of Law]]: A supplement that updates the world and rules to the era depicted in [[Mistborn Era 2]].  Introduces the first rules for Twinborn and Compounding. Includes the short story *[[Allomancer Jak and the Pits of Eltania]]*.
 ;[[Skaa: Tin & Ash]]: A supplement about the [[skaa]] during the Final Empire. Introduces skaa-unique Traits and adds several new Networks. Also includes the campaign "Beasts of Burden".
 ;[[Alloy of Law: Masks of the Past]]: A supplement to address additions to the world in *[[Shadows of Self]]* and *[[The Bands of Mourning]]*.
-;[[Noble: The Golden Mandate]]: A supplement about the [[Noble]]s during the Final Empire. Includes rules for Noble characters and additional information about Major and Minor houses.{{ref|name=rpgnet}}{{ref|name=rwog}} Includes the campaign adventure Thieves in the Ninth House.
+;[[Noble: The Golden Mandate]]: A supplement about the [[Noble]]s during the Final Empire. Includes rules for Noble characters and additional information about Major and Minor houses. Includes the campaign adventure Thieves in the Ninth House.
 
 ### Unreleased Material 
-;unnamed kandra supplement: A potential supplement about the [[kandra]].{{ref|name=rpgnet}}
-;unnamed Era 2 campaign book: A campaign adventure set during Era 2 dealing with the negative ecological effects of industrialization as a "big bad".{{ref|name=rpgnet}}
+;unnamed kandra supplement: A potential supplement about the [[kandra]].
+;unnamed Era 2 campaign book: A campaign adventure set during Era 2 dealing with the negative ecological effects of industrialization as a "big bad".
 
 ## Supplementary Fiction
 ; *[[The Eleventh Metal]]*: A short story about [[Kelsier]]'s training with [[Gemmel]]
@@ -34,23 +37,7 @@ As would be expected, all flavors of Scadrian play prominent roles in character 
 ## Notes
 <references>
 
-{{url ref
-|name=rpgnet
-|url=https://gmshoe.wordpress.com/2014/10/30/qa-alex-flagg-mistborn/|text= #RPGNet Interview with Alex Flagg of Crafty Games
-|site=GMShoe's blog
-|date=2014-10-30
-}}
-
-{{url ref
-|name=rwog
-|url=https://realwomenofgaming.com/2018/02/06/crafty-games/|text= Interview with Patrick Kapera of Crafty Games
-|site=RealWomenofGaming blog
-|date=2018-02-06
-}}
-
 </references>
-{{meta/partial}}
-{{Mistborn|rpg}}
-{{Books}}
+
 [[Category: Mistborn|#mag]]
 [[category: meta]]

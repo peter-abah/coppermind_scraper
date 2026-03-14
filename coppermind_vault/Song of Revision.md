@@ -1,23 +1,21 @@
-{{Copyright}}
-{{culture
-|related=[[Listener]]
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-The **Song of Revision** is one of the songs detailing the oral history of the [[listener]]s. It discusses [[Singer#Artform|artform]] and mentions a desire to attract [[Spren#Creationspren|creationspren]].{{epigraph ref|sa2|29}} It is at least 279 stanzas long.{{epigraph ref|sa2|29}}
+---
+source_file: Song of Revision.txt
+entity_type: copyright
+---
+
+The **Song of Revision** is one of the songs detailing the oral history of the [[listener]]s. It discusses [[Singer#Artform|artform]] and mentions a desire to attract [[Spren#Creationspren|creationspren]]. It is at least 279 stanzas long.
 
 ## Excerpts
-{{quote|Artform for colors beyond our ken;<br><!--
+
+> Artform for colors beyond our ken;<br><!--
 -->For its grand songs we yearn.<br><!--
 -->We must attract creationspren;<br><!--
 -->These songs suffice 'til we learn.
-|279th stanza{{epigraph ref|sa2|29}}}}
+> — 279th stanza
 
 ## Notes
 <references/>
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 18:47, 18 December 2019 (UTC)}}
-{{Stormlight}}
+
 [[Category: list articles]]
 [[Category: Listener songs]]
 [[es:Canción de revisión]]

@@ -1,0 +1,17 @@
+{{lifeform
+|native=[[Patji (island)|Patji]]
+|world=First of the Sun
+|universe=[[Cosmere]]
+}}
+{{spoilers|IotE}}
+'''Bloodscratches''' are creatures found on the island of [[Patji (island)|Patji]], located in the [[Pantheon]] on the planet [[First of the Sun]].{{book ref|iote|8}}
+
+Bloodscratches are small enough to fit inside a cup or bowl.{{book ref|iote|8}} It is unknown if they are common only on Patji or if they are also present on the other islands of the Pantheon.
+
+Like most native lifeforms on Patji, bloodscratches are dangerous to humans. Every time [[Sixth of the Dusk]] returns to one of his safecamps, he checks blankets and dishware in the room for bloodscratches and other small and deadly creatures.{{book ref|iote|8}}
+
+== Notes ==
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 15:24, 14 February 2016 (MST)}}
+{{Sixth of the Dusk}}
+[[es:Rascasangres]]

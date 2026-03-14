@@ -1,3 +1,8 @@
+---
+source_file: TindwylGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Tindwyl-TWoC.png | <small><center>by {{a|Ben McSweeney}}</center></small> Tindwyl as depicted in *[[Terris: Wrought of Copper]]*

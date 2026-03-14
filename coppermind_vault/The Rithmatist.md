@@ -1,14 +1,17 @@
-{{book
-|cover=Rithmatist US Tor cover.jpg
-|setting= [[United Isles of America]], Alternate Earth
-|released=May 14, 2013
-|publisher=Tor books
-|sequel=The Aztlanian
-|ISBN=978-0-7653-2032-2
-|page-count=378
-|word-count=[[/Statistical_analysis|87,683]]
-}}
-***The Rithmatist*** is a young adult novel by [[Brandon Sanderson]] published in May 2013 by Tor Books.{{url ref|url=https://www.torforgeblog.com/2010/12/02/tor-announces-acquisitions-of-two-new-novels-by-brandon-sanderson/|text=Tor blog posts|site=Tor Forge}} Although it was conceived as part of the [[cosmere]], it was later moved out of that universe.{{wob ref|1619}} [[The Aztlanian|A sequel]] has been in the works since the book was published{{sots ref|2013}} but it has not been completed.{{sots ref|2021}}
+---
+source_file: The Rithmatist.txt
+entity_type: book
+cover: Rithmatist US Tor cover.jpg
+setting: '[[United Isles of America]], Alternate Earth'
+released: May 14, 2013
+publisher: Tor books
+sequel: The Aztlanian
+isbn: 978-0-7653-2032-2
+page-count: '378'
+word-count: '[[/Statistical_analysis|87,683]]'
+---
+
+***The Rithmatist*** is a young adult novel by [[Brandon Sanderson]] published in May 2013 by Tor Books. Although it was conceived as part of the [[cosmere]], it was later moved out of that universe. [[The Aztlanian|A sequel]] has been in the works since the book was published but it has not been completed.
 
 ## Synopsis
 
@@ -17,7 +20,7 @@
 *As the son of a lowly chalkmaker at Armedius Academy, Joel can only watch as Rithmatist students study the magical art that he would do anything to practice. Then students start disappearing-kidnapped from their rooms at night, leaving trails of blood. Assigned to help the professor who is investigating the crimes, Joel and his friend Melody find themselves on the trail of an unexpected discovery-one that will change Rithmatics-and their world-forever.*
 
 ## Summary
-{{for|/Summary|a chapter by chapter summary}}
+
 The Rithmatist takes place on an alternate Earth in which North America is composed entirely of islands. The islands were empty of human life when Europeans arrived, but they encountered dangerous "wild chalklings," two-dimensional creatures made of chalk. King Gregory III discovered the magic of [[Rithmatics]], performed by drawing specific shapes with chalk, and with this magic the colonists learned to defend themselves. Several hundred years later, the continued prosperity of the [[United Isles of America]] is bought with the efforts of Rithmatists who fight an ongoing battle to contain the chalklings (and other, more mysterious creatures) on the island of Nebrask.
 
 [[Joel Saxon]] is a student at the prestigious [[Armedius Academy]] in Jamestown, New Britannia. Though not a Rithmatist himself, he is obsessed with Rithmatics and studies the magic as much as he can. The poor son of the campus cleaning lady, Joel doesn’t fit in with the other students who are all either Rithmatists or children of privilege. Joel’s father Trent was the chalk maker for the academy, and shared Joel’s obsession with Rithmatics. Joel believes his father died in a rail accident, but it is implied that there is more to the story than he has been told. 
@@ -39,16 +42,14 @@ Joel later confronts Nalizar, who he suspects was the mastermind behind the Forg
 [[Rithmatics]] uses chalk circles, lines, and drawings known as [[chalkling|chalklings]], otherwise known as lines of making, to do a variety of actions, including, but not limited to, attacking other duelists, creating defenses & structures, as well as creatures.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of The Rithmatist}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## See Also
 * Tor has published an [http://www.tor.com/the-rithmatist-excerpt excerpt from The Rithmatist] (Prologue and Chapters One to Five).
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *The Rithmatist* consists of one prologue and twenty-five chapters, reaching a total 87,683 word count.
 
 {|class="wikitable"
@@ -76,8 +77,6 @@ Joel later confronts Nalizar, who he suspects was the mastermind behind the Forg
 
 ## Notes
 <references/>
-{{meta/partial}}
-{{Rithmatist}}
-{{Books}}
+
 [[category: The Rithmatist| ]]
 [[category: meta]]

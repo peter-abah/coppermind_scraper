@@ -1,3 +1,8 @@
+---
+source_file: SpookGallery.txt
+entity_type: article
+---
+
 ==Official Artwork==
 <gallery mode="packed" heights=300px caption="Official Artwork">
 Hero of Ages by GisAlmeida.jpg|<center><small>by {{a|GisAlmeida}}</small></center> *Hero of Ages*, various scenes from the trilogy

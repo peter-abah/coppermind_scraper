@@ -1,0 +1,29 @@
+{{settlement
+|map=Tomat locator.png
+|occupied=[[Singer]]s
+|princedom=Sadeas
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+'''Tomat''' is a city in the [[Sadeas princedom]] of [[Alethkar]] on [[Roshar]].{{map ref|Roshar}}
+
+== Geography ==
+Tomat is located in northwestern Alethkar, near the intersection of the borders of Alethkar, [[Jah Keved]], and [[Herdaz]]. It is situated at the southwestern point of the Sadeas princedom, just north of the [[Vamah princedom]].{{map ref|Alethkar}} It lies on a large river that originates in the [[Sunmaker Mountains]] and defines portions of Jah Keved's borders with Alethkar and Herdaz before emptying into a Herdazian bay near the [[Reshi Isles]].{{map ref|Roshar}}
+
+== Landmarks ==
+=== The Gap ===
+Tomat has a city wall, but at the time of the [[True Desolation]] it had been broken for several generations, with the resulting gap becoming infamous among its citizens.{{book ref|sa4|i|10}}
+
+== History ==
+Tomat was one of the cities that was occupied by [[singer]]s during the invasion of Alethkar by [[Odium]]'s forces that began in {{Rosharan date|1174}}. Although the city had a defensive wall, it had been broken by unknown means several generations before the [[True Desolation]]. The residents of the city offered little resistance to the invading army.{{book ref|sa4|i|10}}
+
+In {{Rosharan date|1175}}, the [[coalition of monarchs]] sent scouts on reconnaissance missions throughout Alethkar. [[Kara]] observed the area that included Tomat, taking notes on singer troop placement and the condition of the buildings. She reported that the city was in good shape, likely owing to the fact that they had quickly surrendered. She also noted that the singers had started to repair the city wall.{{book ref|sa4|i|10}}
+
+==Notable Residents==
+[[Hesina]] had particular interest in reading Kara's notes on Tomat. She had a conversation with [[Lirin]] indicating that her father lived in the city and owned a business there. Hesina worried that her father's obstinate personality might have led him to resist the singers even if the rest of the town surrendered.{{book ref|sa4|i|10}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 16:01, 5 November 2021 (UTC)}}
+{{Stormlight}}

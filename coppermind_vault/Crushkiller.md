@@ -1,13 +1,14 @@
-{{lifeform
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-A **crushkiller** was some sort of creature on [[Roshar]], possibly native to the area around [[Thaylenah]].{{book ref|sa1|i|4}}
+---
+source_file: Crushkiller.txt
+entity_type: lifeform
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-[[Rysn]] thought her babsk, [[Vstim]], normally argued as fiercely as a crushkiller.{{book ref|sa1|i|4}}
+A **crushkiller** was some sort of creature on [[Roshar]], possibly native to the area around [[Thaylenah]].
+
+[[Rysn]] thought her babsk, [[Vstim]], normally argued as fiercely as a crushkiller.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 23:29, 29 June 2016 (MST)}}
-{{Stormlight}}

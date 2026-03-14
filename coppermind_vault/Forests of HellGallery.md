@@ -1,3 +1,8 @@
+---
+source_file: Forests of HellGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode=packed heights=300px>
 AU Shadows for Silence.jpeg| <small><center>by {{a|Ben McSweeney}}</center></small> [[Silence Montane]] in the Forests of Hell, *[[Arcanum Unbounded]]* interior art

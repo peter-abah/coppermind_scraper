@@ -1,0 +1,13 @@
+{{item|
+|type={{cat tag|Currencies|Currency}}
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+
+'''Pek''' is a currency minted by [[Quellion]] in [[Urteau]] after the [[Collapse]] of the [[Lord Ruler]].{{book ref|mb3|26}} It was said to be worth a fraction of a copper clip, and so basically worthless.
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 15:10, 25 December 2016 (MST)}}
+{{Mistborn|Era 1}}

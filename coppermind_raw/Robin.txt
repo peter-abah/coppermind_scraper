@@ -1,0 +1,16 @@
+{{character
+|profession={{cat tag|DDF pilots}}
+|world=Detritus
+|universe=[[Cytoverse]]
+|introduced=[[ReDawn (novella)|ReDawn]]
+}}
+{{update|sf3}}
+'''Robin''' is a member of [[Stardragon Flight]] in the [[DDF]]. It is unclear whether Robin is their name or callsign.{{book ref|sf2|7}}
+
+As [[Alanik]] and [[Skyward Flight]] are departing [[Detritus]] to aid the [[UrDail]] against the [[Superiority]], [[Jeshua Weight]] sends Stardragon Flight&mdash;including Robin&mdash;out to try to stop them. Robin radios [[Jorgen Weight]] to ask what he is doing, though he does not respond before Alanik [[hyperjump]]s the flight to [[ReDawn (planet)|ReDawn]].{{book ref|sf2|7}}
+
+== Notes ==
+<references />
+{{partial}}
+{{demoted|sf3}}
+{{Skyward}}

@@ -1,39 +1,38 @@
-{{architecture
-|image=The Noodle Pupil by Aliya Chen.jpg
-|usage={{cat tag|Businesses|Restaurant}}
-|city=Kilahito
-|nation=Nagadan
-|world=Komashi
-|universe=[[Cosmere]]
-|books=[[Yumi and the Nightmare Painter]]
-}}
+---
+source_file: Noodle Pupil.txt
+entity_type: architecture
+image: The Noodle Pupil by Aliya Chen.jpg
+city: Kilahito
+nation: Nagadan
+world: Komashi
+universe: '[[Cosmere]]'
+books: '[[Yumi and the Nightmare Painter]]'
+---
 
-The **Noodle Pupil**, later known as the **Noodle Princess**, is a noodle restaurant in [[Kilahito]] on [[Komashi]]. It contains both tables and a bar, the latter of which has heated circular nooks carved into the wood to keep the bowls of noodles warm.{{book ref|yumi|5}} In addition to noodles, the establishment also serves rice, which is used to soak up leftover broth. While [[Design]] runs the establishment, she offers discounts of prime number percentages. Without a discount, a bowl of noodles generally costs two hundred [[kon]].{{book ref|yumi|5}}
+The **Noodle Pupil**, later known as the **Noodle Princess**, is a noodle restaurant in [[Kilahito]] on [[Komashi]]. It contains both tables and a bar, the latter of which has heated circular nooks carved into the wood to keep the bowls of noodles warm. In addition to noodles, the establishment also serves rice, which is used to soak up leftover broth. While [[Design]] runs the establishment, she offers discounts of prime number percentages. Without a discount, a bowl of noodles generally costs two hundred [[kon]].
 
 ## History
-The Noodle Pupil was founded by [[Design]], a [[Cryptic]] from [[Roshar]] who bonded with [[Hoid]]. After arriving on the planet, Hoid froze in time due to protections he put on himself to stop his memories from being tampered with again. Design started the shop with help from the assistant cook [[Namakudo]], and attracted lots of nightmare painters who would visit after hours or during breaks. During the month that Yumi and Nikaro were swapping bodies, they visited many times. During one visit, [[Design]] lengthened Nikaro's [[Connection]] to Yumi.{{book ref|yumi|21}} On another visit, Design used a [[fabrial]] of Hoid's to check Yumi's [[spiritweb]] and found that her [[Investiture]] was off the charts, that she had had memories removed, and that she had very few connections.{{book ref|yumi|32}} It was here that Nikaro recruited his friends to fight off the army of [[nightmare]]s that was coming.{{book ref|yumi|40}} Once Hoid was unfrozen, Design willed the shop's ownership to Yumi and Painter, who later renamed it the 'Noodle Princess.'{{book ref|yumi|part=anotherepilogue}}
+The Noodle Pupil was founded by [[Design]], a [[Cryptic]] from [[Roshar]] who bonded with [[Hoid]]. After arriving on the planet, Hoid froze in time due to protections he put on himself to stop his memories from being tampered with again. Design started the shop with help from the assistant cook [[Namakudo]], and attracted lots of nightmare painters who would visit after hours or during breaks. During the month that Yumi and Nikaro were swapping bodies, they visited many times. During one visit, [[Design]] lengthened Nikaro's [[Connection]] to Yumi. On another visit, Design used a [[fabrial]] of Hoid's to check Yumi's [[spiritweb]] and found that her [[Investiture]] was off the charts, that she had had memories removed, and that she had very few connections. It was here that Nikaro recruited his friends to fight off the army of [[nightmare]]s that was coming. Once Hoid was unfrozen, Design willed the shop's ownership to Yumi and Painter, who later renamed it the 'Noodle Princess.'
 
 ## Staff
-{{columns|
+
 * [[Design]], manager/primary owner (formerly)
 * [[Hoid]], coatrack/secondary owner (formerly)
 * [[Namakudo]], assistant cook
 * [[Nikaro]], owner
 * [[Yumi]], cook/owner
 * [[Masaka]], server
-}}
 
 ## Notable Patrons
-{{columns|
+
 * [[Izzy]]
 * [[Akane]]
 * [[Tojin]]
 * [[Gaino]]
-}}
+
 ## Notes
 <references />
-{{complete}}
-{{yumi}}
+
 [[es:El Pupila del Fideo]]
 <!--
 5 initial description, p39-40?

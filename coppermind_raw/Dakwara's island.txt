@@ -1,0 +1,26 @@
+{{geography
+|type={{cat tag|Islands|Island}}
+|region=Drominad subastral
+|world=First of the Sun
+|universe=[[Cosmere]]
+}}
+{{spoilers|iote}}
+{{uncanonical}}
+The '''dakwara's island''' is the island in the [[Cognitive Realm#Drominad subastral|Drominad subastral]] where [[Cakoban]] faced the [[dakwara]] and bound it to defend his grave.{{book ref|iote|60}}
+
+== Geography ==
+The island is essentially flat, with a hole in the center, making it appear doughnut shaped. In the center of that hole is another tiny island with some black rock formations and a cave at the center.{{book ref|iote|35}} This little cave is the grave of [[Cakoban]], a great [[Eelakin]] explorer. On the walls of the cave, written in [[Dragon (cosmere)|dragon]] runes and signed by [[Frost]]'s personal mark, is the following message: 'I was too late to help, but I laid him here. The hero Cakoban died with honor'.{{book ref|iote|61}}
+
+The inner island is guarded by a large glowing [[Evil|entity]] known as the [[dakwara]]. It is joined by hundreds, maybe even thousands, of [[skullsnake]]s.{{book ref|iote|35}} The island's surface is rocky and black, like coral, with bulbous sections full of texture.{{book ref|Iote|36}} On the outer island there is a tunnel, burrowed into the black-coral rock of the island. There is a rise here, a hillside, and the tunnel breaks out one end of it, leading downward at a shallow angle.{{book ref|Iote|39}} This tunnel is filled with the native Flora and Fauna of [[Patji_(island)|Patji]], like [[deathant]]s, [[nightwind]] fungi, [[masher wasp]]s, [[memist]], [[tokka]]{{book ref|Iote|43}} and a [[Nightmaw]].{{book ref|iote|57}} The tunnel is also home to one of [[Sixth of the Dusk]]'s personal signposts.{{book ref|iote|47}} Everything inside the tunnel is essentially a manifestation of Investiture, created by the perceptions of the Eelakin people; the cave is a creation of the thoughts and worries of the trappers who worked Patji for generations. The cavern is also adapting to Sixth of the Dusk's own perceptions and memories, because he forged a connection with it after becoming a [[Navigator]].{{book ref|iote|55}} The tunnel is a dead end.{{book ref|iote|57}}
+
+After the [[Malwish Empire|Malwish]] discovered the island, they set up a base. A [[Jagged Star gunship]] dropped several pods for its crew and provides the power, while several [[MW-232]]s provide security.{{book ref|iote|35}}
+
+== History ==
+Little is known about the island's early history. It seems like it was already here when the Eelakin came to Drominad. At some point shortly after this, Cakoban and a few of his explorers were ambushed by an [[Evil|entity]] and hunted through the Cognitive Realm. After days of sailing, trying and managing to stay just ahead of it, they came across this island. Cakoban, realising that they couldn't keep running for much longer, sacrificed himself so that the rest of the crew could get away. He jumped from the ship and, invested as he was, drew the entity's attention. It killed him, but in his last moments, Cakoban bound the entity, now known as the dakwara, to his will, telling it to guard the island. At the same time, Frost arrived and buried him on the island.{{book ref|iote|52}}
+
+Millennia later, during the Space Age, the Malwish came to believe that there was a hidden perpendicularity in the Drominad system. When they came across this island, they, seeing a cave and the dakwara, believed it to be the location of the perpendicularity. Shortly afterwards, they tried to get through both the dakwara and the so called Cave of Death, but failed, losing those men. The dakwara even destroyed an MW-232.{{Book ref|iote|39}} Later, both the ''[[Dynamic]]'' and a local named Sixth of the Dusk arrived at the island, and were taking into custody by the Malwish.{{book ref|iote|36}}{{book ref|iote|37}} After an attack by the dakwara, the local managed to get to the end of the Cave of Death alive, and was deemed worthy of fighting the dakwara.{{book ref|iote|57}} He beat the creature as well, not by killing it but by reaching the inner island alive,{{book ref|iote|59}} and used his new power over it to defeat the Malwish.{{book ref|iote|60}} Both he and the crew of the ''Dynamic'' left the island, taking the dakwara with them, to the actual location of the perpendicularity.{{book ref|iote|61}} The remaining Malwish were rescued by a ship sent from [[Silverlight]].{{book ref|iote|epilogue}}
+
+== Notes ==
+<references />
+{{complete}}
+{{Emberdark}}

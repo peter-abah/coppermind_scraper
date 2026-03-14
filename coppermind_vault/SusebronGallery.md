@@ -1,3 +1,8 @@
+---
+source_file: SusebronGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Warbreaker CN cover art.jpg | <center><small>by {{a|Jian Guo}}</small></center> On the mainland China cover

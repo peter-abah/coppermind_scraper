@@ -1,3 +1,8 @@
+---
+source_file: Torol SadeasGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Act of Wrath by Ari Ibarra.jpg| <center><small>by {{a|Ari Ibarra}}</small></center> Killed by [[Adolin Kholin]], *[[Call to Adventure: The Stormlight Archive]]*

@@ -1,0 +1,14 @@
+{{lifeform
+|type=Animal
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Gumfrems''' are domesticated animals on [[Roshar]]. They are described as pasture animals that are similar to [[chull]]s, although gumfrems are relatively uncommon. They are raised in [[Alethkar]] for their [[gemheart]]s, presumably heliodors, which are small but can be used to [[Soulcast]] meat.{{book ref|sa3|10}} 
+
+Gumfrem farms existed in the [[Akanny]] region of the [[Sadeas princedom]].{{book ref|sa3|10}} Enough gumfrems to clog multiple rooms were taken to [[Urithiru]].{{book ref|sa3|10}}
+
+== Notes ==
+<references/>
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 17:06, 16 June 2018 (MST)}}
+{{Stormlight}}

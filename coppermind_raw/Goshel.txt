@@ -1,0 +1,16 @@
+{{character
+|died=c. {{Rosharan date|1172}}
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Goshel''' was a slave on [[Roshar]] that died in a revolt led by [[Kaladin]].{{book ref|sa1|43}}
+
+Kaladin led Goshel and the other slaves in a revolt against their masters one night.{{book ref|sa1|43}} Goshel and all the other slaves except Kaladin were slaughtered. This final defeat led Kaladin to finally give up on trying to escape slavery. Even months later, Kaladin thought of Goshel often,{{book ref|sa1|57}}{{book ref|sa1|67}} and believed that he had failed him.{{book ref|sa1|43}}{{book ref|sa1|38}}
+
+[[Kaladin]] remembers him, [[Malop]], [[Jaks]], [[Beld]], [[Pedin]], [[Rod (Roshar)|Rod]], [[Mart]], [[Nalma]], [[Dallet]] and the squad, and [[Tien]] whilst trying to say the fourth Ideal of the [[Windrunners]].{{book ref|sa3|118}}
+
+== Notes ==
+<references />
+{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 14:38, 4 December 2017 (MST)}}
+{{Stormlight}}

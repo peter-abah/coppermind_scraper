@@ -1,10 +1,14 @@
-{{book|title=*Mistborn Adventure Game*|display-title=*Mistborn Adventure Game* (rule book)
-|cover=MAG cover.jpg
-|released=December 16, 2011{{url ref|url=http://www.crafty-games.com/content/mistborn-adventure-game-releases-journey-final-empire|text=Press release|site=[[Crafty Games]]}}
-|series=[[Mistborn Adventure Game]]
-|publisher=Crafty Games
-|ISBN=978-0-9826843-8-2
-}}
+---
+source_file: Mistborn Adventure Game (rule book).txt
+entity_type: book
+title: '''''Mistborn Adventure Game'''''
+display-title: '''''Mistborn Adventure Game'''' (rule book)'
+cover: MAG cover.jpg
+released: December 16, 2011
+series: '[[Mistborn Adventure Game]]'
+publisher: Crafty Games
+isbn: 978-0-9826843-8-2
+---
 
 The **Mistborn Adventure Game** is the inaugural rule book in [[Mistborn Adventure Game| the pen and paper RPG of the same name]].
 
@@ -27,6 +31,5 @@ A resource for Narrators.
 
 ## Notes
 <references />
-{{meta/partial}}
-{{mistborn|rpg}}
+
 [[Category: Mistborn|#mag-r1]]

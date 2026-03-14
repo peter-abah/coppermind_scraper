@@ -1,4 +1,7 @@
-{{Template:disambig}}
+---
+source_file: 17th Shard.txt
+entity_type: template:disambig
+---
 
 The 17th Shard could refer to either
 

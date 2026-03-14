@@ -1,17 +1,16 @@
 ---
-'species: "Dragon (Wode)"
-world: "Alornia"
-universe: "Wode States"
-books: "Perfect State"
+source_file: Galbrometh.txt
+entity_type: character
+'''species': '[[Dragon (Wode)]]'
+world: Alornia
+universe: '[[Wode]] [[State]]s'
+books: '[[Perfect State]]'
 ---
 
-{{quote
-|Kairominas the First of Alornia, Keeper of the Seventeen Lanterns, Master of Ultimate Lancing, Slayer of Galbrometh.
-|Kai introducing himself to Sophie{{book ref|ps|3}}
-}}
-**Galbrometh** was a dragon in [[Alornia]]. His hoard contained a draught of long life that enabled [[Kairominas]], [[Shale]], [[Besk]], and anyone else Kai chose to share the elixer with to not age.{{book ref|ps|1}} Galbrometh was slain by Kai.{{book ref|ps|3}}
+> Kairominas the First of Alornia, Keeper of the Seventeen Lanterns, Master of Ultimate Lancing, Slayer of Galbrometh.
+> — Kai introducing himself to Sophie
+
+**Galbrometh** was a dragon in [[Alornia]]. His hoard contained a draught of long life that enabled [[Kairominas]], [[Shale]], [[Besk]], and anyone else Kai chose to share the elixer with to not age. Galbrometh was slain by Kai.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:28, 26 December 2016 (MST)}}
-{{Perfect State}}

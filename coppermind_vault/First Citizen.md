@@ -1,9 +1,12 @@
-{{group
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-The **First Citizen**s of the [[Defiant League]] are the forty pilots who participate in the [[Battle of Alta]], as well as their families and descendants.{{book ref|Skyward|1}} They are given special privileges, including special quarters and influence, and their children are given a free entrance into Flight School and do not have to take the entrance exam. 
+---
+source_file: First Citizen.txt
+entity_type: group
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
+
+The **First Citizen**s of the [[Defiant League]] are the forty pilots who participate in the [[Battle of Alta]], as well as their families and descendants. They are given special privileges, including special quarters and influence, and their children are given a free entrance into Flight School and do not have to take the entrance exam. 
 
 It is likely that many, if not all, of the First Citizen's live in the [[Deep Caverns]], as is the case with Jorgen Weight and his family. Many of those that survived the battle go on to hold high ranking positions either in the DDF or the National Assembly.  
 
@@ -19,5 +22,3 @@ Chaser's family, however, are not considered First Citizen's due to his actions 
 
 ## Notes
 <references /><!-- skyward: 1,2,5,6,8,10,21,24,27,29,34,39 -->
-{{partial}}
-{{Skyward}}

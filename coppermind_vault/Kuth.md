@@ -1,56 +1,55 @@
-{{nation
-|world=Nalthis
-|universe=[[Cosmere]]
-|books=[[Warbreaker]]
-}}
-{{quote
-|Some scholars say that the Manywar was fought over these ﬂower petals, that the kingdoms of Kuth and Huth were destroyed by little drips of color.
-|[[Hoid]] to [[Lightsong]] and [[Siri]].{{book ref|wb|32}}
-}}
+---
+source_file: Kuth.txt
+entity_type: nation
+world: Nalthis
+universe: '[[Cosmere]]'
+books: '[[Warbreaker]]'
+---
 
-**Kuth** is a nation-state on [[Nalthis]].{{book ref|wb|32}} 
+> Some scholars say that the Manywar was fought over these ﬂower petals, that the kingdoms of Kuth and Huth were destroyed by little drips of color.
+> — [[Hoid]] to [[Lightsong]] and [[Siri]].
+
+**Kuth** is a nation-state on [[Nalthis]]. 
 ## Geography
-Kuth lies north of the [[Idris|Idrian]] mountains.{{wob ref|7357}}{{wob ref|7407}} Not much is known of Kuth’s climate, although it is known to be either a prairie or a steppe or a desert climate.{{book ref|wb|32}}
+Kuth lies north of the [[Idris|Idrian]] mountains. Not much is known of Kuth’s climate, although it is known to be either a prairie or a steppe or a desert climate.
 
 ## Government
 ### Monarchy
-Kuth is a kingdom, and as such it has a king or queen.{{book ref|wb|32}}
+Kuth is a kingdom, and as such it has a king or queen.
 
 ### Foreign Policy and international relationships
-==== Hanald ====
-Kuth has a bad relationship with [[Hanald]].{{Book ref|wb|32}} They are jealous of the riches Hanald posseses,{{Book ref|wb|32}} as well as afraid of Hanald's military might.
+#### Hanald
+Kuth has a bad relationship with [[Hanald]]. They are jealous of the riches Hanald posseses, as well as afraid of Hanald's military might.
 
-This eventually lead to Hanald declaring war on Kuth, and invading the Kingdom.{{Book ref|wb|32}}
+This eventually lead to Hanald declaring war on Kuth, and invading the Kingdom.
 
-==== Huth ====
-[[Huth]] lies near Kuth, north of the Idrian mountains.{{Book ref|wb|32}} They also fought together during the Manywar, with each of the nations being invaded by [[Hanald]].{{Book ref|wb|32}}
+#### Huth
+[[Huth]] lies near Kuth, north of the Idrian mountains. They also fought together during the Manywar, with each of the nations being invaded by [[Hanald]].
 
-==== Pahn Unity ====
+#### Pahn Unity
 It is unclear whether or not Kuth was a part of the [[Pahn Unity]].
 
-During the Manywar Kuth was on the same side as the Pahn Unity.{{Book ref|wb|32}} Due to this it is likely that they had at least fine relationships with the nations that made up this alliance.
+During the Manywar Kuth was on the same side as the Pahn Unity. Due to this it is likely that they had at least fine relationships with the nations that made up this alliance.
 
 ## History
 ### Establishment
-Kuth was established at an unknown date before the [[Manywar]].{{Book ref|wb|32}}
+Kuth was established at an unknown date before the [[Manywar]].
 
 ### Tensions with Hanald
-Approximately three hundred years before the [[Pahn Kahl rebellion]], a short time before the Manywar, tensions with [[Hanald]] were at an all time high.{{Book ref|wb|32}} This was because of two main reasons.
+Approximately three hundred years before the [[Pahn Kahl rebellion]], a short time before the Manywar, tensions with [[Hanald]] were at an all time high. This was because of two main reasons.
 
-The first reason was Hanald’s monopoly on the dye trade.{{Book ref|wb|32}} Other kingdoms wished to profit in this trade as well, but Hanald wouldn’t allow them.{{Book ref|wb|32}}
+The first reason was Hanald’s monopoly on the dye trade. Other kingdoms wished to profit in this trade as well, but Hanald wouldn’t allow them.
 
-Hanald’s Royals also turned its attention to the relatively new art of [[Awakening]].{{book ref|wb|32}} During this time they gained powerful awakeners and [[Lifeless]], which other kingdoms didn’t have.{{Book ref|wb|32}} Many different discoveries were made during this time, including the command to make Lifeless with a single breath and [[Ichor-alcohol]]. These discoveries allowed nations to build far larger and cheaper armies,{{book ref|wb|32}} and become far more powerful, raising tensions even higher. 
+Hanald’s Royals also turned its attention to the relatively new art of [[Awakening]]. During this time they gained powerful awakeners and [[Lifeless]], which other kingdoms didn’t have. Many different discoveries were made during this time, including the command to make Lifeless with a single breath and [[Ichor-alcohol]]. These discoveries allowed nations to build far larger and cheaper armies, and become far more powerful, raising tensions even higher. 
 
-At some point, one of the [[Returned]] in Hanald had a vision of war.{{book ref|wb|32}} This ended up being the catalyst for a war, as it prompted [[Strifelover]] to strike preemptively against Kuth and the other nations.{{book ref|wb|32}}
+At some point, one of the [[Returned]] in Hanald had a vision of war. This ended up being the catalyst for a war, as it prompted [[Strifelover]] to strike preemptively against Kuth and the other nations.
 
 ### The Manywar and Destruction
-As Strifelover marched his phantoms into Kuth and [[Huth]] what was to become known as the [[Manywar]] broke out.{{book ref|wb|32}} 
+As Strifelover marched his phantoms into Kuth and [[Huth]] what was to become known as the [[Manywar]] broke out. 
 
-Kuth and Huth would become Hanald’s main rivals in this war.{{book ref|wb|epilogue}} These nations would fight with each other for the remaining time of the war, until somewhere near the end both nations were destroyed{{book ref|wb|32}} and Strifelover withdrew his phantoms.
+Kuth and Huth would become Hanald’s main rivals in this war. These nations would fight with each other for the remaining time of the war, until somewhere near the end both nations were destroyed and Strifelover withdrew his phantoms.
 
-After the destruction of Kuth multiple kingdoms were established in its place, these nations would keep their hatred for [[Hallandren]].{{book ref|wb|5}} Three hundred years after Kuth’s collapse a tyrant tried to restore Kuth and Huth, with the help of [[Yesteel]].{{Book ref|wb|epilogue}}
+After the destruction of Kuth multiple kingdoms were established in its place, these nations would keep their hatred for [[Hallandren]]. Three hundred years after Kuth’s collapse a tyrant tried to restore Kuth and Huth, with the help of [[Yesteel]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:58, 22 June 2019 (MST)}}
-{{Warbreaker}}

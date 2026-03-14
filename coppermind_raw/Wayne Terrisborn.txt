@@ -1,0 +1,2 @@
+#redirect[[Wayne]]
+[[Category: Aliases]]

@@ -1,18 +1,17 @@
-{{vehicle
-|type= {{cat tag|Watercraft|Ship}}
-|nation=Hallandren
-|world=Nalthis
-|universe=[[Cosmere]]
-|books=[[Warbreaker]]
-}}
+---
+source_file: Stormrunners.txt
+entity_type: vehicle
+nation: Hallandren
+world: Nalthis
+universe: '[[Cosmere]]'
+books: '[[Warbreaker]]'
+---
 
-**Stormrunners** are ships in the nation of [[Hallandren]] on [[Nalthis]].{{book ref|wb|42}}
+**Stormrunners** are ships in the nation of [[Hallandren]] on [[Nalthis]].
 
-Stormrunners sail the [[Bright Sea]] during the spring tempests, when all other ships stay in the harbour, hoping to catch fish.{{book ref|wb|42}} Stormrunners have a high casualty rate, due to sailing in these storms.{{book ref|wb|42}} Some [[Idris|Idrians]] who live in Hallandren take up jobs on the Stormrunners.{{book ref|wb|42}}
+Stormrunners sail the [[Bright Sea]] during the spring tempests, when all other ships stay in the harbour, hoping to catch fish. Stormrunners have a high casualty rate, due to sailing in these storms. Some [[Idris|Idrians]] who live in Hallandren take up jobs on the Stormrunners.
 
-[[T'Telir]] has a number of Stormrunners.{{book ref|wb|42}}
+[[T'Telir]] has a number of Stormrunners.
 
 ## Notes
 <references />
-{{complete}}
-{{Warbreaker}}

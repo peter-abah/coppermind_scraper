@@ -1,0 +1,39 @@
+{{character
+|'world={{earth tag|earth=Alcatraz|cat=Alcatraz characters}} and {{earth tag|earth=Frugal Wizard|cat=Frugal Wizard characters}}
+|introduced=[[Alcatraz Versus the Evil Librarians]]
+}}
+{{update|a6|frugal}}
+
+{{quote
+|Any sufficiently trained modern person can become a god to those of previous eras.
+|Bagsworth's Law{{frugal iw ref|How to Be a Wizard}}
+}}
+
+'''Cecil G. Bagsworth III''' is the author of several books about interdimensional travel, as well as the editor of [[Alcatraz Smedry]]'s autobiographies.{{book ref|frugal|1}}{{book ref|a6|epilogue}}{{book ref|frugal|part=postscript}} In addition, he is the editor of [[bws:a-night-of-blacker-darkness|''A Night of Blacker Darkness'']].{{wob ref|15487}}
+
+== Appearance and Personality ==
+Bagsworth loves truth and enjoys his adventures through the multiverse, but he also finds the breadth of knowledge isolating.{{frugal iw ref|The Wizard's Burden}}
+
+== History ==
+At some point, Bagsworth participated in the [[Micronization War]]. In 2085, the year after the invention of interdimensional travel, Bagsworth was recruited for a government-sponsored Middle Ages expedition. There, he won a jousting tournament, introduced electricity, and earned the trust of Henry II.{{frugal iw ref|You Are a Wizard}}{{frugal iw ref|How to Be a Wizard}} Eventually, Bagsworth founded [[Frugal Wizard Inc.]] and wrote several books about interdimensional wizardry.
+
+== Bibliography ==
+* ''The Truth of Truth: A Call to Adventure'' (2098){{frugal iw ref|How to Be a Wizard}}
+* ''Science for Wizards''{{frugal iw ref|How to Be a Wizard}}
+* ''My Lives: An Autobiography of Cecil G. Bagsworth III, The First Interdimensional Wizard'' (2102){{frugal iw ref|You Are a Wizard}}
+* ''[[The Frugal Wizard's Handbook for Surviving Medieval England (in-world)|The Frugal Wizard's Handbook for Surviving Medieval England]]''
+* (Editor) ''A Night of Blacker Darkness''
+* (Editor) ''[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]'' series
+* (Editor) ''The Planet of the Rising Sun''
+* (Editor) ''The Seafaring Adventures of Captain Ahabraha'm and his Magical Crew'' by Abraham Lincoln
+
+== Trivia ==
+* Cecil is a character originally invented by [[Dan Wells]];{{wob ref|13659}} he now appears in works of both Dan's and [[Brandon]]'s.{{wob ref|15519}}
+* Cecil is based off of a person Brandon and Dan know. He attended Brandon's wedding wearing a top hat and monocle.{{wob ref|15487}}
+* He looks, by pure coincidence, exactly like Brandon's brother Jordan.{{book ref|frugal|part=postscript}}
+
+== Notes ==
+<references />
+{{partial}}
+{{Frugal Wizard}}
+{{Alcatraz}}

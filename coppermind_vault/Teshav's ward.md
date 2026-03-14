@@ -1,22 +1,19 @@
 ---
-unnamed: "y"
-born: "{{Rosharan date|year=1152"
+source_file: Teshav's ward.txt
+entity_type: character
+unnamed: y
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Words of Radiance]]'
 ---
 
-{{book ref|sa2|81}}
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Words of Radiance]]
-}}
-{{uncanonical}}
-Brightlady [[Teshav]]'s ward is present during the [[Battle of Narak]]. She is there as a messenger and [[Dalinar]] charges her with spreading the news that it was time to attack.{{book ref|sa2|81}}
+Brightlady [[Teshav]]'s ward is present during the [[Battle of Narak]]. She is there as a messenger and [[Dalinar]] charges her with spreading the news that it was time to attack.
 
-She is fifteen years old at the [[Battle of Narak]].{{book ref|sa2|81}}
+She is fifteen years old at the [[Battle of Narak]].
 
-During some of the scholar meetings in [[Urithiru]], [[Janala]] acts as Teshav's assistant, though her ward is absent.{{wob ref|8978}}
+During some of the scholar meetings in [[Urithiru]], [[Janala]] acts as Teshav's assistant, though her ward is absent.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 16:19, 25 December 2016 (MST)}}
-{{Stormlight}}
+
 [[category: possessive articles]]

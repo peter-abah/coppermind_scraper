@@ -1,18 +1,16 @@
 ---
-children: "Janala Lustow|Janala"
-merge-family: "y"
-profession: "{{cat tag|Soldiers|Cavalry officer"
+source_file: Lustow.txt
+entity_type: character
+children: '[[Janala Lustow|Janala]]'
+merge-family: y
+groups: army
+nationality: Alethi
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|groups={{tag+|army|Kholin}}
-|nationality=Alethi
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-Brightlord **Lustow** is an [[Alethi]] [[lighteyes]] from [[Roshar]].{{book ref|sa1|12}} He is one of [[Dalinar Kholin]]'s cavalry officers.{{book ref|sa1|18}} [[Janala]] is his daughter.{{book ref|sa1|12}}
+Brightlord **Lustow** is an [[Alethi]] [[lighteyes]] from [[Roshar]]. He is one of [[Dalinar Kholin]]'s cavalry officers. [[Janala]] is his daughter.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:55, 11 September 2018 (MST)}}
-{{Stormlight}}

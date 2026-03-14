@@ -1,4 +1,9 @@
-This is a gallery of interior art for *[[{{b|frugal}}]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
+---
+source_file: The Frugal Wizard's Handbook for Surviving Medieval EnglandInterior art.txt
+entity_type: b
+---
+
+This is a gallery of interior art for *[[]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 
 <gallery widths=3000px heights=300px mode="packed" caption="Endpapers">
 Frugal Wizard Front Endpaper.jpg | <center><small>by {{a|Steve Argyle}}</small></center> Front

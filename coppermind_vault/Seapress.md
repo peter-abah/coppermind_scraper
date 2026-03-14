@@ -1,12 +1,13 @@
 ---
-nation: "High Empire"
-books: "Firstborn"
+source_file: Seapress.txt
+entity_type: location
+nation: High Empire
+books: '[[Firstborn]]'
 ---
 
-**Seapress** is a planet in the [[Reaches]] that is part of the [[High Empire]].{{book ref|firstborn}}
+**Seapress** is a planet in the [[Reaches]] that is part of the [[High Empire]].
 
 ## Notes
 <references />
-{{stub}}
-{{Firstborn}}
+
 [[Category: Celestial bodies]]

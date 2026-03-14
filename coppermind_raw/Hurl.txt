@@ -1,0 +1,2 @@
+#redirect[[Hudiya]]
+[[category: aliases]]

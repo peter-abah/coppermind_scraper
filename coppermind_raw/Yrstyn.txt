@@ -1,0 +1,15 @@
+{{character
+|nation=Thaylenah
+|profession={{tag+|artifabrian}}
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Stormlight Scenarios]]
+}}
+'''Yrstyn''' is a [[Thaylen]] person on [[Roshar]]. They are considered to be energetic, insecure and kind. During the [[True Desolation]], they were a teenager. They have mousy features and wear thick glasses. They want to prove themselves to [[Navani Kholin]].{{rpg ref|ss|15}} 
+
+At some point, Yrstyn’s enthusiasm for [[fabrial]] science caught Kholin’s eye; she personally invited them to present a fabrial at the first ever [[Urithiru Grand Showcase]]. However, Yrstyn’s fabrial, a wristband that diminishes its wearer’s fear, was stolen shortly before the showcase.{{rpg ref|ss|15}} After a group of people came to investigate the theft, Yrstyn encouraged them to investigate a mysterious figure they saw climb out the showroom’s window.{{rpg ref|ss|16}} It is unclear if their fabrial was ever returned to them.
+
+== Notes ==
+<references />
+{{complete}}
+{{Stormlight}}

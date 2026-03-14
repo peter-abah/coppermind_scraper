@@ -1,3 +1,8 @@
+---
+source_file: Isles of the EmberdarkStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Isles of the Emberdark]]***.
 
 Information used for this page is located [https://docs.google.com/spreadsheets/d/1zzQCfPWW5c-E08thpss5zDPDUWtfpuL8EVdTjfX8j-c here].
@@ -464,7 +469,5 @@ Information used for this page is located [https://docs.google.com/spreadsheets/
 | align=right | 0.64%
 |}
 
-{{meta/done}}
-{{Emberdark}}
 [[Category: Isles of the Emberdark|*]]
 [[category: statistics]]

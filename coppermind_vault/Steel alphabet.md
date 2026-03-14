@@ -1,24 +1,23 @@
-{{culture
-|related=[[Allomancy]]
-|type={{cat tag|Language}}
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn (series)]]
-}}
-{{spoilers|iote}}
-The **Steel alphabet** was the set of glyphs used on [[Scadrial]]. It has been shown that the glyphs evolved over time.{{ref|name=symbols}}
+---
+source_file: Steel alphabet.txt
+entity_type: culture
+related: '[[Allomancy]]'
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn (series)]]'
+---
 
-Most of the symbols were also used to represent various metals and numbers. The steel alphabet used a base-16 numbering system with a positional structure similar to [[wikipedia:Japanese numerals|Japanese numerals]]&mdash;double-number pairs are used to represent the order of magnitude and the number in that position respectively.{{ref|name=17s-broad-numbers}}
+The **Steel alphabet** was the set of glyphs used on [[Scadrial]]. It has been shown that the glyphs evolved over time.
 
-At some point the alphabet diverged such that the symbols used to represent [[Feruchemical]] metals were distinct to those used by [[Allomancy]] and the general alphabet.{{ref|name=Feruchemy table}} During the technological advancement after the [[Final Ascension]], the symbols used during the [[Final Empire]] were tweaked to become easier for printing.{{ref|name=font}} The Northern Scadrians kept using the script, and many of the vessels manufactured during Scadrial’s Space Age included writing in the Steel alphabet.{{book ref|iote|25}}
+Most of the symbols were also used to represent various metals and numbers. The steel alphabet used a base-16 numbering system with a positional structure similar to [[wikipedia:Japanese numerals|Japanese numerals]]&mdash;double-number pairs are used to represent the order of magnitude and the number in that position respectively.
 
-{{quote
-|The three sets of symbols show the progression of the Allomantic text through the ages. The earliest script is from Hero of Ages. It was changed and modified into the Terris script symbols we see in Well of Ascension. After more time, the Terris script morphed into what is now known as the Allomantic Alphabet or the Steel Alphabet, which are the symbols used in Mistborn: The Final Empire. We've extrapolated the Steel Alphabet into a script that's more-standardized and refined for the chapter headings in Alloy of Law, which takes place 300 years after Hero of Ages.
-|[[Isaac Stewart]] on the history of the icons.{{ref|name=isaacs-site}}
-}}
+At some point the alphabet diverged such that the symbols used to represent [[Feruchemical]] metals were distinct to those used by [[Allomancy]] and the general alphabet. During the technological advancement after the [[Final Ascension]], the symbols used during the [[Final Empire]] were tweaked to become easier for printing. The Northern Scadrians kept using the script, and many of the vessels manufactured during Scadrial’s Space Age included writing in the Steel alphabet.
+
+> The three sets of symbols show the progression of the Allomantic text through the ages. The earliest script is from Hero of Ages. It was changed and modified into the Terris script symbols we see in Well of Ascension. After more time, the Terris script morphed into what is now known as the Allomantic Alphabet or the Steel Alphabet, which are the symbols used in Mistborn: The Final Empire. We've extrapolated the Steel Alphabet into a script that's more-standardized and refined for the chapter headings in Alloy of Law, which takes place 300 years after Hero of Ages.
+> — [[Isaac Stewart]] on the history of the icons.
 
 ## Symbols and their Meanings
-The mapping between the English and Steel alphabet was first achieved by Valkynphyre of the 17th Shard.{{17s ref|topic|1905|text=Treatise Metallurgic translation|poster=Valkynphyre|date=01 May 2012}}
+The mapping between the English and Steel alphabet was first achieved by Valkynphyre of the 17th Shard.
 
 The table below displays all the known Final Empire symbols, alongside all their different meanings. 
 
@@ -47,9 +46,9 @@ The table below displays all the known Final Empire symbols, alongside all their
 West
 | P
 Northwest
-| E/I{{ref|name=rings}}
+| E/I
 North
-| O/U{{ref|name=rings}}
+| O/U
 Northeast
 
 |-
@@ -147,14 +146,14 @@ Southwest
 |-
 | *unknown*
 | *unknown*
-| 256{{ref|name=17s-broad-numbers}}{{ref|name=Elendel-daily}}
-| 4096{{ref|name=17s-broad-numbers}}{{ref|name=Elendel-daily}}
+| 256
+| 4096
 
 |-
 | V
 | F
 | J
-| C{{ref|name=coinsKickstarter}}/Ch?
+| C/Ch?
 
 |-
 ! rowspan=3 | [[File:Allomancy 21 (Final Empire).svg|100x100px]]
@@ -177,7 +176,7 @@ Southwest
 
 |-
 | H
-| X{{ref|name=coinsKickstarter}}/Sh
+| X/Sh
 | A
 | *unknown*
 
@@ -187,9 +186,9 @@ The sections below focus on the different ways the symbols above can be used.
 
 ### Symbols as letters
 
-The tin and pewter symbols corresponding to E/I and O/U are distinct, and can be identified by the position of the dot; E places the dot below and to the left of the spike, similar to the O placement, and U places the dot next to the top of the outer curved spike.{{wob ref|11029}}{{wob ref|11240}}{{wob ref|13293}}{{url ref|name=rings|url=https://badalijewelry.com/collections/brandon-sanderson/products/custom-steel-alphabet-ring|text=Badali jewelry - Steel Alphabet ring page|site=Badali Jewelry}} This practice of dot placement to distinguish vowels evolved within 100 years of [[The Alloy of Law]].{{wob ref|11240}} The dot can also be moved around in non-vowels for various reasons.{{wob ref|13293}}
+The tin and pewter symbols corresponding to E/I and O/U are distinct, and can be identified by the position of the dot; E places the dot below and to the left of the spike, similar to the O placement, and U places the dot next to the top of the outer curved spike. This practice of dot placement to distinguish vowels evolved within 100 years of [[The Alloy of Law]]. The dot can also be moved around in non-vowels for various reasons.
 
-The letter Q is not present in the alphabet. When followed by a U (like in "question" or "require"), as is most often the case, the two are written as *kw* instead (e.g. "kwestion" or "rekwire").{{wob ref|14938}}
+The letter Q is not present in the alphabet. When followed by a U (like in "question" or "require"), as is most often the case, the two are written as *kw* instead (e.g. "kwestion" or "rekwire").
 
 The table below is formatted to make translating text from and into the Steel Alphabet easier, and omits non-letter glyphs.
 
@@ -278,7 +277,7 @@ The table below is formatted to make translating text from and into the Steel Al
 
 ### Symbols as numbers
 
-The steel alphabet uses a base-16 numbering system with a positional structure similar to [[wikipedia:Japanese numerals|Japanese numerals]]&mdash;double-number pairs are used to represent the order of magnitude and the number in that position respectively.{{ref|name=17s-broad-numbers}} Unlike the base-10 system we are familiar with, where we use 0-9 for all numbers, the Scadrians use 1-16. Here's a detailed explanation of how it all works:
+The steel alphabet uses a base-16 numbering system with a positional structure similar to [[wikipedia:Japanese numerals|Japanese numerals]]&mdash;double-number pairs are used to represent the order of magnitude and the number in that position respectively. Unlike the base-10 system we are familiar with, where we use 0-9 for all numbers, the Scadrians use 1-16. Here's a detailed explanation of how it all works:
 
 * 0 does get a character - [[File:Allomancy 0 (Final Empire).svg|32x32px]] - but it's never used to represent other numbers
 * Powers of 16 - i.e. 16 (16<sup>1</sup>), 256 (16<sup>2</sup>), 4096 (16<sup>3</sup>), etc. get their own characters
@@ -339,12 +338,12 @@ At the moment, the largest number we know how to represent is 16x4096-1, or 65,5
 
 |}
 
-<br>{{theory}}
+<br>
 Most of these symbols come from images come from images uploaded on Brandon's website, that list 23 symbols in almost exactly the order they appear here (e.g. 1. Iron, 2. Steel, 3. Tin, etc.). The only exceptions are the Era 1 graphics, which list 9. Atium & 10. Malatium as well as 17. Cadmium & 18. Bendalloy; Era 2 puts cadmium and bendalloy in their 9 & 10 spots, and moves atium & malatium to 21 & 22 - leaving 17-20 nameless. Using the Era 2 ordering, the symbols for 256 (16<sup>2</sup>)([[File:Allomancy 19 (Alloy of Law).svg|32x32px]]) and 4096 (16<sup>3</sup>) ([[File:Allomancy 20 (Alloy of Law).svg|32x32px]]) are labeled as **17. No name** and **18. No name**. Based on that it is possible that the symbols for **19. No name** ([[File:Allomancy 21 (Alloy of Law).svg|32x32px]]) and **20. No name** ([[File:Allomancy 22 (Alloy of Law).svg|32x32px]]) will come to represent 65,536 (16<sup>4</sup>) and 1,048,576 (16<sup>5</sup>) respectively. 
 
 ### Symbols as cardinal directions
 
-The Steel glyphs corresponding to the eight basic metals are also used to express (inter)cardinal directions.{{map ref|Luthadel}}
+The Steel glyphs corresponding to the eight basic metals are also used to express (inter)cardinal directions.
 
 {| class=infobox style=text-align:center
 |+ **Symbols as Directions**
@@ -373,86 +372,35 @@ The Steel glyphs corresponding to the eight basic metals are also used to expres
 
 In addition to the more extensive systems of letters, numbers, and directions, various individual symbols are used to denote other miscellaneous aspects of life too:
 
-* The symbol that indicates prices in **clips** ([[File:Clip (Era 2).svg|x16px]]) is a variation of the symbol for **copper**, but without the dot and rotated clockwise so it resembles ¢ (e.g. an issue of the Two Seasons broadsheet might cost 2[[File:Clip (Era 2).svg|x16px]], or two clips).{{ref|name=2s-header}}{{wob ref|13020}} 
-* The symbol for **cadmium** ([[File:Cadmium (Alloy of Law).svg|32x32px]]) is used to represent degrees in temperature (e.g. a weather broadcast might include a high of 26[[File:Cadmium (Alloy of Law).svg|32x32px]] and low of 17[[File:Cadmium (Alloy of Law).svg|32x32px]]).{{ref|name=2s-weather}}
+* The symbol that indicates prices in **clips** ([[File:Clip (Era 2).svg|x16px]]) is a variation of the symbol for **copper**, but without the dot and rotated clockwise so it resembles ¢ (e.g. an issue of the Two Seasons broadsheet might cost 2[[File:Clip (Era 2).svg|x16px]], or two clips). 
+* The symbol for **cadmium** ([[File:Cadmium (Alloy of Law).svg|32x32px]]) is used to represent degrees in temperature (e.g. a weather broadcast might include a high of 26[[File:Cadmium (Alloy of Law).svg|32x32px]] and low of 17[[File:Cadmium (Alloy of Law).svg|32x32px]]).
 
 ## Evolution of the Steel Alphabet
 The following table shows both the evolution of the symbols used in the steel alphabet, which have come to be associated with [[Allomancy]], as well as the separate set of symbols that developed to represent the [[Feruchemy|Feruchemical]] use of metals.
 
-The form of letters shown in 341 PC are not a true evolution of the script, but are instead simply a different font for the same letters.{{17s ref|topic|78422|text=Correction to the steel alphabet|poster=argent|date=30 September 2018}}
+The form of letters shown in 341 PC are not a true evolution of the script, but are instead simply a different font for the same letters.
 
 {| class=infobox width=100%
 |- class=title
 ! width=10% | Metal
 ! width=18% | Ancient Terris (pre 0 FE)
 ! width=18% | Intermediary
-! width=18% | Late Final Empire (c. {{date|1022|FE}})
-! width=18% | c. {{date|341|PC}} (print font){{17s ref|topic|78422|text=Correction to the steel alphabet|poster=argent|date=30 September 2018}}
+! width=18% | Late Final Empire (c. )
+! width=18% | c.  (print font)
 ! width=18% | Terris alphabet
 |-
-{{/row|Iron}}
-{{/row|Steel}}
-{{/row|Tin}}
-{{/row|Pewter}}
-{{/row|Zinc}}
-{{/row|Brass}}
-{{/row|Copper}}
-{{/row|Bronze}}
-{{/row|Cadmium}}
-{{/row|Bendalloy}}
-{{/row|Gold}}
-{{/row|Electrum}}
-{{/row|Chromium}}
-{{/row|Nicrosil}}
-{{/row|Aluminum}}
-{{/row|Duralumin}}
-{{/row|Atium}}
-{{/row|Malatium}}
-{{/num-row|19|fer=[[File:Unknown Metal Feruchemy 19 (Final Empire) 17 (Alloy of Law).svg|x75px]]}}
-{{/num-row|20|fer=[[File:Unknown Metal Feruchemy 20 (Final Empire) 18 (Alloy of Law).svg|x75px]]}}
-{{/num-row|21|fer=[[File:Unknown Metal Feruchemy 21 (Final Empire) 19 (Alloy of Law).svg|x75px]]}}
-{{/num-row|22|fer=[[File:Unknown Metal Feruchemy 22 (Final Empire) 20 (Alloy of Law).svg|x75px]]}}
-{{/row|Lerasium}}
-{{/row|Ettmetal|mb3=&nbsp;|mb2=&nbsp;}}
-{{/num-row|0|mb2=&nbsp;}}
+
 |}
 
 ## Trivia
-* The distinguishing of vowels by different placement of a dot is based upon the extinct, but partially revived, [https://en.wikipedia.org/wiki/Baybayin Baybayin Script].{{wob ref|11029}}
-* Isaac Stewart has previously confirmed that the Feruchemical symbols for chromium and nicrosil were mistakenly swapped on the Feruchemy Table.{{wob ref|11030}}
-* The name of the symbol for gold (see above) is "mah."{{book ref|mb6|10}}{{file ref|New Ascendancy broadsheet.jpg |*The New Ascendancy* Broadsheet}}
+* The distinguishing of vowels by different placement of a dot is based upon the extinct, but partially revived, [https://en.wikipedia.org/wiki/Baybayin Baybayin Script].
+* Isaac Stewart has previously confirmed that the Feruchemical symbols for chromium and nicrosil were mistakenly swapped on the Feruchemy Table.
+* The name of the symbol for gold (see above) is "mah."
 
 ## Notes
 <references>
 
-{{ref|name=symbols|text=symbols used in WoA & HoA}}
-{{ref|name=Feruchemy table|text=Feruchemical metal table}}
-{{ref|name=font|text=the font, said by Peter, used in AoL}}
-
-{{17s ref|name=17s-broad-numbers|topic|1157|text=Edition Number in Elendel Daily|poster=discipleofhoid|date=14 November 2011}}
-
-{{file ref|name=Elendel-daily|Elendel Daily broadsheet.png|Elendel Daily}}
-{{file ref|name=2s-header|The Two Seasons broadsheet.jpg|The Two Seasons (Header)}}
-{{file ref|name=2s-weather|The Two Seasons broadsheet.jpg|The Two Seasons (Weather)}}
-
-{{url ref
-|name=isaacs-site
-|url=http://web.archive.org/web/20120510041032/http://www.isaacstewart.com/mistborn-series-artwork/
-|text=Isaac's Mistborn artwork
-|site=wayback machine
-|date=2012-05-10
-}}
-
-{{url ref
-|name=coinsKickstarter
-|url=https://www.kickstarter.com/projects/shirepostmint/mistborn-coins
-|text=Mistborn Coins Kickstarter (Translations under images of coins)
-|site=Shire Post Mint Kickstarter
-|date=28 September 2017
-}}
-
 </references>
-{{partial}}
-{{Mistborn}}
+
 [[category: Metallic Arts|~]]
 [[es:Alfabeto de acero]]

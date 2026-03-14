@@ -1,0 +1,23 @@
+{{character
+|groups={{tag|Cobalt Guard}}
+|profession=Captainlord
+|died={{book ref|sa3|9}}
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+'''Malan''' is a [[lighteyed]] [[Alethi]] military officer on [[Roshar]].{{book ref|sa1|68}}
+
+== Appearance and personality ==
+He is described as tall and stately.{{book ref|sa1|68}} He wears a matching steel helm and breastplate, with a dark blue uniform that identifies him as a ranking officer in the [[House Kholin|Kholin]] army.{{book ref|sa1|68}} He is dutiful and appears to faithfully adhere to military procedures, as he is seen saluting "crisply" in the midst of a deadly battle.{{book ref|sa1|68}} He is trusted by Dalinar.{{book ref|sa3|9}}
+
+== History ==
+He is a captainlord of the [[Cobalt Guard]] assigned to protect [[Adolin Kholin]].{{book ref|sa1|68}} He participates in the [[Battle of the Tower]] and encounters [[Kaladin]], who tells him to retreat.{{book ref|sa1|68}} However, he refuses to leave [[Adolin]]. Instead, he leads the Cobalt Guard as they follow Kaladin to rescue [[Dalinar]] from the [[Parshendi]] [[Shardbearer]], [[Eshonai]].{{book ref|sa1|68}}
+
+After the [[Battle of Narak]], Dalinar mentions that he would have assigned Malan to investigate the murders of [[Torol Sadeas]] and [[Vedekar Perel]] in [[Urithiru]] if he were still alive.{{book ref|sa3|9}} It is not clear when exactly he was killed.
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 19:25, 26 January 2019 (MST)}}
+{{Stormlight}}

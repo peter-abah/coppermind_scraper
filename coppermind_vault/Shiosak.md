@@ -1,16 +1,14 @@
 ---
-abilities: "{{tag+|squire|Order of Windrunners"
+source_file: Shiosak.txt
+entity_type: character
+abilities: squire
+world: Roshar
+nation: Jah Keved
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|world=Roshar
-|nation=Jah Keved
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
-{{update|sa5}}
-**Shiosak** is one of [[Drehy]]'s [[Windrunner]] squires on [[Roshar]].{{book ref|sa5|5}}
+**Shiosak** is one of [[Drehy]]'s [[Windrunner]] squires on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

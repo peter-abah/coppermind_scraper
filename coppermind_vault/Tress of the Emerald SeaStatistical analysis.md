@@ -1,3 +1,8 @@
+---
+source_file: Tress of the Emerald SeaStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Tress of the Emerald Sea]]***.
 
 Information used for this page is located [https://docs.google.com/spreadsheets/d/1mikJAJqL504ha2ebvUwQOt1Zd8ddADbs3tL0YasEvdc/edit#gid=473647573 here].
@@ -281,8 +286,6 @@ Information used for this page is located [https://docs.google.com/spreadsheets/
 | align=""right"" | 1.25%
 |}
 
-{{meta/done}}
-{{Tress}}
 [[Category: Tress of the Emerald Sea|+]]
 [[category: statistics]]
 [[es:Trenza del mar Esmeralda/Análisis estadístico]]

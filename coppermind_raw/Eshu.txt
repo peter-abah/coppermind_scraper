@@ -1,0 +1,19 @@
+{{character
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{quote
+| [He] felt like one of the ten fools. Actually, he felt like all of them. Ten times an idiot. But most specifically Eshu, who spoke of things he did not understand in front of those who did.
+| [[Kaladin]] thinking on his actions.{{book ref|sa2|71}}
+}}
+'''Eshu''' is one of the [[ten fools]],{{book ref|sa2|71}} which are a part of the teachings of [[Vorinism]].{{wob ref|4157}}
+
+Eshu speaks of things he does not understand in front of those who do.{{book ref|sa2|71}}
+
+In late 1173, [[Kaladin]] gets himself and Brightness [[Shallan Davar]] lost in the chasms of the [[Shattered Plains]], which makes him feel like Eshu.{{book ref|sa2|71}}
+
+== Notes ==
+<references/>
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 01:35, 23 December 2016 (MST)}}
+{{Stormlight}}

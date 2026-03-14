@@ -1,4 +1,7 @@
-{{Template:disambig}}
+---
+source_file: Rira.txt
+entity_type: template:disambig
+---
 
 The name Rira has multiple meanings in the [[cosmere]].
 *[[Rira (character)|Rira]] was the name of a slumlord on [[Nalthis]].

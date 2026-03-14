@@ -1,0 +1,135 @@
+{{Shardworld
+|map=Ashyn.jpg
+|shards=[[Odium]], [[Honor]], [[Cultivation]]{{wob ref|15171}}
+|magic=[[Surgebinding]], Unknown disease-based magic
+|books=[[The Stormlight Archive]], [[The Silence Divine]]
+|system=[[Rosharan system]]{{map ref|Roshar system}}
+|universe=[[Cosmere]]
+}}
+{{objective|claim=MatthewJ|date=2024-12}}
+{{update|sa4|sa5}}
+{{quote
+|There is Ashyn, the burning planet, which suffered a cataclysm long ago. 
+|From [[Khriss]]'s essay on the [[Rosharan System]]{{au ref|roshar}}
+}}
+
+'''Ashyn''', formerly known as '''Alaswha''',{{book ref|sa5|104}} is an inhabited planet in the [[Rosharan system]] and the first planet from Roshar's sun.{{map ref|Roshar system}}
+
+== Geography and Ecology ==
+{{image|Ashyn (city perspective) by Hugh Hammons.jpg|From the perspective of an upside-down floating city|side=left|width=400px}}
+In the past, Ashyn was much like the non-fain parts of Yolen, with animals such as birds and horses, and plants like grapes.{{wob ref|12702}}{{wob ref|12228}} Although it is not known what the ecology of Ashyn was precisely like, it likely closely resembled the [[Shinovar]] region on [[Roshar]], as the plants and animals there are ones brought by the original refugees.{{book ref|sa3|113}} On Roshar, weather patterns are referred to as "seasons", despite not matching seasons in length, cause, or pattern. This presumably indicates that "season" is a linguistic holdover from Ashyn and therefore that Ashyn has seasons, and, by extension, axial tilt.{{book ref|sa1|22}}{{wob ref|11448}}{{wob ref|12228}}
+
+Ashyn has its own tones which vary from those of Roshar.{{book ref|sa5|104}}
+
+An ecological catastrophe in the past has destroyed most of the planet, annihilating its biosphere.{{epigraph ref|sa3|115}} In the present day, the planet is mostly barren, with a few fertile patches.{{au ref|roshar}}{{wob ref|9847}} There are some reptiles on it.{{wob ref|15003}} The planet is called "the burning planet" but it is unknown what this means for its geography.{{au ref|roshar}} The [[Listener Song of Histories]] describes Ashyn as "warm", though it is unknown whether this is describing the planet before or after the disaster.{{epigraph ref|sa2|30}}
+
+It has been said to have floating stones. It also possessed a geographical feature known as the Central Sea.{{book ref|sa5|104}} Its air currents are noted as particularly strange, though the reason for this description is currently unknown.{{book ref|sa5|104}}
+
+Due to being closer to the sun than Roshar, it would likely experience shorter years than it (1.1 times the cosmere standard).{{map ref|Roshar system}}
+
+Its radius, density, rotational rate, and gravitational acceleration are presently unknown.
+
+Before the Scouring, Ashyn had a large variety of animals, such as minks, rats, pigs, a wide variety of parrots, and domestic dogs.{{book ref|sa5|49}}
+
+== History ==
+{{quote
+|1={{small caps|There, I found [[Rayse]] building an empire.
+War raged on this land. City-states, as had been common on our homeworld, were being conquered by a single nation. Rayse's favored people had been imbued with power, far greater than the power of sculpting stone I had given the singers. This was a dreadful power, control over the very Surges that make up creation.}}
+|2=[[Honor]]'s Memories{{book ref|sa5|104}}
+}}
+
+Like the rest of the [[Rosharan System]], Ashyn, then named Alaswha, was designed by [[Adonalsium]].{{wob ref|9283}}{{wob ref|12702}}{{book ref|sa5|104}} It was eventually settled by humans, some time before the arrival of Shards in the system ten thousand years before the [[Night of Sorrows]].{{book ref|sa5|100}}{{au ref|scadrial}} Humanity eventually formed multiple city-states across the planet.{{book ref|sa5|104}} 
+
+[[Rayse]] had arrived on Alaswha some time after [[Honor]] and [[Cultivation]] had Invested the planet of Roshar, around two thousand years after the arrival of Honor and Cultivation on Roshar.{{book ref|sa5|104}}
+
+=== The Surges ===
+{{sidequote
+|They came from another world, using powers that we have been forbidden to touch. Dangerous powers, of spren and Surges. They destroyed their lands and have come to us begging.
+|The [[Eila Stele]] describing the Ashynite refugees.{{book ref|sa3|111}}
+|side=right|size=300px
+}}
+
+Shortly after the [[shattering]], [[Honor]] and [[Cultivation]] arrived in the system, but ignored Alaswha, instead focusing on Roshar.{{book ref|sa5|100}} Around two thousand years after the shattering, [[Odium]] arrived on Alaswha and gave power to some of the people there.{{book ref|sa5|107}} The [[Stormfather]] claims that Odium first tricked [[Ishar]] into experimenting with Surges, but it's not clear whether this means that [[Ishar]] first received the power of surges, or was encouraged to use them in some novel way when many people had access to them.{{book ref|sa4|111}}
+
+Some property of the Invested Arts that the Ashynites adopted significantly slowed their rate of growth and senescence. Not all Ashynites experienced this effect, but those that did were able to experience several decades with little to no physical signs of senescence.{{book ref|sa5|46}}{{book ref|sa5|55}}{{book ref|sa5|58}}
+
+[[Honor]] speculated that Odium's actions might have been to build and train an army. An [[Odium's empire|empire]] had been built by [[Rayse]]'s favored, which had conquered multiple city-states in the pretext of defense. It is probable that [[Zoral]], who came to be known as the Voidbringer, led this empire for a period.{{book ref|sa5|107}} A conference had been called, promising a short-term reprieve, inviting delegates across the Central Sea to hear its dictates. In this conference, it gave an ultimatum: all who were willing to join their Union were welcome to do so, making a heavily suspect claim that others would be allowed to go free. [[Jezrien]], a leader of a city state, had joined the empire and adopted its ways.{{book ref|sa5|107}}
+
+[[Honor]] appeared before [[Nale]] and his uncle [[Makibak]], a darker skinned people who were planning to build their own coalition, and said that he would grant them powers to resist their shared enemies, if they so desired.{{book ref|sa5|104}}
+
+=== The Scouring of Ashyn ===
+{{quote
+|1={{small caps|I, God, held the body of a dead child and wept as the sky burned.
+Ash and death. All had become ash and death.}}
+|2=Tanavast, [[Honor]]{{book ref|sa5|107}}
+}}
+Escalation in the conflict, and the use of unbound Surges, ultimately led to a calamity and to the destruction of most of the planet after around nine hundred years of conflict.{{epigraph ref|sa3|115}}{{book ref|sa5|107}}{{au ref|Roshar}} This was at least related to the Surge of Division.{{book ref|sa5|35}} The name of the planet was changed following this to Ashyn, in reference to the burning across the planet.{{book ref|sa5|107}} Firestorms raged across its surface and the very stones melted in rivers of lava. 
+
+The kingdom Honor raised up had fought bravely, but Nale's uncle, Makibak, comments that, in the end, he led only ghosts.{{book ref|sa5|107}} Zoral perished after a time of strife and warfare, and [[Jezrien]] became king. Jezrien was willing to make amends and extended the chance to make a new beginning on a new planet to Makibak and Nale.{{book ref|sa5|107}} 
+
+The civilizations native to Ashyn attempted to flee, with many managing to migrate to Roshar as refugees around seven thousand one hundred years before the [[True Desolation]],{{book ref|row|111}}{{book ref|row|14}}{{book ref|row|82}}{{book ref|sa5|107}} where they were accepted by the local populace.{{epigraph ref|sa3|115}}{{book ref|sa3|116}} They did this using Elsecalling, amplified by Ishar's bondsmith powers.{{wob ref|15860}}{{book ref|sa5|46}} [[Odium]] arrived on Roshar along with them.{{epigraph ref|sa3|117}}{{book ref|sa5|107}} The memory of Ashyn would have a large effect on Rosharan mythology.{{wob ref|10549}}
+
+=== After the Scouring ===
+Despite the devastation, some patches of Ashyn remained hospitable.{{au ref|roshar}} The magic on Ashyn changed after the destruction to become illness-based.{{wob ref|3086}}{{wob ref|11585}}{{wob ref|11304}} This worked off a symbiotic relationship between [[Investiture]] and bacteria/viruses;{{wob ref|14143}} by allowing oneself to get infected, one gains magical effects. Among the surviving areas of Ashyn are the famous floating cities which are held afloat due to a special disease.{{au ref|Roshar}}{{book ref|tsm|2}}{{wob ref|12271}} Some on Ashyn remain aware of Roshar's existence.{{wob ref|11741}}
+
+At some point after the [[True Desolation]], [[Nomad]] arrived on Ashyn during his run from the [[Night Brigade]].{{book ref|tsm|2}}
+
+== Culture ==
+Following the devastation on Ashyn the majority of its population fled to Roshar, the nearest hospitable planet, for refuge. The remainders live on the few habitable pieces of land left on the worlds surface, which includes its famous floating cities.{{au ref|roshar}}{{book ref|tsm|2}}{{wob ref|8243}}
+
+Before the scouring, they kept domestic dogs as pets.{{book ref|sa5|49}}
+
+=== Nations ===
+Ashyn, before its scouring, was dotted with a variety of city-states, similar to those found on [[Yolen]] prior to the Shattering. However, around eight thousand years before the Night of Sorrows, Odium backed one city-state and helped it to expand into a large empire.{{book ref|sa5|104}} 
+
+{{columns|
+* [[Odium's empire]]{{book ref|sa5|104}}
+* Jezrien's city-state{{book ref|sa5|107}}
+* Vedel's city-state{{book ref|sa5|63}}
+* Makibak's coalition
+}}
+
+=== Legacy ===
+The destruction of Ashyn has had a major impact on Rosharan culture being remembered as the [[Tranquiline Halls]] and gaining religious significance in [[Vorinism]].{{wob ref|8496}} Ashyn itself has also remained aware of Roshar's existence however the impact this has had on their culture is unknown.{{wob ref|11741}} Little can be ascertained as to how Ashyn culture functions, however it is known that due to the way Investiture manifests upon the world, disease is an important aspect of it. In particular the floating cities are held afloat by individuals infected with a disease that causes hearing loss making them essential to the cities continued existence.{{wob ref|12271}}
+
+== People ==
+Ashyn is known to have had a large amount of genetic variety, seen in the phenotypic variety observed between the Heralds, many of whom lived on Ashyn before their exodus.{{book ref|sa5|46}}
+
+Various ethnic groups on Ashyn are said to look similar to Rosharan ethnic groups, albeit with some differences that would make them look as if they have mixed ethnic origins to various peoples. For example, Shalash is described as looking like someone of Makabaki and Shin descent.{{book ref|sa4|17}} [[Nale]] and [[Makibak]] were of a darker skinned people that could be mistaken as Rosharan Makabaki people.{{book ref|sa5|104}}{{book ref|sa4|prologue}}{{book ref|sa3|52}} Individuals such as Jezrien are described as looking akin to an Alethi person, albeit with darker than average skin for an Alethi, and with phenotypically atypical facial features for an individual of that ethnic group.{{book ref|sa3|42}}
+
+Despite their comparison to Rosharan ethnic groups, they exhibit various differences, which various individuals describe as being "off" from what is phenotypically typical for said ethnic groups.{{book ref|sa3|42}} Many believe that the Heralds have mixed ethnic origins, upon observing them without knowledge of their background.{{book ref|sa4|17}}
+
+== Magic ==
+
+Ashyn currently has no [[Shard]], but Cultivation, Honor and Odium have all spent some time there.{{wob ref|15171}}{{wob ref|6646}}{{epigraph ref|sa3|117}}{{book ref|sa5|104}} Like most of the Rosharan system, the planet is 10-centric.{{wob ref|2745}}
+
+=== The Surges ===
+
+Before the scouring of Ashyn, Honor and Odium had both granted the people there power over the [[Surges]]. This magic was far more powerful than the powers granted to the [[Singers]] on Roshar at the time.{{epigraph ref|sa3|115}}{{wob ref|9464}}{{wob ref|14434}}{{book ref|sa5|104}} After humans arrived on Roshar, Cultivation, Honor and Odium agreed limitations on the powers that they granted to mortals that would prevent the Surges on Roshar being as dangerous.{{book ref|sa5|113}} Despite its name, however, this may have been a magic system only similar to the surges used on Roshar.{{wob ref|14921}}
+
+=== Current magic ===
+
+The magic of Ashyn is disease-based. As the bacteria and viruses there seek to keep their hosts alive, they provide them with access to supernatural abilities, which differ depending on the disease. The Ashynites harness this by lowering their immune systems and deliberately infecting themselves to gain various powers.{{wob ref|7584}}{{wob ref|1862}}
+
+Very little is known about the specific forms of magic granted by the illnesses, though a few have been described. The most important from the survival standpoint causes hearing loss while allowing its host to manipulate gravity. As such, it's crucial to the functioning of Ashyn's flying cities, which are kept aloft by conclaves of people infected with it.{{wob ref|12271}} Other abilities granted by diseases include flight or passing through walls.{{wob ref|4043}}{{wob ref|9849}} The ability lasts as long as the person is infected by the disease, and disappears when their immune system overcomes it.{{wob ref|9849}} 
+
+Ashyn's magic system was not sickness-based from the start.{{wob ref|11304}} The original magic, which brought about the cataclysm, wasn't exactly like [[Surgebinding]], but shared the same basic principles.{{wob ref|8690}} It might've also been related to Roshar's [[Old Magic]].{{wob ref|12681}} The [[Eila Stele]] mentions humans using the powers of [[spren]] and [[Surge]]s, suggesting that the shift to bacteria and viruses as the focus of Ashynite magic might've happened some time after most people have already evacuated from the planet.{{epigraph ref|sa3|115}}
+
+The symbiotic relationship between the bacteria and their hosts is similar to that of the [[Aviar]]s and the worms that grant them powers from [[First of the Sun]], albeit here the humans interact with the magic-granting microorganisms directly rather than through intermediaries.
+
+== Development ==
+{{unpublished|book=tsd}}
+The earliest reference to Ashyn, though not under that name, can be found in Brandon's blog post from March 10, 2006. Back then, he considered it the sillier of his two ideas for magic disease stories, the more serious of which would involve a doctor combating an illness with various magical effects on its victims.{{wob ref|7584}} The "silly" story would later be developed into ''[[The Silence Divine]]'', though for now, only an early version of the first chapter exists in public (it can be found [[wob:12303|here]]). There, several aspects of Ashyn have been established, though their current canonicity is debatable.
+
+In the story, Ashynites do not have [[fabrial]]s, but appear to have discovered gunpowder, as some are mentioned carrying flintlock pistols. Abilities granted by diseases include prophecy and changing the color of liquids, and are accompanied by sometimes-dangerous side effects, such as physical weakness, hallucinations, and deadly fevers. Occasionally, there are some symptoms left behind after the disease is over, called Echoes, which take some time to fade or don't disappear at all. People who carry the diseases are called '''Incubators'''.{{wob ref|12303}}
+
+== Trivia ==
+* All of the original [[Heralds]] except [[Taln]]{{book ref|sa5|65}} came from Ashyn, and were presumably born there.{{wob ref|13442}}{{wob ref|11945}}
+* Sometime before his arrival on [[Canticle]], [[Nomad]] had visited one of the flying cities on Ashyn.{{book ref|tsm|2}}
+
+== Notes ==
+<references />
+{{partial}}
+{{cosmere}}
+[[category: Ashyn| ]]
+[[es:Ashyn]]

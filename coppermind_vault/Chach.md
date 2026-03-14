@@ -1,4 +1,9 @@
-{{disambig}}<br/>
+---
+source_file: Chach.txt
+entity_type: disambig
+---
+
+<br/>
 
 **Chach** can refer to multiple things:
 * One of the names used for the [[Herald]] [[Chanarach]]

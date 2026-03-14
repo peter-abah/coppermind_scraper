@@ -1,0 +1,44 @@
+{{event
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{update|book=sa3}}
+The '''Heraldic Epochs''' is a period in history of [[Roshar]] that preceded the [[Era of Solitude]].{{book ref|sa1|45}} It's sometimes known as the '''Silver Kingdoms Epoch'''.{{book ref|sa1|19}}
+
+== History ==
+{{image|The_Heralds_-_XVII._The_Star_.png|side=left|width=150px}}
+The Heraldic Epochs began with the conflict between humans and [[Singers]], when the latter decided to ally with [[Odium]].{{book ref|sa3|111}} To combat this, [[Honor]] chose ten [[Herald]]s,  thus forming the [[Oathpact]].{{book ref|sa1|part=prelude}} In short, the Oathpact stated that as long as the Heralds were on [[Braize]], Odium could not start another [[Desolation]]; to combat this, he tortured the Heralds until at least one of them broke. A single such cycle - a period of peace punctuated by a Desolation - was a single Heraldic Epoch. As each time, the Heralds broke faster, the Epochs grew shorter and shorter, with the initial ones separated by over a century, while the very last were only years apart.{{book ref|sa3|38}} In total, there were somewhere between fifteen and fifty Desolations.{{wob ref|10816}} While many chronological details are uncertain, it is known that the [[Worldsinger]] [[Senne Khald]] lived in the Sixth Epoch,{{wob ref|16437}} and that [[Dalinar's visions|Dalinar's vision]] of [[Midnight Essence]] creatures attacking the town of Starfalls takes place in the Eighth.{{book ref|sa3|34}}
+
+Though initially only the Heralds had the access to [[Surgebinding]], eventually the [[spren]] sought to mimic those powers and began bonding humans.{{book ref|sa2|4}} Initially, those new Surgebinders were unorganized and uncoordinated, with some even turning on fellow men.{{book ref|sa1|60}} Sometime during the reign of [[Nohadon]], the Herald [[Ishar]] imposed order on them, leading to the formation of [[Knights Radiant]].{{epigraph ref|sa2|42}} Henceforth, the Knights would battle the [[Desolation]]s alongside the Heralds. 
+
+The city of [[Stormseat]] was destroyed by unknown means during one of the Desolations, leading to the formation of the [[Shattered Plains]].{{epigraph ref|sa2|26}} Sometime after, a legion of [[Singer]]s was sent there for unknown reasons and chose to defect, becoming the [[Listener]]s.{{book ref|sa2|i|4}}
+
+The Heraldic Epochs came to an end with the [[Last Desolation]], or the [[Aharietiam]]. At the end of that Desolation, only the Herald [[Taln]] was dead. The other Heralds decided to leave the Oathpact, theorizing that one of them would be enough to keep it functioning, and abandoned their [[Honorblade]]s, then told mankind that this day marked the final victory over the [[Voidbringer]]s.{{book ref|sa1|part=prelude}} With them vanishing - supposedly to battle in the [[Tranquiline Halls]], while in fact they simply went into hiding - Roshar entered the [[Era of Solitude]].{{book ref|sa1|45}}
+
+== Culture and Politics ==
+{{image|Silver_Kingdoms.jpg|The [[Silver Kingdoms]]|side=right|width=350px}}
+Though the Heraldic Epochs are considered to be Roshar's golden age, in truth they saw a period of significant civillizational decline.{{book ref|sa1|21}}{{book ref|sa1|part=prelude}} Each [[Desolation]] brought with it a vast loss of knowledge and technical know-how, to the point where the Heralds would leave mankind with the knowledge of forging bronze and return to find them in stone age.{{book ref|sa1|part=prelude}} With every return, they had to re-teach mankind a number of important skills.{{book ref|sa2|i|7}} 
+
+It's possible that this was not merely an accident of constant war, but a deliberate effort by Odium, as the [[Unmade]] [[Yelig-Nar]] is mentioned as deliberately targeting wordsmen, the literate people of [[Nohadon]]'s era.{{book ref|sa1|60}} Even the periods between Desolations were fraught with peril, as creatures such as [[Midnight Essence]] were a constant threat.{{book ref|sa1|19}}
+
+Politically, Roshar was divided into ten [[Silver Kingdoms]]. Each Kingdom had its own purpose in the Desolations, and each had its own [[Oathgate]] leading to [[Urithiru]], the seat of the [[Knights Radiant]] and the functional capital of the world at the time. Those kingdoms were built by the Heralds and, at least according to myths, led by them.{{book ref|sa1|45}} However, smaller countries appear to have existed as well, such as [[Eiliz]] and [[Tarma]];{{book ref|sa1|60}} whether they were vassal states to the Silver Kingdoms or independent nations that weren't recorded in history is unclear.
+
+Unlike in modern [[Vorinism]], writing and reading wasn't restricted to women, as words''men'' existed.{{book ref|twok|60}} Conversely, waging war wasn't restricted to men, as there were female Knights Radiant.{{book ref|sa1|19}}
+
+== Legacy ==
+On Roshar, Heraldic Epochs are fondly remembered as the times that Heralds steered the course of the world and men were bound by honor.{{book ref|sa1|21}} Great men of that era, such as [[Nohadon]], are revered even in the present day.{{book ref|sa2|47}}
+
+One of the primary tenets of the [[Vorin]] religion states that at the end of the Heraldic Epochs, the Heralds had pushed the Voidbringers back to the [[Tranquiline Halls]] and were fighting to force them out of there as well. According to Vorinism, there were one hundred [[Desolation]]s, including [[Aharietiam]].{{book ref|twok|45}}
+
+== Notes ==
+{{history
+|title=History of [[Roshar]]
+|prev=[[Expulsion]] to Roshar
+|this=Heraldic Epochs
+|next=[[Era of Solitude]]
+}}
+
+<references />
+{{partial}}
+{{stormlight}}

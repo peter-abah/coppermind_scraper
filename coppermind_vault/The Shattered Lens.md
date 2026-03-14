@@ -1,15 +1,16 @@
-{{book
-|cover=Shattered.jpg
-|released=December 2010 <small>(Scholastic)</small>,<br>July 19, 2016 <small>(Tor)</small>
-|series=[[Alcatraz Versus the Evil Librarians (series)]]
-|prequel={{b|a3}}|sequel={{b|a5}}
-|publisher=Tor books
-|ISBN=978-0-7653-7900-9
-|page-count=291
-|word-count=[[/Statistical_analysis|53,643]]
-}}
+---
+source_file: The Shattered Lens.txt
+entity_type: book
+cover: Shattered.jpg
+released: December 2010 <small>(Scholastic)</small>,<br>July 19, 2016 <small>(Tor)</small>
+series: '[[Alcatraz Versus the Evil Librarians (series)]]'
+publisher: Tor books
+isbn: 978-0-7653-7900-9
+page-count: '291'
+word-count: '[[/Statistical_analysis|53,643]]'
+---
 
-***Alcatraz Versus the Evil Librarians: The Shattered Lens*** is a middle grade novel by [[Brandon Sanderson]]. It is the fourth volume of the five-part series [[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]].{{bws ref|alcatraz-four-release|Alcatraz Four release blog post|date=2010-12-03}} It was originally published by [[Wikipedia:Scholastic_Corporation|Scholastic]] (with the title **Alcatraz Versus The Shattered Lens**) in December, 2010. After Brandon bought back the rights to the series, it was published by [[Wikipedia:Tor_Books|Tor]] and was released on July 19, 2016.
+***Alcatraz Versus the Evil Librarians: The Shattered Lens*** is a middle grade novel by [[Brandon Sanderson]]. It is the fourth volume of the five-part series [[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]. It was originally published by [[Wikipedia:Scholastic_Corporation|Scholastic]] (with the title **Alcatraz Versus The Shattered Lens**) in December, 2010. After Brandon bought back the rights to the series, it was published by [[Wikipedia:Tor_Books|Tor]] and was released on July 19, 2016.
 
 ## Synopsis
 
@@ -20,7 +21,6 @@ If the island of [[Mokia]] falls, so could the rest of the [[Free Kingdoms]]--an
 Armed only with a few pairs of glasses, a small supply of exploding teddy bears, and his incredible [[Smedry Talent|Talent]] for breaking things, Alcatraz is determined to try. All he has to do is defeat an army of giant Librarian robots, a force of regular-sized but extremely evil Librarians, and worst of all: his own mother!
 
 ## Summary
-{{for|The Shattered Lens/Summary|a chapter by chapter summary}}
 
 Alcatraz hears about the [[Librarian]]'s [[Siege of Mokia|siege]] of the city, [[Tuki Tuki]] and wishes aid to be sent to help. However, the [[Council of Kings]] does not wish to get involved there, especially as the king of [[Mokia]], [[Talakimallo]] was taken out of the city to a safer location. To get the [[Crystin|Knights of Crystallia]] to help the people of Mokia, Alcatraz escapes to Mokia as the knights will only go to keep him or other [[House Smedry|Smedrys]] safe.
 
@@ -37,8 +37,6 @@ Questioning his mother again, Alcatraz learns his father's plan is to give Talen
 After commandeering a vessel, Alcatraz rescues Bastille from the Librarians, but the ship is then shot down. Believing he is a failure, Alcatraz engages his Breaking Talent and uses it through a pair of [[Oculator#Bestower's Lenses|Bestower's Lenses]] and Bastille's [[Fleshstone]]. Falling unconscious from the effort, Alcatraz later awakes to find out that he broke all Librarian weapons, saving the day. He also broke all the Smedry Talents at the same time however. Speaking with his mother who was recaptured after previously escaping, Alcatraz decides to go with her to stop his father.
 
 ==Cover Gallery==
-{{image|Shattered Lens full.jpg|side=right|width=300px}}
-{{for|/Covers|the cover gallery of The Shattered Lens}}
 
 ## Trivia
 
@@ -68,7 +66,7 @@ For the chapter numbers in Alcatraz Versus the Shattered Lens, Brandon Sanderson
 ; ∞ + 1 : Infinity plus 1 is still infinity.
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Alcatraz Versus the Shattered Lens* consists of one foreword, twenty-one chapters and one afterword, reaching a total 53,643 word count.
 
 {|class="wikitable"
@@ -89,9 +87,7 @@ For the chapter numbers in Alcatraz Versus the Shattered Lens, Brandon Sanderson
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Alcatraz}}
-{{books}}
+
 [[category: Alcatraz| 4]]
 [[category: list articles]]
 [[category: list articles]]

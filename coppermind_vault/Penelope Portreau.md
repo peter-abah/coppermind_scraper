@@ -1,15 +1,15 @@
 ---
-profession: "Actor"
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 2"
+source_file: Penelope Portreau.txt
+entity_type: character
+profession: Actor
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-**Penelope Portreau** is an actor on [[Scadrial]].{{file ref|New Ascendancy broadsheet.jpg|*The New Ascendancy* broadsheet}}
+**Penelope Portreau** is an actor on [[Scadrial]].
 
-In the month of Cladence through the end of the following month of {{date|342|PC}}, she starred in a performance of *[[The Den of the Survivor]]*, a play about the overthrow of the [[Final Empire]], at the [[Uptown Trio Theater]] in [[New Seran]]. She preformed along with her co-star, [[Javier DaLeuc]], and they were both mentioned in an advertisement in *[[The New Ascendancy]]* for the performance.{{file ref|New Ascendancy broadsheet.jpg|*The New Ascendancy* broadsheet}} By the year {{date|348|PC}}, she and [[Trevva Cett-Venture]] were performing daily re-enactments of [[Waxillium Ladrian]]'s discovery of the [[Bands of Mourning]] at the [[Sovereign's temple]] for [[Basin Bill]]'s tours to the area and were mentioned in his advertisement in *[[The Two Seasons]]*.{{file ref|The_Two_Seasons_broadsheet.jpg|*The Two Seasons* broadsheet}}
+In the month of Cladence through the end of the following month of , she starred in a performance of *[[The Den of the Survivor]]*, a play about the overthrow of the [[Final Empire]], at the [[Uptown Trio Theater]] in [[New Seran]]. She preformed along with her co-star, [[Javier DaLeuc]], and they were both mentioned in an advertisement in *[[The New Ascendancy]]* for the performance. By the year , she and [[Trevva Cett-Venture]] were performing daily re-enactments of [[Waxillium Ladrian]]'s discovery of the [[Bands of Mourning]] at the [[Sovereign's temple]] for [[Basin Bill]]'s tours to the area and were mentioned in his advertisement in *[[The Two Seasons]]*.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 21:35, 7 June 2023 (UTC)}}
-{{Mistborn|era 2}}

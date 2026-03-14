@@ -1,12 +1,15 @@
-{{group
-|hq=[[Trustwarren]]
-|founders=The [[Lord Ruler]]
-|type=Council
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 1]]
-}}
-The **First Generation** or **Firsts** were the first generation of [[kandra]]. They were made up of [[Rashek]]'s friends; [[Alendi]]'s ten{{book ref|mb3|68}} packmen. They were all [[Feruchemist]]s. 
+---
+source_file: First Generation.txt
+entity_type: group
+hq: '[[Trustwarren]]'
+founders: The [[Lord Ruler]]
+type: Council
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
+---
+
+The **First Generation** or **Firsts** were the first generation of [[kandra]]. They were made up of [[Rashek]]'s friends; [[Alendi]]'s ten packmen. They were all [[Feruchemist]]s. 
 
 ## Appearance and Abilities
 The First Generation appear differently from most kandra. Their skin, rather then being transparent or opaque, was a semi-transparent greenish color. It is unknown whether this is an effect of the First Generation's age or the fact that they were once human, whereas the other kandra were born mistwraiths. Their muscles also seem to droop off their bones.
@@ -18,7 +21,7 @@ When Rashek took [[Preservation]]'s power at the [[Well of Ascension]], he reali
 
 These kandra began to try to fit into human societies. However, people were terrified of them and many kandra were killed, or became slaves to the Allomancers who [[Brass|Soothed]] or [[Zinc|Rioted]] them. They were also afraid of creating a government independent of the Lord Ruler. As a result, the First Generation developed the [[First Contract]], the laws of the kandra.
 
-The First Generation also raised the Second Generation of kandra. Once they had matured, the Firsts stopped taking such an active role in the ruling of the Homeland, allowing the Seconds to control the raising of new generations{{book ref|mb3|9}} and the day-to-day ruling over the kandra.
+The First Generation also raised the Second Generation of kandra. Once they had matured, the Firsts stopped taking such an active role in the ruling of the Homeland, allowing the Seconds to control the raising of new generations and the day-to-day ruling over the kandra.
 
 When [[Sazed]] went to the Homeland to speak to the kandra, the Firsts taught him of the [[Terris]] religion and Ruin and Preservation. A coup was arranged by the Seconds and the Firsts were imprisoned. Sazed managed to rescue them, and the Firsts regained control. When the [[Resolution]] was at hand, the Firsts instructed the other kandra to remove their [[Blessing]]s. After the [[Final Ascension]], the kandra had their spikes returned to them, and the Firsts presumably continued leading.
 
@@ -27,6 +30,5 @@ When [[Sazed]] went to the Homeland to speak to the kandra, the Firsts taught hi
 
 ## Notes
 <references />
-{{partial}}
-{{Mistborn|Era 1}}
+
 [[es:Primera Generación]]

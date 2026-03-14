@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Wyrn.txt
+entity_type: disambig
+---
 
 **Wyrn** is a term used in [[Fjorden]] on Sel. It can refer to:
 *[[Wyrn (title)]], the title used by rulers of Fjorden

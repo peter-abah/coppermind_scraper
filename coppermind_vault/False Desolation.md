@@ -1,77 +1,66 @@
-{{event
-|participants=[[Knights Radiant]], [[Singer]]s, [[Ba-Ado-Mishram]]
-|effects=Enslavement of singers, Ba-Ado-Mishram's imprisonment
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{update|sa4|sa5}}
-{{quote
-| A legend. Considered pseudohistorical. Dovcanti wrote an epic about it somewhere around fifteen hundred years ago. The claim is that some Voidbringers survived Aharietiam, and there were many clashes with them afterward. It's considered unreliable, but that’s because many later [[ardent]]s insist that no Voidbringers could have survived. I'm inclined to assume this is a clash with parshmen before they were somehow deprived of their ability to change forms.
-| Jasnah Kholin on the False Desolation.{{book ref|sa3|56}}
-}}
+---
+source_file: False Desolation.txt
+entity_type: event
+participants: '[[Knights Radiant]], [[Singer]]s, [[Ba-Ado-Mishram]]'
+effects: Enslavement of singers, Ba-Ado-Mishram's imprisonment
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-The **False Desolation**, considered pseudohistorical by the [[Vorin]] church, was a conflict between [[singers]] and humans sometime during the millenia after the [[Last Desolation]].{{book ref|sa3|56}} It is likely the conflict in which the [[Knights Radiant]] were fighting at the time of the [[Recreance]], according to [[Jasnah Kholin]].{{book ref|sa3|56}} It resulted in the enslavement of singers as [[parshmen]].{{book ref|sa3|17}}
+> A legend. Considered pseudohistorical. Dovcanti wrote an epic about it somewhere around fifteen hundred years ago. The claim is that some Voidbringers survived Aharietiam, and there were many clashes with them afterward. It's considered unreliable, but that’s because many later [[ardent]]s insist that no Voidbringers could have survived. I'm inclined to assume this is a clash with parshmen before they were somehow deprived of their ability to change forms.
+> — Jasnah Kholin on the False Desolation.
+
+The **False Desolation**, considered pseudohistorical by the [[Vorin]] church, was a conflict between [[singers]] and humans sometime during the millenia after the [[Last Desolation]]. It is likely the conflict in which the [[Knights Radiant]] were fighting at the time of the [[Recreance]], according to [[Jasnah Kholin]]. It resulted in the enslavement of singers as [[parshmen]].
 
 ## Background
-{{quote
-| Something must be done about the remnants of Odium's forces. The parsh, as they are now called, continue their war with zeal, even without their masters from Damnation.
-| Drawer 30-20, first emerald{{epigraph ref|sa3|77}}
-}}
 
-The precise date of the False Desolation’s onset is unclear, but when [[Dalinar Kholin]] showed Jasnah and [[Navani Kholin]] a vision of the [[Recreance]], Jasnah postulated the Radiants were fighting in the legendary False Desolation.{{book ref|sa3|56}} If correct, the False Desolation occurred around the same time as the Recreance--about 2,000 years prior to the present day, or 2,500 years after [[Aharietiam]], the Last Desolation.
+> Something must be done about the remnants of Odium's forces. The parsh, as they are now called, continue their war with zeal, even without their masters from Damnation.
+> — Drawer 30-20, first emerald
+
+The precise date of the False Desolation’s onset is unclear, but when [[Dalinar Kholin]] showed Jasnah and [[Navani Kholin]] a vision of the [[Recreance]], Jasnah postulated the Radiants were fighting in the legendary False Desolation. If correct, the False Desolation occurred around the same time as the Recreance--about 2,000 years prior to the present day, or 2,500 years after [[Aharietiam]], the Last Desolation.
 
 ## Ba-Ado-Mishram and a New Desolation
-{{quote
-| Ba-Ado-Mishram has somehow Connected with the parsh people, as [[Odium]] once did. She provides Voidlight and facilitates forms of power. Our strike team is going to imprison her.
-| Drawer 30-20, fourth emerald{{epigraph ref|sa3|80}}
-}}
-Previous [[Desolation]]s began with the [[Herald]]s giving in to the torture in [[Damnation]] and Returning to Roshar, after which the [[Fused]] -- leaders of the [[Voidbringer]]s -- Returned as well, entering bodies of the singers.{{book ref|sa3|38}} However, the False Desolation occurred well after the Last Desolation, when the Heralds abandoned the [[Oathpact]], and thus there were no Fused during this "Desolation." It's unclear how fighting between humans and singers progressed in the period following the Last Desolation, but it is likely the two species warred.
 
-The False Desolation commenced in earnest when [[Ba-Ado-Mishram]], one of the nine [[Unmade]] who was sometimes referred to as a "highprincess" or commander of the Voidbringers,{{epigraph ref|sa3|106}} [[Connection|Connected]] with the singers in a manner similar to that of Odium during the Desolations.{{epigraph ref|sa3|80}} This allowed Ba-Ado-Mishram to provide [[Regal|forms of power]] to the singers, as well as access to [[Voidlight]]. It is unclear how Ba-Ado-Mishram performed this feat, or why she could not do so sometime prior to the False Desolation. The Radiants were confused as to Ba-Ado-Mishram's new Connection with the singers,{{epigraph ref|sa3|80}} which might suggest this was a new development in her abilities, and not a feat she could previously perform. It also seems that she managed to Connect with the vast majority of singers -- all except those who would become the [[listener]]s. 
+> Ba-Ado-Mishram has somehow Connected with the parsh people, as [[Odium]] once did. She provides Voidlight and facilitates forms of power. Our strike team is going to imprison her.
+> — Drawer 30-20, fourth emerald
 
-This period of fighting became particularly intense at that time.{{epigraph ref|sa2|41}} At some point, the singers pressed towards [[Feverstone Keep]], though the Radiants did not understand why the area interested the singers so much. Some speculated that it had been part of a plan to capture [[Rall Elorim]].{{epigraph ref|sa3|84}}
+Previous [[Desolation]]s began with the [[Herald]]s giving in to the torture in [[Damnation]] and Returning to Roshar, after which the [[Fused]] -- leaders of the [[Voidbringer]]s -- Returned as well, entering bodies of the singers. However, the False Desolation occurred well after the Last Desolation, when the Heralds abandoned the [[Oathpact]], and thus there were no Fused during this "Desolation." It's unclear how fighting between humans and singers progressed in the period following the Last Desolation, but it is likely the two species warred.
+
+The False Desolation commenced in earnest when [[Ba-Ado-Mishram]], one of the nine [[Unmade]] who was sometimes referred to as a "highprincess" or commander of the Voidbringers, [[Connection|Connected]] with the singers in a manner similar to that of Odium during the Desolations. This allowed Ba-Ado-Mishram to provide [[Regal|forms of power]] to the singers, as well as access to [[Voidlight]]. It is unclear how Ba-Ado-Mishram performed this feat, or why she could not do so sometime prior to the False Desolation. The Radiants were confused as to Ba-Ado-Mishram's new Connection with the singers, which might suggest this was a new development in her abilities, and not a feat she could previously perform. It also seems that she managed to Connect with the vast majority of singers -- all except those who would become the [[listener]]s. 
+
+This period of fighting became particularly intense at that time. At some point, the singers pressed towards [[Feverstone Keep]], though the Radiants did not understand why the area interested the singers so much. Some speculated that it had been part of a plan to capture [[Rall Elorim]].
 
 ==The Strike Team==
-{{sidequote
-| So Melishi retired to his tent, and resolved to destroy the Voidbringers upon the next day, but that night did present a different stratagem, related to the unique abilities of the Bondsmiths; and being hurried, he could make no specific account of his process; it was related to the very nature of the Heralds and their divine duties, an attribute the Bondsmiths alone could address.
-| *[[Words_of_Radiance_(in-world)|Words of Radiance]]* chapter 30, page 18{{epigraph ref|sa2|58}}
-|side=right|size=500px|
-}}
 
-The Radiants eventually sought an edge in the conflict. Scholar Radiants teamed up to conceive a plan to stop the Voidbringers.{{epigraph ref|sa3|78}} They theorized that an Unmade could, perhaps, be imprisoned like a regular spren.{{epigraph ref|sa3|79}} (It is unclear if this happened before or after [[Re-Shephir]]'s imprisonment in Urithiru by a Lightweaver.{{book ref|sa3|30}}) The Radiants devised a plan: they would imprison Ba-Ado-Mishram--stopping the singers' transformations and removing their access to Voidlight.{{epigraph ref|sa3|78}}
+> So Melishi retired to his tent, and resolved to destroy the Voidbringers upon the next day, but that night did present a different stratagem, related to the unique abilities of the Bondsmiths; and being hurried, he could make no specific account of his process; it was related to the very nature of the Heralds and their divine duties, an attribute the Bondsmiths alone could address.
+> — *[[Words_of_Radiance_(in-world)|Words of Radiance]]* chapter 30, page 18
 
-The plan required a special prison--likely a [[perfect gemstone]]--as well as [[Melishi]],{{epigraph ref|sa3|79}} the only [[Bondsmith]] of his generation.{{epigraph ref|sa2|58}}{{epigraph ref|sa3|67}} The Radiants did not know what exactly Ba-Ado-Mishram's imprisonment would do to the singers. They were certain that it would prevent them from using forms of power, but they didn't know what else could happen. Melishi sought to destroy the Voidbringers{{epigraph ref|sa2|58}} and was confident the plan would succeed, but [[Naze-daughter-Kuzodo]] warned of unexpected aftereffects.{{epigraph ref|sa3|81}} The Radiants believed this would end the war the Heralds promised them and proceeded with the plan.{{epigraph ref|sa3|82}} It is clear the strike team succeeded in imprisoning Ba-Ado-Mishram, as she was no longer seen in the modern day, unlike most of the other eight Unmade.{{epigraph ref|sa3|107}}
+The Radiants eventually sought an edge in the conflict. Scholar Radiants teamed up to conceive a plan to stop the Voidbringers. They theorized that an Unmade could, perhaps, be imprisoned like a regular spren. (It is unclear if this happened before or after [[Re-Shephir]]'s imprisonment in Urithiru by a Lightweaver.) The Radiants devised a plan: they would imprison Ba-Ado-Mishram--stopping the singers' transformations and removing their access to Voidlight.
+
+The plan required a special prison--likely a [[perfect gemstone]]--as well as [[Melishi]], the only [[Bondsmith]] of his generation. The Radiants did not know what exactly Ba-Ado-Mishram's imprisonment would do to the singers. They were certain that it would prevent them from using forms of power, but they didn't know what else could happen. Melishi sought to destroy the Voidbringers and was confident the plan would succeed, but [[Naze-daughter-Kuzodo]] warned of unexpected aftereffects. The Radiants believed this would end the war the Heralds promised them and proceeded with the plan. It is clear the strike team succeeded in imprisoning Ba-Ado-Mishram, as she was no longer seen in the modern day, unlike most of the other eight Unmade.
 
 ## Aftermath and Legacy
-{{for|Day of Recreance}}
-{{quote
-|We are uncertain the effects this will have on the parsh. At the very least, it should deny them forms of power. Melishi is confident, but Naze-daughter-Kuzodo warns of unintended side effects.
-|Drawer 30-20, fifth emerald{{epigraph ref|sa3|81}}
-}}
-The costs to Ba-Ado-Mishram's imprisonment were higher than any Radiant could have expected. There were indeed side effects to their action, as [[Naze-daughter-Kuzodo]] warned. Since Ba-Ado-Mishram was Connected to the vast majority of singers, her imprisonment ripped out Connection and Identity from the singers' souls.{{book ref|sa3|17}} This meant that these singers were essentially lobotomized--unable to think or act independently. These singers had no form and would later be termed as "slaveforms." 
 
-Fighting occurred near Feverstone Keep, and since that is the site of many Windrunners and Stonewards abandoning their oaths,{{book ref|sa2|52}}{{book ref|sa3|56}} it is possible that this sequence of events precipitated the Recreance. It may have been the final thing that made the Radiants feel they were on the wrong side. The Recreance certainly happened at the same time or directly after Ba-Ado-Mishram's imprisonment, which by itself caused massive chaos in human societies. [[Shardblade]]s were picked up at will, without the safeguards of the [[Nahel bond]] to prevent such utter destruction.
+> We are uncertain the effects this will have on the parsh. At the very least, it should deny them forms of power. Melishi is confident, but Naze-daughter-Kuzodo warns of unintended side effects.
+> — Drawer 30-20, fifth emerald
+
+The costs to Ba-Ado-Mishram's imprisonment were higher than any Radiant could have expected. There were indeed side effects to their action, as [[Naze-daughter-Kuzodo]] warned. Since Ba-Ado-Mishram was Connected to the vast majority of singers, her imprisonment ripped out Connection and Identity from the singers' souls. This meant that these singers were essentially lobotomized--unable to think or act independently. These singers had no form and would later be termed as "slaveforms." 
+
+Fighting occurred near Feverstone Keep, and since that is the site of many Windrunners and Stonewards abandoning their oaths, it is possible that this sequence of events precipitated the Recreance. It may have been the final thing that made the Radiants feel they were on the wrong side. The Recreance certainly happened at the same time or directly after Ba-Ado-Mishram's imprisonment, which by itself caused massive chaos in human societies. [[Shardblade]]s were picked up at will, without the safeguards of the [[Nahel bond]] to prevent such utter destruction.
 
 Because of this massive chaos, ordinary humans likely had no idea of the true reason for the singers' enslavement. This event, as well as the singers being considered "Voidbringers" and "the enemy" in the eyes of the Radiants, faded into obscurity, and humans considered the parsh to have always been these creatures who could not think. The singers served as slave labor for humans over the next two thousand years.
 
 When the singers were later healed in the [[Everstorm]], they were furious at humanity for this act of enslavement. For the common singer, this became a rallying cry that made them fight against humanity in the [[True Desolation]].
 
-In modern times, the False Desolation is considered pseudohistorical by the Vorin church, which asserts that no Voidbringers could have survived Aharietiam. [[Dovcanti]]'s epic about the False Desolation, written approximately five hundred years afterward, is the primary surviving source on these events, and few details of the concept are known to any besides scholars such as [[Jasnah Kholin]].{{book ref|sa3|56}}
+In modern times, the False Desolation is considered pseudohistorical by the Vorin church, which asserts that no Voidbringers could have survived Aharietiam. [[Dovcanti]]'s epic about the False Desolation, written approximately five hundred years afterward, is the primary surviving source on these events, and few details of the concept are known to any besides scholars such as [[Jasnah Kholin]].
 
 ## See Also
 * [[Day of Recreance]]
 * [[Ba-Ado-Mishram]]
 
 ## Notes
-{{history
-|title=History of [[Roshar]]
-|prev=[[Aharietiam]]
-|this=The False Desolation
-|next=The [[Day of Recreance]]
-}}
+
 <references />
-{{partial}}
-{{demoted|sa4}}
-{{stormlight}}
+
 [[es:Falsa Desolación]]

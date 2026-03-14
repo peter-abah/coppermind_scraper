@@ -1,3 +1,8 @@
+---
+source_file: Ghajan Monastery.txt
+entity_type: article
+---
+
 #REDIRECT [[Shu-Dereth#Monasteries]]
 
 [[Category: Elantris]]

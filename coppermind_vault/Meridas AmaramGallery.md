@@ -1,3 +1,8 @@
+---
+source_file: Meridas AmaramGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Servant of Odium by Petar Penev.jpg | <center><small>by {{a|Petar Penev}}</small></center> Bonded with [[Yelig-nar]], *[[Call to Adventure: The Stormlight Archive]]* art

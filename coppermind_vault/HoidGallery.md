@@ -1,3 +1,8 @@
+---
+source_file: HoidGallery.txt
+entity_type: article
+---
+
 ==Official artwork==
 <gallery mode="packed" heights=200px name="Official Artwork">
 First Glimpse of the God King by Howard Lyon.jpg|<center><small>by {{a|Howard Lyon}}</small></center>*First Glimpse of the God King*</br>*[[Warbreaker]]* leatherbound interior art (on far right)

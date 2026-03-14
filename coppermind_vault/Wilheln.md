@@ -1,15 +1,15 @@
 ---
-ethnicity: "Darksider"
-world: "Taldain"
-universe: "Cosmere"
-books: "White Sand"
+source_file: Wilheln.txt
+entity_type: character
+ethnicity: Darksider
+world: Taldain
+universe: '[[Cosmere]]'
+books: '[[White Sand]]'
 ---
 
-**Wilheln** is a linguist and assistant to [[Gevalden]].{{book ref|ws|prologue|review=yes}}{{book ref|ws|5|review=yes}}
+**Wilheln** is a linguist and assistant to [[Gevalden]].
 
 ## Notes
 <references />
-{{stub}}
-{{White Sand}}
-{{cosmere}}
+
 [[Category: Taldaini]]

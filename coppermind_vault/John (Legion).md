@@ -1,17 +1,15 @@
 ---
-name: "John"
-profession: "Secretary"
-earth: "Legion"
-introduced: "Legion: Skin Deep"
+source_file: John (Legion).txt
+entity_type: character
+name: John
+profession: Secretary
+earth: Legion
+introduced: '[[Legion: Skin Deep]]'
 ---
 
-{{for|John (Rithmatist)|the Rithmatics student}}
+**John** is [[Liza]]'s secretary.
 
-**John** is [[Liza]]'s secretary.{{book ref|legion2|12}}
-
-He greeted [[Stephen Leeds]] very reluctantly when Stephen came to visit Liza about the body of [[Panos Maheras]] and expressed Liza's unhappiness with his visit. [[Tobias]] reminded Stephen of John's name.{{book ref|legion2|12}}
+He greeted [[Stephen Leeds]] very reluctantly when Stephen came to visit Liza about the body of [[Panos Maheras]] and expressed Liza's unhappiness with his visit. [[Tobias]] reminded Stephen of John's name.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 22:41, 15 June 2023 (UTC)}}
-{{legion}}

@@ -1,3 +1,8 @@
+---
+source_file: Always Another Secret.txt
+entity_type: article
+---
+
 #redirect[[Mistborn_Adventure_Game#Book 3: Always Another Secret]]
 [[Category: subsection redirects]]
 [[Category: Mistborn|#mag-r1.3]]

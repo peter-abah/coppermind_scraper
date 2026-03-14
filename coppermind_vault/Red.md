@@ -1,4 +1,7 @@
-{{Template:Disambig}}
+---
+source_file: Red.txt
+entity_type: template:disambig
+---
 
 The name **Red** can refer to four distinct people:
 *[[Red (Roshar)|Red]] - A former [[Alethi]] deserter who has become one of [[Shallan Davar]]'s soldiers

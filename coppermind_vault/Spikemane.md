@@ -1,14 +1,15 @@
-{{lifeform
-|native=[[Purelake]]
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-The **spikemane** is an organism that lives in the [[Purelake]] on [[Roshar]].{{book ref|sa1|i|1}} 
+---
+source_file: Spikemane.txt
+entity_type: lifeform
+native: '[[Purelake]]'
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-Spikemanes live on the lake bottom, and are sharp and uncomfortable to step on.{{book ref|sa1|i|1}} 
+The **spikemane** is an organism that lives in the [[Purelake]] on [[Roshar]]. 
+
+Spikemanes live on the lake bottom, and are sharp and uncomfortable to step on. 
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 02:33, 3 July 2016 (MST)}}
-{{Stormlight}}

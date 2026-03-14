@@ -1,0 +1,6 @@
+#REDIRECT [[Surgebinding#Division]]
+[[category: Subsection redirects]]
+[[Category: Stormlight Archive]]
+[[Category: Cosmere]]
+[[category: Magic]]
+[[category: Surgebinding]]

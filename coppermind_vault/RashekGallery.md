@@ -1,3 +1,8 @@
+---
+source_file: RashekGallery.txt
+entity_type: article
+---
+
 ==Official artwork==
 <gallery mode="packed" heights=300px>
 TFE CN 2nd cover.jpg|<small><center>by {{a|Jian Guo}}</center></small>On the cover for the second Mainland China release of *[[Mistborn: The Final Empire]]*

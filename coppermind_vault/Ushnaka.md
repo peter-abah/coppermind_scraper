@@ -1,17 +1,17 @@
 ---
-groups: "{{tag|Heritage Faction"
+source_file: Ushnaka.txt
+entity_type: character
+groups: Heritage Faction
+world: Sel
+universe: '[[Cosmere]]'
+introduced: '[[The Emperor''s Soul]]'
 ---
 
-|world=Sel
-|universe=[[Cosmere]]
-|introduced=[[The Emperor's Soul]]
-}}
-**Ushnaka** is an [[arbiter]] of the [[Heritage Faction]] of the [[Rose Empire]] on [[Sel]].{{tes ref|101}}
+**Ushnaka** is an [[arbiter]] of the [[Heritage Faction]] of the [[Rose Empire]] on [[Sel]].
 
-He is a member of the council of five arbiters involved in the plot to have [[Wan ShaiLu|Shai]] restore the [[Ashravan|Emperor Ashravan's]] soul through [[Forgery]].{{tes ref|prologue}}
+He is a member of the council of five arbiters involved in the plot to have [[Wan ShaiLu|Shai]] restore the [[Ashravan|Emperor Ashravan's]] soul through [[Forgery]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 09:46, 16 June 2018 (MST)}}
-{{The Emperor's Soul}}
+
 [[es:Ushnaka]]

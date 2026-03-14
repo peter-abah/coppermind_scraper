@@ -1,0 +1,15 @@
+{{character
+|nation=Unkalaki
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+{{quote
+|Oh, Kali'kalin's ghost.
+|[[Lunamor]]{{book ref|SA1|55}}
+}}
+'''Kali'kalin''' is an [[Unkalaki]] person or deity on [[Roshar]]. The Horneaters believe that he has a ghost. The Unkalaki sometimes curse with the name of this ghost, simply referring to it as Kali'kalin's ghost.{{book ref|SA1|55}} This is likely associated with a similar Horneater expression, Kali'kalin'da.{{book ref|sa3|37}}
+
+== Notes ==
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 20:30, 14 May 2024 (UTC)}}
+{{Stormlight}}

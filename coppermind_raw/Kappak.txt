@@ -1,0 +1,13 @@
+{{character
+|#profession=Soldier
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Wind and Truth]]
+}}
+'''Kappak''' is an [[Alethi]] soldier on [[Roshar]]. He used to be one of [[Adolin Kholin]]’s friends, before he went into retirement after [[War of Reckoning|five years of fighting]] on the [[Shattered Plains]]. He has short hair that has a tendency to stick up. He came out of retirement after hearing that Adolin needed soldiers to defend [[Azimir]]. He was given command of a battalion, about six hundred men, during the [[Battle of Azimir]].{{book ref|sa5|39}}
+
+== Notes ==
+<references />
+{{complete}}
+{{stormlight}}

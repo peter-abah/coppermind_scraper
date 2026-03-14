@@ -1,3 +1,8 @@
+---
+source_file: AtiGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Ruin_and_Preservation_Cards_Cropped.png| <small><center>by {{a|Jackson Robinson}}</center></small>[[Preservation]] on Cards from the Kings Wild Project Mistborn Deck

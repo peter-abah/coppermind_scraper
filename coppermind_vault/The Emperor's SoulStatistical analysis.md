@@ -1,3 +1,8 @@
+---
+source_file: The Emperor's SoulStatistical analysis.txt
+entity_type: the emperor's soul
+---
+
 This page contains a statistical analysis of ***[[The Emperor's Soul]]***.
 
 Information used for this page is located [https://docs.google.com/spreadsheets/d/1NQHYpq4ZiDe-9jiaEwjE6WXNh_q4Z-EY_xmoEmOSNHg/edit#gid=1254206552 here].
@@ -134,7 +139,5 @@ Information used for this page is located [https://docs.google.com/spreadsheets/
 
 |}
 
-{{The Emperor's Soul}}
-{{meta/done}}
 [[Category: The Emperor's Soul|*]]
 [[category: statistics]]

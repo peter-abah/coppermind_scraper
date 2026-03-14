@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Yomen.txt
+entity_type: disambig
+---
 
 **Yomen** might refer to:
 * [[Aradan Yomen]] - Obligator turned king of [[Fadrex City]].

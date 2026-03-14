@@ -1,12 +1,13 @@
 ---
-spouse: "Leland Libel|Leland|children=Herman Libel|Herman"
-earth: "Rithmatist"
-books: "The Rithmatist"
+source_file: Margaret Libel.txt
+entity_type: character
+spouse: '[[Leland Libel|Leland]]'
+children: '[[Herman Libel|Herman]]'
+earth: Rithmatist
+books: '[[The Rithmatist]]'
 ---
 
-**Margaret Libel** is the mother of [[Herman Libel]].{{book ref|Rithmatist|10}}
+**Margaret Libel** is the mother of [[Herman Libel]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:40, 17 September 2018 (MST)}}
-{{Rithmatist}}

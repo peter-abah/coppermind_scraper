@@ -1,0 +1,2 @@
+#REDIRECT [[Kandra]]
+[[category: aliases]]

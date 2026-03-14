@@ -1,11 +1,14 @@
-{{architecture
-|usage={{cat tag|Academic institutions|Academy}} of {{tag|Rithmatics}}
-|earth=Rithmatist|nation=United Isles of America|state=California Archipelago
-|books=[[The Rithmatist]]
-}}
-**Valendar Academy** was one of the eight schools that teach [[Rithmatics]]. It was located in the [[California Archipelago]].{{book ref|Rithmatist|18}}{{map ref|united isles|the United Isles}}
+---
+source_file: Valendar Academy.txt
+entity_type: architecture
+usage: of Rithmatics
+earth: Rithmatist
+nation: United Isles of America
+state: California Archipelago
+books: '[[The Rithmatist]]'
+---
+
+**Valendar Academy** was one of the eight schools that teach [[Rithmatics]]. It was located in the [[California Archipelago]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:06, 17 September 2018 (MST)}}
-{{Rithmatist}}

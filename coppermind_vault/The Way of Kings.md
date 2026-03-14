@@ -1,15 +1,18 @@
-{{book
-|cover=TheWayOfKings.png
-|series=[[The Stormlight Archive]]
-|sequel=Words of Radiance
-|setting=[[Roshar]], [[Cosmere]]
-|publisher=Tor Books
-|released=August 31, 2010
-|ISBN=978-0-7653-2635-5
-|page-count=1,008
-|word-count=[[/Statistical_analysis|384,265]]
-}}{{for|The Way of Kings (in-world)|the in-universe text|pre=This article is about [[Brandon Sanderson]]'s novel}}
-***The Way of Kings*** is an epic fantasy novel by [[Brandon Sanderson]]. It is the first volume in a planned ten volume series called [[The Stormlight Archive]].{{tor ref|lemgthe-way-of-kingslemg-an-introduction|Announcement post|date=2010-06-10}} {{a|Michael Whelan}} created the cover for the US edition.{{tor ref|micahel-whelans-cover-for-brandon-sanders-the-way-of-kings|Michael Whelan's cover|date=2010-03-01}} The cover of the international edition was created by Sam Green.{{bws ref|the-way-of-kings-art-gallery|Author's official site|date=N/A}}
+---
+source_file: The Way of Kings.txt
+entity_type: book
+cover: TheWayOfKings.png
+series: '[[The Stormlight Archive]]'
+sequel: Words of Radiance
+setting: '[[Roshar]], [[Cosmere]]'
+publisher: Tor Books
+released: August 31, 2010
+isbn: 978-0-7653-2635-5
+page-count: 1,008
+word-count: '[[/Statistical_analysis|384,265]]'
+---
+
+***The Way of Kings*** is an epic fantasy novel by [[Brandon Sanderson]]. It is the first volume in a planned ten volume series called [[The Stormlight Archive]].  created the cover for the US edition. The cover of the international edition was created by Sam Green.
 
 It has three main characters and several minor characters, many of whom are explored through Interludes.
 
@@ -30,7 +33,7 @@ The Way of Kings also has a series of [[/Epigraphs|Epigraphs]], which give hints
 
 *One of them may redeem us.*
 
-*And one of them will destroy us.*{{bws ref|the-stormlight-archive-series#THEWAYOFKINGS}}
+*And one of them will destroy us.*
 
 ## Cover Flap
 Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass retracts into the soilless ground. Cities are built only where the topography offers shelter.
@@ -44,8 +47,6 @@ Brightlord Dalinar Kholin commands one of those other armies. Like his brother, 
 Across the ocean, an untried young woman named Shallan seeks to train under the eminent scholar and notorious heretic Jasnah Kholin, Dalinar's niece. Though she genuinely loves learning, Shallan's motives are less than pure. As she plans a daring theft, her research for Jasnah hints at secrets of the Knights Radiant and the true cause of the war.
 
 ## Summary
-{{for|/Summary|a chapter by chapter summary}}
-{{for|/Chapter index|an index of chapter breaks in various editions}}
 
 The book is set on [[Roshar]] and follows the stories of [[Kaladin]], [[Dalinar Kholin]], and [[Shallan Davar]]. There are also several minor characters who receive viewpoints; [[Szeth]], [[Adolin Kholin]], [[Wit]], and [[Navani Kholin]] in the main text, and several others in the Interludes.
 
@@ -74,10 +75,8 @@ Roshar has several magic systems. Most of these are used by the [[Knights Radian
 The [[Ten Essences]] have not been elaborated on much in the book, though they have something to do with Soulcasting.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of The Way of Kings}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## Translations
 {| class="infobox sortable" style="width:50%;" align=center
@@ -153,7 +152,7 @@ The [[Ten Essences]] have not been elaborated on much in the book, though they h
 * [[The Way of Kings/Interior art]]
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *The Way of Kings* consists of one prelude, one prologue, seventy-five chapters, ten of which are reserved for flashbacks of the focus character of the book, nine interludes and one epilogue, reaching a total 384,265 word count. There are seventeen different unique point-of-view characters in a total of 123 POVs, although twelve of these characters occupy a much shorter portion of the book than the other five.
 
 {|class="wikitable"
@@ -181,9 +180,7 @@ The [[Ten Essences]] have not been elaborated on much in the book, though they h
 
 ## Notes
 <references/>
-{{meta/partial}}
-{{Stormlight}}
-{{books}}
+
 [[category: Stormlight Archive| 1]]
 [[category: list articles]]
 [[uk:Шлях королів]]

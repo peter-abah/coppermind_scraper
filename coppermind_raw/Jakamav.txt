@@ -1,0 +1,48 @@
+{{character
+|image=Jakamav hammer.jpg
+|groups={{tag+|army|Roion}}
+|abilities={{tag+|Shardbearer}} <small>(formerly)</small>
+|residence=Alethi warcamps
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+'''Jakamav''' is a lighteyes of the third [[dahn]] from [[Highprince]] [[Roion]]'s camp{{book ref|twok|58}} and one of his various landlords.{{book ref|sa2|26}}
+
+== Appearance and Personality ==
+Jakamav is a sturdy Alethi man with pale green eyes.{{book ref|sa1|58}}{{book ref|sa2|26}}
+
+He has an infectious laugh and seems to attract friends and women fairly easily.{{book ref|sa2|26}} He does not find the concept of marriage appealing.{{book ref|sa2|26}} Adolin counts him as a friend, and Jakamav fights by his side and provides him with advice.{{book ref|sa2|26}} However, Adolin later realizes that Jakamav's reputation is more important to him then actually supporting Adolin.{{book ref|sa2|26}} Jakamav openly questions [[Dalinar]]'s actions in front of Adolin on several occasions{{book ref|sa1|58}}{{book ref|sa2|26}} and proves willing to betray Adolin for Shards.{{book ref|sa2|56}}{{book ref|sa2|57}}
+
+== Attributes and Abilities ==
+He owns green painted [[Shardplate]]{{book ref|sa2|56}} and uses a [[Shardhammer]] in battle.{{book ref|sa2|26}} He does not own a [[Shardblade]] but is capable of using one, having trained with borrowed Blades.{{book ref|sa2|56}} He would likely be able to win a Shardblade in a duel, but his house does not want to risk his Plate.{{book ref|sa2|56}} He experiences the [[Thrill]] in battle and enjoys fighting the [[Parshendi]].{{book ref|sa2|26}}
+
+Although Roion's army won the fewest gemhearts among the highprinces,{{book ref|sa2|24}} Jakamav's status as a landlord and Shardbearer presumably make him fairly wealthy. He has stewards who attend to him after battles.{{book ref|sa2|26}}
+
+He is among the best duelists in the warcamps, and trained alongside Adolin.{{book ref|sa2|56}}{{book ref|sa3|117}} However, he is overconfident; he once refused [[Zahel]]'s offer to train him to fight off a spearman with a knife, laughing at the idea that a Shardbearer would ever fight knife to spear.{{book ref|sa3|117}}
+
+<gallery caption="Images of Jakamav">
+Jakamav_comb.jpg | <small><center>by {{a|Sheep}}</center></small> Jakamav maintaining his appearance
+Jakamav and inkima.jpg | <small><center>by {{a|Sheep}}</center></small> Jakamav and his lady companion, [[Inkima]]
+Jakamav drinking.jpg | <small><center>by {{a|Sheep}}</center></small> Jakamav enjoying wine after a plateau battle
+</gallery>
+
+== History ==
+Jakamav presumably lived on the Shattered Plains from a relatively young age. He trained under Zahel with Adolin.{{book ref|sa3|117}}
+
+He accompanied [[Inkima]] to a wine house in the [[Outer Market]] for a tasting with [[Adolin Kholin]], [[Danlan Morakotha]], [[Toral]], and [[Eshava]]. Inkima seemed quite taken with Jamakav, giggling at most of his comments, even the unfunny ones.{{book ref|sa1|58}} He was still seeing Inkima some time later, although he seemed to have a negative view of long-term relationships.{{book ref|sa2|26}}
+
+Jakamav was part of Roion and [[Ruthar]]'s plateau run which Adolin assisted with. Both men ended up climbing a cliff face during the battle to fight Parshendi, but they did not find a [[gemheart]], instead encountering [[Eshonai]]. Adolin wanted to fight her, although Jakamav preferred to retreat. Afterwards, he told Adolin that someone (presumably [[Torol Sadeas]]) had been making promises to Shardbearers so that they would refuse duels with Adolin. Jakamav advised Adolin that there was a chance that [[Eranniv]] would accept a challenge. He also told Adolin that it would be bad for his reputation to be seen with him, due to growing unease among the other highprinces with regard to Dalinar.{{book ref|sa2|26}} 
+
+He was among the many Shardbearers present at a meeting of the Alethi highprinces regarding the danger of the [[Assassin in White]]. Jakamav was accompanying Roion as part of his guard against a potential assassination attempt.{{book ref|sa2|37}} 
+
+=== Disadvantaged Duel ===
+Jakamav was one of the three Shardbearers who joined [[Relis Ruthar]] in his duel against Adolin, and was most likely promised a share of the spoils should Adolin have been defeated. He was armed with a [[Shardblade#King's_Blades|King's Blade]] that Relis had borrowed. Adolin initially managed to hold his own, but Jakamav waited for an opportune time to join the fight and overwhelm him. Jakamav and the other Shardbearers might have killed or permanently injured Adolin if [[Renarin]] had not appeared in the arena and distracted them. When Adolin asked Jakamav why he was participating, he did not respond.{{book ref|sa2|56}}
+
+After [[Kaladin]] subsequently joined the fight, Jakamav continued to attack Adolin, scoring several hits on his Plate. He also engaged Kaladin, who was able to block his blows using a shield improvised from a helm. Jakamav was the last of Relis's team to remain in the duel, but he was eventually forced to yield when Adolin wrestled him to the ground and [[Kaladin]] pressed a knife to an opening in his armor. He was annoyed that Adolin and Kaladin resorted to grappling tactics in order to win, but they did not break any rules. Jakamav lost his Plate in the duel and was not heard from again in the warcamps.{{book ref|sa2|57}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 22:21, 14 August 2020 (UTC)}}
+{{Stormlight}}

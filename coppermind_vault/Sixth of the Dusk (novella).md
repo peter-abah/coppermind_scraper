@@ -1,20 +1,22 @@
-{{book|title=*Sixth of the Dusk*|display-title=*Sixth of the Dusk* (novella)
-|cover= Sixth of the Dusk.jpg
-|sequel=Isles of the Emberdark
-|setting=[[First of the Sun]], [[Cosmere]]
-|'publisher= [[Dragonsteel Entertainment]]
-|released=June 30, 2014
-|ISBN=978-1-938570-07-0
-|word-count=17,794
-}}
-{{for|Sixth of the Dusk|the story's protagonist}}
-{{for|Isles of the Emberdark|the revised story}}
-***Sixth of the Dusk*** is a [[cosmere]] novella by [[Brandon Sanderson]] set on the [[Cosmere#Planets|planet]] [[First of the Sun]].{{sots ref|2013}} The novella was created as part of the [[Writing Excuses]] podcast, where Brandon, [[Dan Wells]], [[Howard Tayler]], and [[wikipedia: Mary Robinette Kowal|Mary Robinette Kowal]] each brainstormed a story, and gave feedback to each other. These stories were released together as *Shadows Beneath*, which detailed the process of taking the drafts they each wrote, and editing them with the feedback given.{{ref|name=6otd}}
+---
+source_file: Sixth of the Dusk (novella).txt
+entity_type: book
+title: '''''Sixth of the Dusk'''''
+display-title: '''''Sixth of the Dusk'''' (novella)'
+cover: Sixth of the Dusk.jpg
+sequel: Isles of the Emberdark
+setting: '[[First of the Sun]], [[Cosmere]]'
+'''publisher': '[[Dragonsteel Entertainment]]'
+released: June 30, 2014
+isbn: 978-1-938570-07-0
+word-count: 17,794
+---
 
-The complete novella is included in *[[Arcanum Unbounded]]*. It was later reformatted and included in the novel *[[Isles of the Emberdark]]* as a series of flashback chapters. The version in *Isles of the Emberdark* changed some of the details from the original novella, including some adjustments to the narrative to better fit the larger cosmere and to avoid comparisons to the Disney film *Moana*.{{url ref|url=https://www.instagram.com/p/DM8pqjmSyN1/|text=Isles of the Emberdark fun fact!|site=Instagram|date=2025-08-04}}
+***Sixth of the Dusk*** is a [[cosmere]] novella by [[Brandon Sanderson]] set on the [[Cosmere#Planets|planet]] [[First of the Sun]]. The novella was created as part of the [[Writing Excuses]] podcast, where Brandon, [[Dan Wells]], [[Howard Tayler]], and [[wikipedia: Mary Robinette Kowal|Mary Robinette Kowal]] each brainstormed a story, and gave feedback to each other. These stories were released together as *Shadows Beneath*, which detailed the process of taking the drafts they each wrote, and editing them with the feedback given.
+
+The complete novella is included in *[[Arcanum Unbounded]]*. It was later reformatted and included in the novel *[[Isles of the Emberdark]]* as a series of flashback chapters. The version in *Isles of the Emberdark* changed some of the details from the original novella, including some adjustments to the narrative to better fit the larger cosmere and to avoid comparisons to the Disney film *Moana*.
 
 ## Summary
-{{for|Summary:Sixth of the Dusk|a detailed summary}}
 
 The story follows a [[trapper]] named [[Sixth of the Dusk (character)|Sixth of the Dusk]] as he strives to save his island home from a catastrophic danger he has been warned about, but does not understand.
 
@@ -28,15 +30,14 @@ The story follows a [[trapper]] named [[Sixth of the Dusk (character)|Sixth of t
 ## Setting
 This book takes place in the [[cosmere]], on a planet known as [[First of the Sun]]. Most of the story takes place on and around Patji, the largest island in an archipelago called The [[Pantheon]]. Patji is considered the father of the islands of the Pantheon, being the largest and the one that all Aviar must go to get their talent. It is treacherous, with creatures such as Meekers, which are mice that can be trained to harm others, trees that attract different animals so after they kill each other their soil is made rich from the blood of the dead, and nightmaws, which are terrifying birdlike creatures which hunt by finding somebody's cognitive signals.
 
-*Sixth of the Dusk* takes place chronologically near the end of the stories set in the cosmere, sometime during the space travel sequence.{{wob ref|1782}}
+*Sixth of the Dusk* takes place chronologically near the end of the stories set in the cosmere, sometime during the space travel sequence.
 
 ## Postscript
 *Note: the Postscript is found in [[Arcanum Unbounded]], a collection of Cosmere stories.*
 
-The events of this story occur farthest down the timeline of any of the stories included in Arcanum Unbounded. It was brainstormed on [http://www.writingexcuses.com/2013/04/21/writing-excuses-8-16-brainstorming-with-brandon-again/ Season 8: Episode 16] of [[Writing Excuses]], and is set on a new planet in the cosmere,{{sots ref|2013}} [[First of the Sun]]. The setting is inspired by [[Brandon Sanderson|Brandon's]] fascination with Polynesian culture. A sequel is currently being written.{{wob ref|12773}}
+The events of this story occur farthest down the timeline of any of the stories included in Arcanum Unbounded. It was brainstormed on [http://www.writingexcuses.com/2013/04/21/writing-excuses-8-16-brainstorming-with-brandon-again/ Season 8: Episode 16] of [[Writing Excuses]], and is set on a new planet in the cosmere, [[First of the Sun]]. The setting is inspired by [[Brandon Sanderson|Brandon's]] fascination with Polynesian culture. A sequel is currently being written.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Sixth of the Dusk}}
 
 ## See Also
 ### External Links
@@ -61,11 +62,9 @@ The events of this story occur farthest down the timeline of any of the stories 
 
 ## Notes
 <references>
-{{bws ref|name=6otd|introducing-the-writing-excuses-antholog|Introducing [*Shadows Beneath*]|date=Jun 30, 2014}}
+
 </references>
-{{meta/partial}}
-{{Sixth of the Dusk}}
-{{books}}
+
 [[Category: Isles of the Emberdark| ]]
 [[category: list articles]]
 [[es:Sexto del Ocaso]]

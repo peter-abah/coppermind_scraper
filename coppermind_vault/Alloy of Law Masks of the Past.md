@@ -1,10 +1,13 @@
-{{book
-|cover=MAG - AOL Masks of the Past.jpg
-|released=August 8, 2017{{tweet ref|894846875810922496|Release tweet|date=2017-08-08}}
-|series=[[Mistborn Adventure Game]]
-|setting=[[Scadrial]], [[Cosmere]]
-|publisher=Crafty Games
-}}
+---
+source_file: Alloy of Law Masks of the Past.txt
+entity_type: book
+cover: MAG - AOL Masks of the Past.jpg
+released: August 8, 2017
+series: '[[Mistborn Adventure Game]]'
+setting: '[[Scadrial]], [[Cosmere]]'
+publisher: Crafty Games
+---
+
 ***Alloy of Law: Masks of the Past*** is the fourth supplement released for the *[[Mistborn Adventure Game]]*. It focuses on updating the rules and world from the *[[Shadows of Self]]* and *[[Bands of Mourning]]* books.
 
 ## Product Description
@@ -30,6 +33,5 @@ In the three centuries after the [[Catacendre]], the men and women of the [[Elen
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Mistborn|rpg}}
+
 [[category: Mistborn|#mag-r5]]

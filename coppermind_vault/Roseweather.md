@@ -1,14 +1,14 @@
-{{lifeform
-|type={{cat tag|Horses|Horse}}
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-**Roseweather** was a horse owned by [[Wax]] during his time in the [[Roughs]].{{book ref|mb5|6}} 
+---
+source_file: Roseweather.txt
+entity_type: lifeform
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
 
-Wax said that Roseweather was not nearly as bad as Wayne made her sound. [[Wayne]] claimed that Roseweather used to bite only him, and Wax agreed, saying Roseweather had good taste.{{book ref|mb5|6}} 
+**Roseweather** was a horse owned by [[Wax]] during his time in the [[Roughs]]. 
+
+Wax said that Roseweather was not nearly as bad as Wayne made her sound. [[Wayne]] claimed that Roseweather used to bite only him, and Wax agreed, saying Roseweather had good taste. 
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 21:04, 20 March 2019 (MST)}}
-{{Mistborn|Era 2}}

@@ -1,0 +1,14 @@
+{{food
+|type=Soulcast food
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[Words of Radiance]]
+}}
+'''Flangria''' is a type of meat found on [[Roshar]].{{book ref|sa2|46}}
+
+Flangria is produced via [[Soulcasting]], which makes it far cheaper than other kinds of meat, although some disdain flangria due to its origin.{{book ref|sa2|46}} It is unknown if an animal exists which produces meat called flangria, or if Soulcasting meat always produces flangria. It is often used to cheaply feed large quantities of people, such as bridgemen. It is fried and used in the meatballs for [[chouta]], an inexpensive [[Herdazian]] food.
+
+== Notes ==
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 02:29, 23 December 2016 (MST)}}
+{{Stormlight}}

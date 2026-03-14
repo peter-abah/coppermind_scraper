@@ -1,3 +1,8 @@
+---
+source_file: DesignGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=200px name="Official Artwork">
 The Noodle Pupil by Aliya Chen.jpg | <center><small>by {{a|Aliya Chen}}</small></center> At the [[Noodle Pupil]]

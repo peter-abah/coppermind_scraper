@@ -1,15 +1,16 @@
-{{literature
-|author=[[Masha-daughter-Shaliv]]
-|world=Roshar
-|universe=[[Cosmere]]
-}}
-{{copyright}}
-{{update|sa5}}
-***Knights of Wind and Truth*** is a book written by the [[Shin]] scholar [[Masha-daughter-Shaliv]]. Completed six years after the [[Night of Sorrows]], it is an account of the cleansing of Shinovar by [[Kaladin]] and [[Szeth]], the eponymous Knight of Wind and Knight of Truth respectively.{{epigraph ref|sa5|147}}
+---
+source_file: Knights of Wind and Truth.txt
+entity_type: literature
+author: '[[Masha-daughter-Shaliv]]'
+world: Roshar
+universe: '[[Cosmere]]'
+---
 
-Masha's main sources for the book are [[Szeth]] and the sword [[Nightblood]],{{epigraph ref|sa5|147}} though she also received information about Kaladin from [[Jasnah Kholin]].{{epigraph ref|sa5|133}} Additionally, Masha briefly spoke with the [[Wind]] before she vanished.{{epigraph ref|sa5|3}}{{epigraph ref|sa5|138}} Szeth and Nightblood were not conscious by the time [[Retribution]] was created and the Wind did not explain any of what happened after that point to Masha, so the book does not include the refounding of the [[Oathpact]] with Kaladin as a [[Herald]].{{epigraph ref|sa5|144}} Instead, based on the body Kaladin left behind when he became a Herald, Masha concludes that Kaladin is dead.{{epigraph ref|sa5|147}} She is also only able to speculate about how the Wind and the [[spren]] were protected from Retribution, suggesting that the Oathpact with only nine Heralds may have been enough or that Kaladin, as champion of the Wind, may have been able to do something on his own before dying.{{epigraph ref|sa5|146}}
+***Knights of Wind and Truth*** is a book written by the [[Shin]] scholar [[Masha-daughter-Shaliv]]. Completed six years after the [[Night of Sorrows]], it is an account of the cleansing of Shinovar by [[Kaladin]] and [[Szeth]], the eponymous Knight of Wind and Knight of Truth respectively.
 
-The book is part of a larger work that spans multiple volumes and includes contributions from other authors. One of the other volumes, which was not written by Masha, focuses on the events surrounding the [[contest of champions]] at [[Urithiru]], though that volume had not yet been written by the time Masha finished *Knights of Wind and Truth*.{{epigraph ref|sa5|136}}
+Masha's main sources for the book are [[Szeth]] and the sword [[Nightblood]], though she also received information about Kaladin from [[Jasnah Kholin]]. Additionally, Masha briefly spoke with the [[Wind]] before she vanished. Szeth and Nightblood were not conscious by the time [[Retribution]] was created and the Wind did not explain any of what happened after that point to Masha, so the book does not include the refounding of the [[Oathpact]] with Kaladin as a [[Herald]]. Instead, based on the body Kaladin left behind when he became a Herald, Masha concludes that Kaladin is dead. She is also only able to speculate about how the Wind and the [[spren]] were protected from Retribution, suggesting that the Oathpact with only nine Heralds may have been enough or that Kaladin, as champion of the Wind, may have been able to do something on his own before dying.
+
+The book is part of a larger work that spans multiple volumes and includes contributions from other authors. One of the other volumes, which was not written by Masha, focuses on the events surrounding the [[contest of champions]] at [[Urithiru]], though that volume had not yet been written by the time Masha finished *Knights of Wind and Truth*.
 
 ## Excerpts
 {| class="infobox center-col-2" width="100%"
@@ -124,9 +125,7 @@ The book is part of a larger work that spans multiple volumes and includes contr
 |}
 
 ## Trivia
-* *Knights of Wind and Truth* was a working title for *[[Wind and Truth]]*, which would have made the initialisms of the first five books of [[The Stormlight Archive]] symmetrical (TWoK WoR O RoW KoWT).{{wob ref|16081}} As a result of the title of the real-world book being shortened, *Knights of Wind and Truth* is the only book whose title does not exactly match its corresponding real-world book.
+* *Knights of Wind and Truth* was a working title for *[[Wind and Truth]]*, which would have made the initialisms of the first five books of [[The Stormlight Archive]] symmetrical (TWoK WoR O RoW KoWT). As a result of the title of the real-world book being shortened, *Knights of Wind and Truth* is the only book whose title does not exactly match its corresponding real-world book.
 
 ## Notes
 <references />
-{{partial}}
-{{Stormlight}}

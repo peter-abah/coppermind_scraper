@@ -1,0 +1,34 @@
+{{character
+|image=Sand Lord.jpg
+|abilities=Avatar of [[Autonomy]]
+|aliases=Sun Lord
+|world=Taldain
+|universe=[[Cosmere]]
+|introduced=[[White Sand]]
+}}
+The '''Sand Lord''', sometimes referred to as the '''Sun Lord''', is a deity worshipped on the [[Dayside]] of [[Taldain]].{{book ref|ws|3|review=yes}}
+
+==Religion and Culture==
+===Kerzta===
+The Sand Lord plays a prominent role in the monotheistic [[Ker'reen]] religion of [[Kerzta]], which teaches that he is embodied in the sun.{{book ref|ws|3|review=yes}} They believe the sand is his body and the sun is his eye, and view sand mastery as heretical because it corrupts the sand.{{book ref|ws|13|review=yes}} [[Ais]] is seen praying to the "Sun Lord", which appears to be another name that Kerztians use for the Sand Lord.{{book ref|ws|11|review=yes}}
+
+===Lossand===
+{{quote
+|Sand Masters are agnostic by tradition, but even they curse, praise, and petition the Sand Lord, especially when it comes to a lost cause like me.
+|[[Kenton]]{{book ref|ws|1}}
+}}
+The upper class of Lossand known as the [[Kelzi]]n includes many Kerztian expatriates and other followers of Ker'reen.{{book ref|ws|3|review=yes}} However, worship of the Sand Lord is not universal in the country. Notably, the [[sand mastery|sand master]]s of the [[Diem]] are known to be agnostic.{{book ref|ws|1|review=yes}} Still, all Daysiders feel a spiritual bond with the sun, including those that do not worship it.{{book ref|ws|3|review=yes}} Lossandins commonly swear to the Sand Lord or invoke his name in everyday conversation; this includes [[Lady Judge]] [[Heelis]]{{book ref|ws|5|review=yes}} and many sand masters, even including [[Taishin#The Lord Mastrell|Lord Mastrell]] [[Praxton]].{{book ref|ws|1|review=yes}}
+
+===Role in International Relations===
+Kerztians hate the disbelievers of the Diem{{book ref|ws|2|review=yes}} and regard sand mastery as an unholy abomination.{{book ref|ws|1|review=yes}}{{book ref|ws|7|review=yes}} Since the Diem is an integral part of Lossand's government, Kerztians generally regard Lossandins as infidels.{{book ref|ws|7|review=yes}} This religious clash between the two countries has caused many wars in the past.{{book ref|ws|3|review=yes}} [[Lokmlen]] and [[Vey]] call Ais a traitor to Kerzta due to her work for the Lossandin government, including the protection of Kenton; they both tell her that her soul will be judged by the Sand Lord.{{book ref|ws|4|review=yes}}{{book ref|ws|10|review=yes}}
+
+==Cosmere Significance==
+The Sand Lord is actually a persona of the [[Shard]] of [[Adonalsium]] known as [[Autonomy]]{{wob ref|5876}}{{au ref|taldain}} and its Vessel, [[Bavadin]].{{book ref|mb7|19}}{{wob ref|4021}} It is one of many personas used by Bavadin; she prefers to let her personas attract attention rather than becoming directly involved, and wishes to crowd out the competition, out-competing other Shards by filling the Cosmere with versions of herself.{{book ref|mb7|20}}{{wob ref|3974}}
+
+Taldain's sunlight actually contains Autonomy's [[Investiture]].{{au ref|taldain}} Autonomy's presence on Taldain currently prevents [[worldhopper]]s from easily accessing the planet.{{au ref|taldain}}{{wob ref|4675}}
+
+== Notes ==
+<references />
+{{partial}}
+{{White Sand}}
+[[Category: Religion]]

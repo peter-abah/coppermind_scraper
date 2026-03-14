@@ -1,3 +1,8 @@
+---
+source_file: VasherGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Trained by Master by Ari Ibarra.jpg | <center><small>by {{a|Ari Ibarra}}</small></center> Training [[Adolin]], *[[Call to Adventure: Stormlight]]*

@@ -1,3 +1,8 @@
+---
+source_file: Elizandra DramaliGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Allomancer Jak scene.jpg | <center><small>by {{a|Ben McSweeney}}</small></center> In *[[Elendel Daily]]* illustration

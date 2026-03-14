@@ -1,4 +1,7 @@
-{{CoverToC|sa}}
+---
+source_file: Words of RadianceCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for covers of *[[Words of Radiance]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Dark One.txt
+entity_type: disambig
+---
 
 The phrase "**Dark One**" refers to several related things:
 * [[Dark One (franchise)]], the entire multimedia storytelling enterprise set on [[Earth (Dark One)|Earth]] and [[Mirandus]]

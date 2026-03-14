@@ -1,18 +1,16 @@
 ---
-profession: "{{cat tag|Law enforcement"
+source_file: Taudr.txt
+entity_type: character
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[Shadows of Self]]'
 ---
 
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[Shadows of Self]]
-}}
-**Taudr** is a constable of the [[Elendel]] constabulary on [[Scadrial]].{{book ref|mb5|14}}
+**Taudr** is a constable of the [[Elendel]] constabulary on [[Scadrial]].
 
-She is lanky and drinks tea.{{book ref|mb5|14}}
+She is lanky and drinks tea.
 
-She worked out of the Fourth Octant precinct office and encountered [[Marasi]] and [[MeLaan]] there during the investigation into the destruction of the dam in [[Corbeau]]. Like many of the other constables, she was resentful of Marasi's rapid promotion and her association with [[Wax]].{{book ref|mb5|14}}
+She worked out of the Fourth Octant precinct office and encountered [[Marasi]] and [[MeLaan]] there during the investigation into the destruction of the dam in [[Corbeau]]. Like many of the other constables, she was resentful of Marasi's rapid promotion and her association with [[Wax]].
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 00:38, 26 February 2021 (UTC)}}
-{{Mistborn|era 2}}

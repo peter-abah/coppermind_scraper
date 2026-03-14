@@ -1,3 +1,8 @@
+---
+source_file: RabonielGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=300px caption="Official Artwork">
 ROW BG 2024 Cover.jpeg | <center><small>by Yasen Stoilov</small></center> With [[Navani]] on the Bulgarian cover of *[[Rhythm of War]]*

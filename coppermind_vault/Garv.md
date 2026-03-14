@@ -1,17 +1,16 @@
 ---
-profession: "Religious leader"
-religion: "{{tag|Church of the Survivor"
+source_file: Garv.txt
+entity_type: character
+profession: Religious leader
+religion: Church of the Survivor
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Hero of Ages]]'
 ---
 
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[The Hero of Ages]]
-}}
-**Garv** is the leader of the [[Church of the Survivor]] in [[Luthadel]] who was present during the [[Battle of Hathsin]].{{book ref|mb3|81}}
+**Garv** is the leader of the [[Church of the Survivor]] in [[Luthadel]] who was present during the [[Battle of Hathsin]].
 
 He asks [[Sazed]] where [[Vin]] was while they were waiting in the cavern with [[Harathdal]], [[Dedri Vasting]] & [[Aslydin]].
 
 ## Notes
 <references />
-{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 01:04, 28 February 2019 (MST)}}
-{{Mistborn|Era 1}}

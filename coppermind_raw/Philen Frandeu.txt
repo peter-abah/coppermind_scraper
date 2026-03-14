@@ -1,0 +1,35 @@
+{{character
+|aliases=Lin
+|profession=Merchant
+|groups={{tag|Luthadel Assembly}}
+|ethnicity=skaa
+|residence=Luthadel
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Well of Ascension]]
+}}
+'''Philen Frandeu''' (originally '''Lin''') is a [[skaa]] merchant on [[Scadrial]] who holds one of the eight merchant seats on the [[Luthadel Assembly]].{{book ref|mb2|10}} He looks down on non-merchant skaa and changes his name after the [[Collapse]] to make it sound more like a [[noble]]'s.{{book ref|mb2|31}}
+
+== Appearance and Personality ==
+Philen is well dressed, typically in a fine suit; he also carries a dueling cane.{{book ref|mb2|10}}{{book ref|mb2|31}} 
+
+Although he is ethnically skaa, he does not consider himself as such, and reserves that term for workers who make (or grow) things.{{book ref|mb2|31}} He is not opposed to the idea of an Assembly, but believes that "worker skaa" should not be included.{{book ref|mb2|31}} He primarily values money and power; during the period that Luthadel is threatened by invasion, he is confused when [[Elend Venture]] chooses to discuss the defense of the city with the Assembly rather than using his time to try and convince them to reinstate him as king.{{book ref|mb2|31}}
+
+He often works on schemes to achieve his goals, and stays informed regarding the city's political situation.{{book ref|mb2|31}}{{book ref|mb2|32}} He exhibits a domineering attitude towards his fellow merchants in the Assembly.{{book ref|mb2|31}} [[Penrod]] calls him a "fool" for sometimes acting too hastily,{{book ref|mb2|10}} while [[Vin]] considers him to be a "weasel".{{book ref|mb2|48}}
+
+== Attributes and Abilities ==
+Philen notes that he has always had a knack for making good business deals.{{book ref|mb2|31}} He is well-connected, and after the restrictions on skaa are lifted post-[[Collapse]], he becomes one of the richest men in Luthadel.{{book ref|mb2|31}} Despite his wealth, many [[noble]]s still regard him with distaste; he desperately wants to gain a title in order to further improve his social standing and free himself from the "skaa" stigma.{{book ref|mb2|31}} He freely displays his wealth; he also changes his name to sound more noble, and becomes irritated if anyone uses his original name.{{book ref|mb2|10}}{{book ref|mb2|31}} 
+
+== History ==
+Prior to the Collapse, Philen (then known as Lin) worked as an intermediary for the nobility to broker various types of business deals. As a skaa, he was often able to avoid the notice of the [[Steel Ministry]], and he could help nobles secure illegal items.{{book ref|mb2|31}} Once he was able to trade openly, he became extremely wealthy and influential among merchant skaa.{{book ref|mb2|31}}
+
+After the Collapse, he changed his name and procured one of the merchant seats on the [[Luthadel Assembly]]. He argued against Elend's proposal for the Assembly to temporarily divest itself of the authority to surrender the city, but Elend and [[Ferson Penrod|Lord Penrod]] convinced the Assembly otherwise. He then brought forward a proposal of his own to grant the merchants control over the city's food supply, but Elend and some of the skaa representatives on the Assembly filibustered it until the time came for a lunch break.{{book ref|mb2|10}}
+
+Philen often disagreed with Elend Venture's leadership, mocking his cerebral approach, and engineered his deposal from the throne.{{book ref|mb2|31}} At the Assembly meeting when Elend was away parlaying with [[Straff Venture]], Philen presumably convinced the rest of the Assembly to invoke the government charter's no-confidence clause and remove Elend from the kingship.{{book ref|mb2|27}} He had no desire to be king himself, as he considered the job too much of a risk with too little reward, and instead nominated [[Ashweather Cett]], whom he had smuggled into the city, to be the next king.{{book ref|mb2|31}} In return, Cett promised him and everyone else on the Assembly a title.{{book ref|mb2|32}} After receiving a better offer from [[Straff Venture]], he instead voted to give the throne to Penrod, who won the vote and planned to turn the city over to Straff.{{book ref|mb2|38}}{{book ref|mb2|39}}{{book ref|mb2|40}} Philen's fate after the [[Battle of Luthadel]] is unknown.
+
+== Notes ==
+<references />
+<!-- Appearances: mb2 10, 31, 32, 38, 39 (mentioned only), 48 (mentioned only) -->
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:17, 14 May 2020 (UTC)}}
+{{Mistborn|Era 1}}
+[[Category: Viewpoint characters]]

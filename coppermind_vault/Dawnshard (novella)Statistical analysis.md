@@ -1,3 +1,7 @@
+---
+source_file: Dawnshard (novella)Statistical analysis.txt
+entity_type: meta/done
+---
 
 This page contains a statistical analysis of ***[[Dawnshard (novella)|Dawnshard]]***, a novella in [[The Stormlight Archive]].
 
@@ -102,7 +106,5 @@ For a full series overview and other books in the series, see [[The Stormlight A
 | align="right" | 2.47%
 |}
 
-{{meta/done}}
-{{Stormlight}}
 [[Category: Stormlight Archive|*3.5x]]
 [[category: statistics]]

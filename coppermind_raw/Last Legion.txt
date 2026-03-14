@@ -1,0 +1,1 @@
+#REDIRECT [[Listener#The Last Legion and Abandoning of the Gods]]

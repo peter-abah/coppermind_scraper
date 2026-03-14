@@ -1,0 +1,18 @@
+{{vehicle|name=''Dalewillow
+|type={{cat tag|watercraft|Ship}}
+|captain=[[Tasni]]
+|world=Roshar
+|universe=[[Cosmere]]
+}}
+The '''''Dalewillow''''' is a medium-sized vessel on [[Roshar]]. It is crewed by ten sailors and a captain, named [[Tasni]].{{rpg ref|ss|6}} While its main cargo is not known, the ship sometimes takes on passengers,{{rpg ref|ss|7}} typically at a fee of about fifty marks.{{rpg ref|ss|8}} 
+
+During one journey, the ship had a [[cremling]] infestation. After an encounter with the creatures, the captain found a [[fabrial]] hidden inside a crate of [[longroot]].{{rpg ref|ss|6}} She tasked a small party of people to find out who it belonged to. They eventually traced it back to a passenger named [[Nenal]], who was attempting to surprise another passenger named [[Fasi]] with a proposal.{{rpg ref|ss|7}} It is unclear if the plot was foiled or not, but the pair are known to have been engaged that same night.{{rpg ref|ss|8}} During this voyage, the ''Dalewillow'' is known to have taken on the following passengers:
+* [[Fasi]]
+* [[Mvylrn]]
+* [[Lorasha]]
+* [[Nenal]]
+
+== Notes ==
+<references />
+{{complete}}
+{{Stormlight}}

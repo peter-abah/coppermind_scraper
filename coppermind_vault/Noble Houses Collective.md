@@ -1,13 +1,14 @@
-{{group
-|hq=[[Elendel]]
-|type=Union
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-The **Noble Houses Collective** is a trade association in [[Elendel]] on [[Scadrial]]. It represents the noble houses (some of the largest employers in the city) in contract negotiations with the [[United Tradeworkers Union]].{{file ref|Elendel_Daily_broadsheet.png|*The Elendel Daily* broadsheet}}
+---
+source_file: Noble Houses Collective.txt
+entity_type: group
+hq: '[[Elendel]]'
+type: Union
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
+
+The **Noble Houses Collective** is a trade association in [[Elendel]] on [[Scadrial]]. It represents the noble houses (some of the largest employers in the city) in contract negotiations with the [[United Tradeworkers Union]].
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:46, 18 July 2023 (UTC)}}
-{{Mistborn|Era 2}}

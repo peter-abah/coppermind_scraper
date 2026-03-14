@@ -1,13 +1,11 @@
 ---
-universe: "Cytoverse"
-introduced: "Starsight"
+source_file: Numiga.txt
+entity_type: character
+universe: '[[Cytoverse]]'
+introduced: '[[Starsight]]'
 ---
 
-{{update|book=Starsight}}
-
-**Numiga** is a [[dione]] who lives on [[Starsight (station)|Starsight]] and is the eldest grand in [[Morriumur]]'s family.{{book ref|sky2|i|3}} They helped Morriumur get in his pod to redraft.
+**Numiga** is a [[dione]] who lives on [[Starsight (station)|Starsight]] and is the eldest grand in [[Morriumur]]'s family. They helped Morriumur get in his pod to redraft.
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

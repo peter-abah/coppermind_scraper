@@ -1,23 +1,28 @@
-{{DISPLAYTITLE:*{{PAGENAME}}*}}
-***The Stormlight Archive*** is an ongoing epic fantasy series by [[Brandon Sanderson]]. Set on the planet [[Roshar]], the series forms a core part of the [[cosmere]] sequence, and centers around [[Odium]]'s efforts to escape the ties that bind him to the [[Rosharan system]]. The series is estimated to require ten books to complete.{{wob ref|2875}}
+---
+source_file: The Stormlight Archive.txt
+entity_type: displaytitle:''{{pagename}}''
+---
+
+***The Stormlight Archive*** is an ongoing epic fantasy series by [[Brandon Sanderson]]. Set on the planet [[Roshar]], the series forms a core part of the [[cosmere]] sequence, and centers around [[Odium]]'s efforts to escape the ties that bind him to the [[Rosharan system]]. The series is estimated to require ten books to complete.
 
 For a summary of the events thus far, see [[/Summary|the individual summary pages for each book]].
 
 ## Structure
-The novels of *The Stormlight Archive* follow a consistent internal structure. Each is split into five parts, and Brandon plots each novel as if it were an entire trilogy. The names of each part, when put together, form a [[ketek]]. Between each part is a set of interludes, set in different points of view, which show events in other locations on Roshar. Each novel has one character who gets multiple interludes, whose interludes effectively form a novella. The books also feature several pieces of in-world art on the endpages and between some chapters, and epigraphs from in-world documents at the start of each non-flashback chapter.{{wob ref|3718}}{{wob ref|3916}} Each of the first five books begins with a prologue that shows a different character's perspective of the night of the [[assassination of Gavilar]] and ends with an epilogue from [[Hoid]]'s point of view.{{wob ref|13282}}{{wob ref|12260}} Each novel, with the exception of *[[Wind and Truth]]*, also contains an [[Ars Arcanum]] after the epilogue.
+The novels of *The Stormlight Archive* follow a consistent internal structure. Each is split into five parts, and Brandon plots each novel as if it were an entire trilogy. The names of each part, when put together, form a [[ketek]]. Between each part is a set of interludes, set in different points of view, which show events in other locations on Roshar. Each novel has one character who gets multiple interludes, whose interludes effectively form a novella. The books also feature several pieces of in-world art on the endpages and between some chapters, and epigraphs from in-world documents at the start of each non-flashback chapter. Each of the first five books begins with a prologue that shows a different character's perspective of the night of the [[assassination of Gavilar]] and ends with an epilogue from [[Hoid]]'s point of view. Each novel, with the exception of *[[Wind and Truth]]*, also contains an [[Ars Arcanum]] after the epilogue.
 
-Each novel will focus on one specific order of the [[Knights Radiant]] and feature flashbacks from a character tied to that order.{{wob ref|1673}}{{wob ref|11374}} Brandon has made clear that a character can have flashback point of views, even if they are already dead, so the characters scheduled to have flashbacks in an upcoming book might still die before their book.{{wob ref|3757}} The series will be split into two arcs of five books each, with a time gap of about ten years between the two arcs.{{Reddit ref|books|vtua7m|ifa1psd|text=Reddit AMA 2022|date=2022-07-07}} The second arc will be written after [[Mistborn Era 3|*Mistborn* Era 3]].{{wob ref|11548}} Brandon has said he also hopes to write novellas in between at least all the remaining arc one novels, though is unsure if he has enough time.{{wob ref|13632}} These novellas would fill in some details and show parts of the story that wouldn't have otherwise been seen.
+Each novel will focus on one specific order of the [[Knights Radiant]] and feature flashbacks from a character tied to that order. Brandon has made clear that a character can have flashback point of views, even if they are already dead, so the characters scheduled to have flashbacks in an upcoming book might still die before their book. The series will be split into two arcs of five books each, with a time gap of about ten years between the two arcs. The second arc will be written after [[Mistborn Era 3|*Mistborn* Era 3]]. Brandon has said he also hopes to write novellas in between at least all the remaining arc one novels, though is unsure if he has enough time. These novellas would fill in some details and show parts of the story that wouldn't have otherwise been seen.
 
 Subject to the assumption that characters stay associated with their current order and assigning the [[Order of Dustbringers]] to [[Shalash]]'s book by process of elimination, the following table summarizes these relationships and the order of books:
 
-<div style="overflow-x: scroll">
+> [!WARNING] Info
+> 
 {| class="infobox bib" width=100%
 |-
 !scope="col" style="width: 80px;min-width:80px;"   |Year<br />Published 
 !scope="col" style="width: 130px;min-width:130px;" |Book Title
-!scope="col" style="width: 80px;min-width:80px;"   |In-world<br />Year(s){{ref|name=DateNote|group=fn}}
+!scope="col" style="width: 80px;min-width:80px;"   |In-world<br />Year(s)
 !scope="col" style="width: 100px;min-width:100px;" |[[Knights Radiant|Radiant]]<br />Order
-!scope="col" style="width: 120px;min-width:120px;" |Flashback<br />Viewpoint{{ref|name=DateNote|group=fn}}
+!scope="col" style="width: 120px;min-width:120px;" |Flashback<br />Viewpoint
 !scope="col" style="width: 100px;min-width:100px;" |Prologue<br />Viewpoint
 !scope="col" style="width: 100px;min-width:100px;" |Main Interlude<br />Viewpoint
 !scope="col" style="width: 100px;min-width:100px;" |Word Count
@@ -83,7 +88,7 @@ Subject to the assumption that characters stay associated with their current ord
 |*Unknown*
 |*Unknown*
 |[[Order of Edgedancers|Edgedancers]]
-|[[Lift]]{{wob ref|11620}}
+|[[Lift]]
 |*Unknown*
 |*Unknown*
 |*Unknown*
@@ -93,7 +98,7 @@ Subject to the assumption that characters stay associated with their current ord
 |*Unknown*
 |*Unknown*
 |[[Order of Truthwatchers|Truthwatchers]]
-|[[Renarin Kholin]]{{wob ref|11620}}
+|[[Renarin Kholin]]
 |*Unknown*
 |*Unknown*
 |*Unknown*
@@ -103,7 +108,7 @@ Subject to the assumption that characters stay associated with their current ord
 |*Unknown*
 |*Unknown*
 |[[Order of Dustbringers|Dustbringers]]
-|[[Shalash]]{{wob ref|11620}}
+|[[Shalash]]
 |*Unknown*
 |*Unknown*
 |*Unknown*
@@ -113,7 +118,7 @@ Subject to the assumption that characters stay associated with their current ord
 |*Unknown*
 |*Unknown*
 |[[Order of Stonewards|Stonewards]]
-|[[Talenel]]{{wob ref|11620}}
+|[[Talenel]]
 |*Unknown*
 |*Unknown*
 |*Unknown*
@@ -123,13 +128,12 @@ Subject to the assumption that characters stay associated with their current ord
 |*Unknown*
 |*Unknown*
 |[[Order of Elsecallers|Elsecallers]]
-|[[Jasnah Kholin]]{{wob ref|11620}}
+|[[Jasnah Kholin]]
 |*Unknown*
 |*Unknown*
 |*Unknown*
 
 |}
-</div>
 
 {| class="infobox bib" width=100%
 
@@ -139,7 +143,7 @@ Subject to the assumption that characters stay associated with their current ord
 |-
 !style=width:20% |Year Published
 !style=width:20% |Title
-!style=width:20% |Series<br />Chronology{{ref|name=DateNote|group=fn}}
+!style=width:20% |Series<br />Chronology
 !style=width:20% |Focus Character
 !style=width:20% |Word Count
 
@@ -159,8 +163,8 @@ Subject to the assumption that characters stay associated with their current ord
 
 |- class="stormlight cosmere unreleased"
 !2026 (Tentative)
-|*[[Unpublished works#Cosmere_works|Horneater]]*{{wob ref|16435}}
-|4.5{{wob ref|13754}}
+|*[[Unpublished works#Cosmere_works|Horneater]]*
+|4.5
 |[[Lunamor]]
 |
 
@@ -174,7 +178,7 @@ Subject to the assumption that characters stay associated with their current ord
 |-
 !style=width:20% |Year Published
 !style=width:20% |Title
-!style=width:20% |Series<br />Chronology{{ref|name=DateNote|group=fn}}
+!style=width:20% |Series<br />Chronology
 !style=width:20% |Focus Character
 !style=width:20% |Word Count
 
@@ -201,7 +205,7 @@ Subject to the assumption that characters stay associated with their current ord
 |-
 !style=width:20% |Year Published
 !style=width:20% |Title
-!style=width:20% |In-world Year(s){{ref|name=DateNote|group=fn}}
+!style=width:20% |In-world Year(s)
 !style=width:20% |Pages
 !style=width:20% |Notes
 
@@ -281,26 +285,23 @@ Subject to the assumption that characters stay associated with their current ord
 |}
 
 <references group=fn>
-{{ref|group=fn|text=All years are from the [[Roshar#Calendar|Rosharan calendar]]. Years for the Series Chronology column do not include the prelude, prologues, or flashbacks; years for the Flashback Viewpoint column only include that character's flashback chapters.|name=DateNote}}
+
 </references>
 
-Brandon has also talked about wanting to go back and do a novella set between *The Way of Kings* and *Words of Radiance*; he initially thought this novella might focus on [[Lopen]],{{wob ref|13632}}{{wob ref|13754}} but, after including Lopen in *Dawnshard*, said it would likely be someone else, possibly [[Teft]].{{wob ref|14701}}
+Brandon has also talked about wanting to go back and do a novella set between *The Way of Kings* and *Words of Radiance*; he initially thought this novella might focus on [[Lopen]], but, after including Lopen in *Dawnshard*, said it would likely be someone else, possibly [[Teft]].
 
 ===Back Cover Text===
-{{for|/Back Cover Text|the back cover text of each book}}
 
 Each book has a back cover text that is written in-universe from the perspective of one of the [[Sleepless]].
 
 ### Keteks
-{{for|/Keteks|the full list of endnote keteks}}
 
-The titles of the five parts of each book form a [[ketek]] which is revealed with context in the endnote of every book. The abbreviations of the first five books also form a palindrome of five parts, being similar in structure to a ketek: (t)WoK - WoR - O - RoW - KoW(t).{{wob ref|13904}}
+The titles of the five parts of each book form a [[ketek]] which is revealed with context in the endnote of every book. The abbreviations of the first five books also form a palindrome of five parts, being similar in structure to a ketek: (t)WoK - WoR - O - RoW - KoW(t).
 
 ## Cover Galleries
-{{CoverToC|sa}}
 
 ## Publication
-{{columns|
+
 * US/Canadian rights (#1-4) with Tor
 * Bulgarian rights (#1-4) to Артлайн Студиос (Artline Studios)
 * UK rights (#1-4) to Gollancz
@@ -322,8 +323,6 @@ The titles of the five parts of each book form a [[ketek]] which is revealed wit
 * Brazillian rights (#1) to TRAMA
 * Ukrainian rights to КСД (bookclub.ua)
 
-}}
-
 ## Awards
 * Way of Kings #7 NY Times best-seller
 * Winner of the 2010 Whitney Awards Best Novel of the Year Award and Best Speculative Fiction Award
@@ -332,13 +331,13 @@ The titles of the five parts of each book form a [[ketek]] which is revealed wit
 * Named one of the Best of 2010 by Fantasy Faction
 * Named one of the Best of 2010 by Ranting Dragon
 * Named one of the Best of 2010 by SFF World
-* Named one of the Best of 2010 by Goodreads{{ref|name=aa}}
-* Words of Radiance #1 NY Times best-seller{{ref|name=wor-nytimes}}
+* Named one of the Best of 2010 by Goodreads
+* Words of Radiance #1 NY Times best-seller
 * Winner of the 2014 Whitney Finalists Speculative Catagory
 * Winner of the 2015 David Gemmell Legend Award for Best Fantasy Novel (Words of Radiance)
 
 ## Statistics
-{{for|/Statistical analysis|a full statistical analysis}}
+
 The Stormlight Archive currently consists of five full novels and two novellas.
 
 {|class="wikitable"
@@ -365,19 +364,13 @@ The Stormlight Archive currently consists of five full novels and two novellas.
 |}
 
 ## Trivia
-* When Brandon initially wrote [[The Way of Kings Prime|*The Way of Kings* Prime]], he called the series *Dawnshards*.{{book ref|wok'|part=preface}} By the time he pitched it to Tor two years later, he had changed the series name to *Oathshards*.{{wob ref|13739}}
+* When Brandon initially wrote [[The Way of Kings Prime|*The Way of Kings* Prime]], he called the series *Dawnshards*. By the time he pitched it to Tor two years later, he had changed the series name to *Oathshards*.
 
 ## Notes
 <references>
 
-{{tor ref|name=wor-nytimes|brandon-sandersons-words-of-radiance-debuts-at-number-one-on-the-new-york-times-bestseller-list|Words of Radiance debut 1st on NYT bestsellers|date=MAR 12 2014}}
-
-{{url ref|name=aa|url=https://awfulagent.com/jabclients/brandon-sanderson|text=Brandon's Awful Agent page|site=Awful Agent}}
-
 </references>
-{{meta/partial}}
-{{Stormlight}}
-{{books}}
+
 [[category: Stormlight Archive| ]]
 [[category: series]]
 [[category: meta]]

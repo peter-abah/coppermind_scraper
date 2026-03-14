@@ -1,17 +1,20 @@
-{{book
-|cover=Skyward US Hardcover.jpg
-|released=November 6, 2018
-|publisher=Delacorte Press
-|ISBN=978-0399555770
-|setting=[[Cytoverse]]
-|series=[[Skyward (series)]]|sequel=Starsight
-|page-count=510
-|word-count=[[/Statistical_analysis|135,366]]
-}}
-{{for|Skyward (series)|the series|pre=This page is about the book|post=For the [[DDF]] flight, see [[Skyward Flight]].}}
-***Skyward*** is a young adult science fiction novel by [[Brandon Sanderson]]. It is the first book in the four volume [[Skyward (series)|Skyward series]] and the second work set in the [[Cytoverse]], with the plot taking place centuries after the short story *[[Defending Elysium]]*.{{wob ref|11990}}
+---
+source_file: Skyward.txt
+entity_type: book
+cover: Skyward US Hardcover.jpg
+released: November 6, 2018
+publisher: Delacorte Press
+isbn: 978-0399555770
+setting: '[[Cytoverse]]'
+series: '[[Skyward (series)]]'
+sequel: Starsight
+page-count: '510'
+word-count: '[[/Statistical_analysis|135,366]]'
+---
 
-The book was released on November 6, 2018.{{ref|name=sw-announcement}}
+***Skyward*** is a young adult science fiction novel by [[Brandon Sanderson]]. It is the first book in the four volume [[Skyward (series)|Skyward series]] and the second work set in the [[Cytoverse]], with the plot taking place centuries after the short story *[[Defending Elysium]]*.
+
+The book was released on November 6, 2018.
 
 ## Synopsis
 *Spensa’s world has been under attack for decades. Now pilots are the heroes of what's left of the human race, and becoming one has always been Spensa's dream. Since she was a little girl, she has imagined soaring skyward and proving her bravery. But her fate is intertwined with her father's- a pilot himself who was killed years ago when he abruptly deserted his team, leaving Spensa the daughter of a coward, her chances of attending Flight School slim to none.*
@@ -19,7 +22,6 @@ The book was released on November 6, 2018.{{ref|name=sw-announcement}}
 *No one will let Spensa forget what her father did, yet fate works in mysterious ways. Flight School might be a long shot, but she is determined to fly. And an accidental discovery in a long-forgotten cavern might just provide her with a way to claim the stars.*
 
 ## Summary
-{{for|Summary:Skyward|a complete chapter by chapter summary}}
 
 [[Spensa]] has dreamed of being a pilot since she was a child. Inspired by her father, then fueled with outrage by the [[DDF]]'s accusations of cowardice following his death, Spensa spends the next decade preparing for the [[flight school]] entrance exam. Gaining entrance to the program with the help of her new instructor [[Cobb]], Spensa teams up with nine fellow trainees to form [[Skyward Flight]] and battle the [[KRELL|Krell]], an alien force trying to destroy the [[Defiant League|Defiant]] colony. Aided by the mysterious stealth fighter [[M-Bot]], whom she finds abandoned in a cave, Spensa must navigate the pitfalls of flight school, uncover the truth about her father's death, and try not to die at the hands of an enemy starfighter. 
 
@@ -68,23 +70,19 @@ Intelligent species in the Cytoverse have certain members called [[cytonics]] wh
 ## Development
 Brandon wrote Skyward in approximately three months, most of that while he was on tour for Oathbringer or on holiday.
 
-Brandon's premise for the story was "How to Train Your Dragon but instead it's a girl who finds a spaceship and goes to Top Gun school. It's like a mashup between Top Gun and Ender's Game and How to Train Your Dragon with an old broken-down spaceship with a really weird personality."{{url ref |url=https://www.youtube.com/watch?v=k8zdmTXjMHk |text=Brandon Sanderson Reads From Skyward |site=17th Shard YouTube Channel |date=Nov 14, 2017}} 
+Brandon's premise for the story was "How to Train Your Dragon but instead it's a girl who finds a spaceship and goes to Top Gun school. It's like a mashup between Top Gun and Ender's Game and How to Train Your Dragon with an old broken-down spaceship with a really weird personality." 
 
 ==Cover Gallery==
-{{for|/Covers|a cover gallery of *Skyward*}}
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Skyward* consists of one prologue, fifty-five chapters, three interludes and one epilogue, reaching a total 135,366 word count. There are two different unique point-of-view characters in a total of 65 POVs.
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## Notes
 <references>
-{{bws ref|officially-announcing-skyward/|Officially Announcing Skyward|date=Dec 18, 2017|name=sw-announcement}}
+
 </references>
-{{meta/partial}}
-{{skyward}}
-{{books}}
+
 [[category: Skyward| 1]]

@@ -1,4 +1,7 @@
-{{InteriorArtToC|mbe1}}
+---
+source_file: The Hero of AgesInterior art.txt
+entity_type: interiorarttoc
+---
 
 This is a gallery of interior art for *[[The Hero of Ages]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 
@@ -53,6 +56,5 @@ TenSoon's Judgement by Marc Mestre.jpg| <small><center>by [https://www.instagram
 Death of Leras by Álvaro González Huertas .jpeg| <small><center>by [https://twitter.com/maxalvaro Álvaro González Huertas]</center></small> The death of [[Leras]]
 Luthadel in ruins by Víctor Manuel Rodríguez.jpg| <small><center>by [https://victorsickman.artstation.com/ Víctor Manuel Rodríguez]</center></small>[[Luthadel]]
 </gallery>
-
 
 [[Category:Interior art]]

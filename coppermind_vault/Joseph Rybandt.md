@@ -1,4 +1,9 @@
-**Joseph Rybandt** is the editor who edited [[White Sand|White Sand Volume 3]]. He is also the executive editor of [[Dynamite Entertainment]].{{wp ref|Dynamite Entertainment}}
+---
+source_file: Joseph Rybandt.txt
+entity_type: wp ref
+---
+
+**Joseph Rybandt** is the editor who edited [[White Sand|White Sand Volume 3]]. He is also the executive editor of [[Dynamite Entertainment]].
 
 ## See Also
 * [https://www.linkedin.com/in/joseph-rybandt-02867a5/ His LinkedIn page]
@@ -6,5 +11,5 @@
 
 ## Notes
 <references />
-{{real world|complete}}
+
 [[Category: People]]

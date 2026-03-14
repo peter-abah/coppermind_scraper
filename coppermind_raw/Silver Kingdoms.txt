@@ -1,0 +1,38 @@
+{{location
+|image=Silver Kingdoms.jpg
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{update|sa3|sa4}}
+The '''Silver Kingdoms''', or the '''Epoch Kingdoms''', are an ancient coalition of nations on the planet of [[Roshar]], dating back to the era of the [[Knights Radiant]].{{book ref|sa1|19}}{{map ref|Silver Kingdoms}}
+
+== Overview == 
+The era when the Silver Kingdoms existed is called the '''Silver Kingdoms Epoch'''{{map ref|Silver Kingdoms}} or the '''Heraldic Epochs'''. There were ten kingdoms, each of which had a perfectly palindromic name - a reflection of the holiness of symmetry that can be found in [[Vorinism]]. However, it's more than likely that those names predate the rise of Vorin religion.{{book ref|sa1|19}}
+
+Each country had its own purpose within the war against the [[Voidbringer]]s, likely preordained by the [[Herald]]s - for example, [[Alethela]] was the "protector state", set up to preserve the arts of war and train people in case of a [[Desolation]].{{book ref|sa1|19}} All ten states had their own [[Oathgate]]s within their capital cities, connecting them to the Knight Radiant tower city of [[Urithiru]].{{file ref|Oathgate Locations.jpg}} Within Urithiru, each of the states is said to have had a throne set up for its ruler.{{book ref|sa1|45}}
+
+In the modern era, most of the Silver Kingdoms have splintered, evolved into successor states that lack continuity of government with their ancient antecedents, or ceased to exist entirely, with [[Shin Kak Nish]] (now called [[Shinovar]]) and perhaps [[Aimia]] being the only known exceptions (although the [[Scouring of Aimia]] makes its current status unclear). Most, like [[Makabakam]], have splintered into a number of smaller states, while [[Natanatan]] has fallen completely, having been reduced to a small number of stateless settlements and a lone city-state of [[New Natanan]]. However, the modern cultural, ethnic and linguistic make-up of Roshar still reflects that of those ancient kingdoms, and many current borders lie along similar lines to those of old. Many (though not all) of the splinter states that were once Makabakam give nominal fealty to the ruler of [[Azir]], but these states are not truly united in a political sense. Alethela splintered at some time in the past before eventually being reunited into [[Alethkar]] under the [[Sunmaker]]. [[Valhav]] appears to have undergone a similar process, ultimately succeeded in modern times by [[Jah Keved]]. The Silver Kingdom of Iri has been divided into two nations, modern [[Iri]] and [[Rira (country)|Rira]]; it is unknown whether one or both of these states is continuous with the ancient kingdom. [[Rishir]] has been divided into [[Herdaz]] and the many kingdoms of the [[Reshi Isles]], while its capital of Kurth is now part of Rira. [[Thalath]]'s continental territory is largely ungoverned in the modern age, though it does contain the city state of [[Kharbranth]], but the island nation of [[Thaylenah]] appears to be a successor state of some sort. Like Makabakam, the ancient kingdom of [[Sela Tales]] is divided in modern times into several nations; little is known about their relationships to each other or to the old kingdom.{{map ref|Roshar}}
+
+The Silver Kingdoms were{{map ref|Silver Kingdoms}}:
+{{columns|
+*[[Iri]]
+*[[Shin Kak Nish]]
+*[[Sela Tales]]
+*[[Aimia]]
+*[[Makabakam]]
+*[[Valhav]]
+*[[Rishir]]
+*[[Alethela]]
+*[[Natanatan]]
+*[[Thalath]]
+}}
+
+== Trivia ==
+* In [[The Way of Kings Prime]], the Epoch Kingdoms were [[Silnasen]], Riemak, Kavenar, [[Alethkar]], [[Jah Keved]], Svadenar, Thalenah, Prallah, and Inava.{{wob ref|7116}}
+
+== Notes ==
+<references />
+{{partial}}
+{{Stormlight}}
+[[category: Silver Kingdoms| ]]

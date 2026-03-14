@@ -1,14 +1,13 @@
 ---
-#profession: "Soldier"
-nation: "Azir"
-world: "Roshar"
-universe: "Cosmere"
+source_file: Jaskkeem.txt
+entity_type: character
+'#profession': Soldier
+nation: Azir
+world: Roshar
+universe: '[[Cosmere]]'
 ---
 
-{{update|sa5}}
-**Jaskkeem** is an [[Azish]] solider on [[Roshar]].{{book ref|sa5|128}}
+**Jaskkeem** is an [[Azish]] solider on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

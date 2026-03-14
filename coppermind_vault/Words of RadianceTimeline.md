@@ -1,6 +1,12 @@
-This is a day-by-day timeline of events for *[[Words of Radiance]]*. The bulk of the work was accomplished by Cheese Ninja on the 17th Shard.{{17s ref|post|109582|Original decryption of the timeline|date=Mar 11th, 2014}}
+---
+source_file: Words of RadianceTimeline.txt
+entity_type: 17s ref
+date: Mar 11th, 2014
+---
 
-Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generally be assumed to be accurate within a quarter of a year, this has been denoted in the table.{{17s ref|post|90580|text=Peter commenting on chapter timestamps|date= Jan 27th, 2014}}
+This is a day-by-day timeline of events for *[[Words of Radiance]]*. The bulk of the work was accomplished by Cheese Ninja on the 17th Shard.
+
+Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generally be assumed to be accurate within a quarter of a year, this has been denoted in the table.
 
 {| class=infobox width=100%
 |- class=title
@@ -104,7 +110,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
 ! rowspan=5| 7
 ! 1
 |
@@ -113,16 +118,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 2
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 
 |-
-
-
 
 ! 3
 | [[Summary: Words of Radiance/Chapter 3|WoR-3]]
@@ -131,8 +132,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 4
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
@@ -140,15 +139,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 5
 |
 |
 |
 
 |-
-
 
 ! rowspan=5| 8
 ! 1
@@ -158,16 +154,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 2
 | [[Summary: Words of Radiance/Chapter 5|WoR-5]]
 | Dalinar gives permission to Adolin to begin dueling again, announces he wants to re-found the Knights Radiant.
 | <ref name=strangebreakin />
 
 |-
-
-
 
 ! 3
 | style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 6|WoR-6]], [[Summary: Words of Radiance/Chapter 7|WoR-7]], [[Summary: Words of Radiance/Chapter 8|WoR-8]]
@@ -176,8 +168,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 4
 | [[Summary: Words of Radiance/Chapter 9|WoR-9]], [[Summary: Words of Radiance/Chapter 11|WoR-11]], [[Summary: Words of Radiance/Chapter 12|WoR-12]]
 | Shallan washes ashore. Amaram arrives on the Shattered Plains.
@@ -185,15 +175,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 !5
 | style="background-color:#EEEEFF"| WoR-11, [[Summary: Words of Radiance/Chapter 13|WoR-13]]
 | style="background-color:#EEEEFF"| Shallan joins Tvlakv's caravan.
 | style="background-color:#EEEEFF"| <ref name=postshipwrecksleep />
 
 |-
-
 
 ! rowspan=5| 9
 ! 1
@@ -203,16 +190,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 !2
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 
 |-
-
-
 
 !3
 | 
@@ -221,8 +204,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 !4
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
@@ -230,15 +211,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 !5
 | [[Summary: Words of Radiance/Chapter 14|WoR-14]], [[Summary: Words of Radiance/Chapter 15|WoR-15]]
 | Adolin duels using Ironstance. Shallan confronts Tvlakv.
 | <ref name=ironstance /> <ref name=sixdaystogether /> <ref name=fireconfrontation />
 
 |-
-
 
 ! rowspan=5| 10
 ! 1
@@ -248,16 +226,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 2
 | 
 | 
 |
 
 |-
-
-
 
 ! 3
 | style="background-color:#EEEEFF"| 
@@ -266,16 +240,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 4
 |
 | **Highstorm**
 | <ref name=diagramdates /> <ref name=49days />
 
 |-
-
-
 
 ! 5
 | style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 24|WoR-24]], [[Summary: Words of Radiance/Chapter 25|WoR-25]]
@@ -293,16 +263,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 2
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 
 |-
-
-
 
 ! 3
 | 
@@ -311,8 +277,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 4
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
@@ -320,15 +284,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 5
 | 
 | **Highstorm**
 | <ref name=diagramdates />
 
 |-
-
 
 ! rowspan=5| 2
 ! 1
@@ -338,16 +299,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 2
 | 
 | 
 | 
 
 |-
-
-
 
 ! 3
 | style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 28|WoR-28]]
@@ -356,8 +313,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 4
 | [[Summary: Words of Radiance/Chapter 30|WoR-30]]
 | Shallan draws Yalb and Shalash drawings, discusses betrothal with Tyn, and investigates lait.
@@ -365,15 +320,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 5
 | style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 31|WoR-31]], [[Summary: Words of Radiance/Chapter 32|WoR-32]], [[Summary: Words of Radiance/Chapter 33|WoR-33]], [[Summary: Words of Radiance/Chapter 34|WoR-34]], [[Summary: Words of Radiance/Interlude I-5|WoR-I-5]], [[Summary: Words of Radiance/Interlude I-6|WoR-I-6]], [[Summary: Words of Radiance/Interlude I-8|WoR-I-8]]
 | style="background-color:#EEEEFF"| Thude arranges meeting between Alethi and Parshendi. **Highstorm**. Eshonai enters stormform, Szeth attacks, Shallan kills Tyn, Taln arrives at the Shattered Plains.
 | style="background-color:#EEEEFF"| <ref name=diagramdates /> <ref name=38days /> <ref name=ishanahhighstorm /> <ref name=szethattack /> <ref name=parshendimeetingsetup />
 
 |-
-
 
 ! rowspan=5| 3
 ! 1
@@ -383,16 +335,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 2
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 
 |-
-
-
 
 ! 3
 |
@@ -401,8 +349,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 4
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
@@ -410,15 +356,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 5
 | [[Summary: Words of Radiance/Chapter 46|WoR-46]]
 | Kaladin gives Rlain a spear.  Kaladin and Moash meet with Graves
 | <ref name=ishevanb />
 
 |-
-
 
 ! rowspan=5| 4
 ! 1
@@ -428,16 +371,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 2
 | [[Summary: Words of Radiance/Chapter 51|WoR-51]], [[Summary: Words of Radiance/Chapter 52|WoR-52]]
 | Adolin meets with Eshonai. Shallan infiltrates Amaram's manor. Kaladin trains in the Surge of Gravitation.  Rlain leaves warcamps for Narak.
 | <ref name=parshendimeetingsetup /> <ref name=parshendimeeting /> <ref name=ishevana /> <ref name=ishevanb />
 
 |-
-
-
 
 ! 3
 | style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 53|WoR-53]], [[Summary: Words of Radiance/Chapter 54|WoR-54]]
@@ -446,8 +385,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 4
 | [[Summary: Words of Radiance/Chapter 55|WoR-55]]
 | Adolin, Shallan, and Kaladin go to the menagerie. Hoid.
@@ -455,15 +392,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 5
 | style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 56|WoR-56]], [[Summary: Words of Radiance/Chapter 57|WoR-57]], [[Summary: Words of Radiance/Chapter 58|WoR-58]]
 | style="background-color:#EEEEFF"| Adolin duels the four Shardbearers. Kaladin is thrown in prison.
 | style="background-color:#EEEEFF"| <ref name=adolinsblunder /> <ref name=witvisit />
 
 |-
-
 
 ! rowspan=5| 5
 ! 1
@@ -473,14 +407,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
 ! 2
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 
 |-
-
 
 ! 3
 | [[Summary: Words of Radiance/Chapter 59|WoR-59]]
@@ -489,7 +421,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
 ! 4
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
@@ -497,14 +428,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
 ! 5
 | 
 | 
 |
 
 |-
-
 
 ! rowspan=5| 6
 ! 1
@@ -514,16 +443,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 2
 |
 | 
 | 
 
 |-
-
-
 
 ! 3
 | style="background-color:#EEEEFF"| 
@@ -532,8 +457,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 4
 | [[Summary: Words of Radiance/Chapter 62|WoR-62]]
 | Dalinar visits Kaladin in prison.
@@ -541,15 +464,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 5
 | style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 63|WoR-63]], [[Summary: Words of Radiance/Chapter 64|WoR-64]]
 | style="background-color:#EEEEFF"| Shallan meets "Taln".
 | style="background-color:#EEEEFF"| <ref name=dalinarvisitb />
 
 |-
-
 
 ! rowspan=5| 7
 ! 1
@@ -559,14 +479,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
 ! 2
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 
 |-
-
 
 ! 3
 | 
@@ -575,7 +493,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
 ! 4
 | style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 66|WoR-66]]
 | style="background-color:#EEEEFF"| Kaladin is released. Moash begins bonding a Shardblade.
@@ -583,14 +500,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
 ! 5
 | 
 | 
 | 
 
 |-
-
 
 ! rowspan=5| 8
 ! 1
@@ -600,16 +515,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 2
 | [[Summary: Words of Radiance/Chapter 67|WoR-67]]
 | Dalinar's visions are made public.
 | <ref name=11days />
 
 |-
-
-
 
 ! 3
 | style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 68|WoR-68]], [[Summary: Words of Radiance/Chapter 69|WoR-69]], [[Summary: Words of Radiance/Chapter 70|WoR-70]]
@@ -618,8 +529,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 4
 | WoR-70, [[Summary: Words of Radiance/Chapter 71|WoR-71]], [[Summary: Words of Radiance/Chapter 72|WoR-72]], [[Summary: Words of Radiance/Chapter 74|WoR-74]]
 | Kaladin and Shallan slay chasmfiend. During **Highstorm** Stormfather confronts Kaladin over Syl's death.
@@ -627,15 +536,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 5
 | style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 75|WoR-75]], [[Summary: Words of Radiance/Chapter 76|WoR-76]], [[Summary: Words of Radiance/Chapter 77|WoR-77]]
 | style="background-color:#EEEEFF"| Kaladin and Shallan emerge from the chasms. Dalinar's expedition leaves. Amaram's treachery is revealed.
 | style="background-color:#EEEEFF"| <ref name=trueglory /> <ref name=weeping76 />
 
 |-
-
 
 ! rowspan=5| 9
 ! 1
@@ -645,16 +551,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 2
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 
 |-
-
-
 
 ! 3
 | 
@@ -663,8 +565,6 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 4
 | style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 78|WoR-78]]
 | style="background-color:#EEEEFF"| Shallan reveals her Lightweaving to Dalinar. Stormform patrol is discovered. Rlain surrenders.
@@ -672,15 +572,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 5
 | [[Summary: Words of Radiance/Chapter 79|WoR-79]]
 | Rlain is questioned.
 | <ref name=dayafterparshendi /> <ref name=countdownend />
 
 |-
-
 
 ! rowspan=5| 10
 ! 1
@@ -690,17 +587,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
-
 ! 2
 | [[Summary: Words of Radiance/Chapter 80|WoR-80]]
 | Dalinar, the other Highprinces, and Shallan discuss their plan of attack. Elhokar meets with Kaladin.
 | <ref name=eighthdayofexpedition /> <ref name=1day />
 
 |-
-
-
 
 ! 3
 | style="background-color:#EEEEFF"| [[Summary: Words of Radiance/Chapter 81|WoR-81]], [[Summary: Words of Radiance/Chapter 82|WoR-82]], [[Summary: Words of Radiance/Chapter 83|WoR-83]], [[Summary: Words of Radiance/Chapter 84|WoR-84]], [[Summary: Words of Radiance/Chapter 85|WoR-85]], [[Summary: Words of Radiance/Chapter 86|WoR-86]], [[Summary: Words of Radiance/Chapter 87|WoR-87]], [[Summary: Words of Radiance/Chapter 88|WoR-88]]
@@ -709,16 +601,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 4
 | 
 | 
 | 
 
 |-
-
-
 
 ! 5
 | style="background-color:#EEEEFF"| 
@@ -736,16 +624,12 @@ Chapter timestamps of "XXX years ago" or "XXX and a half years ago" can generall
 
 |-
 
-
-
 ! 2
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 | style="background-color:#EEEEFF"| 
 
 |-
-
-
 
 ! 3
 | [[Summary: Words of Radiance/Chapter 89|WoR-89]]
@@ -783,7 +667,7 @@ Chapters not included:
 <ref name=wor-65>In WoR-65 Shallan mentions that it has been two hours since the end of WoR-61.</ref>
 <ref name=wor-73>WoR-73 is labeled "One year ago from circa Ishi 1173.</ref>
 <ref name=wor-73b>In WoR-73 it says "...a highstorm was approaching. The last one before the Weeping."</ref>
-{{ref|text=[[Words of Radiance/Epigraphs#Chapter 88|WoR-88 Epigraph]] lists dates for the final 10 highstorms leading up to the summoning of the Everstorm, as confirmed by the intervals between the countdown messages.|name=diagramdates}}
+
 <ref name=peter-tower/highstorm>[http://www.17thshard.com/forum/topic/6262-stormlight-chronology-notes/#entry101454 The highstorm in WoK-75 takes place after midnight the day after the Battle of the Tower. WoR-1 and WoR-2 take place later that morning.]</ref>
 <ref name=patternsummoning>In WoR-6 Shallan mentions that after drawing Pattern she initially tried to keep him hidden in her cabin but that for the previous 4 days she'd been with him on deck.</ref>
 <ref name=62days>First countdown message is discovered: "Sixty-two days. Death follows."</ref>
@@ -842,5 +726,5 @@ Chapters not included:
 <ref name=5monthpostmomdeath>In WoR-19 one of the House Davar maids mention it has been five months since Shallan's mother's death.</ref>
 <ref name=shallan14.5>In WoR-48 it is mentioned Shallan hit her teens "precisely fifteen months" previous.</ref>
 </References>
-{{Words of Radiance Summaries}}
+
 [[Category:Subpages]]

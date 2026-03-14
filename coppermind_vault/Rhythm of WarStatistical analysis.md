@@ -1,7 +1,11 @@
+---
+source_file: Rhythm of WarStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains some statistical analysis of ***[[Rhythm of War]]***, the fourth book in [[The Stormlight Archive]].
 
 For a full series overview see [[The Stormlight Archive/Statistical analysis]], and for other books in the series see [[The Way of Kings/Statistical analysis]], [[Words of Radiance/Statistical analysis]],[[Oathbringer/Statistical analysis]], and [[Wind and Truth/Statistical analysis]].
-
 
 The information on this page can be found [https://docs.google.com/spreadsheets/d/1RzIu82lTQz-utNYtTEe7KGA7Yw8eAh46wqWkPCvAsRk/edit here].
 
@@ -659,7 +663,5 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 | align="right" | 0.13%
 |}
 
-{{meta/done}}
-{{Stormlight}}
 [[Category: Stormlight Archive|*4x]]
 [[category: statistics]]

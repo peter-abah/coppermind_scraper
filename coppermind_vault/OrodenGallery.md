@@ -1,3 +1,8 @@
+---
+source_file: OrodenGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Darkeyes by Gal Or.jpg| <center><small>by Gal Or</small></center> With [[Hesina]] and [[Lirin]], *[[Call to Adventure: The Stormlight Archive]]*

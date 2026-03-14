@@ -1,25 +1,24 @@
 ---
-image: "Faultline portrait.png"
-abilities: "{{tag+|Epic"
+source_file: Faultline.txt
+entity_type: character
+image: Faultline portrait.png
+abilities: Epic
+died: Killed by [[Steelheart (Epic)|Steelheart]] after [[Day of Annexation|Annexation]]
+residence: Newcago
+earth: Reckoners
+introduced: '[[Steelheart]]'
 ---
 
-|died=Killed by [[Steelheart (Epic)|Steelheart]] after [[Day of Annexation|Annexation]]
-|residence=Newcago
-|earth=Reckoners
-|introduced=[[Steelheart]]
-}}
-**Faultline** is a powerful [[Epic]] who initially works for [[Steelheart (Epic)|Steelheart]]. She is a thin woman who wears her hair in a bun.{{book ref|Steelheart|Prologue}} 
+**Faultline** is a powerful [[Epic]] who initially works for [[Steelheart (Epic)|Steelheart]]. She is a thin woman who wears her hair in a bun. 
 
 ## Attributes and Ability
-Faultline has two second-tier abilities--moving softer earth and turning earth and stone into sand--which combine into a first-tier power. She is powerful, but fragile, as she has no prime invincibility.{{book ref|Steelheart|25}}
+Faultline has two second-tier abilities--moving softer earth and turning earth and stone into sand--which combine into a first-tier power. She is powerful, but fragile, as she has no prime invincibility.
 
-It is also known that Faultline can appear to make earthquakes, by softening the earth and pulling back on it, though it is never shown.{{book ref|Steelheart|25}}
+It is also known that Faultline can appear to make earthquakes, by softening the earth and pulling back on it, though it is never shown.
 
 ## History
-Faultline was seen using her powers when she sent the [[First Union Bank (Newcago)|First Union Bank]] deep underground by turning the earth into sand, and letting it sink. She also created a cushion of earth around the bank as it sank, ultimately protecting it.{{book ref|steelheart|25}}
-Faultline later challenged Steelheart, attempting to take over [[Newcago]]. Steelheart dealt with her personally, and killed her.{{book ref|steelheart|13}}
+Faultline was seen using her powers when she sent the [[First Union Bank (Newcago)|First Union Bank]] deep underground by turning the earth into sand, and letting it sink. She also created a cushion of earth around the bank as it sank, ultimately protecting it.
+Faultline later challenged Steelheart, attempting to take over [[Newcago]]. Steelheart dealt with her personally, and killed her.
 
 ## Notes
 <references />
-{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 04:40, 22 March 2023 (UTC)}}
-{{Reckoners}}

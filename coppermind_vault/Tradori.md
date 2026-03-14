@@ -1,11 +1,11 @@
-{{lifeform
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-{{update|sky4}}
-The **tradori** are a species in the [[Superiority]].{{book ref|sky4|2}}
+---
+source_file: Tradori.txt
+entity_type: lifeform
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
+
+The **tradori** are a species in the [[Superiority]].
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

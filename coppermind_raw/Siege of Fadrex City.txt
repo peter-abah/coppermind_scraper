@@ -1,0 +1,35 @@
+{{event
+|image=March to Fadrex by Michael Howard.jpg
+|era=[[New Empire]]
+|participants=[[Elend]], [[Aradan Yomen]], [[koloss]], [[Marsh]], [[Hammond]]
+|city=Fadrex City
+|dominance=Western
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn (series)#Era 1|Mistborn Era 1]]
+}}
+The '''Siege of Fadrex City''' was one of the major events on [[Scadrial]] between the [[Collapse]] of the [[Final Empire]] and the [[Final Ascension|ascension]] of [[Sazed]].{{book ref|mb3|21}}
+
+The human and [[koloss]] armies of the [[New Empire]] under Emperor [[Elend Venture]]'s command, besieged [[Fadrex City]], the seat of [[Aradan Yomen]]'s throne.{{book ref|mb3|25}} Elend led an army of thirty eight thousand soldiers against twenty five thousand defenders.{{book ref|mb3|21}}{{book ref|mb3|25}} These armies had been assessed as nearly of the same strength, taking account of the strong defense fortification of Fadrex City. Elend also commanded twenty thousand [[koloss]], which unbalanced the strength of the two armies.{{book ref|mb3|25}}
+
+After two weeks Yomen started the first attack on the army of the New Empire. It consisted of three small attacks, one coming from north and the second from south. Both were used as a distraction from the third one, taking place at the koloss camp. Eleven thousand koloss died under the fire of catapults or killing each other in bloodlust.{{book ref|mb3|37}}
+
+After this incident Elend asked to debate with Yomen. The conference resulted in Venture's wife [[Vin]] being taken hostage.{{book ref|mb3|44}} Elend reacted by fighting a koloss army nearby Fadrex City and returning with twenty eight thousand koloss, which made his koloss army thirty seven thousand koloss strong.{{book ref|mb3|51}}{{book ref|mb3|55}}
+
+Following the orders of [[Marsh]], Yomen sent his army to the fields to battle the koloss army.{{book ref|mb3|63}} Although Elend easily could have beaten the army, he drew back, heeding the advice of his general, [[Hammond]].{{book ref|mb3|65}} This proved to be a good idea, since [[Ruin]] eventually took control over all the koloss in order to annihilate both the armies of Elend and Yomen.{{book ref|mb3|65}}
+
+As the koloss broke mad, Yomen decided to open his gates to let the army of Elend in.{{book ref|mb3|65}} Meanwhile, Vin escaped from Fadrex City and travelled to [[Luthadel]].{{book ref|mb3|67}}
+
+Ruin gathered a large koloss army in front of the city. In Fadrex City Elend began to understand the function of the [[mistfallen]] and realized that he now had a new army of five thousand [[Misting]]s. After this conclusion, Ruin ordered the attack on Fadrex.{{book ref|mb3|70}}
+
+After some hours of fighting the koloss suddenly ran away from the city, in the direction of Luthadel, where Vin took up the [[Shard]] [[Preservation]].{{book ref|mb3|73}}
+
+== Notes ==
+{{history
+|title=History of [[Scadrial]]
+|prev=[[Coup of Urteau]]
+|next=[[Battle of Hathsin]]
+}}
+<references />
+{{partial}}
+{{Mistborn|Era 1}}

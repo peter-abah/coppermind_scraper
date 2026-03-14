@@ -1,4 +1,7 @@
-{{Template:disambig}}
+---
+source_file: Marks.txt
+entity_type: template:disambig
+---
 
 **'Marks**' may refer to either of these different characters:
 

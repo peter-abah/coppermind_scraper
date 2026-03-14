@@ -1,13 +1,13 @@
 ---
-residence: "Elendel"
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 2"
+source_file: Jarrington.txt
+entity_type: character
+residence: Elendel
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-**Jarrington** is the head of recruitment at [[Metalurgistics Allied]] in [[Elendel]] on [[Scadrial]].{{file ref|Elendel_Daily_broadsheet.png|*The Elendel Daily* Broadsheet}}
+**Jarrington** is the head of recruitment at [[Metalurgistics Allied]] in [[Elendel]] on [[Scadrial]].
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 02:26, 17 November 2021 (UTC)}}
-{{Mistborn|Era 2}}

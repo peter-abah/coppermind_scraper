@@ -1,3 +1,8 @@
+---
+source_file: Nizh Da.txt
+entity_type: article
+---
+
 #REDIRECT [[Taldain#Astronomy]]
 [[Category: Locations]]
 [[Category: White Sand]]

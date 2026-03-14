@@ -1,16 +1,19 @@
-{{book
-|cover=Words_of_Radiance.jpg
-|released=March 4, 2014
-|series=[[The Stormlight Archive]]
-|prequel=The Way of Kings
-|sequel=Oathbringer
-|setting=[[Roshar]], [[Cosmere]]
-|publisher=Tor Books
-|ISBN=978-0-7653-2636-2
-|page-count=1,088
-|word-count=[[/Statistical_analysis|398,238]]
-}}{{for|Words of Radiance (in-world)|the in-universe work|pre= This article refers to the novel written by [[Brandon Sanderson]]}}
-***Words of Radiance*** is the title for the second book in [[The Stormlight Archive]].{{tor ref|the-title-for-brandon-sandersons-second-stormlight-archive-book-has-been-revealed|Words of Radiance press release|date= Feb 28th, 2013}}  It was released on March 4th, 2014.
+---
+source_file: Words of Radiance.txt
+entity_type: book
+cover: Words_of_Radiance.jpg
+released: March 4, 2014
+series: '[[The Stormlight Archive]]'
+prequel: The Way of Kings
+sequel: Oathbringer
+setting: '[[Roshar]], [[Cosmere]]'
+publisher: Tor Books
+isbn: 978-0-7653-2636-2
+page-count: 1,088
+word-count: '[[/Statistical_analysis|398,238]]'
+---
+
+***Words of Radiance*** is the title for the second book in [[The Stormlight Archive]].  It was released on March 4th, 2014.
 
 ## Synopsis
 ''The [[Knights Radiant]] must stand again.
@@ -38,8 +41,6 @@ Brilliant but troubled Shallan strives along a parallel path. Despite being brok
 Meanwhile, at the heart of the [[Shattered Plains]], the Parshendi are making an epochal decision. Hard pressed by years of Alethi attacks, their numbers ever shrinking, they are convinced by their war leader, Eshonai, to risk everything on an desperate gamble with the very supernatural forces they once fled. The consequences for Parshendi and humans alike—indeed, for [[Roshar]] itself—are as dangerous as they are incalculable.
 
 ## Summary
-{{for|/Summary|a chapter by chapter summary}}
-{{for|/Chapter index|an index of chapter breaks in various editions}}
 
 Shallan is the flashback character in this volume. The flashback scenes describe the gradual destruction of her family and reveal the details of the murders of her two murderous and/or abusive parents.
 
@@ -85,10 +86,8 @@ With the countdown clock almost to zero, Dalinar prepares to make his assault ag
 
 Dalinar leads a large army to the center of the Shattered Plains, guided by Shallan, to try to end the war once and for all. Kaladin broods over his loss of Syl and his injuries. He has an epiphany and goes to protect the incompetent king from assassination. He is confronted by Moash and is about to die from his wounds until he says the words:
 
-{{quote
-| I will protect even those I hate so long as it is right.
-| Kaladin
-}}
+> I will protect even those I hate so long as it is right.
+> — Kaladin
 
 Syl returns and becomes his shardblade. He fights off Moash and Graves.
 
@@ -97,10 +96,8 @@ The Alethi army encounters the Parshendi, who have taken on a strange new form. 
 Dalinar, Shallan, Kaladin, and Renarin gather in Urithiru and declare themselves as Knights Radiant.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery for Words of Radiance}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## Translations
 {| class="infobox sortable" style="width:50%;" align=center
@@ -201,15 +198,15 @@ Dalinar, Shallan, Kaladin, and Renarin gather in Urithiru and declare themselves
 * [[Words of Radiance/Covers]]
 
 ## Trivia
-* The working title for the book was ***The Book of Endless Pages*** but, [[Brandon]] decided to rename it due to the irony of the book having over 1000 pages.{{wob ref|10033}}
-* One of the scenes that Brandon had in mind from the beginning that helped guide the plot was when Kaladin swears the Third Ideal of the [[Order of Windrunners]] in [[Summary:Words of Radiance#Chapter 84|Chapter 84]].{{wob ref|7140}}
+* The working title for the book was ***The Book of Endless Pages*** but, [[Brandon]] decided to rename it due to the irony of the book having over 1000 pages.
+* One of the scenes that Brandon had in mind from the beginning that helped guide the plot was when Kaladin swears the Third Ideal of the [[Order of Windrunners]] in [[Summary:Words of Radiance#Chapter 84|Chapter 84]].
 
 ==Awards==
-*2014 Whitney Award for Speculative Fiction{{url ref|url=http://whitneyawards.com/2015/05/18/2014-winners/|text= 2014 Whitney Award Winners|site= http://whitneyawards.com|date= May 18th 2015}}
-*2015 Audie Award for Fantasy (for the audiobook){{url ref|url=http://reviews.libraryjournal.com/2015/05/media/audio/2015-audie-award-winners-announced/|text= 2015 Audie Award Winners|site= reviews.libraryjournal.com|date= May 29th, 2015}}
+*2014 Whitney Award for Speculative Fiction
+*2015 Audie Award for Fantasy (for the audiobook)
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Words of Radiance* consists of one prologue, eighty-nine chapters, fourteen interludes, and one epilogue, reaching a total 398,238 word count. There are twenty-one different unique point-of-view characters in a total of 178 POVs.
 
 {|class="wikitable"
@@ -237,8 +234,6 @@ Dalinar, Shallan, Kaladin, and Renarin gather in Urithiru and declare themselves
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Stormlight}}
-{{books}}
+
 [[category: Stormlight Archive| 2]]
 [[category: list articles]]

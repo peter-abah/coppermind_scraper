@@ -1,0 +1,18 @@
+{{culture
+|related=[[Siah Aimian]]s
+|origin={{tag|Aimia}}
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{quote
+|When the Curse of Kind followed you, you learned to take what happened as it happened.
+|[[Axies]]' thoughts{{book ref|sa1|i|5}}
+}}
+The '''Curse of Kind''' is something that affects [[Axies]] the Collector; he specifically describes it as "following" him.{{book ref|sa1|i|5}} Bad luck follows in the wake of those with the Curse of Kind, affecting people who interact with someone with the curse and possibly those with the curse as well. This effect is tied to [[Fortune]].{{wob ref|13795}} As a result of the curse, Axies has learned to be more accepting of and adjust to events that happen to him.{{book ref|sa1|i|5}} The curse may be related to the [[Siah Aimian]]s or [[Aimia]] more broadly. It is similar to the Torment caused by wielding a [[Dawnshard]].{{wob ref|16389}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 05:17, 18 July 2020 (UTC)}}
+{{Stormlight}}
+[[Category:Magic]]

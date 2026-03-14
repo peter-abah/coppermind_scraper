@@ -1,17 +1,16 @@
 ---
-occupation: "{{cat tag|Scholars|Scholar"
+source_file: Fabrisan.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Fabrisan** is likely a scholar on [[Roshar]] during the [[Era of Solitude]].{{book ref|sa1|5}}
+**Fabrisan** is likely a scholar on [[Roshar]] during the [[Era of Solitude]].
 
-Fabrisan discovered a problem that was considered to be either incredibly difficult or impossible to solve.{{book ref|sa1|5}} This problem was termed **Fabrisan's Conundrum**. For some reason, a solution to Fabrisan's Conundrum had the potential to help the world.{{book ref|sa2|i|14}} On one of King [[Taravangian]]'s most intelligent days, he solved Fabrisan's Conundrum. It seems that he did not share his solution.
+Fabrisan discovered a problem that was considered to be either incredibly difficult or impossible to solve. This problem was termed **Fabrisan's Conundrum**. For some reason, a solution to Fabrisan's Conundrum had the potential to help the world. On one of King [[Taravangian]]'s most intelligent days, he solved Fabrisan's Conundrum. It seems that he did not share his solution.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 19:46, 19 May 2021 (UTC)}}
-{{Stormlight}}
+
 [[es:Fabrisan]]

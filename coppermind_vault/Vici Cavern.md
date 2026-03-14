@@ -1,16 +1,16 @@
-{{geography
-|type={{cat tag|Caves|Cave}}
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-**Vici Cavern** is a human-inhabited cavern on [[Detritus]].{{book ref|Skyward|8}}{{book ref|Skyward|9}}
+---
+source_file: Vici Cavern.txt
+entity_type: geography
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
 
-They are descendants from marines of *[[Defiant (starship)|Defiant]]*,{{book ref|sky1|13}} and are rumored to be great warriors.{{book ref|sky1|8}} They have a separate culture and mostly keep to themselves.{{book ref|Skyward|8}}
+**Vici Cavern** is a human-inhabited cavern on [[Detritus]].
 
-[[Morningtide]] is a **Vician**. English is not her first language, which may mean the Vician's are also not English speakers.{{book ref|Skyward|13}} Additionally, they may have a distinct accent from those that live in other caverns.{{book ref|sky1|9}} [[Spensa]] also noted that she had a tattoo across her jaw that seemed to identify her as Vician.{{book ref|Skyward|8}}
+They are descendants from marines of *[[Defiant (starship)|Defiant]]*, and are rumored to be great warriors. They have a separate culture and mostly keep to themselves.
+
+[[Morningtide]] is a **Vician**. English is not her first language, which may mean the Vician's are also not English speakers. Additionally, they may have a distinct accent from those that live in other caverns. [[Spensa]] also noted that she had a tattoo across her jaw that seemed to identify her as Vician.
 
 ## Notes
 <references />
-{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 23:55, 20 July 2019 (MST)}}
-{{Skyward}}

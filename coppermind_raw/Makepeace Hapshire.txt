@@ -1,0 +1,14 @@
+{{character
+|world=Threnody
+|universe=[[Cosmere]]
+|books=[[Shadows for Silence]]
+}}
+'''Makepeace Hapshire''' is a person said to have been caught by the [[White Fox]] in the [[Forests of Hell]] on [[Threnody]].{{book ref|sfs}}
+
+[[Daggon]] tells [[Lamentation Winebare]] the story of Makepeace at [[Silence's waystop]].{{book ref|sfs}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:43, 26 December 2016 (MST)}}
+{{Shadows for Silence}}
+[[es:Concilio Hapshire]]

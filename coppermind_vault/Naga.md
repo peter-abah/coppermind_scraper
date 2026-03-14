@@ -1,17 +1,14 @@
 ---
-species: "Taynix"
-abilities: "{{tag+|cytonics"
+source_file: Naga.txt
+entity_type: character
+species: Taynix
+abilities: cytonics, mimicry
+world: Detritus
+universe: '[[Cytoverse]]'
+introduced: '[[ReDawn (novella)|ReDawn]]'
 ---
 
-, mimicry
-|world=Detritus
-|universe=[[Cytoverse]]
-|introduced=[[ReDawn (novella)|ReDawn]]
-}}
-{{update|sf2|sf3}}
-**Naga** is a [[taynix]] found on [[Detritus]]. Naga is partners with Arturo.{{book ref|sf2|12}}
+**Naga** is a [[taynix]] found on [[Detritus]]. Naga is partners with Arturo.
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

@@ -1,18 +1,17 @@
 ---
-profession: "Boatman"
-world: "Scadrial"
-universe: "Cosmere"
-introduced: "Shadows of Self"
+source_file: Red (Scadrial).txt
+entity_type: character
+profession: Boatman
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[Shadows of Self]]'
 ---
 
-{{for|Red|other characters with this name}}
-**Red** is a boatman that operates in the canals in [[Elendel]] on Scadrial.{{book ref|mb5|5}}
+**Red** is a boatman that operates in the canals in [[Elendel]] on Scadrial.
 
-Red gives [[Wayne]] a ride to [[Elendel University]], which Wayne pays for with a coin he was holding in his mouth.{{book ref|mb5|5}}
+Red gives [[Wayne]] a ride to [[Elendel University]], which Wayne pays for with a coin he was holding in his mouth.
 
-Wayne often gets rides from Red, because the man will give him free passage in exchange for a story.{{book ref|mb5|5}} Wayne thinks Red is a nice man, and Red seems to think likewise about Wayne.
+Wayne often gets rides from Red, because the man will give him free passage in exchange for a story. Wayne thinks Red is a nice man, and Red seems to think likewise about Wayne.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 12:54, 2 June 2018 (MST)}}
-{{Mistborn|Era 2}}

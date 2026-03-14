@@ -1,16 +1,16 @@
-{{media
-|image=House War Cover Art.jpeg
-|released=November 15, 2017
-|publisher=Crafty Games
-|setting=[[Cosmere]], [[Scadrial]]
-}}
+---
+source_file: Mistborn House War.txt
+entity_type: media
+image: House War Cover Art.jpeg
+released: November 15, 2017
+publisher: Crafty Games
+setting: '[[Cosmere]], [[Scadrial]]'
+---
 
-**Mistborn: House War** is a table-top board game developed by [[Crafty Games]], the makers of the [[Mistborn Adventure Game]], which was released on November 15th, 2017.<ref name=kickstarter /> It was designed by Kevin Wilson.{{ref|name=GCplans}}. An expansion, Mistborn: The Siege of Luthadel, was set for release on December 1st, 2020.{{ref|name=Siege}}
+**Mistborn: House War** is a table-top board game developed by [[Crafty Games]], the makers of the [[Mistborn Adventure Game]], which was released on November 15th, 2017.<ref name=kickstarter /> It was designed by Kevin Wilson.. An expansion, Mistborn: The Siege of Luthadel, was set for release on December 1st, 2020.
 
-{{quote
-|Become the head of a Great House of Luthadel in this game of negotiation and betrayal, set in the world of Brandon Sanderson's *Mistborn* novels. Contend with myriad problems plaguing the Final Empire — rampaging koloss, disease, social unrest, even the heroes of the novels — and with every step jockey for the Lord Ruler's favor. At the end of the story will you rise to power and prestige, or fall in ruin and disgrace?
-|Teaser description{{ref|name=GCplans}}
-}}
+> Become the head of a Great House of Luthadel in this game of negotiation and betrayal, set in the world of Brandon Sanderson's *Mistborn* novels. Contend with myriad problems plaguing the Final Empire — rampaging koloss, disease, social unrest, even the heroes of the novels — and with every step jockey for the Lord Ruler's favor. At the end of the story will you rise to power and prestige, or fall in ruin and disgrace?
+> — Teaser description
 
 ## Gameplay
 Players assume the role of a Noble house and must solve problems in concert while trying to earn the most Favor with the Lord Ruler. There are six resources, Food, Money, Prestige, Skaa, Warriors, and Atium (which serves as a wildcard). There are also two types of cards. Personality cards, which players can use for a variety of effects, such as reducing the resource requirements of the second type of card, Problem cards. Problem cards are scenarios that the players must solve to earn "Favor", and if they fail to do so negative repercussions occur including the awarding of "Disgrace" (negative Favor) or the "Unrest" level being raised. Each House earns different resources forcing them to work together in order to solve Problems.<ref name=kickstarter />
@@ -18,7 +18,7 @@ Players assume the role of a Noble house and must solve problems in concert whil
 The game ends when a special Problem card, Vin, is either solved or "erupts" or the Unrest level reaches 8. If the game ends with Unrest below 8 then the player with the most Favor wins, if the game ends with Unrest at 8 or higher the player with the least Favor wins.
 
 **Playable Houses:**
-{{columns|
+
 *[[House Venture]]
 *[[House Hasting]]
 *[[House Elariel]]
@@ -31,13 +31,12 @@ The game ends when a special Problem card, Vin, is either solved or "erupts" or 
 *[[House Haught]]
 *[[House Urbain]]
 *[[House Buvidas]]
-}}
 
 ## Development
-Crafty Games announced development of a Mistborn-themed board game on March 22, 2015.{{tweet ref|579812383519965184|date= Mar 22nd, 2015|text= Crafty Games announce Mistborn board game in development.}} Brandon, not being an extensive board gamer required them to bring in with a "proven track record" in the industry as he could not himself do quality control in the same way he could with the Mistborn Adventure Game.{{reddit ref|boardgames|4o8xly|d4bcsqg|text=Brandon comments on Mistborn: House War|date=Jun 16th, 2016}} A [[Crowdfunding Campaigns|crowdfunding campaign]] on Kickstarter for the game was launched on June 15, 2016 that raised $339,973, and the game was officially released on November 17th, 2017.<ref name=kickstarter /> 
+Crafty Games announced development of a Mistborn-themed board game on March 22, 2015. Brandon, not being an extensive board gamer required them to bring in with a "proven track record" in the industry as he could not himself do quality control in the same way he could with the Mistborn Adventure Game. A [[Crowdfunding Campaigns|crowdfunding campaign]] on Kickstarter for the game was launched on June 15, 2016 that raised $339,973, and the game was officially released on November 17th, 2017.<ref name=kickstarter /> 
 
 ## Expansion
-On May 1st, 2019, the first expansion to Mistborn: House War was announced.{{ref|name=siegeannounce}} Featuring content from <i>[[The Well of Ascension]]</i>, Mistborn: The Siege of Luthadel was slated for release on December 1st, 2020.
+On May 1st, 2019, the first expansion to Mistborn: House War was announced. Featuring content from <i>[[The Well of Ascension]]</i>, Mistborn: The Siege of Luthadel was slated for release on December 1st, 2020.
 
 ## Card Art
 Some of the card art has been released publicly.
@@ -79,14 +78,8 @@ House War - Charge.jpg| <small><center>by Júlio Cesar Oliveira Rocha</center></
 ## Notes
 <references>
 
-{{url ref|name=GCplans|url=http://www.crafty-games.com/forum/index.php?topic=8183.msg157477|text=Crafty Games' GenCon 2015 schedule|site=Crafty-Games.com|date=Jul 21st, 2015}}
-{{url ref|name=kickstarter|url=https://www.kickstarter.com/projects/craftygames/mistborn-house-war/|text=Kickstarter page for Mistborn: House War|site=Kickstarter.com|date=Jun 15th, 2016}}
-{{url ref|name=Siege|url=https://www.crafty-games.com/shop/mistborn-siege-of-luthadel/|text=Pre-order page for Mistborn: The Siege of Luthadel|site=Crafty-Games.com|date=Sept 11th, 2020}}
-{{url ref|name=siegeannounce|url=https://www.kickstarter.com/projects/craftygames/mistborn-house-war/posts/2495112|text=Announcement for Mistborn: The Siege of Luthadel|site=Kickstarter.com|date=May 1st, 2019}}
-
 </references>
 ;Footnotes
 <references group=fn />
-{{meta/partial}}
-{{Mistborn}}
+
 [[category: meta]]

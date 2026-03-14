@@ -1,17 +1,17 @@
 ---
-family: "House Smedry"
-parents: "Pattywagon Smedry|Pattywagon"
-siblings: "Quentin Smedry|Quentin"
-spouse: "Himalaya Smedry|Himalaya"
-profession: "Journalist"
-abilities: "{{tag+|Smedry"
+source_file: Folsom Smedry.txt
+entity_type: character
+family: '[[House Smedry]]'
+parents: '[[Pattywagon Smedry|Pattywagon]]'
+siblings: '[[Quentin Smedry|Quentin]]'
+spouse: '[[Himalaya Smedry|Himalaya]]'
+profession: Journalist
+abilities: Smedry
+earth: Alcatraz
+introduced: '[[The Knights of Crystallia]]'
 ---
 
-|earth=Alcatraz
-|introduced=[[The Knights of Crystallia]]
-}}
-{{update|a6}}
-**Folsom Smedry** is a literary critic for the [[Nalhalla]]n Daily, a staff writer for plays, and acts as an advisor to the [[Council of Kings]].{{book ref|a3|4}} His Smedry Talent is that he dances uncontrollably to any music being played. He helped [[Himalaya Smedry|Himalaya]] adjust to life in the Free Kingdoms after she defected from the Evil Librarians. They fall in love and are eventually married by Folsom's cousin [[Alcatraz Smedry|Alcatraz]]. 
+**Folsom Smedry** is a literary critic for the [[Nalhalla]]n Daily, a staff writer for plays, and acts as an advisor to the [[Council of Kings]]. His Smedry Talent is that he dances uncontrollably to any music being played. He helped [[Himalaya Smedry|Himalaya]] adjust to life in the Free Kingdoms after she defected from the Evil Librarians. They fall in love and are eventually married by Folsom's cousin [[Alcatraz Smedry|Alcatraz]]. 
 
 ## Appearance and Personality
 Folsom is described as being a young man in his twenties with black hair and a hawkish face, and looks a lot like his brother, Quentin. He often rates things that he sees, changing the rating system to fit the situation. He is openly honest with what he thinks about people, even when it comes across as harsh or insensitive. 
@@ -20,9 +20,7 @@ Folsom is described as being a young man in his twenties with black hair and a h
 Folsom's Talent is that he can dance really poorly. It's a knowledge talent on the [[Smedry Talent|Incarnate Wheel]]. The talent only engages when he hears music, though that music can be as simple as a person singing. The poor dancing most often appears to take the form of violent and powerful fighting.
 
 ## Trivia
-* His name is a reference to the [[wikipedia:Folsom_State_Prison|Folsom State Prison]].{{wob ref|13678}}
+* His name is a reference to the [[wikipedia:Folsom_State_Prison|Folsom State Prison]].
 
 ## Notes
 <references />
-{{partial}}
-{{Alcatraz}}

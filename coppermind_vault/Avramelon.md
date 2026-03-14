@@ -1,16 +1,18 @@
-{{lifeform
-|type=Fruit
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Avramelons** are a fruit grown on [[Roshar]],{{book ref|sa1|52}} likely near the [[Shattered Plains]].
+---
+source_file: Avramelon.txt
+entity_type: lifeform
+type: Fruit
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+**Avramelons** are a fruit grown on [[Roshar]], likely near the [[Shattered Plains]].
 
 Their appearance is unknown, but [[Danlan Morakotha]] is extremely fond of them.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:49, 3 September 2016 (MST)}}
-{{Stormlight}}
+
 [[Category: Food]]
 [[Category: Rosharan food]]

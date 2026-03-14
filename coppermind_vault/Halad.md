@@ -1,34 +1,29 @@
 ---
-profession: "{{cat tag|Soldiers|Soldier"
+source_file: Halad.txt
+entity_type: character
+titles: Highmarshal of Alethkar
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-|titles=Highmarshal of Alethkar
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Highmarshal Halad** is a respected figure in the military circles of [[Alethkar]] on [[Roshar]]. His strategies and philosophy heavily influence Alethi military tradition.{{book ref|sa3|29}}
+**Highmarshal Halad** is a respected figure in the military circles of [[Alethkar]] on [[Roshar]]. His strategies and philosophy heavily influence Alethi military tradition.
 
-[[Adolin Kholin]] quoted several axioms attributed to Halad while he and [[Shallan]] discussed confronting [[Re-Shephir]] in the lower levels of [[Urithiru]].{{book ref|sa3|29}}
+[[Adolin Kholin]] quoted several axioms attributed to Halad while he and [[Shallan]] discussed confronting [[Re-Shephir]] in the lower levels of [[Urithiru]].
 
-It is not clear if Halad is a contemporary or historical figure. As a Highlord, he is presumably a [[lighteyes]] of the third [[dahn]].{{wob ref|4006}}
+It is not clear if Halad is a contemporary or historical figure. As a Highlord, he is presumably a [[lighteyes]] of the third [[dahn]].
 
 ## Quotes
-{{quote
-| To beat someone, you must first know them.
-| Highmarshal Halad{{book ref|sa3|29}}
-}}
 
-{{quote
-| Plan every battle as if you will inevitably retreat, but fight every battle like there is no backing down.
-| Highmarshal Halad{{book ref|sa3|29}}
-}}
+> To beat someone, you must first know them.
+> — Highmarshal Halad
+
+> Plan every battle as if you will inevitably retreat, but fight every battle like there is no backing down.
+> — Highmarshal Halad
 
 ## Trivia
-* Adolin's references to Halad evoke real-life military strategist [[wikipedia: Sun Tzu|Sun Tzu]]. Halad's axiom about knowing the enemy seems to paraphrase a famous quote from *[[wikipedia: The Art of War|The Art of War]]*.{{url ref|url=https://en.wikiquote.org/wiki/Sun_Tzu#Chapter_III_%C2%B7_Strategic_Attack|text=Sun Tzu|site=Wikiquote}}
+* Adolin's references to Halad evoke real-life military strategist [[wikipedia: Sun Tzu|Sun Tzu]]. Halad's axiom about knowing the enemy seems to paraphrase a famous quote from *[[wikipedia: The Art of War|The Art of War]]*.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 17:17, 18 March 2020 (UTC)}}
-{{Stormlight}}

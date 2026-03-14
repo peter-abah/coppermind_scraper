@@ -1,3 +1,8 @@
+---
+source_file: TimbreGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Call to Adventure - Willshaper.png | <center><small>by Nastya Lehn</small></center> With [[Venli]], *[[Call to Adventure: The Stormlight Archive]]*

@@ -1,0 +1,5 @@
+#redirect[[Dominance#Southern Dominance]]
+[[category: subsection redirects]]
+[[Category: Locations]]
+[[Category: Scadrial]]
+[[Category: Mistborn]]

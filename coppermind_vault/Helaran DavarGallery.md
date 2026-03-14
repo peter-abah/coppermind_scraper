@@ -1,3 +1,8 @@
+---
+source_file: Helaran DavarGallery.txt
+entity_type: article
+---
+
 ## Gallery
 <gallery mode="packed" heights=200px caption="Images of Helaran">
 Helaran sketches.jpg | <center><small>by {{a|Sheep}}</small></center>

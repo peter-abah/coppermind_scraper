@@ -1,14 +1,13 @@
 ---
-species: "Dione"
-world: "Monrome"
-universe: "Cytoverse"
-introduced: "Defiant (book)|Defiant"
+source_file: Yaksurma.txt
+entity_type: character
+species: Dione
+world: Monrome
+universe: '[[Cytoverse]]'
+introduced: '[[Defiant (book)|Defiant]]'
 ---
 
-{{update|sky4}}
-**Yaksurma** is a [[dione]] draft.{{book ref|sky4|epilogue}}
+**Yaksurma** is a [[dione]] draft.
 
 ## Notes
 <references />
-{{stub}}
-{{Skyward}}

@@ -1,13 +1,12 @@
 ---
-abilities: "{{tag+|Epic"
+source_file: Lifeline.txt
+entity_type: character
+abilities: Epic
+earth: Reckoners
+books: '[[The Reckoners]]'
 ---
 
-|earth=Reckoners
-|books=[[The Reckoners]]
-}}
-**Lifeline** is an [[Epic]] who is killed in [[Ildithia]] during [[Prof]]'s fight with [[Tavi]]. Lifeline has minor electricity powers and telepathy.{{book ref|calamity|36}}
+**Lifeline** is an [[Epic]] who is killed in [[Ildithia]] during [[Prof]]'s fight with [[Tavi]]. Lifeline has minor electricity powers and telepathy.
 
 ## Notes
 <references />
-{{complete|--[[User:Stargazer|Stargazer]] ([[User talk:Stargazer|talk]]) 00:44, 18 June 2020 (UTC)}}
-{{Reckoners}}

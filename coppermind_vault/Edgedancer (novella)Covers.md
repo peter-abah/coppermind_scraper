@@ -1,4 +1,7 @@
-{{CoverToC|sa}}
+---
+source_file: Edgedancer (novella)Covers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[Edgedancer (novella)|Edgedancer]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. As *Edgedancer* was also included in the *[[Arcanum Unbounded]]* anthology, you can also check [[Arcanum Unbounded/Covers|its page]] for more covers.
 

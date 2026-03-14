@@ -1,22 +1,25 @@
-{{book
-|cover=Shadows of Self US Hardcover.jpg
-|series=[[Mistborn Era 2]]
-|prequel=The Alloy of Law
-|sequel=The Bands of Mourning
-|setting=[[Scadrial]], [[Cosmere]]
-|publisher=Tor Books
-|released=October 6, 2015{{bws ref|shadows-of-self-is-out|*Shadows of Self* Release Announcement|date=2015-10-06}}
-|ISBN=978-0-7653-7855-2
-|page-count=383
-|word-count=[[/Statistical_analysis|110,019]]
-}}
-***Shadows of Self*** is the second book set in [[Mistborn Era 2]]. It was released on October 6 2015.{{bws ref|shadows-of-self-is-out|*Shadows of Self* Release Announcement|date=2015-10-06}}
+---
+source_file: Shadows of Self.txt
+entity_type: book
+cover: Shadows of Self US Hardcover.jpg
+series: '[[Mistborn Era 2]]'
+prequel: The Alloy of Law
+sequel: The Bands of Mourning
+setting: '[[Scadrial]], [[Cosmere]]'
+publisher: Tor Books
+released: October 6, 2015
+isbn: 978-0-7653-7855-2
+page-count: '383'
+word-count: '[[/Statistical_analysis|110,019]]'
+---
+
+***Shadows of Self*** is the second book set in [[Mistborn Era 2]]. It was released on October 6 2015.
 
 An excerpt was released on [[bws:shadows-of-self|Brandon's website]] which involves preparation for [[Wax]] and [[Steris]]'s wedding.
 
 ## Synopsis
-{{quote|
-With The Alloy of Law, Brandon Sanderson surprised readers with a New York Times bestselling spinoff of his Mistborn books, set after the action of the trilogy, in a period corresponding to late 19th-century America.
+
+> With The Alloy of Law, Brandon Sanderson surprised readers with a New York Times bestselling spinoff of his Mistborn books, set after the action of the trilogy, in a period corresponding to late 19th-century America.
 
 The trilogy’s heroes are now figures of myth and legend, even objects of religious veneration. They are succeeded by wonderful new characters, chief among them Waxillium Ladrian, known as Wax, hereditary Lord of House Ladrian but also, until recently, a lawman in the ungoverned frontier region known as the Roughs. There he worked with his eccentric but effective buddy, Wayne. They are “twinborn,” meaning they are able to use both Allomantic and Feruchemical magic.
 
@@ -25,11 +28,9 @@ Shadows of Self shows Mistborn’s society evolving as technology and magic mix,
 This bustling, optimistic, but still shaky society now faces its first instance of terrorism, crimes intended to stir up labor strife and religious conflict. Wax and Wayne, assisted by the lovely, brilliant Marasi, must unravel the conspiracy before civil strife stops Scadrial’s progress in its tracks.
 
 Shadows of Self will give fans of The Alloy of Law everything they’ve been hoping for and, this being a Brandon Sanderson book, more, much more.
-| {{ref|name=cover}}{{url ref|url=https://www.brandonsanderson.com/pages/the-mistborn-saga-the-wax-wayne-series|text=THE MISTBORN® SAGA – THE WAX & WAYNE SERIES|site=brandonsanderson.com|name=MistbornSaga}}
-}}
+> — 
 
 ## Summary
-{{for|/Summary|a chapter-by-chapter summary}}
 
 ;Prologue
 Wax is an inexperienced and naïve bounty hunter determined to make a difference in the [[Roughs]]. He is hunting [[Granite Joe]], with a teenage [[Wayne]] tagging along as his assistant. Wax runs into a woman named [[Lessie]] who is also trying for Granite Joe, and the two agree to team up and split the bounty. They find Granite Joe in the basement of a saloon and a fight occurs. It looks like Lessie is about to betray Wax, but she shoots Joe instead. They quickly hit it off and leave together.
@@ -55,21 +56,19 @@ Meanwhile, at the mansion, MeLaan’s attempt to impersonate the governor doesn�
 Wax is in a deep depression. Only Steris can comfort him, offering no words, just a shoulder to cry on.
 
 ## Development
-Following completion of *[[The Alloy of Law]]* Brandon plotted out three more books following the same characters to finish the story, the first of which is *Shadows of Self*. Brandon wrote the first third or so of *Shadows of Self* in 2012 between drafts of *[[A Memory of Light]]* to keep from being burned out. The book was then shelved until the later half of 2014. He however had difficulty re-acquainting himself with the characters and story, which is a common problem for him when he stops work on a story part-way through. To remedy this he jumped ahead and wrote the sequel, *[[The Bands of Mourning]]*, before going back finishing *Shadows of Self*.{{wob ref|9171}}
+Following completion of *[[The Alloy of Law]]* Brandon plotted out three more books following the same characters to finish the story, the first of which is *Shadows of Self*. Brandon wrote the first third or so of *Shadows of Self* in 2012 between drafts of *[[A Memory of Light]]* to keep from being burned out. The book was then shelved until the later half of 2014. He however had difficulty re-acquainting himself with the characters and story, which is a common problem for him when he stops work on a story part-way through. To remedy this he jumped ahead and wrote the sequel, *[[The Bands of Mourning]]*, before going back finishing *Shadows of Self*.
 
-Brandon has explained that the title "Shadows of Self" refers to the multiple roles a person occupies over the course of their life, as well as to the inclusion of a [[kandra]] character.{{wob ref|4368}}{{wob ref|3069}}
+Brandon has explained that the title "Shadows of Self" refers to the multiple roles a person occupies over the course of their life, as well as to the inclusion of a [[kandra]] character.
 
 ## Awards
-* Reddit Fantasy Stabby Award for Best Novel of 2015{{ref|name=stabby}}
+* Reddit Fantasy Stabby Award for Best Novel of 2015
 
 ## Cover Gallery
-{{for|/Covers|the cover gallery for Shadows of Self}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Shadows of Self* consists of twenty-six chapters, one prologue, and one epilogue, reaching a total 110,019 word count. There are five different unique point-of-view characters in a total of 70 POVs.
 
 {|class="wikitable"
@@ -98,14 +97,8 @@ Brandon has explained that the title "Shadows of Self" refers to the multiple ro
 ## Notes
 <references>
 
-{{tor ref|date=2015-02-23|name=cover|brandon-sanderson-shadows-of-self-cover-reveal|Cover Reveal for Brandon Sanderson's Shadows of Self}}
-
-{{reddit ref|date=2016-01-09|name=stabby|fantasy|4053co|text=2015 Stabby Awards Results Announcement}}
-
 </references>
-{{meta/partial}}
-{{Mistborn|era 2}}
-{{books}}
+
 [[category: Mistborn| e2.2]]
 [[category: Mistborn Era 2| 2]]
 [[es: Sombras de identidad]]

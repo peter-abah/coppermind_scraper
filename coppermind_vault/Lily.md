@@ -1,13 +1,13 @@
 ---
-image: "Codenames by barlydoodles.png"
-world: "Scadrial"
-universe: "Cosmere"
-introduced: "The Lost Metal"
+source_file: Lily.txt
+entity_type: character
+image: Codenames by barlydoodles.png
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Lost Metal]]'
 ---
 
-**Lily** is a small terrier who is [[Kaise]]'s pet while she is stationed on [[Scadrial]].{{book ref|mb7|39}}
+**Lily** is a small terrier who is [[Kaise]]'s pet while she is stationed on [[Scadrial]].
 
 ## Notes
 <references />
-{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 19:45, 21 March 2023 (UTC)}}
-{{Mistborn|Era 2}}

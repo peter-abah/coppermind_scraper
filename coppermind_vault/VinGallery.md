@@ -1,3 +1,8 @@
+---
+source_file: VinGallery.txt
+entity_type: covertoc
+---
+
 ## Official artwork
 <gallery mode="packed" heights=225px caption="Official artwork">
 The Ascendant Warrior.jpg | <center><small>by {{a|Miranda Meeks}}</small></center>*The Ascendant Warrior*, from *[[Mistborn: The Final Empire]]* leatherbound
@@ -24,7 +29,6 @@ Worldhopper Ball 2025 Scene Pin.png | <center><small>by [[Ashley Mackenzie]]</sm
 [[Vin]] is featured on numerous covers for [[Mistborn Era 1]]. 
 
 <center>**Covers**</center>
-{{CoverToC|mbe1}}
 
 <gallery mode="packed" heights=225px caption="Cover Art">
 TFE US 1st cover art.jpg|<center><small>by {{a|Jon Foster}}</small></center>*[[Mistborn: The Final Empire]]* (Hardcover)

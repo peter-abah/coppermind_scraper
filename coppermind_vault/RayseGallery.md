@@ -1,3 +1,8 @@
+---
+source_file: RayseGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=200px caption="Official artwork">
 Odium by Ganna Pazyniuk.jpg | <center><small>by {{a|Ganna Pazyniuk}}</small></center> From *[[Call to Adventure: The Stormlight Archive]]*

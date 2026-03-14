@@ -1,15 +1,15 @@
 ---
-profession: "Groundskeeper"
-residence: "Armedius Academy"
-earth: "Rithmatist"
-introduced: "The Rithmatist"
+source_file: Joseph.txt
+entity_type: character
+profession: Groundskeeper
+residence: Armedius Academy
+earth: Rithmatist
+introduced: '[[The Rithmatist]]'
 ---
 
-**Joseph** is a groundskeeper at [[Armedius Academy]].{{book ref|Rithmatist|4}}
+**Joseph** is a groundskeeper at [[Armedius Academy]].
 
 [[Joel]] sees him rewinding the [[springwork]] lanterns.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:35, 17 September 2018 (MST)}}
-{{Rithmatist}}

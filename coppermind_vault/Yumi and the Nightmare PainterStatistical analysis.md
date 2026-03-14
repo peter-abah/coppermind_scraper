@@ -1,3 +1,8 @@
+---
+source_file: Yumi and the Nightmare PainterStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Yumi and the Nightmare Painter]]***.
 
 Information used for this page is located [https://docs.google.com/spreadsheets/d/1J2UCtEeWFlJ-tg6V5oRSaNuTHJR4jesJUhdZyYaeCSU/edit#gid=732839645 here].
@@ -336,7 +341,5 @@ Information used for this page is located [https://docs.google.com/spreadsheets/
 | align=right | 51.08%
 |}
 
-{{meta/done}}
-{{yumi}}
 [[Category: Yumi and the Nightmare Painter|*]]
 [[category: statistics]]

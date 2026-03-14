@@ -1,0 +1,18 @@
+{{culture |name=''Unknown''
+|type={{cat tag|Games|Game}}
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{uncanonical}}
+A two-player, war-like '''card game''' exists on [[Roshar]] and is played in [[Alethkar]].{{book ref|sa3|14}}
+
+It is a game played by the [[singer]]s [[Khen]] and [[Sah]], as well as by some of their previous masters.{{book ref|sa3|14}} [[Kaladin]] has also played it.{{book ref|sa3|17}} Sah's set of wooden, lacquered cards is of [[Herdazian]] make.{{book ref|sa3|14}} Cheaper, less durable cards are available, although they warp in the rain.{{book ref|sa3|14}}
+
+== Rules ==
+Cards can be played from the barrack, an area that functions similarly to a player's hand in many card games. While in play, cards can be captured and they can capture other cards, although the specifics depend upon the ranks of the cards involved. Squires, for example, cannot capture unless supported by an allied card. On the other end of the spectrum, kings can capture any card except another king, and can only be captured by three cards working together, all of rank knight or higher. However, if a king is captured, the player it belongs to loses the game. This makes the decision to play the king a strategic one, since the great power in capturing is balanced by the risk of losing it. Many actions require the cards involved to be touching each other.{{book ref|sa3|17}}{{book ref|sa3|14}}
+
+== Notes ==
+<references />
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 21:55, 16 November 2020 (UTC)}}
+{{Stormlight}}

@@ -1,17 +1,15 @@
 ---
-species: "dragon"
-world: "Yolen"
-universe: "Cosmere"
-introduced: "Isles of the Emberdark"
+source_file: Vambrakastram.txt
+entity_type: character
+species: dragon
+world: Yolen
+universe: '[[Cosmere]]'
+introduced: '[[Isles of the Emberdark]]'
 ---
 
-{{spoilers|IotE}}
+**Vambrakastram** is a  [[dragon (cosmere)|dragon]] on [[Yolen]].
 
-**Vambrakastram** is a  [[dragon (cosmere)|dragon]] on [[Yolen]].{{book ref|iote|prologue}}
-
-On [[Starling]]'s thirtieth birthday, she took [[Frost]]'s prayers for the day so that he may spend the day with his niece during her first transformation.{{book ref|iote|prologue}}
+On [[Starling]]'s thirtieth birthday, she took [[Frost]]'s prayers for the day so that he may spend the day with his niece during her first transformation.
 
 ## Notes
 <references />
-{{complete}}
-{{Emberdark}}

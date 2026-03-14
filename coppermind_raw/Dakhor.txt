@@ -1,0 +1,41 @@
+{{magic system
+|related=[[Devotion]], [[Dominion]]{{wob ref|9830}}{{wob ref|4090}}
+|prereq=Sacrifice
+|type=End-Positive{{wob ref|7114}}
+|world=Sel
+|universe=[[Cosmere]]
+|books=[[Elantris (book)|Elantris]]
+}}
+'''Dakhor''' is a manifestation of [[Investiture]] on [[Sel]], independent from [[AonDor]].{{rpg ref|slwg|84}}{{wob ref|2208}}{{wob ref|4216}} 
+
+Users of this system are the monks of [[Dakhor Monastery]] in [[Fjorden]]. The Dakhor monks themselves are a newer development than [[Elantrian]]s.{{wob ref|2236}} In fact, [[Wulfden the Fourth]] was preparing to use them against Elantris before [[The Reod|the city fell on its own]].
+
+== Prerequisites ==
+In order to access the [[Dor]] through the Dakhor magic system, a few things have to occur. It appears that the practitioners of Dakhor have to be [[Fjordell]]. Chanting is also used and the chants are likely used to determine how the person is changed, and what type of bone growths form.{{book ref|Elantris|36}}{{book ref|Elantris|58}}
+
+=== Bone growth ===  
+The bones of the person accessing Dakhor begin to grow and twist.{{book ref|Elantris|58}} Since the [[Investiture]] of [[Sel]] is form-based,{{book ref|mb4|part=ars}} the shape of the bone twists determines what powers a user of Dakhor can access.{{book ref|Elantris|58}} The shapes that they twist into are ancient Fjordell characters.{{book ref|Elantris|63}} Dakhor users look like twisted figures with arms like knotted tree branches and tight skin pulled over strange ridges.{{book ref|Elantris|57}} Their bones appear as if a piece of metal had been inserted beneath the skin and their skeletons appears twisted and carved.{{book ref|Elantris|58}} While they are abnormal, the Dakhor monks don't seem deformed or inhuman.{{wob ref|2190}} Their bone growth is subtle enough that a robe can hide it.{{book ref|Elantris|58}} Even with the initially repulsive nature of the bone twists, they still have a beautiful shape.{{book ref|Elantris|63}} The bone twists are also known to glow, specifically when teleportation{{book ref|Elantris|60}} or enhanced strength is being used.{{book ref|Elantris|61}}
+
+=== Sacrifices ===
+In order to access certain powers of Dakhor, living sacrifices must be made.{{book ref|Elantris|62}} The amount of Investiture in the people killed is far more important than the number of people killed.{{wob ref|1742}} Sacrifices will have their souls twisted, not stolen.{{wob ref|48}}
+
+== Effects and Abilities ==
+Regardless of how the Dakhor system is accessed, there are some constant effects. Dakhor can grant several abilities, some of which are part of the standard ability set for monks of Dakhor monastery. The first is the extreme strength of anyone who uses Dakhor.{{book ref|Elantris|58}} The bones of the Dakhor monks are almost indestructible, leaving melee weapons mostly useless against them.{{book ref|Elantris|62}} Those who use Dakhor can receive enhanced speed as well.{{book ref|Elantris|58}} Another more costly power is teleportation. In exchange for one person's death, large groups of people can be transported instantaneously.{{book ref|Elantris|60}} The body and spirit of the sacrificed are used to power this ability. 
+
+Another ability granted by Dakhor can change a person's appearance, such as race.{{book ref|Elantris|60}} This could presumably be used to change any aspect of a person's appearance. Dakhor can also grant the ability to negate [[Aon]]s drawn by [[Elantrian]]s,{{book ref|Elantris|56}} though it is also possible for Dakhor to be negated by [[AonDor]].{{wob ref|3014}} Another Dakhor ability is resistance to attacks from the Dor.{{book ref|Elantris|62}} This power requires the deaths of fifty people and thus is rarely given. It is unknown if the ability to negate Aons and the resistance to Dor attacks are two separate abilities or both tied to the same type of bone shape. Dakhor users live longer than regular humans.{{book ref|Elantris|58}}
+
+If a [[Bloodsealer]] were to use Bloodsealing on the bones of someone who used Dakhor, the bones would still be able to access the Dor.{{wob ref|10831}} It would take more than just the bones of a Dakhor monk for a [[kandra]] to get Dakhor abilities.{{wob ref|152}}
+
+== Relationship To Fjorden ==
+Dakhor has a specific tie to the land of Fjorden. Like all Selish magic, Dakhor will decrease in power the further from Fjorden a user gets.{{wob ref|8617}} It is better than AonDor and [[Forgery]] at bringing the power with the user.{{wob ref|5190}}{{wob ref|6157}} Dakhor is also known as the Order of Bone.{{book ref|Elantris|58}}
+
+== Known Dakhor ==
+*[[Hrathen]], although only one arm.
+*[[Dilaf]]
+
+== Notes ==
+<references />
+{{complete}}
+{{Elantris}}
+[[category: Fjordell]]
+[[es:Dakhor]]

@@ -1,3 +1,8 @@
+---
+source_file: TienGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Driven by Guilt by Ari Ibarra.jpg | <center><small>by {{a|Ari Ibarra}}</small></center> In [[Kaladin]]'s arms, from [[Call to Adventure: The Stormlight Archive]]

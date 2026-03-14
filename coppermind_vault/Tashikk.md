@@ -1,109 +1,108 @@
-{{nation
-|map=Tashikk locator.png
-|ruler=Prince of Tashikk
-|region=Makabak
-|ethnicity=Tashikki <small>([[Makabak]]i)</small>
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-{{update|sa4|sa5}}
-**Tashikk** is a princedom on [[Roshar]] that was a major ally to [[Azir]],{{book ref|sa3|12}} until they seceded from the empire during the [[True Desolation]].{{book ref|sa5|76}} The people of Tashikk are called the Tashikki.{{book ref|sa2.5|2}}
+---
+source_file: Tashikk.txt
+entity_type: nation
+map: Tashikk locator.png
+ruler: Prince of Tashikk
+region: Makabak
+ethnicity: Tashikki <small>([[Makabak]]i)</small>
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+**Tashikk** is a princedom on [[Roshar]] that was a major ally to [[Azir]], until they seceded from the empire during the [[True Desolation]]. The people of Tashikk are called the Tashikki.
 
 ## Etymology
-*Tashikk* is derived from the prominent Tashikki diety Tashi, the local name for the Herald [[Ishar]].{{book ref|sa4|101}}
+*Tashikk* is derived from the prominent Tashikki diety Tashi, the local name for the Herald [[Ishar]].
 
 ## Geography
-Tashikk is located in southwestern Roshar, in the southernmost part of the geographical region of [[Makabak]]. It lies on the northern shore of the eastern [[Aimian Sea]] and borders [[Liafor]] to the West, [[Yezier]] and [[Azir]] to the North, and [[Emul]] to South-East, the latter on a river.{{map ref|Roshar}}
+Tashikk is located in southwestern Roshar, in the southernmost part of the geographical region of [[Makabak]]. It lies on the northern shore of the eastern [[Aimian Sea]] and borders [[Liafor]] to the West, [[Yezier]] and [[Azir]] to the North, and [[Emul]] to South-East, the latter on a river.
 
-Tashikk appears to be rather flat, with wide, grass-covered fields. Local fauna and flora includes [[axehind]]s, a species of deer-like, herbivorous crustaceans that live in herds; [[drop-dead]]s, tall, spindly trees so called for their ability to lie flat on the ground when a [[highstorm]] comes; and a species of moss that grows between ground and loose rocks, sticking the two together to protect itself.{{book ref|sa2.5|1}} [[Cremling]]s are noted as particularly unusual in Tashikk compared to the ones found further North and East.{{book ref|sa2.5|4}}
+Tashikk appears to be rather flat, with wide, grass-covered fields. Local fauna and flora includes [[axehind]]s, a species of deer-like, herbivorous crustaceans that live in herds; [[drop-dead]]s, tall, spindly trees so called for their ability to lie flat on the ground when a [[highstorm]] comes; and a species of moss that grows between ground and loose rocks, sticking the two together to protect itself. [[Cremling]]s are noted as particularly unusual in Tashikk compared to the ones found further North and East.
 
-Tashikk has only one known major city, [[Yeddaw]], likely its capital.{{map ref|Roshar}} South of Yeddaw is also the town of [[Ifaba]].{{map ref|Eastern Makabak}}
+Tashikk has only one known major city, [[Yeddaw]], likely its capital. South of Yeddaw is also the town of [[Ifaba]].
 
 ## History
 ### The Heraldic Epochs (c.-5825 - c.-3333)
-{{image|Silver Kingdoms.jpg|side=right|width=450px|Map of the Silver Kingdoms}}
-{{for|Makabakam}}
-During the [[Heraldic Epochs]], Tashikk was part of the [[Silver Kingdoms|Silver Kingdom]] of [[Makabakam]].{{map ref|Silver Kingdoms}} As one of the Silver Kingdoms, it was settled by Ashynite emigrants who arrived on Roshar in Shinovar circa -5825 on the Vorin calendar,{{book ref|row|111}}{{book ref|row|14}} before eventually expanding outward and conquering the rest of Roshar. 
 
-Due to the Desolations, they were constantly returned back to primitive technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak]] and his [[Willshapers]].{{book ref|sa2|i|7}}{{book ref|sa1|part=prelude}}{{wob ref|1430}}{{wob ref|13779}}
+During the [[Heraldic Epochs]], Tashikk was part of the [[Silver Kingdoms|Silver Kingdom]] of [[Makabakam]]. As one of the Silver Kingdoms, it was settled by Ashynite emigrants who arrived on Roshar in Shinovar circa -5825 on the Vorin calendar, before eventually expanding outward and conquering the rest of Roshar. 
+
+Due to the Desolations, they were constantly returned back to primitive technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak]] and his [[Willshapers]].
 
 It's uncertain when they split off from Makabakam.
 
-### Era of Solitude (c.-3333 - {{rosharan date|1173}})
-At some point during the Era of Solitude they joined the Azish Empire as a member state.{{book ref|sa3|122}} 
+### Era of Solitude (c.-3333 - )
+At some point during the Era of Solitude they joined the Azish Empire as a member state. 
 
-Circa {{rosharan date|1074}}, Yeddaw was created with Azish Imperial Shardblades, and eventually became a prominent city in Tashikk.{{book ref|Edgedancer|2}}
+Circa , Yeddaw was created with Azish Imperial Shardblades, and eventually became a prominent city in Tashikk.
 
-Shortly before the [[True Desolation]] began, in late {{rosharan date|1173}} the [[Herald]] [[Nale]] was travelling across Tashikk with [[Szeth]] and several other [[Skybreakers]], tracking down and killing new [[Surgebinder]]s in a misguided attempt to prevent a new Desolation.
+Shortly before the [[True Desolation]] began, in late  the [[Herald]] [[Nale]] was travelling across Tashikk with [[Szeth]] and several other [[Skybreakers]], tracking down and killing new [[Surgebinder]]s in a misguided attempt to prevent a new Desolation.
 
 ### The True Desolation
-Nale's attempts to stop the Desolation ended with the arrival of the [[Everstorm]] in Yeddaw in {{rosharan date|1174|1|1}}, which led to Nale depart the country, leaving Szeth behind. He would later come back and take him to the [[Purelake]].{{book ref|sa3|90}}
+Nale's attempts to stop the Desolation ended with the arrival of the [[Everstorm]] in Yeddaw in , which led to Nale depart the country, leaving Szeth behind. He would later come back and take him to the [[Purelake]].
 
-[[Dalinar]] used the Tashikki relay stations to warn the world about the Everstorm.{{book ref|sa3|87}} He later contacted the prince of Tashikk to get him to join his coalition, but the prince refused to commit, waiting for the decision of Azir.{{book ref|sa3|12}} When the Azish decided to ally with [[Urithiru]], Tashikk did as well, and they sent the Tashikki ambassador in [[Azimir]] to the tower-city as their representative.{{book ref|sa3|96}}
+[[Dalinar]] used the Tashikki relay stations to warn the world about the Everstorm. He later contacted the prince of Tashikk to get him to join his coalition, but the prince refused to commit, waiting for the decision of Azir. When the Azish decided to ally with [[Urithiru]], Tashikk did as well, and they sent the Tashikki ambassador in [[Azimir]] to the tower-city as their representative.
 
-[[Taravangian]] later used Tashikk to spread the information about the [[Eila Stele]] and break up the alliance.{{book ref|sa3|107}}{{book ref|sa3|111}} While Azir did leave the coalition in the aftermath, whether Tashikk did as well is unknown, as several other member states, such as [[Yezier]] and [[Emul]], remained.{{book ref|sa3|122}} Later, Taskikk, along with Emul, seceded from Azir to join with Odium's forces.{{book ref|sa5|76}}
+[[Taravangian]] later used Tashikk to spread the information about the [[Eila Stele]] and break up the alliance. While Azir did leave the coalition in the aftermath, whether Tashikk did as well is unknown, as several other member states, such as [[Yezier]] and [[Emul]], remained. Later, Taskikk, along with Emul, seceded from Azir to join with Odium's forces.
 
 ## Politics
 ### Leadership
-Tashikk is led by a prince, who has authority over the nation.{{book ref|sa3|12}} The name of this prince is currently unknown, though he is known to defer to the [[Prime Aqasix]], leader of Azir and the Azish Empire, of which Tashikk is a member of.{{book ref|sa3|12}} Despite having a prince, Azish-style bureaucracy thrives here.{{rpg ref|slwg|40}}
+Tashikk is led by a prince, who has authority over the nation. The name of this prince is currently unknown, though he is known to defer to the [[Prime Aqasix]], leader of Azir and the Azish Empire, of which Tashikk is a member of. Despite having a prince, Azish-style bureaucracy thrives here.
 
 ### Ties to Azir
-Though ruled by an prince, Tashikk is part of the Azish Empire, a union of states led by the king of Azir, the [[Prime Aqasix]].{{book ref|sa3|12}} Historically, it's considered to be the state closest to the Azish throne, alongside [[Yezier]].{{book ref|sa3|122}} Among others, this gives Tashikk access to the [[Azir#Fabrials and Shards | Imperial Shardblades]], which they can rent out from Azir for their own purposes.{{book ref|sa2.5|2}} The Tashikki maintain an ambassador in [[Azimir]] for diplomatic purposes, with the current one being the prince's brother.{{book ref|sa3|65}}
+Though ruled by an prince, Tashikk is part of the Azish Empire, a union of states led by the king of Azir, the [[Prime Aqasix]]. Historically, it's considered to be the state closest to the Azish throne, alongside [[Yezier]]. Among others, this gives Tashikk access to the [[Azir#Fabrials and Shards | Imperial Shardblades]], which they can rent out from Azir for their own purposes. The Tashikki maintain an ambassador in [[Azimir]] for diplomatic purposes, with the current one being the prince's brother.
 
 ### Military
-The Tashikki fleet possesses numerous ships, including troop carriers and scouts.{{book ref|sa3|111}} In times of peace, their duty is to patrol the grand waterway, though which body of water this refers to is unclear. Additionally, the fleet is closely tied to Azir. The ships are partially staffed by battalions of Azish troops, and in times of war, the Prime can use them for their own purposes.{{book ref|sa3|107}}
+The Tashikki fleet possesses numerous ships, including troop carriers and scouts. In times of peace, their duty is to patrol the grand waterway, though which body of water this refers to is unclear. Additionally, the fleet is closely tied to Azir. The ships are partially staffed by battalions of Azish troops, and in times of war, the Prime can use them for their own purposes.
 
-The Azish military presence in Tashikk is not limited to its ships. The credentials of achievement, issued to soldiers by Azish viziers, are valid in the country, and many Azish soldiers find employment there both as guards and in combat duty.{{book ref|sa2.5|3}}
+The Azish military presence in Tashikk is not limited to its ships. The credentials of achievement, issued to soldiers by Azish viziers, are valid in the country, and many Azish soldiers find employment there both as guards and in combat duty.
 
 ### Information trading
-Even beyond the Azish Empire, Tashikk is Roshar's greatest [[spanreed]] hub, and the reeds connected to it are used even as far East as [[Alethkar]].{{book ref|sa2|42}}{{book ref|sa2|87}} More than simply a relay station, Tashikk provides spanreed services to the entire world, distributing them and providing connections.{{book ref|sa3|47}} They are also well-known for their ability to acquire information from all across Roshar, and sharing it for a high price.{{book ref|sa3|96}} Rumours and gossip traveling the world often start in Tashikk.{{book ref|sa3|107}}{{book ref|sa3|122}} The calculations and predictions made by the world-class Highstorm scholars in Yezier are delivered to agents in Tashikk via spanreed, where the forecasts are sold and widely distributed.{{rpg ref|slwg|40}}
+Even beyond the Azish Empire, Tashikk is Roshar's greatest [[spanreed]] hub, and the reeds connected to it are used even as far East as [[Alethkar]]. More than simply a relay station, Tashikk provides spanreed services to the entire world, distributing them and providing connections. They are also well-known for their ability to acquire information from all across Roshar, and sharing it for a high price. Rumours and gossip traveling the world often start in Tashikk. The calculations and predictions made by the world-class Highstorm scholars in Yezier are delivered to agents in Tashikk via spanreed, where the forecasts are sold and widely distributed.
 
 ### Foreign Policy and International Relationships
-There is a large amount of immigration into Tashikk from around Roshar.{{book ref|sa2.5|4}} They are known to deal with immigration in a systemized, governmental manner, with a position known as the "deputy scribe of immigration."{{book ref|sa2.5|3}} This is not an individual, but multiple people whose duty alternates daily.{{book ref|sa2.5|3}} [[Nissiqqan]] is one such scribe.{{book ref|sa2.5|3}} 
+There is a large amount of immigration into Tashikk from around Roshar. They are known to deal with immigration in a systemized, governmental manner, with a position known as the "deputy scribe of immigration." This is not an individual, but multiple people whose duty alternates daily. [[Nissiqqan]] is one such scribe. 
 
-Instead of sending their leader for discussions on forming a coalition with other nations, they send an ambassador as his representative.{{book ref|sa3|96}} 
+Instead of sending their leader for discussions on forming a coalition with other nations, they send an ambassador as his representative. 
 
-==== Alm ====
-They have a good relationship with [[Alm]], and the people of Alm are allowed to enter the nation without much trouble.{{book ref|sa2.5|4}} They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix]]. 
+#### Alm
+They have a good relationship with [[Alm]], and the people of Alm are allowed to enter the nation without much trouble. They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix]]. 
 
-==== Desh ====
-Much like with Alm, they have a good relationship with [[Desh]], and the Deshi people are allowed to enter Tashikk without much trouble.{{book ref|sa2.5|4}} They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix]].
+#### Desh
+Much like with Alm, they have a good relationship with [[Desh]], and the Deshi people are allowed to enter Tashikk without much trouble. They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix]].
 
-==== Alethkar ====
-They are a member of the Coalition of Monarchs with Alethkar.{{book ref|sa3|96}} They also grant their spanreed services to Alethkar, which makes effective use of these services.{{book ref|sa3|47}}{{book ref|sa2|42}}{{book ref|sa2|87}}
+#### Alethkar
+They are a member of the Coalition of Monarchs with Alethkar. They also grant their spanreed services to Alethkar, which makes effective use of these services.
 
-==== Azir ====
-They are under the control of the Azish Empire, and are thus subservient to Azir.{{cite}} The Tashikki maintain an ambassador in [[Azimir]] for diplomatic purposes.{{book ref|sa3|65}} They are considered to be particularly close to the Azish throne, compared to other member states of the Azish Empire.{{book ref|sa3|122}}
+#### Azir
+They are under the control of the Azish Empire, and are thus subservient to Azir. The Tashikki maintain an ambassador in [[Azimir]] for diplomatic purposes. They are considered to be particularly close to the Azish throne, compared to other member states of the Azish Empire.
 
 ### Demographics
-==== Ethnicities ====
-Tashikk, despite its relative isolationism, has a relatively high amount of ethnic diversity. Tashikki people make up the majority of the population, but there is also a population of [[Alm]] people, [[Desh]] people, [[Azir|Azish]], [[Tukar]]i, [[Emul]]i, and [[Reshi Isles|Reshi]] people.{{book ref|sa2.5|4}}
+#### Ethnicities
+Tashikk, despite its relative isolationism, has a relatively high amount of ethnic diversity. Tashikki people make up the majority of the population, but there is also a population of [[Alm]] people, [[Desh]] people, [[Azir|Azish]], [[Tukar]]i, [[Emul]]i, and [[Reshi Isles|Reshi]] people.
 
 ## Culture
 
 ### People
-The people of Tashikk are ethnically Makabaki, with dark brown skin. They are known to be polite and reserved, even compared to their northern neighbors.{{book ref|sa2.5|2}} Much like the Azish, the Tashikki are highly formal, and their society is highly bureaucratized. Alongside [[sphere]]s, information is considered a valid currency among them.{{book ref|sa2.5|3}}
+The people of Tashikk are ethnically Makabaki, with dark brown skin. They are known to be polite and reserved, even compared to their northern neighbors. Much like the Azish, the Tashikki are highly formal, and their society is highly bureaucratized. Alongside [[sphere]]s, information is considered a valid currency among them.
 
-Both men and women typically wear [[shiqua]]s, complex, one-sheet wraps covering their entire body, including the face.{{book ref|sa2.5|4}}{{book ref|sa2.5|8}} The exceptions to that include guards, who need clothing that's easier to move in, and diplomats, who will sometimes use more common, international styles when abroad, presumably to fit in.{{book ref|sa2.5|2}}{{book ref|sa3|96}}
+Both men and women typically wear [[shiqua]]s, complex, one-sheet wraps covering their entire body, including the face. The exceptions to that include guards, who need clothing that's easier to move in, and diplomats, who will sometimes use more common, international styles when abroad, presumably to fit in.
 
-Despite their information network, they are considered a rather isolationist people.{{book ref|sa3|8}}
+Despite their information network, they are considered a rather isolationist people.
 
 ### Religion
-The Tashikki shiqua is religiously-motivated -- it is worn to protect the wearer from the eyes of **Nun Raylisi**, an evil entity that represents [[Odium]] in their religion.{{wob ref|12755}}{{book ref|sa2.5|3}}
+The Tashikki shiqua is religiously-motivated -- it is worn to protect the wearer from the eyes of **Nun Raylisi**, an evil entity that represents [[Odium]] in their religion.
 
-Opposing Nun Raylisi is the god **Tashi** (the local name for [[Ishar]]),{{book ref|sa4|101}} also known as God of Gods and Binder of the World.{{book ref|sa2.5|13}} He is assisted by the Nine, a group of entities who "bound the world" together with him{{book ref|sa2.5|8}} (presumably the other [[Herald]]s). It is believed that Tashi protects the Tashikki in their home nation, and so they usually forego the face covering there, but keep it on when abroad.{{book ref|sa2.5|3}} 
+Opposing Nun Raylisi is the god **Tashi** (the local name for [[Ishar]]), also known as God of Gods and Binder of the World. He is assisted by the Nine, a group of entities who "bound the world" together with him (presumably the other [[Herald]]s). It is believed that Tashi protects the Tashikki in their home nation, and so they usually forego the face covering there, but keep it on when abroad. 
 
-In [[Yeddaw]], the last of the ten types of pancakes made during the [[Weeping]] is dedicated to him, though unlike the others, it is metaphorical, thought about rather than physically made.{{book ref|sa2.5|20}}
+In [[Yeddaw]], the last of the ten types of pancakes made during the [[Weeping]] is dedicated to him, though unlike the others, it is metaphorical, thought about rather than physically made.
 
 ## Notable citizens
 * [[Stump]] - a [[Knight Radiant]] from the [[Order of Truthwatchers]]
 * [[Hauka]] - an Azish guard working in [[Yeddaw]]
-* Prince of Tashikk - ruler of the country{{book ref|sa3|12}}
-* Prince's brother - ambassador to [[Azimir]] and, later, [[Urithiru]]{{book ref|sa3|96}}
-* An unnamed [[Skybreaker]] squire{{book ref|sa3|98}}
+* Prince of Tashikk - ruler of the country
+* Prince's brother - ambassador to [[Azimir]] and, later, [[Urithiru]]
+* An unnamed [[Skybreaker]] squire
 
 ## Notes
 <references/>
-{{partial}}
-{{Stormlight}}

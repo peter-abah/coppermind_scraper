@@ -1,4 +1,7 @@
-{{Template:Disambig}}
+---
+source_file: Doriel.txt
+entity_type: template:disambig
+---
 
 The name **Doriel** may refer to:
 *[[Doriel (ashmount)|Doriel]] - One of the [[ashmounts]] on [[Scadrial]]

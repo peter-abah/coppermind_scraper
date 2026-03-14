@@ -1,0 +1,32 @@
+{{character
+|spouse=[[Friag]]
+|siblings=[[Logna]]
+|children=[[Thunor]]
+|earth=Frugal Wizard
+|introduced=[[The Frugal Wizard's Handbook for Surviving Medieval England]]
+}}
+{{update|frugal}}
+
+'''Woden''' is a deity worshiped by the [[Weswarans]] and [[Hordamen]]. He is said to be the father of [[Thunor]], the husband of [[Friag]]{{book ref|frugal|11}}, and the brother of [[Logna]]{{book ref|frugal|35}}. [[John West]] recognizes the name as equivalent to Odin{{book ref|frugal|11}}.
+
+The birthmarks of a [[skop]] are said to be a sign of being chosen by Woden{{book ref|frugal|24}}.
+
+Wodensday is the local equivalent of Wednesday.
+
+==Appearance and Personality==
+[[Sefawynn]] says that Woden demands sacrifice{{book ref|frugal|11}}, and [[Ealstan]] says he rewards blood offerings{{book ref|frugal|33}}, but Logna says that this is wrong and Woden only ever cared about victory{{book ref|frugal|35}}. According to Logna, Woden hates losing{{book ref|frugal|35}} and fears pain and the thought that he will someday die{{book ref|frugal|37}}. 
+
+Ealstan says that Woden does not care about being worshipped so long as he is obeyed and feared{{book ref|frugal|15}}.
+
+==History==
+In response to Friag's death at the [[battle of Badon]]{{book ref|frugal|24}},Woden forbade humans to use writing (which had been Friag's invention){{book ref|frugal|11}}.
+
+By the time John West arrives, Woden has abandoned the Weswarans in favor of the Hordamen{{book ref|frugal|13}}. Ultimately, Woden inspires a major invasion of Hordamen intended to destroy the Weswarans{{book ref|frugal|33}} in order to eliminate the "outsiders" from another dimension{{book ref|frugal|35}} and to serve as an example to intimidate his other worshippers{{book ref|frugal|37}}. When that invasion is defeated, Weswarans begin to see Woden as an enemy god{{book ref|frugal|epilogue}}.
+
+==Trivia==
+*In real-world mythology and religion, Woden is the Old English equivalent of the Norse Odin. The name is the source of modern English Wednesday ("Woden's day").{{wp ref|Odin|Woden}}
+
+== Notes ==
+<references />
+{{partial}}
+{{Frugal Wizard}}

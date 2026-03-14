@@ -1,18 +1,16 @@
 ---
-title: "Constable-general"
-profession: "{{cat tag|Law enforcement"
+source_file: Drapen.txt
+entity_type: character
+title: Constable-general
+residence: Elendel
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Bands of Mourning]]'
 ---
 
-|residence=Elendel
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[The Bands of Mourning]]
-}}
-Lord **Drapen** is the constable-general of the Sixth Octant of [[Elendel]] on [[Scadrial]] in {{date|342|PC}}.{{book ref|mb6|2}}
+Lord **Drapen** is the constable-general of the Sixth Octant of [[Elendel]] on [[Scadrial]] in .
 
-Lord Drapen attended Lord [[Waxillium Ladrian]] and Lady [[Steris Harms]]'s initial attempt at a public wedding.{{book ref|mb6|2}} When the wedding was sabotaged by [[Wayne]], Lord Drapen was caught in the deluge of water that flooded through the ceiling. Afterwards, as Wax helped him to his carriage, Drapen complained that the water had ruined his pistol and that it would need to be cleaned and oiled.
+Lord Drapen attended Lord [[Waxillium Ladrian]] and Lady [[Steris Harms]]'s initial attempt at a public wedding. When the wedding was sabotaged by [[Wayne]], Lord Drapen was caught in the deluge of water that flooded through the ceiling. Afterwards, as Wax helped him to his carriage, Drapen complained that the water had ruined his pistol and that it would need to be cleaned and oiled.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 23:32, 16 July 2017 (MST)}}
-{{Mistborn|Era 2}}

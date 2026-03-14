@@ -1,26 +1,24 @@
 ---
-groups: "{{tag|Council of Five"
+source_file: Zuln.txt
+entity_type: character
+groups: Council of Five
+species: Singer
+nation: Listener
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Words of Radiance]]'
 ---
 
-|species=Singer
-|nation=Listener
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Words of Radiance]]
-}}
-{{quote
-|No. It is not right.
-|Zuln on a proposed transformation of the [[listener]]s to [[stormform]].{{book ref|wor|i|11}}
-}}
-**Zuln** is a [[listener]] woman who serves on the [[listener]] ruling council, the [[Council of Five]] in their city of [[Narak]] in {{Rosharan date|1173}}.{{book ref|wor|i|4}}
+> No. It is not right.
+> — Zuln on a proposed transformation of the [[listener]]s to [[stormform]].
+
+**Zuln** is a [[listener]] woman who serves on the [[listener]] ruling council, the [[Council of Five]] in their city of [[Narak]] in .
 
 ## Appearance & Personality
-Zuln takes on dullform, and as a result is often quiet.{{book ref|wor|i|4}} She considers it her duty to represent not only the dullforms, but the slaveforms, or regular [[parshmen]] of [[Roshar]]. To this end, she wears the smock of a parshman. She also serves as a reminder of the listeners' past.
+Zuln takes on dullform, and as a result is often quiet. She considers it her duty to represent not only the dullforms, but the slaveforms, or regular [[parshmen]] of [[Roshar]]. To this end, she wears the smock of a parshman. She also serves as a reminder of the listeners' past.
 
 ## History
-Zuln agrees to the compromise that allows [[Eshonai]] to take on stormform and report back to the Five on its effects.{{book ref|wor|i|4}} She dislikes what she saw, and disagrees with the proposed mass transformation of the listeners into stormform, much to Eshonai's rage.{{book ref|wor|i|11}} When Eshonai takes control of the listeners in her coup, Zuln agrees to take on stormform, but Eshonai does not trust her and has Zuln placed with the others who refuse to take on stormform. Zuln likely escapes with [[Thude]] and the rest of the dissenters into the chasms of the [[Shattered Plains]].
+Zuln agrees to the compromise that allows [[Eshonai]] to take on stormform and report back to the Five on its effects. She dislikes what she saw, and disagrees with the proposed mass transformation of the listeners into stormform, much to Eshonai's rage. When Eshonai takes control of the listeners in her coup, Zuln agrees to take on stormform, but Eshonai does not trust her and has Zuln placed with the others who refuse to take on stormform. Zuln likely escapes with [[Thude]] and the rest of the dissenters into the chasms of the [[Shattered Plains]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:14, 3 September 2016 (MST)}}
-{{Stormlight}}

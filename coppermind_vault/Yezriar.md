@@ -1,29 +1,26 @@
 ---
-titles: "Crown prince"
-died: "{{Rosharan date|1140"
+source_file: Yezriar.txt
+entity_type: character
+titles: Crown prince
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Oathbringer]]'
 ---
 
-{{book ref|sa3|3}}
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Oathbringer]]
-}}
-Brightlord **Yezriar** is a crown prince of one of the [[Alethi]] princedoms on [[Roshar]]. He was killed by [[Dalinar]] early in [[Gavilar]]'s unification war.{{book ref|sa3|3}} 
+Brightlord **Yezriar** is a crown prince of one of the [[Alethi]] princedoms on [[Roshar]]. He was killed by [[Dalinar]] early in [[Gavilar]]'s unification war. 
 
 ==Appearance and Personality==
-Yezriar is a high-ranking [[lighteyed|lighteyes]]. In battle, he wears steel plate armor with a helm and cape that is styled to resemble [[Shardplate]]. He rides a white mare and carries a sword and shield.{{book ref|sa3|3}} He is accompanied by an honor guard on the battlefield, and he seems to follow established military traditions and customs.{{book ref|sa3|3}} 
+Yezriar is a high-ranking [[lighteyed|lighteyes]]. In battle, he wears steel plate armor with a helm and cape that is styled to resemble [[Shardplate]]. He rides a white mare and carries a sword and shield. He is accompanied by an honor guard on the battlefield, and he seems to follow established military traditions and customs. 
 
 ## History
-In {{Rosharan date|1140}}, Gavilar invaded one of the Alethi princedoms that opposed his ambition to rule Alethkar. Gavilar's forces, led by Dalinar, pursued the local army from the south somewhere in the outskirts of the princedom.{{book ref|sa3|3}} During the pursuit, the locals set their own land on fire, desperately hoping to slow Gavilar's attack. However, Dalinar pressed his forces through the fires and caught up to a portion of the defending army, led by Yezriar. Yezriar's army included an archer with a blue face tattoo, presumably [[Teleb]].{{book ref|sa3|3}}{{book ref|sa3|118}}
+In , Gavilar invaded one of the Alethi princedoms that opposed his ambition to rule Alethkar. Gavilar's forces, led by Dalinar, pursued the local army from the south somewhere in the outskirts of the princedom. During the pursuit, the locals set their own land on fire, desperately hoping to slow Gavilar's attack. However, Dalinar pressed his forces through the fires and caught up to a portion of the defending army, led by Yezriar. Yezriar's army included an archer with a blue face tattoo, presumably [[Teleb]].
 
-Dalinar wanted to kill the most important person he could find. He knew that the highprince was fighting further north, but he vaguely recalled Gavilar mentioning a son. [[Torol Sadeas]] later mentioned the crown prince being a strategic threat.{{book ref|sa3|3}} Dalinar's soldiers quickly began to route Yezriar's defenses and Yezriar accepted Dalinar's challenge for a personal duel.{{book ref|sa3|3}} [[Jenin]] shot Yezriar's horse with an arrow; Yezriar fell, but quickly recovered to face Dalinar. Dalinar attacked aggressively, but one of his shield straps broke during the fight, allowing Yezriar a brief opportunity that he took advantage of to land several blows on Dalinar, including a gauntleted punch directly to his face. However, this further stirred the [[Thrill]] in Dalinar, who ferociously attacked with a poleaxe. Yezriar attempted to flee, but Dalinar tripped him and slammed the poleaxe through his chest.{{book ref|sa3|3}}
+Dalinar wanted to kill the most important person he could find. He knew that the highprince was fighting further north, but he vaguely recalled Gavilar mentioning a son. [[Torol Sadeas]] later mentioned the crown prince being a strategic threat. Dalinar's soldiers quickly began to route Yezriar's defenses and Yezriar accepted Dalinar's challenge for a personal duel. [[Jenin]] shot Yezriar's horse with an arrow; Yezriar fell, but quickly recovered to face Dalinar. Dalinar attacked aggressively, but one of his shield straps broke during the fight, allowing Yezriar a brief opportunity that he took advantage of to land several blows on Dalinar, including a gauntleted punch directly to his face. However, this further stirred the [[Thrill]] in Dalinar, who ferociously attacked with a poleaxe. Yezriar attempted to flee, but Dalinar tripped him and slammed the poleaxe through his chest.
 
-As he lay dying, Yezriar asked Dalinar why he had attacked their princedom, and was surprised to hear that Dalinar did not know and had simply followed Gavilar's orders. Dalinar had [[Dym]] end Yezriar's suffering by stabbing him with a sword through a gap in his armor.{{book ref|sa3|3}} Dalinar later told Teleb that he killed Yezriar in lieu of capturing him in order to discourage other lighteyes from resisting Gavilar's rule. Yezriar's father was also killed in the fighting, and his head was placed on a spear.{{book ref|sa3|3}}
+As he lay dying, Yezriar asked Dalinar why he had attacked their princedom, and was surprised to hear that Dalinar did not know and had simply followed Gavilar's orders. Dalinar had [[Dym]] end Yezriar's suffering by stabbing him with a sword through a gap in his armor. Dalinar later told Teleb that he killed Yezriar in lieu of capturing him in order to discourage other lighteyes from resisting Gavilar's rule. Yezriar's father was also killed in the fighting, and his head was placed on a spear.
 
-Many years later, Yezriar's death was among the memories that [[Odium]] rekindled in Dalinar's mind to help demonstrate how much he had influenced Dalinar's life through the Thrill.{{book ref|sa3|118}} Dalinar thought of Yezriar as a better man than himself.{{book ref|sa3|118}}
+Many years later, Yezriar's death was among the memories that [[Odium]] rekindled in Dalinar's mind to help demonstrate how much he had influenced Dalinar's life through the Thrill. Dalinar thought of Yezriar as a better man than himself.
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 18:45, 30 December 2019 (UTC)}}
-{{Stormlight}}

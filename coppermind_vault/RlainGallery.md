@@ -1,3 +1,8 @@
+---
+source_file: RlainGallery.txt
+entity_type: article
+---
+
 ## Official art
 <gallery mode="packed" heights=250px caption="Official art">
 RoW beta cover.jpg | <center><small>by {{a|botanicaxu}}</small></center> On the beta cover of *[[Rhythm of War]]*

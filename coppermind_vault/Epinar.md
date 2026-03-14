@@ -1,17 +1,15 @@
 ---
-abilities: "{{tag+|Shardbearer"
+source_file: Epinar.txt
+entity_type: character
+abilities: Shardbearer <small>(formerly)</small>
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-<small>(formerly)</small>
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
 **Epinar** is a [[Shardbearer]] and the former dueling champion.
 
-In {{Rosharan date|1173}}, he dueled with [[Relis Ruthar]] and lost, losing the title to him.{{book ref|sa2|37}}
+In , he dueled with [[Relis Ruthar]] and lost, losing the title to him.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 07:35, 29 February 2020 (UTC)}}
-{{Stormlight}}

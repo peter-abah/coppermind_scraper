@@ -1,12 +1,13 @@
-{{literature
-|type=Research notes
-|author=[[Khrissalla]]
-|language=[[Elisian]]
-|world=Taldain
-|universe=[[Cosmere]]
-|books=[[White Sand]]
-}}
-{{update|ws}}
+---
+source_file: Khrissalla's Journal.txt
+entity_type: literature
+type: Research notes
+author: '[[Khrissalla]]'
+language: '[[Elisian]]'
+world: Taldain
+universe: '[[Cosmere]]'
+books: '[[White Sand]]'
+---
 
 **Khrissalla's Journal** is a series of pages written by noted [[Realmatic Theory|Realmatic]] scholar [[Khrissalla|Duchess Khrissalla]] of [[Elis]] on the [[Darkside]] of [[Taldain]]. Khriss uses her journal to chronicle her trip to [[Dayside]] and record her observations of Dayside society and culture, as well as her experiments with [[Sand mastery]].
 
@@ -121,13 +122,9 @@
 
 ### Taldain Astronomy
 
-{{image|Taldain_Astronomy_inset.jpg|side=left|width=150px|Top-down view of Taldain's Orbit.}}
-
 Elisian Astronomers used the movement of the stars to create a model of our planetary system. Dayside scholars relied on little more than the movement of the moon ([[NizhDa]]), which left gaping holes in their knowledge. 
 
 Despite the benefit of the stars, we Elisians are still missing huge parts of the puzzle. From what I have observed, there are at least three evidences that show other unseen forces are at work. 
-
-{{image|Taldain_Astronomy_moon.jpg|side=right|width=150px|Top-down view of Taldain's Orbit.}}
 
 First, the astronomer Djodjen observed moons orbiting Ridos's Eye and learned of stable and unstable orbits.The Eye is in a stable orbit around the Dayside sun ([[AisDa]]), but Taldain is not. It's stuck in an unstable orbit Djodjen refers to as Wombear's Saddle - if you place a marble in a saddle, it will roll one way or the other. Taldain, however, is pulled along by the Eye instead of rolling off into a stable orbit. For Taldain to stay locked this way requires an outside force we don't understand yet. 
 
@@ -148,7 +145,7 @@ Dayside divides one day cycle into fifteen 90-minute hours. A Darkside day is tw
 ! Dayside Hour 
 ! Taishin Standard Time 
 ! Darkside Time
-| rowspan=16 style="border: none;" | {{image|Timekeeping Clocks.jpg|side=center|width=175px|Moon hand tells the hour. Other hand tells the minute.}}
+| rowspan=16 style="border: none;" | 
 |-
 | 1st || Past bedtime || Midnight
 |-
@@ -225,8 +222,6 @@ Made from shalrim, a plant that grows underneath the sand. One of the main thing
 
 A curled horn-like canteen. Water fuels their art, so sand masters have water on them at all times. 
 
-{{image|Sandmaster_Ranks.jpg|side=right|width=275px|Diem ranks, as noted by Duchess Khrissalla.}}
-
 **Sand Bag**
 
 For carrying freshly-charged sand. 
@@ -243,13 +238,9 @@ Once a sand master is awarded a rank, it is impossible to move to a higher rank.
 
 By Darksider standards, the Kerla is a desert, as there appears to be little water and vegetation. The Kerla, however, is less like a desert and more like a lake of sand. The water, vegetation, and fauna reside beneath the surface in their own ecosystem.
 
-{{image|Kerla Excerpt.jpg|side=left|width=150px|Kerla Landscape, as sketched by Duchess Khrissalla.}}
-
 A desert to a Daysider is a place where there are no dorim vines and little life beneath the surface of the sand. Lossand is considered such, with its shallow sand, lack of dorim vines and its outcroppings of rocks. The plants are stumpy and short, there is little livestock, and in order to live, humans are constrained to the land along the rivers. In this one area, whereas on the Kerla, if someone knows its rules, they may live where they wish. 
 
 Deep sand differs from the Kerla in that the water table is much farther down. If the Kerla is a lake of sand, then deep sand is the ocean. It is calm on the surface, but beneath it is teeming with life. The dorim vines are so deep that human life cannot find them, and the depth of the sand allows for  the fauna to grow much larger. 
-
-{{image|Sandling Excerpt.jpg|side=right|width=200px|Sandling size comparisons, as sketched by Duchess Khrissalla.}}
 
 **Sandlings**
 Sandlings don't seem to need water. In fact, it's toxic to them, melting their carapaces. They've evolved a way to eat sand and bleed gas. Sometimes when this gas-blood reacts with air - which often carries a little moisture in it, even in the desert - the gas-blood can coalesce into something of a gooey liquid. 
@@ -263,8 +254,6 @@ When a tonk is spooked, it will burrow into the sand until only the tips of its 
 
 ### Dayside Nations and Religions
 
-{{image|Kerzt_and_Lossa.jpg|side=left|width=125px|Traditional representation of Kerzt and Lossa}}
-
 Anciently, two siblings - Lossa and her brother Kerzt - both claimed to have been visited by the Sand Lord. The result of the visitations is up for debate. 
 
 Kerztians say Lossa had been cursed with sand mastery, and Kerzt , in his righteousness, tried to kill her to end this affront to the Sand Lord. Lossandins argue that Lossa had been blessed with the Sand Lord's own power, and Kerzt tried to kill her out of jealousy, so she fled into the desert, eventually founding the nation of Lossand.
@@ -272,7 +261,6 @@ Kerztians say Lossa had been cursed with sand mastery, and Kerzt , in his righte
 Over the following centuries, the Kerztians, for the most part, remained ethnically pure, while the Lossandins mixed with the peoples of the Rim Kingdoms. 
 
 **Ker'reen and Los'seen**
-{{image|DaiKeen_Symbols.jpg|side=right|width=120px|Examples of DaiKeen symbols}}
 
 It is generally assumed that all ethnic Kerztians also follow the Ker'reen religion, led by their High Priest, the A'kar. The Lossandin form of Sand Lord worship - Los'seen - is more a philosophy than a beleif system, and in fact many Lossandins are agnostic when it comes to religion. A lossandin who desires organized religion must, in most cases, convert to Ker'reen, where their heritage has traditionally cast them as second-class members.
 
@@ -286,7 +274,6 @@ Despite the differences in Dayside beleif systems - which all ultimately worship
 ### Lossand Professions
 
 The Taishin are the rulers of Lossand, and the country is governed by their council, which consists of eight recognized Professions. Each Taisha represents a portion of the people of Lossand. Though each profession has a headquarters, they also have chapters in other major towns and cities throughout the country. 
-
 
 {| class=wikitable style="text-align: center; width:50%; margin-left: auto; margin-right: auto; border: none;"
 | rowspan=4 style="border: none; width:20%;" | [[File: Professions_Diem.jpg|80px|center]]
@@ -416,8 +403,6 @@ On Dayside, sending assassins is more of a personal declaration of war by an ind
 
 ### Zinkallin
 
-{{image|Zinkallin_Loading.jpg|side=right|width=175px|Zinkall loading and firing procedure}}
-
 Most assassins, warriors, soldiers, and trackts I've seen on Dayside carry zinkallin, which seem to be the preferred method of duels, battles, and self-defense, unless one is a sand master, in which case they just form knifelike ribbons or projectiles out of sand and command them toward their enemies at breakneck speed. (We must find a way to bring sand mastery to Elis.)
 
 Zinkallin, while innovative, still lack the power of guns, or even of a standard crossbow. What they lose in power, however, they make up for in convenience to carry and ease of use. 
@@ -425,8 +410,6 @@ Zinkallin, while innovative, still lack the power of guns, or even of a standard
 Though they shoot arrows, zinkallin aren't used in exactly the same way as bows are. Zinkallin are generally for short range combat, to wound an opponent before engaging them with a sword. The best Kerztian warriors, however, are good enough shots to incapacitate or kill with a single arrow. 
 
 Arrows are loaded in front, and then the mechanism is pumped, making it ready to fire. With a flick of the wrist, air pressure is released, along with an arrow, which is somewhere in size between a dart and a full Darkside bolt. 
-
-{{image|Zinkallin_Device.jpg|width=750px|Sketch of a zinkall, as worn}}
 
 ### Sand Mastery on Darkside?
 
@@ -463,13 +446,9 @@ I can almost make out every color of starmark shifting in there. Could it be pos
 
 I've built upon my earlier observations of the sun's effect on white sand and found something that might be related to the unseen forces I've mentioned in earlier entries. 
 
-{{image|Sand_Experiment_Partial_Cover.jpg|side=left|width=225px|How do partial coverings affect recharging sand?}}
-
 I've placed black sand in the sun, covering half of it. After four hours, the covered portion remains black while the portion open to the sun turns white again. 
 
 If I create a pattern with stones and remove them four hours later, the pattern remains. 
-
-{{image|Sand_Experiment_Pinhole.jpg|side=right|width=250px|Image created by pinhole light recharging sand.}}
 
 I've read about a Dayside phenomenon that prisoners sometimes experience in dark dungeons when only pinpricks of direct sunlight can get through, so I placed a box over an area of black sand and created a tiny hole in the top to let in a small amount of light. After four hours, I removed the box and found this:
 
@@ -478,12 +457,11 @@ A perfect representation (mirrored) of the top of my building looking up from th
 What I need is more access to sand masters willing to demonstrate their abilities. This will help me know specifically how sand mastery can be used as a weapon against Skathan and will also help me understand exactly how sand mastery works. There must be connections between anomalies I've found with the planet, starmarks, and sand mastery. Just like an ecosystem is connected, intertwined, and symbiotic, could the underlying power that keeps our planet in orbit also be the underlying power that fuels - dare I call it this? - magical elements that seem outside the order of nature?
 
 ### Dayside Food
-{{image|Dayside_Food_Zaidon.jpg|side=right|width=200px|Sketch of ZaiDon shapes.}}
+
 **ZaiDon**
 
 A type of soft, flexible jerky eaten with every Dayside meal. It's made by using water to melt sandlings (big or small), carapace and all, into a greenish-brown paste that is seasoned and spiced as it dries in the sun. Some varieties are thick, others thin, and they melt in your mouth as you chew them, a sensation I'm still not accustomed to.
 
-{{image|Dayside_Food_Vegetables.jpg|side=left|width=175px|Sketch of Dayside vegetables.}}
 Note: Some sandlings taste better than others, in flavors ranging from buttery to gamy and wild.
 
 Second note: avoid ZaiDon spiced with a pungent black powder called ashawen. It's a favored Kerztian spice, but I find it nearly inedible.
@@ -492,12 +470,10 @@ Second note: avoid ZaiDon spiced with a pungent black powder called ashawen. It'
 
 Most vegetables, especially in the Kerla, are grown beneath the surface of the sand. A farm might look like a camp of shepherds guarding a sand dune. 
 
-{{image|Dayside_Food_Bread.jpg|side=right|width=175px|Sketch of Dayside klam.}}
 **Bread**
 
 Made from the stunted grains that grow in the sandy soil on the banks of the Ry'DoAli. Varieties include rectangular pieces of flat bread called klam to bread cakes both sweet and savory. 
 
-{{image|Dayside_Food_Sauces.jpg|side=left|width=175px|Sketch of a sauce used with meals.}}
 **Sauces**
 
 ZaiDon, bread, and vegetables are often eaten with a variety of sauces, dips, chutneys and tapenades. Some of these are extremely good, like the creamy one that tastes sweet and a little garlicky. Others are made with ashawen and other peppery Kerztian spices, which I avoid as much as I can. 
@@ -521,11 +497,9 @@ Bowls, plates, cups and utensils cannot be made from untreated carapace, otherwi
 ### Sand Mastery Test
 
 Mystery surrounds the test for sand mastery, but in actuality it's quite mundane. In most cases, the Diem tests children between the ages of eight and twelve. 
-{{image|Sand_Mastery_Test.jpg|side=left|width=150px|Sketch of the test for sand mastery.}}
 
 The recruit holds a handful of sand as a proctor encourages the recruit to concentrate, to feel every grain of sand they hold, to call out to it in their mind and offer it to drink of the water of their body. If the sand comes to life, the recruit becomes an acolent in the Diem, and the strength of the sand's reaction is usually a good indicator of how powerful a sand master the acolent might become. 
 
-{{image|Sand_Mastery_Example.jpg|side=right|width=150px|Sketch of the test for sand mastery.}}
 Acolents who learn to control fifteen or more ribbons are watched closely and mentored by a mastrell. When an acolent has reached their full potential, meaning they stop being able to control increasingly more ribbons through the course of their development, they are allowed to petition for a rank inside the Diem. It is no surprise that those privately mentored by mastrells are usually granted that same rank. 
 
 There are no spontaneous sand masters, and only a sand master can administer the test. It's as if one has to be introduced to the power by one who already holds it, then the power itself chooses who to unlock and to what degree. This is well-documented in the Diem's records and reminds me of how Starcarved are discovered.
@@ -542,7 +516,6 @@ A part of me is disappointed I didn't pass the test for sand mastery, but mostly
 
 Living temporarily in the Diem has given me a chance to observe sand masters during their daily training and practice regimens. If a supposedly weak sand master such as Kenton can create a decoy of himself out of sand, as I saw him do during one of the assassination attempts, then think of all the things sand masters are capable of if they get creative. (Now that Kenton can control more than one ribbon, I hope he doesn't loose the ingenuity only one ribbon forced upon him.) 
 
-{{image|Sand_Mastery_Observations.jpg|side=right|width=165px|Sketched examples of sand mastery in use.}}
 Based on my observations, even one ribbon can do many things: 
 : * Launch a sand master into the air
 : * Slice things like a razor
@@ -571,18 +544,13 @@ Based on my observations, even one ribbon can do many things:
 
 Though Kenton has been reticent to share too much about sand mastery, there is one thing he taught me. Sand mastery is not about how many ribbons one can control. It is an art where accuracy can sometimes beat brute force. 
 
-{{image|Overburn.jpg|side=left|width=150px|Sketched example of a sand master beginning to overburn.}}
 Indeed, a sand master might wield over twenty ribbons, but unless it's done with finesse and accuracy - both gained from years of arduous practice - then they're just moving large amounts of sand. This type of sand mastery doesn't last long before it exhausts the body's water supply.
 
 If kept up for too long, an accomplished sand master under extreme duress can push themselves far beyond overmastery into what the Diem calls overburning. This comes when the sand master feeds the sand the last drops of water from their body and then gives up their lifeforce to the sand in exchange for one final explosive command.
 
 On the other hand, one small razor-sharp ribbon is quick and focused, and only takes a trickle of water from the sand master's body. 
 
-{{image|Single_Ribbon.jpg|width=400px|Sketched example of a sand master wielding a single ribbon.}}
-
 ### Zo'Ken
-
-{{image|ZoKen.jpg|side=right|width=350px|Sketched examples of a single ribbon in Zo'Ken.}}
 
 There is a time for brute force and there's a time for finesse. A time for the largest war hammer, and a time for the most delicate of paintbrushes. The trick is knowing when to use each. True sand mastery, then, is more about deliberate action, forming a bond with the sand and communicating with it, listening to its subtleties, and guiding it forward. Similar to teaching young children, the best results come from friendly coaxing rather than shows of force. 
 
@@ -594,16 +562,11 @@ Kenton has made good on his part of the bargain. I am not only carrying barrels 
 
 I believe the lichen that lives on the sand and makes it white in the sun can be grown, in the right conditions, on regular Darkside sand, so my cargo of so many barrels of white sand, which will have turned black by the time I return, might be overkill. So long as the ship sails in daylight, though, I will take advantage of researching and recharging the sand as much as possible, especially while I have a whole group of sand masters to work with. 
 
-{{image|Unseen_Worlds.jpg|side=right|width=200px|Sketched example of sand dune ripples forming a visage.}}
 The more I study sand mastery, the more I see connections to the Starcarved of Darkside. The sun invests some kind of power into the lichen on the sand, similar to how the particulate cloud sends out a weekly pulse that invests power into our starmarks, even if only some chosen seem to be able to access that power.
 
 Considering the connections between the two sides of our planet, I wonder if there's a corresponding curiosity on Darkside like the face I found in the pinhole image experiment. Since then, I've seen the ethereal face in the heat waves, clouds, in the eddies of water on the river, and in the ripples of sand across dunes. I'm not the only one who has experienced this. It seems this phenomenon is often documented on Dayside. 
 
 These anomalies—faces in the clouds, investiture of power, the world of the Unseen—these all pull at me like nothing else I've studied. I already have dozens of experiments planned and designs for specialized instruments to aid me in my exploration, but those notes can wait for tomorrow. Until then, I plan to remain on deck as much as possible. Soon we will enter the terminal storm, and I want to spend my remaining time on Dayside in the warmth and light of a star. 
 
-{{image|Horizon_Sun.jpg|width=600px|View of AisDa on the horizon from a ship nearing the terminal storm.}}
-
 ## Notes
 <references />
-{{partial}}
-{{White Sand}}

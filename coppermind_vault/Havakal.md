@@ -1,13 +1,13 @@
 ---
-'species: "UrDail"
-world: "ReDawn"
-universe: "Cytoverse"
-introduced: "ReDawn (novella)|ReDawn"
+source_file: Havakal.txt
+entity_type: character
+'''species': '[[UrDail]]'
+world: ReDawn
+universe: '[[Cytoverse]]'
+introduced: '[[ReDawn (novella)|ReDawn]]'
 ---
 
-**Havakal** is an [[UrDail]] from [[ReDawn (planet)|ReDawn]]. They are a participant in the sporting events played on ReDawn, and are one of the strongest offensive players on the [[Unity]] team.{{book ref|sf2|1}}
+**Havakal** is an [[UrDail]] from [[ReDawn (planet)|ReDawn]]. They are a participant in the sporting events played on ReDawn, and are one of the strongest offensive players on the [[Unity]] team.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 21:55, 20 May 2022 (UTC)}}
-{{Skyward}}

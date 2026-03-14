@@ -1,27 +1,28 @@
-{{book|title=*Dawnshard*|display-title=*Dawnshard* (novella)
-|cover=Dawnshard cover.jpg
-|series=[[The Stormlight Archive]]
-|prequel=Oathbringer
-|sequel=Rhythm of War
-|released=November 5, 2020 (ebook), February 15, 2022 (print)
-|'publisher=[[Dragonsteel Entertainment]], [[Tor|Tor Books]]
-|ISBN=978-1-250850-55-3
-|setting=[[Roshar]], [[Cosmere]]
-|page-count=269
-|word-count=[[/Statistical_analysis|55,096]]
-}}
-{{for|Dawnshard|the ancient magical items|pre=This article deals with the novella featuring [[Rysn]]}}
+---
+source_file: Dawnshard (novella).txt
+entity_type: book
+title: '''''Dawnshard'''''
+display-title: '''''Dawnshard'''' (novella)'
+cover: Dawnshard cover.jpg
+series: '[[The Stormlight Archive]]'
+prequel: Oathbringer
+sequel: Rhythm of War
+released: November 5, 2020 (ebook), February 15, 2022 (print)
+'''publisher': '[[Dragonsteel Entertainment]], [[Tor|Tor Books]]'
+isbn: 978-1-250850-55-3
+setting: '[[Roshar]], [[Cosmere]]'
+page-count: '269'
+word-count: '[[/Statistical_analysis|55,096]]'
+---
 
-***Dawnshard*** is a novella featuring [[Rysn]] and the crew of the ship *[[Wandersail_(1174 ship)|Wandersail]]* travelling to [[Aimia]].{{wob ref|13638}}{{url ref|url=https://www.kickstarter.com/projects/dragonsteel/the-way-of-kings-10th-anniversary-leatherbound-edition/posts/2893136 |text=TWoK Leatherbound Kickstarter Update #6|site=Kickstarter|date=2020-07-14}} Part of [[The Stormlight Archive]] series, it is set between *[[Oathbringer]]* and *[[Rhythm of War]]*,{{wob ref|13986}} and takes place three months after the end of *Oathbringer*.{{url ref|url=https://www.youtube.com/watch?v=MOrPI9f7c2E&t=2557s|text=Live Signing Session #17 — Rhythm of War|site=Youtube|date=2020-08-27}}{{wob ref|14257}} The ebook was released on November 5th, 2020 for backers of the Kickstarter for *[[The Way of Kings]]* leatherbound and on November 10th to the general public. A print edition was released on February 15th, 2022 and an audio version was released on August 16th, 2022.
+***Dawnshard*** is a novella featuring [[Rysn]] and the crew of the ship *[[Wandersail_(1174 ship)|Wandersail]]* travelling to [[Aimia]]. Part of [[The Stormlight Archive]] series, it is set between *[[Oathbringer]]* and *[[Rhythm of War]]*, and takes place three months after the end of *Oathbringer*. The ebook was released on November 5th, 2020 for backers of the Kickstarter for *[[The Way of Kings]]* leatherbound and on November 10th to the general public. A print edition was released on February 15th, 2022 and an audio version was released on August 16th, 2022.
 
 == Synopsis==
 *When a ghost ship is discovered, its crew presumed dead after trying to reach the storm-shrouded island [[Akinah]], [[Navani Kholin]] must send an expedition to make sure the island hasn’t fallen into enemy hands. [[Knights Radiant]] who fly too near find their [[Stormlight]] suddenly drained, so the voyage must be by sea.*
 
-*Shipowner [[Rysn Ftori]] lost the use of her legs but gained the companionship of [[Chiri-Chiri]], a Stormlight-ingesting winged [[larkin]], a species once thought extinct. Now Rysn’s pet is ill, and any hope for Chiri-Chiri’s recovery can be found only at the ancestral home of the larkin: Akinah. With the help of [[Lopen]], the formerly one-armed [[Windrunner]], Rysn must accept Navani’s quest and sail into the perilous storm from which no one has returned alive. If the crew cannot uncover the secrets of the hidden island city before the wrath of its ancient guardians falls upon them, the fate of [[Roshar]] and the entire [[Cosmere]] hangs in the balance.*{{url ref|url=https://www.brandonsanderson.com/the-stormlight-archive-series/#DAWNSHARD|text=Brandon's website|site=brandonsanderson.com}}
+*Shipowner [[Rysn Ftori]] lost the use of her legs but gained the companionship of [[Chiri-Chiri]], a Stormlight-ingesting winged [[larkin]], a species once thought extinct. Now Rysn’s pet is ill, and any hope for Chiri-Chiri’s recovery can be found only at the ancestral home of the larkin: Akinah. With the help of [[Lopen]], the formerly one-armed [[Windrunner]], Rysn must accept Navani’s quest and sail into the perilous storm from which no one has returned alive. If the crew cannot uncover the secrets of the hidden island city before the wrath of its ancient guardians falls upon them, the fate of [[Roshar]] and the entire [[Cosmere]] hangs in the balance.*
 
 ## Summary
-
-{{for|/Summary|a chapter by chapter summary}}
 
 [[Yalb]] serves aboard a Thaylen ship at sea as it discovers the *[[First Dreams]]* returning from [[Aimia]] without its crew.
 
@@ -38,24 +39,22 @@ Negotiations in the cave commence while [[Huio]] and [[Lopen]] fight the [[Sleep
 As the *Wandersail* returns to [[Thaylenah]], [[Rysn]] begins to notice the passive effects of the [[Dawnshard]]'s power and [[Lopen]] swears his own Third Ideal.
 
 ## Development
-Brandon originally intended to call the novella *Wandersail* after the [[Wandersail (1174 ship)|ship]] that [[Vstim]] had given Rysn and upon which she would be sailing. However, he decided to change it to prevent confusion with the *[[Wandersail]]* that [[Hoid|Wit]] told a story about,{{wob ref|13838}} and to reserve *Wandersail* as a title for a potential picture book.{{wob ref|13974}}
+Brandon originally intended to call the novella *Wandersail* after the [[Wandersail (1174 ship)|ship]] that [[Vstim]] had given Rysn and upon which she would be sailing. However, he decided to change it to prevent confusion with the *[[Wandersail]]* that [[Hoid|Wit]] told a story about, and to reserve *Wandersail* as a title for a potential picture book.
 
-Brandon decided to write and publish *Dawnshard* prior to the release of *Rhythm of War* because Aimia has relevance to the story and Rysn was the character best able to go there, presumably because of her newly acquired ship.{{wob ref|13638}}
+Brandon decided to write and publish *Dawnshard* prior to the release of *Rhythm of War* because Aimia has relevance to the story and Rysn was the character best able to go there, presumably because of her newly acquired ship.
 
-Brandon had planned to use [[Lopen]] as a secondary viewpoint character.{{wob ref|13974}} Lopen and [[Huio]] will both have character arcs in the novella.{{url ref|url=https://www.youtube.com/watch?v=yRj8aPl2ESI|text=Live Signing Session #19|site=Youtube|date=2020-10-01}}
+Brandon had planned to use [[Lopen]] as a secondary viewpoint character. Lopen and [[Huio]] will both have character arcs in the novella.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Dawnshard}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ==Trivia==
-*The cover of the novella depicts the exoskeleton of a [[larkin]].{{wob ref|13828}}
+*The cover of the novella depicts the exoskeleton of a [[larkin]].
 *The prologue from the first draft was sent in Brandon's newsletter on August 6, 2020.
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Dawnshard* consists of nineteen chapters, a prologue and epilogue. Across these, there are 17 sections from [[Rysn]]'s point of view, 10 from [[Lopen]]'s, 1 from [[Nikli]]'s, and 1 from [[Yalb]]'s with a total of 55,096 words. Unlike Edgedancer, each chapter may have more than one character's point of view.
 
 {|class="wikitable"
@@ -83,7 +82,5 @@ Brandon had planned to use [[Lopen]] as a secondary viewpoint character.{{wob re
 
 ## Notes
 <references />
-{{meta/done}}
-{{Stormlight}}
-{{books}}
+
 [[category: Stormlight Archive| 3.5]]

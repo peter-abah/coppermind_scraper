@@ -1,3 +1,8 @@
+---
+source_file: Sixth of the DuskGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Sixth of the Dusk.jpg | <center><small>by {{a|Jorge Jacinto}}</small></center> On *Sixth of the Dusk* cover

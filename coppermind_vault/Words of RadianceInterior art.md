@@ -1,4 +1,7 @@
-{{InteriorArtToC|sa}}
+---
+source_file: Words of RadianceInterior art.txt
+entity_type: interiorarttoc
+---
 
 This is a gallery of interior art for *[[Words of Radiance]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 

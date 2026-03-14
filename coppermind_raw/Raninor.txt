@@ -1,0 +1,16 @@
+{{character
+|abilities={{tag+|Shardbearer}}
+|titles=Raninor of the Fields
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''Raninor of the Fields''' is a historical [[darkeyes]] figure on [[Roshar]].
+
+[[Kaladin]] thinks of them among other dark-eyed [[Shardbearer]]s, such as [[Evod Markmaker]] and [[Lanacin]].{{book ref|sa2|44}}
+
+== Notes ==
+<references />
+{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 13:14, 12 June 2018 (MST)}}
+{{Stormlight}}
+[[Category: Myths and Legends]]

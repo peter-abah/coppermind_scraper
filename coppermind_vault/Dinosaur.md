@@ -1,23 +1,23 @@
-{{lifeform
-|image= Dinosaurs.jpeg
-|sapient=Yes
-|earth=Alcatraz
-|books=[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]
-}}
-{{quote
-| Dinosaurs. Useless. Let's move on.
-| [[Bastille]]{{book ref|a1|9}}
-}}
-**Dinosaurs** are a sapient species in the [[Free Kingdoms]]. They are native to [[Nalhalla]].{{book ref|a1|4}}
+---
+source_file: Dinosaur.txt
+entity_type: lifeform
+image: Dinosaurs.jpeg
+sapient: 'Yes'
+earth: Alcatraz
+books: '[[Alcatraz Versus the Evil Librarians (series)|Alcatraz Versus the Evil Librarians]]'
+---
 
-They are much smaller than the dinosaurs that presumably lived in the [[Hushlands]] millions of years ago, with Tyrannosaurus Rex reaching five to six feet tall. They also have varying coloration (green, orange, etc). They wear trousers and speak with a Nalhallan (British in Hushlands) accent{{book ref|a1|9}}. The majority of them appear to be refined, calm, and well-mannered, sometimes to a fault, which is why they are considered to be useless in a crisis situation.{{book ref|a1|16}}
+> Dinosaurs. Useless. Let's move on.
+> — [[Bastille]]
 
-The [[Librarian]]s in the Hushlands execute dinosaurs, enlarge their bones and place them into rock formations for archaeologists to dig up, perpetuating the lie that dinosaurs were prehistoric creatures.{{book ref|a1|9}}
+**Dinosaurs** are a sapient species in the [[Free Kingdoms]]. They are native to [[Nalhalla]].
+
+They are much smaller than the dinosaurs that presumably lived in the [[Hushlands]] millions of years ago, with Tyrannosaurus Rex reaching five to six feet tall. They also have varying coloration (green, orange, etc). They wear trousers and speak with a Nalhallan (British in Hushlands) accent. The majority of them appear to be refined, calm, and well-mannered, sometimes to a fault, which is why they are considered to be useless in a crisis situation.
+
+The [[Librarian]]s in the Hushlands execute dinosaurs, enlarge their bones and place them into rock formations for archaeologists to dig up, perpetuating the lie that dinosaurs were prehistoric creatures.
 
 ==Trivia==
-*Dinosaurs were originally said to speak with a [[Melerand]]ian accent, but the name of Melerand was changed to Nalhalla in later editions of the book.{{wob ref|4623}}
+*Dinosaurs were originally said to speak with a [[Melerand]]ian accent, but the name of Melerand was changed to Nalhalla in later editions of the book.
 
 ## Notes
 <references />
-{{partial}}
-{{Alcatraz}}

@@ -1,18 +1,16 @@
 ---
-residence: "Tinweight Settlement"
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 2"
+source_file: Demmy.txt
+entity_type: character
+residence: Tinweight Settlement
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-{{quote
-|He talked? Rust that rustin' bastard!
-|[[Wayne]]{{book ref|mb7|prologue}}
-}}
+> He talked? Rust that rustin' bastard!
+> — [[Wayne]]
 
-**Demmy** is a resident of [[Tinweight Settlement]] on [[Scadrial]]. In {{date|319|PC}}, [[Wayne]] stole his pocketknife, and Demmy informed [[Wayne's mother]] of the incident. Wayne felt bad about the theft when his mother confronted him.{{book ref|mb7|prologue}}
+**Demmy** is a resident of [[Tinweight Settlement]] on [[Scadrial]]. In , [[Wayne]] stole his pocketknife, and Demmy informed [[Wayne's mother]] of the incident. Wayne felt bad about the theft when his mother confronted him.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 19:27, 4 January 2023 (UTC)}}
-{{Mistborn|Era 2}}

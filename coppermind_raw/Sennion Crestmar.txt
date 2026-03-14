@@ -1,0 +1,11 @@
+{{character
+|children=[[Dennison Crestmar|Dennison]], [[Varion Crestmar|Varion]]
+|died=Killed by Varion
+|introduced=[[Firstborn]]
+}}
+'''Sennion Crestmar''' was a duke in the empire of [[Firstborn]].{{book ref|Firstborn}}
+
+== Notes ==
+<references />
+{{stub}}
+{{Firstborn}}

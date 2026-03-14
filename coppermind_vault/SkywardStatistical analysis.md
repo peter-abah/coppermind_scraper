@@ -1,6 +1,9 @@
+---
+source_file: SkywardStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Skyward]]***.
-
-
 
 ### Chapter by Chapter Breakdown
 {| class="wikitable sortable"
@@ -377,7 +380,5 @@ This page contains a statistical analysis of ***[[Skyward]]***.
 | align="right" | 3.03%
 |}
 
-{{meta/done}}
-{{Skyward}}
 [[Category: Skyward|*]]
 [[category: statistics]]

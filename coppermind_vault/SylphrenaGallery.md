@@ -1,3 +1,8 @@
+---
+source_file: SylphrenaGallery.txt
+entity_type: article
+---
+
 __NOTOC__
 ## Official Artwork
 ### As a spren
@@ -37,7 +42,6 @@ Clashing Storms Statue.png| <center><small>by {{a|Isaac Stewart}}</small></cente
 </gallery>
 
 ### In Call to Adventure card art
-{{for|Call to Adventure: The Stormlight Archive|more card art}}
 
 <gallery mode="packed" heights=200px>
 One More Try by Artem Demura.jpg | <center><small>by {{a|Artem Demura}}</small></center> *One More Try*
@@ -56,7 +60,7 @@ Windrunner by Randy Vargas.jpg | <center><small>by {{a|Randy Vargas}}</small></c
 
 ## Fanworks
 ### As a spren
-==== Portraits ====
+#### Portraits
 <gallery mode="packed" heights=200px>
 Sylphrena by stinkypanda.jpg | <center><small>by {{a|stinkypanda}}</small></center>
 Syl.jpg | <center><small>by {{a|Botanicaxu}}</small></center>
@@ -115,7 +119,7 @@ Syl hovering by Shayndlart.jpeg| <small><center>by {{a|Shayndlart}}</center></sm
 Syl by camillacmazz.jpeg| <small><center>by {{a|Camilla Mazzoni}}</center></small>
 </gallery>
 
-==== Scenes ====
+#### Scenes
 <gallery mode="packed" heights=200px>
 Syl caravan.jpg | <center><small>by [[User: Sheep]]</small></center> Speaking to [[Kaladin]] in his slave wagon
 Honor is Dead by ThomasW.jpg | <center><small>by {{a|ThomasW}}</small></center> Speaking with [[Kaladin]]

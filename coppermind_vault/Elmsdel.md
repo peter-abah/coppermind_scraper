@@ -1,16 +1,17 @@
-{{settlement
-|region=Elendel Basin
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-**Elmsdel** is one of the outer cities in the southeastern portion of the [[Elendel Basin]] on [[Scadrial]].{{map ref|Elendel Basin}} It is northwest of [[Garmet]], not far from the [[Seran Range]].
+---
+source_file: Elmsdel.txt
+entity_type: settlement
+region: Elendel Basin
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
 
-[[Steris]] mentions that travel between Elmsdel and [[Rashekin]] (a city in the northeastern Basin) requires passage through [[Elendel]]; there are no rail lines that bypass the capital. This leads to commerce between the outer cities being subjected to Elendel's taxes twice; once for the rail taxes and then again for entering Elendel. She argues that this is a reason for the discontentment of the rest of the Basin.{{book ref|mb6|5}}
+**Elmsdel** is one of the outer cities in the southeastern portion of the [[Elendel Basin]] on [[Scadrial]]. It is northwest of [[Garmet]], not far from the [[Seran Range]].
 
-[[Waxillium]] and [[Steris]] are married in the penthouse apartment of someone who has moved to Elmsdel for a long vacation.{{book ref|mb6|31}}
+[[Steris]] mentions that travel between Elmsdel and [[Rashekin]] (a city in the northeastern Basin) requires passage through [[Elendel]]; there are no rail lines that bypass the capital. This leads to commerce between the outer cities being subjected to Elendel's taxes twice; once for the rail taxes and then again for entering Elendel. She argues that this is a reason for the discontentment of the rest of the Basin.
+
+[[Waxillium]] and [[Steris]] are married in the penthouse apartment of someone who has moved to Elmsdel for a long vacation.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 06:22, 5 March 2019 (MST)}}
-{{Mistborn|Era 2}}

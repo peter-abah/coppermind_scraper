@@ -1,0 +1,13 @@
+This is a gallery for all known covers for ''[[Snapshot]]''. For more information about each cover, including other editions and translations using the same art, check each file's individual page.
+
+<gallery widths=3000px heights=400px mode="packed">
+Snapshot Vault Books edition.jpg | <center>United States</center> (Vault Books)
+Snapshot Dragonsteel edition.jpg | <center>United States</center> (Dragonsteel)
+Snapshot UK Cover.jpg | <center>United Kingdom</center> (Gollancz)
+Snapshot BD cover.jpg | <center>Bangladesh</center> (প্রতিচ্ছবি প্রকাশনী / Protichhobi Prokashoni)
+Snapshot PL cover.jpg | <center>Poland</center> (MAG)
+Snapshot TW Cover.jpg | <center>Taiwan</center> (城邦出版集團 / Cité Media Publishing Group)
+FR Novella collection cover.jpg | <center>France</center> (Le Livre De Poche, ''Sixth of the Dusk and Other Novellas'' anthology)
+</gallery>
+
+[[Category:Cover Galleries]]

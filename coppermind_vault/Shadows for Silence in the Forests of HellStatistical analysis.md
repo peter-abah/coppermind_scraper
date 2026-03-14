@@ -1,3 +1,8 @@
+---
+source_file: Shadows for Silence in the Forests of HellStatistical analysis.txt
+entity_type: shadows for silence
+---
+
 This page contains a statistical analysis of ***[[Shadows for Silence in the Forests of Hell]]***.
 
 Information used for this page is located [https://docs.google.com/spreadsheets/d/1NQHYpq4ZiDe-9jiaEwjE6WXNh_q4Z-EY_xmoEmOSNHg/edit#gid=1254206552 here].
@@ -67,8 +72,6 @@ Information used for this page is located [https://docs.google.com/spreadsheets/
 | align="right" | 7.98%
 |}
 
-{{Shadows for Silence}}
-{{meta/done}}
 [[Category: Shadows for Silence|*]]
 [[category: statistics]]
 [[es:Sombras por Silencio en los bosques del infierno/Análisis estadístico]]

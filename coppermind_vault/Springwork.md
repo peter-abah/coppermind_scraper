@@ -1,21 +1,23 @@
-{{culture
-|earth=Rithmatist
-|books=[[The Rithmatist]]
-}}
-**[[Springwork]]s** can refer to both spring-powered mechanical creations{{book ref|Rithmatist|11}} and the factories where they are created{{book ref|Rithmatist|1}}
+---
+source_file: Springwork.txt
+entity_type: culture
+earth: Rithmatist
+books: '[[The Rithmatist]]'
+---
+
+**[[Springwork]]s** can refer to both spring-powered mechanical creations and the factories where they are created
 
 Springworks include
-*Owls {{book ref|Rithmatist|2}}
-*Lanterns{{book ref|Rithmatist|4}}{{book ref|Rithmatist|7}}{{book ref|Rithmatist|14}}{{book ref|Rithmatist|22}}{{book ref|Rithmatist|23}}
-*Horses{{book ref|Rithmatist|11}}
-**Equilix horses{{cite}}
-*Crabs - which function as lawnmowers{{book ref|Rithmatist|12}}
-*Statues and gargoyles{{book ref|Rithmatist|13}}{{book ref|Rithmatist|19}}{{book ref|Rithmatist|22}}
+*Owls 
+*Lanterns
+*Horses
+**Equilix horses
+*Crabs - which function as lawnmowers
+*Statues and gargoyles
 
 ## Notes
 <references /><!-- 1, 2, 4, 7, 11-14, 16, 18-23 -->
-{{stub}}
-{{Rithmatist}}
+
 [[Category: Businesses]]
 [[Category: Objects and Materials]]
 [[category: list articles]]

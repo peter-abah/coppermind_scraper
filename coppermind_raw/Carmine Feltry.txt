@@ -1,0 +1,17 @@
+{{character
+|residence=Elendel
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+Lady '''Carmine Feltry''' is a resident of [[Elendel]] on [[Scadrial]].{{file ref|House_Record_broadsheet.jpg|''The House Record'' broadsheet}}
+
+She is planning on opening a racing circuit exclusively for motorcars on the old fairgrounds near the [[Irongate River]].{{file ref|House_Record_broadsheet.jpg|''The House Record'' broadsheet}}
+
+==Trivia==
+*Her last name is similar to that of Elendel politician [[Alloran Feltri]], but there is no confirmed connection between them.
+
+== Notes ==
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:17, 9 April 2021 (UTC)}}
+{{Mistborn|Era 2}}

@@ -1,17 +1,20 @@
-{{book
-|cover=Arcanum Unbounded.jpg
-|setting=[[Cosmere]]
-|released=November 22, 2016
-}}
+---
+source_file: Arcanum Unbounded.txt
+entity_type: book
+cover: Arcanum Unbounded.jpg
+setting: '[[Cosmere]]'
+released: November 22, 2016
+---
+
 ***Arcanum Unbounded*** is a collection of [[cosmere]] short fiction released on November 22, 2016. In addition to seven previously published pieces of short fiction, this collection includes the all-new novella *[[Edgedancer (novella)|Edgedancer]]* set on [[Roshar]], short essays regarding various planetary systems, and new artwork. 
 
-A leatherbound edition is planned; it was originally intended to contain an essay about [[Nalthis]],{{wob ref|12696}}{{wob ref|15641}} but the essay could instead be released as a standalone{{wob ref|9253}} or in a future anthology.{{wob ref|16497}}
+A leatherbound edition is planned; it was originally intended to contain an essay about [[Nalthis]], but the essay could instead be released as a standalone or in a future anthology.
 
 ## Contents
-{{for|/Summary|summaries of the essays}}
+
 *Arcanum Unbounded* includes all the shorter cosmere stories that Brandon has released so far.
 
-It also includes a star map of the cosmere,{{file ref|Cosmere_constellation_map.jpg|Cosmere constellation map}} essays written by [[Khriss]] and planetary charts for each planetary system featured, and new illustrations for each story included. Although a Nalthis essay has not been released, a chart of the [[Nalthian system]] was made public in 2019.{{file ref|Starchart_nalthis_color.jpg|Nalthian system star chart}}
+It also includes a star map of the cosmere, essays written by [[Khriss]] and planetary charts for each planetary system featured, and new illustrations for each story included. Although a Nalthis essay has not been released, a chart of the [[Nalthian system]] was made public in 2019.
 
 ### The Selish System
 ;*[[The Hope of Elantris]]*: A short story set on [[Sel]] during the events of [[Elantris (book)|Elantris]]. Originally sold as an ebook on Amazon, but eventually made available on Brandon's website.
@@ -36,15 +39,11 @@ Originally available as a stand-alone novella through Tachyon Publications.
 ;[[Edgedancer (novella)|*Edgedancer*]]: A novella set on [[Roshar]] featuring [[Lift]].
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Arcanum Unbounded}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Cosmere}}
-{{Books}}
+
 [[category: list articles]]
 [[es:Arcanum ilimitado]]

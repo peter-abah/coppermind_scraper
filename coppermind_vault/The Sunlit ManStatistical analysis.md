@@ -1,3 +1,8 @@
+---
+source_file: The Sunlit ManStatistical analysis.txt
+entity_type: meta/partial
+---
+
 This page contains a statistical analysis of ***[[The Sunlit Man]]***.
 
 ### Chapter by Chapter Breakdown
@@ -221,7 +226,5 @@ This page contains a statistical analysis of ***[[The Sunlit Man]]***.
 | align=""right"" | 1.45%
 |}
 
-{{meta/partial}}
-{{Sunlit Man}}
 [[Category: The Sunlit Man|+]]
 [[category: statistics]]

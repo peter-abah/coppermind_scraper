@@ -1,4 +1,9 @@
-{{disambig}}<br/>
+---
+source_file: Nan.txt
+entity_type: disambig
+---
+
+<br/>
 
 **Nan** can refer to multiple things:
 * One of the names used for the [[Herald]] [[Nale]]

@@ -1,30 +1,29 @@
 ---
-merge-family: "y"
-profession: "{{tag+|ardent"
+source_file: Ithi.txt
+entity_type: character
+merge-family: y
+profession: ardent
+religion: Vorinism
+abilities: '[[Soulcaster]] <small>({{tag+|Savant}})</small>'
+nation: Alethkar
+residence: Kholinar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Oathbringer]]'
 ---
 
-|religion={{tag|Vorinism}}
-|abilities=[[Soulcaster]] <small>({{tag+|Savant}})</small>
-|nation=Alethkar
-|residence=Kholinar
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Oathbringer]]
-}}
-**Ithi** is a [[Soulcaster]] in [[Kholinar]] on [[Roshar]]. She and her sister are tasked by [[Azure]] with secretly feeding the [[Kholinar Wall Guard]] by Soulcasting stone into food.{{book ref|sa3|81}}
+**Ithi** is a [[Soulcaster]] in [[Kholinar]] on [[Roshar]]. She and her sister are tasked by [[Azure]] with secretly feeding the [[Kholinar Wall Guard]] by Soulcasting stone into food.
 
 ## Appearance and Personality
-Ithi is a middle-aged or elderly woman. As a result of being a Soulcasting [[savant]], she has vines seemingly growing underneath her skin, out of her eyes, and down her face.{{book ref|sa3|81}}{{wob ref|1557}} She wears a Soulcasting [[fabrial]] on her hand that is powered by [[Stormlight]] contained in large emeralds.{{book ref|sa3|81}} Like most [[Alethi]] Soulcasters, she is an [[ardent]] of the [[Vorin]] church.{{book ref|sa3|81}}
+Ithi is a middle-aged or elderly woman. As a result of being a Soulcasting [[savant]], she has vines seemingly growing underneath her skin, out of her eyes, and down her face. She wears a Soulcasting [[fabrial]] on her hand that is powered by [[Stormlight]] contained in large emeralds. Like most [[Alethi]] Soulcasters, she is an [[ardent]] of the [[Vorin]] church.
 
 ## Abilities
-Ithi is skilled in the use of her Soulcaster [[fabrial]]. Although she and her sister are not powerful enough to feed the entire city, they are able to keep the entire [[Kholinar Wall Guard]] supplied with plenty of food, with "some to spare".{{book ref|sa3|81}} She shares the fabrial with her sister and they are therefore able to keep Soulcasting "nonstop".{{book ref|sa3|81}}
+Ithi is skilled in the use of her Soulcaster [[fabrial]]. Although she and her sister are not powerful enough to feed the entire city, they are able to keep the entire [[Kholinar Wall Guard]] supplied with plenty of food, with "some to spare". She shares the fabrial with her sister and they are therefore able to keep Soulcasting "nonstop".
 
 ## History
-During the [[Siege of Kholinar]], Highmarshal [[Azure]] led the [[Kholinar Wall Guard]] in defending the city against the [[Voidbringer]]s.{{book ref|sa3|70}} Food was very scarce in the city during the siege; the Voidbringers intentionally allowed refugees from the surrounding areas to enter the city and drain its resources.{{book ref|sa3|61}} Under normal circumstances, the city's Soulcasters would have been able to make Soulcast food to sustain the populace for quite some time,{{book ref|sa3|54}} but the invading army controlled [[Voidspren]] known as "screamers" that could detect most uses of [[Stormlight]], including fabrials, and alert the [[Fused]].{{book ref|sa3|70}}
+During the [[Siege of Kholinar]], Highmarshal [[Azure]] led the [[Kholinar Wall Guard]] in defending the city against the [[Voidbringer]]s. Food was very scarce in the city during the siege; the Voidbringers intentionally allowed refugees from the surrounding areas to enter the city and drain its resources. Under normal circumstances, the city's Soulcasters would have been able to make Soulcast food to sustain the populace for quite some time, but the invading army controlled [[Voidspren]] known as "screamers" that could detect most uses of [[Stormlight]], including fabrials, and alert the [[Fused]].
 
-[[Kaladin]] noticed that Azure seemed to control an unusual amount of food, and even used it to recruit people into her army.{{book ref|sa3|70}} Azure eventually revealed a hidden series of chambers in the walls of the city.{{book ref|sa3|81}} Azure entered the tunnels every night to cut out blocks of stone with her [[Shardblade]] that Ithi and her sister would Soulcast into food.{{book ref|sa3|81}} They avoided detection by the screamers by lining the room with [[aluminum]] panels given to Azure by [[Hoid]].{{wob ref|10532}}{{book ref|sa3|81}}
+[[Kaladin]] noticed that Azure seemed to control an unusual amount of food, and even used it to recruit people into her army. Azure eventually revealed a hidden series of chambers in the walls of the city. Azure entered the tunnels every night to cut out blocks of stone with her [[Shardblade]] that Ithi and her sister would Soulcast into food. They avoided detection by the screamers by lining the room with [[aluminum]] panels given to Azure by [[Hoid]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 06:15, 2 February 2020 (UTC)}}
-{{Stormlight}}

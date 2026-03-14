@@ -1,0 +1,100 @@
+{{character
+|image=Hesina portrait.png
+|spouse=[[Lirin]]
+|children=[[Kaladin]], [[Tien]], [[Oroden]]
+|relatives=[[Aesudan]],{{wob ref|10909}} [[Gavinor]]
+|ancestors=Grandfather{{book ref|sa4|i|10}}
+|born={{Rosharan date|1133}}{{book ref|sa3|7}}
+|'residence={{tag|Hearthstone|cat=Residents of Hearthstone}} <small>(formerly)</small>, {{tag|Urithiru|cat=Residents of Urithiru}}
+|nation=Alethkar
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[The Way of Kings]]
+}}
+'''Hesina''' is a female [[darkeyes|darkeyed]] [[Alethi]] of the second [[nahn]]{{book ref|sa1|16}} on [[Roshar]]. She lives in [[Urithiru]] with her husband, [[Lirin]] and her youngest son, [[Oroden]].{{book ref|sa4|18}} She is also the mother of [[Kaladin]] and [[Tien]].{{book ref|sa1|10}} 
+
+Hesina used to live in a home built on the outskirts of [[Hearthstone]], larger than the normal household building due to the inclusion of her husband's surgery room.{{book ref|sa1|16}} She now lives in Urithiru, near the other former residents of Hearthstone.{{book ref|sa4|18}}
+
+==Appearance and Personality==
+{{image|Hesina and Oroden by Shuravf.jpg|side=left|height=300px|Holding [[Oroden]]}}
+{{for|/Gallery|more images}}
+Hesina is a pretty darkeyed woman, with full lips, a narrow face and a bold chin.{{book ref|sa1|10}} She is tall and stands several fingers above her husband.{{book ref|sa1|25}}{{book ref|sa3|6}} She has dark hair that is usually in a tail and wrapped in a kerchief.{{book ref|sa1|25}} Hesina often wears brown clothing, sometimes with a hint of color.{{book ref|sa1|25}}{{book ref|sa1|37}} During the colder months, she wears a knitted hat over her kerchief and a long brown coat to keep warm.{{book ref|sa1|25}} Like many [[darkeyed]] women,{{book ref|sa1|3}} she covers her [[safehand]] with a glove as it is more practical.{{book ref|sa1|6}}
+
+Hesina is quick witted and sharp tongued.{{book ref|sa1|25}} She is open minded{{book ref|sa1|44}} and wishes for her children to have a choice over their future [[Calling]]s.{{book ref|sa1|44}} She is an eloquent speaker and expects the same of her children.{{book ref|sa1|25}} Unlike the other mothers in Hearthstone, Hesina rarely chastises her sons for odd behaviour and sometimes joins them.{{book ref|sa1|44}}  She enjoys working around the town, cleaning buildings and removing [[crem]], as she finds it a useful way to clear her head.{{book ref|sa1|25}} 
+
+===Beliefs===
+{{quote
+|Spren appear when something changes—when fear appears, or when it begins to rain. They are the heart of change, and therefore the heart of all things.
+|Hesina{{book ref|sa1|17}}
+}}
+Hesina follows the [[Vorin]] religion and is more religious that her husband.{{book ref|sa1|17}} She has faith in the power of [[glyphward]]s, often burning them for her family or giving them to her sons.{{book ref|sa1|17}} She has a preference for simple and straightforward glyphs.{{book ref|sa1|62}} 
+
+Hesina believes that all things, with the exception of people, have a [[spren]] living within them.{{book ref|sa1|37}} When objects such as food are consumed, the spren within them are freed to return to their home.{{book ref|sa1|37}} People, by contrast, have souls instead of spren, however, Hesina believes that small spren can reside in parts of the body.{{book ref|sa1|37}} A similar thought is echoed by [[Syl]], when she discusses the genders of Kaladin's weapons with him.{{book ref|sa3|7}}
+
+==Attributes and Abilities== 
+While not a surgeon like her husband, Hesina will occasionally assist Lirin with his surgeries. Her role in her husband's work diminishes as Lirin takes on apprentices, first Kaladin, then [[Mara (Roshar)|Mara]]--however, Hesina occasionally assists if multiple helpers are required.{{book ref|sa1|41}}{{book ref|sa3|6}}
+
+Hesina is able to both read and write in the Alethi [[women's script]]. She is the only darkeyed woman in Hearthstone who is able to read, though this skill isn't uncommon among higher ranking darkeyed women.{{book ref|sa1|31}}
+
+== History ==
+Although her exact parentage and place of birth are unknown, at least one of Hesina's parents was not a darkeyes.{{wob ref|9290}} By the time Hesina was seventeen, they lived in [[Tomat]], where Hesina's father was a privileged business owner and was able to bully the citylord into following his wishes.{{book ref|sa4|i|10}} After meeting [[Lirin]], Hesina moved away from her family to live in Hearthstone and started a family, leading to a drop in her social status.{{book ref|sa1|31}}{{wob ref|1335}} Two years after the birth of her first son, [[Kaladin]], Hesina was blessed with the birth of her second child, [[Tien]].{{book ref|sa1|16}} There is a large age gap of eighteen years between Tien and her third child, [[Oroden]].{{book ref|sa1|16}}{{book ref|sa3|7}}
+{{image|Lirin_and_hesina.jpg|side=right|width=150px|Lirin and Hesina}}
+
+Due to their close ties to the local Brightlord, Hesina and her husband had hoped to secure an allegiance between the two families through marriage.{{book ref|sa1|25}} When Brightlord [[Wistiow]] fell gravely ill, making the likelihood of the union improbable, Hesina and her husband conspired to steal a significant amount of wealth from the Brightlord to secure passage for their son to continue his studies in [[Kharbranth]].{{book ref|sa1|37}} The family claimed that the [[spheres#currency|diamond broams]]{{book ref|sa1|16}} had been bequeathed to Lirin by Wistiow on his deathbed, a claim that they supported with forged documentation.{{book ref|sa1|25}}  Despite their best efforts to legitimize the agreement, rumors of theft persisted amongst the other townsfolk.
+
+===The Butcher===
+After his death, Wistiow was replaced by Brightord [[Toralin Roshone]] as the lord of Hearthstone.{{book ref|sa1|25}} On the day of his arrival, Hesina was found by Kaladin, cleaning and working at the town hall. Frustrated with the gossiping townsfolk, Kaladin spoke to his mother about the rumors surrounding their family as well as his place within the town. While talking, Hesina admitted that she had hoped for Kaladin to be able to marry [[Laral]], the daughter of Brightlord Wistiow. The arrival of Roshone pulled Hesina away from her work, as the town gathered to greet the new Brightlord. Joining her second son Tien, who had saved places for the family in the town square, Hesina and her family waited to greet the new citylord.  Roshone's arrival did not bode well for the family, with the Brightlord taking an immediate disliking towards her husband, despite Lirin's attempts to welcome him to Hearthstone.{{book ref|sa1|25}}
+
+===Torment of the Family===
+Roshone, aware of the inherited spheres and the possibility of their illegitimate procurement, demanded their return, of which Lirin refused. Roshone continued to fuel the rumors that the spheres had been stolen and the agreement forged, whilst also driving the family towards destitution.{{book ref|sa1|37}} Despite his best efforts, Hesina and her family did not suffer as much as Roshone assumed, as the townsfolk continued donating to the family in secret, leaving food around the town for Hesina to find.{{book ref|sa1|37}} When the possibilities of work for Hesina dried up due to Roshone's meddling, Lirin met with the Brightlord to discuss the disputed spheres and the family's situation. In an attempt to hide the meeting between Lirin and Roshone, Hesina recruited her sons to help her with housework, hoping to keeping them distracted and occupied. Ultimately, her plan was unsuccessful, and Kaladin escaped his duties, joining his father in Lirin's meeting with Roshone. After the meeting, Kaladin discovered his father's plans to deceive Roshone, as well as the truth behind the acquisition of Wistiow's wealth. Kaladin was shocked not only to learn that the rumors that the spheres were stolen were true, but also that his mother had taken part in their theft.{{book ref|sa1|37}}
+
+Following the death of Roshone's son [[Rillir]], the family fell further towards poverty and Hesina and her husband began to slowly spend the stolen spheres. This was done deliberately; while the family indeed struggled, the spheres were spent, not because it was required, but instead as a way to deceive Roshone and deflect his attention.{{book ref|sa1|44}} 
+
+{{image|Weeping by Marie Seeberger.jpg|side=left|width=200px|Watching the [[Weeping]] with her sons}}
+
+===The Weeping of {{Rosharan date|1168}}===
+Despite their attempts to curb Roshone's anger, Hesina and her husband were ultimately unsuccessful. After spending time with her sons in the rain, Hesina and her family joined the townsfolk of Hearthstone to welcome Highmarshal [[Amaram]]--a general for the Highprince and cousin of Roshone. Amaram, who had gone to Hearthstone to visit his cousin, used his visit as a recruitment opportunity for the princedom's army. After only six men volunteered, Amaram began conscripting men from the village, including Hesina's son Tien. Unlike his father and brother, Tien wasn't exempt from conscription on the basis of his duties, a fact that Roshone exploited, impressing the boy as retribution for Lirin's inability to save his own son's life. Kaladin, unable to let his brother face the battlefield alone, volunteered to join, promising his parents that he would keep his younger sibling safe from harm.{{book ref|sa1|44}}
+
+Less than four months later, Tien was killed.{{book ref|sa1|67}} After his death, Hesina received a short message from Kaladin, informing them of his brother's death and that he would not be returning to Hearthstone. They did not send him a reply.{{book ref|sa1|47}} Years later, after Kaladin was sold into slavery, Hesina and Lirin received word that he had also been killed.{{book ref|sa3|6}} Roshone's guilt over what he had done lessened his hostility towards Hesina and her husband, with life quieting down somewhat after the departure of their children.{{book ref|sa3|6}}
+
+===True Desolation===
+After the coming of the [[Everstorm]], Hesina was reunited with Kaladin when he returned to Hearthstone. After arriving at the battered manor, Kaladin located his mother and father in the parlor, tending to those who were wounded by the Everstorm. While her husband argued with Roshone's guards, Hesina saw to her son, feeding him and filling him in on their family's situation. Later, after he spoke privately with Roshone and Laral, Hesina introduced Kaladin to his younger brother, [[Oroden]]. When Kaladin departed to track down the transformed [[parshmen]], Hesina stayed behind with her husband in Hearthstone to aid the townsfolk and care for her son Oroden.{{book ref|sa3|6}}{{book ref|Sa3|7}}
+
+Singer armies invaded Hearthstone shortly afterwards, and Lirin began working as a surgeon under their command, checking refugees for disease. Hesina assisted him, and the town was overseen by [[Abiajan]].{{book ref|sa4|1}} Kaladin visited on occasion, and kept his family updated on his life. It was during these visits that Hesina and Lirin were introduced to [[Sylphrena]]. When [[Dieno|The Mink]] came to Hearthstone, Hesina helped him hide until Kaladin arrived to speak to him.{{book ref|sa4|2}} The people of Hearthstone were then relocated to [[Urithiru]], flown to the [[Shattered Plains]] on the [[Fourth Bridge]].{{book ref|sa4|3}}{{book ref|sa4|18}}
+
+In Urithiru, Hesina helped with the rehabilitation of Kaladin's battle shock patients, and met some of her son's friends such as [[Teft]] and [[Rlain]].{{book ref|sa4|37}}{{book ref|sa4|23}} When the tower was [[Occupation of Urithiru|occupied by the Fused]], Hesina delivered supplies to the people of Hearthstone.{{book ref|sa4|43}} After Kaladin killed a singer, Lirin and Hesina were to be executed, but [[Venli]] managed to prevent this.{{book ref|sa4|60}} Instead, the two were assigned to care for the comatose Radiants.{{book ref|sa4|74}} 
+
+Rlain brought Hesina maps of the tower that he had stolen, and they tried to find a way to use them to help Kaladin.{{book ref|sa4|74}}{{book ref|sa4|79}} [[Dabbid]] informed them that Kaladin was dying of his injuries following a fight with [[Lezian|The Pursuer]], and Hesina suggested that she treat his wounds, as Lirin would not do so unless Kaladin surrendered himself to the [[Fused]]. This did not end up being necessary.{{book ref|sa4|83}} Hesina and Lirin argued about Kaladin's resistance against the occupation, and she convinced him to see all the good in what Kaladin was doing.{{book ref|sa4|i|10}} Hesina, Lirin and Oroden were then tied up in the infirmary by [[Moash]] as part of a trap for Kaladin and Teft.{{book ref|sa4|103}}
+
+In the aftermath of Teft's death, Hesina explained the situation to Rlain and Dabbid, and took over leading the triage.{{book ref|sa4|109}} She joined in the fighting in the atrium of Urithiru, which lasted until Kaladin returned.{{book ref|sa4|111}} 
+
+Hesina and her sons spent the morning together in peace after Teft's funeral, and Hesina still mothered Kaladin, though she was beginning to accept that he was no longer a child. Hesina told Syl embarrassing stories from Kaladin's childhood. Lirin returned from a meeting with [[Dalinar]], and Kaladin said his goodbyes to his parents before setting off for [[Shinovar]].{{book ref|sa5|2}}
+
+==Relationships==
+===Hesina's Parents===
+One of Hesina's parents is not [[darkeyed]],{{wob ref|9290}} and since Hesina describes her father as "stubborn as a lighteyes" rather than actually lighteyed, it is likely that this refers to her mother.{{book ref|sa4|i|10}} They are of a higher social standing than their daughter.{{wob ref|1335}}
+
+The initial meeting between Lirin and Hesina's parents goes quite poorly.{{book ref|sa1|25}} Hesina's parents are rarely mentioned, particularly around her children. However, she is still in contact with them, and when the family falls on tough times after the arrival of Roshone, Hesina's parents offer aid to the family.{{book ref|sa1|44}} During the [[True Desolation]], Hesina worries about her father and checks scout maps of [[Tomat]] to make sure he is still alive.{{book ref|sa4|i|10}}
+
+{{image|Stormblessed Family by Elisgardor.jpg|side=right|width=350px|Hesina and her family}}
+
+===Lirin===
+Hesina and Lirin meet and fall in love during his travels, after which Hesina moves with Lirin to Hearthstone.{{book ref|sa1|31}} They have a loving relationship, though they don't see eye to eye over Kaladin's study habits when he is young{{book ref|sa1|16}} or over religion.{{book ref|sa1|17}} Later, they disagree sharply over Kaladin's actions as a Knight Radiant, with Hesina trying to persuade Lirin to accept their son's decision to fight rather than to be a surgeon.{{book ref|sa4|i|10}} 
+
+===Kaladin===
+Hesina and her husband hope that one day their son Kaladin would be able to marry Laral, the daughter of the Brightlord Wistiow.{{book ref|sa1|16}} During his earlier years, his parents often encourage both Kaladin and his brother to play with Laral to help strengthen the bond between the two families.{{book ref|sa1|25}} Hesina often banters with her son, Kaladin, who inherits her tendency towards clever wordplay.{{book ref|sa1|25}} 
+
+As a child, Kaladin remembers his parents being at odds with each other over the importance of his commitment to study. While his father wishes for him to focus on his future and the chance to study and learn in Kharbranth, his mother wishes for him to be able to enjoy his childhood. Whether due to or despite these disagreements, Kaladin is granted two hours a day by his father where he is not required to study.{{book ref|sa1|16}} After the arrival of Roshone, Kaladin's parents try and get him to Kharbranth earlier than normally allowed, writing to the surgeons and requesting for their son to take the entry tests early. Their request is denied.{{book ref|sa1|31}} 
+
+When they are reunited, Kaladin finds that his mother still treats him like a child despite their many years apart.{{book ref|sa3|6}} She is delighted to find out that her son is a Knight Radiant.{{book ref|sa3|7}}
+
+==Trivia==
+* She was originally named Hessica, but this was changed before the release of ''[[The Way of Kings]]'' to better align with Alethi naming conventions. Brandon sometimes still writes her name as Hessica in drafts.{{wob ref|13360}}
+
+== Notes ==
+<references /><!-- 10 25 37 41 44 -->
+{{partial}}
+{{demoted|sa4}}
+{{Stormlight}}
+[[Category: Viewpoint characters]]
+[[es: Hesina]]

@@ -1,3 +1,8 @@
+---
+source_file: GlysGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=250px name="Official Artwork">
 Truthwatcher by Randy Vargas.jpg | <center><small>by {{a|Randy Vargas}}</small></center> *Truthwatcher*, *[[Call to Adventure: The Stormlight Archive]]*

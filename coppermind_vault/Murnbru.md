@@ -1,16 +1,16 @@
 ---
-profession: "{{cat tag|medical professionals|Doctor"
+source_file: Murnbru.txt
+entity_type: character
+residence: Elendel
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-|residence=Elendel
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
+> That little rat Murnbru was a *psychologist*?
+> — Wax on Murnbru.
 
-{{quote|That little rat Murnbru was a *psychologist*?|Wax on Murnbru.{{book ref|mb4|15}}}}
-
-**Murnbru** is a [[Scadrian]] doctor who compiled a psychological profile on [[Waxillium Ladrian]] after visiting [[Weathering]].{{book ref|mb4|15}}
+**Murnbru** is a [[Scadrian]] doctor who compiled a psychological profile on [[Waxillium Ladrian]] after visiting [[Weathering]].
 
 Wax believed that he was a gambling cheat, who had been passing through town looking for people to swindle.
 
@@ -18,5 +18,3 @@ In Murnbru's profile, he said that Wax had a tendency to think anyone who wears 
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 17:46, 25 December 2016 (MST)}}
-{{Mistborn|Era 2}}

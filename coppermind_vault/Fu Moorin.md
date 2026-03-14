@@ -1,16 +1,17 @@
-{{settlement
-|region=Purelake
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Fu Moorin** is a [[Purelake]] settlement on [[Roshar]] during the [[Era of Solitude]].{{book ref|sa1|i|1}}
+---
+source_file: Fu Moorin.txt
+entity_type: settlement
+region: Purelake
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-The buildings of the village were likely constructed so that their floors were submerged by several inches of water.{{book ref|sa1|i|1}}
+**Fu Moorin** is a [[Purelake]] settlement on [[Roshar]] during the [[Era of Solitude]].
 
-In 1173, [[Ishikk]] searched for [[Hoid]] in Fu Moorin for several members of the [[Seventeenth Shard]].{{book ref|sa1|i|1}}
+The buildings of the village were likely constructed so that their floors were submerged by several inches of water.
+
+In 1173, [[Ishikk]] searched for [[Hoid]] in Fu Moorin for several members of the [[Seventeenth Shard]].
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 02:38, 23 December 2016 (MST)}}
-{{Stormlight}}

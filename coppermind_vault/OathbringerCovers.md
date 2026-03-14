@@ -1,5 +1,7 @@
-
-{{CoverToC|sa}}
+---
+source_file: OathbringerCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for covers of *[[Oathbringer]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

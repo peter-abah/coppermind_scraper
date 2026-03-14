@@ -1,17 +1,15 @@
 ---
-profession: "{{cat tag|Armedius Academy Faculty|Professor"
+source_file: Howards.txt
+entity_type: character
+residence: Armedius Academy
+powers: Rithmatist
+earth: Rithmatist
+books: '[[The Rithmatist]]'
 ---
 
-|residence=Armedius Academy
-|powers={{tag+|Rithmatist}}
-|earth=Rithmatist
-|books=[[The Rithmatist]]
-}}
-**Howards** is a professor of Rithmatics at [[Armedius Academy]].{{book ref|Rithmatist|2}}
+**Howards** is a professor of Rithmatics at [[Armedius Academy]].
 
 According to Joel, Howards and [[Silversmith]] treat their students like fools.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 13:11, 1 June 2018 (MST)}}
-{{Rithmatist}}

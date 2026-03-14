@@ -1,15 +1,14 @@
 ---
-#profession: "Soldier"
-nation: "Shinovar"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Wind and Truth"
+source_file: Jathen.txt
+entity_type: character
+'#profession': Soldier
+nation: Shinovar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-{{update|sa5}}
-**Jathen** is a [[Shin]] soldier on [[Roshar]].{{book ref|sa5|59}}
+**Jathen** is a [[Shin]] soldier on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

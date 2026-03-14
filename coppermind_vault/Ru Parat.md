@@ -1,14 +1,15 @@
-{{settlement
-|nation=Tu Bayla
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Ru Parat** is a city in [[Tu Bayla]] in central [[Roshar]]. It may be the nation's capital.{{map ref|Roshar}}
+---
+source_file: Ru Parat.txt
+entity_type: settlement
+nation: Tu Bayla
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-It is located in the north, close to the shore of the [[Reshi Sea]].{{map ref|Roshar}}
+**Ru Parat** is a city in [[Tu Bayla]] in central [[Roshar]]. It may be the nation's capital.
+
+It is located in the north, close to the shore of the [[Reshi Sea]].
 
 ## Notes
 <references/>
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 15:19, 25 December 2016 (MST)}}
-{{Stormlight}}

@@ -1,17 +1,13 @@
-{{DISPLAYTITLE:*{{FULLPAGENAME}}*}}
-{{Literature
-|type=History
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-***Eternathis*** is a written history of eastern [[Roshar]] during the [[Era of Solitude]].{{book ref|sa1|8}} The author is unknown.
+---
+source_file: Eternathis.txt
+entity_type: displaytitle:''{{fullpagename}}''
+---
 
-*Eternathis* is a philosophical book that discusses the history of Roshar since the fall of the [[Hierocracy]].{{book ref|sa1|8}} It focuses solely on the interactions between the five [[Vorin]] kingdoms ([[Kharbranth]], [[Natanatan]], [[Alethkar]], [[Jah Keved]], and [[Thaylenah]]), and is therefore an exhaustive treatment of its subject.{{book ref|sa1|8}}
+***Eternathis*** is a written history of eastern [[Roshar]] during the [[Era of Solitude]]. The author is unknown.
 
-In {{Rosharan date|1173}}, Brightness [[Shallan Davar]] bought a copy of *Eternathis* in four blue-gray volumes from the merchant [[Artmyrn]] in [[Kharbranth]] so that she could study history. Princess [[Jasnah Kholin]] was pleased by her choice.{{book ref|sa1|8}}
+*Eternathis* is a philosophical book that discusses the history of Roshar since the fall of the [[Hierocracy]]. It focuses solely on the interactions between the five [[Vorin]] kingdoms ([[Kharbranth]], [[Natanatan]], [[Alethkar]], [[Jah Keved]], and [[Thaylenah]]), and is therefore an exhaustive treatment of its subject.
+
+In , Brightness [[Shallan Davar]] bought a copy of *Eternathis* in four blue-gray volumes from the merchant [[Artmyrn]] in [[Kharbranth]] so that she could study history. Princess [[Jasnah Kholin]] was pleased by her choice.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 01:45, 23 December 2016 (MST)}}
-{{Stormlight}}

@@ -1,19 +1,16 @@
 ---
-image: "Rushur Kris by Dragontrill.jpg"
-profession: "{{tag+|Artifabrian"
+source_file: Rushur Kris.txt
+entity_type: character
+image: Rushur Kris by Dragontrill.jpg
+profession: Artifabrian, Ardent
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Rhythm of War]]'
 ---
 
-, {{tag+|Ardent}}
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Rhythm of War]]
-}}
-{{update|sa5}}
 **Rushur Kris** is an [[ardent]], artist, and master [[artifabrian]] on [[Roshar]].
 
-Rushur was present at the [[Kholinar palace]] for the feast prior to the [[assassination of Gavilar]]. He spoke to another ardent and a bored [[Aesudan]] about [[polestone|gemstones]] and [[spren]]. [[Navani]] noticed him holding a small box decorated with a painted flower. Navani held Rushur in high esteem and was angry that [[Gavilar]] had not told her about his attendance, speculating that Rushur's presence was related to Gavilar's collection of strange [[spheres]].{{book ref|sa4|prologue}}
+Rushur was present at the [[Kholinar palace]] for the feast prior to the [[assassination of Gavilar]]. He spoke to another ardent and a bored [[Aesudan]] about [[polestone|gemstones]] and [[spren]]. [[Navani]] noticed him holding a small box decorated with a painted flower. Navani held Rushur in high esteem and was angry that [[Gavilar]] had not told her about his attendance, speculating that Rushur's presence was related to Gavilar's collection of strange [[spheres]].
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 00:22, 8 January 2021 (UTC)}}
-{{stormlight}}

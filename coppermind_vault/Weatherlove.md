@@ -1,21 +1,21 @@
 ---
-abilities: "{{tag|Returned"
+source_file: Weatherlove.txt
+entity_type: character
+abilities: Returned, Cognitive Shadow
+titles: God of Storms
+residence: T'Telir
+nation: Hallandren
+world: Nalthis
+universe: '[[Cosmere]]'
+introduced: '[[Warbreaker]]'
 ---
 
-, {{tag+|Cognitive Shadow}}
-|titles=God of Storms
-|residence=T'Telir
-|nation=Hallandren
-|world=Nalthis
-|universe=[[Cosmere]]
-|introduced=[[Warbreaker]]
-}}
-**Weatherlove**, god of storms, is a [[Returned]] from [[Hallandren]] on [[Nalthis]].{{book ref|wb|22}}
+**Weatherlove**, god of storms, is a [[Returned]] from [[Hallandren]] on [[Nalthis]].
 
 == Appearance and Personality==
-Like many of the Returned gods, Weatherlove is nearly seven feet tall with sculpted muscles and a square jaw. His defining features are his blond hair and his style of dress, inspired by ancient paintings of former Returned. His colors are green and gold.{{book ref|wb|22}}
+Like many of the Returned gods, Weatherlove is nearly seven feet tall with sculpted muscles and a square jaw. His defining features are his blond hair and his style of dress, inspired by ancient paintings of former Returned. His colors are green and gold.
 
-He plays [[Tarachin]] every week and often uses the opportunity to make political advances. His official duties are unknown, but he uses the weekly Tarachin meeting as an opportunity for political manipulation. According to [[Lightsong]], this is the true purpose, and the true game, for Weatherlove and his companions. He uses vague statements in order to imply that he knows more than the other gods, however his skills of manipulation pale in comparison to [[Blushweaver]]. He apparently has plans to manipulate [[Siri]]. Weatherlove is also known to be unpredictable and arrives late for the convening of the [[Court of Gods]] when the decision of war is to be made.{{book ref|wb|22}}{{book ref|wb|50}} 
+He plays [[Tarachin]] every week and often uses the opportunity to make political advances. His official duties are unknown, but he uses the weekly Tarachin meeting as an opportunity for political manipulation. According to [[Lightsong]], this is the true purpose, and the true game, for Weatherlove and his companions. He uses vague statements in order to imply that he knows more than the other gods, however his skills of manipulation pale in comparison to [[Blushweaver]]. He apparently has plans to manipulate [[Siri]]. Weatherlove is also known to be unpredictable and arrives late for the convening of the [[Court of Gods]] when the decision of war is to be made. 
 
 ## Attributes and Abilities
 As a Returned, Weatherlove has a [[divine Breath]] which gives him the benefits of being on the [[Fifth Heightening]]. This includes:
@@ -26,9 +26,7 @@ As a Returned, Weatherlove has a [[divine Breath]] which gives him the benefits 
 * Agelessness - makes him immune to most toxins and physical ailments, as well as making him functionally immortal.
 
 ## Relationships
-Weatherlove plays a weekly game of Tarachin with Lightsong, [[Truthcall]], and [[Lifeblesser]].{{book ref|wb|22}} 
+Weatherlove plays a weekly game of Tarachin with Lightsong, [[Truthcall]], and [[Lifeblesser]]. 
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 19:25, 28 May 2022 (UTC)}}
-{{Warbreaker}}

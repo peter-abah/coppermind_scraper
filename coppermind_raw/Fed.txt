@@ -1,0 +1,16 @@
+{{character
+|abilities={{tag+|skimmer}}
+|groups={{tag|Set}}
+|ethnicity=Terris
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Bands of Mourning]]
+}}
+'''Fed''' is a [[Iron#Feruchemical_Use|Skimmer]] and a member of the [[Set]] on [[Scadrial]].{{book ref|mb6|29}}
+
+At some point in her life, Fed became a low level member of the Set, possibly as a part of the [[Hidden Guard]].{{book ref|mb6|29}} She accompanied the group of the Set that was lead by [[Edwarn]] and [[Telsin Ladrian]] to the [[Sovereign's temple]] in the [[Seran Range]]. When Edwarn fled the Temple in the [[Southern Scadrian|Hunter]] airship after [[Waxillium]] was given the [[Bands of Mourning]], Fed used her Feruchemy to prime the weight-changing machinery so the ship could take off. She was presumably captured along with the other members of the Set onboard when Wax defeated Edwarn and used his [[Allomancy]] to stop the ship from escaping.{{book ref|mb6|30}}
+
+== Notes ==
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 22:10, 31 May 2018 (MST)}}
+{{mistborn|era 2}}

@@ -1,27 +1,25 @@
 ---
-image: "Alcatraz1 Interior Art 4.jpg"
-abilities: "{{tag+|dark oculator"
+source_file: Radrian Blackburn.txt
+entity_type: character
+image: Alcatraz1 Interior Art 4.jpg
+abilities: dark oculator, librarian
+earth: Alcatraz
+introduced: '[[Alcatraz Versus the Evil Librarians]]'
 ---
 
-, {{tag+|librarian}}
-|earth=Alcatraz
-|introduced=[[Alcatraz Versus the Evil Librarians]]
-}}
-**Radrian Blackburn** is a [[Librarian]] and a [[Dark Oculator]] who lives in the [[Hushlands]].{{book ref|a1|10}} He purposely put out one of his eyes to increase the power of the other one when using Lenses.
+**Radrian Blackburn** is a [[Librarian]] and a [[Dark Oculator]] who lives in the [[Hushlands]]. He purposely put out one of his eyes to increase the power of the other one when using Lenses.
 
 ## History
-{{quote
-|For a man who’s abilities depended on seeing, he was remarkably short-sighted.
-|Grandpa Smedry{{book ref|a1|10}}
-}}
+
+> For a man who’s abilities depended on seeing, he was remarkably short-sighted.
+> — Grandpa Smedry
+
 He was the one chosen by [[Shasta Smedry]] to make the [[Sands of Rashid]] into a [[Lens]]. During the infiltration of the Downtown Library, he captured [[Alcatraz Smedry|Alcatraz]], [[Bastille]], and [[Sing Sing Smedry|Sing]] through a Cuncussor's Lens while they were eavesdropping on his conversation with [[Shasta Smedry]]. He was able to see them because Alcatraz hadn't remembered that he had an Oculator's Aura around him, because Alcatraz didn't have his Oculator's Lenses on. He also captured [[Leavenworth Smedry]] and [[Quentin Smedry]] when they fell into the Snarer's Glass Blackburn had placed as a trap around the [[Sands of Rashid]]. While Blackburn was trying to get information out of Quentin and Leavenworth, [[Sing Sing Smedry|Sing]], [[Alcatraz Smedry|Alcatraz]], and [[Bastille]] escaped from their prison. 
 
-Blackburn tried to get information out of [[Leavenworth Smedry|Grandpa Smedry]] and [[Quentin Smedry|Quentin]] using both traditional and magical means, which included a Torturer's Lens and paper cuts, but Grandpa Smedry arrived late to the torture and Quentin activated his talent so that he only spoke in gibberish, making him useless for information. Alcatraz rescued them by distracting Blackburn with a Firebringer's Lens, and soon after Blackburn and Grandpa Smedry had an Oculator’s duel. They were both very skilled, but Blackburn was more skilled and defeated Leavenworth. Alcatraz tricked Blackburn by breaking his Firebringer’s Lens to shoot backwards. When Blackburn tried to use it, it fired backwards into his single remaining eye and blinded him. He was left behind by the Smedrys as they escaped, leaving him powerless and defeated.{{book ref|A1|18}}
+Blackburn tried to get information out of [[Leavenworth Smedry|Grandpa Smedry]] and [[Quentin Smedry|Quentin]] using both traditional and magical means, which included a Torturer's Lens and paper cuts, but Grandpa Smedry arrived late to the torture and Quentin activated his talent so that he only spoke in gibberish, making him useless for information. Alcatraz rescued them by distracting Blackburn with a Firebringer's Lens, and soon after Blackburn and Grandpa Smedry had an Oculator’s duel. They were both very skilled, but Blackburn was more skilled and defeated Leavenworth. Alcatraz tricked Blackburn by breaking his Firebringer’s Lens to shoot backwards. When Blackburn tried to use it, it fired backwards into his single remaining eye and blinded him. He was left behind by the Smedrys as they escaped, leaving him powerless and defeated.
 
 ==Trivia==
 His name is likely a reference to [[wikipedia:Mount_Blackburn|Mount Blackburn]] in Alaska.
 
 ## Notes
 <references />
-{{partial}}
-{{Alcatraz}}

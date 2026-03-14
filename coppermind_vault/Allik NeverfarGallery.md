@@ -1,3 +1,8 @@
+---
+source_file: Allik NeverfarGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Allik Neverfar-MotP.png| <small><center>by {{a|Ben McSweeney}}</center></small>From the *[[Alloy of Law: Masks of the Past]]* supplement for the *[[Mistborn Adventure Game]]*.

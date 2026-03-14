@@ -1,9 +1,12 @@
-{{nation
-|map=United Isles of America.jpg
-|earth=Rithmatist
-|books=[[The Rithmatist]]
-}}
-The **United Isles of America** are a coalition of sixty islands.{{map ref|united isles|the United Isles}} 
+---
+source_file: United Isles of America.txt
+entity_type: nation
+map: United Isles of America.jpg
+earth: Rithmatist
+books: '[[The Rithmatist]]'
+---
+
+The **United Isles of America** are a coalition of sixty islands. 
 
 ## Geography
 As a whole, the islands are vaguely shaped like the USA, part of Canada and Mexico. A few islands are roughly outlined like the states, as in the case of Idaho or Texas, but most bear no resemblance to their namesakes.
@@ -23,7 +26,7 @@ English is the official language of the United Isles, though there seems to be S
 The main religion is the [[Church of the Monarch]]. It is closely associated with [[Rithmatics]] because the inception ceremony grants a Rithmatist his or her powers.
 
 ## The Sixty Islands
-{{columns|
+
 #Vancouver
 #Jasper
 #*Albert* ([[Calgarius Academy]])
@@ -84,10 +87,9 @@ The main religion is the [[Church of the Monarch]]. It is closely associated wit
 #Mexica
 #*New Espania* ([[Academia de la Rueda Divina]])
 #*The Californian Archipelago* ([[Valendar Academy]])
-}}
 
 ## Notable Persons
-{{columns|<!-- I'd say the notable persons of the UIoA would be the officials rather than the main characters? -->
+<!-- I'd say the notable persons of the UIoA would be the officials rather than the main characters? -->
 *[[Joel Saxon]]
 *[[Melody Muns]]
 *[[Fitch|Professor Fitch]]
@@ -95,10 +97,8 @@ The main religion is the [[Church of the Monarch]]. It is closely associated wit
 *[[Thomas York|Principal York]]
 *[[Harding|Inspector Harding]]
 *[[Knight-senator]]s
-}}
 
 ## Notes
 <references />
-{{partial}}
-{{Rithmatist}}
+
 [[category: list articles]]

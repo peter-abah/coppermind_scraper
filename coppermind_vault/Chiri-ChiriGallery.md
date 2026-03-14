@@ -1,3 +1,8 @@
+---
+source_file: Chiri-ChiriGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=350px caption="Official artwork">
 Aboard the Wandersail.jpg | <center><small>by {{a|Ben McSweeney}}</small></center> Cuddling [[Rysn]] aboard the *[[Wandersail (1174 ship)|Wandersail]]*, [[Dawnshard (novella)|Dawnshard]] interior art
@@ -21,6 +26,5 @@ Chiri-Chiri by Eccos.jpg| <small><center>by {{a|EccoS}}</center></small>Eating t
 Chiri-Chiri unmasking by Marie Seeberger.jpg| <small><center>by {{a|Marie Seeberger}}</center></small>[[Chiri-Chiri]] eating the disguise of a [[mavset-im]] Fused.
 Chiri Chiri by Jennifer Mellen.jpg | <small><center>by {{a|Jennifer Mellen}}</center></small>
 </gallery>
-
 
 [[Category:Gallery Subpages]]

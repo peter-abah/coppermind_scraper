@@ -1,17 +1,20 @@
 ---
-merge-family: "y|spouse=Lanna Write|Lanna"
-died: "End of the First Human War{{book ref|sky3|41"
+source_file: Jason Write.txt
+entity_type: character
+merge-family: y
+spouse: '[[Lanna Write|Lanna]]'
+died: End of the [[First Human War]]
+groups: '[[Phone Company]]'
+'''world': '[[Earth (Skyward)]] <!-- Must use ''world; the earth parameter automatically
+  adds to Category:[Earth] characters and DE characters do not belong in Category:Skyward
+  characters. -->'
+abilities: cytonics
+aliases: Elton Flippenday, John Smith
+universe: '[[Cytoverse]]'
+introduced: '[[Defending Elysium]]'
 ---
 
-|groups=[[Phone Company]]
-|'world=[[Earth (Skyward)]] <!-- Must use 'world; the earth parameter automatically adds to Category:[Earth] characters and DE characters do not belong in Category:Skyward characters. -->
-|abilities={{tag+|cytonics}}
-|aliases=Elton Flippenday, John Smith
-|universe=[[Cytoverse]]
-|introduced=[[Defending Elysium]]
-}}
-{{update|sky3|sky4}}
-**Jason Write** is the head operative of the [[Phone Company]].{{book ref|elysium}}
+**Jason Write** is the head operative of the [[Phone Company]].
 
 ## Appearance & Personality
 Jason is a tall, thin man, with a triangular face and short-cropped black hair. His work attire includes a simple black suit of an outdated style, and a pair of dark glasses. There is a Phone Company pin on his lapel, shaped like a small silver bell. Jason wears the glasses to cover up the fact that he is blind, since it tends to unnerve people when they realize that he can still see despite his blindness. Due to this disability, Jason's eyes are unfocused.
@@ -22,10 +25,10 @@ He used to think that the other alien species had achieved a paradise, and worke
 
 ## Attributes and Abilities
 From a young age, Jason has been developing his cytonic abilities.
-:**Sense**: Though it requires some conscious effort, Jason can use his cytonic abilities to Sense the world around him. When using his Sense, he perceives black as calm or cool and white as a quiet buzz.{{book ref|Elysium}}
-:**FTL Communication**: While all of the Phone Company's FTL communications are handled by an operative in their Central Operations building, it seems likely that Jason is independently capable of FTL communication.{{book ref|Elysium}}
-:**Mindblades**: Jason can use his cytonic abilities to form blades of pure force that can cut through anything, including advanced materials like [[telanium]]. His reactions are incredibly fast, allowing him to summon mindblades to slice bullets out of the air. He can also sense when another cytonic is manifesting mindblades and summon his own to block theirs. The [[varvax]] consider this ability to be very advanced.{{book ref|Elysium}}
-:**FTL Travel**: By Sensing inward on himself, Jason can travel to the [[nowhere]] and then reemerge elsewhere, resulting in faster-than-light travel. When doing so, he can take others with him. He keeps this ability a secret so as to maintain an edge over those he encounters and keep humanity from realizing that FTL is possible. The [[delver]]s do not appear to exist during his time and Jason did not know about them.{{book ref|Elysium}}{{wob ref|13429}}
+:**Sense**: Though it requires some conscious effort, Jason can use his cytonic abilities to Sense the world around him. When using his Sense, he perceives black as calm or cool and white as a quiet buzz.
+:**FTL Communication**: While all of the Phone Company's FTL communications are handled by an operative in their Central Operations building, it seems likely that Jason is independently capable of FTL communication.
+:**Mindblades**: Jason can use his cytonic abilities to form blades of pure force that can cut through anything, including advanced materials like [[telanium]]. His reactions are incredibly fast, allowing him to summon mindblades to slice bullets out of the air. He can also sense when another cytonic is manifesting mindblades and summon his own to block theirs. The [[varvax]] consider this ability to be very advanced.
+:**FTL Travel**: By Sensing inward on himself, Jason can travel to the [[nowhere]] and then reemerge elsewhere, resulting in faster-than-light travel. When doing so, he can take others with him. He keeps this ability a secret so as to maintain an edge over those he encounters and keep humanity from realizing that FTL is possible. The [[delver]]s do not appear to exist during his time and Jason did not know about them.
 
 ## History
 ### Early Life
@@ -53,16 +56,14 @@ The voice comes back on some nearby speakers, before coming over in person and i
 Jason tells Coln to bring Denise over, and he takes them back to Phone Company headquarters on Earth. He explains to Coln that FTL capabilities are powered by cytonics rather than technology. Lanna comes in, and Jason introduces her as his wife, to Coln's surprise. As medics start attending to him, Jason contacts Sonn through holovid, asking if the varvax lock their discontents away. Sonn confirms this, and says other races do this as well. Jason is shocked by the revelation, now realizing that the ambassador, a discontent, was the one who initiated the swap with Denise to infiltrate human society, rather than the other way around, in hopes of getting their hands on human technology, which is superior to the aliens'. He cuts the link and tells Lanna to prepare a press release announcing that the Phone Company has finally developed FTL travel.
 
 === Later Years & Death===
-After Jason's wife died he created an AI based on her memories and personality. Learning that AIs could develop emotions in the [[Nowhere]], he brought her orb in, in hope to bring sapience to the Lanna-AI. After Jason's death, the recently turned sapient AI returned to the Nowhere, where - unable to cope with Jason's death - she replicated herself thousands of times to create the hive-mind of Delvers; beings opposed to change and greatly despising anything outside of the Nowhere.{{book ref|sky3|39}}{{book ref|sky3|41}}
+After Jason's wife died he created an AI based on her memories and personality. Learning that AIs could develop emotions in the [[Nowhere]], he brought her orb in, in hope to bring sapience to the Lanna-AI. After Jason's death, the recently turned sapient AI returned to the Nowhere, where - unable to cope with Jason's death - she replicated herself thousands of times to create the hive-mind of Delvers; beings opposed to change and greatly despising anything outside of the Nowhere.
 
 ### Legacy
-The Writellum section of the brain appears to be named after him.{{book ref|Skyward|i|2}}
+The Writellum section of the brain appears to be named after him.
 
 ## Relationships
 ### Lanna Write
-At some point before 2211, Jason met and fell in love with [[Lanna Write]]; eventually, the two married. He almost always assigns her to be his support operative when he goes on missions, but then complains about the assignment to mislead the UIB about their relationship. She often affectionately calls him "old man" and creates "exciting" aliases like "Elton Flippenday" for him to use on missions. Lanna believes Jason is too idealistic about the supposed perfect world other species have created in space, but wants to believe he is right anyway. When [[Coln Abrams]] first sees the two of them together, he immediately recognizes their fondness for each other.{{book ref|Elysium}}
+At some point before 2211, Jason met and fell in love with [[Lanna Write]]; eventually, the two married. He almost always assigns her to be his support operative when he goes on missions, but then complains about the assignment to mislead the UIB about their relationship. She often affectionately calls him "old man" and creates "exciting" aliases like "Elton Flippenday" for him to use on missions. Lanna believes Jason is too idealistic about the supposed perfect world other species have created in space, but wants to believe he is right anyway. When [[Coln Abrams]] first sees the two of them together, he immediately recognizes their fondness for each other.
 
 ## Notes
 <references />
-{{partial}}
-{{skyward|de}}

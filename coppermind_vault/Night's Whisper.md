@@ -1,13 +1,12 @@
 ---
-powers: "{{tag+|Epic"
+source_file: Night's Whisper.txt
+entity_type: character
+powers: Epic
+'''residence': '[[wikipedia: West Coast of the United States|United States West Coast]]'
+earth: Reckoners
+books: '[[The Reckoners]]'
 ---
 
-|'residence=[[wikipedia: West Coast of the United States|United States West Coast]]
-|earth=Reckoners
-|books=[[The Reckoners]]
-}}
-**Night's Whisper** is a powerful [[Epic]] who lives near the West Coast.{{wob ref|470}}
+**Night's Whisper** is a powerful [[Epic]] who lives near the West Coast.
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 07:13, 16 December 2019 (UTC)}}
-{{Reckoners}}

@@ -1,15 +1,17 @@
 ---
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Words of Radiance"
+source_file: Minara.txt
+entity_type: character
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Words of Radiance]]'
 ---
 
-{{quote|I've found a way to control myself. I just have to let the anger out.|[[Lin Davar]] to [[Shallan]] after beating Minara{{book ref|sa2|48}}}}
-**Minara** is a member of the serving staff for [[House Davar]] at their manor in [[Jah Keved]] on [[Roshar]].{{book ref|sa2|48}} 
+> I've found a way to control myself. I just have to let the anger out.
+> — [[Lin Davar]] to [[Shallan]] after beating Minara
 
-Around the year {{Rosharan date|1170}}, [[Lin Davar]] became enraged after he learned of [[Jushu]]'s gambling debts and [[Shallan]] questioned his deal with [[Revilar]]. Lin vented his anger by severely beating Minara, leaving her crumpled on the ground with one arm bent the wrong way. As she whimpered and tried to crawl away, she left blood on the wall.{{book ref|sa2|48}}
+**Minara** is a member of the serving staff for [[House Davar]] at their manor in [[Jah Keved]] on [[Roshar]]. 
+
+Around the year , [[Lin Davar]] became enraged after he learned of [[Jushu]]'s gambling debts and [[Shallan]] questioned his deal with [[Revilar]]. Lin vented his anger by severely beating Minara, leaving her crumpled on the ground with one arm bent the wrong way. As she whimpered and tried to crawl away, she left blood on the wall.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:40, 11 September 2018 (MST)}}
-{{Stormlight}}

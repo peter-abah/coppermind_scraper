@@ -1,3 +1,8 @@
+---
+source_file: Bridge FourGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Bridge Four Badge.svg | <center><small>by {{a|Isaac Stewart}}</small></center> The symbol representing the [[Bridge Four]] Badge

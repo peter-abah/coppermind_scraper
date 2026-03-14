@@ -1,14 +1,12 @@
 ---
-abilities: "{{tag+|Epic"
+source_file: Voidsplitter.txt
+entity_type: character
+abilities: Epic
+earth: Reckoners
+books: '[[The Reckoners]]'
 ---
 
-|earth=Reckoners
-|books=[[The Reckoners]]
-}}
-
-**Voidsplitter** is an [[Epic]]. [[Lifeforce]] refers to them as a "piece" in his plans. Their powers and weakness are unknown. They are likely dead.{{book ref|lux|49}}
+**Voidsplitter** is an [[Epic]]. [[Lifeforce]] refers to them as a "piece" in his plans. Their powers and weakness are unknown. They are likely dead.
 
 ## Notes
 <references />
-{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 20:27, 15 March 2022 (UTC)}}
-{{Reckoners}}

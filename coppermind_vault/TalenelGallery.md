@@ -1,3 +1,8 @@
+---
+source_file: TalenelGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px name="Official Artwork">
 Taln_Chapters.svg| <center><small>by [[Isaac Stewart]]</small></center> The image used for [[Taln]]'s chapter heading in *[[Words of Radiance]]*.

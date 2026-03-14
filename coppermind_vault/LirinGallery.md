@@ -1,3 +1,7 @@
+---
+source_file: LirinGallery.txt
+entity_type: article
+---
 
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">

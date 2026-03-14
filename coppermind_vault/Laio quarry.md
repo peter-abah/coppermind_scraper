@@ -1,16 +1,17 @@
 ---
-nation: "Rose Empire"
-world: "Sel"
-universe: "Cosmere"
-books: "The Emperor's Soul"
+source_file: Laio quarry.txt
+entity_type: location
+nation: Rose Empire
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[The Emperor''s Soul]]'
 ---
 
-**Laio quarry** is one of the sources of stone used in the [[Forger]]'s cell in the [[Rose Palace]] dungeons on [[Sel]].{{tes ref|2}}
+**Laio quarry** is one of the sources of stone used in the [[Forger]]'s cell in the [[Rose Palace]] dungeons on [[Sel]].
 
-[[Shai]] identified one of the blocks in the cell as grindstone from the Laio quarry.{{tes ref|2}}
+[[Shai]] identified one of the blocks in the cell as grindstone from the Laio quarry.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 09:42, 16 June 2018 (MST)}}
-{{The Emperor's Soul}}
+
 [[es:Cantera de Laio]]

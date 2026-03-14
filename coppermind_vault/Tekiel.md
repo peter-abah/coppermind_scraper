@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Tekiel.txt
+entity_type: disambig
+---
 
 **[[House Tekiel]]** was a major noble house in the [[Final Empire]] which survived through the [[Final Ascension]].
 This could relate to the house or:

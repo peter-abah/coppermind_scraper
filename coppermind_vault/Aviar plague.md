@@ -1,12 +1,12 @@
-{{disease
-|world=First of the Sun
-|universe=[[Cosmere]]
-|books=[[Isles of the Emberdark]]
-}}
-{{spoilers|iote}}
-The **Aviar plague** is a disease on [[First of the Sun]]. The plague ravages the [[Aviar]] population, killing a great deal of them. It is not clear if this plague kills all birds, and is just known as the Aviar plague, or if it only kills birds who have become Aviar. Shortly before the existence of the [[Patji's Eye|Drominad Perpendicularity]] was made public, the Aviar plague spread throughout the [[homeisles]], until the [[Malwish Empire|Ones Above]] brought medicine and smothered the plague within weeks. The Eelakin later realised that the Ones Above had deliberately waited before giving their medicine, as a way of showing their strength.{{book ref|iote|7}}
+---
+source_file: Aviar plague.txt
+entity_type: disease
+world: First of the Sun
+universe: '[[Cosmere]]'
+books: '[[Isles of the Emberdark]]'
+---
+
+The **Aviar plague** is a disease on [[First of the Sun]]. The plague ravages the [[Aviar]] population, killing a great deal of them. It is not clear if this plague kills all birds, and is just known as the Aviar plague, or if it only kills birds who have become Aviar. Shortly before the existence of the [[Patji's Eye|Drominad Perpendicularity]] was made public, the Aviar plague spread throughout the [[homeisles]], until the [[Malwish Empire|Ones Above]] brought medicine and smothered the plague within weeks. The Eelakin later realised that the Ones Above had deliberately waited before giving their medicine, as a way of showing their strength.
 
 ## Notes
 <references />
-{{complete}}
-{{Emberdark}}

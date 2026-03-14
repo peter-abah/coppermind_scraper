@@ -1,0 +1,19 @@
+{{character
+|residence=Luthadel
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[The Well of Ascension]]
+}}
+'''Feldeu''' is an elderly dressmaker who owns a shop on [[Kenton Street]] in [[Luthadel]].{{book ref|mb2|25}}
+
+He makes the dress [[Vin]] wears to parley with [[Straff Venture]] during the [[Siege of Luthadel]]. The dress is specifically designed for Allomancers, featuring spaces for vials and daggers.{{book ref|mb2|26}}
+
+{{quote
+|Lady Heir,<br />I made the chest and bodice extra tight to give support - and cut the skirts so they would resist flaring - in case you need to jump. There are slits for metal vials in each of the cuffs, as well as a ripple in the cloth cut to obscure a dagger strapped around each forearm. I hope you find the alterations suitable.<br />Feldeu, Dressmaker
+|Letter that Feldeu sends along with the dress.{{book ref|mb2|26}}
+}}
+
+== Notes ==
+<references />
+{{complete}}
+{{Mistborn|Era 1}}

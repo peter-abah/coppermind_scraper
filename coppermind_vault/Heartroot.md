@@ -1,17 +1,18 @@
-{{lifeform
-|type={{cat tag|Plants|Plant}}
-|use=Tea
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 1]]
-}}
-**Heartroot** is a plant grown for use in tea during the [[Final Empire]].{{book ref|mb2|39}}
+---
+source_file: Heartroot.txt
+entity_type: lifeform
+use: Tea
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
+---
+
+**Heartroot** is a plant grown for use in tea during the [[Final Empire]].
 
 [[Elend Venture]] is not fond of the tea.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:02, 11 September 2018 (MST)}}
-{{Mistborn|Era 1}}
+
 [[Category:Food]]
 [[Category:Scadrian food]]

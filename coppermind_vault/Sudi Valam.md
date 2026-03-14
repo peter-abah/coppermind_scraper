@@ -1,23 +1,19 @@
 ---
-parents: "Valam"
-siblings: "Redin"
-born: "{{Rosharan date|c. 1117"
+source_file: Sudi Valam.txt
+entity_type: character
+parents: '[[Valam]]'
+siblings: '[[Redin]]'
+world: Roshar
+nation: Jah Keved
+universe: '[[Cosmere]]'
 ---
 
-{{ref|text=In the year 1172, [[Balat]] says that Sudi Valam is in her fifties.{{book ref|sa2|61}} See also [[Words of Radiance/Timeline]].}}
-|died={{Rosharan date|c. 1173}}{{book ref|sa2|i|14}}
-|world=Roshar
-|nation=Jah Keved
-|universe=[[Cosmere]]
-}}
-**Sudi Valam** is a [[Veden]] noble on [[Roshar]]. She's the daughter of [[Highprince]] [[Valam]].{{book ref|sa2|61}}
+**Sudi Valam** is a [[Veden]] noble on [[Roshar]]. She's the daughter of [[Highprince]] [[Valam]].
 
 ==History==
-In {{Rosharan date|1172}}, [[Lin Davar]] suggested that his son [[Balat]] marry Sudi; Lin was hoping to gain political influence for [[House Davar]]. Balat pointed out that she was in her fifties at the time, and had been recently widowed after a duel.{{book ref|sa2|61}} Balat also believed that Valam would never approve of the marriage, although Lin felt that House Davar's newfound wealth might change his mind.{{book ref|sa2|61}} Balat protested vigorously, even insulting Lin and nearly coming to blows with him. Balat was particularly agitated by Lin's suggestion because he was in love with [[Eylita Tavinar]].{{book ref|sa2|61}}
+In , [[Lin Davar]] suggested that his son [[Balat]] marry Sudi; Lin was hoping to gain political influence for [[House Davar]]. Balat pointed out that she was in her fifties at the time, and had been recently widowed after a duel. Balat also believed that Valam would never approve of the marriage, although Lin felt that House Davar's newfound wealth might change his mind. Balat protested vigorously, even insulting Lin and nearly coming to blows with him. Balat was particularly agitated by Lin's suggestion because he was in love with [[Eylita Tavinar]].
 
-After the [[Veden civil war]], when King [[Valam]] was on his deathbed, he mentioned that [[Redin]] was his only living child, indicating that Sudi died at some point in late {{Rosharan date|1172}} or {{Rosharan date|1173}}.{{book ref|sa2|i|14}}
+After the [[Veden civil war]], when King [[Valam]] was on his deathbed, he mentioned that [[Redin]] was his only living child, indicating that Sudi died at some point in late  or .
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 08:57, 22 May 2019 (MST)}}
-{{Stormlight}}

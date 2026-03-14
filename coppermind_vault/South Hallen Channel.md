@@ -1,16 +1,17 @@
-{{geography
-|region=Sea of Lost Lights
-|world=Shadesmar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**South Hallen Channel** is a location in the [[Sea of Lost Lights]].{{map ref|Sea of Lost Lights}} It leads to the [[Emberdark Channel]], where one can either go to [[Emberdark (settlement)|Emberdark]] and beyond to the [[Burning Gardens]], or go north to [[Celebrant]].{{map ref|Sea of Lost Lights}}
+---
+source_file: South Hallen Channel.txt
+entity_type: geography
+region: Sea of Lost Lights
+world: Shadesmar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-It is unclear what exactly "Hallen" is, but there is also a [[North Hallen Channel]] directly north of the South Hallen Channel.{{map ref|Sea of Lost Lights}} Hallen might refer to the body of water between the rivers that the two channels lie along.
+**South Hallen Channel** is a location in the [[Sea of Lost Lights]]. It leads to the [[Emberdark Channel]], where one can either go to [[Emberdark (settlement)|Emberdark]] and beyond to the [[Burning Gardens]], or go north to [[Celebrant]].
 
-In the [[Physical Realm]], the South Hallen Channel appears to lie along a tributary of the [[Deathbend River]].{{map ref|Alethkar}}
+It is unclear what exactly "Hallen" is, but there is also a [[North Hallen Channel]] directly north of the South Hallen Channel. Hallen might refer to the body of water between the rivers that the two channels lie along.
+
+In the [[Physical Realm]], the South Hallen Channel appears to lie along a tributary of the [[Deathbend River]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:27, 3 July 2018 (MST)}}
-{{Stormlight}}

@@ -1,0 +1,16 @@
+{{character
+|residence=Elendel
+|world=Scadrial
+|universe=[[Cosmere]]
+|introduced=[[Shadows of Self]]
+}}
+Lady '''Dorise Chevalle''' is a resident of [[Elendel]] on [[Scadrial]].{{file ref|House_Record_broadsheet.jpg|''The House Record'' broadsheet}}
+
+In {{date|342|PC}}, [[Waxillium Ladrian]] caused Dorise's motorcar to veer off towards the canal while he was chasing the [[Marksman]]. Wax was able to save the lives of Dorise and the other passengers by crushing the front of the car to the ground, but the car was destroyed.{{book ref|mb5|2}}
+
+After the incident Dorise hired a solicitor to seek compensation for her losses.{{file ref|House_Record_broadsheet.jpg|''The House Record'' broadsheet}}
+
+== Notes ==
+<references/>
+{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 20:18, 9 April 2021 (UTC)}}
+{{Mistborn|Era 2}}

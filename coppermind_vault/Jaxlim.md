@@ -1,82 +1,76 @@
 ---
-image: "Jaxlim by rspixart.jpg"
-merge-family: "y"
-children: "Eshonai, Venli"
-abilities: "{{tag+|willshaper"
+source_file: Jaxlim.txt
+entity_type: character
+image: Jaxlim by rspixart.jpg
+merge-family: y
+children: '[[Eshonai]], [[Venli]]'
+abilities: willshaper
+species: singer
+nation: Listener
+residence: Narak
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Words of Radiance]]'
 ---
 
-|species=singer
-|nation=Listener
-|residence=Narak
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Words of Radiance]]
-}}
-{{update|sa5}}
+> We need to remember what we passed through to get here. We need to take care not to forget ourselves.
+> — Jaxlim to Venli on learning all stanzas to perfection
 
-{{quote
-|We need to remember what we passed through to get here. We need to take care not to forget ourselves.
-|Jaxlim to Venli on learning all stanzas to perfection{{book ref|sa4|45}}
-}}
-
-**Jaxlim**{{book ref|sa4|45}} is a [[listener]] who lives on the [[Shattered Plains]] on [[Roshar]]. She is the mother of [[Eshonai]] and [[Venli]] and has the important role of Keeper of Songs.{{book ref|sa4|52}}
+**Jaxlim** is a [[listener]] who lives on the [[Shattered Plains]] on [[Roshar]]. She is the mother of [[Eshonai]] and [[Venli]] and has the important role of Keeper of Songs.
 
 ## Appearance and Personality
-At a younger age, Jaxlim projects confidence even when doing something as simple as weaving. Her complex skin pattern of wavy red and black lines is among the most beautiful in the camp--like true marbled stone. She is strong, with a fit and powerful body. There is something amazing about Jaxlim’s voice. It isn’t powerful or bold, but it is like a knife--thin, sharp, almost liquid.{{book ref|sa4|45}} She once had one of the best memories in the city.{{book ref|sa2|i|4}}
+At a younger age, Jaxlim projects confidence even when doing something as simple as weaving. Her complex skin pattern of wavy red and black lines is among the most beautiful in the camp--like true marbled stone. She is strong, with a fit and powerful body. There is something amazing about Jaxlim’s voice. It isn’t powerful or bold, but it is like a knife--thin, sharp, almost liquid. She once had one of the best memories in the city.
 
-At an old age, Jaxlim retains a solid build, although she sometimes seems frail. She has a neat round face and wears her hair strands in a braid tied with a ribbon given to her by [[Eshonai]]. She prefers [[workform]] and stays in that form even as new ones are discovered, believing that her people should not place value on any particular form in order to avoid social stratification. She sings often with her calming, sonorous voice. She had some conflicts with Eshonai while raising her, but Eshonai always respected her.{{book ref|wor|i|4}}
+At an old age, Jaxlim retains a solid build, although she sometimes seems frail. She has a neat round face and wears her hair strands in a braid tied with a ribbon given to her by [[Eshonai]]. She prefers [[workform]] and stays in that form even as new ones are discovered, believing that her people should not place value on any particular form in order to avoid social stratification. She sings often with her calming, sonorous voice. She had some conflicts with Eshonai while raising her, but Eshonai always respected her.
 
 ## Attributes and Abilities
-Jaxlim's people are the First-Rhythm family, who have a noble heritage. Jaxlim is one of the few who knows all the Songs of the Listeners. She teaches them to her daughers [[Eshonai]] and [[Venli]]. With her knowledge of the Song of Making Paper she helps Eshonai to perfect the technique, making her daughter the first scout to map the place.{{book ref|row|45}}
+Jaxlim's people are the First-Rhythm family, who have a noble heritage. Jaxlim is one of the few who knows all the Songs of the Listeners. She teaches them to her daughers [[Eshonai]] and [[Venli]]. With her knowledge of the Song of Making Paper she helps Eshonai to perfect the technique, making her daughter the first scout to map the place.
 
 ### Songs
-{{quote
-|“Daring was the challenge made,” Mother sang, “when the Last Legion abandoned thought and power in exchange for freedom. They risked forgetting all. And so songs they composed, a hundred stories to tell, to remember. I tell them to you, and you will tell them to your children, until the forms are again discovered.”
-|Jaxlim to Eshonai{{book ref|wor|i|4}}
-|side=right|size=300px
-}}
-The old songs recounted by Jaxlim include information about the [[listener]]s that is not widely known. According to her songs, the listeners, then known as the [[Last Legion]], were warriors who were sent to fight in a shattered nation. The people were not free, because the [[Regals|Forms of Power]] had been forced upon them, bending them to the will of their gods. During a storm, the Last Legion decided to abandon the dark home and adopt a form that would allow them to escape the influence of the gods. They knew this form would cause them to lose most of their mental faculties, so they composed songs to try and preserve their history. They decided to spread out into small tribes to avoid conflict.{{book ref|wor|i|4}}
+
+> “Daring was the challenge made,” Mother sang, “when the Last Legion abandoned thought and power in exchange for freedom. They risked forgetting all. And so songs they composed, a hundred stories to tell, to remember. I tell them to you, and you will tell them to your children, until the forms are again discovered.”
+> — Jaxlim to Eshonai
+
+The old songs recounted by Jaxlim include information about the [[listener]]s that is not widely known. According to her songs, the listeners, then known as the [[Last Legion]], were warriors who were sent to fight in a shattered nation. The people were not free, because the [[Regals|Forms of Power]] had been forced upon them, bending them to the will of their gods. During a storm, the Last Legion decided to abandon the dark home and adopt a form that would allow them to escape the influence of the gods. They knew this form would cause them to lose most of their mental faculties, so they composed songs to try and preserve their history. They decided to spread out into small tribes to avoid conflict.
 
 ### Willshaper
-Jaxlim is a [[Willshaper]] granting her access to the surges of [[cohesion]] and [[transportation]]. How practiced she is with her abilities remains to be seen.{{book ref|sa5|55}}
+Jaxlim is a [[Willshaper]] granting her access to the surges of [[cohesion]] and [[transportation]]. How practiced she is with her abilities remains to be seen.
 
 ## History
 ### Narak
-Jaxlim was a Keeper of Songs, possibly the most important job in the family. She was not required to have any other job but learn and pass the knowledge, but she always sought to keep busy. She said working her hands kept her body strong, while going over songs worked her mind. She had trained both her daughters the songs, but [[Eshonai]] had given up and so she focused on [[Venli]]. Jaxlim was the one taking to [[the Five]] the option of finding [[warform]] and spoke on behalf of her daughter to support the research.{{book ref|sa4|45}}
+Jaxlim was a Keeper of Songs, possibly the most important job in the family. She was not required to have any other job but learn and pass the knowledge, but she always sought to keep busy. She said working her hands kept her body strong, while going over songs worked her mind. She had trained both her daughters the songs, but [[Eshonai]] had given up and so she focused on [[Venli]]. Jaxlim was the one taking to [[the Five]] the option of finding [[warform]] and spoke on behalf of her daughter to support the research.
 
-Shortly after the [[listener]]s and the humans started to meet, her memory started to fail. At the beginning it was only forgetting some parts of the stanzas, something that had never happened before. In the beginning, only Venli really knew about it, and Jaxlim started to send people to her for reciting the songs.{{book ref|sa4|52}} It was in part her sickness what urged Venli to find and use warform. Because each form changed the mind somehow, they were hoping it would save her mother’s mind. On the other hand, Jaxlim seemed to be getting worse by the day, making her sickness obvious to everyone, and she agreed with Venli’s plan to try the new form.{{book ref|sa4|62}}
+Shortly after the [[listener]]s and the humans started to meet, her memory started to fail. At the beginning it was only forgetting some parts of the stanzas, something that had never happened before. In the beginning, only Venli really knew about it, and Jaxlim started to send people to her for reciting the songs. It was in part her sickness what urged Venli to find and use warform. Because each form changed the mind somehow, they were hoping it would save her mother’s mind. On the other hand, Jaxlim seemed to be getting worse by the day, making her sickness obvious to everyone, and she agreed with Venli’s plan to try the new form.
 
-Eshonai was the one who accompanied Jaxlim into the storm to try the form. Jaxlim couldn’t attune the needed rhythms and was unable to transform, though she did enjoy the experience and was happy for a little while. Eshonai instead accepted the painspren into her gemheart.{{book ref|sa4|68}} But Jaxlim's sickness progressed quickly. As it got worse, she did feel sad and cried for her own loss while Venli was there by her side. She would then suffer from episodes where she would believe Eshonai and Venli were young children.{{book ref|sa4|73}}
+Eshonai was the one who accompanied Jaxlim into the storm to try the form. Jaxlim couldn’t attune the needed rhythms and was unable to transform, though she did enjoy the experience and was happy for a little while. Eshonai instead accepted the painspren into her gemheart. But Jaxlim's sickness progressed quickly. As it got worse, she did feel sad and cried for her own loss while Venli was there by her side. She would then suffer from episodes where she would believe Eshonai and Venli were young children.
 
 ### War of Reckoning (1167 - 1174)
-Jaxlim could be seen in her shack on the outskirts of [[Narak]] tending to her [[shalebark]] gardens. She appeared to be senile, as she did not always recognize her daughter and sometimes seemed to hallucinate. Eshonai said that she had not heard wise words from her mother in years. Jaxlim could sometimes remember some of the old songs. Eshonai asked her about the listeners leaving the "dark home", and her mother sang a song to a [[Singer#Rhythms|Rhythm of Remembrance]] that revealed tidbits of listener history. She had saved some maps of the former kingdom of [[Natanatan]] that Eshonai made in her youth, and she gave them to Eshonai.{{book ref|wor|i|4}} Jaxlim was rounded up with the rest of the listeners who refused to adopt [[Singer#Forms_of_Power|Stormform]] when Eshonai began to take control of Narak. She escaped into the chasms with [[Thude]] and the rest of the dissenters.{{book ref|wor|i|11}}
+Jaxlim could be seen in her shack on the outskirts of [[Narak]] tending to her [[shalebark]] gardens. She appeared to be senile, as she did not always recognize her daughter and sometimes seemed to hallucinate. Eshonai said that she had not heard wise words from her mother in years. Jaxlim could sometimes remember some of the old songs. Eshonai asked her about the listeners leaving the "dark home", and her mother sang a song to a [[Singer#Rhythms|Rhythm of Remembrance]] that revealed tidbits of listener history. She had saved some maps of the former kingdom of [[Natanatan]] that Eshonai made in her youth, and she gave them to Eshonai. Jaxlim was rounded up with the rest of the listeners who refused to adopt [[Singer#Forms_of_Power|Stormform]] when Eshonai began to take control of Narak. She escaped into the chasms with [[Thude]] and the rest of the dissenters.
 
 ### After the Battle of Narak
-After the [[Battle of Narak]], the listeners with whom Jaxlim had escaped did manage to survive with the help of a [[chasmfiend]].{{book ref|row|115}}
+After the [[Battle of Narak]], the listeners with whom Jaxlim had escaped did manage to survive with the help of a [[chasmfiend]].
 
 ### Venli's Return
-When Venli returned to the remnants of the listeners, Jaxlim had lost all ability to recognize her daughter.{{book ref|row|115}} However, after bonding one of the lightspren that Venli had brought with her, Jaxlim's mind fully recovered, restoring her memories.{{book ref|sa5|55}} After her recovery, she tried to persuade [[Leshwi]] to turn her back on [[Odium]] completely.{{book ref|sa5|56}}
+When Venli returned to the remnants of the listeners, Jaxlim had lost all ability to recognize her daughter. However, after bonding one of the lightspren that Venli had brought with her, Jaxlim's mind fully recovered, restoring her memories. After her recovery, she tried to persuade [[Leshwi]] to turn her back on [[Odium]] completely.
 
 ## Relationships
 ### Venli
-{{quote
-|Thank you! For reminding me, of what I am practicing to become.
-|Venli to Jaxlim after listening to her sing{{book ref|sa4|45}}
-}}
-Jaxlim spends many hours helping [[Venli]] to learn all the stanzas of the listeners' songs to perfection. Venli gets annoyed at being corrected, but does respect her mother. Jaxlim also supports her daughter in finding new forms and pushes her when she thinks she is too afraid of failure.{{book ref|sa4|45}} Jaxlim also suggests that Venli learn the human language.{{book ref|sa4|52}}
 
-Venli is with her throughout the progression of her sickness and even wearing her new forms, it breaks her heart. She is there by her mother's side right until her transformation to stormform.{{book ref|sa4|73}} When they reunite, Venli feels joy and hope with the thought of her becoming a [[Knights Radiant|Radiant]] and healing her mind. It is this bond and selflessness that helps Venli reach her next Radiant Ideal.{{book ref|sa4|115}}
+> Thank you! For reminding me, of what I am practicing to become.
+> — Venli to Jaxlim after listening to her sing
 
-Following Jaxlim's recovery, she admits she feels partially responsible for what happened to Venli because she was the one who taught her about the forms of powers she would eventually seek out.{{book ref|sa5|55}}
+Jaxlim spends many hours helping [[Venli]] to learn all the stanzas of the listeners' songs to perfection. Venli gets annoyed at being corrected, but does respect her mother. Jaxlim also supports her daughter in finding new forms and pushes her when she thinks she is too afraid of failure. Jaxlim also suggests that Venli learn the human language.
+
+Venli is with her throughout the progression of her sickness and even wearing her new forms, it breaks her heart. She is there by her mother's side right until her transformation to stormform. When they reunite, Venli feels joy and hope with the thought of her becoming a [[Knights Radiant|Radiant]] and healing her mind. It is this bond and selflessness that helps Venli reach her next Radiant Ideal.
+
+Following Jaxlim's recovery, she admits she feels partially responsible for what happened to Venli because she was the one who taught her about the forms of powers she would eventually seek out.
 
 ### Eshonai
-{{quote
-|Eshonai has a bold heart. She merely needs to learn that her family is more important than counting the number of hills outside the camp.
-|Jaxlim to Venli about Eshonai{{book ref|sa4|45}}
-}}
-When young, Jaxlim teaches [[Eshonai]] the songs of the [[listener]]s. The latter, however, is more interested in exploration and gives up on becoming a keeper of songs.{{book ref|sa4|45}} Before meeting the humans, Jaxlim doesn’t think much of Eshonai's work as scout, calling it silly and calling her unreliable and prone to fancy. After the discovery, however, she speaks of her daughter with praise and respect.{{book ref|sa4|57}}{{book ref|sa4|68}}
+
+> Eshonai has a bold heart. She merely needs to learn that her family is more important than counting the number of hills outside the camp.
+> — Jaxlim to Venli about Eshonai
+
+When young, Jaxlim teaches [[Eshonai]] the songs of the [[listener]]s. The latter, however, is more interested in exploration and gives up on becoming a keeper of songs. Before meeting the humans, Jaxlim doesn’t think much of Eshonai's work as scout, calling it silly and calling her unreliable and prone to fancy. After the discovery, however, she speaks of her daughter with praise and respect.
 
 ## Notes
 <references />
-{{partial}}
-{{Stormlight}}

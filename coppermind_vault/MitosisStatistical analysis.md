@@ -1,3 +1,8 @@
+---
+source_file: MitosisStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains a statistical analysis of ***[[Mitosis|Mitosis]]***.
 
 ### Chapter by Chapter Breakdown
@@ -31,7 +36,5 @@ This page contains a statistical analysis of ***[[Mitosis|Mitosis]]***.
 | align="right" | **100.00%**
 |}
 
-{{meta/done}}
-{{Reckoners}}
 [[Category: The Reckoners|*]]
 [[category: statistics]]

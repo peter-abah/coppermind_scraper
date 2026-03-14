@@ -1,0 +1,97 @@
+{{character
+|died=Killed by [[Ishar]]{{book ref|sa5|90}}
+{{rosharan date|1175|5|2|5}},{{book ref|sa5|143}} freed by [[Szeth]] using [[Nightblood]]
+|abilities={{tag+|Shardbearer}}, {{tag+|Cognitive Shadow}}
+|ethnicity=Shin
+|world=Roshar
+|universe=[[Cosmere]]
+|introduced=[[Wind and Truth]]
+}}
+{{objective|claim=Kingofredpandalions|date=2024-12}}
+{{quote
+|Szeth-son-son-Vallano, for sins against Truth, you are banished.
+|Pozen-son-Nash to [[Szeth]]{{book ref|sa5|117}}
+}}
+
+'''Pozen-son-Nash''' is a [[Shin]] [[Honorbearer]] on [[Roshar]] who wields the [[Elsecaller]] [[Honorblade]].{{book ref|sa5|53}} He lives at the [[Elsecaller monastery|monastery]] outside the city of [[Mokdown]] and was the first to train Szeth during his time as a shaman acolyte.{{book ref|sa5|68}}{{book ref|sa5|73}}
+
+== Appearance and Personality ==
+
+Pozen wears light blue robes on one occasion. He is short, bald, and keeps a white beard and mustaches.{{book ref|sa5|57}}{{book ref|sa5|68}}
+
+Pozen does not care about others and is firm in his beliefs.{{book ref|sa5|57}}{{book ref|sa5|83}}{{book ref|sa5|111}}
+
+== Attributes and Abilities ==
+
+While wielding the Elsecaller Honorblade, he has access to the surges of [[Transportation]] and [[Transformation]].{{book ref|sa5|53}} He is able to travel to and from [[Shadesmar]] via Elsegates and manipulate the bead ocean.{{book ref|sa5|53}} He is able to [[Soulcast]] crystals.{{book ref|sa5|73}}
+
+== History ==
+
+=== Honorbearer ===
+
+==== Recruitment of Szeth ====
+
+{{quote
+|Our chain of command, ends at the [[Heralds]], who serve the [[Lifebrother]]—[[spren]] of soil—and the spren of mountains, sun, and moons.
+| Pozen to Szeth{{book ref|sa5|57}}
+}}
+
+In {{Rosharan date|1152}}, Pozen visited the soldier camp where Szeth and his family were living and praised [[Neturo]] for his administration of the camp.{{book ref|sa5|57}} He discusses what is right with Szeth and suggests that he be assigned to defense for the upcoming raid to get experience fighting.{{book ref|sa5|57}} In {{Rosharan date|1157}}, Pozen intervenes to reward Szeth for burning raiding party ships after [[Ishar|The Voice]] reveals itself as having commanded Szeth to perform the attacks and agrees to personally begin Szeth's training.{{book ref|sa5|68}} Two years later, upon Szeth earning the title of swordmaster, he sends Szeth on a hunt around Mokdown.{{book ref|sa5|73}}. In {{Rosharan date|1165}}, Pozen is present when Szeth earns his place as the [[Windrunner]] Honorbearer by killing [[Tuko-son-Tuko|Tuko]], the previous Honorbearer. {{book ref|sa5|83}}  Pozen reveals that visiting each monastery to earn the title of Honorbearer is a formality and that each stop will be a celebration of Szeth.{{book ref|sa5|83}}
+
+==== Szeth's Rebellion ====
+
+{{quote
+|The former powers are no more. The [[Knights Radiant]] are fallen. We are all that remains, and we must focus on the true threat
+| Pozen to Neturo{{book ref|sa5|117}}
+}}
+
+After Szeth begins plotting against the other Honorbearers in {{Rosharan date|1165}}, Pozen reassures [[Sivi-daughter-Sivi|Sivi]] that The Voice has a plan after she expresses concern about defeating Szeth should he move against them. After discovering him in his monastery, Pozen briefly spars with Szeth.{{book ref|sa5|102}}
+
+Pozen visits the [[Stoneward monastery]] to warn [[Lumo]] against trusting Szeth.{{book ref|sa5|111}}  He directs [[Moss-son-Farrier|Moss]] and Sivi to fight directly against Szeth.{{book ref|sa5|111}} Pozen offers the [[Bondsmith]] Honorblade to [[Neturo-son-Vallano|Neturo]] hoping that he will end Szeth's rebellion, a plan which succeeds.{{book ref|sa5|111}}
+
+Pozen declares Szeth [[Truthless]] and sends him East, letting him keep his Honorblade as directed by The Voice.{{book ref|sa5|117}}
+
+=== Cleansing of Shinovar ===
+
+{{quote
+|I will give you a chance, Szeth. If you can remember what I taught you, and apply it
+| Pozen to Szeth{{book ref|sa5|53}}
+}}
+
+During Szeth’s quest to [[Cleansing of Shinovar|cleanse Shinovar]], Pozen goes on the offensive and ambushes Szeth alongside the [[Order of Edgedancers|Edgedancer]] Honorbearer by transporting him to Shadesmar. In the ensuing fight, Szeth struggles due to lack of weapons and help from [[Auxiliary|12124]]. Szeth eventually gains the upper hand by reuniting with Nightblood and killing the Edgedancer Honorbearer. Pozen, sensing his defeat, falls on his own blade knowing that Szeth has never successfully created an Elsegate, hoping to trap his former acolyte in Shadesmar.{{book ref|sa5|53}}
+
+As a human [[Fused]], Pozen is called back by [[Ishar]] to fight Szeth again at the site of [[Aharietiam]]. Pozen attempts to send Szeth to Shadesmar once more, but is stabbed by Nightblood and freed.{{book ref|sa5|141}}
+
+== Relationships ==
+
+=== Other Honorbearers ===
+
+{{quote
+|He'll throw you away too. We're nothing to him
+|Tuko to Szeth about Pozen{{book ref|sa5|83}}
+}}
+
+Both Tuko and Szeth view Pozen as the leader of the Honorbearers, although this is not an official position.{{book ref|sa5|83}}{{book ref|sa5|102}}
+
+Szeth impresses Pozen despite his inability to Elsegate and is thankful for the training he received from Pozen.{{book ref|sa5|73}}{{book ref|sa5|141}} Despite this gratitude, he does not feel affection for his teacher.{{book ref|sa5|53}}
+
+Tuko is viewed as a problem by Pozen and believes Pozen does not care about the other Honorbearers.{{book ref|sa5|68}}{{book ref|sa5|83}}
+
+Neturo is praised by Pozen for his administrative skills.{{book ref|sa5|57}}
+
+Sivi travels to Pozen to discuss Szeth's potential rebellion. Pozen criticizes her for questioning The Voice and worrying about Szeth.{{book ref|sa5|102}}
+
+=== Ishar ===
+
+{{quote
+|The Voice assures me that all is under control
+|Pozen to Sivi{{book ref|sa5|102}}
+}}
+
+Pozen obeys Ishar as The Voice.{{book ref|sa5|68}} He is killed and created into a human Fused by Ishar.{{book ref|sa5|130}}
+
+
+== Notes ==
+<references />
+{{complete}}
+{{Stormlight}}

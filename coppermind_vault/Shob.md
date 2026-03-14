@@ -1,42 +1,39 @@
 ---
-#profession: "soldier"
-abilities: "{{tag+|lightweaver"
+source_file: Shob.txt
+entity_type: character
+'#profession': soldier
+abilities: lightweaver
+groups: Knights Radiant <small>([[Order of Lightweavers|Lightweavers]])</small>, Unseen
+  Court, army <small>(formerly)</small>
+religion: '[[Vorin]]'
+residence: Urithiru
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Oathbringer]]'
 ---
 
-{{book ref|sa5|17}}
-|groups={{tag|Knights Radiant}} <small>([[Order of Lightweavers|Lightweavers]])</small>, {{tag|Unseen Court}}, {{tag+|army|Sadeas}} <small>(formerly)</small>
-|religion=[[Vorin]]
-|residence=Urithiru
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Oathbringer]]
-}}
-{{update|sa5}}
-{{quote
-|With the way justice plays out in this world, I can guarantee you'll outlive the rest of us.
-|Vathah to Shob{{book ref|sa3|40}}
-}}
-**Shob** is a former soldier and deserter on [[Roshar]]. He is a member of [[Vathah]]'s group that is loyal to [[Shallan Davar]].{{book ref|sa3|27}}{{book ref|sa3|40}}
+> With the way justice plays out in this world, I can guarantee you'll outlive the rest of us.
+> — Vathah to Shob
+
+**Shob** is a former soldier and deserter on [[Roshar]]. He is a member of [[Vathah]]'s group that is loyal to [[Shallan Davar]].
 
 ==Appearance and Personality==
-Shob is rather talkative. He is a hypochondriac and often claims that he is dying;{{book ref|sa3|27}} he also claims to be turning into a [[Voidbringer]], based on a nonexistent rash on his arm.{{book ref|sa3|40}} He is presumably of the [[Vorin]] faith, as he wears a [[glyphward]] wrapped around the "rash". He is uncouth, and [[Ishnah]] is repelled when he discusses his boils and picks his nose in front of her.{{book ref|sa3|40}}
+Shob is rather talkative. He is a hypochondriac and often claims that he is dying; he also claims to be turning into a [[Voidbringer]], based on a nonexistent rash on his arm. He is presumably of the [[Vorin]] faith, as he wears a [[glyphward]] wrapped around the "rash". He is uncouth, and [[Ishnah]] is repelled when he discusses his boils and picks his nose in front of her.
 
 ==Attributes and Abilities==
-He speaks in what seems to be a [[Bav]] accent,{{ref|group=fn|text=His pattern of speech is similar to [[Took]]'s, and matches Tyn's imitation of a Bav accent.{{book ref|sa1|i|3}}{{book ref|sa2|28}}}} though some sentences come out with a more neutral intonation.{{book ref|sa3|40}}
+He speaks in what seems to be a [[Bav]] accent, though some sentences come out with a more neutral intonation.
 
-He enjoys playing cards and other games with his friends, including Vathah, [[Gaz]], and [[Red (Roshar)|Red]].{{book ref|sa3|27}} He is skilled at [[pieces]], and enjoys the game even if it is being played for [[ends]].{{book ref|sa3|40}}
+He enjoys playing cards and other games with his friends, including Vathah, [[Gaz]], and [[Red (Roshar)|Red]]. He is skilled at [[pieces]], and enjoys the game even if it is being played for [[ends]].
 
 ==History==
-Shob's past is mysterious, but he likely hails from [[Bavland]], based on his accent. He has at least two brothers.{{book ref|sa3|40}} Towards the end of the [[War of Reckoning]], he fought for an [[Alethi]] army on the [[Shattered Plains]] (presumably that of [[Torol Sadeas]]), but he deserted the army for unknown reasons, becoming a fugitive.{{book ref|sa2|34}} He joined a band of other deserters led by [[Vathah]] that roamed the [[Frostlands]] stealing food from travelers, trying to stay alive and forget their pasts.{{book ref|sa2|20}}{{book ref|sa3|77}} In late 1173, the group intended to attack [[Tvlakv]] and [[Macob]]'s caravans, but [[Shallan Davar]] intervened and convinced them to instead defend the caravans against another group of bandits.{{book ref|sa2|20}}
+Shob's past is mysterious, but he likely hails from [[Bavland]], based on his accent. He has at least two brothers. Towards the end of the [[War of Reckoning]], he fought for an [[Alethi]] army on the [[Shattered Plains]] (presumably that of [[Torol Sadeas]]), but he deserted the army for unknown reasons, becoming a fugitive. He joined a band of other deserters led by [[Vathah]] that roamed the [[Frostlands]] stealing food from travelers, trying to stay alive and forget their pasts. In late 1173, the group intended to attack [[Tvlakv]] and [[Macob]]'s caravans, but [[Shallan Davar]] intervened and convinced them to instead defend the caravans against another group of bandits.
 
-As part of Vathah's group, Shob accompanied Shallan to the Shattered Plains. His past crimes were pardoned{{book ref|sa2|38}} and he was housed in the [[Sebarial]] warcamp.{{book ref|sa2|42}} He presumably participated in the [[Battle of Narak]] and the move to [[Urithiru]]. In Urithiru, Shob was one of twelve former deserters (of the original group of around twenty-five){{book ref|sa2|20}} that was still alive and loyal to Shallan.{{book ref|sa3|27}} He remained employed as one of Shallan's guards, although she rarely had anything for them to do.{{book ref|sa3|21}}
+As part of Vathah's group, Shob accompanied Shallan to the Shattered Plains. His past crimes were pardoned and he was housed in the [[Sebarial]] warcamp. He presumably participated in the [[Battle of Narak]] and the move to [[Urithiru]]. In Urithiru, Shob was one of twelve former deserters (of the original group of around twenty-five) that was still alive and loyal to Shallan. He remained employed as one of Shallan's guards, although she rarely had anything for them to do.
 
-Unlike his friends Red, Gaz, and Vathah, Shob was not chosen to train in spycraft with Ishnah.{{book ref|sa3|44}} Most of the former deserters became [[Order of Lightweavers|Lightweaver]] squires and members of the [[Unseen Court]],{{book ref|sa4|20}} but it is not clear if Shob was among them.
+Unlike his friends Red, Gaz, and Vathah, Shob was not chosen to train in spycraft with Ishnah. Most of the former deserters became [[Order of Lightweavers|Lightweaver]] squires and members of the [[Unseen Court]], but it is not clear if Shob was among them.
 
 ## Notes
 ;Footnotes
 <references group=fn />
 ;References
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 23:16, 8 April 2021 (UTC)}}
-{{Stormlight}}

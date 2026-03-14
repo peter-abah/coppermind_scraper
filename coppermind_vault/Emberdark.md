@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Emberdark.txt
+entity_type: disambig
+---
 
 **Emberdark** may refer to:
 * *[[Isles of the Emberdark]]*, a cosmere novel

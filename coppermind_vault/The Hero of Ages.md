@@ -1,20 +1,23 @@
-{{book
-|cover=The Hero of Ages Cover.jpeg
-|released=October 14, 2008
-|series=[[Mistborn trilogy]]
-|prequel=The Well of Ascension
-|sequel=The Alloy of Law
-|setting=[[Scadrial]], [[Cosmere]]
-|publisher=Tor books
-|ISBN=978-0-7653-1689-9
-|page-count=572
-|word-count=[[/Statistical_analysis|225,372]]
-|annotations=annotation-mistborn-3-title-page
-}}{{for|Hero of Ages|the [[Terris]] religious figure|pre="The Hero of Ages" redirects here}}
+---
+source_file: The Hero of Ages.txt
+entity_type: book
+cover: The Hero of Ages Cover.jpeg
+released: October 14, 2008
+series: '[[Mistborn trilogy]]'
+prequel: The Well of Ascension
+sequel: The Alloy of Law
+setting: '[[Scadrial]], [[Cosmere]]'
+publisher: Tor books
+isbn: 978-0-7653-1689-9
+page-count: '572'
+word-count: '[[/Statistical_analysis|225,372]]'
+annotations: annotation-mistborn-3-title-page
+---
+
 ***The Hero of Ages*** is the third and final volume of the [[Mistborn trilogy]] by [[Brandon Sanderson]]. It is preceded by *[[The Final Empire]]* and *[[The Well of Ascension]]*.
 
 ## Summary
-{{for|/Summary|a chapter by chapter summary}}
+
 At the end of the previous book, Vin released the power in the [[Well of Ascension]] in order to achieve what she believed was protecting the world, at the expense of losing [[Elend Venture]], her husband. It is revealed that Vin was tricked into releasing the power at the Well, rather than using it, and unleashed [[Ruin]] who had been imprisoned there. Before Vin killed the [[Lord Ruler]] he warned her she was dooming the world and Vin now realizes the [[Terris prophecies]] were falsified. An apparition helped her locate a bead of [[lerasium]] -- the condensed form of [[Preservation]] -- in the Well's chamber, turning Elend into a Mistborn when he ate it and subsequently, with the ability to burn pewter, saved his life.
 
 As the world begins to succumb to Ruin's influence, earthquakes shake the land in ever greater frequencies, the ash falls from the sky constantly and [[Inquisitor]]s and [[koloss]], no longer controlled by the Lord Ruler, rampage across the world. The mists are appearing in daylight now and even worse, killing those foolish enough to venture out into it. Elend holds a tenuous grip as Emperor as he and Vin search for the storage caches and [[atium]] stash the Lord Ruler hid in the event Ruin was freed.
@@ -47,16 +50,14 @@ Watching the fight between Elend and Marsh, fueling the former with mist-power, 
 ;[[Quellion]]: Also known as the *Citizen*. A man who took over control of Urteau after The Lord Ruler's demise.
 
 ## Series
-*Hero of Ages* is the final book in the first trilogy of what Brandon initially called a "trilogy of trilogies," with the second trilogy occurring when Scadrial reached roughly modern-day technology levels and the final trilogy taking place after they developed faster-than-light travel. Brandon then wrote [[The Alloy of Law]], which takes place between the first and second trilogies, but he did not initially consider that to be a new era.{{wob ref|2827}} In part due to *The Alloy of Law*'s positive reception, however, Brandon plotted out a new trilogy to continue to the story from *The Alloy of Law*, which he now considers to be [[Mistborn (series)#Era 2|Era 2]]; he still also plans a [[Mistborn (series)#Era 3|modern trilogy]] and a [[Mistborn (series)#Era 4|space opera]] one.{{wob ref|7616}}{{wob ref|6249}}
+*Hero of Ages* is the final book in the first trilogy of what Brandon initially called a "trilogy of trilogies," with the second trilogy occurring when Scadrial reached roughly modern-day technology levels and the final trilogy taking place after they developed faster-than-light travel. Brandon then wrote [[The Alloy of Law]], which takes place between the first and second trilogies, but he did not initially consider that to be a new era. In part due to *The Alloy of Law*'s positive reception, however, Brandon plotted out a new trilogy to continue to the story from *The Alloy of Law*, which he now considers to be [[Mistborn (series)#Era 2|Era 2]]; he still also plans a [[Mistborn (series)#Era 3|modern trilogy]] and a [[Mistborn (series)#Era 4|space opera]] one.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of The Hero of Ages}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *The Hero of Ages* consists of eighty-two chapters, one prologue, and one epilogue, reaching a total 225,372 word count. There are ten different unique point-of-view characters in a total of 131 POVs.
 
 {|class="wikitable"
@@ -84,9 +85,7 @@ Watching the fight between Elend and Marsh, fueling the former with mist-power, 
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Mistborn|Era 1}}
-{{books}}
+
 [[category: Mistborn| e1.3]]
 [[category: Mistborn Era 1| 3]]
 [[category: list articles]]

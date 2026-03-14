@@ -1,15 +1,18 @@
-{{culture
-|related=[[Final Empire]]
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn (series)|Mistborn]], [[The Stormlight Archive]]
-}}
-The **nobles** are a race of humans on [[Scadrial]].{{epigraph ref|mb3|25}}
+---
+source_file: Noble.txt
+entity_type: culture
+related: '[[Final Empire]]'
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn (series)|Mistborn]], [[The Stormlight Archive]]'
+---
+
+The **nobles** are a race of humans on [[Scadrial]].
 
 ## Origin and Traits
-When [[Rashek]] held the power of the [[Well of Ascension]], he altered the biology of all humans so that they would be able to survive in a world of ash. At the same time, he also divided the population into two groups&mdash;the nobles and the [[skaa]]&mdash;with different physiological traits. As a result, in the times shortly after the [[Ascension of the Lord Ruler]], the nobles were less fertile than the skaa, but were also generally taller, stronger, and more intelligent. These changes were slight, however, and had mostly disappeared as a result of interbreeding by the time of the [[Collapse]].{{epigraph ref|mb3|25}} After his Ascension, Rashek also gave beads of [[lerasium]] to the original nobles,{{wob ref|8001}} which is why only those with a noble ancestor could become [[Allomancer]]s.{{book ref|mb1|3}}
+When [[Rashek]] held the power of the [[Well of Ascension]], he altered the biology of all humans so that they would be able to survive in a world of ash. At the same time, he also divided the population into two groups&mdash;the nobles and the [[skaa]]&mdash;with different physiological traits. As a result, in the times shortly after the [[Ascension of the Lord Ruler]], the nobles were less fertile than the skaa, but were also generally taller, stronger, and more intelligent. These changes were slight, however, and had mostly disappeared as a result of interbreeding by the time of the [[Collapse]]. After his Ascension, Rashek also gave beads of [[lerasium]] to the original nobles, which is why only those with a noble ancestor could become [[Allomancer]]s.
 
-Since the nine original Allomancers were already kings in [[Classical Scadrial]],{{wob ref|8001}}{{epigraph ref|mb3|22}} it appears that the people Rashek turned into nobles were primarily of high social status even before his Ascension.
+Since the nine original Allomancers were already kings in [[Classical Scadrial]], it appears that the people Rashek turned into nobles were primarily of high social status even before his Ascension.
 
 ## Culture
 The life of the nobles is rife with secrecy and plotting. Almost all nobles are driven by gaining money, power, or social prestige.
@@ -19,33 +22,34 @@ All nobles are divided among different Houses. Each house has its own agenda and
 Each house has different levels of power, a social hierarchy. They use [[Steel Ministry|Obligators]] as a means to prove they are trustworthy, for even unimportant matters, such as a meeting with friends.
 
 ### Great Houses
-{{quote|Interspersed throughout the city were a dozen or so monolithic keeps. Intricate, with rows of spearlike spires or deep archways, these were the homes of the high nobility. In fact, they were the mark of a high noble family: Any family who could afford to build a keep and maintain a high-profile presence in Luthadel was considered to be a Great House.
-|-The Final Empire{{book ref|mb1|2}} }}
 
-The Great Houses are the most prominent noble families in the Final Empire, notable for their ability to build a keep and maintain a high-profile presence in Luthadel.{{book ref|mb1|2}}  This is made difficult by the Lord Ruler's keep tax.{{book ref|mb1|24}} There is nothing more embarassing to the aristocracy than a Great House that is unable to maintain itself.{{book ref|mb1|28}}
+> Interspersed throughout the city were a dozen or so monolithic keeps. Intricate, with rows of spearlike spires or deep archways, these were the homes of the high nobility. In fact, they were the mark of a high noble family: Any family who could afford to build a keep and maintain a high-profile presence in Luthadel was considered to be a Great House.
+> — -The Final Empire
 
-The Great Houses control imperial trade and enslave the greatest majority of the skaa.{{book ref|mb1|6}} Country nobility resent the Great Houses for their control of the canal systems.{{book ref|mb1|23}}  
+The Great Houses are the most prominent noble families in the Final Empire, notable for their ability to build a keep and maintain a high-profile presence in Luthadel.  This is made difficult by the Lord Ruler's keep tax. There is nothing more embarassing to the aristocracy than a Great House that is unable to maintain itself.
 
-The Great Houses get to buy a monthly stipend of atium, one of the main ways that the Lord Ruler controls them.{{book ref|mb1|13}}  Nearly all Mistborn are members of the Great Houses.{{book ref|mb1|7}} The Great Houses take Mistborn attacks very seriously, and have an unspoken agreement not to use Mistborn to assassinate each other.{{book ref|mb1|6}}
+The Great Houses control imperial trade and enslave the greatest majority of the skaa. Country nobility resent the Great Houses for their control of the canal systems.  
 
-A major house war between the Great Houses tends to happen every couple of centuries or so.{{book ref|mb1|6}} House Wars are primarily political.{{book ref|mb1|24}}  The last House War was devastating.{{book ref|mb1|6}}
+The Great Houses get to buy a monthly stipend of atium, one of the main ways that the Lord Ruler controls them.  Nearly all Mistborn are members of the Great Houses. The Great Houses take Mistborn attacks very seriously, and have an unspoken agreement not to use Mistborn to assassinate each other.
 
-When Vin starts infiltrating the nobility, the ten Great Houses, in order of power, are: [[House Venture]], [[House Hasting]], [[House Elariel]], [[House Tekiel]], [[House Lekal]], [[House Erikeller]], [[House Erikell]], [[House Haught]], [[House Urbain]], and [[House Buvidas]].{{book ref|mb1|9}} Breeze describes the current high noblemen to be "a careful discriminating group."{{book ref|mb1|6}}
+A major house war between the Great Houses tends to happen every couple of centuries or so. House Wars are primarily political.  The last House War was devastating.
+
+When Vin starts infiltrating the nobility, the ten Great Houses, in order of power, are: [[House Venture]], [[House Hasting]], [[House Elariel]], [[House Tekiel]], [[House Lekal]], [[House Erikeller]], [[House Erikell]], [[House Haught]], [[House Urbain]], and [[House Buvidas]]. Breeze describes the current high noblemen to be "a careful discriminating group."
 
 ### Keeps
 
-* [[Keep Venture]]{{book ref|mb1|30}}
-* [[Keep Hasting]]{{book ref|mb1|23}}
-* [[Keep Elariel]]{{book ref|mb1|18}}
-* [[Keep Lekal]]{{book ref|mb1|28}}
-* [[Keep Orielle]]{{book ref|mb3|30}}
+* [[Keep Venture]]
+* [[Keep Hasting]]
+* [[Keep Elariel]]
+* [[Keep Lekal]]
+* [[Keep Orielle]]
 
 ### Balls
-The inner-city nobility, particularly those in [[Luthadel]], hold a nightly circuit of balls in their Keeps. [[Vin]] attends a number of balls under the guise of [[Valette Renoux]] in order to spy on the nobility and spread some rumor and intrigue.{{book ref|mb1|6}}
+The inner-city nobility, particularly those in [[Luthadel]], hold a nightly circuit of balls in their Keeps. [[Vin]] attends a number of balls under the guise of [[Valette Renoux]] in order to spy on the nobility and spread some rumor and intrigue.
 
-Her first ball is at [[Keep Venture]], where she meets [[Elend Venture]].{{book ref|mb1|12}} She also spots her father, Lord Prelan [[Tevidian Tekiel]].{{book ref|mb1|13}}
+Her first ball is at [[Keep Venture]], where she meets [[Elend Venture]]. She also spots her father, Lord Prelan [[Tevidian Tekiel]].
 
-About a month later, [[Keep Elariel]] holds a ball at which Valette danced for the first time.{{book ref|mb1|18}}
+About a month later, [[Keep Elariel]] holds a ball at which Valette danced for the first time.
 
 ### Minor Noble Houses
 Outside of the ten Great Houses, there are countless minor houses, some of which eventually became major players during the Collapse. 
@@ -59,6 +63,5 @@ Outside of the ten Great Houses, there are countless minor houses, some of which
 
 ## Notes
 <references />
-{{partial}}
-{{Mistborn|Era 1}}
+
 [[Category: Nobles| ]]

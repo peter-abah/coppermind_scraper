@@ -1,0 +1,14 @@
+{{character
+|profession={{cat tag|Students of Armedius Academy|Student}}
+|residence=Armedius Academy
+|earth=Rithmatist
+|introduced=[[The Rithmatist]]
+}}
+'''Charlington''', or '''Chuck''', is a student at [[Armedius Academy]]. Although he has been a classmate of [[Joel Saxon]]'s for three years, he often forgets Joel's name. He has a reputation for only paying attention to girls.{{book ref|Rithmatist|4}}
+
+Charlie was angry that he couldn't take his history final early due to the disappearance of [[Lilly Whiting]], as he wanted to go join his family in Europe. After explaining the situation to Joel, he was unmollified by Joel's attempt to placate him and moved off to complain to a different group of students instead.{{book ref|rithmatist|4}}
+
+== Notes ==
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 02:31, 16 June 2023 (UTC)}}
+{{Rithmatist}}

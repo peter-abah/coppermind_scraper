@@ -1,3 +1,8 @@
+---
+source_file: BibliographyAudiobooks.txt
+entity_type: meta/done
+---
+
 ## Cosmere
 {| class="wikitable sortable"
 ! Book !! Book Year !! Series !! Series # !! Publisher !! Audio Year !! Performers !! Length !! Links || Notes
@@ -250,7 +255,6 @@
 * [https://www.audible.com/search?keywords=brandon+sanderson Audible]
 
 ## Notes
-{{meta/done}}
-{{books}}
+
 [[category: books| ]]
 [[category: subpages]]

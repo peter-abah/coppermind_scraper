@@ -1,17 +1,15 @@
 ---
-abilities: "{{tag+|squire|Order of Windrunners"
+source_file: Weiss.txt
+entity_type: character
+abilities: squire
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Wind and Truth]]
-}}
+**Weiss** is a former seamstress and [[Order of Windrunners|Windrunner]] [[squire]] to [[Sigzil]] on [[Roshar]]. She is short and dark-haired.
 
-**Weiss** is a former seamstress and [[Order of Windrunners|Windrunner]] [[squire]] to [[Sigzil]] on [[Roshar]]. She is short and dark-haired.{{book ref|sa5|63}}{{book ref|sa5|67}}
-
-During the [[Second Battle of Narak]], she went with Sigzil, [[Atakin]], [[Leyten]], and one of Leyten's squires to investigate what turned out to be the large army that had been brought to the battle through [[Dai-Gonarthis]]'s [[Surgebinding#Transportation|Elsegate]]. She was briefly hopeful that the army was just a [[Surgebinding#Illumination|Lightweaving]] created by the [[Masked One]]s.{{book ref|sa5|63}}{{book ref|sa5|67}}
+During the [[Second Battle of Narak]], she went with Sigzil, [[Atakin]], [[Leyten]], and one of Leyten's squires to investigate what turned out to be the large army that had been brought to the battle through [[Dai-Gonarthis]]'s [[Surgebinding#Transportation|Elsegate]]. She was briefly hopeful that the army was just a [[Surgebinding#Illumination|Lightweaving]] created by the [[Masked One]]s.
 
 ## Notes
 <references />
-{{complete}}
-{{Stormlight}}

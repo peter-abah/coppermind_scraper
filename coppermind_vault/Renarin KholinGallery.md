@@ -1,3 +1,8 @@
+---
+source_file: Renarin KholinGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=250px name="Official Artwork">
 GA - WoR3 - Adolin and Renarin by Alex Allen.jpg | <center><small>by {{a|Alex Allen}}</small></center> With [[Adolin]], part 3 of *[[Words of Radiance]]* Graphic Audio adaptation

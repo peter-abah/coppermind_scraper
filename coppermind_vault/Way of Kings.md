@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Way of Kings.txt
+entity_type: disambig
+---
 
 **Way of Kings** can refer to three different things:
 * [[The Way of Kings (in-world)]], a book written by [[Nohadon]]

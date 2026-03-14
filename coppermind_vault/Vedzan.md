@@ -1,15 +1,15 @@
 ---
-nation: "Terris"
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 1"
+source_file: Vedzan.txt
+entity_type: character
+nation: Terris
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
 ---
 
-**Vedzan** was a young [[Terrisman]] on [[Scadrial]] during the end of the [[Final Empire]].{{book ref|mb2|22}}
+**Vedzan** was a young [[Terrisman]] on [[Scadrial]] during the end of the [[Final Empire]].
 
-[[Tindwyl]] commented on his hot-headed nature. He is likely to have died during the genocide of [[Terris]] by the [[Steel Inquisitor]]s.{{book ref|mb3|4}}
+[[Tindwyl]] commented on his hot-headed nature. He is likely to have died during the genocide of [[Terris]] by the [[Steel Inquisitor]]s.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 04:55, 1 June 2018 (MST)}}
-{{Mistborn|Era 1}}

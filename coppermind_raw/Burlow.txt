@@ -1,0 +1,14 @@
+{{character
+|residence=Weathering
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+Old '''Burlow''' is a man who lives in [[Weathering]] in the [[Roughs]].{{book ref|mb4|13}}
+
+Old Burlow had a daughter who was murdered by [[Pars the Deadman]].{{book ref|mb4|13}} Her corpse was left in the center of Weathering to taunt [[Waxillium Ladrian]], who was hunting Pars.
+
+== Notes ==
+<references />
+{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 14:28, 20 December 2016 (MST)}}
+{{Mistborn|Era 2}}

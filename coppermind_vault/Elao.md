@@ -1,19 +1,19 @@
 ---
-religion: "Shu-Korath"
-residence: "Kae"
-nation: "Arelon"
-world: "Sel"
-universe: "Cosmere"
-introduced: "Elantris (book)|Elantris"
+source_file: Elao.txt
+entity_type: character
+religion: '[[Shu-Korath]]'
+residence: Kae
+nation: Arelon
+world: Sel
+universe: '[[Cosmere]]'
+introduced: '[[Elantris (book)|Elantris]]'
 ---
 
-**Elao** is an [[Arelene]] servant in King [[Iadon]]'s palace on [[Sel]].{{book ref|elantris|part=ars}} She is an old woman.{{book ref|Elantris|1}} Her name is based on [[Aon#Ela|Aon Ela]], meaning focus or center.{{book ref|elantris|part=ars}}
+**Elao** is an [[Arelene]] servant in King [[Iadon]]'s palace on [[Sel]]. She is an old woman. Her name is based on [[Aon#Ela|Aon Ela]], meaning focus or center.
 
-She brought [[Raoden]] fruit on the morning when the [[Shaod]] took him, and was the first to see Raoden in this form. Upon seeing Raoden, she swore to [[Domi]], trembled, and grabbed the [[Korathi]] pendant she wore. She then hastily ran away.{{book ref|Elantris|1}}
+She brought [[Raoden]] fruit on the morning when the [[Shaod]] took him, and was the first to see Raoden in this form. Upon seeing Raoden, she swore to [[Domi]], trembled, and grabbed the [[Korathi]] pendant she wore. She then hastily ran away.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 01:48, 5 June 2017 (MST)}}
-{{Elantris}}
 
 [[es:Elao]]

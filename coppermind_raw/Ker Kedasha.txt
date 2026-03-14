@@ -1,0 +1,17 @@
+{{settlement
+|nation=Kerzta
+|world=Taldain
+|universe=[[Cosmere]]
+|books=[[White Sand]]
+}}
+'''Ker Kedasha''' is the capital city of [[Kerzta]] on [[Taldain]].{{map ref|Dayside}}
+
+It's located in the south western portion of the [[Dayside]] continent, to the west of the [[Lossand]]in capital of [[Kezare]].{{map ref|Dayside}} It's the seat of power of the king of Kerzta, who is elected there every fifty years by a gathering of Kerztian [[Daikeen]] nobility, the [[Kli]]n.{{book ref|ws|3}}
+
+The current king is of the Merchant Daikeen, who has held the monarchy for the last 200 years.{{book ref|ws|3}} The [[A'kar]], the Kerztian high priest, might also live there.
+
+== Notes ==
+<references />
+{{complete}}
+{{demoted|ws}}
+{{White Sand}}

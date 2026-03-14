@@ -1,3 +1,8 @@
+---
+source_file: BeldreGallery.txt
+entity_type: article
+---
+
 ## Gallery
 <gallery mode="packed" heights=250px caption="Gallery">
 Spook beldre first meeting.png | <center><small> by {{a|Kate7h}}</small></center> With [[Spook]]

@@ -1,4 +1,7 @@
-{{Template:disambig}}
+---
+source_file: Mistborn.txt
+entity_type: template:disambig
+---
 
 A **[[Allomancy|Mistborn]]** is someone who can use all of the [[Metallic Arts|Allomantic metals]].
 

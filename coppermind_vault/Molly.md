@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Molly.txt
+entity_type: disambig
+---
 
 **Molly** can refer to
 * [[Molly (Perfect State)]], the wife of [[Kairominas]]

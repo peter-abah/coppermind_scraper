@@ -1,3 +1,8 @@
+---
+source_file: ChasmfiendGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Chasmfiend old.jpg | <center><small>by [[Greg Call]]</small></center> Ancient depiction of a [[voidbringer]] based on chasmfiends, from *[[The Way of Kings]]*

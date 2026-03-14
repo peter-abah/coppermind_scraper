@@ -1,21 +1,21 @@
 ---
-map: "Sea of Souls locator.png"
-world: "Shadesmar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Sea of Souls.txt
+entity_type: location
+map: Sea of Souls locator.png
+world: Shadesmar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-{{update|sa4}}
-The **Sea of Souls** is a large sea on Roshar's [[subastral]] of the [[Cognitive Realm]].{{map ref|Shadesmar}} The origin of its name is unknown. It contains the [[honorspren]] capital of [[Lasting Integrity]].{{map ref|Sea of Souls}}
+The **Sea of Souls** is a large sea on Roshar's [[subastral]] of the [[Cognitive Realm]]. The origin of its name is unknown. It contains the [[honorspren]] capital of [[Lasting Integrity]].
 
 ## Geography
-In the Cognitive Realm, the Sea of Souls is bordered by the [[Sea of Regret]], the [[Sea of Lost Lights]], and the [[Nexus of Imagination]]. In the [[Physical Realm]], this sea corresponds to the central part of the continent of [[Roshar]], including the city of [[Urithiru]], as well as the [[Valley]]. It covers the nations of [[Tu Bayla]], [[Yulay]], [[Triax]], [[Tu Fallia]], [[Greater Hexi]], [[Marat]], as well as at least the [[Makabak|Makabaki]] territory of [[Azir]], [[Emul]], [[Tukar]], and [[Tashikk]].{{map ref|Roshar}}{{map ref|Sea of Souls}}
+In the Cognitive Realm, the Sea of Souls is bordered by the [[Sea of Regret]], the [[Sea of Lost Lights]], and the [[Nexus of Imagination]]. In the [[Physical Realm]], this sea corresponds to the central part of the continent of [[Roshar]], including the city of [[Urithiru]], as well as the [[Valley]]. It covers the nations of [[Tu Bayla]], [[Yulay]], [[Triax]], [[Tu Fallia]], [[Greater Hexi]], [[Marat]], as well as at least the [[Makabak|Makabaki]] territory of [[Azir]], [[Emul]], [[Tukar]], and [[Tashikk]].
 
-At the Sea of Souls' southern shore, you can walk on a road towards the [[Expanse of Vibrance]].{{map ref|Sea of Souls}}
+At the Sea of Souls' southern shore, you can walk on a road towards the [[Expanse of Vibrance]].
 
 {| class="wikitable" style="float:left; margin-left:10px; margin-right:10px;"
-{{row| Topographical Features | pre=! colspan=3 style="background:#CCCCFF; font-weight:bold; text-align:center" {{!}} }}
-{{row| Name | Type of Landform  | Relative Physical Realm Location{{map ref|Sea of Souls}}{{map ref|Roshar}}{{map ref|Eastern Makabak}} | pre=! style="font-weight: bold;" {{!}} }}
+
 |-
 |[[Basin of the Veiled Sun]]
 |Sea
@@ -44,9 +44,8 @@ At the Sea of Souls' southern shore, you can walk on a road towards the [[Expans
 
 ===Notable Locations===
 
-True spren live in a number of settlements on peninsulas in the Sea of Souls and at its southern edge:{{map ref|Sea of Souls}}
+True spren live in a number of settlements on peninsulas in the Sea of Souls and at its southern edge:
 
-{{columns|count=3|
 * [[Lasting Integrity]]
 * [[Nameless]]
 * [[Perpetual Sobriety]]
@@ -55,10 +54,6 @@ True spren live in a number of settlements on peninsulas in the Sea of Souls and
 * The [[Oathbound Spires]]
 * [[Abiding Light]]
 * [[Brilliance Eternal]]
-}}
 
 ==Notes==
 <references />
-{{partial}}
-{{demoted|sa4}}
-{{Stormlight}}

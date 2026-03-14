@@ -1,17 +1,18 @@
-{{lifeform
-|type={{cat tag|Food|Tuber}}
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Stagm** is a brownish tuber native to [[Roshar]].{{book ref|twok|54}}
+---
+source_file: Stagm.txt
+entity_type: lifeform
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-It grows in deep puddles.{{book ref|twok|54}}
+**Stagm** is a brownish tuber native to [[Roshar]].
 
-[[Lighteyes]] occasionally eat boiled stagm served on a bed of [[tallew]] rice.{{book ref|twok|54}}
+It grows in deep puddles.
+
+[[Lighteyes]] occasionally eat boiled stagm served on a bed of [[tallew]] rice.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 15:43, 25 December 2016 (MST)}}
-{{Stormlight}}
+
 [[category: Rosharan food]]

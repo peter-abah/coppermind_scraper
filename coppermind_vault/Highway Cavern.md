@@ -1,17 +1,17 @@
-{{geography
-|map=United_Defiant_Caverns.jpeg
-|type={{cat tag|Caves|Cave}}
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-**Highway Cavern** is a human-inhabited cavern on [[Detritus]]. It is one of the [[deep caverns]].{{map ref|United Defiant Caverns}}{{book ref|sky1|11}}
+---
+source_file: Highway Cavern.txt
+entity_type: geography
+map: United_Defiant_Caverns.jpeg
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
 
-It is not accessible directly from the private elevators and instead needs to be accessed via another tunnel. It is connected to three other caverns in the Deep Caverns as well as [[Igneous]].{{map ref|United Defiant Caverns}}
+**Highway Cavern** is a human-inhabited cavern on [[Detritus]]. It is one of the [[deep caverns]].
 
-The cavern has an ambassador who is an acquaintance of the Weight family.{{book ref|sky1|11}} 
+It is not accessible directly from the private elevators and instead needs to be accessed via another tunnel. It is connected to three other caverns in the Deep Caverns as well as [[Igneous]].
+
+The cavern has an ambassador who is an acquaintance of the Weight family. 
 
 ## Notes
 <references />
-{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 23:56, 28 June 2019 (MST)}}
-{{Skyward}}

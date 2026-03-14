@@ -1,17 +1,16 @@
 ---
-abilities: "{{tag+|Shardbearer"
+source_file: Mintez.txt
+entity_type: character
+abilities: Shardbearer
+residence: Urithiru
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Oathbringer]]'
 ---
 
-|residence=Urithiru
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[Oathbringer]]
-}}
 **Mintez** is an [[Alethi]] highlord on the [[Shattered Plains]].
 
-Mintez works as Aladar's bodyguard{{book ref|sa3|107}} and often wears Highprince [[Aladar]]'s [[Shardplate]],{{book ref|sa2|81}} as Aladar himself was better as a general not a warrior.{{book ref|sa3|107}} Mintez accompanied Aladar's forces on Dalinar's expedition to the center of the Shattered Plains.{{book ref|sa2|81}} He was present for the [[Battle of Narak]], although he did not wear Aladar's Shardplate in that fight. Mintez survived that battle and was teleported to [[Urithiru]] along with the other soldiers when [[Shallan Davar]] engaged the Oathgate. He continued serving as Aladar's bodyguard there, including accompanying the highprince to a meeting on the fortification of [[Vedenar]] in Urithiru's Gallery of Maps wearing the full Plate.{{book ref|sa3|107}}
+Mintez works as Aladar's bodyguard and often wears Highprince [[Aladar]]'s [[Shardplate]], as Aladar himself was better as a general not a warrior. Mintez accompanied Aladar's forces on Dalinar's expedition to the center of the Shattered Plains. He was present for the [[Battle of Narak]], although he did not wear Aladar's Shardplate in that fight. Mintez survived that battle and was teleported to [[Urithiru]] along with the other soldiers when [[Shallan Davar]] engaged the Oathgate. He continued serving as Aladar's bodyguard there, including accompanying the highprince to a meeting on the fortification of [[Vedenar]] in Urithiru's Gallery of Maps wearing the full Plate.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 20:32, 6 September 2018 (MST)}}
-{{Stormlight}}

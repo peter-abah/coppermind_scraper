@@ -1,15 +1,14 @@
 ---
-religion: "Stone Shamanism"
-ethnicity: "Shin"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Wind and Truth"
+source_file: Faraz-daughter-Daraz.txt
+entity_type: character
+religion: '[[Stone Shamanism]]'
+ethnicity: Shin
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-{{update|sa5}}
-**Faraz-daughter-Daraz** is a [[Shin]] woman on [[Roshar]]. She is the head shaman at the [[Windrunner monastery]], initially under [[Tuko-son-Tuko]]. Faraz is one of ten shamans who were rejected from other monasteries because of a rebellious attitude. She is doubtful of [[Szeth]]’s position as the new Windrunner [[Honorbearer]], but comes to believe his assertion that he encountered an [[Unmade]] and that a [[Desolation]] has arrived.{{book ref|sa5|98}}
+**Faraz-daughter-Daraz** is a [[Shin]] woman on [[Roshar]]. She is the head shaman at the [[Windrunner monastery]], initially under [[Tuko-son-Tuko]]. Faraz is one of ten shamans who were rejected from other monasteries because of a rebellious attitude. She is doubtful of [[Szeth]]’s position as the new Windrunner [[Honorbearer]], but comes to believe his assertion that he encountered an [[Unmade]] and that a [[Desolation]] has arrived.
 
 ## Notes
 <references />
-{{stub}}
-{{stormlight}}

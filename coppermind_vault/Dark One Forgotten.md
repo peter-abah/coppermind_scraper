@@ -1,13 +1,18 @@
-{{book
-|cover=Dark One Forgotten US Cover.jpg
-|series=[[Dark One (franchise)]]
-|sequel=Dark One: Prophetic Histories
-|collaborators=[[Dan Wells]], Rachel Jacobs, Sophie Oda, Keith Szarabajika, Kaleo Griffith, Avery Waddell, Kelli Tager, John H. Mayer, Mia Barron, Luis Bermudez, William Elsman, Nan McNamara, Jim Meskimen, Rozanne Hernandez{{wob ref|14985}}
-|released=January 10, 2023{{url ref|name=audible|url=https://www.audible.com/pd/B09ZLNJ8HJ|text=*Dark One: Forgotten* audiobook listing|site=Audible}}
-}}
-***Dark One: Forgotten*** is a six-part audio drama set in the [[Dark One (franchise)|Dark One]] universe. It was developed by [[Mainframe]] and the rights are held by Recorded Books.{{url ref|name=catalog|url=https://www.awfulagent.com/wp-content/uploads/2021/06/2021-London-catalog-Final-1.pdf#page=29|text=JABberwocky 2021 London Rights Catalog (p. 56)|site=awfulagent.com|date=2021-06-14}} The project is a collaboration between [[Dan Wells]] and [[Brandon Sanderson]]; Dan finished his work on it on August 30, 2021.{{wob ref|14985}} The audiobook was released on January 10, 2023.{{ref|name=audible}}
+---
+source_file: Dark One Forgotten.txt
+entity_type: book
+cover: Dark One Forgotten US Cover.jpg
+series: '[[Dark One (franchise)]]'
+sequel: 'Dark One: Prophetic Histories'
+collaborators: '[[Dan Wells]], Rachel Jacobs, Sophie Oda, Keith Szarabajika, Kaleo
+  Griffith, Avery Waddell, Kelli Tager, John H. Mayer, Mia Barron, Luis Bermudez,
+  William Elsman, Nan McNamara, Jim Meskimen, Rozanne Hernandez'
+released: January 10, 2023
+---
 
-*Forgotten* is structured like a true-crime podcast in the vein of *[[wikipedia:Serial (podcast)|Serial]]*, about a journalist tracking a killer whom no one can remember.{{reddit ref|brandonsanderson|hdot60|fvou8lu|date=2020-06-22|text=The Original (audio book) release date, and an unexpected new story!!!}}{{ref|name=catalog}} It is planned to be six episodes with full cast, music, and sound design. It is being written as a shorter tie-in, and is not as long as a full novel.{{sots ref|2021}} The story serves as a prequel to [[Dark One Book 1|the first *Dark One* graphic novel]].{{wob ref|14985}}
+***Dark One: Forgotten*** is a six-part audio drama set in the [[Dark One (franchise)|Dark One]] universe. It was developed by [[Mainframe]] and the rights are held by Recorded Books. The project is a collaboration between [[Dan Wells]] and [[Brandon Sanderson]]; Dan finished his work on it on August 30, 2021. The audiobook was released on January 10, 2023.
+
+*Forgotten* is structured like a true-crime podcast in the vein of *[[wikipedia:Serial (podcast)|Serial]]*, about a journalist tracking a killer whom no one can remember. It is planned to be six episodes with full cast, music, and sound design. It is being written as a shorter tie-in, and is not as long as a full novel. The story serves as a prequel to [[Dark One Book 1|the first *Dark One* graphic novel]].
 
 ==Synopsis==
 Christina Walsh is the host of "Forgotten", a podcast in 2019. She explains in the first episode how she was introduced to Leona McPherson's music via her DJ friend, Gabriel Lopez. Lopez discovered a box of CDs with McPherson's music in a back room at the classical music radio station he worked at. She shares the information she's found, including interviews with Lopez and Steven Yates. Yates was shocked when he was made aware of McPherson, especially because of the lack of readily-available knowledge about someone who was so big at the time. 
@@ -98,6 +103,3 @@ The audiobook was released on January 10, 2023. It was narrated by Rachel Jacobs
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Dark One}}
-{{books}}

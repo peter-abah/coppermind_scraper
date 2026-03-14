@@ -1,12 +1,14 @@
 ---
-image: "Firstborn cover textless by Donato Giancola.png"
-parents: "Sennion Crestmar|Sennion"
-siblings: "Varion Crestmar|Varion"
-world: "Imperial Homeworld"
-introduced: "Firstborn"
+source_file: Dennison Crestmar.txt
+entity_type: character
+image: Firstborn cover textless by Donato Giancola.png
+parents: '[[Sennion Crestmar|Sennion]]'
+siblings: '[[Varion Crestmar|Varion]]'
+world: Imperial Homeworld
+introduced: '[[Firstborn]]'
 ---
 
-**Dennison Crestmar** is a High Duke in the [[High Empire]].{{book ref|firstborn}}
+**Dennison Crestmar** is a High Duke in the [[High Empire]].
 
 ## Appearance and Personality
 Dennison is moderately tall and has sleek black hair. His facial appearance is completely identical to that of [[Varion Crestmar|Varion's]], who he was cloned from. However, the exact appearance of either Dennison or Varion is unknown. He is a generally pessimistic person who engages in a fair amount of self deprecation. He constantly compares himself to his brother and thinks himself a failure as a [[High Officer]]. He regularly engages in sarcasm to hide his own self-disdain, though he is also cynical and insubordinate, specifically to his father, [[Sennion Crestmar]] as well as Admiral [[Kern]].
@@ -16,5 +18,3 @@ Dennison was cloned from Varion as a countermeasure against him should he rebel,
 
 ## Notes
 <references />
-{{partial}}
-{{Firstborn}}

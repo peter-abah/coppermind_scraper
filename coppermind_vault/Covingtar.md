@@ -1,18 +1,19 @@
-{{settlement
-|region=Roughs
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-**Covingtar** is a city in the northern [[Roughs]].{{map ref|Elendel Basin}} It is west of [[True Madil]] and east of [[Weathering]].
+---
+source_file: Covingtar.txt
+entity_type: settlement
+region: Roughs
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
+---
 
-When [[Wayne]] pretended to be the old woman *Abrigain*, to get information out of a [[House Tekiel]] guard, he pretended that his grandson had a bride in Covingtar.{{book ref|mb4|16}}
+**Covingtar** is a city in the northern [[Roughs]]. It is west of [[True Madil]] and east of [[Weathering]].
 
-[[Lessie]] only wore dresses when she and [[Waxillium Ladrian]] went to Covingtar to visit [[Pathian]] gardens, but otherwise never wore dresses.{{book ref|mb5|4}}
+When [[Wayne]] pretended to be the old woman *Abrigain*, to get information out of a [[House Tekiel]] guard, he pretended that his grandson had a bride in Covingtar.
 
-Wax killed [[Mustaches]]' brother near Covingtar.{{file ref|House Record broadsheet.jpg|*The House Record* broadsheet}}
+[[Lessie]] only wore dresses when she and [[Waxillium Ladrian]] went to Covingtar to visit [[Pathian]] gardens, but otherwise never wore dresses.
+
+Wax killed [[Mustaches]]' brother near Covingtar.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:15, 3 September 2016 (MST)}}
-{{Mistborn|Era 2}}

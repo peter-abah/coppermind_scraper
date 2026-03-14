@@ -1,0 +1,253 @@
+This page contains a statistical analysis of '''''[[Firefight]]'''''.
+
+=== Chapter by Chapter Breakdown ===
+{| class="wikitable sortable"
+!Chapter
+!Word Count
+!Percentage
+|-
+| [[Firefight/Summary#Prologue|Prologue]]
+| align="right" | 183
+| align="right" | 0.18%
+|-
+| colspan="3" align="center" | '''Part One'''
+|-
+| [[Firefight/Summary#Chapter 1|Chapter 1]]
+| align="right" | 1,092
+| align="right" | 1.05%
+|-
+| [[Firefight/Summary#Chapter 2|Chapter 2]]
+| align="right" | 1,379
+| align="right" | 1.32%
+|-
+| [[Firefight/Summary#Chapter 3|Chapter 3]]
+| align="right" | 1,679
+| align="right" | 1.61%
+|-
+| [[Firefight/Summary#Chapter 4|Chapter 4]]
+| align="right" | 1,335
+| align="right" | 1.28%
+|-
+| [[Firefight/Summary#Chapter 5|Chapter 5]]
+| align="right" | 1,166
+| align="right" | 1.12%
+|-
+| [[Firefight/Summary#Chapter 6|Chapter 6]]
+| align="right" | 2,146
+| align="right" | 2.06%
+|-
+| [[Firefight/Summary#Chapter 7|Chapter 7]]
+| align="right" | 1,675
+| align="right" | 1.61%
+|-
+| '''Part One Total'''
+| align="right" | '''10,472'''
+| align="right" | '''10.06%'''
+|-
+| colspan="3" align="center" | '''Part Two'''
+|-
+| [[Firefight/Summary#Chapter 8|Chapter 8]]
+| align="right" | 2,274
+| align="right" | 2.18%
+|-
+| [[Firefight/Summary#Chapter 9|Chapter 9]]
+| align="right" | 2,794
+| align="right" | 2.68%
+|-
+| [[Firefight/Summary#Chapter 10|Chapter 10]]
+| align="right" | 2,041
+| align="right" | 1.96%
+|-
+| [[Firefight/Summary#Chapter 11|Chapter 11]]
+| align="right" | 1,433
+| align="right" | 1.38%
+|-
+| [[Firefight/Summary#Chapter 12|Chapter 12]]
+| align="right" | 3,016
+| align="right" | 2.90%
+|-
+| [[Firefight/Summary#Chapter 13|Chapter 13]]
+| align="right" | 1,794
+| align="right" | 1.72%
+|-
+| [[Firefight/Summary#Chapter 14|Chapter 14]]
+| align="right" | 2,065
+| align="right" | 1.98%
+|-
+| [[Firefight/Summary#Chapter 15|Chapter 15]]
+| align="right" | 1,999
+| align="right" | 1.92%
+|-
+| [[Firefight/Summary#Chapter 16|Chapter 16]]
+| align="right" | 1,548
+| align="right" | 1.49%
+|-
+| '''Part Two Total'''
+| align="right" | '''18,964'''
+| align="right" | '''18.21%'''
+|-
+| colspan="3" align="center" | '''Part Three'''
+|-
+| [[Firefight/Summary#Chapter 17|Chapter 17]]
+| align="right" | 3,910
+| align="right" | 3.75%
+|-
+| [[Firefight/Summary#Chapter 18|Chapter 18]]
+| align="right" | 1,786
+| align="right" | 1.72%
+|-
+| [[Firefight/Summary#Chapter 19|Chapter 19]]
+| align="right" | 2,033
+| align="right" | 1.95%
+|-
+| [[Firefight/Summary#Chapter 20|Chapter 20]]
+| align="right" | 1,883
+| align="right" | 1.81%
+|-
+| [[Firefight/Summary#Chapter 21|Chapter 21]]
+| align="right" | 1,886
+| align="right" | 1.81%
+|-
+| [[Firefight/Summary#Chapter 22|Chapter 22]]
+| align="right" | 2,227
+| align="right" | 2.14%
+|-
+| [[Firefight/Summary#Chapter 23|Chapter 23]]
+| align="right" | 1,668
+| align="right" | 1.60%
+|-
+| [[Firefight/Summary#Chapter 24|Chapter 24]]
+| align="right" | 2,224
+| align="right" | 2.14%
+|-
+| [[Firefight/Summary#Chapter 25|Chapter 25]]
+| align="right" | 1,478
+| align="right" | 1.42%
+|-
+| [[Firefight/Summary#Chapter 26|Chapter 26]]
+| align="right" | 3,030
+| align="right" | 2.91%
+|-
+| [[Firefight/Summary#Chapter 27|Chapter 27]]
+| align="right" | 1,686
+| align="right" | 1.62%
+|-
+| [[Firefight/Summary#Chapter 28|Chapter 28]]
+| align="right" | 1,920
+| align="right" | 1.84%
+|-
+| [[Firefight/Summary#Chapter 29|Chapter 29]]
+| align="right" | 1,846
+| align="right" | 1.77%
+|-
+| [[Firefight/Summary#Chapter 30|Chapter 30]]
+| align="right" | 2,311
+| align="right" | 2.22%
+|-
+| [[Firefight/Summary#Chapter 31|Chapter 31]]
+| align="right" | 1,745
+| align="right" | 1.68%
+|-
+| [[Firefight/Summary#Chapter 32|Chapter 32]]
+| align="right" | 2,670
+| align="right" | 2.56%
+|-
+| [[Firefight/Summary#Chapter 33|Chapter 33]]
+| align="right" | 1,993
+| align="right" | 1.91%
+|-
+| [[Firefight/Summary#Chapter 34|Chapter 34]]
+| align="right" | 2,642
+| align="right" | 2.54%
+|-
+| [[Firefight/Summary#Chapter 35|Chapter 35]]
+| align="right" | 3,813
+| align="right" | 3.66%
+|-
+| [[Firefight/Summary#Chapter 36|Chapter 36]]
+| align="right" | 3,110
+| align="right" | 2.99%
+|-
+| [[Firefight/Summary#Chapter 37|Chapter 37]]
+| align="right" | 3,150
+| align="right" | 3.03%
+|-
+| [[Firefight/Summary#Chapter 38|Chapter 38]]
+| align="right" | 1,261
+| align="right" | 1.21%
+|-
+| [[Firefight/Summary#Chapter 39|Chapter 39]]
+| align="right" | 2,187
+| align="right" | 2.10%
+|-
+| '''Part Three Total'''
+| align="right" | '''52,459'''
+| align="right" | '''50.38%'''
+|-
+| colspan="3" align="center" | '''Part Four'''
+|-
+| [[Firefight/Summary#Chapter 40|Chapter 40]]
+| align="right" | 2,096
+| align="right" | 2.01%
+|-
+| [[Firefight/Summary#Chapter 41|Chapter 41]]
+| align="right" | 1,759
+| align="right" | 1.69%
+|-
+| [[Firefight/Summary#Chapter 42|Chapter 42]]
+| align="right" | 2,128
+| align="right" | 2.04%
+|-
+| [[Firefight/Summary#Chapter 43|Chapter 43]]
+| align="right" | 2,107
+| align="right" | 2.02%
+|-
+| [[Firefight/Summary#Chapter 44|Chapter 44]]
+| align="right" | 798
+| align="right" | 0.77%
+|-
+| [[Firefight/Summary#Chapter 45|Chapter 45]]
+| align="right" | 2,421
+| align="right" | 2.32%
+|-
+| [[Firefight/Summary#Chapter 46|Chapter 46]]
+| align="right" | 1,590
+| align="right" | 1.53%
+|-
+| [[Firefight/Summary#Chapter 47|Chapter 47]]
+| align="right" | 2,142
+| align="right" | 2.06%
+|-
+| [[Firefight/Summary#Chapter 48|Chapter 48]]
+| align="right" | 1,715
+| align="right" | 1.65%
+|-
+| [[Firefight/Summary#Chapter 49|Chapter 49]]
+| align="right" | 2,273
+| align="right" | 2.18%
+|-
+| [[Firefight/Summary#Chapter 50|Chapter 50]]
+| align="right" | 604
+| align="right" | 0.58%
+|-
+| [[Firefight/Summary#Chapter 51|Chapter 51]]
+| align="right" | 1,552
+| align="right" | 1.49%
+|-
+| '''Part Four Total'''
+| align="right" | '''21,185'''
+| align="right" | '''20.34%'''
+|-
+| [[Firefight/Summary#Epilogue|Epilogue]]
+| align="right" | 869
+| align="right" | 0.83%
+|-
+| '''Total'''
+| align="right" | '''104,132'''
+| align="right" | '''100.00%'''
+|}
+
+{{meta/done}}
+{{Reckoners}}
+[[Category: The Reckoners|*1x]]
+[[category: statistics]]

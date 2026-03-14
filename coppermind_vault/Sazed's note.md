@@ -1,21 +1,25 @@
-<noinclude>{{literature
-|type=Letter
-|author=[[Sazed]]
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn (series)| Mistborn]]
-}}
-**Sazed's note** is a note that [[Sazed]] left on the back of [[Mare]]'s [[flower picture]] that [[Kelsier]] used to carry around.{{book ref|mb3|epilogue}}
+---
+source_file: Sazed's note.txt
+entity_type: literature
+type: Letter
+author: '[[Sazed]]'
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn (series)| Mistborn]]'
+---
 
-It is addressed to [[Spook]] and mentions Kelsier, [[Goradel]], [[Rashek]], [[Ruin]] and the rest of [[Kelsier's crew]]. The first paragraph talks about [[Vin]] and [[Elend]], and in the postscript reveals that there are two more metals that are yet to be discovered.{{book ref|mb3|epilogue}}
+<noinclude>
+**Sazed's note** is a note that [[Sazed]] left on the back of [[Mare]]'s [[flower picture]] that [[Kelsier]] used to carry around.
+
+It is addressed to [[Spook]] and mentions Kelsier, [[Goradel]], [[Rashek]], [[Ruin]] and the rest of [[Kelsier's crew]]. The first paragraph talks about [[Vin]] and [[Elend]], and in the postscript reveals that there are two more metals that are yet to be discovered.
 
 ## Full Text
 {| class="mw-collapsible mw-collapsed" width=100%
 |-
-|{{copyright}}
+|
 |-
-|{{quote
-|</noinclude>Spook,
+|
+> </noinclude>Spook,
 <br />
 I tried to bring them back, but apparently fixing the bodies doesn't return the souls. I will get better at this with time, I expect. However, be assured that I have spoken with our friends, and they are quite happy where they are. They deserve a rest, I think.
 <br />
@@ -30,8 +34,8 @@ I have made you Mistborn, and healed the damage you did to your body by flaring 
 Watch over them for me.
 <br />
 P.S. There are still two base metals and their alloys that no one knows about. You might want to poke about and see if you can figure out what they are. I think they'll interest you.<noinclude>
-|[[Sazed]]'s note.{{book ref|mb3|epilogue}}
-}}
+> — [[Sazed]]'s note.
+
 |}
 
 ## See Also
@@ -39,7 +43,6 @@ P.S. There are still two base metals and their alloys that no one knows about. Y
 
 ## Notes
 <references />
-{{partial}}
-{{Mistborn|Era 1}}
+
 [[category: Objects and Materials]]
 [[category: possessive articles]]

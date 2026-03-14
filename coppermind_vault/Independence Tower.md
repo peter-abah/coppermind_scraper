@@ -1,12 +1,12 @@
-{{architecture
-|city=Bilming
-|world=Scadrial
-|universe=[[Cosmere]]
-}}
-{{update|mb7}}
-**Independence Tower** is a skyscraper in [[Bilming]] on [[Scadrial]].{{book ref|mb7|39}} It is often referred to as the **Shaw**, after [[Kredik Shaw]].{{book ref|mb7|58}}
+---
+source_file: Independence Tower.txt
+entity_type: architecture
+city: Bilming
+world: Scadrial
+universe: '[[Cosmere]]'
+---
+
+**Independence Tower** is a skyscraper in [[Bilming]] on [[Scadrial]]. It is often referred to as the **Shaw**, after [[Kredik Shaw]].
 
 ## Notes
 <references />
-{{stub}}
-{{Mistborn|Era 2}}

@@ -1,0 +1,41 @@
+{{event
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{quote
+| The Desolations had happened during the near-mythical shadowdays, before real history began.
+| [[Dalinar]]'s thoughts on the [[Desolation]]s{{book ref|sa1|19}}
+}}
+
+The '''shadowdays''' refers to history before recorded memory on [[Roshar]].{{book ref|sa1|57}}
+
+== Definition and Usage ==
+{{quote
+| There are histories from the time when the Radiants lived. That’s not as far back as the shadowdays or the Heraldic Epochs.
+| [[Renarin]] talking about history{{book ref|sa1|52}}
+}}
+The exact definition of when the shadowdays ended seems uncertain and differs between people. The majority of people seem to accept them as including the [[Heraldic Epochs|era]] of the [[Silver Kingdoms]] and the height of the [[Knights Radiant]] and ending after the [[Last Desolation]], although it is possible some consider them to extend past that point.{{book ref|sa1|19}}{{book ref|sa4|8}} [[Renarin]] states that there was a time after the shadowdays when the Knights Radiant still existed.{{book ref|sa1|52}} However, [[Dalinar]] comments that the [[Recreance]] is old enough to nearly be part of the shadowdays.{{book ref|sa1|26}}
+
+{{quote
+| Legends. The Recreance is an event so old, it might as well be in the shadowdays.
+| [[Dalinar]] speaking of the Recreance{{book ref|sa1|26}}
+}}
+Based on these comments, it is likely the shadowdays are generally considered to have ended sometime between the Last Desolation and the Recreance.
+
+== Art and Literature ==
+There are very few surviving pieces of artwork or writing from this time, leading to the lack of knowledge about them. Much of the knowledge of that time comes from fragments, such as a copy of a copy of a mosaic.{{book ref|sa2|60}} ''[[The Way of Kings (in-world)|The Way of Kings]]''--which survives only in translation--is the only complete text from the shadowdays prior to the translation of the [[Dawnchant]], but lost texts like the [[Eila Stele]] were rediscovered along with the Dawnchant's translation.{{book ref|sa1|28}}{{book ref|sa3|111}} The carved pillars in the [[Kholinar Palace]]'s eastern hall is art surviving from this time.{{book ref|sa2|i|12}}
+
+== Powers and Weapons ==
+Some of the hallmarks of the shadowdays are mythical weapons and powers. The [[Honorblade]]s were forged by [[Honor]] and used by the [[Herald]]s in fighting [[Voidbringer]]s.{{book ref|sa3|16}} The true nature of the abilities of the [[Knights Radiant]] during this time, including [[Surgebinding]] and glowing [[Shardplate]],{{book ref|sa2|4}} are also mythical to most Rosharans.{{book ref|sa1|26}}
+
+== Notable People ==
+Notable people who are believed to have lived during the shadowdays include [[Derethil]], a king,{{book ref|sa1|57}} and [[Nohadon]], the writer of ''The Way of Kings''.{{book ref|sa1|28}}
+
+[[Raboniel]] also lived during those days, and she is able to recount to [[Navani]] what her grandmother told her after seeing the humans first arriving on Roshar from [[Ashyn]].{{book ref|sa4|76}}
+
+== Notes ==
+<References />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 00:40, 22 March 2022 (UTC)}}
+{{stormlight}}
+[[category: Myths and Legends]]

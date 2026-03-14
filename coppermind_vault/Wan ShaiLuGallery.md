@@ -1,3 +1,8 @@
+---
+source_file: Wan ShaiLuGallery.txt
+entity_type: article
+---
+
 ## Official Art
 <gallery mode="packed" heights=250px gallery caption="Official art">
 Shai.jpg | <center><small>by [[Alexander Nanitchkov]]</small></center> On the US cover of *[[The Emperor's Soul]]*

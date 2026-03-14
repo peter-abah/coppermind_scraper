@@ -1,14 +1,14 @@
-{{aspect
-|skills=Chemistry
-|died={{book ref|skin deep|16}}
-}}
-**Ignacio** is a former [[aspect]] of [[Stephen Leeds]].{{book ref|legion|6}}
+---
+source_file: Ignacio.txt
+entity_type: aspect
+skills: Chemistry
+---
 
-He was skilled in chemistry and had died prior to the search for [[Razon's camera]], removing Stephen and his aspects' ability to know about chemistry in any significant detail.{{book ref|skin deep|16}} His death did not, however, remove Stephen's knowledge of biotech companies, despite Stephen's assumption that it would.{{book ref|skin deep|8}}
+**Ignacio** is a former [[aspect]] of [[Stephen Leeds]].
+
+He was skilled in chemistry and had died prior to the search for [[Razon's camera]], removing Stephen and his aspects' ability to know about chemistry in any significant detail. His death did not, however, remove Stephen's knowledge of biotech companies, despite Stephen's assumption that it would.
 
 [[Justin]] has also disappeared, presumably dying in a similar manner to Ignacio.
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 13:30, 2 July 2018 (MST)}}
-{{Legion}}

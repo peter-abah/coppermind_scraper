@@ -1,3 +1,8 @@
+---
+source_file: SareneGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=250px caption="Official artwork">
 Elantris US cover art.jpg | <center><small>by {{a|Stephan Martinière}}</small></center> US cover

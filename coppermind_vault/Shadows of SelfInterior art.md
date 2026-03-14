@@ -1,4 +1,7 @@
-{{InteriorArtToC|mbe2}}
+---
+source_file: Shadows of SelfInterior art.txt
+entity_type: interiorarttoc
+---
 
 This is a gallery of interior art for *[[Shadows of Self]]*. For more information about each piece, including transcripts of the text (when needed), check each file's individual page.
 

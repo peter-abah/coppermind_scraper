@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Ur.txt
+entity_type: disambig
+---
 
 **Ur** refers to three different things on [[Roshar]]:
 * [[Ur (character)]], a guard at the bar [[All's Alley]] in [[Urithiru]].

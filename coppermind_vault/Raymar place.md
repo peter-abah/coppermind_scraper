@@ -1,11 +1,14 @@
-{{architecture
-|usage=Restaurant[[Category: Food]]
-|city=T'Telir
-|world=Nalthis
-|universe=[[Cosmere]]
-|books=[[Warbreaker]]
-}}
-**Raymar place** is a restaurant in [[T'Telir]].{{book ref|wb|22}}
+---
+source_file: Raymar place.txt
+entity_type: architecture
+usage: 'Restaurant[[Category: Food]]'
+city: T'Telir
+world: Nalthis
+universe: '[[Cosmere]]'
+books: '[[Warbreaker]]'
+---
+
+**Raymar place** is a restaurant in [[T'Telir]].
 
 The restaurant is very dirty and lit only with natural light from small ceiling slats during the day. It serves a variety of fried food and is frequented largely by Grable's followers.
 
@@ -13,5 +16,3 @@ The restaurant is very dirty and lit only with natural light from small ceiling 
 
 ## Notes
 <references />
-{{complete}}
-{{Warbreaker}}

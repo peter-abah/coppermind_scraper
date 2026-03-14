@@ -1,50 +1,44 @@
 ---
-image: "Bluefingers.png"
-aliases: "Bluefingers"
-nation: "Pahn Kahl"
-residence: "T'Telir"
-world: "Nalthis"
-universe: "Cosmere"
-introduced: "Warbreaker"
+source_file: Havarseth.txt
+entity_type: character
+image: Bluefingers.png
+aliases: Bluefingers
+nation: Pahn Kahl
+residence: T'Telir
+world: Nalthis
+universe: '[[Cosmere]]'
+introduced: '[[Warbreaker]]'
 ---
 
-{{quote
-|You should watch yourself, child. Not all here in the palace is as it seems.
-|Bluefingers to [[Siri]].{{book ref|wb|11}}
-}}
-**Havarseth**, better known as **Bluefingers**{{book ref|warbreaker|6}}, is a [[Pahn Kahl]] servant to the [[God King]]'s palace on [[Nalthis]]. He is an instrumental player in the [[Pahn Kahl rebellion]]. 
+> You should watch yourself, child. Not all here in the palace is as it seems.
+> — Bluefingers to [[Siri]].
+
+**Havarseth**, better known as **Bluefingers**, is a [[Pahn Kahl]] servant to the [[God King]]'s palace on [[Nalthis]]. He is an instrumental player in the [[Pahn Kahl rebellion]]. 
 
 ## Appearance & Personality
-He is described as an older man in brown robes who is balding and has a round, pleasant face. His nickname was earned by the fact that his fingers seem perpetually stained with blue ink. He often carries around a ledger.{{book ref|wb|6}}
-Bluefingers is knowledgeable about many things, including Idrian culture and the [[Royal Locks]].{{book ref|wb|6}} He acts subservient to [[Siri]], asking to be excused and offering her assistance, but is also unafraid to point out the flaws in her actions.
+He is described as an older man in brown robes who is balding and has a round, pleasant face. His nickname was earned by the fact that his fingers seem perpetually stained with blue ink. He often carries around a ledger.
+Bluefingers is knowledgeable about many things, including Idrian culture and the [[Royal Locks]]. He acts subservient to [[Siri]], asking to be excused and offering her assistance, but is also unafraid to point out the flaws in her actions.
 
 ## History
-During his time in the palace he serves as head scribe and steward, rather than a priest, due to his lack of faith in the [[Returned]].{{book ref|wb|15}} He is integral to many of the goings-on in the [[Court of Gods]]; according to [[Bebid]], Bluefingers "pretty much keeps the Court running."{{book ref|wb|6}}
+During his time in the palace he serves as head scribe and steward, rather than a priest, due to his lack of faith in the [[Returned]]. He is integral to many of the goings-on in the [[Court of Gods]]; according to [[Bebid]], Bluefingers "pretty much keeps the Court running."
 
-In addition to that duty, he provides a measure of guidance to [[Siri]] while she is in the God King's palace. For example, he lays out all the rules for her behavior and her interactions with the God King soon after she arrives in [[Hallandren]], and meets her outside the God King's room to give her guidance about how to act.{{book ref|wb|6}} He also warns her of the dangers of bearing the God King an heir and evokes suspicions within her, which eventually drive a wedge between her and the priests{{book ref|wb|20}}. He does this because he knows that if a new God King is elected, he and the other Pahn Kahl servants would be dismissed from the ranks they worked so hard to earn, causing them lose all the power they gained. Siri makes a deal with him that promises she will protect the Pahn Kahl servants if he swears to try and get her and the God King out of the palace if the priests choose to move against them.{{book ref|wb|34}} 
+In addition to that duty, he provides a measure of guidance to [[Siri]] while she is in the God King's palace. For example, he lays out all the rules for her behavior and her interactions with the God King soon after she arrives in [[Hallandren]], and meets her outside the God King's room to give her guidance about how to act. He also warns her of the dangers of bearing the God King an heir and evokes suspicions within her, which eventually drive a wedge between her and the priests. He does this because he knows that if a new God King is elected, he and the other Pahn Kahl servants would be dismissed from the ranks they worked so hard to earn, causing them lose all the power they gained. Siri makes a deal with him that promises she will protect the Pahn Kahl servants if he swears to try and get her and the God King out of the palace if the priests choose to move against them. 
 
-Eventually it is revealed that he betrayed Siri, hoping to help secure independence for his people by leading her and Susebron into a trap, while the palace was in military turmoil.{{book ref|wb|54}} Bluefingers, teaming up with [[Lifeless]], then captures the couple and uses them in his plans to wreak havoc between Idris and Hallandren. He imprisons Susebron and plans to kill Siri by stabbing her with a dagger, but is stopped by Susebron's Awakening abilities.{{book ref|wb|57}}
+Eventually it is revealed that he betrayed Siri, hoping to help secure independence for his people by leading her and Susebron into a trap, while the palace was in military turmoil. Bluefingers, teaming up with [[Lifeless]], then captures the couple and uses them in his plans to wreak havoc between Idris and Hallandren. He imprisons Susebron and plans to kill Siri by stabbing her with a dagger, but is stopped by Susebron's Awakening abilities.
 
 ## Quotes
-{{quote
-|My name is Havarseth, but everyone just calls me Bluefingers. I am head scribe and steward to His Excellent Grace Susebron, God King of Hallandren. In simpler terms, I manage the palace attendants and oversee all servants in the Court of Gods.
-|Bluefingers introducing himself to [[Siri]]{{book ref|wb|6}}
-}}
 
-{{quote
-|All apologies, Vessel, but I'm not a follower of the Returned.
-|Bluefingers to [[Siri]] on his faith.{{book ref|wb|15}}
-}}
+> My name is Havarseth, but everyone just calls me Bluefingers. I am head scribe and steward to His Excellent Grace Susebron, God King of Hallandren. In simpler terms, I manage the palace attendants and oversee all servants in the Court of Gods.
+> — Bluefingers introducing himself to [[Siri]]
 
-{{quote
-|As close as any servant considered unholy. I'm not allowed to touch him or speak to him. But, Princess, I've served him all my life. He's not my god, but he's something better. I think these priests look upon their gods as placeholders. It doesn't really matter to them who is holding the station. Me, I've served His Majesty for my entire life. I was hired by the palace as a lad and I remember Susebron's childhood. I cleaned his quarters. He's not my god, but he is my liege. And now these priests are planning to kill him.
-|Bluefinger to [[Siri]] on serving [[Susebron]].{{book ref|wb|34}}
-}}
+> All apologies, Vessel, but I'm not a follower of the Returned.
+> — Bluefingers to [[Siri]] on his faith.
+
+> As close as any servant considered unholy. I'm not allowed to touch him or speak to him. But, Princess, I've served him all my life. He's not my god, but he's something better. I think these priests look upon their gods as placeholders. It doesn't really matter to them who is holding the station. Me, I've served His Majesty for my entire life. I was hired by the palace as a lad and I remember Susebron's childhood. I cleaned his quarters. He's not my god, but he is my liege. And now these priests are planning to kill him.
+> — Bluefinger to [[Siri]] on serving [[Susebron]].
 
 ## Trivia
-* His "almost supernatural sense of time" is not actually magical in nature.{{wob ref|5794}}
+* His "almost supernatural sense of time" is not actually magical in nature.
 
 ## Notes
 <references/>
-{{partial}}
-{{Warbreaker}}

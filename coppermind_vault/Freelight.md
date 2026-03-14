@@ -1,14 +1,14 @@
 ---
-world: "Shadesmar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Freelight.txt
+entity_type: location
+world: Shadesmar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-**Freelight** is a location in [[Shadesmar]], east of [[Celebrant]].{{book ref|sa3|102}}
+**Freelight** is a location in [[Shadesmar]], east of [[Celebrant]].
 
-It is the destination of a ship sailing from [[Celebrant]] which [[Shallan]] attempts to book passage on.{{book ref|sa3|102}}
+It is the destination of a ship sailing from [[Celebrant]] which [[Shallan]] attempts to book passage on.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:46, 3 July 2018 (MST)}}
-{{Stormlight}}

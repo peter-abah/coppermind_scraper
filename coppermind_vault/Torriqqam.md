@@ -1,12 +1,13 @@
-{{settlement
-|nation=Tukar
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Torriqqam** is a town in northern [[Tukar]] on [[Roshar]]. It is southwest of [[Sesemalex Dar]], and located on a river that flows north into a bay.{{map ref|Eastern Makabak}} 
+---
+source_file: Torriqqam.txt
+entity_type: settlement
+nation: Tukar
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+**Torriqqam** is a town in northern [[Tukar]] on [[Roshar]]. It is southwest of [[Sesemalex Dar]], and located on a river that flows north into a bay. 
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 23:28, 19 November 2020 (UTC)}}
-{{Stormlight}}

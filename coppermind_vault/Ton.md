@@ -1,8 +1,11 @@
-{{disambig}}
+---
+source_file: Ton.txt
+entity_type: disambig
+---
 
 **Ton** is a [[darkeyed]] name in eastern [[Roshar]] given to two characters so far:
-* [[Ton (Veden)]] an acquaintance of [[Took]] who held [[Szeth]]'s [[Oathstone]] for a while.{{book ref|sa1|i|3}}
-* [[Ton (singer)]] a newly-liberated [[singer]] in the group which capture [[Kaladin]].{{book ref|sa3|17}}
+* [[Ton (Veden)]] an acquaintance of [[Took]] who held [[Szeth]]'s [[Oathstone]] for a while.
+* [[Ton (singer)]] a newly-liberated [[singer]] in the group which capture [[Kaladin]].
 
 ## Notes
 <references />

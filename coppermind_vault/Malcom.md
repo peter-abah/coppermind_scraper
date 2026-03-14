@@ -1,11 +1,11 @@
 ---
-earth: "Legion"
-books: "Legion (series)|Legion"
+source_file: Malcom.txt
+entity_type: character
+earth: Legion
+books: '[[Legion (series)|Legion]]'
 ---
 
-**Malcom** is an acquaintance of [[Stephen Leeds]] who sets him and [[Sylvia]] up on a blind date. He told Sylvia that Stephen was a detective of some sort. It's unclear if he was aware that she is a paparazzi.{{book ref|legion2|1}}
+**Malcom** is an acquaintance of [[Stephen Leeds]] who sets him and [[Sylvia]] up on a blind date. He told Sylvia that Stephen was a detective of some sort. It's unclear if he was aware that she is a paparazzi.
 
 ## Notes
 <references />
-{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 01:30, 11 June 2022 (UTC)}}
-{{Legion}}

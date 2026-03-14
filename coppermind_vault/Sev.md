@@ -1,13 +1,16 @@
 ---
-world: "Scadrial"
-ethnicity: "Skaa"
-universe: "Cosmere"
-introduced: "The Hero of Ages"
+source_file: Sev.txt
+entity_type: character
+world: Scadrial
+ethnicity: Skaa
+universe: '[[Cosmere]]'
+introduced: '[[The Hero of Ages]]'
 ---
 
-{{quote|"Not a koloss, Fats," the boy said. "A man. Come see!"|Sev to [[Fatren]] upon seeing [[Elend Venture]].{{book ref|mb3|1}}}}
+> "Not a koloss, Fats," the boy said. "A man. Come see!"
+> — Sev to [[Fatren]] upon seeing [[Elend Venture]].
 
-**Sev** is a [[skaa]] boy from [[Vetitan]] on [[Scadrial]].{{book ref|mb3|1}}
+**Sev** is a [[skaa]] boy from [[Vetitan]] on [[Scadrial]].
 
 He is the first one to spot [[Elend Venture]] when [[koloss]] threatened Vetitan.
 
@@ -15,5 +18,3 @@ He calls [[Fatren]] "Fats".
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:31, 11 September 2018 (MST)}}
-{{Mistborn|Era 1}}

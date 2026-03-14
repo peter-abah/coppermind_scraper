@@ -1,5 +1,11 @@
-{{update|sa5}}
-<div style="float:right; padding-left:1em">__TOC__</div>
+---
+source_file: The Stormlight ArchiveStatistical analysis.txt
+entity_type: meta/partial
+---
+
+> [!WARNING] Info
+> __TOC__
+
 This page contains a brief statistical analysis of each of the books in ***[[The Stormlight Archive]]***. Links to a statistical analysis for each book are available at that book's section below, which can easily be navigated to with the table of contents to the right.
 
 The information on this page can be found [https://docs.google.com/spreadsheets/d/1RzIu82lTQz-utNYtTEe7KGA7Yw8eAh46wqWkPCvAsRk/edit here]
@@ -446,7 +452,6 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ## The Way of Kings
-{{for|The Way of Kings/Statistical analysis|a chapter by chapter statistical analysis}}
 
 {| class="wikitable sortable"
 !Character (17+1)
@@ -565,7 +570,6 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ## Words of Radiance
-{{for|Words of Radiance/Statistical analysis|a chapter by chapter statistical analysis}}
 
 {| class="wikitable sortable"
 !Character (21+1)
@@ -708,7 +712,7 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ## Edgedancer
-{{for|Edgedancer/Statistical analysis|a chapter by chapter statistical analysis}}
+
 {| class="wikitable sortable"
 !Character (2)
 !# of POVs (20)
@@ -730,7 +734,7 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ## Oathbringer
-{{for|Oathbringer/Statistical analysis|a chapter by chapter statistical analysis}}
+
 {| class="wikitable sortable"
 ! Character (29+1) !! # of POVs (273) !! % of Total POVs !! Word Count (454,440) !! % of Word Count
 |-
@@ -946,7 +950,7 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ## Dawnshard
-{{for|Dawnshard (novella)/Statistical analysis|a chapter by chapter statistical analysis}}
+
 {| class="wikitable sortable"
 !Character (4)
 !# of POVs (29)
@@ -980,7 +984,7 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 |}
 
 ## Rhythm of War
-{{for|Rhythm of War/Statistical analysis|a chapter by chapter statistical analysis}}
+
 {| class="wikitable sortable"
 ! Character (23+2) !! # of POVs (226) !! % of Total POVs !! Word Count (455,891) !! % of Word Count
 |-
@@ -1355,7 +1359,5 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 | align="right" | 0.10%
 |}
 
-{{meta/partial}}
-{{Stormlight}}
 [[Category: Stormlight Archive|*x]]
 [[category: statistics]]

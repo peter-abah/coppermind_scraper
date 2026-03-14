@@ -1,16 +1,17 @@
 ---
-map: "Nexus of Transition locator.png"
-world: "Shadesmar"
-universe: "Cosmere"
-books: "The Stormlight Archive"
+source_file: Nexus of Transition.txt
+entity_type: location
+map: Nexus of Transition locator.png
+world: Shadesmar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-The **Nexus of Transition** is a region on Roshar's [[subastral]] of the [[Cognitive Realm]].{{map ref|Shadesmar}} It is bordered by the [[Sea of Regret]], the [[Sea of Souls]], and the [[Sea of Lost Lights]].{{map ref|Shadesmar}}
+The **Nexus of Transition** is a region on Roshar's [[subastral]] of the [[Cognitive Realm]]. It is bordered by the [[Sea of Regret]], the [[Sea of Souls]], and the [[Sea of Lost Lights]].
 
-In the [[Physical Realm]], the Nexus of Transition corresponds to the [[Reshi Sea]].{{map ref|Roshar}} Much of the Nexus of Transition is mountainous.{{map ref|Shadesmar}}
+In the [[Physical Realm]], the Nexus of Transition corresponds to the [[Reshi Sea]]. Much of the Nexus of Transition is mountainous.
 
 ==Notes==
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 22:41, 3 July 2018 (MST)}}
-{{stormlight}}
+
 [[es:Nexo de la Transición]]

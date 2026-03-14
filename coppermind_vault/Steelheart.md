@@ -1,23 +1,26 @@
-{{book
-|cover=Steelheart.jpg
-|setting=[[Newcago]], [[Earth (Reckoners)|Alternate Earth]]
-|released=September 24, 2013
-|publisher=Delacorte Press
-|ISBN=978-0-3857-4356-3
-|page-count=386
-|word-count=[[/Statistical_analysis|107,944]]
-|series=[[The Reckoners]]|sequel=Firefight
-}}{{for|Steelheart (Epic)| the [[Epic]] of the same name|pre= This article is about the novel|Steelheart}}
+---
+source_file: Steelheart.txt
+entity_type: book
+cover: Steelheart.jpg
+setting: '[[Newcago]], [[Earth (Reckoners)|Alternate Earth]]'
+released: September 24, 2013
+publisher: Delacorte Press
+isbn: 978-0-3857-4356-3
+page-count: '386'
+word-count: '[[/Statistical_analysis|107,944]]'
+series: '[[The Reckoners]]'
+sequel: Firefight
+---
+
 ***Steelheart*** is a young adult novel by [[Brandon Sanderson]]. It is the first novel in *[[The Reckoners]]* series, which is not part of the [[cosmere]]. It was released on September 24, 2013. It has been optioned by a film studio.
 
 ## Synopsis
-{{quote
-|Steelheart possesses the strength of ten men and can control the elements. It is said no bullet can harm him, no sword can split his skin, no explosion can burn him. Nobody fights back...nobody but the Reckoners. <br>A shadowy group of ordinary humans, the Reckoners spend their lives studying Epics, finding their weaknesses, and then taking them out. For the death of his father, David wants in. For years, like the Reckoners, David's been studying and planning, and has something they need. Not an object, but an experience. He's seen Steelheart bleed.</br>
-|Blurb from [[Wikipedia:Goodreads|Goodreads]]{{url ref|url=http://www.goodreads.com/book/show/15704458-steelheart|text=Goodreads page|site=Goodreads.com}}
-}}
+
+> Steelheart possesses the strength of ten men and can control the elements. It is said no bullet can harm him, no sword can split his skin, no explosion can burn him. Nobody fights back...nobody but the Reckoners. <br>A shadowy group of ordinary humans, the Reckoners spend their lives studying Epics, finding their weaknesses, and then taking them out. For the death of his father, David wants in. For years, like the Reckoners, David's been studying and planning, and has something they need. Not an object, but an experience. He's seen Steelheart bleed.</br>
+> — Blurb from [[Wikipedia:Goodreads|Goodreads]]
 
 ## Summary
-{{for|/Summary|a chapter by chapter summary}}
+
 The story is told via the perspective of [[David Charleston]], an orphan teenager living in [[Newcago]] (formerly known as Chicago). Newcago is ruled by the extremely powerful [[Epic]] named [[Steelheart (Epic)|Steelheart]], who has created a society run by powerful Epics, with normal people living in normal jobs. Steelheart is invulnerable, is able to fly, can hurl blasts of energy, and can turn inanimate matter to steel; he has turned all of Chicago to steel for kilometers around and into the ground. Compared to other places in what was the United States, Newcago is well run, with normal people generally having access to food, water, electricity, jobs, etc.
 
 David's father was killed by Steelheart around the time of the collapse. As a result, David dedicated his life to learning about the Epics' powers, so that he can get revenge on Steelheart. Near the start of the book, David makes contact with a group of [[Reckoners]], a society of normal humans dedicated to killing Epics. The Reckoners are in possession of advanced technology which they say has scientifically been derived from Epic powers, most prominently the power to tunnel through inanimate matter using "[[tensor]]s". David convinces the Reckoners to try to kill Steelheart.
@@ -39,10 +42,9 @@ The use of an epic power seems to cause the Epic to be altered psychologically, 
 The magic seems to be tied to [[Calamity (Epic)|Calamity]]. Though it's a speculation by many in the books, the fact that Epics began to appear after Calamity arrived is taken as strong proof. In addition, Nightwielder's power blocks all light from passing through its barrier, but Calamity can still be seen.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Steelheart}}
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Steelheart* consists of one prologue, forty-one chapters, and one epilogue, reaching a total 107,944 word count.
 
 {|class="wikitable"
@@ -63,7 +65,5 @@ The magic seems to be tied to [[Calamity (Epic)|Calamity]]. Though it's a specul
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Reckoners}}
-{{books}}
+
 [[category: The Reckoners| 1]]

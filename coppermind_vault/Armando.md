@@ -1,24 +1,25 @@
-{{aspect
-|skills=Photography
-}}
-**Armando** is one of [[Stephen Leeds]]' [[aspect]]s.{{book ref|legion|2}}
+---
+source_file: Armando.txt
+entity_type: aspect
+skills: Photography
+---
+
+**Armando** is one of [[Stephen Leeds]]' [[aspect]]s.
 
 ## Appearance and Personality
-He is thin, with black hair he wears slicked back, and a soft Spanish accent. He is a megalomaniac who lives in Stephen's attic, and believes he's the emperor of Mexico. He refers to himself in the third person as "His Majesty". In the past, he has asked [[Ivy]] to marry him and become queen of Mexico and asked Stephen to get his throne back. He does not seem to believe anyone when they tell him that Mexico is not ruled by an emperor anymore.{{book ref|legion|3}} Early on, he wasn't as serious about his megalomania, even going to far as to joke about it with Stephen.{{book ref|legion3|3}} As time went on, however, he grew colder, even refusing to come to the white room while on a "hunger strike"{{book ref|legion2|8}} and imposing "royal auditory sanctions" on Stephen.{{book ref|legion3|2}}
+He is thin, with black hair he wears slicked back, and a soft Spanish accent. He is a megalomaniac who lives in Stephen's attic, and believes he's the emperor of Mexico. He refers to himself in the third person as "His Majesty". In the past, he has asked [[Ivy]] to marry him and become queen of Mexico and asked Stephen to get his throne back. He does not seem to believe anyone when they tell him that Mexico is not ruled by an emperor anymore. Early on, he wasn't as serious about his megalomania, even going to far as to joke about it with Stephen. As time went on, however, he grew colder, even refusing to come to the white room while on a "hunger strike" and imposing "royal auditory sanctions" on Stephen.
 
 ## Attributes and Abilities
-Armando is a photography expert. He can use a variety of computer tests as well as his own eye to determine if photos have been doctored.{{book ref|legion|3}}  He keeps a collection of nighttime photographs from around the world in his room.{{book ref|legion3|3}}
+Armando is a photography expert. He can use a variety of computer tests as well as his own eye to determine if photos have been doctored.  He keeps a collection of nighttime photographs from around the world in his room.
 
 ## History
-He was created during a missing persons case, eight years prior to Stephen's hunt for [[Sandra]].{{book ref|legion3|3}}
+He was created during a missing persons case, eight years prior to Stephen's hunt for [[Sandra]].
 
-Stephen used his expertise on the Razon case to determine if past-pictures were faked. Armando confirmed the veracity of the photos, however, he was disappointed with the composition of the photos.{{book ref|legion|3}}
+Stephen used his expertise on the Razon case to determine if past-pictures were faked. Armando confirmed the veracity of the photos, however, he was disappointed with the composition of the photos.
 
-He became the first of Stephen's aspects to disappear after the arrival of [[Jenny]], leaving behind a bloodied, disorderly room.{{book ref|legion3|3}} After his death, Stephen lost all photography knowledge, even the simplest things like setting up a tripod.{{book ref|legion3|5}} Armando then became a nightmare, with pale skin and milky eyes in sunken sockets. 
+He became the first of Stephen's aspects to disappear after the arrival of [[Jenny]], leaving behind a bloodied, disorderly room. After his death, Stephen lost all photography knowledge, even the simplest things like setting up a tripod. Armando then became a nightmare, with pale skin and milky eyes in sunken sockets. 
 
-As a nightmare, Armando no longer followed the rules of regular aspects, moving directly through people rather than attempting to move around them as if made of real matter. He also spoke in a low voice that can still be heard over loud noises. He killed [[Tobias]] using a knife.{{book ref|legion3|6}} He also wounded Stephen with that same knife. [[J.C.]] arrived shortly afterward, killing nightmare Armando with his gun.{{book ref|legion3|7}}
+As a nightmare, Armando no longer followed the rules of regular aspects, moving directly through people rather than attempting to move around them as if made of real matter. He also spoke in a low voice that can still be heard over loud noises. He killed [[Tobias]] using a knife. He also wounded Stephen with that same knife. [[J.C.]] arrived shortly afterward, killing nightmare Armando with his gun.
 
 ## Notes
 <references />
-{{complete}}
-{{Legion}}

@@ -1,3 +1,8 @@
+---
+source_file: The Well of AscensionStatistical analysis.txt
+entity_type: meta/done
+---
+
 This page contains some statistical analysis of ***[[The Well of Ascension]]***, the second book in the [[Mistborn (series)|first Mistborn trilogy]].
 
 For a full series overview see [[Mistborn/Statistical analysis]], and for other books in the series see [[Mistborn: The Final Empire/Statistical analysis]] and [[The Hero of Ages/Statistical analysis]].
@@ -397,8 +402,6 @@ The information on this page can be found [https://docs.google.com/spreadsheets/
 
 |}
 
-{{meta/done}}
-{{Mistborn|Era 1}}
 [[category: Mistborn|*e1.2e]]
 [[category: Mistborn Era 1|*2e]]
 [[category: statistics]]

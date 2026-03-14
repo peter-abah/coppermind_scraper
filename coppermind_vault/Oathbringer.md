@@ -1,15 +1,17 @@
-{{book
-|series=[[The Stormlight Archive]]
-|cover=Oathbringer US Hardcover.jpg
-|prequel=Words of Radiance
-|sequel=Rhythm of War
-|setting=[[Roshar]], [[Cosmere]]
-|released=November 14, 2017
-|publisher=Tor Books
-|ISBN=978-0-7653-2637-9
-|page-count=1,220
-|word-count=[[/Statistical_analysis|454,440]]
-}}{{for|Oathbringer (Shardblade)|[[Dalinar Kholin]]'s [[Shardblade]]|pre=This article deals with the third [[Stormlight Archive]] novel|post=For the in universe work, see [[Oathbringer (in-world)]]}}
+---
+source_file: Oathbringer.txt
+entity_type: book
+series: '[[The Stormlight Archive]]'
+cover: Oathbringer US Hardcover.jpg
+prequel: Words of Radiance
+sequel: Rhythm of War
+setting: '[[Roshar]], [[Cosmere]]'
+released: November 14, 2017
+publisher: Tor Books
+isbn: 978-0-7653-2637-9
+page-count: 1,220
+word-count: '[[/Statistical_analysis|454,440]]'
+---
 
 ***Oathbringer*** is the third book in [[The Stormlight Archive]]. It was released on November 14th, 2017.
 
@@ -22,7 +24,7 @@
 
 *And finally **[[Dalinar|the King]]**. Broken by war, he seeks the past. That which was abandoned. That which he* must not know.
 
-*For those secrets will crush him as they did the knights who came before.*{{tweet ref|916417321748504576|Just got the final dust jacket for Oathbringer. Huzzah!|date=2017-10-06}}
+*For those secrets will crush him as they did the knights who came before.*
 
 ## Cover Flap
 Dalinar Kholin's Alethi armies won a fleeting victory at a terrible cost: the enemy Parshendi summoned the violent Everstorm, which now sweeps the world with destruction, and in its passing awakens the once peaceful and subservient parshman to the horror of their millenia-long enslavement by humans. While on a desperate flight to warn his family of the threat, Kaladin Stormblessed must come to grips with the fact that the newly kindled anger of the parshmen may be wholly justified.
@@ -30,19 +32,17 @@ Dalinar Kholin's Alethi armies won a fleeting victory at a terrible cost: the en
 Nestled in the mountains high above the storms, in the tower city of Urithiru, Shallan Davar investigates the wonders of the ancient stronghold of the Knights Radiant and unearths dark secrets lurking in its depths. And Dalinar realizes that his holy mission to unite his homeland of Alethkar is too narrow in scope. Unless all the nations of Roshar can put aside Dalinar's blood-soaked past and stand together-and unless Dalinar himself can confront that past-even the restoration of the Knights Radiant will not prevent the end of civilization.
 
 ## Summary
-{{for|/Summary|a chapter by chapter summary}}
-{{for|/Chapter index|an index of chapter breaks in various editions}}
 
 ## Development
 ### Writing Process
 Brandon wrote a few "exploratory scenes" for Stormlight 3 during the summer of 2014, however, he didn't start in earnest on the book until June 2015.
 
-The original outline called for the flashback sequence to focus on [[Szeth-son-son-Vallano]], however, Brandon later changed his mind. He planned on writing parts of the flashbacks for Szeth as well as [[Eshonai]] and [[Dalinar Kholin]], to help him decide who can best get across the information he needs to.{{sots ref|2014}}. After working on Dalinar's flashbacks, however, was pleased enough with how they were going that he decided not to go forward with the other two sequences.{{wob ref |3718}} In late September 2016 he indicated that he would be spending part of October writing Szeth's flashback sequence, in order to solidify certain backstory pieces relevant to other scenes he was writing, and that there was  a real but unlikely chance that he would change the book back to focus on Szeth.{{wob ref |3749}}
+The original outline called for the flashback sequence to focus on [[Szeth-son-son-Vallano]], however, Brandon later changed his mind. He planned on writing parts of the flashbacks for Szeth as well as [[Eshonai]] and [[Dalinar Kholin]], to help him decide who can best get across the information he needs to.. After working on Dalinar's flashbacks, however, was pleased enough with how they were going that he decided not to go forward with the other two sequences. In late September 2016 he indicated that he would be spending part of October writing Szeth's flashback sequence, in order to solidify certain backstory pieces relevant to other scenes he was writing, and that there was  a real but unlikely chance that he would change the book back to focus on Szeth.
 
-On July 16, 2015, Brandon announced that he had finished Dalinar's flashback chapters. There are 15 in total, with a sum word count of around 55,000 words.{{tweet ref|621618209788047360|text=The Flashbacks are done!|date=Jul 16th, 2015}}. On July 22, 2016, Brandon announced that there would also be several flashback scenes from other characters, including 3 from Kaladin. On December 8, 2016, Brandon announced that he had finished his first draft, totaling 461,223 words.{{tweet ref|807118144322080768|text=Stormlight 3 First Draft is Done!|date=Dec 8th, 2016}} As of March 15, 2017, Brandon had completed the third of five planned drafts, which totaled 514,000 words.{{reddit ref|Stormlight_Archive|5zidxz|text=Oathbringer Update 7|date=Mar 15th, 2017}} On June 15, 2017, Brandon announced the completion of his final draft, which he managed to cut to 450,000 words. The book contains 122 chapters, with 14 interludes, plus a prologue, epilogue, and ketek.{{reddit ref|Stormlight_Archive|6hfek7|text=Oathbringer Update 8|date=Jun 15th, 2017}}
+On July 16, 2015, Brandon announced that he had finished Dalinar's flashback chapters. There are 15 in total, with a sum word count of around 55,000 words.. On July 22, 2016, Brandon announced that there would also be several flashback scenes from other characters, including 3 from Kaladin. On December 8, 2016, Brandon announced that he had finished his first draft, totaling 461,223 words. As of March 15, 2017, Brandon had completed the third of five planned drafts, which totaled 514,000 words. On June 15, 2017, Brandon announced the completion of his final draft, which he managed to cut to 450,000 words. The book contains 122 chapters, with 14 interludes, plus a prologue, epilogue, and ketek.
 
 While working on the novel Brandon posted a series of updates in the Stormlight Archive subreddit:
-{{columns|
+
 *[https://www.reddit.com/r/Stormlight_Archive/comments/3dlncy/oathbringer_spoilers_stormlight_three_update/ Update 1]
 *[https://www.reddit.com/r/Stormlight_Archive/comments/41r099/oathbringer_spoilers_stormlight_three_update_2/ Update 2]
 *[https://www.reddit.com/r/Stormlight_Archive/comments/4r6ds5/oathbringer_spoilers_stormlight_three_update_3/ Update 3]
@@ -51,26 +51,23 @@ While working on the novel Brandon posted a series of updates in the Stormlight 
 *[https://www.reddit.com/r/Stormlight_Archive/comments/5p4ydj/oathbringer_spoilers_stormlight_three_update_6/ Update 6]
 *[https://www.reddit.com/r/Stormlight_Archive/comments/5zidxz/oathbringer_spoilers_stormlight_three_update_7/ Update 7]
 *[https://www.reddit.com/r/Stormlight_Archive/comments/6hfek7/oathbringer_spoilers_stormlight_three_update_8/ Update 8]
-}}
 
 ### Name Changes
-The original tentative title, when Szeth was still the focus character, was "Stones Unhallowed". Like all planned titles for The Stormlight Archive this would have been the title of an in-world book, likely in dealing with Urithiru which [[Ali|Ali-daughter-Hasweth]] mentions was at times the Shin's only connection to the outside world due to its "stones unhallowed".{{book ref|sa2|47}} "Skybreakers" was also mentioned by Brandon as a working title, as Brandon felt "Stones Unhallowed" would possibly be too similar to Patrick Rothfuss's "Doors of Stone" if they were released in close proximity.{{wob ref |7960}}
+The original tentative title, when Szeth was still the focus character, was "Stones Unhallowed". Like all planned titles for The Stormlight Archive this would have been the title of an in-world book, likely in dealing with Urithiru which [[Ali|Ali-daughter-Hasweth]] mentions was at times the Shin's only connection to the outside world due to its "stones unhallowed". "Skybreakers" was also mentioned by Brandon as a working title, as Brandon felt "Stones Unhallowed" would possibly be too similar to Patrick Rothfuss's "Doors of Stone" if they were released in close proximity.
 
-"The Highprince of War" was the working title for the fifth book in The Stormlight Archive, which is where Dalinar's flashbacks were originally scheduled to appear.{{wob ref|10033}} In February 2013 though, Brandon said it was "almost certain" to change.{{tor ref|the-title-for-brandon-sandersons-second-stormlight-archive-book-has-been-revealed|Words of Radiance press release|date=Feb 28th, 2013}} During the process of writing Stormlight 3, especially after shifting the focus to Dalinar, Brandon began referring to it as "Oathbringer" which eventually became its official title.
+"The Highprince of War" was the working title for the fifth book in The Stormlight Archive, which is where Dalinar's flashbacks were originally scheduled to appear. In February 2013 though, Brandon said it was "almost certain" to change. During the process of writing Stormlight 3, especially after shifting the focus to Dalinar, Brandon began referring to it as "Oathbringer" which eventually became its official title.
 
 ## Publication History
 On November 14th, 2017, the novel was released. 
 ### Pre-Release Material
-*The first Kaladin chapter was Brandon's reading during the Summer 2014 UK tour.{{cite}} It was later released on Tor.com on September 30, 2014.{{tor ref|brandon-sanderson-stormlight-archive-book-3-first-chapter|text=Tor.com release of first Stormlight 3 Kaladin chapter.|date=Sep 30th, 2014}}
-*The first Dalinar flashback chapter was Brandon's reading during the *[[Shadows of Self]]* tour. It was later released on Tor.com on October 23, 2015,.{{tor ref|brandon-sanderson-reveals-a-dalinar-chapter-from-stormlight-archive-book-3|text=Tor.com release of first Dalinar flashback chapter|date=Oct 23rd, 2015}}
-*The first four Dalinar flashback chapters were released on December 6, 2016, in the *Unfettered II* anthology, edited by Shawn Speakman.{{reddit ref|fantasy|55vwwu|d8eowxw|text=Brandon comments on his submission to *Unfettered II*.|date=Oct 4, 2016}}
-*The prologue was released on Tor.com on August 22, 2017. {{tor ref|2017/08/22/oathbringer-brandon-sanderson-prologue|text=Tor.com release of Oathbringer prologue.|date=August 22, 2017}} 3 chapters were released every week until the 31st of October and November 7th only had 2 chapters.
+*The first Kaladin chapter was Brandon's reading during the Summer 2014 UK tour. It was later released on Tor.com on September 30, 2014.
+*The first Dalinar flashback chapter was Brandon's reading during the *[[Shadows of Self]]* tour. It was later released on Tor.com on October 23, 2015,.
+*The first four Dalinar flashback chapters were released on December 6, 2016, in the *Unfettered II* anthology, edited by Shawn Speakman.
+*The prologue was released on Tor.com on August 22, 2017.  3 chapters were released every week until the 31st of October and November 7th only had 2 chapters.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Oathbringer}}
 
 ## Interior Art
-{{for|/Interior art|a gallery of the book's interior art}}
 
 ## See Also
 * [[Oathbringer/Epigraphs]]
@@ -79,7 +76,7 @@ On November 14th, 2017, the novel was released.
 * [[Oathbringer/Interior art]]
 
 ## Statistical Analysis
-{{for|/Statistical analysis|a full statistical analysis}}
+
 *Oathbringer* consists of one prologue, 122 chapters, fourteen interludes, and one epilogue, reaching a total 454,440 word count (including chapter text, epigraphs, and part/chapter titles). There are twenty-nine different unique point-of-view characters in a total of 273 POVs.
 
 {|class="wikitable"
@@ -107,8 +104,6 @@ On November 14th, 2017, the novel was released.
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Stormlight}}
-{{books}}
+
 [[Category: Stormlight Archive| 3]]
 [[es:Juramentada]]

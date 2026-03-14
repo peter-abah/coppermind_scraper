@@ -1,17 +1,16 @@
 ---
-abilities: "{{tag+|Hemalurgist"
+source_file: Granks.txt
+entity_type: character
+abilities: Hemalurgist
+groups: Set
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Lost Metal]]'
 ---
 
-|groups={{tag|Set}}
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[The Lost Metal]]
-}}
-**Granks** is a Cycle in the [[Set]] on [[Scadrial]].{{book ref|mb7|21}}
+**Granks** is a Cycle in the [[Set]] on [[Scadrial]].
 
-[[VenDell]] impersonated him in order to get into a Set hideout.{{book ref|mb7|21}}
+[[VenDell]] impersonated him in order to get into a Set hideout.
 
 ## Notes
 <references />
-{{complete}}
-{{Mistborn|Era 2}}

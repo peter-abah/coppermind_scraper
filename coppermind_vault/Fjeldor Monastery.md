@@ -1,3 +1,8 @@
+---
+source_file: Fjeldor Monastery.txt
+entity_type: article
+---
+
 #REDIRECT [[Shu-Dereth#Monasteries]]
 
 [[Category: Elantris]]

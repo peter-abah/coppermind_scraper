@@ -1,0 +1,2 @@
+#redirect[[Trelagism]]
+[[category: terminology]]

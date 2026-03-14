@@ -1,9 +1,12 @@
-{{book
-|cover= Skaa T&A cover.jpg
-|series=[[Mistborn Adventure Game]]
-|released= November 16, 2015{{tweet ref|666285051433226241|Skaa: Tin & Ash Preorder Announcement|date= Nov 16th, 2015}}
-|publisher=Crafty Games
-}}
+---
+source_file: Skaa Tin & Ash.txt
+entity_type: book
+cover: Skaa T&A cover.jpg
+series: '[[Mistborn Adventure Game]]'
+released: November 16, 2015
+publisher: Crafty Games
+---
+
 ***Skaa: Tin & Ash*** is the third supplementary rule book released for the *[[Mistborn Adventure Game]]* by [[Crafty Games]]. It focuses on the [[skaa]].
 
 ==Product Description==
@@ -15,13 +18,12 @@ The Final Empire was built on the backs of the skaa — the downtrodden descenda
 
 For players of the *Mistborn Adventure Game*, there's a bounty of new rules for creating and playing your own skaa Hero, including new Stunts, equipment, Networks, and locations to explore and liberate.
 
-Also included is an epic adventure, *Beasts of Burden*, set in the black heart of the skaa criminal underworld. An old friend has gone missing in the slums of Luthadel, and you have been hired to find him before it's too late. As you close in on the truth, you find yourself and all you hold dear under assault from all quarters by a shadowy syndicate. What is this foe protecting, and how will you strike back? Your very survival hangs in the balance...{{url ref|url=http://www.crafty-games.com/buy-now/skaa-tin-ash/|text=Crafty Games' product description|site=[[Crafty Games]]}}
+Also included is an epic adventure, *Beasts of Burden*, set in the black heart of the skaa criminal underworld. An old friend has gone missing in the slums of Luthadel, and you have been hired to find him before it's too late. As you close in on the truth, you find yourself and all you hold dear under assault from all quarters by a shadowy syndicate. What is this foe protecting, and how will you strike back? Your very survival hangs in the balance...
 
 ==External Links==
 *[http://www.crafty-games.com/buy-now/skaa-tin-ash/ Product page on Crafty Games' website]
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Mistborn|rpg}}
+
 [[category: Mistborn|#mag-r4]]

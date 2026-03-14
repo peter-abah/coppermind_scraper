@@ -1,21 +1,22 @@
-{{culture
-|type=Structure
-|origin=[[Weswara]]
-|earth=Frugal Wizard
-}}
+---
+source_file: Wēoh.txt
+entity_type: culture
+type: Structure
+origin: '[[Weswara]]'
+earth: Frugal Wizard
+---
 
-{{quote|I will retreat to your founder's wēoh to meditate, if I may. I will need boasts. Powerful boasts.|[[Sefawynn]] to [[Ealstan]]{{book ref|fwh|8}}}}
+> I will retreat to your founder's wēoh to meditate, if I may. I will need boasts. Powerful boasts.
+> — [[Sefawynn]] to [[Ealstan]]
 
-A **wēoh** is a place of meditation located in or near a settlement, likely across all of [[Weswara]].{{book ref|fwh|8}} 
+A **wēoh** is a place of meditation located in or near a settlement, likely across all of [[Weswara]]. 
 
-The wēoh in [[Stenford]] was built by the village's founder,{{book ref|fwh|8}} and is located outside of the village gates. It consists of a ring of grass with a bench in the center, surrounded by five feet high triangular stones, spaced in a regular pattern. The points of the stones all slope up to the right.{{book ref|fwh|9}}
+The wēoh in [[Stenford]] was built by the village's founder, and is located outside of the village gates. It consists of a ring of grass with a bench in the center, surrounded by five feet high triangular stones, spaced in a regular pattern. The points of the stones all slope up to the right.
 
-[[Sefawynn]] retreated to the Stenford wēoh to meditate before embarking on her mission to rescue [[Wyrm]].{{book ref|fwh|9}} She was interrupted by [[John West]], before they both returned inside the village gates.{{book ref|fwh|9}}{{book ref|fwh|10}}
+[[Sefawynn]] retreated to the Stenford wēoh to meditate before embarking on her mission to rescue [[Wyrm]]. She was interrupted by [[John West]], before they both returned inside the village gates.
 
 ==Trivia==
-*"Wēoh" is an Old English word for a type of shrine, sacred enclosure, or other place with some religious significance.{{wp ref|Vé (shrine)}}
+*"Wēoh" is an Old English word for a type of shrine, sacred enclosure, or other place with some religious significance.
 
 ==Notes==
 <references/>
-{{complete}}
-{{Frugal Wizard}}

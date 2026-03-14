@@ -1,10 +1,12 @@
-{{quote
-| Her speed was impressive; by the display above my scope's holosights, she was moving at fifty-three miles per hour
-| [[David]], about [[Newton]]{{book ref|Firefight|29}}
-}}
-**Holosight** is a technology in [[The Reckoners]] series.{{book ref|Firefight|8}}. It is a rifle sight that has advanced features like video recording and streaming, target tracking and speed estimation{{book ref|Firefight|29}}, in addition to zoom and light meter{{book ref|Firefight|30}}.
+---
+source_file: Holosight.txt
+entity_type: book ref
+---
+
+> Her speed was impressive; by the display above my scope's holosights, she was moving at fifty-three miles per hour
+> — [[David]], about [[Newton]]
+
+**Holosight** is a technology in [[The Reckoners]] series.. It is a rifle sight that has advanced features like video recording and streaming, target tracking and speed estimation, in addition to zoom and light meter.
 
 ## Notes
 <references />
-{{complete}}
-{{Reckoners}}

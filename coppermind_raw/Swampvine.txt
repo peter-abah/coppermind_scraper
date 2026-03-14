@@ -1,0 +1,16 @@
+{{lifeform
+|type={{cat tag|Plants|Plant}}
+|world=First of the Sun
+|universe=[[Cosmere]]
+|books=[[Isles of the Emberdark]]
+}}
+{{spoilers|iote}}
+'''Swampvine''' is a plant on [[Patji (island)|Patji]] in the [[Pantheon]] of [[First of the Sun]].{{book ref|iote|14}}
+
+It releases a poisonous gas when disturbed, but the gas cloud disperses quickly and is only dangerous for a short time. The gas is only harmful if it is inhaled.{{book ref|iote|14}}
+
+== Notes ==
+<references />
+{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 18:21, 22 March 2019 (MST)}}
+{{Emberdark}}
+[[es:Vid de ciénaga]]

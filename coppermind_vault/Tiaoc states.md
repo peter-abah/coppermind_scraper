@@ -1,13 +1,14 @@
-{{nation
-|ethnicity=Tiaocian
-|region=Darkside
-|world=Taldain
-|universe=[[Cosmere]]
-|books=[[White Sand]]
-}}
-The **Tiaoc states** are several nations on [[Darkside]] which share a common ethnicity. People from the Tiaoc states are known as **Tiaocians**. There are Tiaocians living in [[Lonzare]].{{book ref|ws|5|review=yes}}
+---
+source_file: Tiaoc states.txt
+entity_type: nation
+ethnicity: Tiaocian
+region: Darkside
+world: Taldain
+universe: '[[Cosmere]]'
+books: '[[White Sand]]'
+---
+
+The **Tiaoc states** are several nations on [[Darkside]] which share a common ethnicity. People from the Tiaoc states are known as **Tiaocians**. There are Tiaocians living in [[Lonzare]].
 
 ## Notes
 <references />
-{{complete|[[User:Jofwu|Jofwu]] ([[User talk:Jofwu|talk]]) 01:34, 5 August 2019 (UTC)}}
-{{White Sand}}

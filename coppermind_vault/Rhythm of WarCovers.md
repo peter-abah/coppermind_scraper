@@ -1,4 +1,7 @@
-{{CoverToC|sa}}
+---
+source_file: Rhythm of WarCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[Rhythm of War]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 
@@ -41,6 +44,5 @@ Shallan in Shadesmar by DNAVENOM.jpg | by {{a|Petar Penev}}
 ROW BG contestant1.jpg | by Георги Маджаров / Georgi Madzharov
 ROW BG contestant2.jpg | by Стефан Стефанов / Stefan Stefanov
 </gallery>
-
 
 [[Category:Cover Galleries]]

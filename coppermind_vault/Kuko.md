@@ -1,14 +1,13 @@
 ---
-ethnicity: "Eelakin"
-world: "First of the Sun"
-universe: "Cosmere"
-introduced: "Isles of the Emberdark"
+source_file: Kuko.txt
+entity_type: character
+ethnicity: Eelakin
+world: First of the Sun
+universe: '[[Cosmere]]'
+introduced: '[[Isles of the Emberdark]]'
 ---
 
-{{spoilers|iote}}
-**Kuko** is a speechwriter working for President [[Vathi]] on [[First of the Sun]].{{book ref|iote|61}}
+**Kuko** is a speechwriter working for President [[Vathi]] on [[First of the Sun]].
 
 ## Notes
 <references />
-{{complete}}
-{{Emberdark}}

@@ -1,16 +1,19 @@
-{{book
-|cover=Children of the Nameless Cover.png
-|setting=[[wikipedia: Magic: The Gathering |Magic: The Gathering]] Multiverse ([https://mtg.gamepedia.com/Innistrad_(plane) Innistrad])
-|released=December 12, 2018
-|publisher=Wizards of the Coast
-}}
-***Children of the Nameless*** is a novella written by [[Brandon Sanderson]] set in the extended universe of the card game *[[wikipedia: Magic: The Gathering |Magic: The Gathering]]*. The novella was released for free on the website of [[wikipedia: Wizards of the Coast|Wizards of the Coast]], the publishers of *Magic*, through an arrangement that allowed Brandon increased creative control of the story.{{wob ref|12473}}  It is set on the plane of Innistrad several years after the events of *Eldritch Moon*. It introduces the original characters Tacenda Verlasen and Davriel Cane and follows their story as they seek to uncover the mystery of Tacenda's entire village being taken by geists.
+---
+source_file: Children of the Nameless.txt
+entity_type: book
+cover: Children of the Nameless Cover.png
+setting: '[[wikipedia: Magic: The Gathering |Magic: The Gathering]] Multiverse ([https://mtg.gamepedia.com/Innistrad_(plane)
+  Innistrad])'
+released: December 12, 2018
+publisher: Wizards of the Coast
+---
+
+***Children of the Nameless*** is a novella written by [[Brandon Sanderson]] set in the extended universe of the card game *[[wikipedia: Magic: The Gathering |Magic: The Gathering]]*. The novella was released for free on the website of [[wikipedia: Wizards of the Coast|Wizards of the Coast]], the publishers of *Magic*, through an arrangement that allowed Brandon increased creative control of the story.  It is set on the plane of Innistrad several years after the events of *Eldritch Moon*. It introduces the original characters Tacenda Verlasen and Davriel Cane and follows their story as they seek to uncover the mystery of Tacenda's entire village being taken by geists.
 
 ## Synopsis
-{{quote 
-| Since the day she was born, Tacenda has been both blessed and cursed. Blessed by a powerful protection spell of unknown origin, she has warded her family and friends against any number of horrors over her 15 years. Cursed because the horrors which visit her small Kessig village are both numerous and frequent. Then, one night, for no reason she can fathom, her sacred song of protection fails. Seeking revenge on the man she believes responsible for the failure and the consequent destruction of everything she loves, she breaks into the manor of the local lord, a known consorter with demons. There she discovers the beginnings of an even greater mystery… starting with the fact the Lord of the Manor is anything but local… 
-| From io9's exclusive{{url ref|url=https://io9.gizmodo.com/brandon-sanderson-wrote-a-magic-the-gathering-novella-1831011028|text=Brandon Sanderson Wrote a Magic: The Gathering Novella|site=io9|date=2018-12-11}}
-}}
+
+> Since the day she was born, Tacenda has been both blessed and cursed. Blessed by a powerful protection spell of unknown origin, she has warded her family and friends against any number of horrors over her 15 years. Cursed because the horrors which visit her small Kessig village are both numerous and frequent. Then, one night, for no reason she can fathom, her sacred song of protection fails. Seeking revenge on the man she believes responsible for the failure and the consequent destruction of everything she loves, she breaks into the manor of the local lord, a known consorter with demons. There she discovers the beginnings of an even greater mystery… starting with the fact the Lord of the Manor is anything but local…
+> — From io9's exclusive
 
 ## Summary
 Tacenda Verlasen is a young woman who lives in a small village in the Approaches, a remote area of Innistrad. She and her twin sister Willia were born with the extraordinary power to protect their village from the encroaching darkness and monsters, Tacenda with her Warding Song and Willia with her skills as a warrior. With this power, however, comes an accompanying curse--Tacenda becomes blind during the daytime and Willia becomes blind during the night, meaning neither can see at the same time.
@@ -34,9 +37,6 @@ The novella is set in the Magic: The Gathering multiverse. In this multiverse, r
 The entirety of the story takes place in the Approaches, a remote area of the central Innistrad province of Kessig.
 
 ## Cover Gallery
-{{for|/Covers|a cover gallery of Children of the Nameless}}
 
 ## Notes
-<References /> 
-{{meta/partial}}
-{{books}}
+<References />

@@ -1,3 +1,8 @@
+---
+source_file: Anthony Marques.txt
+entity_type: real world
+---
+
 **Anthony Marques** is one of the editors who edited *[[White Sand|White Sand Volume 2]]*.
 
 ## See Also
@@ -5,5 +10,5 @@
 
 ## Notes
 <references />
-{{real world|complete}}
+
 [[Category: People]]

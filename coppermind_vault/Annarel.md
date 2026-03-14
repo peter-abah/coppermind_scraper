@@ -1,17 +1,15 @@
 ---
-died: "Killed by Bloody Tan, {{date|341|fa"
+source_file: Annarel.txt
+entity_type: character
+died: Killed by [[Bloody Tan]], 341
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 2]]'
 ---
 
-{{book ref|mb4|prologue}}
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 2]]
-}}
-**Annarel** was a geologist who visited the [[Roughs]] of [[Scadrial]].{{book ref|mb4|prologue}}
+**Annarel** was a geologist who visited the [[Roughs]] of [[Scadrial]].
 
-She vanished soon after [[Geormin]], also murdered by [[Bloody Tan]].{{book ref|mb4|prologue}} Tan mummified her corpse, and pinned it to the wall with spikes in the tunnel of his lair in [[Feltrel]]. Her corpse was posed kneeling, as if she were inspecting some rocks.
+She vanished soon after [[Geormin]], also murdered by [[Bloody Tan]]. Tan mummified her corpse, and pinned it to the wall with spikes in the tunnel of his lair in [[Feltrel]]. Her corpse was posed kneeling, as if she were inspecting some rocks.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 13:27, 17 September 2018 (MST)}}
-{{Mistborn|Era 2}}

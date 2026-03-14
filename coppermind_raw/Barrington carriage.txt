@@ -1,0 +1,16 @@
+{{vehicle
+|type={{cat tag|roadcraft|Carriage}}
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+'''Barringtons''' are a type of vehicle in [[Elendel]] named after [[Lord Barrington]].
+
+They are a four-wheeled coach with a completely enclosed passenger compartment and room at the top front for a driver. They vary widely in paint-jobs but are fairly consistently shaped.{{book ref|mb5|16}}
+
+[[House Ladrian]]'s coaches are Barringtons as are many of the coaches at [[Ashweather Carriage and Coach]].{{book ref|mb5|14}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 23:18, 8 March 2019 (MST)}}
+{{Mistborn|era 2}}

@@ -1,3 +1,8 @@
+---
+source_file: Evi KholinGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=200px caption="Official artwork">
 Child by Xabi Gazte.jpg | <center><small>by {{a|Xabi Gazte}}</small></center> Right after giving birth to [[Adolin]], *[[Call to Adventure: The Stormlight Archive]]*

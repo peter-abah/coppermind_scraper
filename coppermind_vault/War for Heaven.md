@@ -1,18 +1,19 @@
-{{event
-|location=[[Tranquiline Halls]]
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}{{update|book=sa3}}
-{{merge|[[Vorinism]]}}
-The **War for Heaven** was a mythological war believed to be being fought by [[Herald]]s and the [[Heraldic Forces]] against the [[Voidbringers]] for control of the [[Tranquiline Halls]].{{book ref|twok|59}}
+---
+source_file: War for Heaven.txt
+entity_type: event
+location: '[[Tranquiline Halls]]'
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-According to myth, the sound of a horn was supposed to guide the soldiers to the battlefield.{{book ref|sa1|15}}
+The **War for Heaven** was a mythological war believed to be being fought by [[Herald]]s and the [[Heraldic Forces]] against the [[Voidbringers]] for control of the [[Tranquiline Halls]].
 
-After the War for Heaven was won, it was believed that all those who were not a part of the Heraldic Forces would rise from their sleep and go to the Tranquiline Halls.{{book ref|twok|59}}
+According to myth, the sound of a horn was supposed to guide the soldiers to the battlefield.
+
+After the War for Heaven was won, it was believed that all those who were not a part of the Heraldic Forces would rise from their sleep and go to the Tranquiline Halls.
 
 ## Notes
 <references />
-{{partial}}
-{{Stormlight}}
+
 [[Category: Vorinism]]

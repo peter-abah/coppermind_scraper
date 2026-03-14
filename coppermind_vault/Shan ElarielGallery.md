@@ -1,3 +1,8 @@
+---
+source_file: Shan ElarielGallery.txt
+entity_type: article
+---
+
 ==Official Artwork==
 <gallery mode="packed" heights=250px caption="Official Artwork">
 MB-Deckbuilder Card - Shan, The Noble by Svetlana Kostina.jpg|<center><small>by Svetlana Kostina</small></center>*Shan, The Noble*, *[[Mistborn: The Deckbuilding Game]]*

@@ -1,8 +1,13 @@
-**Ars Arcanum** is a glossary or appendix section at the end of many of the books that are part of the [[cosmere]]. The information is presented from an in-universe perspective.{{wob ref|4699}}
+---
+source_file: Ars Arcanum.txt
+entity_type: wob ref
+---
 
-Every Ars Arcanum is written by [[Khriss]].{{wob ref|6873}} The annotations on many of the images from the various books are made by her assistant [[Nazh]].{{wob ref|13587}}
+**Ars Arcanum** is a glossary or appendix section at the end of many of the books that are part of the [[cosmere]]. The information is presented from an in-universe perspective.
 
-[[Brandon Sanderson|Brandon]] initially planned to use the phrase "Ars Magica" for these glossaries, as he felt it was "a cool Latinate take on 'Magical Arts' or 'Magical Skills'." However, there was a role-playing game with that name, so he instead went with "Ars Arcanum," which he ultimately felt had more of a true-Latinate feel.{{wob ref|2491}}
+Every Ars Arcanum is written by [[Khriss]]. The annotations on many of the images from the various books are made by her assistant [[Nazh]].
+
+[[Brandon Sanderson|Brandon]] initially planned to use the phrase "Ars Magica" for these glossaries, as he felt it was "a cool Latinate take on 'Magical Arts' or 'Magical Skills'." However, there was a role-playing game with that name, so he instead went with "Ars Arcanum," which he ultimately felt had more of a true-Latinate feel.
 
 ## Ars Arcanum in each book or series
 *All of the cosmere stories containing an Ars Arcanum are listed here in rough chronological order.*
@@ -24,7 +29,7 @@ The Ars Arcanum in [[The Stormlight Archive]] gives detailed information about t
 
 ## Notes
 <references />
-{{meta/partial}}
+
 [[Category: Books|*]]
 [[Category: Cosmere]]
 [[category: list articles]]

@@ -1,0 +1,173 @@
+{{character
+|image=Iote starling .jpg
+|relatives=[[Frost]]{{book ref|iote|prologue}}
+|abilities={{tag+|worldhopping}}
+|aliases=Starling, L.T.{{book ref|iote|22}}
+|species=dragon
+|world=Yolen
+|universe=[[Cosmere]]
+|introduced=[[Isles of the Emberdark]]
+}}
+{{spoilers|IotE}}
+{{quote
+|But here, we're all a little off, eh? Maybe that's what makes us a family.
+|Starling to [[Aditil]]{{book ref|iote|22}}
+}}
+'''Illistandrista''', also known as '''Starling''', is a [[dragon (cosmere)|dragon]], originally from [[Yolen]].{{book ref|iote|prologue}} She is the captain of the ''[[Dynamic Storyteller's Incredible Conveyance]]'', and an apprentice to [[Hoid]].
+
+== Appearance & Personality ==
+=== Appearance ===
+Starling is [https://en.wikipedia.org/wiki/Leucism leucistic] in both her human and draconic forms. Her draconic form has shimmering white scales and silver [[Dragonsteel (metal)|dragonsteel]]. In human form, she has pale skin, and white hair and eyes.{{book ref|iote|prologue}} Dragons age much more slowly than humans, and so Starling looks to be a young woman. She wears manacles on her wrists, which suppress her draconic powers, forcing her to remain as a human. She typically dresses in loose, filmy trousers and a long jacket.{{book ref|iote|22}}
+
+=== Personality ===
+{{quote
+|Amazing. All this time, and you still think the best of me.
+|[[Hoid]] to Starling{{book ref|iote|51}}
+}}
+
+As a child, Starling was energetic, kind and honest. She genuinely liked most people, and pretended to like those she didn't. Despite being excited and impatient on the morning of her first transformation, she showed understanding and reverence for her [[Frost|uncle's]] followers, and did not interrupt his prayers. She struggled to empathize with mortals, but was determined to learn anyway.{{book ref|iote|prologue}}
+
+Later in life, Starling remains a bubbly optimist. Often, she has to force herself to maintain this demeanor.{{book ref|iote|22}} The suppression of her draconic powers is very difficult for her.{{book ref|iote|27}} She can no longer fly, access her draconic form, or visit [[Spiritual Realm#Spirit Shores|Spirit Shores]], for example.{{book ref|iote|49}} However, she stays positive, and always looks for the silver lining. Even when faced with imprisonment by the [[Malwish Empire|Malwish]], she assures her crew that everything will work out.
+
+She cares deeply for the members of the crew of the ''[[Dynamic Storyteller's Incredible Conveyance|Dynamic]]'', and tries to keep them all safe and happy. This is evident when she buys a ticket to [[Dhatri]] for [[Aditil]], after realizing that Aditil is homesick. Starling also stands up for [[Chrysalis]], and works to look past negative assumptions about the [[Sleepless]]. She encourages the rest of the crew, particularly [[ZeetZi]], to do the same.{{book ref|iote|22}}She even sacrifices freedom from her manacles in order to guarantee the safety of her friends.{{book ref|iote|58}}
+
+{{sidequote
+|She was Illistandrista. Dragon. And she did not despair.
+|Starling{{book ref|iote|27}}
+|side=right|size=250px
+}}
+
+She has a very strong innate sense of justice, propelled by her care for those around her. This led her to challenge her draconic elders, and ultimately ended up with her powers bound by manacles.{{book ref|iote|51}} Her morals also drove her to mutiny against Captain [[Crow]] and save [[Crux]] and [[Nol]].{{book ref|iote|25}} She risked her life in order to protect them from an [[Evil|Entity]], because she could not bear the thought of leaving them to their fate.{{book ref|iote|26}}{{book ref|iote|27}}
+
+She can be overbearing when it comes to planning, and often doesn't give others much of a say. This is because she believes it is her responsibility to solve problems. After a conversation with Hoid,{{book ref|iote|51}} she realises that leadership should be about trusting in the skill of her crew, and working together to overcome adversity. She acknowledges that she isn't always the best person for the job.{{book ref|iote|53}} 
+
+At times, she can be patronizing to people from other cultures. She assumes that [[Dusk]] needs to be saved from the Scadrians, and that his people are less capable because they aren't as technologically advanced as other planets. She looks down on their historical record-keeping, and tries to comfort Dusk, when really she just irritates him.{{book ref|iote|47}} She later realizes she was wrong, and apologizes.{{book ref|iote|57}}
+
+Stereotypes about dragons annoy her, and she generally tries to dissuade people of these ideas. Examples of these stereotypes are that dragons eat humans and keep hoards of valuables.{{book ref|iote|22}} Starling is known to drink a beverage named [[kaftea]].{{book ref|iote|42}}
+
+== Attributes & Abilities ==
+As a dragon, Starling is functionally immortal, unable to be killed by most conventional or [[Investiture|Invested]] means.{{wob ref|3074}}{{wob ref|5881}} Even with her powers bound, injuries heal nearly instantly. She can survive a fall from any height.{{book ref|iote|27}} [[Masher wasp]] stings, which would mean instant death for a mortal, cause her to become slightly dizzy.{{book ref|iote|43}} If she ever falls unconscious, protections would activate in her manacles, allowing her to be recovered by other dragons.{{book ref|iote|44}}   
+
+Because dragons are so highly Invested, they cannot use most [[Invested Art]]s or form [[Nahel bond]]s.{{book ref|iote|44}} 
+
+Starling's empathy also lends well to her leadership skills, as she has the respect and love of her crew. She is very perceptive of others' emotions. She knows how to make use of her crew's varied skill sets,{{book ref|iote|53}} and plans well to get them out of sticky situations.   
+
+== History ==
+=== Childhood ===
+Starling grew up on Yolen. She was raised by her uncle Frost, though it is unclear what exactly happened to her parents. At the time of her thirtieth birthday, she lived in Frost's mansion on Yolen, alongside him and his priests. Dragons mature differently to humans, and so her mental and physical age at this time was similar to that of an eight-year-old human.{{book ref|iote|prologue}} She flew for the first time on the same day she transformed into her draconic form, which is unusual.{{book ref|iote|27}} Shortly after she learned to fly, Frost took her to one of the ancestral caverns, the one that had previously held one of the [[Dawnshard]]s.{{book ref|iote|40}} Frost also taught her how to reach out and transport her mind to the [[Spirit Shores]].{{book ref|iote|49}}
+
+=== Manacles ===
+When she was around seventy-five years old, Starling went against the rulings of her people, leading to her powers being bound.{{book ref|iote|22}} She took a stand against her elders, because of her own moral convictions. As punishment for this, she was given manacles that harness her own Investiture against her.{{book ref|iote|58}} The manacles prevent her from transforming into her draconic form, visiting Spirit Shores, or using any other draconic power. They also allow her to conjure an illusion of her draconic form.  
+
+As well as the manacles, Starling has been exiled from her homeworld until she has 'learned her lesson'.{{book ref|iote|32}} It was because of the circumstances surrounding her exile that Hoid took her on as an apprentice. He admired how much she cared for mortals, and how much she was willing to sacrifice to do the right thing.{{book ref|iote|51}}
+
+=== Apprenticeship with Hoid ===
+Frost encouraged Starling's apprenticeship with Hoid, despite the ideological differences between the two.{{book ref|iote|51}} Starling spent a number of years travelling the [[cosmere]] aboard the ''Dynamic'' with Hoid. At some point, he dropped her into a volcano, but she doesn’t believe this was his fault.{{book ref|iote|42}} She enjoyed listening to his stories, especially those about [[Roshar]], as he has a special affection for the planet.{{book ref|iote|51}} Hoid taught Starling about negotiation, a skill that helps her in dealing with [[Xisisrefliel]].{{book ref|iote|32}} Eventually, he left her and the ''Dynamic'', because he believed she was capable of leading the crew on her own.{{book ref|iote|51}}
+
+=== Hunt for a Perpendicularity ===
+{{image|Iote_an_echo_only.jpg|Starling and the [[Evil]]|side=right|width=500px}}
+{{quote
+|We're a crew. We have to stay together.
+|Starling to the crew of the ''Dynamic''
+}}
+
+Twelve years after her exile from Yolen, Starling was a lieutenant aboard the Dynamic. Captain Crow had the ship follow a distress signal into the [[Cognitive Realm#Emberdark|Emberdark]]. The signal led to an Iriali family, who were trapped by a [[Evil|type 1-6 Threnodite entity]]. Upon discovering that Crow meant to let the family die and loot their ship, Starling took control of the ''Dynamic''. Due to the skilled piloting of [[Leonore]], the Iriali were rescued.{{book ref|iote|26}}{{book ref|iote|27}} In order to thank Starling and her crew, Crux and Nol, the Iriali, gifted Starling a map to a [[Perpendicularity|perpendicularity]].{{book ref|iote|30}}
+
+Captain Crow reported Starling's mutiny to Xisis, who owned the ''Dynamic''. Starling met with him to negotiate the future of her crew. Xisis wanted to split the crew up and send Starling away. He was initially dismissive when Starling told him about the map, but changed his mind when she told him [[Eddlin]] thought it was legitimate. He agreed to give the crew six months to locate the perpendicularity. If they succeeded, Starling would gain full ownership of the ''Dynamic''. If they did not, Xisis would split the crew up and Starling would work under him, acting as a demigod on a distant planet.{{book ref|iote|32}}
+
+The crew followed the map to an [[Dakwara's island|island]] in the [[Drominad]] subastral. A group of [[Malwish]] [[Scadrial|Scadrians]] had beaten them there, and sent an inspection team to the ''Dynamic''.{{book ref|iote|35}} The leader of the Scadrians, [[Dajer]], recognized Starling's manacles and correctly identified her as a Yolish dragon. Starling attempted to convince him that she was captain of a simple trading vessel, but Dajer figured out that she was looking for the perpendicularity.{{book ref|iote|36}} He took her and her crew captive, and put [[Nazh]] in a shade prison.{{book ref|iote|38}} Dajer offered to free the crew and destroy Starling's manacles if Starling would work for him as an aide-de-camp. She considered, but rejected, this offer, and worked with her crew to formulate an escape plan.{{book ref|iote|42}} 
+
+At the request of [[Dusk]], Starling accompanied him into the Cave of Death at the center of the island. She intentionally got stung by a masher wasp, to demonstrate her invulnerability to him.{{book ref|iote|43}} The two discussed nature and life on Dusk's planet as they traversed the dangerous path. Starling warned Dusk about the [[Malwish Empire]], and the likely fate of his people.{{book ref|iote|44}} She also explained Investiture, the cosmere-wide conflict, and dragons. Starling pitied the [[Eelakin]], but couldn't see a way out of their dilemma.{{book ref|iote|45}}
+
+Starling accompanied Dusk again the next day. She argued with Dajer about the nature of the cave, and attempted to comfort Dusk about his disorientation. She told him that the oral history of the Eelakin was likely inaccurate, and compared it to the millenia of draconic record-keeping. They also discussed industrialization, and Starling explained flight technology to him.{{book ref|iote|47}} After leaving the cave, she spoke to Dajer, who threatened to kill her crew if she didn't do as he wished. She challenged him to prove that the [[Intensifier]] could truly free her from her manacles. Starling began to spiral, believing she couldn't save her crew. Dajer fired the Intensifier at her manacles, temporarily relieving the suppression and allowing her to visit Spirit Shores.
+
+There, she met Hoid, and begged for his help. He was unable to assist, however, because he was stuck in a vault. He reassured her, and told her the story of the [[Herald]]s and [[Desolation]]s on Roshar. He told her to rely more on her crew, and to depend on their talents to escape from the Malwish. She returned to the [[Cognitive Realm]], and confessed her worries to her friends. Her vulnerability only strengthened their resolve, and the group began to workshop a plan.{{book ref|iote|51}} 
+{{image|Iote_spirit_shores.jpg|Starling and Hoid on Spirit Shores|side=left|width=300px}}
+
+As they were speaking, the [[Dakwara]] began to attack. Starling spoke to Dusk, and he told her of the myth of [[Cakoban]] and the Dakwara. The Malwish then discovered one of Chrysalis' [[Sleepless#Hordelings|hordelings]], and set up an interference cloud to incapacitate her. To protect her crew and put their plan into action, Starling approached Dajer and agreed to his deal.{{book ref|iote|56}} 
+
+Dusk and Starling reentered the Cave of Death, and Starling apologised to Dusk for being dismissive of his culture and people. Dusk accepted her apology, and she told him that the Eelakin would need allies to survive the coming years. He told her of his ability to [[Navigator|navigate]] the emberdark using the [[Current]]. They reached the end of the tunnel, finding no perpendicularity, and turned back.{{book ref|iote|57}}
+
+As part of their contract, Dajer fired the Intensifier at Starling's manacles, this time to completely destroy them. She began to feel her power return to her, and remembered what it felt like to fly. The engineers increased the power of the Intensifier, and Starling knew that it could return her powers to her. Instead, she took hold of her power and used it to reinforce the manacles. The Intensifier overloaded, and caused a powercut across the entire island.{{book ref|iote|58}} This allowed her crew to escape, and Leonore powered on the ''Dynamic''. Nazh scared off Dajer, and Nazh and Starling boarded their ship.{{book ref|iote|59}} As they were about to escape, Starling left to go back for Chrysalis.{{book ref|iote|60}} 
+
+Chrysalis was badly injured and many of her hordelings were dead after the Scadrians tried to incinerate her. Starling and the crew helped her along, and Starling took multiple bullets to protect the others. Nazh killed two soldiers, and they made it back to the ''Dynamic''. They took to the air, but Dajer aimed a ship gun at them to kill them. The Dakwara, now under Dusk's command, destroyed the gunship and saved the crew.{{book ref|iote|60}}  
+
+Dusk took Starling to [[Patji's Eye]], and she went through the perpendicularity to [[First of the Sun]]. He introduced Starling to [[Vathi]], and Starling offered to inform her of the cosmere. Dusk then showed Vathi and Starling pictures of Cakoban's grave, and Starling translated the writing on the walls. It was written in her language and signed by her uncle, saying that Cakoban died an honorable death.{{book ref|iote|61}}
+
+=== After Patji's Eye ===
+Following the discovery of the perpendicularity on First of the Sun, the crew of the ''Dynamic'' spent six months of shore leave on the planet. After the first successful voyage of the Navigators, Starling gave some final advice to the Drominad leadership, and bid them farewell. The crew suggested to Starling that they visit the [[Grand Apparatus]], to try and find a way to free her from her manacles. Dusk then asked to join the crew as a Navigator, and Starling accepted.{{book ref|iote|epilogue}}
+ 
+== Relationships ==
+=== Hoid ===
+Starling looks up to Hoid quite a lot, and has a great deal of respect for him. She often looks to him for help  or remembers his advice as guidance in sticky situations.{{book ref|iote|32}} She thinks of him as very wise and believes he can solve all her problems.{{book ref|iote|28}} She admires that he treats everyone the same, even if that is by insulting them.{{book ref|iote|44}} When he tells her stories, she searches for the lesson he's trying to teach by it, rather than simply taking it at face value as most people would. They have an affectionate relationship, and she hugged him when she met him at Spirit Shores. Hoid's nickname for her is 'Star', and he listens to her troubles and gives advice, even when he is unable to help. 
+
+When Hoid left the ''Dynamic'', Starling felt abandoned, but understood that he had important things to do. She was upset, but didn't resent him for leaving.
+
+Hoid seems to think very highly of Starling, though he has a poor opinion on dragons as a species.{{book ref|iote|44}} He believes that she is a good leader and a good person. He commends her bravery in challenging draconic authority. He may have introduced her to his other apprentices, as Starling appears to know [[Sigzil]].{{book ref|iote|51}} 
+
+=== Frost ===
+{{quote
+|You are so wonderful, Illistandrista.
+|Frost to Starling{{book ref|iote|prologue}}
+}}
+Starling and her uncle Frost are very close. He taught her to empathize with mortals, despite it being difficult for dragons to do so. He reassured her when she struggled to understand human emotion, and told her she would learn. In her early life, he was a very encouraging and kind presence. The two sometimes exchanged affectionate teasing. Frost served as a mentor figure to Starling, teaching her the ways of dragons and his own personal philosophy. He doesn't want her to become aloof like other dragons, and treats humans as his equals.{{book ref|iote|32}} He spoke to her of [[Adonalsium]], who was [[Shattering|Shattered]] around ten thousand years before she was born.{{book ref|iote|prologue}} Starling knows that her uncle was present at the Shattering.{{book ref|iote|47}}
+
+Frost raised Starling in his mansion on Yolen. He mourned her parents alongside her, though it is unclear what exactly happened to them. 
+
+Starling looks up to her uncle a lot, though she disagrees with his non-interference policy.{{wob ref|4214}} This is ultimately why she took up an apprenticeship with Hoid.{{book ref|iote|44}} Frost allowed this, but worries that Hoid will attract danger.{{book ref|iote|51}}
+
+By the time Starling is eighty-seven, Frost has been missing for a number of years. Most believe him to be dead, as he is uncontactable by any known means. Xisis told Starling that Frost is dead, but she disagreed. Starling holds firm to the belief that her uncle is alive and well, and she will see him again some day.{{book ref|iote|32}}
+
+=== ZeetZi ===
+{{sidequote
+|We'll follow what you say, Captain. We trust you.
+|ZeetZi to Starling{{book ref|iote|30}}
+|side=right|size=300px
+}}
+
+ZeetZi is the technician aboard the ''Dynamic'', and respects Starling as his captain and friend. Starling thinks of him as incredibly clever and talented, as she does most of her crew. However, she often admonishes him for his treatment of Chrysalis. The Sleepless ran experiments on ZeetZi's people, the [[lawnark]]s. Starling understands ZeetZi's distrust of Chrysalis, but tells him not to judge Chrysalis for the actions of her species. She thinks he should be more open-minded, and he understands this to an extent. They still often argue about Chrysalis' status as a crewmember.{{book ref|iote|22}} 
+
+ZeetZi and Starling are good friends despite this conflict, and he finds her presence comforting.{{book ref|iote|25}} He trusts her a lot, and considers her to be a good captain.{{book ref|iote|30}}
+
+=== Nazh ===
+{{quote
+|Star, dear. If I still had a stomach, I believe I'd find your optimism nauseating.
+|Nazh to Starling{{book ref|iote|22}}
+}}
+Nazh ([[Nazrilof]]) and Starling are good friends, and have a snarky rapport with one another. Many people are uneasy around [[shade]]s like Nazh, but Starling is perfectly comfortable with him. He finds her perpetual optimism amusing, while she pokes fun at his appearance. Starling likes trying to make him smile, though this is rare.{{book ref|iote|22}} Nazh trusts in Starling as his captain, obeying her over Captain Crow during the mutiny on the ''Dynamic''.{{book ref|iote|25}} He is, however, willing to challenge her when needs be.{{book ref|iote|26}}
+
+Nazh is quite protective of Starling, and would risk losing himself to bloodlust to keep her safe. Starling hates asking this of him, as it requires a lot of self-control for Threnodite shades to overcome their bloodlust. Though she is hesitant to do so, she will still use his abilities as a shade to her advantage, as she understands the necessity.{{book ref|iote|28}} Nazh tries to keep Starling from being self-sacrificing, as he knows she will put her crew above herself. 
+
+Starling values Nazh's advice, and was distraught when he was put in a shade prison by the Scadrians.{{book ref|iote|38}}
+
+=== Chrysalis ===
+Starling doesn't truly trust Chrysalis, but defends her anyway, because she's a part of the crew. Starling worked relentlessly to convince the other crewmembers to be kind to Chrysalis, and was frustrated when Chrysalis continued to upset the others by spying on them.{{book ref|iote|23}} Hoid chose Chrysalis to work as the ship's doctor, and Starling trusts his judgement. Chrysalis is usually stiff and somewhat defensive when speaking to Starling, and rejected most efforts to integrate her with the rest of the crew.{{book ref|iote|28}} 
+
+Starling correctly guessed that Chrysalis was involved in the assassination of the Malwish Prime Minister, though she incorrectly assumed that Chrysalis was the assassin. She confronted Chrysalis with this, but kept the secret, and helped Chrysalis hide from the Scadrians that took over their ship.{{book ref|iote|35}} Starling genuinely does want Chrysalis to be safe, even though she is wary of the Sleepless.{{book ref|iote|38}} She tried to negotiate with Dajer for Chrysalis' life.{{book ref|iote|56}}
+
+Chrysalis was surprised when Starling saved her life. She grew quite emotional as a result of this, and Starling realized that Chrysalis has had a difficult past.{{book ref|iote|60}}
+
+Though she pretends otherwise, Starling finds hordes to be nauseating.{{book ref|iote|23}}{{book ref|iote|epilogue}}  
+{{image|8_escape_plan_web.jpg|The crew of the ''Dynamic''|width=340px|side=left}}
+=== Leonore ===
+Leonore is very loyal to Starling and her crew, and trusts in her captain's judgement. Like ZeetZi, she finds it comforting to have Starling nearby.{{book ref|iote|25}} Leonore is a Malwish deserter, and used to be a pilot in their military. Starling worries a lot about this, and avoids asking Leonore to talk about this time.{{book ref|iote|51}} She also makes sure to avoid Scadrians for Leonore's sake, so that her friend isn't put on trial.{{book ref|iote|35}} Despite Leonore's people developing a fascist empire across the cosmere, Starling does not judge Leonore for being Malwish, or consider the Malwish as a whole to be bad people.{{book ref|iote|42}}
+
+Starling believes that Leonore is an exceptionally skilled pilot, and encourages her when she doubts her ability.{{book ref|iote|26}} Leonore, in turn, believes that Starling is a brilliant captain, and does not mind that Starling could not singlehandedly get them away from the Dakwara's island.{{book ref|iote|epilogue}} 
+
+=== Ed ===
+Starling considers Ed ([[Eddlin]]) to be a bit odd, but a highly valuable member of the crew. She puts great stock in his skill as an [[arcanist]].{{book ref|iote|25}} At times, she finds that he can ramble, but will cut across him to get to the point.{{book ref|iote|30}} Like the rest of the crew, Ed respects Starling and the two have a good relationship. 
+
+=== Aditil ===
+When Aditil was new to the crew, Starling immediately recognized Aditil's homesickness. Because of this, Starling spent a significant amount of money to buy Aditil a ticket to her homeworld, [[Dhatri]]. Starling treated Aditil with care, and invited her to open up about her feelings. She considers Aditil a valuable member of the team, and makes sure Aditil knows this. Aditil is very grateful to Starling because of this.{{book ref|iote|22}}
+
+Aditil trusts Starling, and feels at home with her and the crew. She decided to stay on the ''Dynamic'' for a little longer, and began spending more time with the others because of this.{{book ref|iote|28}} Starling encouraged Aditil to share her ideas with the others, reinforcing that she is an important part of the crew.{{book ref|iote|53}}
+
+Aditil ultimately decided not to return to Dhatri until Starling has been freed from her manacles, something Starling was extremely touched by.{{book ref|iote|epilogue}}
+ 
+== Trivia ==
+*Starling was originally meant to feature in a story set on the [[Kite planet|kite planet]].{{wob ref|16526}}
+
+== Notes ==
+<references />
+{{complete}}
+{{Emberdark}}

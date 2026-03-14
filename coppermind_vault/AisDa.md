@@ -1,3 +1,8 @@
+---
+source_file: AisDa.txt
+entity_type: article
+---
+
 #REDIRECT [[Taldain_system#Celestial_Bodies]]
 [[Category: Locations]]
 [[Category: White Sand]]

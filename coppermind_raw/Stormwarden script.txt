@@ -1,0 +1,24 @@
+{{culture
+|related=[[Stormwarden]]s
+|type=Writing system
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+The '''stormwarden script''' is a [[Roshar]]an writing system used by [[stormwarden]]s, the scholars who predict [[highstorm]]s.{{book ref|sa2|52}}
+
+== Structure ==
+In contrast to [[women's script]], which is an alphabet, the stormwarden script is partly a [[wikipedia:Logogram|logographic system]], and partially a [[wikipedia:syllabary|syllabary]]. [[Glyphs]], representing a single word either alone or in clusters of two or three, are strung together to form complete sentences. They are usually simplified, ignoring the proper calligraphy. For words that do not have a glyph representation, the writer instead uses the glyphs that best transcribe the word when read phonetically -- for example, ''parap'', ''shenesh'' and ''idi'' for [[Parshendi]]. Such phonetic representations are marked by underlining the symbols.{{book ref|sa2|52}}
+
+== Culture ==
+Unlike other branches of scholarship, stormwardens are either mostly or exclusively male.{{book ref|sa1|60}}{{book ref|sa2|52}} As such, in the East of Roshar, the [[Vorin]] tradition forbids them from writing.{{book ref|sa1|8}} However, Vorinism permits men to use glyphs, which is why the stormwardens used them to create their own writing system.{{book ref|sa2|52}}
+
+That the stormwardens utilize glyphs extensively is well-known to the general public, but their phonetic use appears to be kept secret, as to some Vorins, it would change what they're doing from "interpreting" glyphs to "reading" them. This, in turn, would make the script taboo in the eyes of the church.{{book ref|sa2|52}}
+
+While the non-Vorin countries have their own stormwardens, the divisions that forbid men from writing do not apply there.{{book ref|sa3|96}} As such, it can be assumed that the script isn't used there, or at least isn't used as extensively.
+
+== Notes ==
+<references />
+{{complete}}
+{{Stormlight}}
+[[Category: Literature]]

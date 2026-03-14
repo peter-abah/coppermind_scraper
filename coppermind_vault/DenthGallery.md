@@ -1,3 +1,8 @@
+---
+source_file: DenthGallery.txt
+entity_type: article
+---
+
 ## Gallery
 <gallery mode="packed" heights=300px caption="Gallery">
 Denth by ShiroXIX.png| <small><center>by {{a|ShiroXIX}}</center></small>

@@ -1,0 +1,20 @@
+{{Literature
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+'''''Seld''''' is a series of books on [[Roshar]] with at least fourteen volumes. It was among the many literary works that [[Jasnah Kholin]] consulted during her research of the [[Voidbringer]]s and [[Unmade]]. ''Seld'''s authorship is unknown, but it wasn't written in [[Alethi]]; one of the people who translated it was [[Gashash-son-Navammis]], who was considered a trustworthy source by Jasnah. The single known quote, however, was questioned by Jasnah, and she was considering translating it herself.{{epigraph ref|sa1|38}}
+
+== Story ==
+It is unknown what these books are about specifically, they do however reference the [[Voidbringers]] in some way.{{epigraph ref|sa1|38}}
+
+== Quotes ==
+{{quote
+|Born from the darkness, they bear its taint still, marked upon their bodies much as the fire marks their souls.
+|I consider Gashash-son-Navammis a trustworthy source, though I'm not certain about this translation. Find the original quote in the fourteenth book of ''Seld'' and retranslate it myself, perhaps?{{epigraph ref|sa1|38}}
+}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:17, 11 September 2018 (MST)}}
+{{Stormlight}}

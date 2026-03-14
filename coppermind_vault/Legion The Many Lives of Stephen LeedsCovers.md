@@ -1,4 +1,7 @@
-{{CoverToC|legion}}
+---
+source_file: Legion The Many Lives of Stephen LeedsCovers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[Legion: The Many Lives of Stephen Leeds]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

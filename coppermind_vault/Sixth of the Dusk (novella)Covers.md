@@ -1,5 +1,9 @@
-This is a gallery for the only known covers for *[[Sixth of the Dusk (novella)|Sixth of the Dusk]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page.  As *Sixth of the Dusk* was also included in the *[[Arcanum Unbounded]]* anthology, you can see [[Arcanum Unbounded/Covers|here]] for more covers.
+---
+source_file: Sixth of the Dusk (novella)Covers.txt
+entity_type: article
+---
 
+This is a gallery for the only known covers for *[[Sixth of the Dusk (novella)|Sixth of the Dusk]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page.  As *Sixth of the Dusk* was also included in the *[[Arcanum Unbounded]]* anthology, you can see [[Arcanum Unbounded/Covers|here]] for more covers.
 
 <gallery widths=3000px heights=400px mode="packed">
 Sixth of the Dusk.jpg | <center>United States</center> (Dragonsteel)

@@ -1,20 +1,17 @@
 ---
-groups: "{{tag|Bridge Four"
+source_file: Treff.txt
+entity_type: character
+groups: Bridge Four, army
+died: (bridge run)
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
 ---
 
-, {{tag+|army|Sadeas}}
-|profession={{cat tag|Bridgemen|Bridgeman}}
-|died={{Rosharan date|1173|missing-date=y}} (bridge run){{book ref|sa1|40}}
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-**Treff** is a member of [[Bridge Four]] on [[Roshar]].{{book ref|sa1|40}}
+**Treff** is a member of [[Bridge Four]] on [[Roshar]].
 
 ## History
-After [[Kaladin]] was left out in a [[highstorm]] to be judged by the [[Stormfather]], he was unconscious for ten days. During that time, [[Bridge Four]] went on two bridge runs; they did not suffer any major injuries, but Treff and [[Idolir]] were killed.{{book ref|sa1|40}} [[Moash]] told Kaladin that the other members of Bridge Four did not know how to help them, implying that they may have survived with proper first aid. As a result, Kaladin resolved to train some of the other men in field medicine.{{book ref|sa1|40}}
+After [[Kaladin]] was left out in a [[highstorm]] to be judged by the [[Stormfather]], he was unconscious for ten days. During that time, [[Bridge Four]] went on two bridge runs; they did not suffer any major injuries, but Treff and [[Idolir]] were killed. [[Moash]] told Kaladin that the other members of Bridge Four did not know how to help them, implying that they may have survived with proper first aid. As a result, Kaladin resolved to train some of the other men in field medicine.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 01:52, 4 July 2016 (MST)}}
-{{Stormlight}}

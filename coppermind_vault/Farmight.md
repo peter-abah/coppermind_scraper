@@ -1,12 +1,10 @@
 ---
-type: "{{cat tag|Spacecraft|Spacecraft"
+source_file: Farmight.txt
+entity_type: item
+books: '[[Firstborn]]'
 ---
 
-|books=[[Firstborn]]
-}}
-***Farmight*** is a minor command ship with [[Lord Haltep]] as its captain.{{book ref|Firstborn}}
+***Farmight*** is a minor command ship with [[Lord Haltep]] as its captain.
 
 ## Notes
 <references />
-{{stub}}
-{{Firstborn}}

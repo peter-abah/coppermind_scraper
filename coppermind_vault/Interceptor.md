@@ -1,22 +1,18 @@
 ---
-type: "{{cat tag|Spacecraft"
+source_file: Interceptor.txt
+entity_type: item
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
 ---
 
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-{{merge|[[Starfighter]]}}
-{{update|sky2}}
-**Interceptor's** are a group of starfighter types that are intended for quick movements and assessments in battle. They are fast and easily maneuverable.{{book ref|sky2|14}}
+**Interceptor's** are a group of starfighter types that are intended for quick movements and assessments in battle. They are fast and easily maneuverable.
 
 Interceptor ships include:
-*[[M-Bot]]{{book ref|sky2|14}}
-*[[Poco]]{{book ref|sky1|2}}
-*[[Superiority]] drones used by the [[varvax|Krell]] against the [[DDF]]{{book ref|sky1|32}}{{book ref|sky1|44}}{{book ref|sky1|55}}
-*Some manned Superiority ships{{book ref|sky2|21}}
+*[[M-Bot]]
+*[[Poco]]
+*[[Superiority]] drones used by the [[varvax|Krell]] against the [[DDF]]
+*Some manned Superiority ships
 
 ## Notes
 <references /><!-- 
 -->
-{{stub}}
-{{Skyward}}

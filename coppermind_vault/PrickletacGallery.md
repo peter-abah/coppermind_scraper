@@ -1,3 +1,8 @@
+---
+source_file: PrickletacGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=500px caption="Official artwork">
 Rockbuds.jpg| <small><center>Official artwork by {{a|Ben McSweeney}}</center></small>page from [[Shallan's sketchbook]]

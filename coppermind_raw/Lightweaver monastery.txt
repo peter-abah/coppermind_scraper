@@ -1,0 +1,28 @@
+{{architecture
+|usage=Worship of [[Shalash|Shush]], custody of the [[Order of Lightweavers|Lightweaver]] [[Honorblade]]
+|region=Shinovar
+|world=Roshar
+|universe=[[Cosmere]]
+|books=[[The Stormlight Archive]]
+}}
+{{update|sa5}}
+
+The '''Lightweaver monastery''' is a [[Monastery of Truth]] dedicated to the [[Herald]] [[Shalash|Shush]] and associated with the [[Order of Lightweavers]]. It is located in the west of [[Shinovar]].{{file ref|Map_of_Shin_Monasteries.jpg}}
+
+== Location ==
+The Lightweaver monastery is located in the west of Shinovar, near the western mountains, cut into the rock of a ravine. {{file ref|Map_of_Shin_Monasteries.jpg}}{{Book ref|sa5|70}}
+
+== Structure ==
+The Lightweaver monastery, unlike most of the other monasteries, has only a few homes for its keepers, as opposed to a city or garrison that normally surrounds the monasteries.{{book ref|sa5|70}} Outside of the monastery is a stone porch.{{Book ref|sa5|72}} The inside of the grand hall is darker than the other monasteries, lit only by a skylight in the ceiling three stories up.{{Book ref|sa5|70}} Like in the other monasteries, there is a mural on the floor of the grand hall depicting its patron Herald, Shush.{{book ref|sa5|71}}
+
+== History ==
+[[Moss-son-Farrier]] became the resident [[Honorbearer]] ca. {{Rosharan date|1162}}, four years before [[Szeth]] became the [[Windrunner]] Honorbearer.{{book ref|sa5|83}}
+
+During Szeth’s quest to [[Cleansing of Shinovar|cleanse Shinovar]] in 1175, he arrived at the monastery shortly after [[Nin]] joined him.{{book ref|sa5|70}} Moss hid himself in the ranks of thirty slightly varied illusory versions of Shush, which was the only way he would be able to beat Szeth. Moss said that the goal was for Szeth to choose the version who was "perfect," striking through the eye with his [[Shardblade|Blade]]. Szeth initially chose one version that had the most rare traits, then realized that it was too obvious of a choice. After thinking a bit, Szeth spotted a mural of Shush on the floor, realized it was Moss, and stabbed him. Upon killing Moss, the illusions of Shush disappeared, revealing acolytes beneath. Szeth thought this was quite brutal, as he could have killed the acolytes. He then retrieved the Lightweaver Blade.{{Book ref|sa5|71}}
+
+After this, as all the freed acolytes were milling around, [[Sylphrena|Syl]] realized that Moss had said one of the acolytes was deadly.{{book ref|sa5|72}}{{book ref|sa5|70}} She quickly grabbed on to [[Kaladin]] and told him that one of the acolytes was about to try to kill Szeth. Kaladin reacted quickly, summoning Syl as a spear and striking down the [[Truthwatcher]] Honorbearer, who was coming up on Szeth from behind. Nin claimed that Kaladin's interference was cheating and thus invalidated the rules of pilgrimage. Szeth argued, saying that [[Pozen-son-Nash|Pozen]] had told him that there were no rules for the pilgrimage. Nin admitted his mistake and informed Szeth that the three of them would visit the [[Truthwatcher monastery]] as a formality, then continue to the final three.{{book ref|sa5|72}}
+
+== Notes ==
+<references />
+{{complete}}
+{{Stormlight}}

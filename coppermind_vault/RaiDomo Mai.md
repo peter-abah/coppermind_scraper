@@ -1,15 +1,16 @@
-{{food
-|ingredients=Meat, vegetables (notably [[RaiDel]] peppers)
-|origin=JinDo
-|world=Sel
-|universe=[[Cosmere]]
-|books=[[Elantris (book)|Elantris]]
-}}
-**RaiDomo Mai** is a [[JinDo]] dish on [[Sel]],{{book ref|Elantris|47}} whose name means "meat with fiery skin."
+---
+source_file: RaiDomo Mai.txt
+entity_type: food
+ingredients: Meat, vegetables (notably [[RaiDel]] peppers)
+origin: JinDo
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[Elantris (book)|Elantris]]'
+---
+
+**RaiDomo Mai** is a [[JinDo]] dish on [[Sel]], whose name means "meat with fiery skin."
 
 It is made with meat and vegetables, including [[RaiDel]] peppers, boiled in a red sauce.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 16:36, 5 June 2017 (MST)}}
-{{Elantris}}

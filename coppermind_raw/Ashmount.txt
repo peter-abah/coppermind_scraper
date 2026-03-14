@@ -1,0 +1,2 @@
+#REDIRECT [[Ashmounts]]
+[[category: locations]]

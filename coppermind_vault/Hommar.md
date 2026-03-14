@@ -1,10 +1,11 @@
-{{lifeform
-|universe=[[Cytoverse]]
-|books=[[Defending Elysium]]
-}}
-The **Hommar** are a race of aliens in the [[Cytoverse]]. Like other aliens, they are a peaceful society technologically inferior to humans.{{book ref|defending elysium}}
+---
+source_file: Hommar.txt
+entity_type: lifeform
+universe: '[[Cytoverse]]'
+books: '[[Defending Elysium]]'
+---
+
+The **Hommar** are a race of aliens in the [[Cytoverse]]. Like other aliens, they are a peaceful society technologically inferior to humans.
 
 ## Notes
 <References />
-{{complete|[[User:Thegatorgirl00|Thegatorgirl00]] ([[User talk:Thegatorgirl00|talk]]) 20:10, 10 June 2019 (MST)}}
-{{skyward|de}}

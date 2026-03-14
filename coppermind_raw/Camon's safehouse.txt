@@ -1,0 +1,1 @@
+#REDIRECT [[Camon's safe house]]

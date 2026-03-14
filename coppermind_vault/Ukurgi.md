@@ -1,16 +1,17 @@
 ---
-nation: "Rose Empire"
-world: "Sel"
-universe: "Cosmere"
-books: "The Emperor's Soul"
+source_file: Ukurgi.txt
+entity_type: location
+nation: Rose Empire
+world: Sel
+universe: '[[Cosmere]]'
+books: '[[The Emperor''s Soul]]'
 ---
 
-**Ukurgi** is a province of the [[Rose Empire]] on [[Sel]].{{tes ref|12}}
+**Ukurgi** is a province of the [[Rose Empire]] on [[Sel]].
 
-Its provincial flag is mostly green. Emperor [[Ashravan]] was born there.{{tes ref|12}} The color green of the flag is one of the possible reasons Ashravan's favorite color is green.
+Its provincial flag is mostly green. Emperor [[Ashravan]] was born there. The color green of the flag is one of the possible reasons Ashravan's favorite color is green.
 
 ## Notes
 <references />
-{{complete|[[User:Windrunner|Windrunner]] ([[User talk:Windrunner|talk]]) 11:51, 29 May 2016 (MST)}}
-{{The Emperor's Soul}}
+
 [[es:Ukurgi]]

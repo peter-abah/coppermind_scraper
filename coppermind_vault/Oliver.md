@@ -1,9 +1,11 @@
-{{aspect}}
-**Oliver** is one of [[Stephen Leeds]]'s [[aspect]]s.{{book ref|legion3|3}}
+---
+source_file: Oliver.txt
+entity_type: aspect
+---
 
-Oliver allowed Stephen to hold his stuffed [[Wikipedia:Corgi|corgi]] to comfort him after [[Armando]]'s death and Stephen held on to it for a long time.{{book ref|legion3|3}}
+**Oliver** is one of [[Stephen Leeds]]'s [[aspect]]s.
+
+Oliver allowed Stephen to hold his stuffed [[Wikipedia:Corgi|corgi]] to comfort him after [[Armando]]'s death and Stephen held on to it for a long time.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 03:41, 26 July 2020 (UTC)}}
-{{Legion}}

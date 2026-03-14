@@ -1,17 +1,17 @@
 ---
-species: "Singer"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Rhythm of War"
+source_file: Durnash.txt
+entity_type: character
+species: Singer
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Rhythm of War]]'
 ---
 
-**Durnash** is a [[singer]] on [[Roshar]] during the [[True Desolation]].{{book ref|sa4|1}}
+**Durnash** is a [[singer]] on [[Roshar]] during the [[True Desolation]].
 
-He is tall, and his skin is marbled red and black.{{book ref|sa4|1}}
+He is tall, and his skin is marbled red and black.
 
-He helped govern the humans during the singer occupation of [[Hearthstone]] in {{rosharan date|1175}}. He presumably served as a guard, as he watched over the humans while armed with a sword. On the day that [[Dieno enne Calah]] came to Hearthstone, Durnash walked by [[Lirin]] while the surgeon was inspecting refugees from [[Herdaz]].{{book ref|sa4|1}}
+He helped govern the humans during the singer occupation of [[Hearthstone]] in . He presumably served as a guard, as he watched over the humans while armed with a sword. On the day that [[Dieno enne Calah]] came to Hearthstone, Durnash walked by [[Lirin]] while the surgeon was inspecting refugees from [[Herdaz]].
 
 ## Notes
 <references />
-{{complete|[[User:Big Smooth|Big Smooth]] ([[User talk:Big Smooth|talk]]) 02:56, 18 July 2021 (UTC)}}
-{{stormlight}}

@@ -1,3 +1,8 @@
+---
+source_file: BattarGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Herald Glyph Betab.svg | <center><small>by {{a|Isaac Stewart}}</small></center> Battar's [[glyph]]

@@ -1,0 +1,10 @@
+{{location
+|universe=[[Cytoverse]]
+|books=[[Skyward (series)]]
+}}
+'''Ooklar''' is a planet in the [[Superiority]].{{book ref|sky4|17}} When the allied forces of [[Detritus]], [[ReDawn (planet)|ReDawn]], and [[Evershore (planet)|Evershore]] cut off the Superiority's access to [[acclivity stone]], [[Ohz Burtim Winzik|Winzik]] withdraws security forces from Ooklar to join a fleet to crush them.{{book ref|sky4|17}}
+
+== Notes ==
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 20:09, 14 October 2024 (UTC)}}
+{{Skyward}}

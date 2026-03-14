@@ -1,15 +1,14 @@
 ---
-profession: "Guard"
-ethnicity: "Eelakin"
-world: "First of the Sun"
-universe: "Cosmere"
-introduced: "Isles of the Emberdark"
+source_file: Second of the Fist.txt
+entity_type: character
+profession: Guard
+ethnicity: Eelakin
+world: First of the Sun
+universe: '[[Cosmere]]'
+introduced: '[[Isles of the Emberdark]]'
 ---
 
-{{spoilers|iote}}
-**Second of the Fist** is the head guard of the [[Eelakin]] outpost on the [[Cognitive Realm]] side of [[Patji's Eye]] in [[First of the Sun]]'s [[Cognitive Realm#Subastral|subastral]].{{book ref|iote|17}}
+**Second of the Fist** is the head guard of the [[Eelakin]] outpost on the [[Cognitive Realm]] side of [[Patji's Eye]] in [[First of the Sun]]'s [[Cognitive Realm#Subastral|subastral]].
 
 ## Notes
 <references />
-{{complete}}
-{{Emberdark}}

@@ -1,0 +1,131 @@
+{{culture
+|type={{cat tag|language|Dialect}}
+|related=[[Spook]]
+|era=Post-Catacendre
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn (series)]]
+}}{{update|book=mb5}}
+'''High Imperial''', known before the [[Final Ascension]] of Harmony as Eastern street slang, is a dialect on Scadrial used by [[Spook]] and his childhood friends.{{book ref|mb3|23}} After the ascension of Harmony, High Imperial turned into a scholarly, formal language that was rarely used outside of important legal documents.{{book ref|mb4|14}}
+
+{{quote
+| One thing about High Imperial, or Eastern Street Slang, is that it was devised by those who spoke it in order to be intentionally obtuse. So it was hard for people to understand. And so there are a lot of nonsense words thrown in the middle. But, it's also got reversed grammar. 'Wasing the wanting of doing the thing' is 'I wanted to do that.' But you can also throw random words in there. As long as those parts are in there, it'll make sense to those they're speaking to. 'I wanted to do this. Wasing the wanting of doing the thing.' You're putting everything into a gerund. You're starting with the verb and the tense. And you're turning everything into ridiculously bad gerunds. That's it in brief.
+| Brandon Sanderson on making sense of High Imperial{{wob ref|9920}}
+}}
+
+== Quotes ==
+{{quote
+| Wasing the where of needing
+| The message left on the [[aluminum]] pistol{{book ref|mb4|14}}
+}}
+
+{{quote
+|Wasing the always of wanting of knowing.
+|The words etched on the gates of Elendel University{{book ref|mb5|5}}
+}}
+
+{{quote
+| Ups in the where above with the doing.
+| [[Vin]] meets [[Spook]]{{book ref|mb1|6}}
+}}
+
+{{quote
+| Not of the yetting yet.<br />Wasing the place when I was young.
+| Spook's name is Lestibournes and he speaks in Eastern slang{{book ref|mb1|6}}
+}}
+
+{{quote
+| Someone's coming! Out the night with the calling!
+| On [[Sazed]]'s arrival with Vin{{book ref|mb1|15}}
+}}
+
+{{quote
+| You're awaking!<br />Notting as the now. [[Kelsier]] wasing the hit with my name; changed it to Spook.
+| {{book ref|mb1|16}}
+}}
+
+{{quote
+| Wasing the Dox to come and be without the stay.<br />Weapons for the getting, giving the time to be.
+| [[Dockson]] arrives with the weapons for the rebellion{{book ref|mb1|22}}
+}}
+
+{{quote
+| Niceing the not on the playing without.<br>
+Losing the stress on the nip. Notting without the needing of care. - Kelsier<br>
+Riding the rile of the rids to the right.<br>
+Wasing the was of brightness. Nip the having of wishing of this.<br>
+Ever wasing the doing of this. - Kelsier<br>
+Ever wasing the wish of having the have. Brighting the wish of wasing the not. - Ham<br>
+Wasing not of wasing is.
+| {{book ref|mb1|24}} conversation between [[Spook]], [[Kelsier]], [[Dockson]] and [[Ham]]
+}}
+
+{{quote
+| I'm not of the seeing. Uncle, you really the burn, right?
+| {{book ref|mb1|26}}
+}}
+
+{{quote
+| Keep Hasting. Elariel soldiers with the attacking tonight.//Wasing the want of this.//Wasing the Snap when I was five.
+| {{book ref|mb1|32}}
+}}
+
+{{quote
+| Wasing the where of calling out.
+| {{book ref|mb2|6}}
+}}
+
+{{quote
+|Wasing the where of what? // Lestibournes. Lefting I'm born. I've been abandoned
+| Spook {{book ref|mb3|23}}
+}}
+
+{{quote|Wasing." Was doing.<br>
+" 'Wasing the run of there' would mean 'I was running to that place.' "<br>
+"Wasing the how of wanting the doing." Beldre (reading Spook's writing)<br>
+"Wasing the how of wanting the doing.<br>
+But that's the best part, [[Beldre]] said. "It's gibberish on purpose, right?"<br>
+Spook remembered with fondness how his parents had responded to his adoption of the slang. It had been a kind of power, being able to say things that only his friends could understand. Of course, he'd started speaking in it so much that it had been hard to switch back.
+| Conversation between Beldre and Spook {{book ref|mb3|56}}
+}}
+
+== How To Speak ==
+{{theory}}
+* The '''pronoun''' is assumed to be you unless contradicted.
+** Using your name is redundant.
+** If you must refer to the subject do so at '''the end'''.
+
+* Use '''nicknames for people'''; the language is based off moving the structure of a sentence into as many ''confusing manners'' as possible. In fact, using a '''nickname of a nickname''' is best. For example, Spook uses the nickname Nip to refer to Breeze, which is in itself a nickname.
+
+* ''Adjectives'' come '''first''', Then ''verbs'', even if you form them as nouns
+** In general, '''verbs should be gerunds''', meaning they should end with ''-ing'', even if that's not normally correct.
+** The only exception is if the verb can't become a gerund without losing the needed meaning.
+
+* Form sentences ''(Tense-Adjective) (Verb-Gerund) Noun''
+** The longer the sentence is it becomes '''symmetrical'''.
+** Remember it '''TAV-GuN; Nug VAT''' Those in parenthesis (see above) ''can be swapped'' around with each other.
+*** I don't know where the "u" came from; this is how a friend explained it to me.
+
+* It's better to use '''longer sentences'''; the shorter ones can give more '''clarity, which we are trying to avoid. Throw as many "wasings" and "hasings" in as possible, even if they are not necessary to divert from the actual point'''
+
+* '''Don't use possessives''' unless they are formed as ''adjectives''.
+** To refer to a subject say '''"of <subject name>"'''.
+
+* Many phrases begin with '''Wasing''' or '''Ising'''.
+** '''Ising (in the) now''' is incorrect, don't pair them. This ''changes'' the tense.
+*** If you must change the tense, you'll have to cycle again, or you risk adding too much clarity to what you say.
+** Don't neglect '''Notting, Nowing, Nearing, Having, Kind, Good, You, He, Wanting''' and other words as they work well too.
+
+*Remember that you'll learn to understand it before you speak it near as well.
+
+Reference Mistborn: The Final Empire for Lestibournes's parts.
+Guide dictated by Lady Amdin, written by Sir Kit
+
+== Trivia ==
+* The dialect's grammatical rules are intentionally vague.{{wob ref|14727}}
+* High Imperial was inspired by a person Brandon knew from the [[Timewasters Guide]] forums, who sometimes posted random gibberish that, upon close inspection, turned out to be rather poetic.{{wob ref|2378}}
+
+== Notes ==
+<references />
+{{partial}}
+{{Mistborn|era 2}}

@@ -1,22 +1,21 @@
-{{media
-|image=Call to Adventure cover.jpg
-|released=May 25, 2020 (pre-orders)
-|'publisher=[https://www.brotherwisegames.com Brotherwise Games]
-|setting=[[Cosmere]], [[Roshar]]
-}}
+---
+source_file: Call to Adventure The Stormlight Archive.txt
+entity_type: media
+image: Call to Adventure cover.jpg
+released: May 25, 2020 (pre-orders)
+'''publisher': '[https://www.brotherwisegames.com Brotherwise Games]'
+setting: '[[Cosmere]], [[Roshar]]'
+---
 
-{{quote
-|Call to Adventure is a tabletop game in which players compete to craft the hero with the greatest destiny. Play cards to build your character, cast runes to face challenges, and choose whether to follow a path of heroism or villainy. The core game mode is a 2-4 player competitive game, but Call to Adventure can also be played solo or cooperatively!
-|Brotherwise Games{{ref|name=bwg}}
-}}
+> Call to Adventure is a tabletop game in which players compete to craft the hero with the greatest destiny. Play cards to build your character, cast runes to face challenges, and choose whether to follow a path of heroism or villainy. The core game mode is a 2-4 player competitive game, but Call to Adventure can also be played solo or cooperatively!
+> — Brotherwise Games
 
-***Call to Adventure: The Stormlight Archive*** is a standalone tabletop game (formerly an expansion) compatible with the *Call to Adventure* tabletop board game by Brotherwise Games.{{ref|name=bwg}} In it, players take roles of [[Knights Radiant]] and acquire traits, gain allies, face challenges, and build the character that best fulfills their destiny.{{bws ref|https://brandonsanderson.com/call-to-adventure-stormlight/|Call to Adventure: The Stormlight Archive|date=Aug 3, 2018}} The game was released for pre-order on May 25, 2020, with a full release planned for Autumn the same year. 
+***Call to Adventure: The Stormlight Archive*** is a standalone tabletop game (formerly an expansion) compatible with the *Call to Adventure* tabletop board game by Brotherwise Games. In it, players take roles of [[Knights Radiant]] and acquire traits, gain allies, face challenges, and build the character that best fulfills their destiny. The game was released for pre-order on May 25, 2020, with a full release planned for Autumn the same year. 
 
 <br style="clear:right;">
 ## Artists
 For the cards, Brotherwise commissioned a number of artists, among them many prolific fanartists:
 
-{{columns|count=3|
 * {{a|Petar Penev}}
 * {{a|Ari Ibarra}}
 * {{a|Randy Vargas}}
@@ -39,7 +38,6 @@ For the cards, Brotherwise commissioned a number of artists, among them many pro
 * [https://davidastruga.com David Astruga]
 * [https://loganfeliciano.artstation.com Logan Feliciano]
 * [https://www.behance.net/gilyoona Justyna Gil]
-}}
 
 ## Gallery
 Some of the card artwork from the game has been released publicly.
@@ -118,10 +116,8 @@ The Stick of Resolve by Ari Ibarra.jpg | <center><small>by {{a|Ari Ibarra}}</sma
 
 ## Notes
 <references>
-{{url ref|name=bwg|url=https://www.brotherwisegames.com/about-call-to-adventure|text=Call to Adventure|site=Brotherwise Games}}
+
 </references>
-{{meta/partial}}
-{{Stormlight}}
 
 [[Category: Media]]
 [[Category: Meta]]

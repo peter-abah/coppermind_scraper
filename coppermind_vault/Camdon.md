@@ -1,15 +1,15 @@
-{{vehicle
-|type={{cat tag|Spacecraft}}, {{cat tag|DDF Ships}}
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-A **Camdon** is a type of [[starfighter]] used by the [[DDF]] on [[Detritus]].{{book ref|sky1|41}}
+---
+source_file: Camdon.txt
+entity_type: vehicle
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
 
-At least one Camdon-class fighter was used during a battle with the [[Varvax|Krell]] while [[Skyward Flight]] was learning about scouting with [[Blaze]].{{book ref|sky1|41}} [[Jorgen]] overheard the radio chatter during the dogfight, and the Krell seemed to specifically target the flight squad that included the Camdon; he did not speculate as to why this would be the case.{{book ref|sky1|41}} Only a few of the squad returned to [[Alta Base]], and several of the ships were heavily damaged.{{book ref|sky1|41}} 
+A **Camdon** is a type of [[starfighter]] used by the [[DDF]] on [[Detritus]].
+
+At least one Camdon-class fighter was used during a battle with the [[Varvax|Krell]] while [[Skyward Flight]] was learning about scouting with [[Blaze]]. [[Jorgen]] overheard the radio chatter during the dogfight, and the Krell seemed to specifically target the flight squad that included the Camdon; he did not speculate as to why this would be the case. Only a few of the squad returned to [[Alta Base]], and several of the ships were heavily damaged. 
 
 ## Notes
 <references /><!-- 
 -->
-{{complete|[[User:LadyLameness|LadyLameness]] ([[User talk:LadyLameness|talk]]) 04:55, 5 July 2019 (MST)}}
-{{Skyward}}

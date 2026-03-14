@@ -1,0 +1,14 @@
+{{character
+|groups={{tag+|army|Venture}}
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+'''Jaston''' is a guard in [[Luthadel]] during the [[Final Empire]].{{book ref|mb3|52}}
+
+He and [[Skiff]] were scheduled to relieve [[Rittle]] and [[Wellen]] the night that [[TenSoon]] acted as [[Kelsier]].{{book ref|mb3|52}}
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 15:37, 25 December 2016 (MST)}}
+{{Mistborn|Era 1}}

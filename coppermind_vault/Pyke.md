@@ -1,13 +1,12 @@
 ---
-abilities: "{{tag+|dark one"
+source_file: Pyke.txt
+entity_type: character
+abilities: dark one
+world: Mirandus
+books: '[[Dark One (franchise)|Dark One]]'
 ---
 
-|world=Mirandus
-|books=[[Dark One (franchise)|Dark One]]
-}}
-**Pyke** is a previous [[Dark One (title)|Dark One]] on [[Mirandus]]. It is unclear when Pyke rose as Dark One, whether they rose closer to [[Karkun]]'s time, or [[Paul Tanasin]]'s.{{book ref|do1|3}}
+**Pyke** is a previous [[Dark One (title)|Dark One]] on [[Mirandus]]. It is unclear when Pyke rose as Dark One, whether they rose closer to [[Karkun]]'s time, or [[Paul Tanasin]]'s.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 07:33, 1 July 2020 (UTC)}}
-{{Dark One}}

@@ -1,16 +1,17 @@
 ---
-ethnicity: "Noble"
-world: "Scadrial"
-universe: "Cosmere"
-books: "Mistborn Era 1"
+source_file: Tegas.txt
+entity_type: character
+ethnicity: Noble
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
 ---
 
-Lord **Tegas** was a noble in [[Luthadel]] on [[Scadrial]].{{book ref|mb1|28}}
+Lord **Tegas** was a noble in [[Luthadel]] on [[Scadrial]].
 
-Lord [[Straff Venture]] wished to create an alliance with House Tegas against [[House Hasting]] in case there was a house war, so he wished [[Elend Venture]] to dine with Lord Tegas' daughter, possibly as the start of a courtship or betrothal.{{book ref|mb1|28}}
+Lord [[Straff Venture]] wished to create an alliance with House Tegas against [[House Hasting]] in case there was a house war, so he wished [[Elend Venture]] to dine with Lord Tegas' daughter, possibly as the start of a courtship or betrothal.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 11:05, 11 September 2018 (MST)}}
-{{Mistborn|Era 1}}
+
 [[Category: Family names]]

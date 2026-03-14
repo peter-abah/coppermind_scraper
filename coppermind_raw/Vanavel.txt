@@ -1,0 +1,14 @@
+{{lifeform
+|type=Flower
+|world=Nalthis
+|universe=[[Cosmere]]
+|books=[[Warbreaker]]
+}}
+The '''vanavel''' is a plant native to [[Idris]] on [[Nalthis]].{{book ref|wb|1}}
+
+It has a colorful flower, with varieties blue or yellow in color. Both the flower and root are used for cooking.
+
+== Notes ==
+<references />
+{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 00:18, 28 February 2019 (MST)}}
+{{Warbreaker}}

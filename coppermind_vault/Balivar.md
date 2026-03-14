@@ -1,16 +1,15 @@
 ---
-titles: "Battalionlord"
-#profession: "soldier"
-nation: "Alethkar"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Wind and Truth"
+source_file: Balivar.txt
+entity_type: character
+titles: Battalionlord
+'#profession': soldier
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-{{update|sa5}}
-**Balivar** is an [[Alethi]] battalionlord on [[Roshar]].{{book ref|sa5|47}}
+**Balivar** is an [[Alethi]] battalionlord on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{stormlight}}

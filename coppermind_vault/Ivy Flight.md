@@ -1,19 +1,18 @@
-{{group
-|type={{cat tag|DDF Flights|DDF flight}}
-|hq= [[Alta Base]] (formerly), [[Platform Prime]]
-|world=Detritus
-|universe=[[Cytoverse]]
-|books=[[Skyward (series)]]
-}}
-**Ivy Flight** is part of the [[DDF]].{{book ref|sky1|48}}
+---
+source_file: Ivy Flight.txt
+entity_type: group
+hq: '[[Alta Base]] (formerly), [[Platform Prime]]'
+world: Detritus
+universe: '[[Cytoverse]]'
+books: '[[Skyward (series)]]'
+---
+
+**Ivy Flight** is part of the [[DDF]].
 
 ## History
-The flight participated in the [[Second Battle of Alta]], and was the eleventh flight to join the group sent to defend the shipyard.{{book ref|sky1|48}} When the [[Superiority]] sent their battleship forward to begin bombarding [[Detritus]], Ivy Flight was one of the flights sent up to fight off the [[KRELL|Krell]] so that [[FM]] could disable the cannon. When the Engineering Corps got the planetary shield up, two members of Ivy Flight were left stuck outside the shield, and met up with [[Jorgen]] and several other ships so that Jorgen could use the [[taynix]] to teleport them inside Detritus’ shield.{{book ref|sf1|12}} The other surviving members of the flight presumably retreated back to [[Platform Prime]] on [[Matthew Cobb|Cobb’s]] orders.{{book ref|sf1|11}}
+The flight participated in the [[Second Battle of Alta]], and was the eleventh flight to join the group sent to defend the shipyard. When the [[Superiority]] sent their battleship forward to begin bombarding [[Detritus]], Ivy Flight was one of the flights sent up to fight off the [[KRELL|Krell]] so that [[FM]] could disable the cannon. When the Engineering Corps got the planetary shield up, two members of Ivy Flight were left stuck outside the shield, and met up with [[Jorgen]] and several other ships so that Jorgen could use the [[taynix]] to teleport them inside Detritus’ shield. The other surviving members of the flight presumably retreated back to [[Platform Prime]] on [[Matthew Cobb|Cobb’s]] orders.
 
-When [[Superiority]] forces attacked the planet [[Evershore (planet)|Evershore]], Ivy Flight was one of the flights called into action to protect the planet, alongside [[Stardragon Flight]] and [[Victory Flight]]. Ivy Flight had a few taynix, and used them to hyperjump to Evershore. Ivy Flight and Stardragon Flight were assigned by Jorgen to protect the city of [[Dreamspring]], intercepting enemy fighters before they got within firing range of the city. At least one member of the flight was shot down during the ensuing fight, when a Superiority [[cytonics|cytonic]] used mindblades during combat.{{book ref|sf3|14}}
-
+When [[Superiority]] forces attacked the planet [[Evershore (planet)|Evershore]], Ivy Flight was one of the flights called into action to protect the planet, alongside [[Stardragon Flight]] and [[Victory Flight]]. Ivy Flight had a few taynix, and used them to hyperjump to Evershore. Ivy Flight and Stardragon Flight were assigned by Jorgen to protect the city of [[Dreamspring]], intercepting enemy fighters before they got within firing range of the city. At least one member of the flight was shot down during the ensuing fight, when a Superiority [[cytonics|cytonic]] used mindblades during combat.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 03:20, 22 May 2022 (UTC)}}
-{{Skyward}}

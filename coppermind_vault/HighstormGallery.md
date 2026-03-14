@@ -1,3 +1,8 @@
+---
+source_file: HighstormGallery.txt
+entity_type: article
+---
+
 ## Official Artwork
 <gallery mode="packed" heights=250px>
 TWoK US Cover art.jpg| <small><center>by {{a|Michael Whelan}}</center></small> *[[The Way of Kings]]* cover

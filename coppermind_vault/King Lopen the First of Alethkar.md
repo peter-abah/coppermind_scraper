@@ -1,15 +1,17 @@
-{{book
-|series=[[The Stormlight Archive]]
-|collaborators=[[Isaac Stewart]]
-|prequel=The Way of Kings
-|sequel=Oathbringer
-|released=December 4, 2025 (print), December 5, 2024 (Story Deck)
-|'publisher=[[Dragonsteel Entertainment]]
-|setting=[[Roshar]], [[Cosmere]]
-|page-count=67
-}}
+---
+source_file: King Lopen the First of Alethkar.txt
+entity_type: book
+series: '[[The Stormlight Archive]]'
+collaborators: '[[Isaac Stewart]]'
+prequel: The Way of Kings
+sequel: Oathbringer
+released: December 4, 2025 (print), December 5, 2024 (Story Deck)
+'''publisher': '[[Dragonsteel Entertainment]]'
+setting: '[[Roshar]], [[Cosmere]]'
+page-count: '67'
+---
 
-***King Lopen the First of Alethkar*** is a short story featuring [[Elhokar]] and [[Lopen]], co-written by [[Brandon Sanderson]] and [[Isaac Stewart]].{{url ref|url=https://www.dragonsteelbooks.com/collections/all/products/storydeck-box|text=StoryDeck Box|site=dragonsteelbooks.com|name=StoryDeck Box}}{{wob ref|1703}} Part of [[The Stormlight Archive]] series, it is set during *[[Words of Radiance]]*. The story was released on December 5th, 2024 at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck.{{url ref|url=https://www.dragonsteelbooks.com/pages/storydeck|text=Stormlight Lost Tales|site=dragonsteelbooks.com|name=Stormlight Lost Tales}} The cards featuring the story were later sold as card packs.{{ref|name=StoryDeck Box}} It was released in print on December 4th, 2025 at Dragonsteel Nexus 2025 as part of a double feature alongside [[Elsecaller (short story)|*Elsecaller*]].
+***King Lopen the First of Alethkar*** is a short story featuring [[Elhokar]] and [[Lopen]], co-written by [[Brandon Sanderson]] and [[Isaac Stewart]]. Part of [[The Stormlight Archive]] series, it is set during *[[Words of Radiance]]*. The story was released on December 5th, 2024 at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck. The cards featuring the story were later sold as card packs. It was released in print on December 4th, 2025 at Dragonsteel Nexus 2025 as part of a double feature alongside [[Elsecaller (short story)|*Elsecaller*]].
 
 == Synopsis==
 
@@ -27,7 +29,6 @@ The story was originally published not in a traditional book, but as part of the
 
 ## Statistical Analysis
 
-
 *King Lopen the First of Alethkar* consists of eleven sections, alternating in the PoV from Lopen to Elhokar.
 
 {|class="wikitable"
@@ -44,7 +45,5 @@ The story was originally published not in a traditional book, but as part of the
 
 ## Notes
 <references />
-{{meta/partial}}
-{{Stormlight}}
-{{books}}
+
 [[category: Stormlight Archive| 2.6]]

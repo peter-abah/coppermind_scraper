@@ -1,20 +1,20 @@
 ---
-merge-family: "y|parents=Marf"
-profession: "Conscripted into {{tag+|army|Amaram's"
+source_file: Agil.txt
+entity_type: character
+merge-family: y
+parents: '[[Marf]]'
+profession: Conscripted into army
+groups: army
+residence: Hearthstone
+nation: Alethkar
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[The Way of Kings]]'
 ---
 
-|groups={{tag+|army|Amaram's}}
-|residence=Hearthstone
-|nation=Alethkar
-|world=Roshar
-|universe=[[Cosmere]]
-|introduced=[[The Way of Kings]]
-}}
-**Agil** is a youth of [[Hearthstone]] in [[Alethkar]] on [[Roshar]].{{book ref|sa1|44}}
+**Agil** is a youth of [[Hearthstone]] in [[Alethkar]] on [[Roshar]].
 
-Agil was born to a man named [[Marf]].{{book ref|sa1|44}} In {{Rosharan date|1168|missing-date=y}}, when Highmarshal [[Meridas Amaram]] visited to Hearthstone to recruit men for his army, Citylord [[Roshone]] chooses Agil to be one of the men conscripted, along with [[Caull]], [[Habrin]], [[Jorna]] and [[Tien]].
+Agil was born to a man named [[Marf]]. In , when Highmarshal [[Meridas Amaram]] visited to Hearthstone to recruit men for his army, Citylord [[Roshone]] chooses Agil to be one of the men conscripted, along with [[Caull]], [[Habrin]], [[Jorna]] and [[Tien]].
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 10:53, 3 August 2018 (MST)}}
-{{Stormlight}}

@@ -1,29 +1,27 @@
 ---
-image: "Spook beldre first meeting.png"
-siblings: "Quellion"
-abilities: "{{tag+|coinshot"
+source_file: Beldre.txt
+entity_type: character
+image: Spook beldre first meeting.png
+siblings: '[[Quellion]]'
+abilities: coinshot
+groups: Originators, Preservers
+'''ethnicity': '[[Skaa]] and [[Noble]]'
+birthplace: Urteau
+residence: Urteau
+world: Scadrial
+universe: '[[Cosmere]]'
+introduced: '[[The Hero of Ages]]'
 ---
 
-|groups={{tag|Originators}}, {{tag|Preservers}}
-|'ethnicity=[[Skaa]] and [[Noble]]
-|birthplace=Urteau
-|residence=Urteau
-|world=Scadrial
-|universe=[[Cosmere]]
-|introduced=[[The Hero of Ages]]
-}}
-{{for|/Gallery|more images}}
-**Beldre** is a half-[[skaa]] and half-[[noble]]{{book ref|mb3|53}} [[steel]] [[Misting]] (aka a [[Coinshot]]){{book ref|mb3|58}} from [[Urteau]] on [[Scadrial]].
+**Beldre** is a half-[[skaa]] and half-[[noble]] [[steel]] [[Misting]] (aka a [[Coinshot]]) from [[Urteau]] on [[Scadrial]].
 
-She is [[Quellion]]'s sister. She has deep auburn hair, green eyes{{book ref|mb3|16}} and is described by [[Spook]] as being able to wear a [[skaa]] dress with "striking elegance".{{book ref|mb3|14}} Beldre is naive and trusting, and is aware of these traits. She also demonstrates her inexperience when she shows up alone at Spook's hideout.
+She is [[Quellion]]'s sister. She has deep auburn hair, green eyes and is described by [[Spook]] as being able to wear a [[skaa]] dress with "striking elegance". Beldre is naive and trusting, and is aware of these traits. She also demonstrates her inexperience when she shows up alone at Spook's hideout.
 
-Beldre does not especially like confrontation, but will stand up for what she believes is right. When Spook first causes a scene during one of Quellion's speeches, she uses her [[Allomancy]] to stop him from killing one of the guards with a sword, although Spook assumes that Quellion is the Coinshot.{{book ref|mb3|16}}
+Beldre does not especially like confrontation, but will stand up for what she believes is right. When Spook first causes a scene during one of Quellion's speeches, she uses her [[Allomancy]] to stop him from killing one of the guards with a sword, although Spook assumes that Quellion is the Coinshot.
 
-She later reveals herself as a Coinshot when defending her brother from Spook's [[Ruin]]-influenced attempt at murder.{{book ref|mb3|58}}
+She later reveals herself as a Coinshot when defending her brother from Spook's [[Ruin]]-influenced attempt at murder.
 
-She has a relationship with Spook after the [[Catacendre]].{{msh ref|epilogue}}
+She has a relationship with Spook after the [[Catacendre]].
 
 ## Notes
 <references />
-{{partial}}
-{{Mistborn|Era 1}}

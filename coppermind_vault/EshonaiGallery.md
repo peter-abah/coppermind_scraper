@@ -1,3 +1,8 @@
+---
+source_file: EshonaiGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=200px name="Official Artwork">
 TWoK US Cover art.jpg | <center><small>by {{a|Michael Whelan}}</small></center> On *[[The Way of Kings]]* cover

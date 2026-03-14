@@ -1,16 +1,16 @@
-{{aspect
-|skills=History
-}}
-{{for|Tobias (Threnody)|the bounty hunter on Threnody}}
+---
+source_file: Tobias.txt
+entity_type: aspect
+skills: History
+---
+
 **Tobias** is one of [[Stephen Leeds]]' [[aspect]]s.
 
-He is a lanky, dark-skinned old man with white hair who is an expert on history and trivia.{{book ref|legion3|7}} He tends to ramble on about things and has been coined a walking Wikipedia.{{book ref|legion|6}} Stephen seems to find his voice quite comforting.{{book ref|legion|3}}{{book ref|legion2|1}}
+He is a lanky, dark-skinned old man with white hair who is an expert on history and trivia. He tends to ramble on about things and has been coined a walking Wikipedia. Stephen seems to find his voice quite comforting.
 
-His insanity is that he hallucinates about an astronaut named Stan in space who lives on a satellite, who occasionally sends him weather information. Stan is not one of Stephen's hallucinations, but is Tobias'. Stephen also mentions that Tobias has schizophrenia.{{book ref|legion|5}}
+His insanity is that he hallucinates about an astronaut named Stan in space who lives on a satellite, who occasionally sends him weather information. Stan is not one of Stephen's hallucinations, but is Tobias'. Stephen also mentions that Tobias has schizophrenia.
 
-Tobias dies from a stab wound inflicted by a nightmare version of [[Armando]].{{book ref|legion3|6}} This has a strange effect on Stephen, causing him to forget things like the Eiffel Tower.
+Tobias dies from a stab wound inflicted by a nightmare version of [[Armando]]. This has a strange effect on Stephen, causing him to forget things like the Eiffel Tower.
 
 ## Notes
 <references />
-{{partial}}
-{{Legion}}

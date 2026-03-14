@@ -1,3 +1,8 @@
+---
+source_file: Words of RadianceChapter index.txt
+entity_type: meta/partial
+---
+
 This page is for providing information on where chapter breaks fall in various editions of *[[Words of Radiance]]*, including both page numbers for print editions and timestamps for audiobooks.
 
 ### Chapter by Chapter Timestamps
@@ -455,6 +460,5 @@ This page is for providing information on where chapter breaks fall in various e
 | align="right" | 00:04:12
 |}
 
-{{meta/partial}}
 [[Category: Stormlight Archive|*2i]]
 [[Category: Chapter indices]]

@@ -1,19 +1,17 @@
-{{geography
-|type=Rock formation
-|'era=[[Era of Solitude]]
-|region=Frostlands
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
+---
+source_file: Triplets.txt
+entity_type: geography
+type: Rock formation
+'''era': '[[Era of Solitude]]'
+region: Frostlands
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
 
-{{merge|[[Frostlands]]}}
+The **Triplets** are a rock formation on the [[Frostlands]] on [[Roshar]].
 
-The **Triplets** are a rock formation on the [[Frostlands]] on [[Roshar]].{{book ref|sa3|43}}
-
-[[Moash]], [[Graves]], [[Febrth]], and [[Fia]] were near the Triplets when they were attacked by [[Fused]] who killed Graves, Febrth, and Fia, and took Moash captive.{{book ref|sa3|43}}
+[[Moash]], [[Graves]], [[Febrth]], and [[Fia]] were near the Triplets when they were attacked by [[Fused]] who killed Graves, Febrth, and Fia, and took Moash captive.
 
 ## Notes
 <references />
-{{complete}}
-{{Stormlight}}

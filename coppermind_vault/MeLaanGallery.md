@@ -1,3 +1,8 @@
+---
+source_file: MeLaanGallery.txt
+entity_type: article
+---
+
 ## Official Art
 <gallery mode="packed" heights=250px>
 MeLaan-MotP.png | <small><center>by {{a|Ben McSweeney}}</center></small> MeLaan as depicted in the *[[Mistborn Adventure Game]]*

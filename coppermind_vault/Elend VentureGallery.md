@@ -1,3 +1,8 @@
+---
+source_file: Elend VentureGallery.txt
+entity_type: article
+---
+
 ## Official Art
 <gallery mode="packed" heights=225px>
 Defending Preservation.jpg|<center><small>by [[Miranda Meeks]]</small></center>*Defending Preservation*, from *[[The Hero of Ages]]* leatherbound

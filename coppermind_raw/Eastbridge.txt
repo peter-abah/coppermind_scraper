@@ -1,0 +1,20 @@
+{{architecture
+|usage={{cat tag|Bridges|Bridge}}
+|city=Elendel
+|world=Scadrial
+|books=[[Shadows of Self]]
+}}
+'''Eastbridge''' is a large suspension bridge in [[Elendel]] spanning the [[Irongate River]].{{book ref|mb5|18}}
+
+The bridge is on the outermost ring-road of Elendel.{{map ref|Elendel}}{{book ref|mb5|18}} 
+
+The bridge itself has both a roadway and railway running over it.{{book ref|mb5|24}}
+
+[[Waxillium Ladrian]] stopped to think about things on the bridge after his meeting with [[Edwarn]]. He looks back into the city and observes that the city's electric lighting doesn't extend into the outskirts of Elendel past the bridge.{{book ref|mb5|18}}
+
+Wax then chases [[Bleeder]] onto the bridge for their final confrontation on and around the bridge.{{book ref|mb5|24}}
+
+== Notes == 
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 16:21, 11 August 2022 (UTC)}}
+{{Mistborn|Era 2}}

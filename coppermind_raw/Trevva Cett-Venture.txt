@@ -1,0 +1,13 @@
+{{character
+|profession=Actor
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 2]]
+}}
+
+'''Trevva Cett-Venture''' is an actor on [[Scadrial]]. In {{date|348|PC}}, they and [[Penelope Portreau]] re-enacted [[Waxillium Ladrian]]'s discovery of the [[Bands of Mourning]] on a daily basis at the [[Sovereign's temple]] as part of [[Basin Bill]]'s tour package to the area.{{file ref|The_Two_Seasons_broadsheet.jpg|''The Two Seasons'' broadsheet}}
+
+== Notes ==
+<references />
+{{complete|[[User:Truthwatch3r|Truthwatch3r]] ([[User talk:Truthwatch3r|talk]]) 21:29, 7 June 2023 (UTC)}}
+{{Mistborn|era 2}}

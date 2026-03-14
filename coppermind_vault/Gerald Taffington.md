@@ -1,15 +1,13 @@
 ---
-occupation: "{{cat tag|Scholars|Scholar"
+source_file: Gerald Taffington.txt
+entity_type: character
+earth: Rithmatist
+books: '[[The Rithmatist]]'
 ---
 
-|earth=Rithmatist
-|books=[[The Rithmatist]]
-}}
-**Gerald Taffington** is a scholar and author of *Postulations on the Possibility of New and Undiscovered Rithmatic Lines*.{{book ref|Rithmatist|11}}
+**Gerald Taffington** is a scholar and author of *Postulations on the Possibility of New and Undiscovered Rithmatic Lines*.
 
-His book was read by [[Andrew Nalizar]].{{book ref|Rithmatist|11}}
+His book was read by [[Andrew Nalizar]].
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 12:05, 26 December 2016 (MST)}}
-{{Rithmatist}}

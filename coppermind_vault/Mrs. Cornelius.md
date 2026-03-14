@@ -1,13 +1,14 @@
 ---
-residence: "Armedius Academy"
-earth: "Rithmatist"
-books: "The Rithmatist"
+source_file: Mrs. Cornelius.txt
+entity_type: character
+residence: Armedius Academy
+earth: Rithmatist
+books: '[[The Rithmatist]]'
 ---
 
-Mrs. **Cornelius** is a cleaning lady at [[Armedius Academy]]. She works with [[Joel Saxon]]'s mother and the two of them often converse during meals.{{book ref|Rithmatist|4}}
+Mrs. **Cornelius** is a cleaning lady at [[Armedius Academy]]. She works with [[Joel Saxon]]'s mother and the two of them often converse during meals.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 02:29, 21 March 2020 (UTC)}}
-{{Rithmatist}}
+
 [[Category: Titled characters]]

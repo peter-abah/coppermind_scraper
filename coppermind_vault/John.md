@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: John.txt
+entity_type: disambig
+---
 
 **John** may refer to:
 * [[John (Rithmatist)]], a [[Rithmatics]] student at [[Armedius Academy]]

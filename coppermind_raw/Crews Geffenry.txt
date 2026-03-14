@@ -1,0 +1,16 @@
+{{character
+|family=[[House Geffenry]]|relatives=[[Ardous Geffenry|Ardous]], [[Callins Geffenry|Callins]]
+|abilities={{tag+|Mistborn}}
+|ethnicity=Noble
+|world=Scadrial
+|universe=[[Cosmere]]
+|books=[[Mistborn Era 1]]
+}}
+'''Crews Geffenry''' is a [[noble]] [[Allomancer#Mistborn|Mistborn]] on [[Scadrial]].{{book ref|mb1|19}}
+
+He is implicated by [[Kelsier]] in the murder of [[Charrs Entrone]]. He is known to be a competent knife fighter.{{book ref|mb1|19}} Prior to Charrs' murder, Crews had been gambling with him. Additionally he had been petitioning [[House Tekiel]] for a stronger alliance. His cousins [[Ardous Geffenry|Ardous]] & [[Callins Geffenry|Callins]] are killed in retaliation.{{book ref|mb1|23}}
+
+== Notes ==
+<references />
+{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 11:57, 31 May 2018 (MST)}}
+{{Mistborn|Era 1}}

@@ -1,11 +1,12 @@
-{{lifeform
-|type=Plant
-|world=Roshar
-|universe=[[Cosmere]]
-}}
-**Eyes of Ishi** is a species of plant native to [[Jah Keved]] on [[Roshar]].{{Ref|text=While not mentioned to be native to Jah Keved in the Welcome to Roshar guide, the same image is used for a garden in Jah Keved in the Stormlight world Guide.}} It has an appearance similar to a bush, but with thick spikes sticking out. It also has large yellow flowers.{{rpg ref|wtr|6}}
+---
+source_file: Eyes of Ishi.txt
+entity_type: lifeform
+type: Plant
+world: Roshar
+universe: '[[Cosmere]]'
+---
+
+**Eyes of Ishi** is a species of plant native to [[Jah Keved]] on [[Roshar]]. It has an appearance similar to a bush, but with thick spikes sticking out. It also has large yellow flowers.
 
 ## Notes
 <references />
-{{complete}}
-{{Stormlight}}

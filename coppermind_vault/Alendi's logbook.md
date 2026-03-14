@@ -1,48 +1,52 @@
-<noinclude>{{literature
-|type=Journal
-|author=[[Alendi]]
-|language=[[Khlenni]]{{book ref|mb1|15}}
-|era=Classical Scadrial
-|world=Scadrial
-|universe=[[Cosmere]]
-|books=[[Mistborn Era 1]]
-}}
-{{quote
-|Sometimes I worry that I'm not the hero everyone thinks I am.
-|The first known sentence of the logbook.{{epigraph ref|mb1|prologue}}
-}}
+---
+source_file: Alendi's logbook.txt
+entity_type: literature
+type: Journal
+author: '[[Alendi]]'
+language: '[[Khlenni]]'
+era: Classical Scadrial
+world: Scadrial
+universe: '[[Cosmere]]'
+books: '[[Mistborn Era 1]]'
+---
 
-**Alendi's logbook** is a record of [[Alendi]]'s life, travels, and internal struggle accepting his assumed role as the [[Hero of Ages]].{{book ref|mb1|17}}
+<noinclude>
+
+> Sometimes I worry that I'm not the hero everyone thinks I am.
+> — The first known sentence of the logbook.
+
+**Alendi's logbook** is a record of [[Alendi]]'s life, travels, and internal struggle accepting his assumed role as the [[Hero of Ages]].
 
 ## Contents
-{{quote
-| If only he'd put in more detail about what things look like! [...] The Lord Ruler spent far too much time worrying.
-| [[Vin]] thinking about the logbook's contents.{{book ref|mb1|29}}
-}}
-In the logbook, while relating his travels, Alendi ponders and questions his decisions.{{book ref|mb1|21}}{{book ref|mb1|22}} He questions whether he really is the Hero of Ages,{{epigraph ref|mb1|prologue}} and reflects on the nature of the [[Terris Prophecies]].{{book ref|mb1|22}} He also ponders what he should do as the Hero of Ages, asserting that he *must* give up the power no matter what.{{epigraph ref|mb1|35}}{{epigraph ref|mb1|5}} Alendi didn't write the book for posterity, but rather to have a place to put his feelings on paper, to stay sane.{{book ref|mb1|16}}
 
-The logbook goes into detail about Alendi's travels, including several supply lists.{{book ref|mb1|22}} Though it doesn't describe all of his journey's sights in detail, the journal describes some of the things, such as the ice fields and waterfalls in [[Terris]].{{book ref|mb1|29}} It also says how the [[Deepness]] is dangerous, though it does not specify what it is.{{book ref|mb2|16}} It describes the start of Alendi's journey, and how he met [[Kwaan]].{{epigraph ref|mb1|19}} The book mentions both [[Allomancy]] and [[Feruchemy]], but it doesn't compare the two of them. It also does not mention the [[Malatium|Eleventh Metal]].{{book ref|mb1|27}}
+> If only he'd put in more detail about what things look like! [...] The Lord Ruler spent far too much time worrying.
+> — [[Vin]] thinking about the logbook's contents.
+
+In the logbook, while relating his travels, Alendi ponders and questions his decisions. He questions whether he really is the Hero of Ages, and reflects on the nature of the [[Terris Prophecies]]. He also ponders what he should do as the Hero of Ages, asserting that he *must* give up the power no matter what. Alendi didn't write the book for posterity, but rather to have a place to put his feelings on paper, to stay sane.
+
+The logbook goes into detail about Alendi's travels, including several supply lists. Though it doesn't describe all of his journey's sights in detail, the journal describes some of the things, such as the ice fields and waterfalls in [[Terris]]. It also says how the [[Deepness]] is dangerous, though it does not specify what it is. It describes the start of Alendi's journey, and how he met [[Kwaan]]. The book mentions both [[Allomancy]] and [[Feruchemy]], but it doesn't compare the two of them. It also does not mention the [[Malatium|Eleventh Metal]].
 
 ### The trip to the Well
-A large section of the logbook describes Alendi's travel toward the [[Well of Ascension]] in Terris. It describes the people and some of the sights, and the path he takes through the mountains.{{epigraph ref|mb1|3}}{{epigraph ref|mb1|4}} It also describes the [[Preservation|mist spirit]]'s  appearances, and how it stabbed [[Fedik]].{{book ref|mb2|16}}{{epigraph ref|mb1|33}} The journal also describes [[Rashek]]'s feelings for Alendi and his influence among his people.{{epigraph ref|mb1|7}}{{epigraph ref|mb1|11}}
+A large section of the logbook describes Alendi's travel toward the [[Well of Ascension]] in Terris. It describes the people and some of the sights, and the path he takes through the mountains. It also describes the [[Preservation|mist spirit]]'s  appearances, and how it stabbed [[Fedik]]. The journal also describes [[Rashek]]'s feelings for Alendi and his influence among his people.
 
 ## History
 ### The skaa rebellion
-Vin found the logbook beside an altar when she and [[Kelsier]] snuck into [[Kredik Shaw]]. She used the book as a shield, to defend herself from the [[Inquisitor]]s.{{book ref|mb1|14}} [[Sazed]] took the book with him when he rescued Vin that night.{{book ref|mb1|15}} Sazed was very excited about the book, and immediately set out to translate it.{{book ref|mb1|17}} Throughout the course of the rebellion's progress, Sazed worked on translating the logbook and provided portions to [[Kelsier's crew]] as he completed them;{{book ref|mb1|21}} some of [[Clubs]]'s apprentices assisted by making copies of completed translations for members of the crew to read.{{book ref|mb1|17}}
+Vin found the logbook beside an altar when she and [[Kelsier]] snuck into [[Kredik Shaw]]. She used the book as a shield, to defend herself from the [[Inquisitor]]s. [[Sazed]] took the book with him when he rescued Vin that night. Sazed was very excited about the book, and immediately set out to translate it. Throughout the course of the rebellion's progress, Sazed worked on translating the logbook and provided portions to [[Kelsier's crew]] as he completed them; some of [[Clubs]]'s apprentices assisted by making copies of completed translations for members of the crew to read.
 
-The crew assumed the [[Lord Ruler]] had been the book's author, because he claimed to have been the [[Hero of Ages]] and said he must defeat the Deepness.{{book ref|mb1|17}} When Sazed was done translating it, Vin was disappointed because it had ended before speaking of what Alendi did to save the world, and Kelsier was disappointed because it didn't mention the [[Eleventh Metal]].{{book ref|mb1|29}} However, the logbook led to Vin's discovery that the Lord Ruler was Rashek, not Alendi; she found that out because both Rashek and the Lord Ruler said his people should be dominant.{{book ref|mb1|38}}
+The crew assumed the [[Lord Ruler]] had been the book's author, because he claimed to have been the [[Hero of Ages]] and said he must defeat the Deepness. When Sazed was done translating it, Vin was disappointed because it had ended before speaking of what Alendi did to save the world, and Kelsier was disappointed because it didn't mention the [[Eleventh Metal]]. However, the logbook led to Vin's discovery that the Lord Ruler was Rashek, not Alendi; she found that out because both Rashek and the Lord Ruler said his people should be dominant.
 
 ### After the Collapse
-After the [[Collapse]], Vin studied her copy of the logbook, trying to find out what was the [[Preservation|mist spirit]] and searching for references to the [[Deepness]].{{book ref|mb2|16}}{{book ref|mb2|17}} That led her to the conclusion that the [[mist]]s were the Deepness,{{book ref|mb2|30}} and that she was the Hero of Ages.{{book ref|mb2|33}}
+After the [[Collapse]], Vin studied her copy of the logbook, trying to find out what was the [[Preservation|mist spirit]] and searching for references to the [[Deepness]]. That led her to the conclusion that the [[mist]]s were the Deepness, and that she was the Hero of Ages.
 
 ## Known Text
 **Note:** The precise order of all passages is uncertain.
 {| class="mw-collapsible mw-collapsed" width=100%
 |-
-|{{copyright}}
+|
 |-
 |
-{{quote|</noinclude>
+
+> </noinclude>
 Sometimes I worry that I'm not the hero everyone thinks I am.
 <br />
 What proof do we have? The words of men long dead, only now deemed divinatory? Even if we accept the prophecies, only tenuous interpretation links them to me. Is my defense of the [[Summer Hill]] really the "Burden by which the Hero shall be dubbed"? My several marriages could give me a "Bloodless bond to the world's kings," if you look at it the right way. There are dozens of similar phrases that could refer to events in my life. But, then again, they could all just be coincidences.
@@ -252,16 +256,17 @@ Is this a burden that any man should bear? Is this a temptation any man could re
 Such are my fears as I scribble with an ice-crusted pen on the eve before the world is reborn. Rashek watches. Hating me. The cavern lies above. Pulsing. My fingers quiver. Not from the cold.
 <br />
 Tomorrow, it will end.
-<noinclude>|Alendi's Journal}}
+<noinclude>
+> — Alendi's Journal
+
 |}
 
 ## Trivia
-* [[Rashek]] didn't destroy the journal because [[Ruin]] manipulated his nostalgia in order to keep the book around.{{wob ref|4416}}
+* [[Rashek]] didn't destroy the journal because [[Ruin]] manipulated his nostalgia in order to keep the book around.
 * The [[The Final Empire/Epigraphs|epigraphs]] of the first [[Mistborn (series)|Mistborn]] book, *[[The Final Empire]]*, are excerpts from the logbook.
 
 ## Notes
 <references />
-{{complete}}
-{{Mistborn|Era 1}}
+
 [[category: Objects and Materials]]
 [[category: possessive articles]]

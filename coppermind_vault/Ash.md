@@ -1,4 +1,7 @@
-{{Disambig}}
+---
+source_file: Ash.txt
+entity_type: disambig
+---
 
 Ash refers to two things:
 *[[Shalash]] - A Herald of the Almighty

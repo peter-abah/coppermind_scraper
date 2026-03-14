@@ -1,4 +1,7 @@
-{{CoverToC|skyward}}
+---
+source_file: Cytonic (book)Covers.txt
+entity_type: covertoc
+---
 
 This is a gallery for all known covers for *[[Cytonic (book)|Cytonic]]*. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
 

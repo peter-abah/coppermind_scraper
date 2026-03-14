@@ -1,14 +1,14 @@
 ---
-profession: "{{cat tag|Scholars"
+source_file: Guyn.txt
+entity_type: character
+residence: Silverlight
+universe: '[[Cosmere]]'
+books: '[[Arcanum Unbounded]]'
 ---
 
-|residence=Silverlight
-|universe=[[Cosmere]]
-|books=[[Arcanum Unbounded]]
-}}
 **Guyn** is a scholar and celestial mapmaker from [[Silverlight]] mentioned by [[Khriss]] in her essays on the cosmere.
 
-Khriss's essay on the [[Scadrian system]] mentions that Guyn's maps show multiple orbits for [[Scadrial]] due to the movements by [[Rashek]], [[Vin]] and [[Sazed]] during their ascensions.{{au ref|Scadrian}}
+Khriss's essay on the [[Scadrian system]] mentions that Guyn's maps show multiple orbits for [[Scadrial]] due to the movements by [[Rashek]], [[Vin]] and [[Sazed]] during their ascensions.
 
 ==Known works==
 <gallery widths=3000px heights=300px mode="packed" caption="Maps">
@@ -23,6 +23,5 @@ Starchart nalthis color.jpg | [[Nalthian system]]
 
 ## Notes
 <references />
-{{complete|[[User:Fbstj|Joe ST]] ([[User talk:Fbstj|talk]]) 11:16, 12 November 2017 (MST)}}
-{{Cosmere}}
+
 [[es: Guyn]]

@@ -1,16 +1,14 @@
 ---
-#profession: "Soldier"
-ethnicity: "Shin"
-world: "Roshar"
-universe: "Cosmere"
-introduced: "Wind and Truth"
+source_file: Betheth-son-Vetor.txt
+entity_type: character
+'#profession': Soldier
+ethnicity: Shin
+world: Roshar
+universe: '[[Cosmere]]'
+introduced: '[[Wind and Truth]]'
 ---
 
-{{update|sa5}}
-
-**Betheth-son-Vetor** is the captain of recruitment and discipline at the soldier camp near the [[Shin]] [[Stoneward monastery]] on [[Roshar]].{{book ref|sa5|51}}
+**Betheth-son-Vetor** is the captain of recruitment and discipline at the soldier camp near the [[Shin]] [[Stoneward monastery]] on [[Roshar]].
 
 ## Notes
 <references />
-{{stub}}
-{{Stormlight}}

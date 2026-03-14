@@ -1,17 +1,17 @@
 ---
-abilities: "{{tag|Returned"
+source_file: Giftbeacon.txt
+entity_type: character
+abilities: Returned, Cognitive Shadow
+residence: T'Telir
+nation: Hallandren
+world: Nalthis
+universe: '[[Cosmere]]'
+books: '[[Warbreaker]]'
 ---
 
-, {{tag+|Cognitive Shadow}}
-|residence=T'Telir
-|nation=Hallandren
-|world=Nalthis
-|universe=[[Cosmere]]
-|books=[[Warbreaker]]
-}}
-**Giftbeacon** is a [[Returned]] that is worshiped as a god in [[Hallandren]] on [[Nalthis]].{{book ref|wb|21}}
+**Giftbeacon** is a [[Returned]] that is worshiped as a god in [[Hallandren]] on [[Nalthis]].
 
-Around the year 327, Giftbeacon lived in the [[Court of the Gods]] in [[T'Telir]], and was a lesser god in the court, having little in the way of political influence.{{book ref|wb|21}}
+Around the year 327, Giftbeacon lived in the [[Court of the Gods]] in [[T'Telir]], and was a lesser god in the court, having little in the way of political influence.
 
 ## Attributes and Abilities
 As a [[Returned]], Giftbeacon has a [[divine Breath]] which gives them the benefits of being on the [[Fifth Heightening]]. This includes:
@@ -23,5 +23,3 @@ As a [[Returned]], Giftbeacon has a [[divine Breath]] which gives them the benef
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 19:24, 28 May 2022 (UTC)}}
-{{Warbreaker}}

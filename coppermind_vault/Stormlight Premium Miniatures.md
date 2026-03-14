@@ -1,16 +1,16 @@
-{{media
-|image=Stormlight Premium Miniatures.png
-|released=November 10, 2023
-|'publisher=[https://www.brotherwisegames.com Brotherwise Games]
-|setting=[[Cosmere]], [[Roshar]]
-}}
+---
+source_file: Stormlight Premium Miniatures.txt
+entity_type: media
+image: Stormlight Premium Miniatures.png
+released: November 10, 2023
+'''publisher': '[https://www.brotherwisegames.com Brotherwise Games]'
+setting: '[[Cosmere]], [[Roshar]]'
+---
 
-{{quote
-|The focus of this project is on unpainted plastic miniatures with a high level of quality and detail. We’ve also created other collectibles, including a high-end statue and a select number of painted figurines. Whether you're a collector, a painter, a tabletop RPG player, or just a fan of the books, Stormlight Premium Collectibles are for you.
-|Brotherwise Games{{ref|name=bwg}}
-}}
+> The focus of this project is on unpainted plastic miniatures with a high level of quality and detail. We’ve also created other collectibles, including a high-end statue and a select number of painted figurines. Whether you're a collector, a painter, a tabletop RPG player, or just a fan of the books, Stormlight Premium Collectibles are for you.
+> — Brotherwise Games
 
-***Stormlight Premium Miniatures*** was a Kickstarter campaign by Brotherwise Games that released in 2023.{{ref|name=bwg}} The campaign's goal was set at $50,000, and the project ended with 21,966 backers and $4,103,311 in funding.{{url ref|url=https://www.kickstarter.com/projects/brotherwise/stormlight-premium-miniatures|text=Kickstarter Campaign|site=Kickstarter|name=KickstarterCampaign}} The campaign released over 40 official and canonically designed character miniatures from the [[The Stormlight Archive]]. Miniatures were separated into packs, with roughly seven miniatures in each and miniatures were sold as either painted or unpainted. Extras were sold on Brandon's website after the Kickstarter ended.{{url ref|url=https://www.dragonsteelbooks.com/collections/brotherwise-games/products/kaladin-painted-premium-figure|text=Dragonsteel|site=dragonsteelbooks.com|name=Dragonsteel}}
+***Stormlight Premium Miniatures*** was a Kickstarter campaign by Brotherwise Games that released in 2023. The campaign's goal was set at $50,000, and the project ended with 21,966 backers and $4,103,311 in funding. The campaign released over 40 official and canonically designed character miniatures from the [[The Stormlight Archive]]. Miniatures were separated into packs, with roughly seven miniatures in each and miniatures were sold as either painted or unpainted. Extras were sold on Brandon's website after the Kickstarter ended.
 <br style="clear:right;">
 
 ## Gallery
@@ -61,10 +61,8 @@ Clashing Storms Statue.png | <center><small>by {{a|Isaac Stewart}}</small></cent
 
 ## Notes
 <references>
-{{url ref|name=bwg|url=https://www.brotherwisegames.com/stormlight-miniatures|text=Stormlight Premium Miniatures|site=Brotherwise Games}}
+
 </references>
-{{meta/partial}}
-{{Stormlight}}
 
 [[Category: Media]]
 [[Category: Meta]]

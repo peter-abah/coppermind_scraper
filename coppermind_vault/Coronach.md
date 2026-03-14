@@ -1,3 +1,8 @@
+---
+source_file: Coronach.txt
+entity_type: article
+---
+
 #REDIRECT [[Threnodite system#Planets]]
 [[Category: Locations]]
 [[Category: Shadows for Silence]]

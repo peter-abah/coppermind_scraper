@@ -1,24 +1,25 @@
-{{lifeform
-|type={{cat tag|Food|Fruit}}
-|world=Roshar
-|universe=[[Cosmere]]
-|books=[[The Stormlight Archive]]
-}}
-The **truthberry** is a fruit that grows in [[Azir]] on [[Roshar]].{{book ref|sa1|42}}
+---
+source_file: Truthberry.txt
+entity_type: lifeform
+world: Roshar
+universe: '[[Cosmere]]'
+books: '[[The Stormlight Archive]]'
+---
+
+The **truthberry** is a fruit that grows in [[Azir]] on [[Roshar]].
 
 ## Uses
-The smoke from leaves and stalks of the truthberry plant can be intoxicating and induce euphoria when inhaled. The berries are edible and do not have any harmful side effects.{{book ref|sa1|42}}
+The smoke from leaves and stalks of the truthberry plant can be intoxicating and induce euphoria when inhaled. The berries are edible and do not have any harmful side effects.
 
-Jam is frequently made from the berries.{{book ref|sa1|42}}
+Jam is frequently made from the berries.
 
 ## Lore
-Legends say that after consuming either the berry or jam made from it, one will speak the truth until the next sunset. People often gather to burn the leaves and stalks and eat the berries. This often results in "rather interesting nights."{{book ref|sa1|42}}
+Legends say that after consuming either the berry or jam made from it, one will speak the truth until the next sunset. People often gather to burn the leaves and stalks and eat the berries. This often results in "rather interesting nights."
 
 ## History
-[[Shallan]] and [[Kabsal]] ate some truthberry jam while on a picnic together. When he told her about the legend behind its name, she remarked that she is surprised that they are not called birthberries.{{book ref|sa1|42}}
+[[Shallan]] and [[Kabsal]] ate some truthberry jam while on a picnic together. When he told her about the legend behind its name, she remarked that she is surprised that they are not called birthberries.
 
 ## Notes
 <references />
-{{complete|[[User:Chaos2651|Chaos2651]] ([[User talk:Chaos2651|talk]]) 14:10, 11 September 2018 (MST)}}
-{{Stormlight}}
+
 [[Category: Rosharan food]]

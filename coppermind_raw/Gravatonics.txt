@@ -1,0 +1,14 @@
+{{quote
+| Gravatonics couldn't make things fly; they were just used to reduce recoil or to make heavy items easier to move.
+| David, about gravatonics{{book ref|Steelheart|28}}
+}}
+'''Gravatonics''' is a technology in [[The Reckoners]] series. Like many other kinds of technology, it was developed after the Calamity. Presumably it allows some kind of gravity manipulation, in particular, decreasing the effect of gravity, or even inertia on the object{{book ref|Steelheart|14}}. It does not, however, allow objects to fly or hover.
+
+Gravatonics applied to objects looks like palm-sized glowing ovals. The color of the glow can vary. The rings can be chipped and/or cracked on impact, decreasing their efficiency.
+
+Gravatonics are often used for guns, both to ease transportation and operation{{book ref|Steelheart|5}} and to reduce the recoil{{book ref|Steelheart|28}}. Other uses includes belts that allow things to be carried more easily{{book ref|Steelheart|27}} and motorcycle stabilization that allows bikes to tilt at the angle that would normally lead to a crash{{book ref|Steelheart|28}}, and softens the landings in case of jumps.
+
+== Notes ==
+<references />
+{{partial}}
+{{Reckoners}}

@@ -1,4 +1,7 @@
-{{disambig}}
+---
+source_file: Song.txt
+entity_type: disambig
+---
 
 **Song** may refer to two different characters from Roshar:
 * [[Tuaka]], the wife of [[Lunamor]]

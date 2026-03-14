@@ -1,0 +1,15 @@
+{{character
+|world=Komashi
+|universe=[[Cosmere]]
+|introduced=[[Yumi and the Nightmare Painter]]
+}}
+
+'''Lady Hinobi''' is a fictional character featured in the [[hion viewer]] program ''[[Seasons of Regret]]'', which is a historical drama. Hinobi is typically displayed using magenta [[hion]] lines. She is in love with Sir [[Ashinata]], a ronin whom she is forbidden to be with.{{book ref|yumi|25}}
+
+After her first kiss with Ashinata, the warrior announces that he has to leave forever, due to a threat set in motion by his dead, evil brother. Ashinata returns to her in a surprise finale episode.{{book ref|yumi|33}}
+
+== Notes ==
+<references />
+{{complete|[[User:Taln Fan|Taln Fan]] ([[User talk:Taln Fan|talk]]) 23:02, 15 October 2024 (UTC)}}
+{{yumi}}
+[[es:Hinobi]]

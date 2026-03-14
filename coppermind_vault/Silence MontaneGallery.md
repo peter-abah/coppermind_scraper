@@ -1,3 +1,8 @@
+---
+source_file: Silence MontaneGallery.txt
+entity_type: article
+---
+
 ## Official artwork
 <gallery mode="packed" heights=300px caption="Official artwork">
 Silence portrait.jpg | <center><small>by [[Miranda Meeks]]</small></center> On the cover of *[[Shadows for Silence]]*
