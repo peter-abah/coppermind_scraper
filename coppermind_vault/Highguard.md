@@ -1,8 +1,0 @@
----
-source_file: Highguard.txt
-entity_type: disambig
----
-
-**Highguard** refers to two distinct things:
-* [[Highguard (Roshar)]]: A title given to the five [[Thaylen]] [[Shardwielding|Shardwielders]]
-* [[Highguard (Dark One)]]: A mountain or fortress in the [[Kingdoms of Light]] on [[Mirandus]]

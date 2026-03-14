@@ -1,8 +1,0 @@
----
-source_file: Yazad.txt
-entity_type: disambig
----
-
-**Yazad** is the name of two distinct characters in Brandon's works:
-* [[Yazad (Sel)]], the Emperor of the [[Rose Empire]] before [[Ashravan]]
-* [[Yazad (Frugal Wizard)]], a Zoroastrian preacher in *[[The Frugal Wizard's Handbook for Surviving Medieval England]]*

@@ -1,2 +1,0 @@
-#redirect[[koloss]]
-[[category: terminology]]

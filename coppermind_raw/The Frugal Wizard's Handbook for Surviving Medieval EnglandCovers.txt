@@ -1,9 +1,0 @@
-This is a gallery for all known covers for ''[[{{b|frugal}}]]''. For more information about each cover, including other editions and translations using the same art, check each file's individual page. 
-
-<gallery widths=3000px heights=400px mode="packed">
-Frugal Wizard US Dragonsteel Cover.jpg | <center>United States</center> (Dragonsteel)
-Frugal Wizard US Tor Cover.jpg | <center>United States</center> (Tor)
-Frugal Wizard FR Cover.jpg | <center>France</center> (Le Livre de Poche)
-</gallery> 
-
-[[Category:Cover Galleries]]

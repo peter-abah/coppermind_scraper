@@ -1,9 +1,0 @@
----
-source_file: Turquoise.txt
-entity_type: aspect
----
-
-**Turqoise** is one of [[Stephen Leeds]]' older [[aspect]]s. He speaks with a "weird mix of a Texas accent and a stoner drawl." He presumably is an expert on art, drawing [[Kyle Walters]] for Stephen to help identify him. Stephen thinks that he is a strange person.
-
-## Notes
-<references />

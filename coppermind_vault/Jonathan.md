@@ -1,8 +1,0 @@
----
-source_file: Jonathan.txt
-entity_type: disambig
----
-
-**Jonathan** is the name of two separate characters:
-* [[Jonathan Phaedrus]], the founder and leader of the [[Reckoners]]
-* [[Jonathan Gentry]], a nanite researcher; the husband of [[Holly Winseed (Original)|Holly Winseed]]

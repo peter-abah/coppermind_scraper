@@ -1,9 +1,0 @@
----
-source_file: Fathom.txt
-entity_type: disambig
----
-
-**Fathom** can refer to several different things:
-* [[Fathom tree]], a type of tree on [[Roshar]] whose bark has medicinal properties
-* [[Fathom (Epic)]], an [[Epic]] with the power to see the aspects of things he looks at
-* [[Fathom radar]], a [[motivator]] made from Fathom's DNA
